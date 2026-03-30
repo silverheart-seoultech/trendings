@@ -1,12 +1,15 @@
 // =============================================
-// AI Agent Trends — App Controller
+// AI Agent Trends — App Controller v2
 // =============================================
 
 const BASE = 'data';
 let toolsData = null;
 let ghTrending = null;
 let hfTrending = null;
+let benchData = null;
+let articlesData = null;
 let activeCat = 'all';
+let activeBench = 0;
 let query = '';
 
 /* ---- Icons ---- */
@@ -16,6 +19,8 @@ const I = {
   link: `<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M6.5 11.5 4 14a2.12 2.12 0 0 1-3-3l2.5-2.5M9.5 4.5 12 2a2.12 2.12 0 0 1 3 3l-2.5 2.5M6 10l4-4"/></svg>`,
   dl: `<svg viewBox="0 0 16 16" fill="currentColor"><path d="M2.75 14A1.75 1.75 0 0 1 1 12.25v-2.5a.75.75 0 0 1 1.5 0v2.5c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25v-2.5a.75.75 0 0 1 1.5 0v2.5A1.75 1.75 0 0 1 13.25 14zM7.25 7.689V2a.75.75 0 0 1 1.5 0v5.689l1.97-1.969a.749.749 0 1 1 1.06 1.06l-3.25 3.25a.749.749 0 0 1-1.06 0L4.22 6.78a.749.749 0 1 1 1.06-1.06z"/></svg>`,
   heart: `<svg viewBox="0 0 16 16" fill="currentColor"><path d="m8 14.25-.345-.666C3.457 8.322 1.5 6.45 1.5 4.414 1.5 2.756 2.756 1.5 4.414 1.5 5.368 1.5 6.283 1.95 7 2.673V2.67C7.717 1.95 8.632 1.5 9.586 1.5c1.658 0 2.914 1.256 2.914 2.914 0 2.036-1.957 3.908-6.155 9.17z"/></svg>`,
+  clock: `<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="8" cy="8" r="6.5"/><path d="M8 4v4l2.5 1.5"/></svg>`,
+  article: `<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M2 3h12M2 6.5h12M2 10h8M2 13.5h5"/></svg>`,
 };
 
 /* ---- Formatters ---- */
@@ -25,7 +30,6 @@ function fmt(n) {
   if (n >= 1e3) return (n / 1e3).toFixed(1) + 'K';
   return n.toLocaleString();
 }
-
 function timeAgo(s) {
   if (!s) return '';
   const d = (Date.now() - new Date(s)) / 1000;
@@ -34,34 +38,46 @@ function timeAgo(s) {
   if (d < 2592000) return Math.floor(d / 86400) + 'd ago';
   return new Date(s).toLocaleDateString('ko-KR');
 }
-
 function esc(s) { const d = document.createElement('div'); d.textContent = s; return d.innerHTML; }
+function sClass(v) { return v >= 85 ? 's-high' : v >= 65 ? 's-mid' : 's-low'; }
 
-function sClass(v) {
-  if (v >= 85) return 's-high';
-  if (v >= 65) return 's-mid';
-  return 's-low';
+/* ---- Simple Markdown to HTML ---- */
+function md(text) {
+  return text
+    .replace(/^## (.+)$/gm, '<h2>$1</h2>')
+    .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+    .replace(/`(.+?)`/g, '<code>$1</code>')
+    .replace(/\n\n/g, '</p><p>')
+    .replace(/^- (.+)$/gm, '<li>$1</li>')
+    .replace(/(<li>.*<\/li>)/gs, '<ul>$1</ul>')
+    .replace(/^(?!<[hup]|<li|<ul)/gm, '<p>')
+    .replace(/\n/g, '<br>');
 }
 
 /* ---- Data Loading ---- */
 async function boot() {
-  const [t, g, h] = await Promise.allSettled([
+  const [t, g, h, b, a] = await Promise.allSettled([
     fetch(`${BASE}/tools.json`).then(r => r.json()),
     fetch(`${BASE}/github_trending.json`).then(r => r.json()),
     fetch(`${BASE}/hf_trending.json`).then(r => r.json()),
+    fetch(`${BASE}/benchmarks.json`).then(r => r.json()),
+    fetch(`${BASE}/articles.json`).then(r => r.json()),
   ]);
   if (t.status === 'fulfilled') toolsData = t.value;
   if (g.status === 'fulfilled') ghTrending = g.value;
   if (h.status === 'fulfilled') hfTrending = h.value;
+  if (b.status === 'fulfilled') benchData = b.value;
+  if (a.status === 'fulfilled') articlesData = a.value;
   render();
 }
 
-/* ---- Render ---- */
+/* ---- Render All ---- */
 function render() {
   renderUpdated();
   renderTabs();
   renderStats();
   renderTools();
+  renderBenchmarks();
   renderGH();
   renderHF();
 }
@@ -104,6 +120,7 @@ function renderStats() {
   document.getElementById('trendingCount').textContent = ghTrending?.ai_trending?.length || 0;
 }
 
+/* ---- Tools Grid ---- */
 function renderTools() {
   if (!toolsData?.tools) return;
   const grid = document.getElementById('toolsGrid');
@@ -128,15 +145,19 @@ function renderTools() {
   const cats = {};
   (toolsData.categories || []).forEach(c => cats[c.id] = c);
 
+  // Check which tools have articles
+  const articleIds = new Set((articlesData?.articles || []).map(a => a.tool_id));
+
   grid.innerHTML = list.map(t => {
     const c = cats[t.category] || {};
+    const hasArticle = articleIds.has(t.id);
     return `
     <div class="tool-card" data-id="${t.id}">
       <div class="card-top">
         <span class="card-cat cat-${t.category}">${c.icon || ''} ${c.name_en || t.category}</span>
         <span class="card-score ${sClass(t.trending_score||0)}">${t.trending_score||0}</span>
       </div>
-      <div class="card-name">${t.name}</div>
+      <div class="card-name">${t.name} ${hasArticle ? '<span style="font-size:12px;color:var(--accent-l);margin-left:4px" title="Deep Dive article available">' + I.article + '</span>' : ''}</div>
       <div class="card-desc">${t.description}</div>
       <div class="card-meta">
         ${t.stars ? `<span class="meta-item stars-item">${I.star} ${fmt(t.stars)}</span>` : ''}
@@ -154,6 +175,62 @@ function renderTools() {
       if (tool) openModal(tool);
     })
   );
+}
+
+/* ---- Benchmarks ---- */
+function renderBenchmarks() {
+  if (!benchData?.benchmarks?.length) {
+    document.getElementById('benchContent').innerHTML =
+      '<div class="placeholder-loader small"><p style="font-size:12px;color:var(--text-3)">No benchmark data available</p></div>';
+    return;
+  }
+
+  const tabs = document.getElementById('benchTabs');
+  tabs.innerHTML = benchData.benchmarks.map((b, i) =>
+    `<button class="bench-tab ${i === 0 ? 'active' : ''}" data-idx="${i}">${b.name}</button>`
+  ).join('');
+
+  tabs.addEventListener('click', e => {
+    const btn = e.target.closest('.bench-tab');
+    if (!btn) return;
+    tabs.querySelectorAll('.bench-tab').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    activeBench = parseInt(btn.dataset.idx);
+    renderBenchTable();
+  });
+
+  renderBenchTable();
+}
+
+function renderBenchTable() {
+  const b = benchData.benchmarks[activeBench];
+  if (!b) return;
+  const wrap = document.getElementById('benchContent');
+
+  wrap.innerHTML = `
+    <div class="bench-info">
+      <div>
+        <div class="bench-name">${b.name}</div>
+        <div class="bench-desc">${b.description}</div>
+      </div>
+      <a class="bench-source" href="${b.source_url}" target="_blank" rel="noopener">Source &rarr;</a>
+    </div>
+    <table class="bench-table">
+      <thead>
+        <tr><th>#</th><th>Model / Agent</th><th>Score</th><th>Organization</th></tr>
+      </thead>
+      <tbody>
+        ${b.entries.map(e => `
+          <tr>
+            <td class="rank-cell ${e.rank <= 3 ? 'top' : ''}">${e.rank}</td>
+            <td><strong>${e.name}</strong></td>
+            <td class="score-cell">${e.score}${e.unit === '%' ? '%' : ' ' + e.unit}</td>
+            <td class="org-cell">${e.org}</td>
+          </tr>
+        `).join('')}
+      </tbody>
+    </table>
+  `;
 }
 
 /* ---- GitHub Trending ---- */
@@ -204,12 +281,14 @@ function openModal(t) {
   (toolsData.categories || []).forEach(c => cats[c.id] = c);
   const c = cats[t.category] || {};
 
-  // Syntax highlight the install guide
   function highlight(code) {
     return esc(code)
       .replace(/^(#.*)/gm, '<span class="comment">$1</span>')
       .replace(/(pip install|npm install|docker run|git clone|brew install|curl|conda|python3?|npx)\b/g, '<span class="cmd">$1</span>');
   }
+
+  // Find article for this tool
+  const article = (articlesData?.articles || []).find(a => a.tool_id === t.id);
 
   body.innerHTML = `
     <div class="modal-cat">
@@ -228,6 +307,17 @@ function openModal(t) {
       <div class="m-stat"><div class="m-stat-val">${t.trending_score||'-'}</div><div class="m-stat-lbl">Trend Score</div></div>
       <div class="m-stat"><div class="m-stat-val">${t.license||'-'}</div><div class="m-stat-lbl">License</div></div>
     </div>
+
+    ${article ? `
+    <div class="m-section">
+      <h3 class="m-section-title">Deep Dive</h3>
+      <div class="article-meta">
+        <span class="article-meta-item">${I.article} ${article.title}</span>
+        <span class="article-meta-item">${I.clock} ${article.read_time} min read</span>
+      </div>
+      <div class="article-body" id="articleBody">${md(article.content)}</div>
+    </div>
+    ` : ''}
 
     ${t.key_features ? `
     <div class="m-section">

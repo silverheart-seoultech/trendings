@@ -27,6 +27,7 @@ TOOLS_FILE = DATA_DIR / "tools.json"
 GITHUB_TRENDING_FILE = DATA_DIR / "github_trending.json"
 HF_TRENDING_FILE = DATA_DIR / "hf_trending.json"
 NEWS_FILE = DATA_DIR / "news.json"
+GEEKNEWS_FILE = DATA_DIR / "geeknews.json"
 
 
 def save_json(filepath, data):
@@ -159,6 +160,52 @@ def fetch_hf_trending_spaces(limit=20):
         return spaces
     except Exception as e:
         logger.error(f"Failed to fetch HuggingFace spaces: {e}")
+        return []
+
+
+def fetch_geeknews_ai():
+    """Fetch AI-related posts from GeekNews (news.hada.io)."""
+    url = "https://news.hada.io/new"
+    logger.info("Fetching GeekNews AI posts")
+    try:
+        resp = requests.get(url, headers=HEADERS, timeout=30)
+        resp.raise_for_status()
+        soup = BeautifulSoup(resp.text, "html.parser")
+        posts = []
+        ai_keywords = [
+            "ai", "llm", "gpt", "claude", "agent", "모델", "에이전트",
+            "openai", "anthropic", "mcp", "코딩", "coding", "ollama",
+            "transformer", "diffusion", "rag", "벡터", "워크플로우",
+            "자동화", "생성", "copilot", "cursor", "로컬", "local",
+        ]
+        for item in soup.select(".topic_row"):
+            title_el = item.select_one(".topictitle a")
+            if not title_el:
+                continue
+            title = title_el.get_text(strip=True)
+            link = title_el.get("href", "")
+            if not link.startswith("http"):
+                link = f"https://news.hada.io{link}"
+
+            points_el = item.select_one(".topicinfo .u-count")
+            points = 0
+            if points_el:
+                points_text = points_el.get_text(strip=True).replace("P", "").strip()
+                points = int(points_text) if points_text.isdigit() else 0
+
+            text_lower = title.lower()
+            if any(kw in text_lower for kw in ai_keywords):
+                posts.append({
+                    "title": title,
+                    "url": link,
+                    "points": points,
+                    "source": "GeekNews",
+                })
+        posts.sort(key=lambda x: x["points"], reverse=True)
+        logger.info(f"Found {len(posts)} AI posts from GeekNews")
+        return posts
+    except Exception as e:
+        logger.error(f"Failed to fetch GeekNews: {e}")
         return []
 
 
@@ -310,6 +357,15 @@ def run_full_update():
     }
     save_json(NEWS_FILE, news_data)
     logger.info(f"Saved {len(news_items)} news items")
+
+    # 6. GeekNews AI posts
+    geeknews_posts = fetch_geeknews_ai()
+    gn_data = {
+        "last_updated": datetime.now(timezone.utc).isoformat(),
+        "posts": geeknews_posts[:20],
+    }
+    save_json(GEEKNEWS_FILE, gn_data)
+    logger.info(f"Saved {len(geeknews_posts)} GeekNews AI posts")
 
     logger.info("=" * 60)
     logger.info("Full update complete!")

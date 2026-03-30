@@ -338,7 +338,7 @@ body{
   backdrop-filter:blur(40px);
   border:1px solid var(--border);
   border-radius:24px 24px 0 0;
-  width:100%;max-width:720px;
+  width:100%;max-width:800px;
   max-height:90vh;overflow-y:auto;
   position:relative;
   transform:translateY(100%);
@@ -434,6 +434,101 @@ body{
 }
 .code-block .comment{color:var(--text-3)}
 .code-block .cmd{color:var(--cyan)}
+
+/* ---- Benchmark Section ---- */
+.bench-section{position:relative;z-index:10;padding:0 0 48px}
+.section-head{margin-bottom:24px}
+.section-head h2{font-size:22px;font-weight:800;letter-spacing:-.01em}
+.section-sub{font-size:13px;color:var(--text-3);margin-top:4px}
+
+.bench-tabs{display:flex;gap:6px;margin-bottom:16px;flex-wrap:wrap}
+.bench-tab{
+  padding:8px 16px;background:var(--bg-glass);
+  border:1px solid var(--border);border-radius:var(--r-xs);
+  color:var(--text-2);font-size:12px;font-weight:600;font-family:inherit;
+  cursor:pointer;white-space:nowrap;transition:all .2s var(--ease);
+}
+.bench-tab:hover{background:var(--bg-card-h);border-color:var(--border-h)}
+.bench-tab.active{background:linear-gradient(135deg,var(--accent),#6c5ce7);color:#fff;border-color:transparent}
+
+.bench-table-wrap{
+  background:var(--bg-glass);backdrop-filter:blur(var(--blur));
+  border:1px solid var(--border);border-radius:var(--r);overflow:hidden;
+}
+.bench-info{
+  display:flex;align-items:center;justify-content:space-between;
+  padding:16px 22px;border-bottom:1px solid var(--border);flex-wrap:wrap;gap:8px;
+}
+.bench-name{font-size:15px;font-weight:700}
+.bench-desc{font-size:12px;color:var(--text-3);max-width:500px}
+.bench-source{
+  font-size:11px;color:var(--accent-l);text-decoration:none;
+  padding:4px 10px;background:var(--accent-dim);border-radius:12px;
+}
+.bench-source:hover{background:rgba(124,106,239,.2)}
+
+.bench-table{width:100%;border-collapse:collapse}
+.bench-table th{
+  text-align:left;padding:10px 18px;font-size:11px;font-weight:700;
+  color:var(--text-3);text-transform:uppercase;letter-spacing:.5px;
+  border-bottom:1px solid var(--border);background:rgba(0,0,0,.2);
+}
+.bench-table td{
+  padding:12px 18px;font-size:13px;border-bottom:1px solid var(--border);
+}
+.bench-table tr:last-child td{border-bottom:none}
+.bench-table tr:hover td{background:rgba(255,255,255,.02)}
+.bench-table .rank-cell{
+  font-family:'JetBrains Mono',monospace;font-weight:700;color:var(--text-3);width:40px;
+}
+.bench-table .rank-cell.top{color:var(--yellow)}
+.bench-table .score-cell{
+  font-family:'JetBrains Mono',monospace;font-weight:700;color:var(--green);
+}
+.bench-table .org-cell{color:var(--text-3);font-size:12px}
+
+/* ---- Blog Article in Modal ---- */
+.article-body{padding-top:20px}
+.article-body h2{
+  font-size:18px;font-weight:800;color:var(--text);
+  margin:28px 0 12px;padding-top:16px;
+  border-top:1px solid var(--border);
+}
+.article-body h2:first-child{border-top:none;margin-top:0;padding-top:0}
+.article-body p{
+  font-size:14px;color:var(--text-2);line-height:1.75;margin-bottom:12px;
+}
+.article-body strong{color:var(--text);font-weight:600}
+.article-body code{
+  font-family:'JetBrains Mono',monospace;font-size:12px;
+  background:rgba(255,255,255,.06);padding:2px 6px;border-radius:4px;
+  color:var(--cyan);
+}
+
+.read-more-btn{
+  display:inline-flex;align-items:center;gap:6px;
+  padding:10px 20px;margin-top:8px;
+  background:linear-gradient(135deg,var(--accent),#6c5ce7);
+  color:#fff;border:none;border-radius:var(--r-sm);
+  font-size:13px;font-weight:600;font-family:inherit;
+  cursor:pointer;transition:all .2s var(--ease);
+}
+.read-more-btn:hover{filter:brightness(1.15);transform:translateY(-1px)}
+
+.article-meta{
+  display:flex;align-items:center;gap:12px;margin:12px 0 20px;
+  padding:12px 0;border-bottom:1px solid var(--border);
+}
+.article-meta-item{
+  display:flex;align-items:center;gap:4px;
+  font-size:12px;color:var(--text-3);
+}
+
+/* ---- New cat colors ---- */
+.cat-agent-frameworks{background:rgba(251,146,60,.10);color:var(--orange)}
+.cat-browser-automation{background:rgba(34,211,238,.10);color:var(--cyan)}
+.cat-ai-protocols{background:rgba(250,204,21,.10);color:var(--yellow)}
+.cat-observability{background:rgba(168,85,247,.10);color:#c084fc}
 
 /* ---- Footer ---- */
 .footer{

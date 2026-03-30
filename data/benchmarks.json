@@ -1,0 +1,100 @@
+{
+  "last_updated": "2026-03-30T00:00:00Z",
+  "benchmarks": [
+    {
+      "id": "swe-bench",
+      "name": "SWE-bench Verified",
+      "description": "실제 GitHub 이슈를 해결하는 AI 코딩 에이전트 벤치마크. 인간 검증된 ~500개 테스트 인스턴스로 구성.",
+      "source_url": "https://www.swebench.com",
+      "category": "coding",
+      "entries": [
+        {"rank": 1, "name": "OpenHands + Claude 3.5 Sonnet Thinking", "score": 77.6, "unit": "%", "org": "All Hands AI"},
+        {"rank": 2, "name": "Amazon Q Developer Agent", "score": 66.0, "unit": "%", "org": "Amazon"},
+        {"rank": 3, "name": "Devin", "score": 51.0, "unit": "%", "org": "Cognition AI"},
+        {"rank": 4, "name": "Agentless + GPT-4o", "score": 48.0, "unit": "%", "org": "UIUC"},
+        {"rank": 5, "name": "SWE-agent + Claude 3.5 Sonnet", "score": 45.0, "unit": "%", "org": "Princeton NLP"},
+        {"rank": 6, "name": "AutoCodeRover", "score": 42.0, "unit": "%", "org": "NUS"},
+        {"rank": 7, "name": "Aider + Claude 3.5 Sonnet", "score": 40.0, "unit": "%", "org": "Aider"},
+        {"rank": 8, "name": "Moatless Tools", "score": 38.0, "unit": "%", "org": "Albert Lundberg"},
+        {"rank": 9, "name": "SWE-agent + GPT-4o", "score": 37.0, "unit": "%", "org": "Princeton NLP"},
+        {"rank": 10, "name": "RAG + Claude baseline", "score": 33.0, "unit": "%", "org": "Various"}
+      ]
+    },
+    {
+      "id": "chatbot-arena",
+      "name": "Chatbot Arena (LMSYS)",
+      "description": "사용자 투표 기반 LLM 블라인드 비교 플랫폼. Elo/Bradley-Terry 레이팅 방식으로 가장 신뢰받는 LLM 평가.",
+      "source_url": "https://chat.lmsys.org/?leaderboard",
+      "category": "llm",
+      "entries": [
+        {"rank": 1, "name": "GPT-4o", "score": 1295, "unit": "Elo", "org": "OpenAI"},
+        {"rank": 2, "name": "Claude 3.5 Sonnet", "score": 1287, "unit": "Elo", "org": "Anthropic"},
+        {"rank": 3, "name": "Gemini 1.5 Pro", "score": 1278, "unit": "Elo", "org": "Google DeepMind"},
+        {"rank": 4, "name": "GPT-4 Turbo", "score": 1265, "unit": "Elo", "org": "OpenAI"},
+        {"rank": 5, "name": "Claude 3 Opus", "score": 1255, "unit": "Elo", "org": "Anthropic"},
+        {"rank": 6, "name": "Llama 3.1 405B", "score": 1225, "unit": "Elo", "org": "Meta"},
+        {"rank": 7, "name": "Mistral Large 2", "score": 1215, "unit": "Elo", "org": "Mistral AI"},
+        {"rank": 8, "name": "Qwen 2.5 72B", "score": 1208, "unit": "Elo", "org": "Alibaba"},
+        {"rank": 9, "name": "DeepSeek-V3", "score": 1200, "unit": "Elo", "org": "DeepSeek"},
+        {"rank": 10, "name": "Command R+", "score": 1195, "unit": "Elo", "org": "Cohere"}
+      ]
+    },
+    {
+      "id": "aider-leaderboard",
+      "name": "Aider Code Editing",
+      "description": "Aider의 코드 편집 벤치마크. LLM이 기존 코드를 수정하는 능력을 테스트.",
+      "source_url": "https://aider.chat/docs/leaderboards/",
+      "category": "coding",
+      "entries": [
+        {"rank": 1, "name": "Claude 3.5 Sonnet (new)", "score": 86.0, "unit": "%", "org": "Anthropic"},
+        {"rank": 2, "name": "OpenAI o1-preview", "score": 83.5, "unit": "%", "org": "OpenAI"},
+        {"rank": 3, "name": "GPT-4o", "score": 81.0, "unit": "%", "org": "OpenAI"},
+        {"rank": 4, "name": "DeepSeek-Coder-V2 236B", "score": 77.5, "unit": "%", "org": "DeepSeek"},
+        {"rank": 5, "name": "Claude 3 Opus", "score": 76.0, "unit": "%", "org": "Anthropic"},
+        {"rank": 6, "name": "Gemini 1.5 Pro", "score": 74.0, "unit": "%", "org": "Google"},
+        {"rank": 7, "name": "GPT-4 Turbo", "score": 72.5, "unit": "%", "org": "OpenAI"},
+        {"rank": 8, "name": "Llama 3.1 405B", "score": 67.5, "unit": "%", "org": "Meta"},
+        {"rank": 9, "name": "Qwen 2.5 Coder 32B", "score": 67.0, "unit": "%", "org": "Alibaba"},
+        {"rank": 10, "name": "Mistral Large 2", "score": 64.5, "unit": "%", "org": "Mistral AI"}
+      ]
+    },
+    {
+      "id": "image-arena",
+      "name": "Text-to-Image Arena",
+      "description": "AI 이미지 생성 모델 사용자 선호도 평가. 블라인드 비교를 통한 Elo 레이팅.",
+      "source_url": "https://artificialanalysis.ai/text-to-image",
+      "category": "image",
+      "entries": [
+        {"rank": 1, "name": "FLUX 1.1 Pro", "score": 1110, "unit": "Elo", "org": "Black Forest Labs"},
+        {"rank": 2, "name": "DALL-E 3", "score": 1090, "unit": "Elo", "org": "OpenAI"},
+        {"rank": 3, "name": "Midjourney v6.1", "score": 1085, "unit": "Elo", "org": "Midjourney"},
+        {"rank": 4, "name": "Ideogram 2.0", "score": 1060, "unit": "Elo", "org": "Ideogram"},
+        {"rank": 5, "name": "Stable Diffusion 3.5 Large", "score": 1050, "unit": "Elo", "org": "Stability AI"},
+        {"rank": 6, "name": "FLUX.1 [dev]", "score": 1040, "unit": "Elo", "org": "Black Forest Labs"},
+        {"rank": 7, "name": "Google Imagen 3", "score": 1035, "unit": "Elo", "org": "Google DeepMind"},
+        {"rank": 8, "name": "FLUX.1 [schnell]", "score": 1020, "unit": "Elo", "org": "Black Forest Labs"},
+        {"rank": 9, "name": "Stable Diffusion XL", "score": 1000, "unit": "Elo", "org": "Stability AI"},
+        {"rank": 10, "name": "Playground v3", "score": 995, "unit": "Elo", "org": "Playground AI"}
+      ]
+    },
+    {
+      "id": "open-llm",
+      "name": "Open LLM Leaderboard v2",
+      "description": "HuggingFace 오픈소스 LLM 리더보드. IFEval, BBH, MATH, GPQA, MUSR, MMLU-PRO 6개 벤치마크 평균.",
+      "source_url": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard",
+      "category": "llm",
+      "entries": [
+        {"rank": 1, "name": "Qwen 2.5 72B Instruct", "score": 58.0, "unit": "%", "org": "Alibaba"},
+        {"rank": 2, "name": "Llama 3.1 405B Instruct", "score": 56.5, "unit": "%", "org": "Meta"},
+        {"rank": 3, "name": "DeepSeek-V3", "score": 55.5, "unit": "%", "org": "DeepSeek"},
+        {"rank": 4, "name": "Qwen 2.5 32B Instruct", "score": 52.5, "unit": "%", "org": "Alibaba"},
+        {"rank": 5, "name": "Llama 3.1 70B Instruct", "score": 50.5, "unit": "%", "org": "Meta"},
+        {"rank": 6, "name": "Mixtral 8x22B", "score": 47.5, "unit": "%", "org": "Mistral AI"},
+        {"rank": 7, "name": "Yi-1.5 34B", "score": 46.0, "unit": "%", "org": "01.AI"},
+        {"rank": 8, "name": "Command R+ 104B", "score": 45.0, "unit": "%", "org": "Cohere"},
+        {"rank": 9, "name": "Phi-3 Medium 14B", "score": 44.0, "unit": "%", "org": "Microsoft"},
+        {"rank": 10, "name": "Falcon 180B", "score": 43.0, "unit": "%", "org": "TII"}
+      ]
+    }
+  ]
+}

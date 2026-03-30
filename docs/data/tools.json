@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-30T13:41:59.667090+00:00",
+  "last_updated": "2026-03-30T14:23:23.927288+00:00",
   "categories": [
     {
       "id": "coding-agents",
@@ -35,6 +35,34 @@
       "name_en": "Local LLM Runners",
       "icon": "🧠",
       "description": "로컬에서 대규모 언어 모델을 실행하는 도구"
+    },
+    {
+      "id": "agent-frameworks",
+      "name": "에이전트 프레임워크",
+      "name_en": "Agent Frameworks",
+      "icon": "🔧",
+      "description": "코드 기반 AI 에이전트 구축 라이브러리 및 SDK"
+    },
+    {
+      "id": "browser-automation",
+      "name": "브라우저 자동화",
+      "name_en": "Browser Automation",
+      "icon": "🌐",
+      "description": "AI 기반 웹 탐색, 스크래핑, 상호작용 도구"
+    },
+    {
+      "id": "ai-protocols",
+      "name": "AI 프로토콜",
+      "name_en": "AI Protocols",
+      "icon": "🔗",
+      "description": "에이전트 간 통신 및 도구 연결 표준 프로토콜"
+    },
+    {
+      "id": "observability",
+      "name": "옵저버빌리티",
+      "name_en": "Observability & Eval",
+      "icon": "📊",
+      "description": "AI 에이전트 모니터링, 트레이싱, 평가 도구"
     }
   ],
   "tools": [
@@ -45,7 +73,7 @@
       "description": "터미널 기반 AI 코딩 에이전트. 75개 이상의 LLM 프로바이더를 지원하며, 월 500만+ 개발자가 사용하는 2026년 가장 빠르게 성장한 코딩 도구.",
       "github_url": "https://github.com/sst/opencode",
       "website": "https://opencode.ai",
-      "stars": 132742,
+      "stars": 132771,
       "trending_score": 73,
       "key_features": [
         "75+ LLM 프로바이더 지원",
@@ -62,9 +90,9 @@
         "multi-llm"
       ],
       "license": "MIT",
-      "forks": 14247,
-      "open_issues": 6157,
-      "last_push": "2026-03-30T13:40:15Z"
+      "forks": 14249,
+      "open_issues": 6159,
+      "last_push": "2026-03-30T14:02:16Z"
     },
     {
       "id": "claude-code",
@@ -73,7 +101,7 @@
       "description": "Anthropic의 공식 CLI 코딩 에이전트. Claude 모델을 활용한 강력한 코드 생성, 편집, 디버깅 기능을 제공.",
       "github_url": "https://github.com/anthropics/claude-code",
       "website": "https://claude.ai/code",
-      "stars": 84499,
+      "stars": 84511,
       "trending_score": 47,
       "key_features": [
         "Claude Opus/Sonnet 모델 지원",
@@ -90,9 +118,9 @@
         "enterprise"
       ],
       "license": "Proprietary",
-      "forks": 7151,
-      "open_issues": 8122,
-      "last_push": "2026-03-30T13:21:26Z"
+      "forks": 7154,
+      "open_issues": 8135,
+      "last_push": "2026-03-30T14:17:33Z"
     },
     {
       "id": "codex-cli",
@@ -101,7 +129,7 @@
       "description": "OpenAI의 터미널 기반 코딩 에이전트. GPT 모델을 활용한 코드 생성 및 편집 도구.",
       "github_url": "https://github.com/openai/codex",
       "website": "https://openai.com",
-      "stars": 68402,
+      "stars": 68408,
       "trending_score": 38,
       "key_features": [
         "GPT-4o/o3 모델 지원",
@@ -117,9 +145,9 @@
         "sandbox"
       ],
       "license": "Apache-2.0",
-      "forks": 9162,
+      "forks": 9164,
       "open_issues": 2187,
-      "last_push": "2026-03-30T13:03:35Z"
+      "last_push": "2026-03-30T14:19:10Z"
     },
     {
       "id": "openhands",
@@ -128,7 +156,7 @@
       "description": "자율적 AI 소프트웨어 개발 에이전트. 코드 작성, 테스트, 디버깅을 독립적으로 수행하며 SWE-bench에서 최고 성능 달성.",
       "github_url": "https://github.com/All-Hands-AI/OpenHands",
       "website": "https://openhands.dev",
-      "stars": 70203,
+      "stars": 70205,
       "trending_score": 39,
       "key_features": [
         "자율적 소프트웨어 개발",
@@ -147,7 +175,7 @@
       "license": "MIT",
       "forks": 8789,
       "open_issues": 343,
-      "last_push": "2026-03-30T13:39:52Z"
+      "last_push": "2026-03-30T14:21:12Z"
     },
     {
       "id": "cline",
@@ -676,6 +704,281 @@
       "forks": 2647,
       "open_issues": 279,
       "last_push": "2026-03-30T07:31:26Z"
+    },
+    {
+      "id": "autogpt",
+      "name": "AutoGPT",
+      "category": "agent-frameworks",
+      "description": "최초의 자율 AI 에이전트 프레임워크. 170K+ 스타로 에이전트 프레임워크 중 가장 높은 인지도.",
+      "github_url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "website": "https://agpt.co",
+      "stars": 170000,
+      "trending_score": 94,
+      "key_features": [
+        "자율 태스크 수행",
+        "웹 브라우징",
+        "파일 I/O",
+        "코드 실행",
+        "플러그인 시스템",
+        "메모리 관리"
+      ],
+      "install_guide": "git clone https://github.com/Significant-Gravitas/AutoGPT.git\ncd AutoGPT\npip install -r requirements.txt\n\n# .env 파일에 API 키 설정\ncp .env.template .env\n\n# 실행\npython -m autogpt",
+      "tags": [
+        "autonomous",
+        "pioneer",
+        "plugins"
+      ],
+      "license": "MIT"
+    },
+    {
+      "id": "langchain",
+      "name": "LangChain",
+      "category": "agent-frameworks",
+      "description": "LLM 애플리케이션 개발의 사실상 표준 프레임워크. 체인, 에이전트, RAG 파이프라인을 위한 핵심 라이브러리.",
+      "github_url": "https://github.com/langchain-ai/langchain",
+      "website": "https://langchain.com",
+      "stars": 126000,
+      "trending_score": 69,
+      "key_features": [
+        "체인/에이전트 추상화",
+        "160+ 데이터 커넥터",
+        "RAG 파이프라인",
+        "LangSmith 통합",
+        "멀티 LLM 지원",
+        "구조화된 출력"
+      ],
+      "install_guide": "pip install langchain langchain-openai\n\n# 기본 사용\nfrom langchain_openai import ChatOpenAI\nfrom langchain.agents import create_react_agent\n\nllm = ChatOpenAI(model=\"gpt-4o\")\n# 에이전트 구성...",
+      "tags": [
+        "framework",
+        "rag",
+        "chains"
+      ],
+      "license": "MIT"
+    },
+    {
+      "id": "llamaindex",
+      "name": "LlamaIndex",
+      "category": "agent-frameworks",
+      "description": "RAG 및 데이터 연결에 특화된 프레임워크. 160개 이상의 데이터 커넥터로 LLM과 외부 데이터를 연결.",
+      "github_url": "https://github.com/run-llama/llama_index",
+      "website": "https://llamaindex.ai",
+      "stars": 47000,
+      "trending_score": 26,
+      "key_features": [
+        "160+ 데이터 커넥터",
+        "고급 RAG 전략",
+        "에이전트 프레임워크",
+        "구조화된 데이터 쿼리",
+        "멀티모달 지원",
+        "LlamaParse"
+      ],
+      "install_guide": "pip install llama-index\n\n# 기본 RAG\nfrom llama_index.core import VectorStoreIndex, SimpleDirectoryReader\n\ndocuments = SimpleDirectoryReader('data').load_data()\nindex = VectorStoreIndex.from_documents(documents)\nquery_engine = index.as_query_engine()\nresponse = query_engine.query(\"질문\")",
+      "tags": [
+        "rag",
+        "data-connectors",
+        "enterprise"
+      ],
+      "license": "MIT"
+    },
+    {
+      "id": "dspy",
+      "name": "DSPy",
+      "category": "agent-frameworks",
+      "description": "Stanford NLP 개발의 프로그래밍 프레임워크. 프롬프트 엔지니어링 대신 모듈식 프로그래밍으로 LLM 파이프라인 구축.",
+      "github_url": "https://github.com/stanfordnlp/dspy",
+      "website": "https://dspy-docs.vercel.app",
+      "stars": 23000,
+      "trending_score": 13,
+      "key_features": [
+        "프로그래밍 방식 LLM 제어",
+        "자동 프롬프트 최적화",
+        "모듈식 파이프라인",
+        "서명 기반 추론",
+        "텔레프롬프터(자동 튜닝)",
+        "재현 가능한 실험"
+      ],
+      "install_guide": "pip install dspy-ai\n\nimport dspy\n\nlm = dspy.OpenAI(model='gpt-4o')\ndspy.settings.configure(lm=lm)\n\nclass QA(dspy.Signature):\n    question = dspy.InputField()\n    answer = dspy.OutputField()\n\npredict = dspy.Predict(QA)\nresult = predict(question=\"What is DSPy?\")",
+      "tags": [
+        "stanford",
+        "prompt-optimization",
+        "modular"
+      ],
+      "license": "MIT"
+    },
+    {
+      "id": "mastra",
+      "name": "Mastra",
+      "category": "agent-frameworks",
+      "description": "TypeScript 우선 AI 에이전트 프레임워크. 풀스택 TS 개발자를 위한 모던 에이전트 빌더.",
+      "github_url": "https://github.com/mastra-ai/mastra",
+      "website": "https://mastra.ai",
+      "stars": 19000,
+      "trending_score": 10,
+      "key_features": [
+        "TypeScript 네이티브",
+        "에이전트 그래프",
+        "도구 통합",
+        "메모리 시스템",
+        "워크플로우 엔진",
+        "테스트 프레임워크"
+      ],
+      "install_guide": "npx create-mastra@latest my-agent\ncd my-agent\nnpm install\nnpm run dev",
+      "tags": [
+        "typescript",
+        "full-stack",
+        "modern"
+      ],
+      "license": "Apache-2.0"
+    },
+    {
+      "id": "browser-use",
+      "name": "Browser Use",
+      "category": "browser-automation",
+      "description": "2026년 가장 빠르게 성장한 프로젝트. AI가 웹 브라우저를 자율적으로 조작하는 도구. 0에서 78K 스타로 급성장.",
+      "github_url": "https://github.com/browser-use/browser-use",
+      "website": "https://browser-use.com",
+      "stars": 78000,
+      "trending_score": 43,
+      "key_features": [
+        "AI 자율 웹 브라우징",
+        "시각적 요소 인식",
+        "다양한 LLM 지원",
+        "스크린샷 기반 탐색",
+        "폼 작성 자동화",
+        "멀티탭 지원"
+      ],
+      "install_guide": "pip install browser-use\n\nfrom browser_use import Agent\nfrom langchain_openai import ChatOpenAI\n\nagent = Agent(\n    task=\"Find the cheapest flight from Seoul to Tokyo\",\n    llm=ChatOpenAI(model=\"gpt-4o\")\n)\nresult = await agent.run()",
+      "tags": [
+        "browser",
+        "autonomous",
+        "fastest-growing"
+      ],
+      "license": "MIT"
+    },
+    {
+      "id": "crawl4ai",
+      "name": "Crawl4AI",
+      "category": "browser-automation",
+      "description": "AI와 LLM을 위해 최적화된 웹 크롤러. 마크다운, 구조화 데이터, 스크린샷 추출에 특화.",
+      "github_url": "https://github.com/unclecode/crawl4ai",
+      "website": "https://crawl4ai.com",
+      "stars": 51000,
+      "trending_score": 28,
+      "key_features": [
+        "LLM 친화적 출력",
+        "마크다운 변환",
+        "구조화 데이터 추출",
+        "JavaScript 렌더링",
+        "병렬 크롤링",
+        "프록시 지원"
+      ],
+      "install_guide": "pip install crawl4ai\n\nfrom crawl4ai import AsyncWebCrawler\n\nasync with AsyncWebCrawler() as crawler:\n    result = await crawler.arun(url=\"https://example.com\")\n    print(result.markdown)",
+      "tags": [
+        "crawler",
+        "llm-friendly",
+        "markdown"
+      ],
+      "license": "Apache-2.0"
+    },
+    {
+      "id": "mcp",
+      "name": "MCP (Model Context Protocol)",
+      "category": "ai-protocols",
+      "description": "Anthropic이 개발하고 Linux Foundation에 기부한 에이전트-도구 연결 표준 프로토콜. AI 에이전트가 외부 도구와 데이터에 접근하는 통일된 인터페이스.",
+      "github_url": "https://github.com/modelcontextprotocol",
+      "website": "https://modelcontextprotocol.io",
+      "stars": 40000,
+      "trending_score": 22,
+      "key_features": [
+        "표준화된 도구 인터페이스",
+        "서버/클라이언트 아키텍처",
+        "리소스/프롬프트/도구 제공",
+        "다양한 언어 SDK",
+        "Linux Foundation 거버넌스",
+        "Claude/OpenAI 등 지원"
+      ],
+      "install_guide": "# Python SDK\npip install mcp\n\n# TypeScript SDK\nnpm install @modelcontextprotocol/sdk\n\n# MCP 서버 예시 (Python)\nfrom mcp.server import Server\nserver = Server(\"my-tool\")\n\n@server.tool()\ndef search(query: str) -> str:\n    return f\"Results for {query}\"",
+      "tags": [
+        "protocol",
+        "standard",
+        "linux-foundation"
+      ],
+      "license": "MIT"
+    },
+    {
+      "id": "a2a",
+      "name": "A2A (Agent-to-Agent)",
+      "category": "ai-protocols",
+      "description": "Google이 개발한 에이전트 간 통신 프로토콜. AI 에이전트끼리 직접 소통하고 협업하는 표준. v1.0 도달.",
+      "github_url": "https://github.com/google/a2a-protocol",
+      "website": "https://google.github.io/a2a-protocol",
+      "stars": 8000,
+      "trending_score": 4,
+      "key_features": [
+        "에이전트 간 직접 통신",
+        "태스크 위임",
+        "스트리밍 지원",
+        "인증/보안 내장",
+        "Linux Foundation 기부",
+        "v1.0 프로토콜"
+      ],
+      "install_guide": "# A2A는 프로토콜 표준\n# 구현 라이브러리 설치:\npip install a2a-sdk\n\n# 에이전트 등록 및 통신\n# 상세 가이드: https://google.github.io/a2a-protocol",
+      "tags": [
+        "protocol",
+        "agent-communication",
+        "google"
+      ],
+      "license": "Apache-2.0"
+    },
+    {
+      "id": "langfuse",
+      "name": "Langfuse",
+      "category": "observability",
+      "description": "오픈소스 AI 옵저버빌리티 플랫폼. 2026년 1월 ClickHouse에 인수되어 시장을 검증. 트레이싱, 프롬프트 관리, 평가를 제공.",
+      "github_url": "https://github.com/langfuse/langfuse",
+      "website": "https://langfuse.com",
+      "stars": 18000,
+      "trending_score": 10,
+      "key_features": [
+        "LLM 트레이싱",
+        "프롬프트 관리",
+        "평가/스코어링",
+        "비용 추적",
+        "A/B 테스트",
+        "OpenTelemetry 호환"
+      ],
+      "install_guide": "# Python SDK\npip install langfuse\n\nfrom langfuse import Langfuse\nlangfuse = Langfuse()\n\n# 트레이스 생성\ntrace = langfuse.trace(name=\"my-agent\")\nspan = trace.span(name=\"llm-call\")\n# ... LLM 호출 ...\nspan.end()",
+      "tags": [
+        "observability",
+        "tracing",
+        "acquired-by-clickhouse"
+      ],
+      "license": "MIT"
+    },
+    {
+      "id": "composio",
+      "name": "Composio",
+      "category": "agent-frameworks",
+      "description": "AI 에이전트를 위한 도구 통합 플랫폼. 250+ 앱과의 연결을 표준화. 27K 스타의 오픈소스 프로젝트.",
+      "github_url": "https://github.com/ComposioHQ/composio",
+      "website": "https://composio.dev",
+      "stars": 27000,
+      "trending_score": 15,
+      "key_features": [
+        "250+ 앱 통합",
+        "인증 관리",
+        "에이전트 프레임워크 호환",
+        "MCP 서버 지원",
+        "OAuth/API키 관리",
+        "액션 로깅"
+      ],
+      "install_guide": "pip install composio-core\n\n# CLI 로그인\ncomposio login\n\n# 앱 연결\ncomposio add github\ncomposio add slack\n\n# 에이전트에서 사용\nfrom composio import ComposioToolSet\ntoolset = ComposioToolSet()",
+      "tags": [
+        "integrations",
+        "tools",
+        "auth-management"
+      ],
+      "license": "Apache-2.0"
     }
   ]
 }

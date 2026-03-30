@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Agent Trends - 로컬 AI 에이전트 트렌드 허브</title>
+  <meta name="description" content="최신 로컬 AI 에이전트, 코딩 도구, 노코드 빌더, 워크플로우 자동화 트렌드를 한눈에">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <!-- Header -->
+  <header class="header">
+    <div class="container">
+      <div class="header-inner">
+        <div class="logo">
+          <span class="logo-icon">⚡</span>
+          <h1>AI Agent Trends</h1>
+        </div>
+        <p class="header-subtitle">로컬 AI 에이전트 & 도구 트렌드를 한눈에</p>
+        <div class="header-meta">
+          <span class="update-badge" id="lastUpdated">업데이트 확인 중...</span>
+          <span class="source-badge">GitHub · HuggingFace · OSS Insight</span>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Search & Filter -->
+  <section class="filter-bar">
+    <div class="container">
+      <div class="filter-inner">
+        <div class="search-box">
+          <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+          <input type="text" id="searchInput" placeholder="도구 검색..." autocomplete="off">
+        </div>
+        <div class="category-tabs" id="categoryTabs">
+          <button class="tab active" data-category="all">전체</button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Main Content -->
+  <main class="main">
+    <div class="container">
+      <!-- Stats Bar -->
+      <div class="stats-bar" id="statsBar">
+        <div class="stat">
+          <span class="stat-value" id="totalTools">-</span>
+          <span class="stat-label">등록 도구</span>
+        </div>
+        <div class="stat">
+          <span class="stat-value" id="totalStars">-</span>
+          <span class="stat-label">총 GitHub Stars</span>
+        </div>
+        <div class="stat">
+          <span class="stat-value" id="totalCategories">-</span>
+          <span class="stat-label">카테고리</span>
+        </div>
+        <div class="stat">
+          <span class="stat-value" id="trendingCount">-</span>
+          <span class="stat-label">실시간 트렌딩</span>
+        </div>
+      </div>
+
+      <!-- Tool Cards Grid -->
+      <div class="tools-grid" id="toolsGrid">
+        <div class="loading">데이터를 불러오는 중...</div>
+      </div>
+
+      <!-- Trending Section -->
+      <section class="trending-section" id="trendingSection">
+        <h2 class="section-title">
+          <span class="section-icon">🔥</span>
+          실시간 GitHub 트렌딩 (AI/ML)
+        </h2>
+        <div class="trending-list" id="githubTrending">
+          <div class="loading">트렌딩 데이터를 불러오는 중...</div>
+        </div>
+      </section>
+
+      <!-- HuggingFace Section -->
+      <section class="trending-section" id="hfSection">
+        <h2 class="section-title">
+          <span class="section-icon">🤗</span>
+          HuggingFace 트렌딩 모델
+        </h2>
+        <div class="trending-list" id="hfTrending">
+          <div class="loading">HuggingFace 데이터를 불러오는 중...</div>
+        </div>
+      </section>
+    </div>
+  </main>
+
+  <!-- Tool Detail Modal -->
+  <div class="modal-overlay" id="modalOverlay">
+    <div class="modal" id="toolModal">
+      <button class="modal-close" id="modalClose">&times;</button>
+      <div class="modal-content" id="modalContent"></div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <p>AI Agent Trends &mdash; 데이터 소스: GitHub Trending, OSS Insight API, HuggingFace Hub API</p>
+      <p class="footer-sub">자동 업데이트 크롤러로 최신 데이터 유지 | 오픈소스</p>
+    </div>
+  </footer>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>
