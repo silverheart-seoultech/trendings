@@ -1,0 +1,681 @@
+{
+  "last_updated": "2026-03-30T13:41:59.667090+00:00",
+  "categories": [
+    {
+      "id": "coding-agents",
+      "name": "코딩 에이전트",
+      "name_en": "Coding Agents",
+      "icon": "💻",
+      "description": "AI 기반 코드 생성, 디버깅, 리팩토링을 자동화하는 도구"
+    },
+    {
+      "id": "nocode-builders",
+      "name": "노코드 앱 빌더",
+      "name_en": "No-Code AI Builders",
+      "icon": "🧩",
+      "description": "코딩 없이 AI 애플리케이션을 시각적으로 구축하는 도구"
+    },
+    {
+      "id": "workflow-automation",
+      "name": "워크플로우 자동화",
+      "name_en": "Workflow Automation",
+      "icon": "⚡",
+      "description": "AI 에이전트 기반 작업 자동화 및 오케스트레이션 도구"
+    },
+    {
+      "id": "image-generation",
+      "name": "이미지 생성",
+      "name_en": "Image Generation",
+      "icon": "🎨",
+      "description": "로컬에서 실행 가능한 AI 이미지 생성 도구"
+    },
+    {
+      "id": "local-llm",
+      "name": "로컬 LLM 런타임",
+      "name_en": "Local LLM Runners",
+      "icon": "🧠",
+      "description": "로컬에서 대규모 언어 모델을 실행하는 도구"
+    }
+  ],
+  "tools": [
+    {
+      "id": "opencode",
+      "name": "OpenCode",
+      "category": "coding-agents",
+      "description": "터미널 기반 AI 코딩 에이전트. 75개 이상의 LLM 프로바이더를 지원하며, 월 500만+ 개발자가 사용하는 2026년 가장 빠르게 성장한 코딩 도구.",
+      "github_url": "https://github.com/sst/opencode",
+      "website": "https://opencode.ai",
+      "stars": 132742,
+      "trending_score": 73,
+      "key_features": [
+        "75+ LLM 프로바이더 지원",
+        "터미널 기반 인터페이스",
+        "MCP 서버 통합",
+        "멀티 파일 편집",
+        "Git 통합",
+        "커스텀 도구 지원"
+      ],
+      "install_guide": "npm install -g opencode\n\n# 또는 Homebrew\nbrew install sst/tap/opencode\n\n# 실행\nopencode",
+      "tags": [
+        "terminal",
+        "open-source",
+        "multi-llm"
+      ],
+      "license": "MIT",
+      "forks": 14247,
+      "open_issues": 6157,
+      "last_push": "2026-03-30T13:40:15Z"
+    },
+    {
+      "id": "claude-code",
+      "name": "Claude Code",
+      "category": "coding-agents",
+      "description": "Anthropic의 공식 CLI 코딩 에이전트. Claude 모델을 활용한 강력한 코드 생성, 편집, 디버깅 기능을 제공.",
+      "github_url": "https://github.com/anthropics/claude-code",
+      "website": "https://claude.ai/code",
+      "stars": 84499,
+      "trending_score": 47,
+      "key_features": [
+        "Claude Opus/Sonnet 모델 지원",
+        "MCP 서버 통합",
+        "Hooks 시스템",
+        "IDE 확장 (VS Code, JetBrains)",
+        "Git 통합",
+        "멀티 파일 편집"
+      ],
+      "install_guide": "npm install -g @anthropic-ai/claude-code\n\n# 실행\nclaude\n\n# 또는 특정 작업 실행\nclaude \"파일 구조를 분석해줘\"",
+      "tags": [
+        "terminal",
+        "anthropic",
+        "enterprise"
+      ],
+      "license": "Proprietary",
+      "forks": 7151,
+      "open_issues": 8122,
+      "last_push": "2026-03-30T13:21:26Z"
+    },
+    {
+      "id": "codex-cli",
+      "name": "Codex CLI",
+      "category": "coding-agents",
+      "description": "OpenAI의 터미널 기반 코딩 에이전트. GPT 모델을 활용한 코드 생성 및 편집 도구.",
+      "github_url": "https://github.com/openai/codex",
+      "website": "https://openai.com",
+      "stars": 68402,
+      "trending_score": 38,
+      "key_features": [
+        "GPT-4o/o3 모델 지원",
+        "터미널 인터페이스",
+        "샌드박스 실행",
+        "멀티 파일 편집",
+        "자동 커밋"
+      ],
+      "install_guide": "npm install -g @openai/codex\n\n# API 키 설정\nexport OPENAI_API_KEY=your-key\n\n# 실행\ncodex \"버그를 수정해줘\"",
+      "tags": [
+        "terminal",
+        "openai",
+        "sandbox"
+      ],
+      "license": "Apache-2.0",
+      "forks": 9162,
+      "open_issues": 2187,
+      "last_push": "2026-03-30T13:03:35Z"
+    },
+    {
+      "id": "openhands",
+      "name": "OpenHands",
+      "category": "coding-agents",
+      "description": "자율적 AI 소프트웨어 개발 에이전트. 코드 작성, 테스트, 디버깅을 독립적으로 수행하며 SWE-bench에서 최고 성능 달성.",
+      "github_url": "https://github.com/All-Hands-AI/OpenHands",
+      "website": "https://openhands.dev",
+      "stars": 70203,
+      "trending_score": 39,
+      "key_features": [
+        "자율적 소프트웨어 개발",
+        "Docker 샌드박스",
+        "웹 브라우징 지원",
+        "다양한 LLM 지원",
+        "GitHub 통합",
+        "SWE-bench 최고 성능"
+      ],
+      "install_guide": "# Docker로 실행\ndocker pull ghcr.io/all-hands-ai/openhands:latest\ndocker run -it -p 3000:3000 ghcr.io/all-hands-ai/openhands:latest\n\n# 또는 pip\npip install openhands\nopenhands",
+      "tags": [
+        "autonomous",
+        "docker",
+        "swe-bench"
+      ],
+      "license": "MIT",
+      "forks": 8789,
+      "open_issues": 343,
+      "last_push": "2026-03-30T13:39:52Z"
+    },
+    {
+      "id": "cline",
+      "name": "Cline",
+      "category": "coding-agents",
+      "description": "VS Code 확장 기반 AI 코딩 에이전트. 에디터에서 직접 AI와 페어 프로그래밍을 할 수 있는 도구.",
+      "github_url": "https://github.com/cline/cline",
+      "website": "https://cline.bot",
+      "stars": 59661,
+      "trending_score": 33,
+      "key_features": [
+        "VS Code 통합",
+        "다양한 LLM 지원",
+        "MCP 서버 지원",
+        "파일 편집/생성",
+        "터미널 명령 실행",
+        "브라우저 자동화"
+      ],
+      "install_guide": "# VS Code에서 설치\n1. VS Code Extensions 마켓플레이스에서 'Cline' 검색\n2. Install 클릭\n3. API 키 설정 (OpenAI, Anthropic, 또는 로컬 모델)\n4. Ctrl+Shift+P → 'Cline: Open' 으로 시작",
+      "tags": [
+        "vscode",
+        "ide-extension",
+        "pair-programming"
+      ],
+      "license": "Apache-2.0",
+      "forks": 6066,
+      "open_issues": 701,
+      "last_push": "2026-03-30T06:15:54Z"
+    },
+    {
+      "id": "aider",
+      "name": "Aider",
+      "category": "coding-agents",
+      "description": "터미널 기반 AI 페어 프로그래밍 도구. Git과 깊이 통합되어 있으며 로컬 모델(Ollama)도 지원.",
+      "github_url": "https://github.com/paul-gauthier/aider",
+      "website": "https://aider.chat",
+      "stars": 42555,
+      "trending_score": 23,
+      "key_features": [
+        "Git 네이티브 통합",
+        "Ollama/로컬 모델 지원",
+        "자동 커밋",
+        "멀티 파일 편집",
+        "음성 코딩",
+        "리포지토리 맵"
+      ],
+      "install_guide": "pip install aider-chat\n\n# OpenAI 사용\nexport OPENAI_API_KEY=your-key\naider\n\n# 로컬 모델 (Ollama) 사용\naider --model ollama/deepseek-coder-v2",
+      "tags": [
+        "terminal",
+        "git-native",
+        "local-model"
+      ],
+      "license": "Apache-2.0",
+      "forks": 4094,
+      "open_issues": 1461,
+      "last_push": "2026-03-17T01:21:34Z"
+    },
+    {
+      "id": "continue",
+      "name": "Continue",
+      "category": "coding-agents",
+      "description": "VS Code와 JetBrains IDE를 위한 오픈소스 AI 코딩 어시스턴트. 자체 모델이나 API를 자유롭게 연결 가능.",
+      "github_url": "https://github.com/continuedev/continue",
+      "website": "https://continue.dev",
+      "stars": 32164,
+      "trending_score": 18,
+      "key_features": [
+        "VS Code + JetBrains 지원",
+        "자유로운 모델 선택",
+        "자동완성",
+        "채팅 인터페이스",
+        "코드 편집",
+        "컨텍스트 프로바이더"
+      ],
+      "install_guide": "# VS Code에서 설치\n1. Extensions 마켓플레이스에서 'Continue' 검색\n2. Install 클릭\n3. config.json에서 모델 설정\n\n# Ollama 로컬 모델 사용 예시\n# ~/.continue/config.json에 추가:\n# { \"models\": [{ \"provider\": \"ollama\", \"model\": \"codellama\" }] }",
+      "tags": [
+        "vscode",
+        "jetbrains",
+        "open-source"
+      ],
+      "license": "Apache-2.0",
+      "forks": 4302,
+      "open_issues": 443,
+      "last_push": "2026-03-30T09:33:24Z"
+    },
+    {
+      "id": "roo-code",
+      "name": "Roo Code",
+      "category": "coding-agents",
+      "description": "IDE 기반 AI 코딩 에이전트. 다양한 '모드'를 통해 코딩, 설계, 디버깅 등 특화된 작업 수행.",
+      "github_url": "https://github.com/RooVetGit/Roo-Code",
+      "website": "https://roocode.com",
+      "stars": 22896,
+      "trending_score": 13,
+      "key_features": [
+        "다양한 작업 모드",
+        "VS Code 통합",
+        "MCP 지원",
+        "커스텀 프롬프트",
+        "멀티 모델 지원"
+      ],
+      "install_guide": "# VS Code에서 설치\n1. Extensions 마켓플레이스에서 'Roo Code' 검색\n2. Install 클릭\n3. 원하는 AI 프로바이더의 API 키 설정",
+      "tags": [
+        "vscode",
+        "multi-mode",
+        "customizable"
+      ],
+      "license": "Apache-2.0",
+      "forks": 2942,
+      "open_issues": 783,
+      "last_push": "2026-03-29T12:17:56Z"
+    },
+    {
+      "id": "dify",
+      "name": "Dify",
+      "category": "nocode-builders",
+      "description": "프로덕션 레디 AI 앱 빌더 플랫폼. 시각적 워크플로우 빌더, RAG 엔진, 에이전트 프레임워크를 통합 제공.",
+      "github_url": "https://github.com/langgenius/dify",
+      "website": "https://dify.ai",
+      "stars": 135002,
+      "trending_score": 74,
+      "key_features": [
+        "비주얼 워크플로우 빌더",
+        "RAG 엔진",
+        "에이전트 프레임워크",
+        "플러그인 마켓플레이스",
+        "API 자동 생성",
+        "다양한 LLM 지원"
+      ],
+      "install_guide": "# Docker Compose로 실행\ngit clone https://github.com/langgenius/dify.git\ncd dify/docker\ncp .env.example .env\ndocker compose up -d\n\n# http://localhost/install 에서 초기 설정",
+      "tags": [
+        "visual-builder",
+        "rag",
+        "production-ready"
+      ],
+      "license": "Apache-2.0",
+      "forks": 21025,
+      "open_issues": 802,
+      "last_push": "2026-03-30T13:36:23Z"
+    },
+    {
+      "id": "langflow",
+      "name": "Langflow",
+      "category": "nocode-builders",
+      "description": "드래그 앤 드롭 방식의 로우코드 AI 앱 빌더. 시각적 편집과 코드 레벨 편집을 모두 지원.",
+      "github_url": "https://github.com/langflow-ai/langflow",
+      "website": "https://langflow.org",
+      "stars": 146406,
+      "trending_score": 81,
+      "key_features": [
+        "드래그 앤 드롭 UI",
+        "코드 레벨 편집 지원",
+        "RAG 파이프라인",
+        "멀티 에이전트",
+        "API 엔드포인트 자동 생성",
+        "커스텀 컴포넌트"
+      ],
+      "install_guide": "# pip으로 설치\npip install langflow\n\n# 실행\nlangflow run\n\n# http://localhost:7860 에서 접속\n\n# Docker로 실행\ndocker run -p 7860:7860 langflowai/langflow:latest",
+      "tags": [
+        "drag-and-drop",
+        "low-code",
+        "langchain"
+      ],
+      "license": "MIT",
+      "forks": 8670,
+      "open_issues": 939,
+      "last_push": "2026-03-30T13:35:17Z"
+    },
+    {
+      "id": "flowise",
+      "name": "Flowise",
+      "category": "nocode-builders",
+      "description": "LangChain 기반 시각적 AI 워크플로우 빌더. Telegram, WhatsApp 등 메신저 통합을 네이티브 지원.",
+      "github_url": "https://github.com/FlowiseAI/Flowise",
+      "website": "https://flowiseai.com",
+      "stars": 51250,
+      "trending_score": 28,
+      "key_features": [
+        "비주얼 플로우 빌더",
+        "LangChain 기반",
+        "메신저 통합 (Telegram, WhatsApp)",
+        "API 자동 생성",
+        "커스텀 도구 지원",
+        "임베딩/벡터 DB 지원"
+      ],
+      "install_guide": "# npm으로 설치\nnpm install -g flowise\n\n# 실행\nnpx flowise start\n\n# http://localhost:3000 에서 접속\n\n# Docker로 실행\ndocker run -d -p 3000:3000 flowiseai/flowise",
+      "tags": [
+        "visual-builder",
+        "langchain",
+        "messenger-integration"
+      ],
+      "license": "Apache-2.0",
+      "forks": 23999,
+      "open_issues": 829,
+      "last_push": "2026-03-30T13:00:47Z"
+    },
+    {
+      "id": "n8n",
+      "name": "n8n",
+      "category": "workflow-automation",
+      "description": "코드와 노코드를 결합한 워크플로우 자동화 플랫폼. 400개 이상의 통합과 AI 에이전트 기능을 지원.",
+      "github_url": "https://github.com/n8n-io/n8n",
+      "website": "https://n8n.io",
+      "stars": 181704,
+      "trending_score": 100,
+      "key_features": [
+        "400+ 앱 통합",
+        "AI 에이전트 노드",
+        "비주얼 워크플로우 빌더",
+        "셀프 호스팅 가능",
+        "코드 노드 (JS/Python)",
+        "웹훅 지원"
+      ],
+      "install_guide": "# npm으로 설치\nnpm install -g n8n\n\n# 실행\nn8n start\n\n# http://localhost:5678 에서 접속\n\n# Docker로 실행\ndocker run -it --rm -p 5678:5678 n8nio/n8n",
+      "tags": [
+        "workflow",
+        "integrations",
+        "self-hosted"
+      ],
+      "license": "Sustainable Use License",
+      "forks": 56306,
+      "open_issues": 1427,
+      "last_push": "2026-03-30T13:39:11Z"
+    },
+    {
+      "id": "autogen",
+      "name": "AutoGen",
+      "category": "workflow-automation",
+      "description": "Microsoft의 멀티 에이전트 대화 프레임워크. 여러 AI 에이전트가 대화를 통해 복잡한 작업을 협업으로 수행.",
+      "github_url": "https://github.com/microsoft/autogen",
+      "website": "https://microsoft.github.io/autogen",
+      "stars": 56446,
+      "trending_score": 31,
+      "key_features": [
+        "멀티 에이전트 대화",
+        "코드 실행 지원",
+        "유연한 에이전트 구성",
+        "인간 참여 루프",
+        "다양한 LLM 지원",
+        "AutoGen Studio (GUI)"
+      ],
+      "install_guide": "pip install autogen-agentchat\n\n# 기본 사용\nfrom autogen import AssistantAgent, UserProxyAgent\n\nassistant = AssistantAgent(\"assistant\")\nuser = UserProxyAgent(\"user\")\nuser.initiate_chat(assistant, message=\"Hello\")",
+      "tags": [
+        "multi-agent",
+        "microsoft",
+        "conversation"
+      ],
+      "license": "MIT",
+      "forks": 8482,
+      "open_issues": 720,
+      "last_push": "2026-03-29T13:31:03Z"
+    },
+    {
+      "id": "crewai",
+      "name": "CrewAI",
+      "category": "workflow-automation",
+      "description": "역할 기반 멀티 에이전트 프레임워크. 인간 팀의 역학을 모방하여 에이전트 팀이 협업하도록 설계.",
+      "github_url": "https://github.com/crewAIInc/crewAI",
+      "website": "https://crewai.com",
+      "stars": 47581,
+      "trending_score": 26,
+      "key_features": [
+        "역할 기반 에이전트",
+        "팀 협업 시뮬레이션",
+        "프로세스 관리",
+        "도구 통합",
+        "메모리 시스템",
+        "계층적 에이전트 구성"
+      ],
+      "install_guide": "pip install crewai\n\n# CrewAI CLI로 프로젝트 생성\ncrewai create my_crew\ncd my_crew\n\n# 실행\ncrewai run",
+      "tags": [
+        "multi-agent",
+        "role-based",
+        "team-collaboration"
+      ],
+      "license": "MIT",
+      "forks": 6447,
+      "open_issues": 487,
+      "last_push": "2026-03-30T13:21:56Z"
+    },
+    {
+      "id": "langgraph",
+      "name": "LangGraph",
+      "category": "workflow-automation",
+      "description": "LangChain 생태계의 그래프 기반 에이전트 오케스트레이션 프레임워크. 복잡한 에이전트 워크플로우를 그래프로 정의.",
+      "github_url": "https://github.com/langchain-ai/langgraph",
+      "website": "https://langchain-ai.github.io/langgraph",
+      "stars": 27938,
+      "trending_score": 15,
+      "key_features": [
+        "그래프 기반 워크플로우",
+        "상태 관리",
+        "사이클 지원",
+        "체크포인트/복원",
+        "스트리밍",
+        "LangChain 통합"
+      ],
+      "install_guide": "pip install langgraph\n\n# 기본 사용\nfrom langgraph.graph import StateGraph\n\ngraph = StateGraph(dict)\ngraph.add_node(\"agent\", agent_fn)\ngraph.add_edge(\"agent\", \"tool\")\napp = graph.compile()",
+      "tags": [
+        "graph",
+        "langchain",
+        "orchestration"
+      ],
+      "license": "MIT",
+      "forks": 4780,
+      "open_issues": 477,
+      "last_push": "2026-03-29T23:33:56Z"
+    },
+    {
+      "id": "comfyui",
+      "name": "ComfyUI",
+      "category": "image-generation",
+      "description": "노드 기반 Stable Diffusion GUI. 최대한의 제어력과 유연성을 제공하는 파워유저용 이미지 생성 도구.",
+      "github_url": "https://github.com/comfyanonymous/ComfyUI",
+      "website": "https://www.comfy.org",
+      "stars": 107316,
+      "trending_score": 59,
+      "key_features": [
+        "노드 기반 워크플로우",
+        "모든 SD 모델 지원",
+        "커스텀 노드 확장",
+        "API 지원",
+        "최적화된 성능",
+        "ControlNet/LoRA 지원"
+      ],
+      "install_guide": "# Git clone\ngit clone https://github.com/comfyanonymous/ComfyUI.git\ncd ComfyUI\n\n# 의존성 설치\npip install -r requirements.txt\n\n# 모델 다운로드 후 models/ 폴더에 배치\n\n# 실행\npython main.py",
+      "tags": [
+        "node-based",
+        "stable-diffusion",
+        "power-user"
+      ],
+      "license": "GPL-3.0",
+      "forks": 12391,
+      "open_issues": 3909,
+      "last_push": "2026-03-30T13:28:01Z"
+    },
+    {
+      "id": "automatic1111",
+      "name": "AUTOMATIC1111 WebUI",
+      "category": "image-generation",
+      "description": "가장 큰 확장 생태계를 가진 원조 Stable Diffusion WebUI. 커뮤니티 기반의 풍부한 확장 기능.",
+      "github_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "website": "https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki",
+      "stars": 162029,
+      "trending_score": 89,
+      "key_features": [
+        "최대 확장 생태계",
+        "img2img",
+        "인페인팅",
+        "LoRA/Textual Inversion",
+        "배치 처리",
+        "SDXL 지원"
+      ],
+      "install_guide": "# Git clone\ngit clone https://github.com/AUTOMATIC1111/stable-diffusion-webui.git\ncd stable-diffusion-webui\n\n# 자동 설치 및 실행\n./webui.sh  # Linux/Mac\nwebui-user.bat  # Windows\n\n# http://localhost:7860 에서 접속",
+      "tags": [
+        "webui",
+        "extensions",
+        "community"
+      ],
+      "license": "AGPL-3.0",
+      "forks": 30209,
+      "open_issues": 2472,
+      "last_push": "2026-03-02T07:00:53Z"
+    },
+    {
+      "id": "fooocus",
+      "name": "Fooocus",
+      "category": "image-generation",
+      "description": "Midjourney 수준의 간편함을 로컬에서. 설정 없이 바로 고품질 이미지를 생성할 수 있는 간편 도구.",
+      "github_url": "https://github.com/lllyasviel/Fooocus",
+      "website": "https://github.com/lllyasviel/Fooocus",
+      "stars": 47926,
+      "trending_score": 26,
+      "key_features": [
+        "원클릭 설치",
+        "Midjourney 스타일 간편함",
+        "자동 프롬프트 최적화",
+        "인페인팅",
+        "스타일 프리셋",
+        "최소 설정"
+      ],
+      "install_guide": "# Git clone\ngit clone https://github.com/lllyasviel/Fooocus.git\ncd Fooocus\n\n# 실행 (자동 설치)\npython entry_with_update.py\n\n# 또는 Conda 환경\nconda env create -f environment.yaml\nconda activate fooocus\npython entry_with_update.py",
+      "tags": [
+        "simple",
+        "midjourney-like",
+        "one-click"
+      ],
+      "license": "GPL-3.0",
+      "forks": 7831,
+      "open_issues": 289,
+      "last_push": "2025-12-01T19:17:07Z"
+    },
+    {
+      "id": "ollama",
+      "name": "Ollama",
+      "category": "local-llm",
+      "description": "Docker처럼 간단한 로컬 LLM 실행 도구. CLI로 다양한 오픈소스 모델을 간편하게 다운로드하고 실행.",
+      "github_url": "https://github.com/ollama/ollama",
+      "website": "https://ollama.com",
+      "stars": 166470,
+      "trending_score": 92,
+      "key_features": [
+        "Docker 스타일 CLI",
+        "다양한 모델 라이브러리",
+        "OpenAI 호환 API",
+        "GPU 자동 감지",
+        "모델 커스터마이징 (Modelfile)",
+        "멀티모달 지원"
+      ],
+      "install_guide": "# Linux/Mac 설치\ncurl -fsSL https://ollama.com/install.sh | sh\n\n# 모델 다운로드 및 실행\nollama run llama3\nollama run deepseek-coder-v2\nollama run mistral\n\n# API 서버로 사용\ncurl http://localhost:11434/api/generate -d '{\"model\":\"llama3\",\"prompt\":\"Hello\"}'",
+      "tags": [
+        "cli",
+        "model-library",
+        "openai-compatible"
+      ],
+      "license": "MIT",
+      "forks": 15232,
+      "open_issues": 2752,
+      "last_push": "2026-03-30T02:25:00Z"
+    },
+    {
+      "id": "lm-studio",
+      "name": "LM Studio",
+      "category": "local-llm",
+      "description": "가장 세련된 GUI를 가진 로컬 LLM 실행 앱. 모델 검색, 다운로드, 채팅, API 서버까지 올인원.",
+      "github_url": null,
+      "website": "https://lmstudio.ai",
+      "stars": null,
+      "trending_score": 91,
+      "key_features": [
+        "세련된 데스크톱 GUI",
+        "HuggingFace 모델 검색/다운로드",
+        "내장 채팅 인터페이스",
+        "로컬 API 서버",
+        "GPU/CPU 자동 최적화",
+        "GGUF 모델 지원"
+      ],
+      "install_guide": "# 공식 사이트에서 다운로드\n# https://lmstudio.ai 접속\n# OS에 맞는 설치 파일 다운로드\n\n# 설치 후:\n1. 모델 검색 탭에서 원하는 모델 다운로드\n2. 채팅 탭에서 대화 시작\n3. 서버 탭에서 API 서버 활성화 (localhost:1234)",
+      "tags": [
+        "gui",
+        "desktop-app",
+        "beginner-friendly"
+      ],
+      "license": "Proprietary (Free)"
+    },
+    {
+      "id": "gpt4all",
+      "name": "GPT4All",
+      "category": "local-llm",
+      "description": "초보자에게 가장 쉬운 로컬 LLM 도구. 큐레이션된 모델 목록과 로컬 RAG(문서 질의) 기능 내장.",
+      "github_url": "https://github.com/nomic-ai/gpt4all",
+      "website": "https://gpt4all.io",
+      "stars": 77232,
+      "trending_score": 43,
+      "key_features": [
+        "큐레이션된 모델 목록",
+        "로컬 RAG (LocalDocs)",
+        "데스크톱 앱",
+        "오프라인 실행",
+        "Python SDK",
+        "다양한 OS 지원"
+      ],
+      "install_guide": "# 공식 사이트에서 데스크톱 앱 다운로드\n# https://gpt4all.io\n\n# Python SDK 사용\npip install gpt4all\n\nfrom gpt4all import GPT4All\nmodel = GPT4All(\"Meta-Llama-3-8B-Instruct\")\noutput = model.generate(\"Hello!\")",
+      "tags": [
+        "beginner-friendly",
+        "desktop-app",
+        "local-rag"
+      ],
+      "license": "MIT",
+      "forks": 8326,
+      "open_issues": 758,
+      "last_push": "2025-05-27T20:05:19Z"
+    },
+    {
+      "id": "localai",
+      "name": "LocalAI",
+      "category": "local-llm",
+      "description": "OpenAI API 완전 호환 로컬 AI 서버. 기존 OpenAI API를 사용하는 앱을 그대로 로컬에서 실행 가능.",
+      "github_url": "https://github.com/mudler/LocalAI",
+      "website": "https://localai.io",
+      "stars": 44593,
+      "trending_score": 25,
+      "key_features": [
+        "OpenAI API 완전 호환",
+        "텍스트/이미지/음성/임베딩",
+        "GPU + CPU 지원",
+        "Docker 배포",
+        "모델 갤러리",
+        "함수 호출 지원"
+      ],
+      "install_guide": "# Docker로 실행\ndocker run -p 8080:8080 localai/localai:latest\n\n# 모델 설치\ncurl http://localhost:8080/models/apply -H 'Content-Type: application/json' -d '{\"url\": \"github:mudler/LocalAI/gallery/llama3.yaml\"}'\n\n# OpenAI 호환 API로 사용\ncurl http://localhost:8080/v1/chat/completions -d '{\"model\":\"llama3\",\"messages\":[{\"role\":\"user\",\"content\":\"Hello\"}]}'",
+      "tags": [
+        "openai-compatible",
+        "docker",
+        "enterprise"
+      ],
+      "license": "MIT",
+      "forks": 3822,
+      "open_issues": 151,
+      "last_push": "2026-03-30T13:15:46Z"
+    },
+    {
+      "id": "jan",
+      "name": "Jan",
+      "category": "local-llm",
+      "description": "완전한 오프라인 ChatGPT 대안. 깔끔한 UI와 확장 시스템을 갖춘 데스크톱 AI 앱.",
+      "github_url": "https://github.com/janhq/jan",
+      "website": "https://jan.ai",
+      "stars": 41389,
+      "trending_score": 23,
+      "key_features": [
+        "오프라인 ChatGPT 대안",
+        "깔끔한 데스크톱 UI",
+        "확장 시스템",
+        "로컬 API 서버",
+        "모델 허브",
+        "크로스 플랫폼"
+      ],
+      "install_guide": "# 공식 사이트에서 다운로드\n# https://jan.ai\n\n# 또는 Docker\ndocker run -p 1337:1337 janhq/jan:latest\n\n# 설치 후:\n1. Hub에서 모델 다운로드\n2. 채팅 시작\n3. 확장 마켓에서 추가 기능 설치",
+      "tags": [
+        "offline",
+        "desktop-app",
+        "extensions"
+      ],
+      "license": "AGPL-3.0",
+      "forks": 2647,
+      "open_issues": 279,
+      "last_push": "2026-03-30T07:31:26Z"
+    }
+  ]
+}

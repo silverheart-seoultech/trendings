@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Agent Trends</title>
+  <meta name="description" content="Local AI Agent & Tool Trends Hub">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚡</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <!-- Animated Background -->
+  <div class="bg-effects">
+    <div class="orb orb-1"></div>
+    <div class="orb orb-2"></div>
+    <div class="orb orb-3"></div>
+    <div class="grid-overlay"></div>
+  </div>
+
+  <!-- Header -->
+  <header class="header">
+    <div class="container">
+      <div class="header-inner">
+        <div class="logo-group">
+          <div class="logo-mark">
+            <span>AI</span>
+          </div>
+          <div>
+            <h1 class="logo-text">Agent Trends</h1>
+            <p class="logo-sub">Local AI Tools & Models Dashboard</p>
+          </div>
+        </div>
+        <div class="header-badges">
+          <span class="badge badge-live" id="lastUpdated">
+            <span class="live-dot"></span>
+            Loading...
+          </span>
+          <span class="badge badge-source">GitHub + HuggingFace</span>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Stats -->
+  <section class="stats-section">
+    <div class="container">
+      <div class="stats-grid">
+        <div class="stat-card">
+          <div class="stat-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg>
+          </div>
+          <span class="stat-number" id="totalTools">-</span>
+          <span class="stat-label">Tracked Tools</span>
+        </div>
+        <div class="stat-card">
+          <div class="stat-icon star-icon">
+            <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+          </div>
+          <span class="stat-number" id="totalStars">-</span>
+          <span class="stat-label">Total Stars</span>
+        </div>
+        <div class="stat-card">
+          <div class="stat-icon cat-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/></svg>
+          </div>
+          <span class="stat-number" id="totalCategories">-</span>
+          <span class="stat-label">Categories</span>
+        </div>
+        <div class="stat-card">
+          <div class="stat-icon trend-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>
+          </div>
+          <span class="stat-number" id="trendingCount">-</span>
+          <span class="stat-label">Live Trending</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Filter -->
+  <section class="filter-section">
+    <div class="container">
+      <div class="filter-bar">
+        <div class="search-wrap">
+          <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+          <input type="text" id="searchInput" placeholder="Search tools..." autocomplete="off" spellcheck="false">
+        </div>
+        <div class="tabs-wrap" id="categoryTabs">
+          <button class="tab active" data-category="all">All</button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Main Tools -->
+  <main class="main-section">
+    <div class="container">
+      <div class="tools-grid" id="toolsGrid">
+        <div class="placeholder-loader">
+          <div class="loader-spinner"></div>
+          <p>Loading tools...</p>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <!-- Trending Feeds -->
+  <section class="feed-section">
+    <div class="container">
+      <div class="feed-columns">
+        <!-- GitHub Trending -->
+        <div class="feed-column">
+          <div class="feed-header">
+            <h2><span class="feed-icon">&#xf09b;</span> GitHub Trending</h2>
+            <span class="feed-badge">AI / ML</span>
+          </div>
+          <div class="feed-list" id="githubTrending">
+            <div class="placeholder-loader small"><div class="loader-spinner"></div></div>
+          </div>
+        </div>
+        <!-- HuggingFace Trending -->
+        <div class="feed-column">
+          <div class="feed-header">
+            <h2>&#x1F917; HuggingFace Trending</h2>
+            <span class="feed-badge">Models</span>
+          </div>
+          <div class="feed-list" id="hfTrending">
+            <div class="placeholder-loader small"><div class="loader-spinner"></div></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Modal -->
+  <div class="modal-backdrop" id="modalBackdrop">
+    <div class="modal-sheet" id="modalSheet">
+      <div class="modal-handle"></div>
+      <button class="modal-x" id="modalClose" aria-label="Close">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg>
+      </button>
+      <div class="modal-body" id="modalContent"></div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-inner">
+        <span>AI Agent Trends &copy; 2026</span>
+        <span class="footer-sep">&middot;</span>
+        <span>Auto-updated via GitHub Actions</span>
+      </div>
+    </div>
+  </footer>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>
