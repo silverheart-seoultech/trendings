@@ -487,6 +487,15 @@ body{
 }
 .bench-table .org-cell{color:var(--text-3);font-size:12px}
 
+/* ---- Mini Benchmark (in modal) ---- */
+.mini-bench{
+  background:var(--bg-surface);border:1px solid var(--border);
+  border-radius:var(--r-sm);padding:14px;margin-bottom:10px;
+}
+.mini-bench .bench-table{font-size:12px}
+.mini-bench .bench-table th{padding:6px 10px;font-size:10px}
+.mini-bench .bench-table td{padding:8px 10px;font-size:12px}
+
 /* ---- Blog Article in Modal ---- */
 .article-body{padding-top:20px}
 .article-body h2{

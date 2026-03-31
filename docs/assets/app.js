@@ -77,7 +77,6 @@ function render() {
   renderTabs();
   renderStats();
   renderTools();
-  renderBenchmarks();
   renderGH();
   renderHF();
 }
@@ -290,6 +289,40 @@ function openModal(t) {
   // Find article for this tool
   const article = (articlesData?.articles || []).find(a => a.tool_id === t.id);
 
+  // Find related benchmarks by category
+  const benchCatMap = {
+    'coding-agents': ['swe-bench', 'aider-leaderboard', 'livecodebench'],
+    'image-generation': ['image-arena'],
+    'local-llm': ['chatbot-arena', 'livecodebench'],
+    'agent-frameworks': ['chatbot-arena'],
+    'workflow-automation': ['chatbot-arena'],
+    'nocode-builders': ['chatbot-arena'],
+  };
+  const relatedBenchIds = benchCatMap[t.category] || [];
+  const relatedBenches = (benchData?.benchmarks || []).filter(b => relatedBenchIds.includes(b.id));
+
+  function renderMiniLeaderboard(b) {
+    const top5 = b.entries.slice(0, 5);
+    return `
+      <div class="mini-bench">
+        <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:8px">
+          <span style="font-size:13px;font-weight:700">${b.name}</span>
+          <a class="bench-source" href="${b.source_url}" target="_blank" rel="noopener">Source &rarr;</a>
+        </div>
+        <table class="bench-table">
+          <thead><tr><th>#</th><th>Model</th><th>Score</th><th>Org</th></tr></thead>
+          <tbody>${top5.map(e => `
+            <tr>
+              <td class="rank-cell ${e.rank <= 3 ? 'top' : ''}">${e.rank}</td>
+              <td>${e.name}</td>
+              <td class="score-cell">${e.score}${e.unit === '%' ? '%' : ' ' + e.unit}</td>
+              <td class="org-cell">${e.org}</td>
+            </tr>`).join('')}
+          </tbody>
+        </table>
+      </div>`;
+  }
+
   body.innerHTML = `
     <div class="modal-cat">
       <span class="card-cat cat-${t.category}">${c.icon||''} ${c.name_en||''}</span>
@@ -310,25 +343,31 @@ function openModal(t) {
 
     ${article ? `
     <div class="m-section">
-      <h3 class="m-section-title">Deep Dive</h3>
+      <h3 class="m-section-title">${article.title}</h3>
       <div class="article-meta">
-        <span class="article-meta-item">${I.article} ${article.title}</span>
         <span class="article-meta-item">${I.clock} ${article.read_time} min read</span>
+        <span class="article-meta-item">${(article.tags||[]).map(g => '#'+g).join(' ')}</span>
       </div>
-      <div class="article-body" id="articleBody">${md(article.content)}</div>
+      <div class="article-body">${md(article.content)}</div>
     </div>
     ` : ''}
 
-    ${t.key_features ? `
+    ${!article && t.key_features ? `
     <div class="m-section">
       <h3 class="m-section-title">Key Features</h3>
       <ul class="feature-grid">${t.key_features.map(f => `<li>${f}</li>`).join('')}</ul>
     </div>` : ''}
 
-    ${t.install_guide ? `
+    ${!article && t.install_guide ? `
     <div class="m-section">
-      <h3 class="m-section-title">Installation & Usage Guide</h3>
+      <h3 class="m-section-title">Quick Start</h3>
       <div class="code-block"><pre>${highlight(t.install_guide)}</pre></div>
+    </div>` : ''}
+
+    ${relatedBenches.length ? `
+    <div class="m-section">
+      <h3 class="m-section-title">Related Benchmarks</h3>
+      ${relatedBenches.map(renderMiniLeaderboard).join('')}
     </div>` : ''}
   `;
 
