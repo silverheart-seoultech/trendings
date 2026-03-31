@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-31T19:18:05.123122+00:00",
+  "last_updated": "2026-03-31T20:56:45.953436+00:00",
   "total_entries": 110,
-  "new_entries": 0,
+  "new_entries": 2,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,6 +47,18 @@
     }
   ],
   "entries": [
+    {
+      "id": "aae866a3a04301dfe9360e3c77e23a43",
+      "title": "Yupp shuts down after raising $33M from a16z crypto’s Chris Dixon",
+      "url": "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/",
+      "description": "Less than a year after launching, with checks from some of the biggest names in Silicon Valley, crowdsourced AI model feedback startup Yupp is closing its business, the company said Tuesday.",
+      "published": "Tue, 31 Mar 2026 20:01:07 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "abf2e66f4fe27a0f46f9d25fd8c281f2",
       "title": "Alexa+ gets new food ordering experiences with Uber Eats and Grubhub",
@@ -756,18 +768,6 @@
       "is_new": false
     },
     {
-      "id": "36489717681a71f75754e63008b52cb1",
-      "title": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
-      "url": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
-      "description": "Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate.",
-      "published": "Fri, 27 Mar 2026 21:44:45 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "47591510",
       "title": "Show HN: Dograh – voice agents that pick Recordings over TTS using LLM",
       "url": "https://github.com/dograh-hq/dograh",
@@ -819,7 +819,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 2,
+      "points": 3,
       "comments": 0,
       "is_new": false
     },
@@ -897,7 +897,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 4,
+      "points": 5,
       "comments": 4,
       "is_new": false
     },
@@ -994,19 +994,6 @@
       "is_new": false
     },
     {
-      "id": "4e9f9b696ebde5256966e6ab09f1cda2",
-      "title": "GEditBench v2: A Human-Aligned Benchmark for General Image Editing",
-      "url": "https://huggingface.co/papers/2603.28547",
-      "description": "Recent advances in image editing have enabled models to handle complex instructions with impressive realism. However, existing evaluation frameworks lag behind: current benchmarks suffer from narrow t",
-      "published": "2026-03-30T11:08:32.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 26,
-      "is_new": false
-    },
-    {
       "id": "47572760",
       "title": "Show HN: Designing an API for LLMs, Not Humans",
       "url": "https://labs.tryopendata.ai/designing-an-api-for-llms",
@@ -1019,6 +1006,19 @@
       "points": 3,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "152b3b02ad7b617905848a713792e847",
+      "title": "INSID3: Training-Free In-Context Segmentation with DINOv3",
+      "url": "https://huggingface.co/papers/2603.28480",
+      "description": "In-context segmentation (ICS) aims to segment arbitrary concepts, e.g., objects, parts, or personalized instances, given one annotated visual examples. Existing work relies on (i) fine-tuning vision f",
+      "published": "2026-03-30T10:16:37.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
     },
     {
       "id": "47572117",
@@ -1214,7 +1214,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 38,
+      "likes": 39,
       "is_new": false
     },
     {
@@ -1254,7 +1254,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 10,
       "is_new": false
     },
     {
@@ -1300,6 +1300,18 @@
   ],
   "by_category": {
     "news": [
+      {
+        "id": "aae866a3a04301dfe9360e3c77e23a43",
+        "title": "Yupp shuts down after raising $33M from a16z crypto’s Chris Dixon",
+        "url": "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/",
+        "description": "Less than a year after launching, with checks from some of the biggest names in Silicon Valley, crowdsourced AI model feedback startup Yupp is closing its business, the company said Tuesday.",
+        "published": "Tue, 31 Mar 2026 20:01:07 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "abf2e66f4fe27a0f46f9d25fd8c281f2",
         "title": "Alexa+ gets new food ordering experiences with Uber Eats and Grubhub",
@@ -1529,18 +1541,6 @@
         "is_new": false
       },
       {
-        "id": "36489717681a71f75754e63008b52cb1",
-        "title": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
-        "url": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
-        "description": "Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate.",
-        "published": "Fri, 27 Mar 2026 21:44:45 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
         "id": "47591510",
         "title": "Show HN: Dograh – voice agents that pick Recordings over TTS using LLM",
         "url": "https://github.com/dograh-hq/dograh",
@@ -1592,7 +1592,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 2,
+        "points": 3,
         "comments": 0,
         "is_new": false
       },
@@ -1670,7 +1670,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 4,
+        "points": 5,
         "comments": 4,
         "is_new": false
       }
