@@ -162,31 +162,35 @@ function renderTopics() {
 
 /* ---- Today's Highlights ---- */
 function renderHighlights() {
+  const hdr = document.getElementById('highlightsHeader');
   const el = document.getElementById('highlightsGrid');
   const items = [];
 
   // Recently updated tools (last 7 days)
   const week = 7 * 86400 * 1000;
-  (toolsData?.tools || []).filter(t => t.last_push && (Date.now() - new Date(t.last_push)) < week)
+  const recentTools = (toolsData?.tools || []).filter(t => t.last_push && (Date.now() - new Date(t.last_push)) < week)
     .sort((a,b) => new Date(b.last_push) - new Date(a.last_push))
-    .slice(0, 3)
-    .forEach(t => items.push({ type:'new', icon:'🔥', title:t.name, sub:`Updated ${timeAgo(t.last_push)}`, stat:fmt(t.stars), statClass:'hot', url:t.website || t.github_url, toolId:t.id }));
+    .slice(0, 3);
+  recentTools.forEach(t => items.push({ type:'new', label:'Recently Active', icon:'🟢', title:t.name, sub:`Updated ${timeAgo(t.last_push)}`, stat:fmt(t.stars), statClass:'hot', url:t.website || t.github_url, toolId:t.id }));
 
   // Top daily trending repos
   (ghTrending?.ai_daily || []).slice(0, 3).forEach(r =>
-    items.push({ type:'hot', icon:'⭐', title:r.full_name.split('/').pop(), sub:r.trending_stars || `${fmt(r.stars)} stars`, stat:r.trending_stars || '', statClass:'hot', url:r.url })
+    items.push({ type:'hot', label:'Trending Today', icon:'⭐', title:r.full_name.split('/').pop(), sub:r.trending_stars || `${fmt(r.stars)} stars`, stat:r.trending_stars || '', statClass:'hot', url:r.url })
   );
 
   // Top GeekNews
   (geekNewsData?.posts || []).slice(0, 2).forEach(p =>
-    items.push({ type:'surge', icon:'📰', title:p.title, sub:`${p.points}P · GeekNews`, stat:`${p.points}P`, statClass:'green', url:p.url })
+    items.push({ type:'surge', label:'Community Buzz', icon:'💬', title:p.title, sub:`${p.points}P · GeekNews`, stat:`${p.points}P`, statClass:'green', url:p.url })
   );
 
-  if (!items.length) { el.innerHTML = ''; return; }
+  if (!items.length) { hdr.innerHTML = ''; el.innerHTML = ''; return; }
+
+  hdr.innerHTML = `<span class="highlights-title">Today's Highlights</span><span class="highlights-sub">— recently active tools, daily trending repos, and community buzz</span>`;
   el.innerHTML = items.map(it => `
     <a class="highlight-card hl-${it.type}" href="${it.url || '#'}" ${it.url ? 'target="_blank" rel="noopener"' : ''} ${it.toolId ? `data-tool="${it.toolId}"` : ''}>
       <div class="hl-icon">${it.icon}</div>
       <div class="hl-info">
+        <div class="hl-label">${it.label}</div>
         <div class="hl-title">${it.title}</div>
         <div class="hl-sub">${it.sub}</div>
       </div>
@@ -578,19 +582,15 @@ document.addEventListener('mouseleave', () => {
   glow.classList.remove('visible'); glowVisible = false;
 });
 
-/* Card 3D Tilt + Shimmer position */
+/* Card 3D Tilt */
 document.addEventListener('mousemove', e => {
   const card = e.target.closest('.tool-card');
   if (!card) return;
   const rect = card.getBoundingClientRect();
-  const px = ((e.clientX - rect.left) / rect.width * 100);
-  const py = ((e.clientY - rect.top) / rect.height * 100);
-  const x = px / 100 - 0.5;
-  const y = py / 100 - 0.5;
+  const x = (e.clientX - rect.left) / rect.width - 0.5;
+  const y = (e.clientY - rect.top) / rect.height - 0.5;
   card.style.setProperty('--rx', (y * -4) + 'deg');
   card.style.setProperty('--ry', (x * 4) + 'deg');
-  card.style.setProperty('--mx', px + '%');
-  card.style.setProperty('--my', py + '%');
 });
 document.addEventListener('mouseout', e => {
   const card = e.target.closest('.tool-card');

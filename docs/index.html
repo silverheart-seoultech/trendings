@@ -32,17 +32,14 @@
             <p class="logo-sub">AI Agent & Tools Trends Dashboard</p>
           </div>
         </div>
-        <div class="header-right">
-          <div class="header-stats">
-            <span class="h-stat" id="totalTools"><span class="h-stat-n">-</span> tools</span>
-            <span class="h-stat" id="totalStars"><span class="h-stat-n">-</span> stars</span>
-            <span class="h-stat" id="totalCategories"><span class="h-stat-n">-</span> categories</span>
-            <span class="h-stat" id="trendingCount"><span class="h-stat-n">-</span> trending</span>
-          </div>
-          <div class="header-badges">
-            <span class="badge badge-live" id="lastUpdated"><span class="live-dot"></span>Loading...</span>
-          </div>
-        </div>
+        <nav class="header-nav">
+          <a href="./" class="nav-link active">Dashboard</a>
+          <a href="feeds.html" class="nav-link">Feeds</a>
+          <span class="nav-sep"></span>
+          <span class="h-stat" id="totalTools"><span class="h-stat-n">-</span> tools</span>
+          <span class="h-stat" id="totalStars"><span class="h-stat-n">-</span> stars</span>
+          <span class="badge badge-live" id="lastUpdated"><span class="live-dot"></span>Loading...</span>
+        </nav>
       </div>
     </div>
   </header>
@@ -50,9 +47,8 @@
   <!-- Today's Highlights + Trending Topics -->
   <section class="highlights-section">
     <div class="container">
-      <!-- Trending Topics -->
       <div class="topic-pills" id="topicPills"></div>
-      <!-- Today's Hot -->
+      <div class="highlights-header" id="highlightsHeader"></div>
       <div class="highlights-grid" id="highlightsGrid"></div>
     </div>
   </section>
