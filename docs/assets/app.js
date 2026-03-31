@@ -309,16 +309,20 @@ function renderTools() {
         <span class="card-cat cat-${t.category}">${c.icon || ''} ${c.name_en || t.category}</span>
         <span class="card-score ${sClass(t.trending_score||0)}">${t.trending_score||0}</span>
       </div>
-      <div class="card-name">${freshness(t.last_push)}${t.name}${hasArticle ? '<span class="card-article-dot" title="Deep Dive available"></span>' : ''}</div>
+      <div class="card-name">${freshness(t.last_push)}${t.name}</div>
       <div class="card-desc">${t.description}</div>
-      ${t.pricing ? `<div class="card-pricing">${t.pricing}</div>` : ''}
       <div class="card-meta">
         ${t.stars ? `<span class="meta-item stars-item">${I.star} ${fmt(t.stars)}</span>` : ''}
+        ${t.forks ? `<span class="meta-item">${fmt(t.forks)} forks</span>` : ''}
         ${t.last_push ? `<span class="meta-item">${I.clock} ${timeAgo(t.last_push)}</span>` : ''}
-        ${t.github_url ? `<span class="meta-item">${I.gh}</span>` : ''}
-        ${t.website ? `<span class="meta-item">${I.link}</span>` : ''}
+        ${t.license ? `<span class="meta-item">${t.license}</span>` : ''}
       </div>
-      <div class="card-tags">${(t.tags||[]).map(g => `<span class="tag">${g}</span>`).join('')}</div>
+      ${t.pricing ? `<div class="card-pricing">${t.pricing}</div>` : ''}
+      <div class="card-tags">
+        ${(t.tags||[]).slice(0,4).map(g => `<span class="tag">${g}</span>`).join('')}
+        ${t.github_url ? `<span class="tag">${I.gh} GitHub</span>` : ''}
+        ${t.website ? `<span class="tag">${I.link} Web</span>` : ''}
+      </div>
     </div>`;
   }).join('');
 
