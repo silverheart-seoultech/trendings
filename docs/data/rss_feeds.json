@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-31T14:42:54.830206+00:00",
+  "last_updated": "2026-03-31T16:14:55.412079+00:00",
   "total_entries": 110,
-  "new_entries": 3,
+  "new_entries": 5,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,6 +47,18 @@
     }
   ],
   "entries": [
+    {
+      "id": "b1c229ff66c5b0b6b4833070813cc78d",
+      "title": "Nomadic raises $8.4 million to wrangle the data pouring off autonomous vehicles",
+      "url": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/",
+      "description": "The company turns footage from robots into structured, searchable datasets with a deep learning model.",
+      "published": "Tue, 31 Mar 2026 15:00:00 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "1bc918cf26da9faac25a2375ed484396",
       "title": "Exclusive: Runway launches $10M fund, Builders program to support early stage AI startups",
@@ -756,16 +768,16 @@
       "is_new": false
     },
     {
-      "id": "171cad61255b462fc26072db4f617845",
-      "title": "VCs are betting billions on AI’s next wave, so why is OpenAI killing Sora?",
-      "url": "https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/",
-      "description": "When an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone 2,000 acres nearby",
-      "published": "Fri, 27 Mar 2026 15:40:19 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
+      "id": "f3ff315e75b644d2f93b9f00d44f2ce0",
+      "title": "Art schools are being torn apart by AI",
+      "url": "https://www.theverge.com/tech/903954/art-schools-generative-ai-education-creative-jobs",
+      "description": "When my baby brother, a 3D modelling and animation student, talks to me about his projects and studies, the pride I usually feel is becoming increasingly tainted by a growing sense of dread. As a crea",
+      "published": "2026-03-31T11:19:14-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "70d4465e6dedcf1aef88358f5e844464",
@@ -831,7 +843,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 7,
       "is_new": true
     },
     {
@@ -844,7 +856,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 15,
+      "likes": 16,
       "is_new": false
     },
     {
@@ -857,7 +869,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 3,
       "is_new": true
     },
     {
@@ -870,7 +882,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -909,7 +921,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 25,
+      "likes": 26,
       "is_new": false
     },
     {
@@ -1026,7 +1038,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 9,
+      "points": 10,
       "comments": 11,
       "is_new": false
     },
@@ -1067,7 +1079,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 8,
-      "comments": 30,
+      "comments": 31,
       "is_new": false
     },
     {
@@ -1133,7 +1145,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 35,
+      "likes": 38,
       "is_new": false
     },
     {
@@ -1160,7 +1172,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
+      "likes": 8,
       "is_new": false
     },
     {
@@ -1213,7 +1225,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -1226,7 +1238,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 98,
+      "likes": 106,
       "is_new": false
     },
     {
@@ -1279,23 +1291,22 @@
       "category": "research",
       "likes": 19,
       "is_new": false
-    },
-    {
-      "id": "e23963adc8cb5188b59311654a435a13",
-      "title": "Think over Trajectories: Leveraging Video Generation to Reconstruct GPS Trajectories from Cellular Signaling",
-      "url": "https://huggingface.co/papers/2603.26610",
-      "description": "Mobile devices continuously interact with cellular base stations, generating massive volumes of signaling records that provide broad coverage for understanding human mobility. However, such records of",
-      "published": "2026-03-27T13:07:13.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
     }
   ],
   "by_category": {
     "news": [
+      {
+        "id": "b1c229ff66c5b0b6b4833070813cc78d",
+        "title": "Nomadic raises $8.4 million to wrangle the data pouring off autonomous vehicles",
+        "url": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/",
+        "description": "The company turns footage from robots into structured, searchable datasets with a deep learning model.",
+        "published": "Tue, 31 Mar 2026 15:00:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "1bc918cf26da9faac25a2375ed484396",
         "title": "Exclusive: Runway launches $10M fund, Builders program to support early stage AI startups",
@@ -1525,16 +1536,16 @@
         "is_new": false
       },
       {
-        "id": "171cad61255b462fc26072db4f617845",
-        "title": "VCs are betting billions on AI’s next wave, so why is OpenAI killing Sora?",
-        "url": "https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/",
-        "description": "When an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone 2,000 acres nearby",
-        "published": "Fri, 27 Mar 2026 15:40:19 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
+        "id": "f3ff315e75b644d2f93b9f00d44f2ce0",
+        "title": "Art schools are being torn apart by AI",
+        "url": "https://www.theverge.com/tech/903954/art-schools-generative-ai-education-creative-jobs",
+        "description": "When my baby brother, a 3D modelling and animation student, talks to me about his projects and studies, the pride I usually feel is becoming increasingly tainted by a growing sense of dread. As a crea",
+        "published": "2026-03-31T11:19:14-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
+        "is_new": true
       },
       {
         "id": "70d4465e6dedcf1aef88358f5e844464",
@@ -1650,18 +1661,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure",
         "description": "I've been struggling to tell whether the ads appearing in my TikTok feeds have been made with generative AI tools. As someone who spends a great deal of time scrutinizing images and videos for the usu",
         "published": "2026-03-30T09:09:58-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "4318c4715eec4eac59ffae2602456f8e",
-        "title": "Bluesky’s new app is an AI for customizing your feed",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds",
-        "description": "The latest app from the team behind Bluesky is Attie, an AI assistant that lets you build your own algorithm. At the Atmosphere conference, Bluesky's former CEO, Jay Graber, and CTO Paul Frazee, unvei",
-        "published": "2026-03-30T05:51:28-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
