@@ -9,7 +9,6 @@ let hfTrending = null;
 let benchData = null;
 let articlesData = null;
 let activeCat = 'all';
-let activeBench = 0;
 let query = '';
 
 /* ---- Icons ---- */
@@ -41,17 +40,36 @@ function timeAgo(s) {
 function esc(s) { const d = document.createElement('div'); d.textContent = s; return d.innerHTML; }
 function sClass(v) { return v >= 85 ? 's-high' : v >= 65 ? 's-mid' : 's-low'; }
 
-/* ---- Simple Markdown to HTML ---- */
+/* ---- Markdown to HTML ---- */
 function md(text) {
-  return text
-    .replace(/^## (.+)$/gm, '<h2>$1</h2>')
-    .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
-    .replace(/`(.+?)`/g, '<code>$1</code>')
-    .replace(/\n\n/g, '</p><p>')
-    .replace(/^- (.+)$/gm, '<li>$1</li>')
-    .replace(/(<li>.*<\/li>)/gs, '<ul>$1</ul>')
-    .replace(/^(?!<[hup]|<li|<ul)/gm, '<p>')
-    .replace(/\n/g, '<br>');
+  // Code blocks first (```...```)
+  let html = text.replace(/```(\w*)\n([\s\S]*?)```/g, (_, lang, code) =>
+    `<pre>${esc(code.trim())}</pre>`
+  );
+  // Headings
+  html = html.replace(/^## (.+)$/gm, '<h2>$1</h2>');
+  // Bold
+  html = html.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+  // Inline code (after code blocks)
+  html = html.replace(/`([^`]+)`/g, '<code>$1</code>');
+  // Tables (simple |...|...|)
+  html = html.replace(/((?:^\|.+\|\n?)+)/gm, (table) => {
+    const rows = table.trim().split('\n').filter(r => !r.match(/^\|\s*[-:]+/));
+    if (rows.length < 1) return table;
+    const hdr = rows[0].split('|').filter(c => c.trim());
+    const body = rows.slice(1);
+    return `<table class="bench-table"><thead><tr>${hdr.map(h => `<th>${h.trim()}</th>`).join('')}</tr></thead><tbody>${body.map(r => {
+      const cells = r.split('|').filter(c => c.trim());
+      return `<tr>${cells.map(c => `<td>${c.trim()}</td>`).join('')}</tr>`;
+    }).join('')}</tbody></table>`;
+  });
+  // Lists
+  html = html.replace(/^- (.+)$/gm, '<li>$1</li>');
+  html = html.replace(/((?:<li>.*<\/li>\n?)+)/g, '<ul>$1</ul>');
+  // Paragraphs
+  html = html.replace(/\n\n/g, '</p><p>');
+  html = html.replace(/\n/g, '<br>');
+  return html;
 }
 
 /* ---- Data Loading ---- */
@@ -156,8 +174,9 @@ function renderTools() {
         <span class="card-cat cat-${t.category}">${c.icon || ''} ${c.name_en || t.category}</span>
         <span class="card-score ${sClass(t.trending_score||0)}">${t.trending_score||0}</span>
       </div>
-      <div class="card-name">${t.name} ${hasArticle ? '<span style="font-size:12px;color:var(--accent-l);margin-left:4px" title="Deep Dive article available">' + I.article + '</span>' : ''}</div>
+      <div class="card-name">${t.name}</div>
       <div class="card-desc">${t.description}</div>
+      ${t.pricing ? `<div class="card-pricing">${t.pricing}</div>` : ''}
       <div class="card-meta">
         ${t.stars ? `<span class="meta-item stars-item">${I.star} ${fmt(t.stars)}</span>` : ''}
         ${t.github_url ? `<span class="meta-item">${I.gh} GitHub</span>` : ''}
@@ -174,62 +193,6 @@ function renderTools() {
       if (tool) openModal(tool);
     })
   );
-}
-
-/* ---- Benchmarks ---- */
-function renderBenchmarks() {
-  if (!benchData?.benchmarks?.length) {
-    document.getElementById('benchContent').innerHTML =
-      '<div class="placeholder-loader small"><p style="font-size:12px;color:var(--text-3)">No benchmark data available</p></div>';
-    return;
-  }
-
-  const tabs = document.getElementById('benchTabs');
-  tabs.innerHTML = benchData.benchmarks.map((b, i) =>
-    `<button class="bench-tab ${i === 0 ? 'active' : ''}" data-idx="${i}">${b.name}</button>`
-  ).join('');
-
-  tabs.addEventListener('click', e => {
-    const btn = e.target.closest('.bench-tab');
-    if (!btn) return;
-    tabs.querySelectorAll('.bench-tab').forEach(b => b.classList.remove('active'));
-    btn.classList.add('active');
-    activeBench = parseInt(btn.dataset.idx);
-    renderBenchTable();
-  });
-
-  renderBenchTable();
-}
-
-function renderBenchTable() {
-  const b = benchData.benchmarks[activeBench];
-  if (!b) return;
-  const wrap = document.getElementById('benchContent');
-
-  wrap.innerHTML = `
-    <div class="bench-info">
-      <div>
-        <div class="bench-name">${b.name}</div>
-        <div class="bench-desc">${b.description}</div>
-      </div>
-      <a class="bench-source" href="${b.source_url}" target="_blank" rel="noopener">Source &rarr;</a>
-    </div>
-    <table class="bench-table">
-      <thead>
-        <tr><th>#</th><th>Model / Agent</th><th>Score</th><th>Organization</th></tr>
-      </thead>
-      <tbody>
-        ${b.entries.map(e => `
-          <tr>
-            <td class="rank-cell ${e.rank <= 3 ? 'top' : ''}">${e.rank}</td>
-            <td><strong>${e.name}</strong></td>
-            <td class="score-cell">${e.score}${e.unit === '%' ? '%' : ' ' + e.unit}</td>
-            <td class="org-cell">${e.org}</td>
-          </tr>
-        `).join('')}
-      </tbody>
-    </table>
-  `;
 }
 
 /* ---- GitHub Trending ---- */
