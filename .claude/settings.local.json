@@ -97,7 +97,19 @@
       "WebFetch(domain:codetv.dev)",
       "WebFetch(domain:piccalil.li)",
       "WebFetch(domain:www.octaveagency.com)",
-      "WebFetch(domain:frontend-hero.com)"
+      "WebFetch(domain:frontend-hero.com)",
+      "WebFetch(domain:ui.shadcn.com)",
+      "WebFetch(domain:developers.figma.com)",
+      "Bash(npx @playwright/mcp@latest --help)",
+      "Bash(mkdir -p /home/wooseok/.claude/skills)",
+      "Read(//home/wooseok/.claude/**)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(google-chrome --headless --no-sandbox --disable-gpu --screenshot=/tmp/trendings-full.png --window-size=1440,900 http://localhost:8080/)",
+      "Bash(google-chrome --headless --no-sandbox --disable-gpu --screenshot=/tmp/trendings-v4.png --window-size=1440,1200 http://localhost:8080/)",
+      "Bash(google-chrome --headless --no-sandbox --disable-gpu --screenshot=/tmp/trendings-v5.png --window-size=1440,1200 http://localhost:8080/)",
+      "Bash(pkill -f \"serve_forever\")",
+      "Bash(pkill -f \"serve.py\")",
+      "Bash(google-chrome --headless --no-sandbox --disable-gpu --screenshot=/tmp/trendings-v5c.png --window-size=1440,1200 file:///home/wooseok/workspace/trendings/docs/index.html)"
     ]
   }
 }

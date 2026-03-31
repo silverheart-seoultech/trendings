@@ -235,12 +235,11 @@ function renderTabs() {
 
 function renderStats() {
   if (!toolsData?.tools) return;
-  document.getElementById('totalTools').textContent = toolsData.tools.length;
-  document.getElementById('totalStars').textContent = fmt(
-    toolsData.tools.reduce((s, t) => s + (t.stars || 0), 0)
-  );
-  document.getElementById('totalCategories').textContent = toolsData.categories?.length || 0;
-  document.getElementById('trendingCount').textContent = ghTrending?.ai_trending?.length || 0;
+  const setN = (id, v) => { const el = document.getElementById(id); if (el) el.innerHTML = `<span class="h-stat-n">${v}</span> ${el.textContent.split(' ').pop()}`; };
+  document.getElementById('totalTools').innerHTML = `<span class="h-stat-n">${toolsData.tools.length}</span> tools`;
+  document.getElementById('totalStars').innerHTML = `<span class="h-stat-n">${fmt(toolsData.tools.reduce((s, t) => s + (t.stars || 0), 0))}</span> stars`;
+  document.getElementById('totalCategories').innerHTML = `<span class="h-stat-n">${toolsData.categories?.length || 0}</span> categories`;
+  document.getElementById('trendingCount').innerHTML = `<span class="h-stat-n">${ghTrending?.ai_trending?.length || 0}</span> trending`;
 }
 
 /* ---- Tools Grid ---- */

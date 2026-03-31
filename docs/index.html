@@ -32,41 +32,20 @@
             <p class="logo-sub">AI Agent & Tools Trends Dashboard</p>
           </div>
         </div>
-        <div class="header-badges">
-          <span class="badge badge-live" id="lastUpdated"><span class="live-dot"></span>Loading...</span>
-          <span class="badge badge-source">GitHub + HuggingFace + GeekNews</span>
+        <div class="header-right">
+          <div class="header-stats">
+            <span class="h-stat" id="totalTools"><span class="h-stat-n">-</span> tools</span>
+            <span class="h-stat" id="totalStars"><span class="h-stat-n">-</span> stars</span>
+            <span class="h-stat" id="totalCategories"><span class="h-stat-n">-</span> categories</span>
+            <span class="h-stat" id="trendingCount"><span class="h-stat-n">-</span> trending</span>
+          </div>
+          <div class="header-badges">
+            <span class="badge badge-live" id="lastUpdated"><span class="live-dot"></span>Loading...</span>
+          </div>
         </div>
       </div>
     </div>
   </header>
-
-  <!-- Stats -->
-  <section class="stats-section">
-    <div class="container">
-      <div class="stats-grid">
-        <div class="stat-card">
-          <div class="stat-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg></div>
-          <span class="stat-number" id="totalTools">-</span>
-          <span class="stat-label">Tracked Tools</span>
-        </div>
-        <div class="stat-card">
-          <div class="stat-icon star-icon"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg></div>
-          <span class="stat-number" id="totalStars">-</span>
-          <span class="stat-label">Total Stars</span>
-        </div>
-        <div class="stat-card">
-          <div class="stat-icon cat-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/></svg></div>
-          <span class="stat-number" id="totalCategories">-</span>
-          <span class="stat-label">Categories</span>
-        </div>
-        <div class="stat-card">
-          <div class="stat-icon trend-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg></div>
-          <span class="stat-number" id="trendingCount">-</span>
-          <span class="stat-label">Live Trending</span>
-        </div>
-      </div>
-    </div>
-  </section>
 
   <!-- Today's Highlights + Trending Topics -->
   <section class="highlights-section">
