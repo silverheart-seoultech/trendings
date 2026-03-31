@@ -565,5 +565,70 @@ document.getElementById('ghWeekly').addEventListener('click', () => {
   renderGH();
 });
 
+/* ======== INTERACTIVE EFFECTS ======== */
+
+/* Cursor Spotlight */
+const glow = document.getElementById('cursorGlow');
+let glowVisible = false;
+document.addEventListener('mousemove', e => {
+  glow.style.left = e.clientX + 'px';
+  glow.style.top = e.clientY + 'px';
+  if (!glowVisible) { glow.classList.add('visible'); glowVisible = true; }
+});
+document.addEventListener('mouseleave', () => {
+  glow.classList.remove('visible'); glowVisible = false;
+});
+
+/* Card 3D Tilt */
+document.addEventListener('mousemove', e => {
+  const card = e.target.closest('.tool-card');
+  if (!card) return;
+  const rect = card.getBoundingClientRect();
+  const x = (e.clientX - rect.left) / rect.width - 0.5;
+  const y = (e.clientY - rect.top) / rect.height - 0.5;
+  card.style.setProperty('--rx', (y * -6) + 'deg');
+  card.style.setProperty('--ry', (x * 6) + 'deg');
+});
+document.addEventListener('mouseleave', e => {
+  if (e.target.closest?.('.tool-card')) {
+    e.target.closest('.tool-card').style.setProperty('--rx', '0deg');
+    e.target.closest('.tool-card').style.setProperty('--ry', '0deg');
+  }
+}, true);
+// Reset tilt on card mouse leave
+document.addEventListener('mouseout', e => {
+  const card = e.target.closest('.tool-card');
+  if (card && !card.contains(e.relatedTarget)) {
+    card.style.setProperty('--rx', '0deg');
+    card.style.setProperty('--ry', '0deg');
+  }
+});
+
+/* Animated Stat Counters */
+function animateCounters() {
+  document.querySelectorAll('.stat-number').forEach(el => {
+    const target = el.textContent;
+    if (!target || target === '-') return;
+    el.classList.add('counting');
+    setTimeout(() => el.classList.remove('counting'), 500);
+  });
+}
+
+/* Magnetic Buttons */
+document.addEventListener('mousemove', e => {
+  const btn = e.target.closest('.tab, .feed-btn, .topic-pill');
+  if (!btn) return;
+  const rect = btn.getBoundingClientRect();
+  const x = e.clientX - rect.left - rect.width / 2;
+  const y = e.clientY - rect.top - rect.height / 2;
+  btn.style.transform = `translate(${x * 0.15}px, ${y * 0.15}px)`;
+});
+document.addEventListener('mouseout', e => {
+  const btn = e.target.closest('.tab, .feed-btn, .topic-pill');
+  if (btn) btn.style.transform = '';
+});
+
 /* ---- Boot ---- */
-boot();
+boot().then(() => {
+  setTimeout(animateCounters, 300);
+});
