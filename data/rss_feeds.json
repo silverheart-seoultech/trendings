@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-31T21:53:29.823766+00:00",
+  "last_updated": "2026-03-31T22:51:28.734945+00:00",
   "total_entries": 110,
-  "new_entries": 4,
+  "new_entries": 7,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,6 +47,18 @@
     }
   ],
   "entries": [
+    {
+      "id": "0355fee790df1bc3291e3f055328c461",
+      "title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
+      "url": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
+      "description": "Slack just got a whole lot more useful.",
+      "published": "Tue, 31 Mar 2026 22:46:25 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "410d594ce744db5b52c0e3a07c71d328",
       "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
@@ -636,18 +648,6 @@
       "is_new": false
     },
     {
-      "id": "77e16d7cf5ff545aa4cf6c31396ab81d",
-      "title": "Elon Musk’s last co-founder reportedly leaves xAI",
-      "url": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
-      "description": "All but two of Musk's 11 xAI co-founders departed before this week.",
-      "published": "Sat, 28 Mar 2026 16:11:16 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "17604cb0da14c4a64977da89f40bf732",
       "title": "15% of Americans say they’d be willing to work for an AI boss, according to new poll",
       "url": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/",
@@ -768,6 +768,20 @@
       "is_new": false
     },
     {
+      "id": "47594050",
+      "title": "Show HN: Browserbeam – a browser API built for AI agents",
+      "url": "https://browserbeam.com/",
+      "description": "",
+      "published": "2026-03-31T22:01:20Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "47591510",
       "title": "Show HN: Dograh – voice agents that pick Recordings over TTS using LLM",
       "url": "https://github.com/dograh-hq/dograh",
@@ -780,6 +794,30 @@
       "points": 2,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "2ce7d9dee9c3a1a759df12e64253d66c",
+      "title": "Claude Code leak exposes a Tamagotchi-style ‘pet’ and an always-on agent",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak",
+      "description": "After Anthropic released Claude Code's 2.1.88 update, users quickly discovered that it contained a package with a source map file containing its TypeScript codebase, with one person on X calling atten",
+      "published": "2026-03-31T18:24:19-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "3ed70defae80ee85689acf2a5956477e",
+      "title": "You can now use ChatGPT with Apple’s CarPlay",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt",
+      "description": "ChatGPT is now accessible from your CarPlay dashboard if you have iOS 26.4 or newer and the latest version of the ChatGPT app, 9to5Mac reports. Apple's recently launched iOS 26.4 update added support",
+      "published": "2026-03-31T18:23:32-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "47591066",
@@ -822,18 +860,6 @@
       "points": 3,
       "comments": 0,
       "is_new": false
-    },
-    {
-      "id": "3ed70defae80ee85689acf2a5956477e",
-      "title": "You can now use ChatGPT with Apple’s CarPlay",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt",
-      "description": "ChatGPT is now accessible from your CarPlay dashboard if you have iOS 26.4 or newer and the latest version of the ChatGPT app, 9to5Mac reports. Apple's recently-launched iOS 26.4 update added support",
-      "published": "2026-03-31T17:03:18-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": true
     },
     {
       "id": "47590079",
@@ -1253,7 +1279,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
+      "likes": 9,
       "is_new": false
     },
     {
@@ -1268,36 +1294,22 @@
       "category": "research",
       "likes": 11,
       "is_new": false
-    },
-    {
-      "id": "30585915bf20528b145769fd0179b42d",
-      "title": "Text Data Integration",
-      "url": "https://huggingface.co/papers/2603.27055",
-      "description": "Data comes in many forms. From a shallow perspective, they can be viewed as being either in structured (e.g., as a relation, as key-value pairs) or unstructured (e.g., text, image) formats. So far, ma",
-      "published": "2026-03-27T20:03:41.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "a9c5b659a81b2ede9618b5a3e89ceb48",
-      "title": "MOOZY: A Patient-First Foundation Model for Computational Pathology",
-      "url": "https://huggingface.co/papers/2603.27048",
-      "description": "Computational pathology needs whole-slide image (WSI) foundation models that transfer across diverse clinical tasks, yet current approaches remain largely slide-centric, often depend on private data a",
-      "published": "2026-03-27T19:33:33.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
     }
   ],
   "by_category": {
     "news": [
+      {
+        "id": "0355fee790df1bc3291e3f055328c461",
+        "title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
+        "url": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
+        "description": "Slack just got a whole lot more useful.",
+        "published": "Tue, 31 Mar 2026 22:46:25 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "410d594ce744db5b52c0e3a07c71d328",
         "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
@@ -1400,18 +1412,6 @@
         "url": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
         "description": "While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
         "published": "Sat, 28 Mar 2026 20:45:54 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "77e16d7cf5ff545aa4cf6c31396ab81d",
-        "title": "Elon Musk’s last co-founder reportedly leaves xAI",
-        "url": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
-        "description": "All but two of Musk's 11 xAI co-founders departed before this week.",
-        "published": "Sat, 28 Mar 2026 16:11:16 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
@@ -1539,6 +1539,20 @@
         "is_new": false
       },
       {
+        "id": "47594050",
+        "title": "Show HN: Browserbeam – a browser API built for AI agents",
+        "url": "https://browserbeam.com/",
+        "description": "",
+        "published": "2026-03-31T22:01:20Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 2,
+        "comments": 0,
+        "is_new": true
+      },
+      {
         "id": "47591510",
         "title": "Show HN: Dograh – voice agents that pick Recordings over TTS using LLM",
         "url": "https://github.com/dograh-hq/dograh",
@@ -1551,6 +1565,30 @@
         "points": 2,
         "comments": 0,
         "is_new": false
+      },
+      {
+        "id": "2ce7d9dee9c3a1a759df12e64253d66c",
+        "title": "Claude Code leak exposes a Tamagotchi-style ‘pet’ and an always-on agent",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak",
+        "description": "After Anthropic released Claude Code's 2.1.88 update, users quickly discovered that it contained a package with a source map file containing its TypeScript codebase, with one person on X calling atten",
+        "published": "2026-03-31T18:24:19-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "3ed70defae80ee85689acf2a5956477e",
+        "title": "You can now use ChatGPT with Apple’s CarPlay",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt",
+        "description": "ChatGPT is now accessible from your CarPlay dashboard if you have iOS 26.4 or newer and the latest version of the ChatGPT app, 9to5Mac reports. Apple's recently launched iOS 26.4 update added support",
+        "published": "2026-03-31T18:23:32-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
       },
       {
         "id": "47591066",
@@ -1595,18 +1633,6 @@
         "is_new": false
       },
       {
-        "id": "3ed70defae80ee85689acf2a5956477e",
-        "title": "You can now use ChatGPT with Apple’s CarPlay",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt",
-        "description": "ChatGPT is now accessible from your CarPlay dashboard if you have iOS 26.4 or newer and the latest version of the ChatGPT app, 9to5Mac reports. Apple's recently-launched iOS 26.4 update added support",
-        "published": "2026-03-31T17:03:18-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": true
-      },
-      {
         "id": "47590079",
         "title": "Show HN: Team agents that manage your CMS from Slack, WhatsApp, and Telegram",
         "url": "https://www.cosmicjs.com/blog/introducing-team-agents-and-cosmic-agent",
@@ -1642,32 +1668,6 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "70d4465e6dedcf1aef88358f5e844464",
-        "title": "You can order Grubhub and Uber Eats ‘conversationally’ with Alexa Plus",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/903938/alexa-plus-order-food-grubhub-uber-eats",
-        "description": "Amazon is giving you a new way to order food through Grubhub and Uber Eats with Alexa without having to endure an awkward exchange just to add fries. Amazon said the entire process is meant to be conv",
-        "published": "2026-03-31T09:08:25-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "47583697",
-        "title": "Show HN: TaskTrace, a local-first activity log that gives LLMs context",
-        "url": "https://tasktrace.com",
-        "description": "",
-        "published": "2026-03-31T06:58:05Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 4,
-        "comments": 3,
         "is_new": false
       }
     ],
