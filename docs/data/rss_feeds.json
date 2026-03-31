@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-31T18:06:36.157256+00:00",
+  "last_updated": "2026-03-31T19:11:21.860979+00:00",
   "total_entries": 110,
-  "new_entries": 10,
+  "new_entries": 14,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,6 +768,20 @@
       "is_new": false
     },
     {
+      "id": "47591510",
+      "title": "Show HN: Dograh – voice agents that pick Recordings over TTS using LLM",
+      "url": "https://github.com/dograh-hq/dograh",
+      "description": "",
+      "published": "2026-03-31T18:28:27Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "47591066",
       "title": "Show HN: OpenClaw Arena – Benchmark models on real tasks, rank by perf and cost",
       "url": "https://app.uniclaw.ai/arena?via=hn",
@@ -791,8 +805,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 1,
-      "comments": 0,
+      "points": 2,
+      "comments": 2,
       "is_new": true
     },
     {
@@ -821,6 +835,18 @@
       "category": "news",
       "points": 1,
       "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "cfed1adad292fc9c616f28e74cdbee6f",
+      "title": "The Galaxy S26’s photo app can sloppify your memories",
+      "url": "https://www.theverge.com/tech/904176/samsung-galaxy-s26-ai-photo-assist-slop",
+      "description": "The Google Pixel 9 walked so that the Samsung Galaxy S26 could run. Google introduced AI editing tools to Photos slowly. It started with changes to the background - make the sky more blue, or remove c",
+      "published": "2026-03-31T14:11:23-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
       "is_new": true
     },
     {
@@ -899,7 +925,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
+      "likes": 8,
       "is_new": true
     },
     {
@@ -995,19 +1021,6 @@
       "is_new": false
     },
     {
-      "id": "74bfe5c5d1e323fb3e5a60fddd91db05",
-      "title": "HISA: Efficient Hierarchical Indexing for Fine-Grained Sparse Attention",
-      "url": "https://huggingface.co/papers/2603.28458",
-      "description": "Token-level sparse attention mechanisms, exemplified by DeepSeek Sparse Attention (DSA), achieve fine-grained key selection by scoring every historical token for each query using a lightweight indexer",
-      "published": "2026-03-30T09:59:51.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
       "id": "47572117",
       "title": "Show HN: We Built 450 Modular Agent Skills for Medical Research",
       "url": "https://github.com/aipoch/medical-research-skills",
@@ -1043,19 +1056,6 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "b1872017b20588e38ec2a6990920b583",
-      "title": "MolmoPoint: Better Pointing for VLMs with Grounding Tokens",
-      "url": "https://huggingface.co/papers/2603.28069",
-      "description": "Grounding has become a fundamental capability of vision-language models (VLMs). Most existing VLMs point by generating coordinates as part of their text output, which requires learning a complicated c",
-      "published": "2026-03-30T02:15:06.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
       "is_new": false
     },
     {
@@ -1123,6 +1123,19 @@
       "category": "research",
       "likes": 0,
       "is_new": false
+    },
+    {
+      "id": "5c62608055dce2cdd82b2811c11f580f",
+      "title": "STRIDE: When to Speak Meets Sequence Denoising for Streaming Video Understanding",
+      "url": "https://huggingface.co/papers/2603.27593",
+      "description": "Recent progress in video large language models (Video-LLMs) has enabled strong offline reasoning over long and complex videos. However, real-world deployments increasingly require streaming perception",
+      "published": "2026-03-29T05:23:45.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
     },
     {
       "id": "47559293",
@@ -1232,6 +1245,19 @@
       "is_new": false
     },
     {
+      "id": "cdd6c141063612c3590339faf5455db5",
+      "title": "ChartNet: A Million-Scale, High-Quality Multimodal Dataset for Robust Chart Understanding",
+      "url": "https://huggingface.co/papers/2603.27064",
+      "description": "Understanding charts requires models to jointly reason over geometric visual patterns, structured numerical data, and natural language -- a capability where current vision-language models (VLMs) remai",
+      "published": "2026-03-27T20:45:05.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "30585915bf20528b145769fd0179b42d",
       "title": "Text Data Integration",
       "url": "https://huggingface.co/papers/2603.27055",
@@ -1269,32 +1295,6 @@
       "category": "news",
       "points": 4,
       "comments": 8,
-      "is_new": false
-    },
-    {
-      "id": "680c0f19536c4735bfd8741db99e7e6f",
-      "title": "Unified Number-Free Text-to-Motion Generation Via Flow Matching",
-      "url": "https://huggingface.co/papers/2603.27040",
-      "description": "Generative models excel at motion synthesis for a fixed number of agents but struggle to generalize with variable agents. Based on limited, domain-specific data, existing methods employ autoregressive",
-      "published": "2026-03-27T19:10:56.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "aa38f2612ab2279b4933929b71cf0ff7",
-      "title": "TAPS: Task Aware Proposal Distributions for Speculative Sampling",
-      "url": "https://huggingface.co/papers/2603.27027",
-      "description": "Speculative decoding accelerates autoregressive generation by letting a lightweight draft model propose future tokens that a larger target model then verifies in parallel. In practice, however, draft ",
-      "published": "2026-03-27T18:34:20.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 110,
       "is_new": false
     }
   ],
@@ -1541,6 +1541,20 @@
         "is_new": false
       },
       {
+        "id": "47591510",
+        "title": "Show HN: Dograh – voice agents that pick Recordings over TTS using LLM",
+        "url": "https://github.com/dograh-hq/dograh",
+        "description": "",
+        "published": "2026-03-31T18:28:27Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 2,
+        "comments": 0,
+        "is_new": true
+      },
+      {
         "id": "47591066",
         "title": "Show HN: OpenClaw Arena – Benchmark models on real tasks, rank by perf and cost",
         "url": "https://app.uniclaw.ai/arena?via=hn",
@@ -1564,8 +1578,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 1,
-        "comments": 0,
+        "points": 2,
+        "comments": 2,
         "is_new": true
       },
       {
@@ -1594,6 +1608,18 @@
         "category": "news",
         "points": 1,
         "comments": 0,
+        "is_new": true
+      },
+      {
+        "id": "cfed1adad292fc9c616f28e74cdbee6f",
+        "title": "The Galaxy S26’s photo app can sloppify your memories",
+        "url": "https://www.theverge.com/tech/904176/samsung-galaxy-s26-ai-photo-assist-slop",
+        "description": "The Google Pixel 9 walked so that the Samsung Galaxy S26 could run. Google introduced AI editing tools to Photos slowly. It started with changes to the background - make the sky more blue, or remove c",
+        "published": "2026-03-31T14:11:23-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
         "is_new": true
       },
       {
@@ -1646,34 +1672,6 @@
         "category": "news",
         "points": 4,
         "comments": 4,
-        "is_new": false
-      },
-      {
-        "id": "47575844",
-        "title": "Show HN: ClamBot – AI agent that runs all LLM-generated code in a WASM sandbox",
-        "url": "https://github.com/clamguy/clambot",
-        "description": "",
-        "published": "2026-03-30T15:52:35Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 4,
-        "comments": 3,
-        "is_new": false
-      },
-      {
-        "id": "47573245",
-        "title": "Show HN: AgentLair – Give your AI agent an email identity and credential vault",
-        "url": "https://agentlair.dev/",
-        "description": "",
-        "published": "2026-03-30T12:11:03Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 2,
-        "comments": 1,
         "is_new": false
       }
     ],
