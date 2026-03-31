@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Feeds — AI Agent Trends</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚡</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <div class="scroll-progress"></div>
+  <div class="bg-effects">
+    <div class="orb orb-1"></div>
+    <div class="orb orb-2"></div>
+    <div class="orb orb-3"></div>
+    <div class="grid-overlay"></div>
+  </div>
+
+  <header class="header">
+    <div class="container">
+      <div class="header-inner">
+        <div class="logo-group">
+          <a href="./" style="text-decoration:none;display:flex;align-items:center;gap:14px">
+            <div class="logo-mark"><span>AI</span></div>
+            <div>
+              <h1 class="logo-text">AI Feeds</h1>
+              <p class="logo-sub">Real-time AI News & Trending</p>
+            </div>
+          </a>
+        </div>
+        <div class="header-badges">
+          <a href="./" class="badge badge-source" style="text-decoration:none">← Back to Dashboard</a>
+          <span class="badge badge-live" id="lastUpdated"><span class="live-dot"></span>Loading...</span>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Feed Filter -->
+  <section class="filter-section">
+    <div class="container">
+      <div class="filter-bar">
+        <div class="tabs-wrap" id="feedTabs">
+          <button class="tab active" data-feed="all">All Feeds</button>
+          <button class="tab" data-feed="github">GitHub Trending</button>
+          <button class="tab" data-feed="hf">HuggingFace</button>
+          <button class="tab" data-feed="geeknews">GeekNews</button>
+          <button class="tab" data-feed="news">AI News</button>
+          <button class="tab" data-feed="research">Research Papers</button>
+          <button class="tab" data-feed="launches">Product Launches</button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <main class="main-section">
+    <div class="container">
+      <!-- GitHub Section -->
+      <section class="feed-page-section" id="sec-github">
+        <div class="feed-page-header">
+          <h2>GitHub Trending <span style="color:var(--text-3);font-weight:400">AI / ML</span></h2>
+          <div class="feed-toggle">
+            <button class="feed-btn active" id="fpGhDaily">Daily</button>
+            <button class="feed-btn" id="fpGhWeekly">Weekly</button>
+          </div>
+        </div>
+        <div class="feed-page-list" id="fpGithub"></div>
+      </section>
+
+      <!-- HuggingFace Section -->
+      <section class="feed-page-section" id="sec-hf">
+        <div class="feed-page-header">
+          <h2>HuggingFace Trending <span style="color:var(--text-3);font-weight:400">Models</span></h2>
+        </div>
+        <div class="feed-page-list" id="fpHF"></div>
+      </section>
+
+      <!-- GeekNews Section -->
+      <section class="feed-page-section" id="sec-geeknews">
+        <div class="feed-page-header">
+          <h2>GeekNews AI <span style="color:var(--text-3);font-weight:400">Korean Tech</span></h2>
+        </div>
+        <div class="feed-page-list" id="fpGeekNews"></div>
+      </section>
+
+      <!-- RSS: AI News -->
+      <section class="feed-page-section" id="sec-news">
+        <div class="feed-page-header">
+          <h2>AI News <span style="color:var(--text-3);font-weight:400">TechCrunch, The Verge, HN</span></h2>
+        </div>
+        <div class="feed-page-list" id="fpNews"></div>
+      </section>
+
+      <!-- RSS: Research Papers -->
+      <section class="feed-page-section" id="sec-research">
+        <div class="feed-page-header">
+          <h2>Research Papers <span style="color:var(--text-3);font-weight:400">arXiv, HuggingFace</span></h2>
+        </div>
+        <div class="feed-page-list" id="fpResearch"></div>
+      </section>
+
+      <!-- RSS: Product Launches -->
+      <section class="feed-page-section" id="sec-launches">
+        <div class="feed-page-header">
+          <h2>Product Launches <span style="color:var(--text-3);font-weight:400">Product Hunt</span></h2>
+        </div>
+        <div class="feed-page-list" id="fpLaunches"></div>
+      </section>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-inner">
+        <span>AI Agent Trends &copy; 2026</span>
+        <span class="footer-sep">&middot;</span>
+        <span>Auto-updated via RSS + GitHub Actions</span>
+      </div>
+    </div>
+  </footer>
+
+  <script src="assets/feeds.js"></script>
+</body>
+</html>

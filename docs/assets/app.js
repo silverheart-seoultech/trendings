@@ -578,23 +578,20 @@ document.addEventListener('mouseleave', () => {
   glow.classList.remove('visible'); glowVisible = false;
 });
 
-/* Card 3D Tilt */
+/* Card 3D Tilt + Shimmer position */
 document.addEventListener('mousemove', e => {
   const card = e.target.closest('.tool-card');
   if (!card) return;
   const rect = card.getBoundingClientRect();
-  const x = (e.clientX - rect.left) / rect.width - 0.5;
-  const y = (e.clientY - rect.top) / rect.height - 0.5;
-  card.style.setProperty('--rx', (y * -6) + 'deg');
-  card.style.setProperty('--ry', (x * 6) + 'deg');
+  const px = ((e.clientX - rect.left) / rect.width * 100);
+  const py = ((e.clientY - rect.top) / rect.height * 100);
+  const x = px / 100 - 0.5;
+  const y = py / 100 - 0.5;
+  card.style.setProperty('--rx', (y * -4) + 'deg');
+  card.style.setProperty('--ry', (x * 4) + 'deg');
+  card.style.setProperty('--mx', px + '%');
+  card.style.setProperty('--my', py + '%');
 });
-document.addEventListener('mouseleave', e => {
-  if (e.target.closest?.('.tool-card')) {
-    e.target.closest('.tool-card').style.setProperty('--rx', '0deg');
-    e.target.closest('.tool-card').style.setProperty('--ry', '0deg');
-  }
-}, true);
-// Reset tilt on card mouse leave
 document.addEventListener('mouseout', e => {
   const card = e.target.closest('.tool-card');
   if (card && !card.contains(e.relatedTarget)) {

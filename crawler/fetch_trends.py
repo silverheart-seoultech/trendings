@@ -265,6 +265,13 @@ def run_full_update():
     logger.info("Starting full trend update")
     logger.info("=" * 60)
 
+    # 0. RSS feeds (event-driven)
+    try:
+        from rss_feeds import run_rss_update
+        run_rss_update()
+    except Exception as e:
+        logger.error(f"RSS update failed: {e}")
+
     # 1. GitHub trending (daily + weekly)
     def collect_gh(since):
         repos = []
