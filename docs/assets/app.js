@@ -13,6 +13,7 @@ let activeCat = 'all';
 let sortBy = 'recent';
 let ghPeriod = 'daily';
 let query = '';
+let visibleCount = 24;
 
 /* ---- Icons ---- */
 const I = {
@@ -231,6 +232,7 @@ function renderTabs() {
     wrap.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
     b.classList.add('active');
     activeCat = b.dataset.category;
+    visibleCount = 24;
     syncURL();
     renderTools();
   });
@@ -306,9 +308,12 @@ function renderTools() {
     return '<span class="freshness freshness-cold" title="Stale (> 30 days)"></span>';
   }
 
-  grid.innerHTML = list.map(t => {
+  const total = list.length;
+  const shown = list.slice(0, visibleCount);
+  const remaining = total - visibleCount;
+
+  grid.innerHTML = shown.map(t => {
     const c = cats[t.category] || {};
-    const hasArticle = articleIds.has(t.id);
     return `
     <div class="tool-card" data-id="${t.id}">
       <div class="card-top">
@@ -325,7 +330,10 @@ function renderTools() {
       </div>
       ${t.pricing ? `<div class="card-pricing">${t.pricing}</div>` : ''}
     </div>`;
-  }).join('');
+  }).join('') + (remaining > 0 ? `
+    <div class="show-more-wrap">
+      <button class="show-more-btn" id="showMoreBtn">Show More<span class="show-more-count">(${remaining} more)</span></button>
+    </div>` : '');
 
   grid.querySelectorAll('.tool-card').forEach(card =>
     card.addEventListener('click', () => {
@@ -333,6 +341,14 @@ function renderTools() {
       if (tool) openModal(tool);
     })
   );
+
+  const moreBtn = document.getElementById('showMoreBtn');
+  if (moreBtn) {
+    moreBtn.addEventListener('click', () => {
+      visibleCount += 24;
+      renderTools();
+    });
+  }
 }
 
 /* ---- GitHub Trending ---- */
@@ -549,7 +565,7 @@ document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal()
 let timer;
 document.getElementById('searchInput').addEventListener('input', e => {
   clearTimeout(timer);
-  timer = setTimeout(() => { query = e.target.value.trim(); syncURL(); renderTools(); }, 180);
+  timer = setTimeout(() => { query = e.target.value.trim(); visibleCount = 24; syncURL(); renderTools(); }, 180);
 });
 
 /* ---- Sort ---- */
