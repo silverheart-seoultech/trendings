@@ -138,14 +138,20 @@ function renderUpdated() {
 /* ---- Trending Topics ---- */
 function renderTopics() {
   const el = document.getElementById('topicPills');
-  // Extract trending topics from GitHub trending descriptions
+  if (!toolsData?.tools) { el.innerHTML = ''; return; }
+  // Count how many tools match each keyword (same logic as search filter)
+  const topicKws = ['mcp','rag','agent','llm','diffusion','workflow','tts','voice','video','coding','browser','local','multimodal','open-source'];
+  const allTools = toolsData.tools;
   const topicCounts = {};
-  const topicKws = ['mcp','rag','agent','llm','diffusion','workflow','tts','voice','video','coding','browser','local','fine-tune','multimodal','embedding','vector'];
-  (ghTrending?.ai_trending || []).concat(ghTrending?.ai_daily || []).forEach(r => {
-    const text = `${r.full_name} ${r.description || ''}`.toLowerCase();
-    topicKws.forEach(kw => { if (text.includes(kw)) topicCounts[kw] = (topicCounts[kw] || 0) + 1; });
+  topicKws.forEach(kw => {
+    const count = allTools.filter(t =>
+      t.name.toLowerCase().includes(kw) ||
+      t.description.toLowerCase().includes(kw) ||
+      (t.tags || []).some(g => g.toLowerCase().includes(kw))
+    ).length;
+    if (count > 0) topicCounts[kw] = count;
   });
-  const sorted = Object.entries(topicCounts).sort((a,b) => b[1] - a[1]).slice(0, 12);
+  const sorted = Object.entries(topicCounts).sort((a,b) => b[1] - a[1]).slice(0, 10);
   if (!sorted.length) { el.innerHTML = ''; return; }
   el.innerHTML = sorted.map(([kw, count]) =>
     `<span class="topic-pill" data-topic="${kw}"><span class="pill-hash">#</span>${kw} <span style="opacity:.4;margin-left:2px">${count}</span></span>`
@@ -318,11 +324,6 @@ function renderTools() {
         ${t.license ? `<span class="meta-item">${t.license}</span>` : ''}
       </div>
       ${t.pricing ? `<div class="card-pricing">${t.pricing}</div>` : ''}
-      <div class="card-tags">
-        ${(t.tags||[]).slice(0,4).map(g => `<span class="tag">${g}</span>`).join('')}
-        ${t.github_url ? `<span class="tag">${I.gh} GitHub</span>` : ''}
-        ${t.website ? `<span class="tag">${I.link} Web</span>` : ''}
-      </div>
     </div>`;
   }).join('');
 
