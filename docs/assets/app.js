@@ -239,11 +239,11 @@ function renderTabs() {
 
 function renderStats() {
   if (!toolsData?.tools) return;
-  const setN = (id, v) => { const el = document.getElementById(id); if (el) el.innerHTML = `<span class="h-stat-n">${v}</span> ${el.textContent.split(' ').pop()}`; };
-  document.getElementById('totalTools').innerHTML = `<span class="h-stat-n">${toolsData.tools.length}</span> tools`;
-  document.getElementById('totalStars').innerHTML = `<span class="h-stat-n">${fmt(toolsData.tools.reduce((s, t) => s + (t.stars || 0), 0))}</span> stars`;
-  document.getElementById('totalCategories').innerHTML = `<span class="h-stat-n">${toolsData.categories?.length || 0}</span> categories`;
-  document.getElementById('trendingCount').innerHTML = `<span class="h-stat-n">${ghTrending?.ai_trending?.length || 0}</span> trending`;
+  const set = (id, html) => { const el = document.getElementById(id); if (el) el.innerHTML = html; };
+  set('totalTools', `<span class="h-stat-n">${toolsData.tools.length}</span> tools`);
+  set('totalStars', `<span class="h-stat-n">${fmt(toolsData.tools.reduce((s, t) => s + (t.stars || 0), 0))}</span> stars`);
+  set('totalCategories', `<span class="h-stat-n">${toolsData.categories?.length || 0}</span> categories`);
+  set('trendingCount', `<span class="h-stat-n">${ghTrending?.ai_trending?.length || 0}</span> trending`);
 }
 
 /* ---- Tools Grid ---- */

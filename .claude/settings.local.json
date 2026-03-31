@@ -109,7 +109,9 @@
       "Bash(google-chrome --headless --no-sandbox --disable-gpu --screenshot=/tmp/trendings-v5.png --window-size=1440,1200 http://localhost:8080/)",
       "Bash(pkill -f \"serve_forever\")",
       "Bash(pkill -f \"serve.py\")",
-      "Bash(google-chrome --headless --no-sandbox --disable-gpu --screenshot=/tmp/trendings-v5c.png --window-size=1440,1200 file:///home/wooseok/workspace/trendings/docs/index.html)"
+      "Bash(google-chrome --headless --no-sandbox --disable-gpu --screenshot=/tmp/trendings-v5c.png --window-size=1440,1200 file:///home/wooseok/workspace/trendings/docs/index.html)",
+      "Bash(google-chrome --headless --no-sandbox --disable-gpu --screenshot=/tmp/trendings-fix.png --window-size=1440,1000 http://localhost:8080/)",
+      "Bash(google-chrome --headless --no-sandbox --disable-gpu --screenshot=/tmp/trendings-fix2.png --window-size=1440,1000 http://localhost:8080/)"
     ]
   }
 }
