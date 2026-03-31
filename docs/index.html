@@ -12,7 +12,6 @@
   <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
-  <!-- Animated Background -->
   <div class="bg-effects">
     <div class="orb orb-1"></div>
     <div class="orb orb-2"></div>
@@ -25,20 +24,15 @@
     <div class="container">
       <div class="header-inner">
         <div class="logo-group">
-          <div class="logo-mark">
-            <span>AI</span>
-          </div>
+          <div class="logo-mark"><span>AI</span></div>
           <div>
             <h1 class="logo-text">Agent Trends</h1>
             <p class="logo-sub">AI Agent & Tools Trends Dashboard</p>
           </div>
         </div>
         <div class="header-badges">
-          <span class="badge badge-live" id="lastUpdated">
-            <span class="live-dot"></span>
-            Loading...
-          </span>
-          <span class="badge badge-source">GitHub + HuggingFace</span>
+          <span class="badge badge-live" id="lastUpdated"><span class="live-dot"></span>Loading...</span>
+          <span class="badge badge-source">GitHub + HuggingFace + GeekNews</span>
         </div>
       </div>
     </div>
@@ -49,34 +43,36 @@
     <div class="container">
       <div class="stats-grid">
         <div class="stat-card">
-          <div class="stat-icon">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg>
-          </div>
+          <div class="stat-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg></div>
           <span class="stat-number" id="totalTools">-</span>
           <span class="stat-label">Tracked Tools</span>
         </div>
         <div class="stat-card">
-          <div class="stat-icon star-icon">
-            <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
-          </div>
+          <div class="stat-icon star-icon"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg></div>
           <span class="stat-number" id="totalStars">-</span>
           <span class="stat-label">Total Stars</span>
         </div>
         <div class="stat-card">
-          <div class="stat-icon cat-icon">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/></svg>
-          </div>
+          <div class="stat-icon cat-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/></svg></div>
           <span class="stat-number" id="totalCategories">-</span>
           <span class="stat-label">Categories</span>
         </div>
         <div class="stat-card">
-          <div class="stat-icon trend-icon">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>
-          </div>
+          <div class="stat-icon trend-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg></div>
           <span class="stat-number" id="trendingCount">-</span>
           <span class="stat-label">Live Trending</span>
         </div>
       </div>
+    </div>
+  </section>
+
+  <!-- Today's Highlights + Trending Topics -->
+  <section class="highlights-section">
+    <div class="container">
+      <!-- Trending Topics -->
+      <div class="topic-pills" id="topicPills"></div>
+      <!-- Today's Hot -->
+      <div class="highlights-grid" id="highlightsGrid"></div>
     </div>
   </section>
 
@@ -105,25 +101,22 @@
   <main class="main-section">
     <div class="container">
       <div class="tools-grid" id="toolsGrid">
-        <div class="placeholder-loader">
-          <div class="loader-spinner"></div>
-          <p>Loading tools...</p>
-        </div>
+        <div class="placeholder-loader"><div class="loader-spinner"></div><p>Loading tools...</p></div>
       </div>
     </div>
   </main>
 
-  <!-- Trending Feeds -->
+  <!-- Trending Feeds + News -->
   <section class="feed-section">
     <div class="container">
-      <div class="feed-columns">
+      <div class="feed-columns three-col">
         <!-- GitHub Trending -->
         <div class="feed-column">
           <div class="feed-header">
             <h2>GitHub Trending</h2>
             <div class="feed-toggle">
-              <button class="feed-btn active" data-period="daily" id="ghDaily">Daily</button>
-              <button class="feed-btn" data-period="weekly" id="ghWeekly">Weekly</button>
+              <button class="feed-btn active" id="ghDaily">Daily</button>
+              <button class="feed-btn" id="ghWeekly">Weekly</button>
             </div>
           </div>
           <div class="feed-list" id="githubTrending">
@@ -137,6 +130,16 @@
             <span class="feed-badge">Models</span>
           </div>
           <div class="feed-list" id="hfTrending">
+            <div class="placeholder-loader small"><div class="loader-spinner"></div></div>
+          </div>
+        </div>
+        <!-- GeekNews Feed -->
+        <div class="feed-column">
+          <div class="feed-header">
+            <h2>GeekNews AI</h2>
+            <span class="feed-badge">Korea</span>
+          </div>
+          <div class="feed-list" id="geeknewsFeed">
             <div class="placeholder-loader small"><div class="loader-spinner"></div></div>
           </div>
         </div>
@@ -164,6 +167,8 @@
         <span>AI Agent Trends &copy; 2026</span>
         <span class="footer-sep">&middot;</span>
         <span>Auto-updated via GitHub Actions</span>
+        <span class="footer-sep">&middot;</span>
+        <span>Data: GitHub, HuggingFace, GeekNews</span>
       </div>
     </div>
   </footer>

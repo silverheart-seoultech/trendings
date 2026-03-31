@@ -1,5 +1,5 @@
 // =============================================
-// AI Agent Trends — App Controller v2
+// AI Agent Trends — App Controller v3
 // =============================================
 
 const BASE = 'data';
@@ -8,6 +8,7 @@ let ghTrending = null;
 let hfTrending = null;
 let benchData = null;
 let articlesData = null;
+let geekNewsData = null;
 let activeCat = 'all';
 let sortBy = 'recent';
 let ghPeriod = 'daily';
@@ -76,29 +77,54 @@ function md(text) {
 
 /* ---- Data Loading ---- */
 async function boot() {
-  const [t, g, h, b, a] = await Promise.allSettled([
+  // Read URL state
+  const params = new URLSearchParams(location.search);
+  if (params.get('cat')) activeCat = params.get('cat');
+  if (params.get('sort')) sortBy = params.get('sort');
+  if (params.get('q')) query = params.get('q');
+
+  const [t, g, h, b, a, gn] = await Promise.allSettled([
     fetch(`${BASE}/tools.json`).then(r => r.json()),
     fetch(`${BASE}/github_trending.json`).then(r => r.json()),
     fetch(`${BASE}/hf_trending.json`).then(r => r.json()),
     fetch(`${BASE}/benchmarks.json`).then(r => r.json()),
     fetch(`${BASE}/articles.json`).then(r => r.json()),
+    fetch(`${BASE}/geeknews.json`).then(r => r.json()),
   ]);
   if (t.status === 'fulfilled') toolsData = t.value;
   if (g.status === 'fulfilled') ghTrending = g.value;
   if (h.status === 'fulfilled') hfTrending = h.value;
   if (b.status === 'fulfilled') benchData = b.value;
   if (a.status === 'fulfilled') articlesData = a.value;
+  if (gn.status === 'fulfilled') geekNewsData = gn.value;
+
+  // Restore UI state
+  if (query) document.getElementById('searchInput').value = query;
+  document.getElementById('sortSelect').value = sortBy;
+
   render();
+}
+
+function syncURL() {
+  const params = new URLSearchParams();
+  if (activeCat !== 'all') params.set('cat', activeCat);
+  if (sortBy !== 'recent') params.set('sort', sortBy);
+  if (query) params.set('q', query);
+  const qs = params.toString();
+  history.replaceState(null, '', qs ? '?' + qs : location.pathname);
 }
 
 /* ---- Render All ---- */
 function render() {
   renderUpdated();
+  renderTopics();
+  renderHighlights();
   renderTabs();
   renderStats();
   renderTools();
   renderGH();
   renderHF();
+  renderGeekNews();
   renderCatTrending();
 }
 
@@ -107,6 +133,75 @@ function renderUpdated() {
   if (toolsData?.last_updated) {
     el.innerHTML = `<span class="live-dot"></span> Updated ${timeAgo(toolsData.last_updated)}`;
   }
+}
+
+/* ---- Trending Topics ---- */
+function renderTopics() {
+  const el = document.getElementById('topicPills');
+  // Extract trending topics from GitHub trending descriptions
+  const topicCounts = {};
+  const topicKws = ['mcp','rag','agent','llm','diffusion','workflow','tts','voice','video','coding','browser','local','fine-tune','multimodal','embedding','vector'];
+  (ghTrending?.ai_trending || []).concat(ghTrending?.ai_daily || []).forEach(r => {
+    const text = `${r.full_name} ${r.description || ''}`.toLowerCase();
+    topicKws.forEach(kw => { if (text.includes(kw)) topicCounts[kw] = (topicCounts[kw] || 0) + 1; });
+  });
+  const sorted = Object.entries(topicCounts).sort((a,b) => b[1] - a[1]).slice(0, 12);
+  if (!sorted.length) { el.innerHTML = ''; return; }
+  el.innerHTML = sorted.map(([kw, count]) =>
+    `<span class="topic-pill" data-topic="${kw}"><span class="pill-hash">#</span>${kw} <span style="opacity:.4;margin-left:2px">${count}</span></span>`
+  ).join('');
+  el.addEventListener('click', e => {
+    const pill = e.target.closest('.topic-pill');
+    if (!pill) return;
+    document.getElementById('searchInput').value = pill.dataset.topic;
+    query = pill.dataset.topic;
+    syncURL();
+    renderTools();
+  });
+}
+
+/* ---- Today's Highlights ---- */
+function renderHighlights() {
+  const el = document.getElementById('highlightsGrid');
+  const items = [];
+
+  // Recently updated tools (last 7 days)
+  const week = 7 * 86400 * 1000;
+  (toolsData?.tools || []).filter(t => t.last_push && (Date.now() - new Date(t.last_push)) < week)
+    .sort((a,b) => new Date(b.last_push) - new Date(a.last_push))
+    .slice(0, 3)
+    .forEach(t => items.push({ type:'new', icon:'🔥', title:t.name, sub:`Updated ${timeAgo(t.last_push)}`, stat:fmt(t.stars), statClass:'hot', url:t.website || t.github_url, toolId:t.id }));
+
+  // Top daily trending repos
+  (ghTrending?.ai_daily || []).slice(0, 3).forEach(r =>
+    items.push({ type:'hot', icon:'⭐', title:r.full_name.split('/').pop(), sub:r.trending_stars || `${fmt(r.stars)} stars`, stat:r.trending_stars || '', statClass:'hot', url:r.url })
+  );
+
+  // Top GeekNews
+  (geekNewsData?.posts || []).slice(0, 2).forEach(p =>
+    items.push({ type:'surge', icon:'📰', title:p.title, sub:`${p.points}P · GeekNews`, stat:`${p.points}P`, statClass:'green', url:p.url })
+  );
+
+  if (!items.length) { el.innerHTML = ''; return; }
+  el.innerHTML = items.map(it => `
+    <a class="highlight-card hl-${it.type}" href="${it.url || '#'}" ${it.url ? 'target="_blank" rel="noopener"' : ''} ${it.toolId ? `data-tool="${it.toolId}"` : ''}>
+      <div class="hl-icon">${it.icon}</div>
+      <div class="hl-info">
+        <div class="hl-title">${it.title}</div>
+        <div class="hl-sub">${it.sub}</div>
+      </div>
+      ${it.stat ? `<span class="hl-stat ${it.statClass}">${it.stat}</span>` : ''}
+    </a>
+  `).join('');
+
+  // Click on tool highlights opens modal
+  el.querySelectorAll('[data-tool]').forEach(card => {
+    card.addEventListener('click', e => {
+      e.preventDefault();
+      const tool = toolsData.tools.find(t => t.id === card.dataset.tool);
+      if (tool) openModal(tool);
+    });
+  });
 }
 
 function renderTabs() {
@@ -126,8 +221,16 @@ function renderTabs() {
     wrap.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
     b.classList.add('active');
     activeCat = b.dataset.category;
+    syncURL();
     renderTools();
   });
+
+  // Restore active tab from URL
+  if (activeCat !== 'all') {
+    wrap.querySelectorAll('.tab').forEach(t => {
+      t.classList.toggle('active', t.dataset.category === activeCat);
+    });
+  }
 }
 
 function renderStats() {
@@ -186,6 +289,14 @@ function renderTools() {
   // Check which tools have articles
   const articleIds = new Set((articlesData?.articles || []).map(a => a.tool_id));
 
+  function freshness(lp) {
+    if (!lp) return '';
+    const days = (Date.now() - new Date(lp)) / 86400000;
+    if (days < 7) return '<span class="freshness freshness-hot" title="Active (< 7 days)"></span>';
+    if (days < 30) return '<span class="freshness freshness-warm" title="Recent (< 30 days)"></span>';
+    return '<span class="freshness freshness-cold" title="Stale (> 30 days)"></span>';
+  }
+
   grid.innerHTML = list.map(t => {
     const c = cats[t.category] || {};
     const hasArticle = articleIds.has(t.id);
@@ -195,7 +306,7 @@ function renderTools() {
         <span class="card-cat cat-${t.category}">${c.icon || ''} ${c.name_en || t.category}</span>
         <span class="card-score ${sClass(t.trending_score||0)}">${t.trending_score||0}</span>
       </div>
-      <div class="card-name">${t.name}${hasArticle ? '<span class="card-article-dot" title="Deep Dive available"></span>' : ''}</div>
+      <div class="card-name">${freshness(t.last_push)}${t.name}${hasArticle ? '<span class="card-article-dot" title="Deep Dive available"></span>' : ''}</div>
       <div class="card-desc">${t.description}</div>
       ${t.pricing ? `<div class="card-pricing">${t.pricing}</div>` : ''}
       <div class="card-meta">
@@ -287,6 +398,26 @@ function renderHF() {
         <div class="feed-desc">${m.pipeline_tag || ''}</div>
       </div>
       <span class="feed-stat">${I.heart} ${fmt(m.likes)}&ensp;${I.dl} ${fmt(m.downloads)}</span>
+    </a>
+  `).join('');
+}
+
+/* ---- GeekNews Feed ---- */
+function renderGeekNews() {
+  const el = document.getElementById('geeknewsFeed');
+  const posts = geekNewsData?.posts || [];
+  if (!posts.length) {
+    el.innerHTML = '<div class="placeholder-loader small"><p style="font-size:11px;color:var(--text-3)">No GeekNews data</p></div>';
+    return;
+  }
+  el.innerHTML = posts.slice(0, 15).map((p, i) => `
+    <a class="feed-item" href="${p.url}" target="_blank" rel="noopener">
+      <span class="feed-rank ${i < 3 ? 'gold' : ''}">${i + 1}</span>
+      <div class="feed-info">
+        <div class="feed-name">${p.title}</div>
+        <div class="feed-desc">${p.source || 'GeekNews'}</div>
+      </div>
+      <span class="feed-stat" style="color:var(--orange)">${p.points}P</span>
     </a>
   `).join('');
 }
@@ -410,12 +541,13 @@ document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal()
 let timer;
 document.getElementById('searchInput').addEventListener('input', e => {
   clearTimeout(timer);
-  timer = setTimeout(() => { query = e.target.value.trim(); renderTools(); }, 180);
+  timer = setTimeout(() => { query = e.target.value.trim(); syncURL(); renderTools(); }, 180);
 });
 
 /* ---- Sort ---- */
 document.getElementById('sortSelect').addEventListener('change', e => {
   sortBy = e.target.value;
+  syncURL();
   renderTools();
 });
 
