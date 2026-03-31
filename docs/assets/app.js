@@ -195,7 +195,7 @@ function renderTools() {
         <span class="card-cat cat-${t.category}">${c.icon || ''} ${c.name_en || t.category}</span>
         <span class="card-score ${sClass(t.trending_score||0)}">${t.trending_score||0}</span>
       </div>
-      <div class="card-name">${t.name}</div>
+      <div class="card-name">${t.name}${hasArticle ? '<span class="card-article-dot" title="Deep Dive available"></span>' : ''}</div>
       <div class="card-desc">${t.description}</div>
       ${t.pricing ? `<div class="card-pricing">${t.pricing}</div>` : ''}
       <div class="card-meta">
@@ -361,9 +361,15 @@ function openModal(t) {
     </div>
     ${t.last_push ? `<div style="font-size:11px;color:var(--text-3);margin-bottom:20px">Last updated: ${timeAgo(t.last_push)} ${t.pricing ? ' &middot; ' + t.pricing : ''}</div>` : (t.pricing ? `<div style="font-size:11px;color:var(--green);margin-bottom:20px">${t.pricing}</div>` : '')}
 
+    ${t.key_features ? `
+    <div class="m-section">
+      <h3 class="m-section-title">Key Features</h3>
+      <ul class="feature-grid">${t.key_features.map(f => `<li>${f}</li>`).join('')}</ul>
+    </div>` : ''}
+
     ${article ? `
     <div class="m-section">
-      <h3 class="m-section-title">${article.title}</h3>
+      <h3 class="m-section-title">Deep Dive</h3>
       <div class="article-meta">
         <span class="article-meta-item">${I.clock} ${article.read_time} min read</span>
         <span class="article-meta-item">${(article.tags||[]).map(g => '#'+g).join(' ')}</span>
@@ -372,13 +378,7 @@ function openModal(t) {
     </div>
     ` : ''}
 
-    ${!article && t.key_features ? `
-    <div class="m-section">
-      <h3 class="m-section-title">Key Features</h3>
-      <ul class="feature-grid">${t.key_features.map(f => `<li>${f}</li>`).join('')}</ul>
-    </div>` : ''}
-
-    ${!article && t.install_guide ? `
+    ${t.install_guide ? `
     <div class="m-section">
       <h3 class="m-section-title">Quick Start</h3>
       <div class="code-block"><pre>${highlight(t.install_guide)}</pre></div>
