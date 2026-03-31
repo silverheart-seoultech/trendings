@@ -70,7 +70,13 @@
       "WebFetch(domain:neurocanvas.net)",
       "WebFetch(domain:deepwiki.com)",
       "WebFetch(domain:strapi.io)",
-      "WebFetch(domain:docs.openhands.dev)"
+      "WebFetch(domain:docs.openhands.dev)",
+      "Bash(git pull:*)",
+      "Bash(git stash:*)",
+      "WebFetch(domain:www.hyperstack.cloud)",
+      "WebFetch(domain:zapier.com)",
+      "WebFetch(domain:manus.im)",
+      "Bash(gh api:*)"
     ]
   }
 }

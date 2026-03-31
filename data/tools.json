@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-30T19:09:39.940250+00:00",
+  "last_updated": "2026-03-31T02:00:40.904910+00:00",
   "categories": [
     {
       "id": "coding-agents",
@@ -63,6 +63,41 @@
       "name_en": "Observability & Eval",
       "icon": "📊",
       "description": "AI 에이전트 모니터링, 트레이싱, 평가 도구"
+    },
+    {
+      "id": "video-generation",
+      "name": "영상 생성",
+      "name_en": "Video Generation",
+      "icon": "🎬",
+      "description": "AI 기반 텍스트/이미지-to-비디오 생성 도구"
+    },
+    {
+      "id": "cloud-ai-ide",
+      "name": "클라우드 AI IDE",
+      "name_en": "Cloud AI IDE & Builders",
+      "icon": "☁️",
+      "description": "클라우드 기반 AI 코딩 에이전트, IDE, 앱 빌더"
+    },
+    {
+      "id": "voice-music-ai",
+      "name": "음성/음악 AI",
+      "name_en": "Voice & Music AI",
+      "icon": "🎵",
+      "description": "AI 음성 합성, 음악 생성, 음성 인식 도구"
+    },
+    {
+      "id": "ai-search",
+      "name": "AI 검색/리서치",
+      "name_en": "AI Search & Research",
+      "icon": "🔍",
+      "description": "AI 기반 검색 엔진 및 리서치 에이전트"
+    },
+    {
+      "id": "design-ai",
+      "name": "디자인 AI",
+      "name_en": "AI Design & Creative",
+      "icon": "🎨",
+      "description": "AI 기반 디자인, 이미지 생성, UI/UX 자동화 도구"
     }
   ],
   "tools": [
@@ -1006,6 +1041,911 @@
       "forks": 4499,
       "open_issues": 80,
       "last_push": "2026-03-30T19:07:22Z"
+    },
+    {
+      "id": "cursor",
+      "name": "Cursor",
+      "category": "cloud-ai-ide",
+      "description": "AI-first 코드 에디터. $2B ARR 달성, 100만+ 유료 사용자. 8개 병렬 에이전트, Composer 멀티파일 편집, Claude Opus 4.6/GPT-5 등 최신 모델 지원.",
+      "github_url": "",
+      "website": "https://cursor.com",
+      "stars": 0,
+      "trending_score": 85,
+      "key_features": [
+        "8개 병렬 에이전트 동시 실행",
+        "Composer 멀티파일 편집 (100+ 파일)",
+        "Claude Opus 4.6, GPT-5, Gemini 2.5 모델 지원",
+        "코드베이스 인덱싱 및 시맨틱 검색",
+        "Supermaven 자동완성"
+      ],
+      "install_guide": "# cursor.com에서 다운로드\n# macOS, Windows, Linux 지원\n\n# 또는 Homebrew (macOS)\nbrew install --cask cursor",
+      "tags": [
+        "cloud-ide",
+        "ai-first",
+        "multi-model"
+      ],
+      "license": "Proprietary",
+      "pricing": "Free / Pro $20/월 / Pro+ $60/월 / Ultra $200/월 / Teams $40/user/월"
+    },
+    {
+      "id": "windsurf",
+      "name": "Windsurf",
+      "category": "cloud-ai-ide",
+      "description": "Cognition이 인수한 AI IDE (구 Codeium). Cascade 자율 에이전트, 40+ IDE 플러그인 지원, SWE-1.5 독자 모델로 Sonnet 4.5급 성능 달성.",
+      "github_url": "",
+      "website": "https://windsurf.com",
+      "stars": 0,
+      "trending_score": 65,
+      "key_features": [
+        "Cascade 자율 코딩 에이전트",
+        "40+ IDE 플러그인 (JetBrains, Vim, XCode 등)",
+        "SWE-1.5 독자 코딩 모델 (Sonnet 4.5급)",
+        "Cognition Devin과 통합 예정",
+        "자동 테스트 실행 및 디버깅"
+      ],
+      "install_guide": "# windsurf.com에서 IDE 다운로드\n# 또는 기존 IDE에 플러그인 설치\n\n# VS Code 확장\next install windsurf.windsurf",
+      "tags": [
+        "cloud-ide",
+        "cognition",
+        "autonomous"
+      ],
+      "license": "Proprietary",
+      "pricing": "Free / Pro $20/월 / Teams $40/seat/월 / Max $200/월"
+    },
+    {
+      "id": "devin",
+      "name": "Devin",
+      "category": "cloud-ai-ide",
+      "description": "Cognition의 자율 AI 소프트웨어 엔지니어. 계획, 코딩, 디버깅, 배포, 모니터링까지 독립 수행. $73M+ ARR, Windsurf 인수로 IDE 통합 진행 중.",
+      "github_url": "",
+      "website": "https://devin.ai",
+      "stars": 0,
+      "trending_score": 70,
+      "key_features": [
+        "완전 자율 소프트웨어 개발 에이전트",
+        "계획-코딩-테스트-배포 전체 파이프라인",
+        "ACU(Agent Compute Unit) 기반 과금",
+        "Devin 2.0: 83% 성능 향상",
+        "Windsurf IDE 통합 진행 중"
+      ],
+      "install_guide": "# devin.ai에서 가입\n# 웹 브라우저 기반 - 별도 설치 불필요\n# Slack, GitHub 등 연동 가능",
+      "tags": [
+        "autonomous",
+        "cloud",
+        "full-stack"
+      ],
+      "license": "Proprietary",
+      "pricing": "Core $20/월 / Team $500/월 (250 ACU) / Enterprise 별도"
+    },
+    {
+      "id": "github-copilot",
+      "name": "GitHub Copilot",
+      "category": "cloud-ai-ide",
+      "description": "GitHub의 AI 코딩 어시스턴트. Agent Mode로 자율 PR 생성, 코딩 에이전트 기능, 시맨틱 코드 검색 지원. VS Code/JetBrains 통합.",
+      "github_url": "",
+      "website": "https://github.com/features/copilot",
+      "stars": 0,
+      "trending_score": 75,
+      "key_features": [
+        "Agent Mode: 자율 PR 생성 및 코드 리뷰",
+        "시맨틱 코드 검색 (개념 기반)",
+        "Claude Opus 4, GPT-5, Gemini 멀티모델 지원",
+        "VS Code + JetBrains 완전 지원",
+        "Coding Agent: 완전 자율 개발"
+      ],
+      "install_guide": "# VS Code에서 GitHub Copilot 확장 설치\n# 또는 JetBrains 플러그인 설치\n\n# GitHub 계정으로 로그인 필요",
+      "tags": [
+        "github",
+        "multi-model",
+        "enterprise"
+      ],
+      "license": "Proprietary",
+      "pricing": "Free (2000 완성/월) / Pro $10/월 / Pro+ $39/월 / Business $19/user/월 / Enterprise $39/user/월"
+    },
+    {
+      "id": "bolt-new",
+      "name": "Bolt.new",
+      "category": "cloud-ai-ide",
+      "description": "AI 풀스택 웹앱 빌더. 프롬프트 하나로 프론트엔드, 백엔드, DB 포함 완전한 앱 생성. Bolt Cloud로 인증, 스토리지, 호스팅까지 내장.",
+      "github_url": "https://github.com/stackblitz/bolt.new",
+      "website": "https://bolt.new",
+      "stars": 30000,
+      "trending_score": 60,
+      "key_features": [
+        "프롬프트 → 풀스택 앱 자동 생성",
+        "Bolt Cloud: DB, 인증, 스토리지, 호스팅 내장",
+        "GitHub 통합 및 소스코드 다운로드",
+        "Interaction Discussion Mode (AI 브레인스토밍)",
+        "토큰 롤오버 시스템"
+      ],
+      "install_guide": "# bolt.new 웹사이트에서 바로 사용\n# 별도 설치 불필요 - 브라우저 기반\n\n# GitHub 연동으로 코드 내보내기 가능",
+      "tags": [
+        "no-code",
+        "full-stack",
+        "cloud"
+      ],
+      "license": "Proprietary",
+      "pricing": "Free (150K 토큰/일) / Pro $20/월 / Pro 50 $50/월 / Pro 200 $200/월"
+    },
+    {
+      "id": "lovable",
+      "name": "Lovable",
+      "category": "cloud-ai-ide",
+      "description": "AI 앱 빌더. $300M ARR, $6.6B 기업가치. Agent Mode 자율 개발, 실시간 20명 협업, Lovable Cloud(Supabase) 백엔드 자동 프로비저닝.",
+      "github_url": "",
+      "website": "https://lovable.dev",
+      "stars": 0,
+      "trending_score": 62,
+      "key_features": [
+        "Agent Mode: 자율 코드베이스 탐색 및 디버깅",
+        "실시간 20명 멀티유저 협업 편집",
+        "Lovable Cloud (Supabase 기반 백엔드 자동 프로비저닝)",
+        "Visual Edits: 클릭으로 UI 요소 직접 수정",
+        "Klarna, Uber, Zendesk 등 엔터프라이즈 고객"
+      ],
+      "install_guide": "# lovable.dev에서 가입\n# 브라우저 기반 - 별도 설치 불필요\n# GitHub/Supabase 연동 지원",
+      "tags": [
+        "no-code",
+        "collaborative",
+        "cloud"
+      ],
+      "license": "Proprietary",
+      "pricing": "Free (5 크레딧/일) / Pro $25/월 / Business $50/월 / Enterprise 별도"
+    },
+    {
+      "id": "v0",
+      "name": "v0 (Vercel)",
+      "category": "cloud-ai-ide",
+      "description": "Vercel의 AI UI 생성 플랫폼. shadcn/ui + Tailwind CSS 기반 프로덕션 레디 컴포넌트 생성. Git 통합, VS Code 에디터, DB 연결까지 지원하는 풀 플랫폼으로 진화.",
+      "github_url": "",
+      "website": "https://v0.app",
+      "stars": 0,
+      "trending_score": 55,
+      "key_features": [
+        "shadcn/ui + Tailwind CSS 프로덕션 레디 출력",
+        "Git 통합 및 VS Code 스타일 에디터",
+        "Figma 임포트 지원",
+        "Mini/Pro/Max AI 모델 (React 특화)",
+        "GitHub 리포지토리 직접 임포트"
+      ],
+      "install_guide": "# v0.app에서 가입\n# 브라우저 기반 - 별도 설치 불필요\n# Vercel 배포 자동 연동",
+      "tags": [
+        "ui-generation",
+        "vercel",
+        "react"
+      ],
+      "license": "Proprietary",
+      "pricing": "Free ($5 크레딧) / Premium $20/월 / Team $30/user/월 / Business $100/user/월"
+    },
+    {
+      "id": "replit-agent",
+      "name": "Replit Agent",
+      "category": "cloud-ai-ide",
+      "description": "Replit의 자율 AI 개발 에이전트. Agent 3로 프론트엔드, 백엔드, DB, API 통합까지 프롬프트 하나로 구축. 노력 기반 과금, 모바일 앱 지원.",
+      "github_url": "",
+      "website": "https://replit.com/products/agent",
+      "stars": 0,
+      "trending_score": 50,
+      "key_features": [
+        "Agent 3: 자율 풀스택 앱 빌드",
+        "자동 웹 검색 및 최신 정보 활용",
+        "자동 브라우저 테스트 및 리플렉션 루프",
+        "에이전트가 다른 에이전트/워크플로우 생성 가능",
+        "모바일 앱에서도 빌드/테스트 가능"
+      ],
+      "install_guide": "# replit.com에서 가입\n# 브라우저 기반 - 별도 설치 불필요\n# iOS/Android 모바일 앱 제공",
+      "tags": [
+        "cloud-ide",
+        "autonomous",
+        "mobile"
+      ],
+      "license": "Proprietary",
+      "pricing": "Free / Core $25/월 ($25 크레딧) / Teams $40/user/월 / Enterprise 별도"
+    },
+    {
+      "id": "elevenlabs",
+      "name": "ElevenLabs",
+      "category": "voice-music-ai",
+      "description": "AI 음성 합성 및 클로닝 플랫폼. 70+ 언어 지원, 즉시/프로페셔널 음성 클로닝, AI 더빙, 대화형 AI 음성 에이전트 제공.",
+      "github_url": "https://github.com/elevenlabs/elevenlabs-python",
+      "website": "https://elevenlabs.io",
+      "stars": 2900,
+      "trending_score": 65,
+      "key_features": [
+        "즉시 음성 클로닝 (수초 샘플로 복제)",
+        "70+ 언어 TTS 및 감정 조절",
+        "AI 비디오 더빙 (원본 음성 보존)",
+        "대화형 AI 음성 에이전트",
+        "Python/JS/Kotlin SDK 및 MCP 서버"
+      ],
+      "install_guide": "pip install elevenlabs\n\n# API 키 설정\nexport ELEVEN_API_KEY=your-key\n\n# Python 사용 예시\nfrom elevenlabs import ElevenLabs\nclient = ElevenLabs()",
+      "tags": [
+        "voice-cloning",
+        "tts",
+        "api"
+      ],
+      "license": "Proprietary (SDK: MIT)",
+      "pricing": "Free (10K 크레딧/월) / Starter $5/월 / Creator $11/월 / Pro $99/월 / Scale $330/월"
+    },
+    {
+      "id": "suno",
+      "name": "Suno",
+      "category": "voice-music-ai",
+      "description": "AI 음악 생성 플랫폼. 텍스트/허밍으로 완전한 노래 생성. Suno Studio는 AI 네이티브 DAW로 타임라인 편집, MIDI 익스포트, 레이어링 지원.",
+      "github_url": "",
+      "website": "https://suno.com",
+      "stars": 0,
+      "trending_score": 60,
+      "key_features": [
+        "텍스트/허밍 → 완전한 노래 생성",
+        "Suno Studio: AI 네이티브 DAW",
+        "MIDI 익스포트 및 스템 분리",
+        "v5 모델: 장르/스타일 세밀 제어",
+        "다국어 노래 생성"
+      ],
+      "install_guide": "# suno.com에서 가입\n# 브라우저 기반 - 별도 설치 불필요\n# API는 별도 신청 필요",
+      "tags": [
+        "music-generation",
+        "daw",
+        "cloud"
+      ],
+      "license": "Proprietary",
+      "pricing": "Free (50 크레딧/일) / Pro ~$8/월 (연간) / Premier ~$24/월 (연간)"
+    },
+    {
+      "id": "udio",
+      "name": "Udio",
+      "category": "voice-music-ai",
+      "description": "AI 음악 생성 플랫폼. 텍스트/가사를 완전한 곡으로 변환. 스템 다운로드, 인페인팅(특정 구간 재생성), 리믹스, 레퍼런스 오디오 스타일 전이 지원.",
+      "github_url": "",
+      "website": "https://www.udio.com",
+      "stars": 0,
+      "trending_score": 45,
+      "key_features": [
+        "텍스트/가사 → 완전한 노래 변환",
+        "스템 다운로드 및 인페인팅",
+        "장르 변경 리믹스 (멜로디 유지)",
+        "레퍼런스 오디오 기반 스타일 전이",
+        "30초 연장으로 점진적 트랙 빌드"
+      ],
+      "install_guide": "# udio.com에서 가입\n# 브라우저 기반 - 별도 설치 불필요",
+      "tags": [
+        "music-generation",
+        "stems",
+        "cloud"
+      ],
+      "license": "Proprietary",
+      "pricing": "Free (10 크레딧/일) / Standard $10/월 / Pro $30/월"
+    },
+    {
+      "id": "bark",
+      "name": "Bark",
+      "category": "voice-music-ai",
+      "description": "Suno의 오픈소스 텍스트→오디오 생성 모델. 다국어 음성, 음악, 배경 소음, 음향 효과까지 생성 가능한 풀 제너레이티브 오디오 모델. 39K+ 스타.",
+      "github_url": "https://github.com/suno-ai/bark",
+      "website": "https://github.com/suno-ai/bark",
+      "stars": 39100,
+      "trending_score": 40,
+      "key_features": [
+        "텍스트 → 음성/음악/효과음 생성",
+        "다국어 음성 합성",
+        "음악 및 배경 소음 생성",
+        "프롬프트 기반 감정/톤 제어",
+        "Hugging Face 통합"
+      ],
+      "install_guide": "pip install git+https://github.com/suno-ai/bark.git\n\n# 사용 예시\nfrom bark import SAMPLE_RATE, generate_audio, preload_models\npreload_models()\naudio = generate_audio(\"Hello, my name is Bark.\")",
+      "tags": [
+        "open-source",
+        "tts",
+        "generative-audio"
+      ],
+      "license": "MIT",
+      "forks": 4500,
+      "open_issues": 300,
+      "last_push": "2024-08-15T00:00:00Z"
+    },
+    {
+      "id": "whisperx",
+      "name": "WhisperX",
+      "category": "voice-music-ai",
+      "description": "고속 음성 인식 도구. OpenAI Whisper 기반으로 60-70x 실시간 속도, 단어 단위 타임스탬프, 화자 분리(Diarization) 기능 제공. 21K+ 스타.",
+      "github_url": "https://github.com/m-bain/whisperX",
+      "website": "https://github.com/m-bain/whisperX",
+      "stars": 21000,
+      "trending_score": 42,
+      "key_features": [
+        "60-70x 실시간 속도 배치 추론",
+        "단어 단위 정확한 타임스탬프",
+        "화자 분리 (Speaker Diarization)",
+        "VAD 기반 효율적 전처리",
+        "다국어 음성 인식"
+      ],
+      "install_guide": "pip install whisperx\n\n# 또는 소스에서 설치\npip install git+https://github.com/m-bain/whisperx.git\n\n# 사용 예시\nimport whisperx\nmodel = whisperx.load_model(\"large-v2\", device=\"cuda\")",
+      "tags": [
+        "open-source",
+        "speech-recognition",
+        "diarization"
+      ],
+      "license": "BSD-4-Clause"
+    },
+    {
+      "id": "faster-whisper",
+      "name": "Faster-Whisper",
+      "category": "voice-music-ai",
+      "description": "CTranslate2 기반 고속 Whisper 재구현. 원본 대비 4x 빠른 속도에 메모리 사용량 감소. 실시간 스트리밍 지원, 21.8K+ 스타.",
+      "github_url": "https://github.com/SYSTRAN/faster-whisper",
+      "website": "https://github.com/SYSTRAN/faster-whisper",
+      "stars": 21800,
+      "trending_score": 40,
+      "key_features": [
+        "원본 Whisper 대비 4x 빠른 추론",
+        "CTranslate2 최적화 엔진",
+        "CPU/GPU 모두 지원",
+        "메모리 사용량 대폭 감소",
+        "실시간 스트리밍 전사"
+      ],
+      "install_guide": "pip install faster-whisper\n\n# 사용 예시\nfrom faster_whisper import WhisperModel\nmodel = WhisperModel(\"large-v3\", device=\"cuda\")\nsegments, info = model.transcribe(\"audio.mp3\")",
+      "tags": [
+        "open-source",
+        "speech-recognition",
+        "fast-inference"
+      ],
+      "license": "MIT"
+    },
+    {
+      "id": "f5-tts",
+      "name": "F5-TTS",
+      "category": "voice-music-ai",
+      "description": "Flow Matching 기반 비자기회귀 TTS 모델. 100K시간 다국어 데이터로 학습, 제로샷 음성 복제, 코드 스위칭, RTF 0.15의 빠른 추론 속도. 14.3K 스타.",
+      "github_url": "https://github.com/SWivid/F5-TTS",
+      "website": "https://swivid.github.io/F5-TTS/",
+      "stars": 14300,
+      "trending_score": 45,
+      "key_features": [
+        "Flow Matching + DiT 아키텍처",
+        "제로샷 음성 복제",
+        "다국어 코드 스위칭",
+        "RTF 0.15 고속 추론",
+        "Sway Sampling 전략"
+      ],
+      "install_guide": "pip install f5-tts\n\n# 또는 소스에서\ngit clone https://github.com/SWivid/F5-TTS.git\ncd F5-TTS\npip install -e .\n\n# Gradio 데모 실행\nf5-tts_infer-gradio",
+      "tags": [
+        "open-source",
+        "tts",
+        "zero-shot"
+      ],
+      "license": "CC-BY-NC-4.0"
+    },
+    {
+      "id": "kokoro-tts",
+      "name": "Kokoro TTS",
+      "category": "voice-music-ai",
+      "description": "82M 파라미터 경량 TTS 모델. $1000 학습 비용으로 대형 모델급 품질 달성. 8개 언어, 54개 음성 지원. Apache 라이선스, 100만 글자당 $1 미만 비용.",
+      "github_url": "https://github.com/hexgrad/kokoro",
+      "website": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "stars": 6200,
+      "trending_score": 50,
+      "key_features": [
+        "82M 파라미터 초경량 모델",
+        "8개 언어, 54개 음성 지원",
+        "Apache 라이선스 상용 가능",
+        "$1 미만/100만 글자 추론 비용",
+        "ONNX 런타임 지원"
+      ],
+      "install_guide": "pip install kokoro\n\n# 또는 CLI 도구\npip install kokoro-tts\n\n# ONNX 버전\npip install kokoro-onnx\n\n# 사용 예시\nkokoro-tts \"안녕하세요\" -v af_heart -o output.wav",
+      "tags": [
+        "open-source",
+        "tts",
+        "lightweight"
+      ],
+      "license": "Apache-2.0"
+    },
+    {
+      "id": "midjourney",
+      "name": "Midjourney",
+      "category": "design-ai",
+      "description": "최고 품질 AI 이미지 생성기. V7 모델의 뛰어난 미학, V8 알파(2026.3)는 5x 빠른 생성, 네이티브 2K 해상도, 향상된 텍스트 렌더링 제공.",
+      "github_url": "",
+      "website": "https://midjourney.com",
+      "stars": 0,
+      "trending_score": 70,
+      "key_features": [
+        "V8 Alpha: 5x 빠른 생성, 네이티브 2K",
+        "V7: 개인화 프로필 (미학 학습)",
+        "Omni Reference: 캐릭터 일관성",
+        "향상된 복잡 프롬프트 이해력",
+        "이미지→이미지 스타일 변환"
+      ],
+      "install_guide": "# midjourney.com에서 가입\n# Discord 또는 웹 인터페이스 사용\n# 무료 체험판 없음 - 유료 구독 필요",
+      "tags": [
+        "image-generation",
+        "cloud",
+        "premium"
+      ],
+      "license": "Proprietary",
+      "pricing": "Basic $10/월 / Standard $30/월 / Pro $60/월 / Mega $120/월"
+    },
+    {
+      "id": "figma-ai",
+      "name": "Figma AI",
+      "category": "design-ai",
+      "description": "Figma에 내장된 AI 디자인 도구 모음. 이미지 편집(배경 제거, 벡터화, 해상도 향상), 자동 레이어 이름 지정, AI 컴포넌트 검색, 콘텐츠 톤 조정.",
+      "github_url": "",
+      "website": "https://www.figma.com",
+      "stars": 0,
+      "trending_score": 55,
+      "key_features": [
+        "AI 배경 제거, 벡터화, 해상도 향상",
+        "자동 레이어 이름 지정 및 인터랙션 추가",
+        "AI 컴포넌트/에셋 검색",
+        "FigJam 스티키 요약",
+        "Figma Make: 텍스트→디자인 생성"
+      ],
+      "install_guide": "# figma.com에서 가입\n# 브라우저 기반 또는 데스크탑 앱\n# AI 기능은 모든 플랜에 포함 (크레딧 제한)",
+      "tags": [
+        "design",
+        "collaborative",
+        "ui-ux"
+      ],
+      "license": "Proprietary",
+      "pricing": "Free / Starter $3/editor/월 / Pro $12/editor/월 / Organization $45/editor/월"
+    },
+    {
+      "id": "google-stitch",
+      "name": "Google Stitch (구 Galileo AI)",
+      "category": "design-ai",
+      "description": "Google이 Galileo AI를 인수하여 만든 AI UI 생성 도구. Gemini 기반, 텍스트→UI/와이어프레임→UI 변환, Figma 연동. 2026년 현재 무료 베타.",
+      "github_url": "",
+      "website": "https://stitch.withgoogle.com",
+      "stars": 0,
+      "trending_score": 40,
+      "key_features": [
+        "텍스트→UI 및 이미지→UI 생성",
+        "와이어프레임→완성 디자인 변환",
+        "Figma 원활 통합 및 익스포트",
+        "Gemini 기반 자연어 디자인",
+        "커스텀 디자인 시스템 지원"
+      ],
+      "install_guide": "# stitch.withgoogle.com에서 가입\n# 브라우저 기반 - 별도 설치 불필요\n# 현재 무료 베타",
+      "tags": [
+        "design",
+        "google",
+        "text-to-ui"
+      ],
+      "license": "Proprietary",
+      "pricing": "무료 (베타) / 정식 가격 미정"
+    },
+    {
+      "id": "canva-ai",
+      "name": "Canva AI (Magic Studio)",
+      "category": "design-ai",
+      "description": "Canva에 내장된 25+ AI 도구 모음. Magic Media(이미지/비디오 생성), Magic Write(카피 생성), Magic Expand/Grab(이미지 편집), 배경 제거 등.",
+      "github_url": "",
+      "website": "https://www.canva.com/magic/",
+      "stars": 0,
+      "trending_score": 58,
+      "key_features": [
+        "Magic Media: 텍스트→이미지/비디오 생성",
+        "Magic Write: AI 카피라이팅",
+        "Magic Expand/Grab: 이미지 확장/오브젝트 이동",
+        "원클릭 배경 제거 (사진/비디오)",
+        "25+ AI 도구 통합 에디터"
+      ],
+      "install_guide": "# canva.com에서 가입\n# 브라우저, iOS, Android 앱 지원\n# 비영리/교육기관 무료 Pro 제공",
+      "tags": [
+        "design",
+        "no-code",
+        "all-in-one"
+      ],
+      "license": "Proprietary",
+      "pricing": "Free (제한적 AI) / Pro $15/월 / Teams $100/년/인 / Enterprise 별도"
+    },
+    {
+      "id": "perplexity",
+      "name": "Perplexity AI",
+      "category": "ai-search",
+      "description": "AI 기반 검색 엔진. $656M ARR(2026 추정). 19개 AI 모델 통합, Model Council(GPT-5.2/Claude 4.6 비교), Perplexity Computer 에이전트 제공.",
+      "github_url": "",
+      "website": "https://www.perplexity.ai",
+      "stars": 0,
+      "trending_score": 72,
+      "key_features": [
+        "19개 AI 모델 통합 검색",
+        "Model Council: 다중 LLM 출력 비교",
+        "Perplexity Computer: 에이전틱 도구",
+        "Search API ($5/1000 요청)",
+        "Comet AI 브라우저 (개발 중)"
+      ],
+      "install_guide": "# perplexity.ai에서 가입\n# 브라우저 기반 - 별도 설치 불필요\n# iOS/Android 앱 제공\n# API: pip install perplexity",
+      "tags": [
+        "search",
+        "multi-model",
+        "api"
+      ],
+      "license": "Proprietary",
+      "pricing": "Free / Pro $20/월 / Enterprise Pro $40/seat/월 / Max $325/seat/월"
+    },
+    {
+      "id": "genspark",
+      "name": "Genspark",
+      "category": "ai-search",
+      "description": "AI 에이전트 기반 워크스페이스. Super Agent가 리서치, 슬라이드, 시트, 이미지 생성 등 다양한 작업을 전문 에이전트에 위임하여 자동 처리.",
+      "github_url": "",
+      "website": "https://www.genspark.ai",
+      "stars": 0,
+      "trending_score": 38,
+      "key_features": [
+        "Sparkpages: 수십 소스 종합 보고서 생성",
+        "Super Agent: 작업 자동 분배 및 처리",
+        "AI Slides: 프롬프트→슬라이드 자동 생성",
+        "AI Sheets: 웹 리서치→데이터 테이블",
+        "Image Studio: 이미지/비디오 생성"
+      ],
+      "install_guide": "# genspark.ai에서 가입\n# 브라우저 기반 - 별도 설치 불필요",
+      "tags": [
+        "search",
+        "workspace",
+        "agents"
+      ],
+      "license": "Proprietary",
+      "pricing": "Free (100 크레딧/일) / Plus $24.99/월 / Pro $249.99/월"
+    },
+    {
+      "id": "gemini-search",
+      "name": "Google Gemini / AI Overview",
+      "category": "ai-search",
+      "description": "Google 검색에 통합된 AI. Gemini 3 기반 AI Overviews, AI Mode 대화형 검색, Canvas 인터랙티브 워크스페이스, Deep Search 심층 분석. 7.5억+ 사용자.",
+      "github_url": "",
+      "website": "https://gemini.google.com",
+      "stars": 0,
+      "trending_score": 80,
+      "key_features": [
+        "AI Overviews: Gemini 3 기반 검색 요약",
+        "AI Mode: 대화형 검색 + Canvas 워크스페이스",
+        "Deep Search: 정교한 쿼리의 심층 분석",
+        "Gmail/Drive 통합 AI 검색",
+        "750M+ 월간 사용자"
+      ],
+      "install_guide": "# google.com에서 바로 사용 (AI Overviews)\n# gemini.google.com에서 Gemini 앱 접속\n# iOS/Android 앱 제공",
+      "tags": [
+        "search",
+        "google",
+        "integrated"
+      ],
+      "license": "Proprietary",
+      "pricing": "Free / Plus $7.99/월 / AI Pro $19.99/월 / Ultra $124.99/3개월"
+    },
+    {
+      "id": "chatgpt-search",
+      "name": "ChatGPT Search (SearchGPT)",
+      "category": "ai-search",
+      "description": "OpenAI의 실시간 웹 검색 기능. ChatGPT에 통합된 검색으로 출처 인용 답변 제공. GPT-5 기반, 팩트 체크/제품 비교/시사 이벤트에 강점.",
+      "github_url": "",
+      "website": "https://chatgpt.com",
+      "stars": 0,
+      "trending_score": 75,
+      "key_features": [
+        "실시간 웹 검색 + 출처 인용",
+        "GPT-5 기반 추론형 검색",
+        "Deep Research: 심층 리서치 기능",
+        "Go/Plus/Pro/Team 다양한 플랜",
+        "이미지 생성, 파일 업로드 통합"
+      ],
+      "install_guide": "# chatgpt.com에서 가입\n# 브라우저 기반 - 별도 설치 불필요\n# iOS/Android/macOS/Windows 앱 제공",
+      "tags": [
+        "search",
+        "openai",
+        "integrated"
+      ],
+      "license": "Proprietary",
+      "pricing": "Free / Go $8/월 / Plus $20/월 / Pro $200/월 / Team $25/user/월"
+    },
+    {
+      "id": "veo",
+      "name": "Veo 3.1 (Google)",
+      "category": "video-generation",
+      "description": "Google DeepMind의 최신 영상 생성 모델. 업계 최초 진정한 4K 해상도, 영상+오디오 동시 생성, 네이티브 9:16 세로 영상 지원.",
+      "github_url": null,
+      "website": "https://deepmind.google/technologies/veo/",
+      "stars": null,
+      "trending_score": 95,
+      "key_features": [
+        "진정한 4K 해상도 (업계 최초)",
+        "영상+오디오 동시 생성 (대화, 효과음)",
+        "네이티브 9:16 세로 영상 (TikTok/Shorts 최적화)",
+        "최대 3개 참조 이미지 지원",
+        "시네마틱 카메라워크/조명 이해"
+      ],
+      "install_guide": "# Google AI Studio에서 사용\n# https://aistudio.google.com\n\n# API 사용\n# Vertex AI에서 Veo 3.1 엔드포인트 활성화\n# Fast: $0.15/초, Standard: $0.40/초",
+      "tags": [
+        "cloud",
+        "4k",
+        "audio-sync",
+        "google"
+      ],
+      "license": "Proprietary",
+      "pricing": "AI Plus $7.99/월 / AI Pro $19.99/월 / AI Ultra $249.99/월 (4K)"
+    },
+    {
+      "id": "kling",
+      "name": "Kling 3.0",
+      "category": "video-generation",
+      "description": "Kuaishou의 AI 영상 생성 모델. Multi-modal Visual Language 아키텍처로 4K 60FPS, 최대 2분 영상, 멀티샷 스토리보드 기능 제공.",
+      "github_url": null,
+      "website": "https://klingai.com/",
+      "stars": null,
+      "trending_score": 90,
+      "key_features": [
+        "4K 60FPS, 최대 2분 영상",
+        "멀티샷 스토리보드 (구간별 카메라/내러티브)",
+        "7-in-1 멀티모달 에디터",
+        "DeepSeek 기반 프롬프트 개선",
+        "내장 다국어 오디오 지원"
+      ],
+      "install_guide": "# klingai.com에서 가입\n# 웹 기반 - 별도 설치 불필요\n# API: $0.084~$0.168/초",
+      "tags": [
+        "cloud",
+        "4k-60fps",
+        "storyboard",
+        "kuaishou"
+      ],
+      "license": "Proprietary",
+      "pricing": "Standard $6.99/월 / Pro $37/월 / Ultra $180/월"
+    },
+    {
+      "id": "runway",
+      "name": "Runway Gen-4.5",
+      "category": "video-generation",
+      "description": "AI 영상 생성 분야의 선구자. 독립 벤치마크에서 세계 최고 등급을 달성. Multi-Motion Brush와 커스텀 모델 학습 기능이 차별점.",
+      "github_url": null,
+      "website": "https://runwayml.com/",
+      "stars": null,
+      "trending_score": 88,
+      "key_features": [
+        "독립 벤치마크 1위 달성",
+        "Multi-Motion Brush (영역별 애니메이션)",
+        "커스텀 AI 모델 학습",
+        "정밀 카메라 컨트롤 (팬, 틸트, 줌)",
+        "Explore Mode (무제한 생성)"
+      ],
+      "install_guide": "# runwayml.com에서 가입\n# 웹/데스크톱/모바일 앱 제공\n# API: Runway API로 프로그래밍 접근 가능",
+      "tags": [
+        "cloud",
+        "vfx",
+        "custom-model",
+        "benchmark-leader"
+      ],
+      "license": "Proprietary",
+      "pricing": "Free (125 크레딧) / Standard $12/월 / Pro $28/월 (4K) / Unlimited $76/월"
+    },
+    {
+      "id": "seedance",
+      "name": "Seedance 2.0 (ByteDance)",
+      "category": "video-generation",
+      "description": "ByteDance(TikTok/CapCut)의 AI 영상 생성 모델. Identity Lock으로 다중 씬 캐릭터 일관성 유지, 경쟁사 대비 5~7배 저렴한 가격이 특징.",
+      "github_url": null,
+      "website": "https://seed.bytedance.com/en/seedance",
+      "stars": null,
+      "trending_score": 87,
+      "key_features": [
+        "Identity Lock (다중 씬 캐릭터 일관성)",
+        "멀티모달 입력 (텍스트, 9이미지, 3비디오, 3오디오)",
+        "음소 레벨 립싱크 (오디오-비디오 동기화)",
+        "격투 안무, 슬로모션, 불릿타임 효과",
+        "CapCut 직접 통합"
+      ],
+      "install_guide": "# Dreamina(dreamina.capcut.com)에서 사용\n# CapCut에서 직접 통합 사용 가능\n# Fast 모드 $0.022/초",
+      "tags": [
+        "cloud",
+        "identity-lock",
+        "capcut",
+        "bytedance"
+      ],
+      "license": "Proprietary",
+      "pricing": "~$9.60/월 / 생성당 ~$0.42"
+    },
+    {
+      "id": "luma-ray3",
+      "name": "Luma Ray3 (Dream Machine)",
+      "category": "video-generation",
+      "description": "업계 최초 '추론형 비디오 모델'. AI가 사용자 의도를 해석하고 초안 생성 후 자체 평가/반복하여 최종 결과 제공. 네이티브 16비트 HDR 출력.",
+      "github_url": null,
+      "website": "https://lumalabs.ai/dream-machine",
+      "stars": null,
+      "trending_score": 85,
+      "key_features": [
+        "추론형 비디오 생성 (의도 해석 + 자체 반복)",
+        "네이티브 16비트 HDR 출력",
+        "Ray3.14: 네이티브 1080p, 4배 빠른 생성",
+        "키프레임 가이드 생성",
+        "전문 컬러 그레이딩 호환"
+      ],
+      "install_guide": "# lumalabs.ai/dream-machine에서 가입\n# API: Luma API로 프로그래밍 접근\n# Ray3 540p 5초 = 160크레딧",
+      "tags": [
+        "cloud",
+        "reasoning-model",
+        "hdr",
+        "luma"
+      ],
+      "license": "Proprietary",
+      "pricing": "Plus $30/월 / Pro $90/월 / Ultra $300/월"
+    },
+    {
+      "id": "pika",
+      "name": "Pika",
+      "category": "video-generation",
+      "description": "다양한 크리에이티브 기능(Pikascenes, Pikaswaps, Pikatwists)을 제공하는 AI 영상 생성기. 비디오-to-비디오 변환에 특히 강하며, 소셜 미디어 콘텐츠에 최적화.",
+      "github_url": null,
+      "website": "https://pika.art/",
+      "stars": null,
+      "trending_score": 82,
+      "key_features": [
+        "Pikascenes (시네마틱 씬 생성)",
+        "Pikaswaps (요소 교체)",
+        "Pikatwists (스타일 변환)",
+        "비디오-to-비디오 변환",
+        "활발한 Discord 커뮤니티"
+      ],
+      "install_guide": "# pika.art에서 가입\n# 웹 기반 - 별도 설치 불필요\n# Discord 커뮤니티에서도 사용 가능",
+      "tags": [
+        "cloud",
+        "creative-tools",
+        "v2v",
+        "social-media"
+      ],
+      "license": "Proprietary",
+      "pricing": "Free (80 크레딧) / Standard $10/월 / Pro $35/월 / Fancy $95/월"
+    },
+    {
+      "id": "wan21",
+      "name": "Wan 2.1 / 2.2 (Alibaba)",
+      "category": "video-generation",
+      "description": "알리바바 통이랩의 오픈소스 14B 영상 생성 모델. T2V, I2V, 영상 편집, T2I, V2A를 모두 지원. Wan 2.2는 MoE 아키텍처로 레이아웃/모션과 조명/텍스처를 분리 처리.",
+      "github_url": "https://github.com/Wan-Video/Wan2.1",
+      "website": "https://wanx.alibabacloud.com/",
+      "stars": 15700,
+      "trending_score": 86,
+      "key_features": [
+        "T2V/I2V/영상 편집/T2I/V2A 통합",
+        "14B + 1.3B 경량 모델",
+        "MoE 아키텍처 (Wan 2.2)",
+        "LoRA 파인튜닝 지원",
+        "Apache 2.0 라이선스"
+      ],
+      "install_guide": "git clone https://github.com/Wan-Video/Wan2.1.git\ncd Wan2.1\npip install -r requirements.txt\n\n# 모델 다운로드\nhuggingface-cli download Wan-AI/Wan2.1-T2V-14B --local-dir ./Wan2.1-T2V-14B\n\n# 경량 모델 (8GB VRAM)\nhuggingface-cli download Wan-AI/Wan2.1-T2V-1.3B --local-dir ./Wan2.1-T2V-1.3B",
+      "tags": [
+        "open-source",
+        "14b",
+        "multi-task",
+        "alibaba"
+      ],
+      "license": "Apache-2.0"
+    },
+    {
+      "id": "open-sora",
+      "name": "Open-Sora 2.0",
+      "category": "video-generation",
+      "description": "HPC-AI Tech의 오픈소스 영상 생성 모델. Sora와의 성능 격차를 0.69%까지 줄였으며, $200K 학습 비용으로 상용 모델에 근접한 성능. 학습 코드까지 완전 공개.",
+      "github_url": "https://github.com/hpcaitech/Open-Sora",
+      "website": "https://company.hpc-ai.com/",
+      "stars": 28800,
+      "trending_score": 84,
+      "key_features": [
+        "Sora 대비 0.69% 격차 (VBench)",
+        "11B 파라미터 모델",
+        "학습 코드 완전 공개 ($200K 비용)",
+        "최대 720p 16초 영상",
+        "T2V 및 I2V 통합"
+      ],
+      "install_guide": "git clone https://github.com/hpcaitech/Open-Sora.git\ncd Open-Sora\npip install -r requirements.txt\n\n# 모델 다운로드\nhuggingface-cli download hpcai-tech/Open-Sora-v2 --local-dir ./checkpoints\n\n# 추론\npython scripts/inference.py --prompt \"A beautiful sunrise\" --resolution 768",
+      "tags": [
+        "open-source",
+        "sora-alternative",
+        "training-code",
+        "hpc-ai"
+      ],
+      "license": "Apache-2.0"
+    },
+    {
+      "id": "cogvideo",
+      "name": "CogVideoX (Zhipu AI)",
+      "category": "video-generation",
+      "description": "칭화대 THUDM의 텍스트/이미지-to-비디오 생성 모델. 접근성 높은 2B/5B 모델 라인업. GTX 1080Ti(2B)부터 RTX 3060(5B)까지 다양한 GPU 지원.",
+      "github_url": "https://github.com/THUDM/CogVideo",
+      "website": "https://chatglm.cn/",
+      "stars": 12600,
+      "trending_score": 75,
+      "key_features": [
+        "2B/5B/1.5-5B 모델 라인업",
+        "GTX 1080Ti급부터 실행 가능",
+        "diffusers 라이브러리 통합",
+        "양자화로 메모리 최적화",
+        "LoRA 파인튜닝 지원"
+      ],
+      "install_guide": "pip install diffusers>=0.30.1 transformers accelerate imageio-ffmpeg\n\n# CogVideoX-5B 사용\nfrom diffusers import CogVideoXPipeline\nimport torch\n\npipe = CogVideoXPipeline.from_pretrained(\"THUDM/CogVideoX-5b\", torch_dtype=torch.float16)\npipe.to(\"cuda\")\nvideo = pipe(\"A cat playing piano\").frames[0]",
+      "tags": [
+        "open-source",
+        "accessible",
+        "diffusers",
+        "tsinghua"
+      ],
+      "license": "Apache-2.0"
+    },
+    {
+      "id": "ltx-video",
+      "name": "LTX-Video (Lightricks)",
+      "category": "video-generation",
+      "description": "Lightricks의 속도 최적화 오픈소스 영상 생성 모델. 중급 GPU에서도 실시간보다 빠른 생성. ComfyUI 네이티브 통합. LTX-2는 오디오-비디오 통합 생성.",
+      "github_url": "https://github.com/Lightricks/LTX-Video",
+      "website": "https://ltx.studio/",
+      "stars": 9800,
+      "trending_score": 78,
+      "key_features": [
+        "실시간보다 빠른 생성 속도",
+        "ComfyUI 네이티브 통합",
+        "12GB+ VRAM에서 실행",
+        "T2V/I2V/V2V 지원",
+        "LTX-2: 오디오-비디오 통합 생성"
+      ],
+      "install_guide": "git clone https://github.com/Lightricks/LTX-Video.git\ncd LTX-Video\npython -m venv env && source env/bin/activate\npip install -e \".[inference]\"\n\n# 데스크톱 앱도 제공\n# https://github.com/Lightricks/LTX-Desktop",
+      "tags": [
+        "open-source",
+        "fast",
+        "comfyui",
+        "lightricks"
+      ],
+      "license": "Apache-2.0"
+    },
+    {
+      "id": "animatediff",
+      "name": "AnimateDiff",
+      "category": "video-generation",
+      "description": "Stable Diffusion 기반 애니메이션/영상 생성 프레임워크. SD 1.5/SDXL 호환. 기존 SD 체크포인트와 LoRA를 활용해 스타일리시한 애니메이션 생성에 특화.",
+      "github_url": "https://github.com/guoyww/AnimateDiff",
+      "website": "https://animatediff.github.io/",
+      "stars": 12100,
+      "trending_score": 72,
+      "key_features": [
+        "SD 1.5/SDXL 호환",
+        "ComfyUI/A1111 WebUI 확장 지원",
+        "기존 체크포인트/LoRA 재활용",
+        "ControlNet 통합",
+        "ICLR 2024 Spotlight"
+      ],
+      "install_guide": "# ComfyUI 사용 시 (권장)\ncd ComfyUI/custom_nodes\ngit clone https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved.git\n\n# 직접 설치\ngit clone https://github.com/guoyww/AnimateDiff.git\ncd AnimateDiff\npip install -r requirements.txt",
+      "tags": [
+        "open-source",
+        "stable-diffusion",
+        "animation",
+        "comfyui"
+      ],
+      "license": "Apache-2.0"
+    },
+    {
+      "id": "synthesia",
+      "name": "Synthesia",
+      "category": "video-generation",
+      "description": "AI 아바타 기반 비즈니스 영상 제작 플랫폼. 240+ AI 아바타, 160+ 언어 지원. 스크립트만 입력하면 스튜디오급 영상 자동 생성.",
+      "github_url": null,
+      "website": "https://www.synthesia.io/",
+      "stars": null,
+      "trending_score": 80,
+      "key_features": [
+        "240+ AI 아바타 (다양한 인종/연령)",
+        "160+ 언어 및 억양 지원",
+        "1-클릭 영상 번역",
+        "PowerPoint-to-비디오 변환",
+        "AI Playground (Veo 3.1, Sora 2 통합)"
+      ],
+      "install_guide": "# synthesia.io에서 가입\n# 웹 기반 에디터 제공\n# API로 프로그래밍 접근 가능",
+      "tags": [
+        "cloud",
+        "avatar",
+        "enterprise",
+        "multilingual"
+      ],
+      "license": "Proprietary",
+      "pricing": "Free (3분/월) / Starter $29/월 / Creator $89/월 / Enterprise (무제한)"
     }
   ]
 }
