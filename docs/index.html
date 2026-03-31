@@ -88,6 +88,12 @@
           <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
           <input type="text" id="searchInput" placeholder="Search tools..." autocomplete="off" spellcheck="false">
         </div>
+        <select class="sort-select" id="sortSelect">
+          <option value="recent">Recently Updated</option>
+          <option value="stars">Most Stars</option>
+          <option value="trending">Trending Score</option>
+          <option value="name">Name A-Z</option>
+        </select>
         <div class="tabs-wrap" id="categoryTabs">
           <button class="tab active" data-category="all">All</button>
         </div>
@@ -114,8 +120,11 @@
         <!-- GitHub Trending -->
         <div class="feed-column">
           <div class="feed-header">
-            <h2><span class="feed-icon">&#xf09b;</span> GitHub Trending</h2>
-            <span class="feed-badge">AI / ML</span>
+            <h2>GitHub Trending</h2>
+            <div class="feed-toggle">
+              <button class="feed-btn active" data-period="daily" id="ghDaily">Daily</button>
+              <button class="feed-btn" data-period="weekly" id="ghWeekly">Weekly</button>
+            </div>
           </div>
           <div class="feed-list" id="githubTrending">
             <div class="placeholder-loader small"><div class="loader-spinner"></div></div>
@@ -124,7 +133,7 @@
         <!-- HuggingFace Trending -->
         <div class="feed-column">
           <div class="feed-header">
-            <h2>&#x1F917; HuggingFace Trending</h2>
+            <h2>HuggingFace Trending</h2>
             <span class="feed-badge">Models</span>
           </div>
           <div class="feed-list" id="hfTrending">
@@ -132,6 +141,8 @@
           </div>
         </div>
       </div>
+      <!-- Category-specific trending -->
+      <div class="cat-trending-section" id="catTrendingSection"></div>
     </div>
   </section>
 

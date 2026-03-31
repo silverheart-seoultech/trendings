@@ -77,7 +77,9 @@
       "WebFetch(domain:zapier.com)",
       "WebFetch(domain:manus.im)",
       "Bash(gh api:*)",
-      "WebFetch(domain:silverheart-seoultech.github.io)"
+      "WebFetch(domain:silverheart-seoultech.github.io)",
+      "Bash(git rebase:*)",
+      "Bash(GIT_EDITOR=true git rebase --continue)"
     ]
   }
 }

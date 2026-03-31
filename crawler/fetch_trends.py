@@ -265,27 +265,60 @@ def run_full_update():
     logger.info("Starting full trend update")
     logger.info("=" * 60)
 
-    # 1. GitHub trending
-    gh_python = fetch_github_trending("python", "weekly")
-    gh_typescript = fetch_github_trending("typescript", "weekly")
-    gh_all = fetch_github_trending("", "weekly")
-    all_gh = gh_python + gh_typescript + gh_all
-    # Deduplicate
-    seen = set()
-    unique_gh = []
-    for r in all_gh:
-        if r["full_name"] not in seen:
-            seen.add(r["full_name"])
-            unique_gh.append(r)
-    ai_gh = filter_ai_repos(unique_gh)
+    # 1. GitHub trending (daily + weekly)
+    def collect_gh(since):
+        repos = []
+        for lang in ["python", "typescript", ""]:
+            repos.extend(fetch_github_trending(lang, since))
+            time.sleep(1)
+        seen = set()
+        unique = []
+        for r in repos:
+            if r["full_name"] not in seen:
+                seen.add(r["full_name"])
+                unique.append(r)
+        return unique
+
+    weekly_gh = collect_gh("weekly")
+    daily_gh = collect_gh("daily")
+    ai_weekly = filter_ai_repos(weekly_gh)
+    ai_daily = filter_ai_repos(daily_gh)
+
+    # Categorize trending repos
+    cat_keywords = {
+        "coding-agents": ["code", "coding", "copilot", "aider", "cursor", "cline", "ide", "editor", "swe-", "devin"],
+        "nocode-builders": ["no-code", "nocode", "low-code", "dify", "flowise", "langflow", "visual", "builder"],
+        "workflow-automation": ["workflow", "automation", "n8n", "zapier", "autogen", "crewai", "orchestrat"],
+        "image-generation": ["diffusion", "stable", "comfy", "flux", "image", "sdxl", "lora", "controlnet"],
+        "local-llm": ["ollama", "llm", "llama", "gguf", "quantiz", "inference", "vllm", "local"],
+        "agent-frameworks": ["agent", "langchain", "llamaindex", "framework", "rag", "chain"],
+        "browser-automation": ["browser", "scrape", "crawl", "playwright", "selenium", "web-use"],
+        "video-generation": ["video", "sora", "wan2", "cogvideo", "animate", "diffusion-video"],
+        "cloud-ai-ide": ["bolt", "lovable", "replit", "v0", "vercel"],
+        "voice-music-ai": ["tts", "whisper", "voice", "speech", "music", "audio", "suno", "bark"],
+        "ai-search": ["search", "perplexity", "retrieval"],
+        "design-ai": ["design", "figma", "midjourney", "canva", "ui-gen"],
+        "ai-protocols": ["mcp", "protocol", "a2a"],
+        "observability": ["observ", "monitor", "trace", "langfuse", "eval"],
+    }
+
+    categorized_trending = {}
+    for repo in ai_weekly:
+        text = f"{repo.get('full_name', '')} {repo.get('description', '')}".lower()
+        for cat_id, kws in cat_keywords.items():
+            if any(kw in text for kw in kws):
+                categorized_trending.setdefault(cat_id, []).append(repo)
+                break
 
     gh_data = {
         "last_updated": datetime.now(timezone.utc).isoformat(),
-        "all_trending": unique_gh[:50],
-        "ai_trending": ai_gh[:30],
+        "all_trending": weekly_gh[:50],
+        "ai_trending": ai_weekly[:30],
+        "ai_daily": ai_daily[:20],
+        "by_category": {k: v[:8] for k, v in categorized_trending.items()},
     }
     save_json(GITHUB_TRENDING_FILE, gh_data)
-    logger.info(f"Saved {len(ai_gh)} AI trending repos")
+    logger.info(f"Saved {len(ai_weekly)} weekly + {len(ai_daily)} daily AI trending repos")
 
     time.sleep(2)
 

@@ -9,6 +9,8 @@ let hfTrending = null;
 let benchData = null;
 let articlesData = null;
 let activeCat = 'all';
+let sortBy = 'recent';
+let ghPeriod = 'daily';
 let query = '';
 
 /* ---- Icons ---- */
@@ -97,6 +99,7 @@ function render() {
   renderTools();
   renderGH();
   renderHF();
+  renderCatTrending();
 }
 
 function renderUpdated() {
@@ -152,7 +155,25 @@ function renderTools() {
       (t.tags || []).some(g => g.includes(q))
     );
   }
-  list.sort((a, b) => (b.trending_score || 0) - (a.trending_score || 0));
+  // Sort
+  switch (sortBy) {
+    case 'recent':
+      list.sort((a, b) => {
+        const da = a.last_push || '';
+        const db = b.last_push || '';
+        return db.localeCompare(da);
+      });
+      break;
+    case 'stars':
+      list.sort((a, b) => (b.stars || 0) - (a.stars || 0));
+      break;
+    case 'trending':
+      list.sort((a, b) => (b.trending_score || 0) - (a.trending_score || 0));
+      break;
+    case 'name':
+      list.sort((a, b) => a.name.localeCompare(b.name));
+      break;
+  }
 
   if (!list.length) {
     grid.innerHTML = `<div class="no-results"><h3>No results</h3><p>Try a different keyword or category.</p></div>`;
@@ -179,9 +200,9 @@ function renderTools() {
       ${t.pricing ? `<div class="card-pricing">${t.pricing}</div>` : ''}
       <div class="card-meta">
         ${t.stars ? `<span class="meta-item stars-item">${I.star} ${fmt(t.stars)}</span>` : ''}
-        ${t.github_url ? `<span class="meta-item">${I.gh} GitHub</span>` : ''}
-        ${t.website ? `<span class="meta-item">${I.link} Web</span>` : ''}
-        ${t.license ? `<span class="meta-item">${t.license}</span>` : ''}
+        ${t.last_push ? `<span class="meta-item">${I.clock} ${timeAgo(t.last_push)}</span>` : ''}
+        ${t.github_url ? `<span class="meta-item">${I.gh}</span>` : ''}
+        ${t.website ? `<span class="meta-item">${I.link}</span>` : ''}
       </div>
       <div class="card-tags">${(t.tags||[]).map(g => `<span class="tag">${g}</span>`).join('')}</div>
     </div>`;
@@ -198,9 +219,11 @@ function renderTools() {
 /* ---- GitHub Trending ---- */
 function renderGH() {
   const el = document.getElementById('githubTrending');
-  const repos = ghTrending?.ai_trending || [];
+  const repos = ghPeriod === 'daily'
+    ? (ghTrending?.ai_daily || ghTrending?.ai_trending || [])
+    : (ghTrending?.ai_trending || []);
   if (!repos.length) {
-    el.innerHTML = `<div class="placeholder-loader small"><p style="font-size:12px;color:var(--text-3)">Run <code>python crawler/fetch_trends.py</code> to load live data</p></div>`;
+    el.innerHTML = `<div class="placeholder-loader small"><p style="font-size:12px;color:var(--text-3)">Run <code>python crawler/fetch_trends.py</code></p></div>`;
     return;
   }
   el.innerHTML = repos.slice(0, 15).map((r, i) => `
@@ -210,9 +233,42 @@ function renderGH() {
         <div class="feed-name">${r.full_name}</div>
         <div class="feed-desc">${r.description || ''}</div>
       </div>
-      <span class="feed-stat">${I.star} ${fmt(r.stars)}</span>
+      <span class="feed-stat">${I.star} ${fmt(r.stars)}${r.trending_stars ? `<br><span style="font-size:10px;color:var(--orange)">${r.trending_stars}</span>` : ''}</span>
     </a>
   `).join('');
+}
+
+/* ---- Category Trending ---- */
+function renderCatTrending() {
+  const section = document.getElementById('catTrendingSection');
+  const byCat = ghTrending?.by_category || {};
+  if (!Object.keys(byCat).length) { section.innerHTML = ''; return; }
+
+  const cats = {};
+  (toolsData?.categories || []).forEach(c => cats[c.id] = c);
+
+  section.innerHTML = Object.entries(byCat).map(([catId, repos]) => {
+    const cat = cats[catId] || { icon: '', name_en: catId };
+    return `
+      <div class="cat-trending-group">
+        <div class="cat-trending-title">
+          <span class="card-cat cat-${catId}">${cat.icon} ${cat.name_en}</span>
+          <span style="font-size:11px;color:var(--text-3)">${repos.length} trending repos</span>
+        </div>
+        <div class="cat-trending-list">
+          ${repos.slice(0, 6).map((r, i) => `
+            <a class="feed-item" href="${r.url}" target="_blank" rel="noopener">
+              <span class="feed-rank ${i < 3 ? 'gold' : ''}">${i + 1}</span>
+              <div class="feed-info">
+                <div class="feed-name">${r.full_name}</div>
+                <div class="feed-desc">${r.description || ''}</div>
+              </div>
+              <span class="feed-stat">${I.star} ${fmt(r.stars)}</span>
+            </a>
+          `).join('')}
+        </div>
+      </div>`;
+  }).join('');
 }
 
 /* ---- HuggingFace Trending ---- */
@@ -300,9 +356,10 @@ function openModal(t) {
 
     <div class="modal-stats-row">
       <div class="m-stat"><div class="m-stat-val">${fmt(t.stars)}</div><div class="m-stat-lbl">Stars</div></div>
-      <div class="m-stat"><div class="m-stat-val">${t.trending_score||'-'}</div><div class="m-stat-lbl">Trend Score</div></div>
+      ${t.forks ? `<div class="m-stat"><div class="m-stat-val">${fmt(t.forks)}</div><div class="m-stat-lbl">Forks</div></div>` : `<div class="m-stat"><div class="m-stat-val">${t.trending_score||'-'}</div><div class="m-stat-lbl">Trend Score</div></div>`}
       <div class="m-stat"><div class="m-stat-val">${t.license||'-'}</div><div class="m-stat-lbl">License</div></div>
     </div>
+    ${t.last_push ? `<div style="font-size:11px;color:var(--text-3);margin-bottom:20px">Last updated: ${timeAgo(t.last_push)} ${t.pricing ? ' &middot; ' + t.pricing : ''}</div>` : (t.pricing ? `<div style="font-size:11px;color:var(--green);margin-bottom:20px">${t.pricing}</div>` : '')}
 
     ${article ? `
     <div class="m-section">
@@ -354,6 +411,26 @@ let timer;
 document.getElementById('searchInput').addEventListener('input', e => {
   clearTimeout(timer);
   timer = setTimeout(() => { query = e.target.value.trim(); renderTools(); }, 180);
+});
+
+/* ---- Sort ---- */
+document.getElementById('sortSelect').addEventListener('change', e => {
+  sortBy = e.target.value;
+  renderTools();
+});
+
+/* ---- GitHub Daily/Weekly toggle ---- */
+document.getElementById('ghDaily').addEventListener('click', () => {
+  ghPeriod = 'daily';
+  document.getElementById('ghDaily').classList.add('active');
+  document.getElementById('ghWeekly').classList.remove('active');
+  renderGH();
+});
+document.getElementById('ghWeekly').addEventListener('click', () => {
+  ghPeriod = 'weekly';
+  document.getElementById('ghWeekly').classList.add('active');
+  document.getElementById('ghDaily').classList.remove('active');
+  renderGH();
 });
 
 /* ---- Boot ---- */
