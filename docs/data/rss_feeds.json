@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-31T13:47:52.113699+00:00",
+  "last_updated": "2026-03-31T14:42:54.830206+00:00",
   "total_entries": 110,
-  "new_entries": 4,
+  "new_entries": 3,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -48,6 +48,18 @@
   ],
   "entries": [
     {
+      "id": "1bc918cf26da9faac25a2375ed484396",
+      "title": "Exclusive: Runway launches $10M fund, Builders program to support early stage AI startups",
+      "url": "https://techcrunch.com/2026/03/31/exclusive-runway-launches-10m-fund-builders-program-to-support-early-stage-ai-startups/",
+      "description": "Runway is launching a $10 million fund and startup program to back companies building with its AI video models, as it pushes toward interactive, real-time “video intelligence” applications.",
+      "published": "Tue, 31 Mar 2026 14:00:00 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "4b4efc6df516434894542194c5a01ce3",
       "title": "With its new app store, Ring bets on AI to go beyond home security",
       "url": "https://techcrunch.com/2026/03/31/ring-app-store-bets-on-ai-to-go-beyond-home-security/",
@@ -57,7 +69,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "26679e70949ff912e6cb55bbb9e9cb06",
@@ -756,18 +768,6 @@
       "is_new": false
     },
     {
-      "id": "ac034bac63e5c0acb9f40895a38ecafe",
-      "title": "OpenAI shuts down Sora while Meta gets shut out in court",
-      "url": "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/",
-      "description": "When an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone 2,000 acres nearby",
-      "published": "Fri, 27 Mar 2026 13:30:00 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "70d4465e6dedcf1aef88358f5e844464",
       "title": "You can order Grubhub and Uber Eats ‘conversationally’ with Alexa Plus",
       "url": "https://www.theverge.com/ai-artificial-intelligence/903938/alexa-plus-order-food-grubhub-uber-eats",
@@ -777,7 +777,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "47583697",
@@ -822,17 +822,17 @@
       "is_new": false
     },
     {
-      "id": "a2d26dc823b3e29fa3dba7e0c7ef881a",
-      "title": "Gen-Searcher: Reinforcing Agentic Search for Image Generation",
-      "url": "https://huggingface.co/papers/2603.28767",
-      "description": "Recent image generation models have shown strong capabilities in generating high-fidelity and photorealistic images. However, they are fundamentally constrained by frozen internal knowledge, thus ofte",
-      "published": "2026-03-30T13:59:56.000Z",
+      "id": "71c1ef8ab0d639417206170dc28af332",
+      "title": "HandX: Scaling Bimanual Motion and Interaction Generation",
+      "url": "https://huggingface.co/papers/2603.28766",
+      "description": "Synthesizing human motion has advanced rapidly, yet realistic hand motion and bimanual interaction remain underexplored. Whole-body models often miss the fine-grained cues that drive dexterous behavio",
+      "published": "2026-03-30T13:59:49.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 40,
-      "is_new": false
+      "likes": 4,
+      "is_new": true
     },
     {
       "id": "925083f98f7a20ebc679bc8e8bc366d5",
@@ -844,21 +844,21 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 11,
+      "likes": 15,
       "is_new": false
     },
     {
-      "id": "27d73faef3eb30bad3b56cd5b8878d20",
-      "title": "DreamLite: A Lightweight On-Device Unified Model for Image Generation and Editing",
-      "url": "https://huggingface.co/papers/2603.28713",
-      "description": "Diffusion models have made significant progress in both text-to-image (T2I) generation and text-guided image editing. However, these models are typically built with billions of parameters, leading to ",
-      "published": "2026-03-30T13:30:25.000Z",
+      "id": "ab7b30c2439bf3d3ffc33b1bc7761413",
+      "title": "AdaptToken: Entropy-based Adaptive Token Selection for MLLM Long Video Understanding",
+      "url": "https://huggingface.co/papers/2603.28696",
+      "description": "Long video understanding remains challenging for Multi-modal Large Language Models (MLLMs) due to high memory costs and context-length limits. Prior approaches mitigate this by scoring and selecting f",
+      "published": "2026-03-30T13:14:15.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
-      "is_new": false
+      "likes": 1,
+      "is_new": true
     },
     {
       "id": "a4759e78447bb9b70c86b91462db4c92",
@@ -1120,8 +1120,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
-      "is_new": true
+      "likes": 1,
+      "is_new": false
     },
     {
       "id": "c4c53c14a2b981c164570e375d8c45c5",
@@ -1133,7 +1133,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 34,
+      "likes": 35,
       "is_new": false
     },
     {
@@ -1174,7 +1174,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "a9c5b659a81b2ede9618b5a3e89ceb48",
@@ -1226,7 +1226,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 97,
+      "likes": 98,
       "is_new": false
     },
     {
@@ -1297,6 +1297,18 @@
   "by_category": {
     "news": [
       {
+        "id": "1bc918cf26da9faac25a2375ed484396",
+        "title": "Exclusive: Runway launches $10M fund, Builders program to support early stage AI startups",
+        "url": "https://techcrunch.com/2026/03/31/exclusive-runway-launches-10m-fund-builders-program-to-support-early-stage-ai-startups/",
+        "description": "Runway is launching a $10 million fund and startup program to back companies building with its AI video models, as it pushes toward interactive, real-time “video intelligence” applications.",
+        "published": "Tue, 31 Mar 2026 14:00:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "4b4efc6df516434894542194c5a01ce3",
         "title": "With its new app store, Ring bets on AI to go beyond home security",
         "url": "https://techcrunch.com/2026/03/31/ring-app-store-bets-on-ai-to-go-beyond-home-security/",
@@ -1306,7 +1318,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "e0fe23a4975f79acf9fdaa48fed87792",
@@ -1525,18 +1537,6 @@
         "is_new": false
       },
       {
-        "id": "ac034bac63e5c0acb9f40895a38ecafe",
-        "title": "OpenAI shuts down Sora while Meta gets shut out in court",
-        "url": "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/",
-        "description": "When an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone 2,000 acres nearby",
-        "published": "Fri, 27 Mar 2026 13:30:00 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
         "id": "70d4465e6dedcf1aef88358f5e844464",
         "title": "You can order Grubhub and Uber Eats ‘conversationally’ with Alexa Plus",
         "url": "https://www.theverge.com/ai-artificial-intelligence/903938/alexa-plus-order-food-grubhub-uber-eats",
@@ -1546,7 +1546,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "47583697",
