@@ -357,7 +357,7 @@ def run_full_update():
 
     # 5. Compile news/discoveries
     news_items = []
-    for repo in ai_gh[:10]:
+    for repo in ai_weekly[:10]:
         news_items.append({
             "type": "github_trending",
             "title": repo["full_name"],
