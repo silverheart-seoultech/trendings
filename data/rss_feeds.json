@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-01T07:52:32.926135+00:00",
+  "last_updated": "2026-04-01T09:20:55.636041+00:00",
   "total_entries": 110,
-  "new_entries": 0,
+  "new_entries": 7,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -791,7 +791,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 1,
+      "points": 2,
       "comments": 0,
       "is_new": false
     },
@@ -883,7 +883,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 5,
       "is_new": false
     },
     {
@@ -920,7 +920,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
+      "likes": 10,
       "is_new": false
     },
     {
@@ -933,7 +933,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 25,
+      "likes": 26,
       "is_new": false
     },
     {
@@ -960,7 +960,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
+      "likes": 10,
       "is_new": false
     },
     {
@@ -978,17 +978,17 @@
       "is_new": false
     },
     {
-      "id": "d7de06a65c82f81579dea9229dc8f7a2",
-      "title": "SeGPruner: Semantic-Geometric Visual Token Pruner for 3D Question Answering",
-      "url": "https://huggingface.co/papers/2603.29437",
-      "description": "Vision-language models (VLMs) have been widely adopted for 3D question answering (3D QA). In typical pipelines, visual tokens extracted from multiple viewpoints are concatenated with language tokens a",
-      "published": "2026-03-31T04:44:04.000Z",
+      "id": "e72b2b4c3514f47dce53a9b767cec441",
+      "title": "Distilling Human-Aligned Privacy Sensitivity Assessment from Large Language Models",
+      "url": "https://huggingface.co/papers/2603.29497",
+      "description": "Accurate privacy evaluation of textual data remains a critical challenge in privacy-preserving natural language processing. Recent work has shown that large language models (LLMs) can serve as reliabl",
+      "published": "2026-03-31T05:40:58.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
-      "is_new": false
+      "likes": 0,
+      "is_new": true
     },
     {
       "id": "44da1dfc3a5b2f759512e615c150ec8a",
@@ -1000,7 +1000,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 10,
       "is_new": false
     },
     {
@@ -1013,7 +1013,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -1031,17 +1031,17 @@
       "is_new": false
     },
     {
-      "id": "05dcf883fcfd066c79259b6298caf56f",
-      "title": "OptiMer: Optimal Distribution Vector Merging Is Better than Data Mixing for Continual Pre-Training",
-      "url": "https://huggingface.co/papers/2603.28858",
-      "description": "Continual pre-training is widely used to adapt LLMs to target languages and domains, yet the mixture ratio of training data remains a sensitive hyperparameter that is expensive to tune: they must be f",
-      "published": "2026-03-30T14:00:02.000Z",
+      "id": "2ddcceb8bcc59e679250d3e0594bb733",
+      "title": "PoseDreamer: Scalable and Photorealistic Human Data Generation Pipeline with Diffusion Models",
+      "url": "https://huggingface.co/papers/2603.28763",
+      "description": "Acquiring labeled datasets for 3D human mesh estimation is challenging due to depth ambiguities and the inherent difficulty of annotating 3D geometry from monocular images. Existing datasets are eithe",
+      "published": "2026-03-30T13:59:18.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
-      "is_new": false
+      "likes": 2,
+      "is_new": true
     },
     {
       "id": "47573245",
@@ -1056,6 +1056,19 @@
       "points": 2,
       "comments": 1,
       "is_new": false
+    },
+    {
+      "id": "86af219c48f08a46bafe8c50a31c37f4",
+      "title": "MonitorBench: A Comprehensive Benchmark for Chain-of-Thought Monitorability in Large Language Models",
+      "url": "https://huggingface.co/papers/2603.28590",
+      "description": "Large language models (LLMs) can generate chains of thought (CoTs) that are not always causally responsible for their final outputs. When such a mismatch occurs, the CoT no longer faithfully reflects ",
+      "published": "2026-03-30T11:37:42.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 11,
+      "is_new": true
     },
     {
       "id": "16532beedf7b1ab1f99997201bf99aa7",
@@ -1081,19 +1094,6 @@
       "category": "news",
       "points": 3,
       "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "5735cd47f8e5056ce24ce27db65b2402",
-      "title": "Video Generation Models as World Models: Efficient Paradigms, Architectures and Algorithms",
-      "url": "https://huggingface.co/papers/2603.28489",
-      "description": "The rapid evolution of video generation has enabled models to simulate complex physical dynamics and long-horizon causalities, positioning them as potential world simulators. However, a critical gap s",
-      "published": "2026-03-30T10:23:45.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 23,
       "is_new": false
     },
     {
@@ -1135,6 +1135,19 @@
       "is_new": false
     },
     {
+      "id": "c196669e5c6f5a078e411f1c93cc4c51",
+      "title": "Ghost-FWL: A Large-Scale Full-Waveform LiDAR Dataset for Ghost Detection and Removal",
+      "url": "https://huggingface.co/papers/2603.28224",
+      "description": "LiDAR has become an essential sensing modality in autonomous driving, robotics, and smart-city applications. However, ghost points (or ghosts), which are false reflections caused by multi-path laser r",
+      "published": "2026-03-30T05:46:55.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "f568b08ccaabc509e67836945e44ec1a",
       "title": "GEMS: Agent-Native Multimodal Generation with Memory and Skills",
       "url": "https://huggingface.co/papers/2603.28088",
@@ -1144,20 +1157,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 46,
-      "is_new": false
-    },
-    {
-      "id": "2596d821b41d2c75ed4e0833a5f2f811",
-      "title": "CARLA-Air: Fly Drones Inside a CARLA World -- A Unified Infrastructure for Air-Ground Embodied Intelligence",
-      "url": "https://huggingface.co/papers/2603.28032",
-      "description": "The convergence of low-altitude economies, embodied intelligence, and air-ground cooperative systems creates growing demand for simulation infrastructure capable of jointly modeling aerial and ground ",
-      "published": "2026-03-30T00:49:29.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 49,
+      "likes": 48,
       "is_new": false
     },
     {
@@ -1198,19 +1198,6 @@
       "category": "news",
       "points": 10,
       "comments": 11,
-      "is_new": false
-    },
-    {
-      "id": "c363fcd5c9e1dcaec745fc18fe8054cb",
-      "title": "LongCat-Next: Lexicalizing Modalities as Discrete Tokens",
-      "url": "https://huggingface.co/papers/2603.27538",
-      "description": "The prevailing Next-Token Prediction (NTP) paradigm has driven the success of large language models through discrete autoregressive modeling. However, contemporary multimodal systems remain language-c",
-      "published": "2026-03-29T02:35:03.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 94,
       "is_new": false
     },
     {
@@ -1266,6 +1253,19 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "dd764b38be11087f13b13921ee5dc74a",
+      "title": "daVinci-LLM:Towards the Science of Pretraining",
+      "url": "https://huggingface.co/papers/2603.27164",
+      "description": "The foundational pretraining phase determines a model's capability ceiling, as post-training struggles to overcome capability foundations established during pretraining, yet it remains critically unde",
+      "published": "2026-03-28T03:00:49.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 20,
+      "is_new": true
     },
     {
       "id": "47549679",
@@ -1562,7 +1562,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 1,
+        "points": 2,
         "comments": 0,
         "is_new": false
       },
