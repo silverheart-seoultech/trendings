@@ -1387,6 +1387,254 @@
         "embeddings"
       ],
       "read_time": 2
+    },
+    {
+      "tool_id": "zapier",
+      "title": "Zapier: 7000+ 앱 연결의 원조 자동화 플랫폼과 AI Actions",
+      "content": "## 핵심 특징\n\nZapier는 **7,000개 이상의 앱을 코드 없이 연결하는 세계 최대 자동화 플랫폼**입니다. 2012년부터 시작된 원조 자동화 도구로, Gmail·Slack·Notion·Salesforce 등 주요 SaaS를 트리거-액션 방식으로 연결합니다. 무료 플랜에서 100 태스크/월을 제공하며, 멀티스텝 Zap으로 복잡한 워크플로우도 구성 가능합니다.\n\n## AI Actions와 에이전트 통합\n\nZapier AI Actions는 **자연어로 자동화를 실행하는 API**입니다. GPT, Claude 등 LLM 에이전트가 Zapier의 전체 앱 생태계를 도구로 활용할 수 있습니다. MCP 서버도 공식 지원하여 Claude Desktop에서 바로 Zap을 실행할 수 있습니다.\n\n## 활용 팁\n\nZapier Central에서 AI 봇을 만들어 반복 업무를 자동화하세요. Tables 기능으로 간단한 데이터베이스도 구축 가능합니다. 경쟁사 Make 대비 앱 수가 압도적이지만 가격이 높으므로, 단순 자동화는 Zapier, 복잡한 시나리오는 Make를 병행하는 전략이 효과적입니다.",
+      "tags": [
+        "automation",
+        "no-code",
+        "ai-actions",
+        "mcp",
+        "integrations"
+      ],
+      "read_time": 2
+    },
+    {
+      "tool_id": "make",
+      "title": "Make: 시각적 시나리오 빌더로 구현하는 가성비 자동화",
+      "content": "## 핵심 특징\n\nMake(구 Integromat)는 **시각적 시나리오 빌더를 제공하는 자동화 플랫폼**입니다. 드래그앤드롭으로 복잡한 분기·반복·에러 처리를 포함한 워크플로우를 설계합니다. 1,800+ 앱을 지원하며, HTTP/Webhook 모듈로 커스텀 API도 바로 연결됩니다. 무료 플랜에서 1,000 오퍼레이션/월을 제공합니다.\n\n## Zapier와의 차이점\n\nZapier가 단순 트리거-액션에 강하다면, Make는 **복잡한 시나리오 설계에 최적화**되어 있습니다. 라우터·이터레이터·어그리게이터로 데이터를 병렬/순차 처리할 수 있고, 시각적 플로우 차트로 로직을 한눈에 파악할 수 있습니다. 가격도 동일 볼륨 기준 Zapier의 1/3~1/5 수준입니다.\n\n## 활용 팁\n\nAI 모듈(OpenAI, Anthropic)을 시나리오 중간에 배치하면 데이터 변환·분류·요약을 자동화할 수 있습니다. 실행 히스토리에서 각 모듈의 입출력을 확인할 수 있어 디버깅이 직관적입니다.",
+      "tags": [
+        "automation",
+        "visual-builder",
+        "no-code",
+        "cost-effective",
+        "scenario"
+      ],
+      "read_time": 2
+    },
+    {
+      "tool_id": "temporal",
+      "title": "Temporal: 내결함성 분산 워크플로우 엔진의 표준",
+      "content": "## 핵심 특징\n\nTemporal은 **내결함성을 갖춘 분산 워크플로우 오케스트레이션 엔진**입니다. 장시간 실행되는 프로세스를 안정적으로 관리하며, 서버 장애·네트워크 오류 시에도 자동 복구합니다. Go, Java, Python, TypeScript SDK를 제공하며, Uber의 Cadence에서 발전한 프로젝트입니다. Netflix, Stripe, Snap 등이 프로덕션에서 사용합니다.\n\n## 핵심 개념\n\n**Workflow**는 비즈니스 로직을 결정론적 함수로 작성하고, **Activity**는 외부 호출(API, DB)을 수행합니다. Workflow는 실패 시 정확히 중단 지점에서 재개되며, 상태가 이벤트 소싱으로 영구 저장됩니다. Signal과 Query로 실행 중인 워크플로우와 상호작용할 수 있습니다.\n\n## 활용 팁\n\nAI 에이전트의 장기 실행 태스크(데이터 파이프라인, 멀티스텝 처리)에 Temporal을 적용하면 안정성이 크게 향상됩니다. Temporal Cloud를 사용하면 인프라 관리 없이 시작할 수 있습니다.",
+      "tags": [
+        "workflow",
+        "distributed-systems",
+        "fault-tolerance",
+        "orchestration",
+        "microservices"
+      ],
+      "read_time": 2
+    },
+    {
+      "tool_id": "prefect",
+      "title": "Prefect: Python 데이터 파이프라인 오케스트레이션",
+      "content": "## 핵심 특징\n\nPrefect는 **Python 네이티브 데이터 파이프라인 오케스트레이션 도구**입니다. `@flow`와 `@task` 데코레이터만 추가하면 기존 Python 코드를 관찰 가능한 워크플로우로 변환합니다. 자동 재시도, 캐싱, 동시성 제어, 스케줄링을 내장하며, Prefect Cloud에서 모니터링 UI를 제공합니다.\n\n## Airflow와의 차이점\n\nAirflow가 DAG 정의와 스케줄러 중심이라면, Prefect는 **Python 코드 우선 접근**을 취합니다. DAG을 별도로 정의할 필요 없이 일반 Python 함수에 데코레이터를 붙이면 됩니다. 동적 태스크 생성, 매개변수화된 플로우, 서브플로우 등이 자연스럽습니다. Prefect 3.x부터는 Pydantic 기반 설정과 비동기 지원이 강화되었습니다.\n\n## 활용 팁\n\nML 파이프라인, ETL, AI 에이전트 배치 작업에 적합합니다. `.deploy()` 메서드로 워크 풀에 배포하고, Automations로 실패 알림을 Slack에 연결하세요.",
+      "tags": [
+        "python",
+        "data-pipeline",
+        "orchestration",
+        "etl",
+        "scheduling"
+      ],
+      "read_time": 2
+    },
+    {
+      "tool_id": "semantic-kernel",
+      "title": "Semantic Kernel: Microsoft 공식 AI 오케스트레이션 SDK",
+      "content": "## 핵심 특징\n\nSemantic Kernel은 **Microsoft 공식 AI 애플리케이션 개발 SDK**입니다. C#, Python, Java를 지원하며, Azure OpenAI와 네이티브 통합됩니다. 플러그인 아키텍처로 기존 코드를 AI 함수로 노출하고, Planner가 자동으로 실행 계획을 생성합니다. Microsoft 365 Copilot의 기반 기술이기도 합니다.\n\n## 핵심 구성 요소\n\n**Kernel**은 중앙 오케스트레이터이고, **Plugin**은 네이티브 함수와 프롬프트 함수를 묶는 단위입니다. **Memory**는 임베딩 기반 장기 기억을, **Planner**는 목표를 달성하기 위한 단계별 계획을 AI가 자동 생성합니다. Process Framework로 멀티스텝 비즈니스 프로세스를 정의할 수 있습니다.\n\n## 활용 팁\n\n엔터프라이즈 환경에서 Azure 생태계와 긴밀히 통합할 때 최적의 선택입니다. OpenAI·Anthropic·Gemini 등 다중 LLM을 Kernel에 등록하여 용도별로 전환할 수 있습니다.",
+      "tags": [
+        "microsoft",
+        "sdk",
+        "csharp",
+        "python",
+        "enterprise",
+        "azure"
+      ],
+      "read_time": 2
+    },
+    {
+      "tool_id": "haystack",
+      "title": "Haystack: deepset의 프로덕션급 RAG 파이프라인 프레임워크",
+      "content": "## 핵심 특징\n\nHaystack는 **deepset이 개발한 오픈소스 RAG/NLP 파이프라인 프레임워크**입니다. 컴포넌트 기반 아키텍처로 Retriever, Reader, Generator 등을 파이프라인으로 조합합니다. 30+ 문서 변환기와 10+ 벡터 DB를 지원하며, Haystack 2.x에서 아키텍처가 전면 개편되었습니다.\n\n## 파이프라인 설계\n\n**Document Store**에 데이터를 적재하고, **Retriever**가 관련 문서를 검색하며, **Generator**가 답변을 생성합니다. 인덱싱 파이프라인과 쿼리 파이프라인을 분리하여 설계합니다. YAML로 파이프라인을 직렬화하여 버전 관리와 배포가 용이합니다.\n\n## 활용 팁\n\nLangChain보다 구조화된 파이프라인 설계를 원할 때 적합합니다. deepset Cloud에서 호스팅 버전을 사용하면 파이프라인 모니터링과 A/B 테스트가 가능합니다. 멀티모달 파이프라인도 지원합니다.",
+      "tags": [
+        "rag",
+        "nlp",
+        "pipeline",
+        "deepset",
+        "document-processing"
+      ],
+      "read_time": 2
+    },
+    {
+      "tool_id": "smolagents",
+      "title": "smolagents: HuggingFace의 코드 우선 경량 AI 에이전트",
+      "content": "## 핵심 특징\n\nsmolagents는 **HuggingFace가 개발한 코드 우선 경량 AI 에이전트 프레임워크**입니다. 에이전트가 JSON 대신 Python 코드를 직접 생성하여 실행하므로 표현력이 뛰어납니다. 핵심 로직이 1,000줄 미만으로, 커스터마이징과 디버깅이 쉽습니다. pip install smolagents로 바로 시작할 수 있습니다.\n\n## 코드 에이전트 방식\n\n**CodeAgent**는 도구 호출을 Python 코드로 표현합니다. 변수 할당, 반복문, 조건문을 자연스럽게 사용할 수 있어 복잡한 로직도 한 스텝에서 처리됩니다. 보안을 위해 샌드박스 실행 환경을 제공합니다. HuggingFace Hub에서 공유 도구를 불러올 수 있습니다.\n\n## 활용 팁\n\n가볍게 에이전트를 프로토타이핑할 때 최적입니다. `@tool` 데코레이터로 커스텀 도구를 정의하고, 멀티 에이전트 오케스트레이션으로 복잡한 태스크를 분할하세요. OpenAI, Anthropic 등 다양한 LLM 백엔드를 지원합니다.",
+      "tags": [
+        "huggingface",
+        "code-agent",
+        "lightweight",
+        "python",
+        "open-source"
+      ],
+      "read_time": 2
+    },
+    {
+      "tool_id": "pydantic-ai",
+      "title": "PydanticAI: 타입 안전한 AI 에이전트 프레임워크",
+      "content": "## 핵심 특징\n\nPydanticAI는 **Pydantic 팀이 만든 타입 안전한 AI 에이전트 프레임워크**입니다. Pydantic의 데이터 검증 철학을 AI 에이전트에 적용하여, 구조화된 응답과 타입 안전한 도구 호출을 보장합니다. Python 타입 힌트로 에이전트 인터페이스를 정의하며, 의존성 주입 시스템을 내장합니다.\n\n## 핵심 설계 원칙\n\n**Agent**를 정의할 때 result_type으로 응답 스키마를 강제합니다. **Tool**은 함수 시그니처에서 자동으로 스키마를 추출하며, **RunContext**로 의존성을 주입합니다. Logfire와 통합하여 에이전트 실행을 실시간 모니터링할 수 있습니다. 스트리밍 응답과 비동기 실행을 네이티브로 지원합니다.\n\n## 활용 팁\n\n프로덕션 AI 앱에서 응답 형식의 신뢰성이 중요할 때 적합합니다. FastAPI와 유사한 패턴이라 Python 백엔드 개발자에게 친숙합니다. 멀티 에이전트 그래프 구성도 가능합니다.",
+      "tags": [
+        "pydantic",
+        "type-safety",
+        "python",
+        "agent-framework",
+        "structured-output"
+      ],
+      "read_time": 2
+    },
+    {
+      "tool_id": "letta",
+      "title": "Letta: MemGPT 기반 상태 유지 메모리 에이전트 프레임워크",
+      "content": "## 핵심 특징\n\nLetta는 **MemGPT 프로젝트의 후속으로, 장기 메모리를 갖춘 상태 유지 AI 에이전트 프레임워크**입니다. 컨텍스트 윈도우 한계를 극복하기 위해 가상 메모리 계층(코어/리콜/아카이벌)을 도입합니다. 에이전트가 스스로 메모리를 읽고 쓰며, 대화 간 컨텍스트를 영구 유지합니다.\n\n## 메모리 아키텍처\n\n**Core Memory**는 시스템 프롬프트에 항상 포함되는 핵심 정보이고, **Recall Memory**는 대화 히스토리를 검색 가능하게 저장하며, **Archival Memory**는 대용량 장기 저장소입니다. 에이전트가 자율적으로 메모리를 관리하여 중요 정보를 자동 보존합니다.\n\n## 활용 팁\n\nLetta Cloud 또는 로컬 서버로 에이전트를 배포하고, REST API로 상호작용합니다. 개인 비서, 장기 프로젝트 관리, 고객 지원 등 지속적 상호작용이 필요한 시나리오에 적합합니다. ADE(Agent Development Environment)로 시각적 개발이 가능합니다.",
+      "tags": [
+        "memory",
+        "stateful",
+        "memgpt",
+        "long-term-memory",
+        "agent-framework"
+      ],
+      "read_time": 2
+    },
+    {
+      "tool_id": "ag-ui",
+      "title": "AG-UI: CopilotKit의 에이전트-UI 인터랙션 프로토콜",
+      "content": "## 핵심 특징\n\nAG-UI(Agent-User Interaction Protocol)는 **CopilotKit이 발표한 AI 에이전트와 프론트엔드 UI 간의 표준 통신 프로토콜**입니다. 에이전트가 UI 요소를 실시간으로 업데이트하고, 사용자 입력을 스트리밍으로 처리합니다. LangGraph, CrewAI, Mastra 등 주요 에이전트 프레임워크와 호환됩니다.\n\n## 프로토콜 구조\n\n**이벤트 기반 스트리밍**으로 에이전트 상태를 UI에 실시간 반영합니다. 텍스트 메시지, 도구 호출, 상태 변경, Human-in-the-Loop 이벤트를 정의합니다. 프론트엔드 도구 실행을 통해 에이전트가 브라우저 환경에서 직접 작업을 수행할 수 있습니다. HTTP SSE 기반으로 구현이 간단합니다.\n\n## 활용 팁\n\nCopilotKit React SDK와 함께 사용하면 AI 코파일럿 UI를 빠르게 구축할 수 있습니다. 에이전트 프레임워크에 구애받지 않는 표준 프로토콜이라 백엔드 교체가 자유롭습니다.",
+      "tags": [
+        "protocol",
+        "ui",
+        "copilotkit",
+        "streaming",
+        "frontend"
+      ],
+      "read_time": 2
+    },
+    {
+      "tool_id": "openapi-mcp",
+      "title": "OpenAPI-MCP: OpenAPI 스펙을 MCP 서버로 자동 변환",
+      "content": "## 핵심 특징\n\nOpenAPI-MCP는 **기존 OpenAPI(Swagger) 스펙을 MCP 서버로 자동 변환하는 도구**입니다. 별도 코딩 없이 REST API를 AI 에이전트의 도구로 즉시 노출합니다. OpenAPI 3.0/3.1 스펙의 엔드포인트가 MCP 도구로 매핑되며, 인증 설정도 자동으로 처리됩니다.\n\n## 작동 방식\n\nOpenAPI 스펙 URL 또는 파일을 입력하면, 각 API 엔드포인트가 MCP 도구로 변환됩니다. 파라미터 스키마가 도구 입력으로, 응답 스키마가 출력으로 매핑됩니다. API 키, OAuth, Bearer 토큰 등 인증 방식을 설정 파일로 관리합니다. 동적 필터링으로 특정 엔드포인트만 노출할 수도 있습니다.\n\n## 활용 팁\n\n사내 REST API를 빠르게 AI 에이전트에 연결할 때 유용합니다. Claude Desktop의 `.mcp.json`에 등록하면 바로 사용 가능합니다. Stainless, Speakeasy 등의 SDK 생성기와 병행하면 효과적입니다.",
+      "tags": [
+        "openapi",
+        "mcp",
+        "api-conversion",
+        "automation",
+        "rest-api"
+      ],
+      "read_time": 2
+    },
+    {
+      "tool_id": "you-com",
+      "title": "You.com: AI 검색 엔진과 RAG API 플랫폼",
+      "content": "## 핵심 특징\n\nYou.com은 **AI 기반 검색 엔진이자 개발자용 RAG API를 제공하는 플랫폼**입니다. 웹 검색 결과를 AI가 분석하여 출처와 함께 구조화된 답변을 생성합니다. Search API, News API, RAG API를 통해 AI 앱에 실시간 웹 정보를 통합할 수 있습니다.\n\n## API 제품군\n\n**Web Search API**는 실시간 웹 검색 결과를 반환하고, **RAG API**는 쿼리에 대한 웹 기반 답변을 생성합니다. **News API**는 최신 뉴스를 구조화하여 제공합니다. 모든 API가 스니펫과 출처 URL을 포함하여 그라운딩에 적합합니다. 월 1,000회 무료 호출을 제공합니다.\n\n## 활용 팁\n\nAI 에이전트에 실시간 웹 정보를 주입할 때 Tavily와 함께 비교 검토하세요. You.com은 뉴스와 학술 검색에 강하고, 커스텀 소스 필터링이 가능합니다. LangChain, LlamaIndex 통합 모듈도 제공됩니다.",
+      "tags": [
+        "search-api",
+        "rag",
+        "web-search",
+        "grounding",
+        "real-time"
+      ],
+      "read_time": 2
+    },
+    {
+      "tool_id": "tavily",
+      "title": "Tavily: AI 에이전트 전용 검색 API, LangChain 공식 파트너",
+      "content": "## 핵심 특징\n\nTavily는 **AI 에이전트에 최적화된 검색 API**입니다. LangChain의 공식 검색 파트너로, 단일 API 호출로 검색·크롤링·필터링·추출을 수행합니다. 일반 검색 API와 달리 AI가 소비하기 좋은 형태로 결과를 정제하여 반환합니다. GPT Researcher 프로젝트의 기반 기술이기도 합니다.\n\n## 핵심 기능\n\n**Search API**는 쿼리당 최적화된 검색 결과를 반환하고, **Extract API**는 URL에서 구조화된 콘텐츠를 추출합니다. **Crawl API**는 사이트 전체를 크롤링합니다. search_depth 옵션으로 기본/심층 검색을 선택하고, include_answer 옵션으로 AI 생성 답변도 받을 수 있습니다.\n\n## 활용 팁\n\n월 1,000회 무료 API 호출을 제공합니다. LangChain의 TavilySearchResults 도구로 바로 연결되며, OpenAI 함수 호출과도 쉽게 통합됩니다. 리서치 에이전트 구축 시 필수 도구입니다.",
+      "tags": [
+        "search-api",
+        "langchain",
+        "rag",
+        "web-search",
+        "ai-agent"
+      ],
+      "read_time": 2
+    },
+    {
+      "tool_id": "dall-e",
+      "title": "DALL-E 3: OpenAI의 텍스트-이미지 생성 모델, ChatGPT 통합",
+      "content": "## 핵심 특징\n\nDALL-E 3는 **OpenAI의 최신 텍스트-이미지 생성 모델**입니다. ChatGPT에 네이티브 통합되어 대화형으로 이미지를 생성·수정할 수 있습니다. 이전 버전 대비 프롬프트 이해력이 크게 향상되어, 복잡한 구도와 텍스트 렌더링이 가능합니다. API를 통해 프로그래매틱하게 이미지를 생성할 수도 있습니다.\n\n## API 활용\n\nOpenAI API의 Images 엔드포인트에서 model을 \"dall-e-3\"으로 지정합니다. 1024x1024, 1024x1792, 1792x1024 해상도를 지원하며, quality 파라미터로 standard/hd를 선택합니다. ChatGPT가 프롬프트를 자동 확장하여 품질을 높이는 것이 특징입니다.\n\n## 활용 팁\n\n마케팅 소재, 프로토타입 목업, 블로그 삽화 등에 활용하세요. Midjourney 대비 API 접근성이 뛰어나고, ChatGPT 내에서 반복 수정이 편리합니다. 다만 일관된 캐릭터 유지에는 시드 기능 활용이 필요합니다.",
+      "tags": [
+        "image-generation",
+        "openai",
+        "text-to-image",
+        "chatgpt",
+        "api"
+      ],
+      "read_time": 2
+    },
+    {
+      "tool_id": "ideogram",
+      "title": "Ideogram: 텍스트 렌더링 최강의 AI 이미지 생성 플랫폼",
+      "content": "## 핵심 특징\n\nIdeogram은 **이미지 내 텍스트 렌더링에서 업계 최고 성능을 보여주는 AI 이미지 생성 플랫폼**입니다. 로고, 포스터, 간판 등 텍스트가 포함된 이미지에서 다른 모델들이 실패하는 정확한 글자 표현을 구현합니다. Ideogram 2.0에서 포토리얼리즘과 디자인 품질이 대폭 향상되었습니다.\n\n## 주요 기능\n\n**Text Rendering**은 영어·한국어 등 다국어 텍스트를 정확하게 렌더링합니다. **Magic Prompt**가 사용자 프롬프트를 자동 확장하여 품질을 높입니다. **Style Matching**으로 일관된 브랜드 아이덴티티를 유지할 수 있습니다. API를 통해 프로그래매틱 접근도 가능합니다.\n\n## 활용 팁\n\n로고 시안, 소셜 미디어 배너, 프레젠테이션 슬라이드 등 텍스트가 중요한 이미지에 최적입니다. Midjourney, DALL-E로 텍스트가 깨지는 경우 Ideogram을 대안으로 활용하세요.",
+      "tags": [
+        "image-generation",
+        "text-rendering",
+        "design",
+        "logo",
+        "api"
+      ],
+      "read_time": 2
+    },
+    {
+      "tool_id": "deepseek",
+      "title": "DeepSeek: R1/V3, M 학습 비용의 MIT 오픈소스 LLM",
+      "content": "## 핵심 특징\n\nDeepSeek는 **중국 퀀트 펀드 High-Flyer가 만든 오픈소스 LLM 시리즈**입니다. DeepSeek-V3는 671B MoE 모델로 약 M의 학습 비용만으로 GPT-4 급 성능을 달성하여 업계에 충격을 주었습니다. DeepSeek-R1은 추론 특화 모델로, MIT 라이선스로 완전 공개되었습니다.\n\n## 모델 라인업\n\n**DeepSeek-V3**는 671B 파라미터 MoE 아키텍처로, Multi-head Latent Attention과 DeepSeekMoE를 적용했습니다. **DeepSeek-R1**은 CoT 추론 모델로, 수학·코딩에서 OpenAI o1과 비견됩니다. 1.5B~70B 증류 모델도 제공하여 로컬 실행이 가능합니다.\n\n## 활용 팁\n\nAPI를 통해 매우 저렴하게(/bin/bash.27/1M 입력 토큰) 사용할 수 있습니다. 증류 모델은 Ollama로 로컬 실행이 가능합니다. 다만 중국 관련 민감한 주제에서 검열이 있을 수 있습니다.",
+      "tags": [
+        "open-source",
+        "moe",
+        "reasoning",
+        "mit-license",
+        "cost-efficient"
+      ],
+      "read_time": 2
+    },
+    {
+      "tool_id": "qwen",
+      "title": "Qwen: Qwen 3/3.5, 397B MoE, 5억+ 다운로드의 오픈 LLM",
+      "content": "## 핵심 특징\n\nQwen(통의천문)은 **Alibaba Cloud가 개발한 오픈소스 LLM 시리즈**입니다. HuggingFace에서 5억 회 이상 다운로드되며, 오픈소스 LLM 중 최다 사용을 기록하고 있습니다. Qwen 3는 0.6B~235B까지 8개 밀집·MoE 모델을 제공하며, Apache 2.0 라이선스입니다.\n\n## 모델 라인업\n\n**Qwen3-235B-A22B**는 397B MoE 아키텍처에서 22B가 활성화되는 플래그십 모델입니다. Thinking/Non-thinking 모드를 하나의 모델에서 전환 가능합니다. **Qwen3-Coder**는 코딩 특화, **Qwen-VL**은 비전, **Qwen-Audio**는 음성을 지원하는 멀티모달 제품군입니다.\n\n## 활용 팁\n\nvLLM, SGLang으로 셀프 호스팅하거나, Alibaba DashScope API로 사용할 수 있습니다. MCP 서버 통합과 에이전트 기능이 내장되어 있어 에이전트 개발에 적합합니다. 다국어(29개 언어) 지원이 강점입니다.",
+      "tags": [
+        "open-source",
+        "moe",
+        "multilingual",
+        "alibaba",
+        "multimodal"
+      ],
+      "read_time": 2
+    },
+    {
+      "tool_id": "sd-3-5",
+      "title": "Stable Diffusion 3.5: Large/Turbo/Medium 오픈소스 이미지 생성",
+      "content": "## 핵심 특징\n\nStable Diffusion 3.5는 **Stability AI의 최신 오픈소스 이미지 생성 모델 시리즈**입니다. MMDiT(Multimodal Diffusion Transformer) 아키텍처를 채택하여 텍스트 이해력과 이미지 품질이 크게 향상되었습니다. Large(8B), Large Turbo(8B, 4스텝), Medium(2.5B) 세 가지 변형을 제공합니다.\n\n## 모델 변형\n\n**Large**는 최고 품질의 8B 파라미터 모델로 50스텝 추론을 권장합니다. **Large Turbo**는 동일 아키텍처를 4스텝으로 증류하여 실시간에 가까운 생성이 가능합니다. **Medium**은 2.5B로 소비자 GPU에서 실행 가능한 경량 모델입니다. 모두 Stability AI 커뮤니티 라이선스로 공개되었습니다.\n\n## 활용 팁\n\nComfyUI나 Automatic1111 WebUI에서 바로 사용할 수 있습니다. LoRA 파인튜닝으로 스타일을 커스터마이징하고, ControlNet으로 구도를 제어하세요. API는 Stability AI Platform에서 제공됩니다.",
+      "tags": [
+        "image-generation",
+        "open-source",
+        "diffusion",
+        "transformer",
+        "stable-diffusion"
+      ],
+      "read_time": 2
+    },
+    {
+      "tool_id": "stable-video-diffusion",
+      "title": "Stable Video Diffusion: SVD/SVD-XT/SV4D 이미지-투-비디오",
+      "content": "## 핵심 특징\n\nStable Video Diffusion(SVD)은 **Stability AI의 오픈소스 이미지-투-비디오 생성 모델**입니다. 단일 이미지에서 고품질 비디오 클립을 생성하며, 영상 생성 AI의 오픈소스 표준으로 자리잡았습니다. Stable Diffusion의 이미지 이해 능력을 비디오 도메인으로 확장한 모델입니다.\n\n## 모델 변형\n\n**SVD**는 14프레임 비디오를 생성하는 기본 모델이고, **SVD-XT**는 25프레임으로 확장하여 더 긴 클립을 만듭니다. **SV3D**는 단일 이미지에서 3D 오브젝트의 다각도 비디오를 생성하며, **SV4D**는 동적 3D 장면의 다시점 비디오를 생성합니다. 576x1024 해상도를 지원합니다.\n\n## 활용 팁\n\nComfyUI의 SVD 노드로 쉽게 실행할 수 있습니다. motion_bucket_id로 움직임 강도를 조절하고, fps 설정으로 속도를 제어하세요. 제품 시연, 시네마그래프, 애니메이션 프로토타입 제작에 활용됩니다.",
+      "tags": [
+        "video-generation",
+        "image-to-video",
+        "open-source",
+        "3d",
+        "stable-diffusion"
+      ],
+      "read_time": 2
     }
   ]
 }

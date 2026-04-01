@@ -115,7 +115,8 @@
       "Bash(google-chrome --headless --no-sandbox --disable-gpu --screenshot=/tmp/audit-fix.png --window-size=1440,1000 http://localhost:8080/)",
       "Bash(google-chrome --headless --no-sandbox --disable-gpu --screenshot=/tmp/audit-fix-scroll.png --window-size=1440,1600 http://localhost:8080/)",
       "Bash(google-chrome --headless --no-sandbox --disable-gpu --screenshot=/tmp/audit-fix-bottom.png --window-size=1440,2000 http://localhost:8080/)",
-      "Bash(google-chrome --headless --no-sandbox --disable-gpu --screenshot=/tmp/audit-fix-mobile.png --window-size=390,844 http://localhost:8080/)"
+      "Bash(google-chrome --headless --no-sandbox --disable-gpu --screenshot=/tmp/audit-fix-mobile.png --window-size=390,844 http://localhost:8080/)",
+      "Bash(grep -c '\"\"id\"\":' /home/wooseok/workspace/trendings/data/tools.json)"
     ]
   }
 }

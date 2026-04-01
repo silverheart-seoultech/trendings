@@ -1979,6 +1979,1137 @@
       ],
       "license": "Proprietary",
       "pricing": "Free (3분/월) / Starter $29/월 / Creator $89/월 / Enterprise (무제한)"
+    },
+    {
+      "id": "langsmith",
+      "name": "LangSmith",
+      "category": "observability",
+      "description": "LangChain 팀이 만든 LLM 애플리케이션 트레이싱 및 평가 플랫폼. 프롬프트 실험, 회귀 테스트, 온라인 모니터링을 통합 제공한다.",
+      "github_url": null,
+      "website": "https://smith.langchain.com",
+      "stars": null,
+      "trending_score": 78,
+      "key_features": [
+        "LLM 호출 트레이싱 및 디버깅",
+        "데이터셋 기반 자동 평가",
+        "프롬프트 버전 관리 및 A/B 테스트",
+        "LangChain/LangGraph 네이티브 통합",
+        "온라인 모니터링 및 알림"
+      ],
+      "install_guide": "# Python SDK\npip install langsmith\n\nexport LANGCHAIN_TRACING_V2=true\nexport LANGCHAIN_API_KEY=<your-api-key>\n\n# 자동으로 LangChain 호출 트레이싱",
+      "tags": [
+        "tracing",
+        "evaluation",
+        "langchain",
+        "cloud"
+      ],
+      "license": "Proprietary",
+      "pricing": "Developer (무료, 5K트레이스/월) / Plus $39/월 / Enterprise 문의"
+    },
+    {
+      "id": "braintrust",
+      "name": "Braintrust",
+      "category": "observability",
+      "description": "AI 제품 개발을 위한 엔드투엔드 평가·모니터링 플랫폼. Notion, Stripe 등 선도 기업이 사용하며 CI/CD 파이프라인에 AI 평가를 통합한다.",
+      "github_url": null,
+      "website": "https://www.braintrust.dev",
+      "stars": null,
+      "trending_score": 65,
+      "key_features": [
+        "프롬프트 Playground 및 비교 평가",
+        "CI/CD 파이프라인 통합 자동 평가",
+        "프로덕션 로깅 및 실시간 모니터링",
+        "데이터셋 관리 및 골든셋 구축",
+        "AI 프록시를 통한 캐싱 및 레이트리밋"
+      ],
+      "install_guide": "# Python SDK\npip install braintrust\n\nimport braintrust\n\n# 실험 실행\nwith braintrust.init(project=\"my-project\") as experiment:\n    result = experiment.log(input=\"질문\", output=\"답변\", expected=\"정답\")",
+      "tags": [
+        "evaluation",
+        "ci-cd",
+        "monitoring",
+        "enterprise"
+      ],
+      "license": "Proprietary",
+      "pricing": "Free (50 eval/월) / Pro $50/월 / Enterprise 문의"
+    },
+    {
+      "id": "portkey",
+      "name": "Portkey",
+      "category": "observability",
+      "description": "하루 1조 토큰 이상을 처리하는 AI 게이트웨이 및 옵저버빌리티 플랫폼. 최근 오픈소스로 전환하여 커뮤니티 성장세가 가파르다.",
+      "github_url": "https://github.com/portkey-ai/gateway",
+      "website": "https://portkey.ai",
+      "stars": 11100,
+      "trending_score": 72,
+      "key_features": [
+        "200+ LLM 프로바이더 통합 게이트웨이",
+        "자동 폴백 및 로드밸런싱",
+        "실시간 비용·레이턴시 모니터링",
+        "가드레일 및 컨텐츠 필터링",
+        "시맨틱 캐싱으로 비용 절감"
+      ],
+      "install_guide": "# Gateway 설치\nnpx @portkey-ai/gateway\n\n# Python SDK\npip install portkey-ai\n\nfrom portkey_ai import Portkey\nclient = Portkey(api_key=\"...\", virtual_key=\"...\")",
+      "tags": [
+        "gateway",
+        "observability",
+        "open-source",
+        "load-balancing"
+      ],
+      "license": "MIT"
+    },
+    {
+      "id": "promptfoo",
+      "name": "Promptfoo",
+      "category": "observability",
+      "description": "LLM 출력 평가 및 레드팀 테스트를 위한 CLI 도구. OpenAI, Anthropic 등 주요 기업이 사용하며 프롬프트 품질을 체계적으로 검증한다.",
+      "github_url": "https://github.com/promptfoo/promptfoo",
+      "website": "https://promptfoo.dev",
+      "stars": 13200,
+      "trending_score": 75,
+      "key_features": [
+        "YAML 기반 평가 설정 및 CLI 실행",
+        "자동 레드팀 테스트 (탈옥, 편향 등)",
+        "모델 간 비교 평가 매트릭스",
+        "CI/CD 통합 회귀 테스트",
+        "웹 UI 결과 시각화"
+      ],
+      "install_guide": "# CLI 설치\nnpm install -g promptfoo\n\n# 초기화\npromptfoo init\n\n# 평가 실행\npromptfoo eval\n\n# 결과 보기\npromptfoo view",
+      "tags": [
+        "evaluation",
+        "red-team",
+        "cli",
+        "open-source"
+      ],
+      "license": "MIT"
+    },
+    {
+      "id": "arize-phoenix",
+      "name": "Arize Phoenix",
+      "category": "observability",
+      "description": "OpenTelemetry 기반 AI 옵저버빌리티 오픈소스 플랫폼. LLM 트레이싱, 평가, 데이터셋 큐레이션을 단일 도구로 제공한다.",
+      "github_url": "https://github.com/Arize-ai/phoenix",
+      "website": "https://phoenix.arize.com",
+      "stars": 9100,
+      "trending_score": 68,
+      "key_features": [
+        "OpenTelemetry 네이티브 LLM 트레이싱",
+        "자동 스팬 평가 (환각, 관련성 등)",
+        "데이터셋 큐레이션 및 실험 관리",
+        "임베딩 드리프트 시각화",
+        "로컬 실행 및 셀프호스팅 지원"
+      ],
+      "install_guide": "# 설치\npip install arize-phoenix\n\n# 로컬 서버 실행\npython -m phoenix.server.main serve\n\n# 트레이싱 설정\nfrom phoenix.otel import register\ntracer_provider = register(project_name=\"my-project\")",
+      "tags": [
+        "observability",
+        "opentelemetry",
+        "tracing",
+        "open-source"
+      ],
+      "license": "Elastic-2.0"
+    },
+    {
+      "id": "zapier",
+      "name": "Zapier",
+      "category": "workflow-automation",
+      "description": "7000개 이상의 앱을 연결하는 클라우드 자동화 플랫폼의 원조. 코딩 없이 트리거-액션 기반으로 복잡한 워크플로우를 구축할 수 있다.",
+      "github_url": null,
+      "website": "https://zapier.com",
+      "stars": null,
+      "trending_score": 70,
+      "key_features": [
+        "7000+ 앱 네이티브 통합",
+        "트리거-액션 기반 Zap 자동화",
+        "AI Actions (ChatGPT 등 LLM 연동)",
+        "다단계 워크플로우 및 조건 분기",
+        "Zapier Tables 내장 데이터베이스"
+      ],
+      "install_guide": "# zapier.com에서 가입\n# 웹 에디터에서 Zap 생성\n# 또는 Zapier CLI로 커스텀 통합 개발\nnpm install -g zapier-platform-cli",
+      "tags": [
+        "cloud",
+        "no-code",
+        "integrations",
+        "steady-seller"
+      ],
+      "license": "Proprietary",
+      "pricing": "Free (100태스크/월) / Starter $29.99/월 / Professional $73.50/월 / Team $103.50/월"
+    },
+    {
+      "id": "make",
+      "name": "Make (Integromat)",
+      "category": "workflow-automation",
+      "description": "시각적 시나리오 빌더로 복잡한 자동화를 직관적으로 설계하는 플랫폼. Zapier 대비 가성비가 뛰어나고 세밀한 흐름 제어를 지원한다.",
+      "github_url": null,
+      "website": "https://www.make.com",
+      "stars": null,
+      "trending_score": 65,
+      "key_features": [
+        "시각적 드래그앤드롭 시나리오 빌더",
+        "1800+ 앱 통합",
+        "실행 히스토리 및 에러 핸들링",
+        "HTTP/Webhook 모듈로 커스텀 연동",
+        "AI 모듈 (OpenAI, Anthropic 등)"
+      ],
+      "install_guide": "# make.com에서 가입\n# 웹 에디터에서 시나리오 생성\n# 모듈을 드래그해서 워크플로우 구성",
+      "tags": [
+        "cloud",
+        "visual-builder",
+        "integrations",
+        "steady-seller"
+      ],
+      "license": "Proprietary",
+      "pricing": "Free (1000ops/월) / Core $10.59/월 / Pro $18.82/월 / Teams $34.12/월"
+    },
+    {
+      "id": "temporal",
+      "name": "Temporal",
+      "category": "workflow-automation",
+      "description": "내결함성을 보장하는 분산 워크플로우 오케스트레이션 엔진. 장애 시 자동 복구되며 장시간 실행 프로세스를 안정적으로 관리한다.",
+      "github_url": "https://github.com/temporalio/temporal",
+      "website": "https://temporal.io",
+      "stars": 15000,
+      "trending_score": 62,
+      "key_features": [
+        "내결함성 워크플로우 (자동 재시도/복구)",
+        "Go, Java, Python, TypeScript SDK",
+        "장시간 실행 워크플로우 지원",
+        "버전닝 및 무중단 배포",
+        "웹 UI 기반 워크플로우 모니터링"
+      ],
+      "install_guide": "# Temporal CLI 설치\ncurl -sSf https://temporal.download/cli.sh | sh\n\n# 로컬 서버 실행\ntemporal server start-dev\n\n# Python SDK\npip install temporalio",
+      "tags": [
+        "workflow-engine",
+        "fault-tolerant",
+        "open-source",
+        "steady-seller"
+      ],
+      "license": "MIT"
+    },
+    {
+      "id": "prefect",
+      "name": "Prefect",
+      "category": "workflow-automation",
+      "description": "Python 네이티브 데이터 파이프라인 오케스트레이션 프레임워크. 데코레이터 기반의 직관적 API로 복잡한 데이터 워크플로우를 관리한다.",
+      "github_url": "https://github.com/PrefectHQ/prefect",
+      "website": "https://www.prefect.io",
+      "stars": 18000,
+      "trending_score": 60,
+      "key_features": [
+        "Python 데코레이터 기반 워크플로우 정의",
+        "동적 태스크 매핑 및 병렬 실행",
+        "스케줄링 및 이벤트 트리거",
+        "웹 UI 대시보드 및 모니터링",
+        "Prefect Cloud 매니지드 서비스"
+      ],
+      "install_guide": "# 설치\npip install prefect\n\n# 플로우 정의\nfrom prefect import flow, task\n\n@task\ndef extract(): ...\n\n@flow\ndef my_pipeline():\n    data = extract()\n\n# 실행\nprefect server start",
+      "tags": [
+        "data-pipeline",
+        "orchestration",
+        "python",
+        "steady-seller"
+      ],
+      "license": "Apache-2.0"
+    },
+    {
+      "id": "semantic-kernel",
+      "name": "Semantic Kernel",
+      "category": "agent-frameworks",
+      "description": "Microsoft 공식 AI 애플리케이션 개발 SDK로 C#, Python, Java를 지원한다. Azure OpenAI와 깊이 통합되어 엔터프라이즈 AI 에이전트 구축에 최적화되어 있다.",
+      "github_url": "https://github.com/microsoft/semantic-kernel",
+      "website": "https://learn.microsoft.com/semantic-kernel",
+      "stars": 24000,
+      "trending_score": 65,
+      "key_features": [
+        "C#, Python, Java 멀티 언어 SDK",
+        "Azure OpenAI 및 다양한 LLM 커넥터",
+        "플러그인 기반 확장 아키텍처",
+        "자동 함수 호출 및 플래닝",
+        "메모리 및 벡터 스토어 통합"
+      ],
+      "install_guide": "# Python\npip install semantic-kernel\n\nimport semantic_kernel as sk\nkernel = sk.Kernel()\n\n# C#\ndotnet add package Microsoft.SemanticKernel",
+      "tags": [
+        "microsoft",
+        "enterprise",
+        "multi-language",
+        "steady-seller"
+      ],
+      "license": "MIT"
+    },
+    {
+      "id": "haystack",
+      "name": "Haystack",
+      "category": "agent-frameworks",
+      "description": "deepset이 개발한 RAG 및 검색 증강 생성 전문 프레임워크. 파이프라인 기반 아키텍처로 복잡한 NLP 워크플로우를 모듈식으로 구성한다.",
+      "github_url": "https://github.com/deepset-ai/haystack",
+      "website": "https://haystack.deepset.ai",
+      "stars": 23000,
+      "trending_score": 62,
+      "key_features": [
+        "파이프라인 기반 모듈식 RAG 구축",
+        "30+ 문서 변환기 및 전처리기",
+        "다양한 벡터 DB 통합 (Pinecone, Weaviate 등)",
+        "평가 프레임워크 내장",
+        "REST API 서빙 지원"
+      ],
+      "install_guide": "# 설치\npip install haystack-ai\n\nfrom haystack import Pipeline\nfrom haystack.components.generators import OpenAIGenerator\n\npipe = Pipeline()\npipe.add_component(\"llm\", OpenAIGenerator())",
+      "tags": [
+        "rag",
+        "search",
+        "pipeline",
+        "steady-seller"
+      ],
+      "license": "Apache-2.0"
+    },
+    {
+      "id": "smolagents",
+      "name": "Smolagents",
+      "category": "agent-frameworks",
+      "description": "HuggingFace가 만든 코드 우선 경량 에이전트 프레임워크. 에이전트가 Python 코드를 직접 작성·실행하여 도구를 호출하는 방식을 채택한다.",
+      "github_url": "https://github.com/huggingface/smolagents",
+      "website": "https://huggingface.co/docs/smolagents",
+      "stars": 25000,
+      "trending_score": 70,
+      "key_features": [
+        "코드 액션 기반 에이전트 (JSON 대신 코드 생성)",
+        "HuggingFace Hub 도구 공유",
+        "멀티 에이전트 오케스트레이션",
+        "다양한 LLM 백엔드 지원",
+        "MCP 서버 네이티브 통합"
+      ],
+      "install_guide": "# 설치\npip install smolagents\n\nfrom smolagents import CodeAgent, HfApiModel\n\nagent = CodeAgent(\n    tools=[],\n    model=HfApiModel()\n)\nagent.run(\"질문\")",
+      "tags": [
+        "huggingface",
+        "code-agent",
+        "lightweight",
+        "steady-seller"
+      ],
+      "license": "Apache-2.0"
+    },
+    {
+      "id": "pydantic-ai",
+      "name": "PydanticAI",
+      "category": "agent-frameworks",
+      "description": "Pydantic 팀이 만든 타입 세이프 AI 에이전트 프레임워크. 구조화된 출력과 의존성 주입으로 프로덕션 수준의 안정성을 제공한다.",
+      "github_url": "https://github.com/pydantic/pydantic-ai",
+      "website": "https://ai.pydantic.dev",
+      "stars": 15000,
+      "trending_score": 68,
+      "key_features": [
+        "Pydantic 기반 타입 세이프 응답 검증",
+        "의존성 주입 시스템",
+        "스트리밍 구조화 출력",
+        "멀티 모델 지원 (OpenAI, Anthropic, Gemini 등)",
+        "Logfire 통합 모니터링"
+      ],
+      "install_guide": "# 설치\npip install pydantic-ai\n\nfrom pydantic_ai import Agent\n\nagent = Agent('openai:gpt-4o', system_prompt='당신은 도우미입니다.')\nresult = agent.run_sync('안녕하세요')",
+      "tags": [
+        "type-safe",
+        "pydantic",
+        "structured-output",
+        "steady-seller"
+      ],
+      "license": "MIT"
+    },
+    {
+      "id": "letta",
+      "name": "Letta (MemGPT)",
+      "category": "agent-frameworks",
+      "description": "상태를 유지하는 장기 메모리 에이전트 프레임워크(구 MemGPT). 대화 히스토리와 지식을 자동 관리하여 컨텍스트 윈도우 한계를 극복한다.",
+      "github_url": "https://github.com/letta-ai/letta",
+      "website": "https://www.letta.com",
+      "stars": 15000,
+      "trending_score": 64,
+      "key_features": [
+        "자동 메모리 계층 관리 (코어/아카이브)",
+        "장기 대화 상태 유지",
+        "셀프 편집 메모리 시스템",
+        "REST API 서버 및 웹 UI",
+        "다양한 LLM 백엔드 지원"
+      ],
+      "install_guide": "# 설치\npip install letta\n\n# 서버 실행\nletta server\n\n# Python 클라이언트\nfrom letta import create_client\nclient = create_client()",
+      "tags": [
+        "memory",
+        "stateful",
+        "long-term",
+        "steady-seller"
+      ],
+      "license": "Apache-2.0"
+    },
+    {
+      "id": "ag-ui",
+      "name": "AG-UI",
+      "category": "ai-protocols",
+      "description": "CopilotKit이 공개한 에이전트-UI 통신 프로토콜. 에이전트 백엔드와 프론트엔드 UI 간의 표준화된 실시간 상호작용을 정의한다.",
+      "github_url": "https://github.com/ag-ui-protocol/ag-ui",
+      "website": "https://docs.ag-ui.com",
+      "stars": null,
+      "trending_score": 58,
+      "key_features": [
+        "에이전트-UI 실시간 양방향 통신",
+        "이벤트 기반 스트리밍 프로토콜",
+        "프레임워크 독립적 설계",
+        "텍스트/도구/상태 이벤트 표준화",
+        "TypeScript 및 Python SDK"
+      ],
+      "install_guide": "# TypeScript SDK\nnpm install @ag-ui/core @ag-ui/react\n\n# Python SDK\npip install ag-ui-protocol\n\n# React 컴포넌트에서 에이전트 연결",
+      "tags": [
+        "protocol",
+        "agent-ui",
+        "copilotkit",
+        "streaming"
+      ],
+      "license": "MIT"
+    },
+    {
+      "id": "openapi-mcp",
+      "name": "OpenAPI-to-MCP",
+      "category": "ai-protocols",
+      "description": "OpenAPI 스펙을 MCP 서버로 자동 변환하는 도구. 기존 REST API를 AI 에이전트가 바로 사용할 수 있는 MCP 도구로 만들어준다.",
+      "github_url": "https://github.com/open-api-to-mcp/openapi-to-mcp",
+      "website": "https://openapi-to-mcp.dev",
+      "stars": null,
+      "trending_score": 55,
+      "key_features": [
+        "OpenAPI 3.x 스펙 자동 파싱",
+        "MCP 서버 코드 자동 생성",
+        "인증 (API키, OAuth) 자동 매핑",
+        "스키마 기반 도구 설명 생성",
+        "CLI 및 프로그래매틱 API 지원"
+      ],
+      "install_guide": "# 설치\nnpm install -g openapi-to-mcp\n\n# OpenAPI 스펙에서 MCP 서버 생성\nopenapi-to-mcp generate --spec ./openapi.yaml --output ./mcp-server",
+      "tags": [
+        "mcp",
+        "openapi",
+        "converter",
+        "protocol"
+      ],
+      "license": "MIT"
+    },
+    {
+      "id": "you-com",
+      "name": "You.com",
+      "category": "ai-search",
+      "description": "AI 검색 엔진과 RAG API를 함께 제공하는 개발자 친화적 플랫폼. 웹 검색 결과를 구조화된 API로 받아 에이전트에 통합할 수 있다.",
+      "github_url": null,
+      "website": "https://you.com",
+      "stars": null,
+      "trending_score": 58,
+      "key_features": [
+        "AI 검색 API (웹, 뉴스, RAG)",
+        "구조화된 스니펫 및 소스 반환",
+        "커스텀 소스 필터링",
+        "LLM 에이전트 연동 최적화",
+        "빠른 응답 속도 및 높은 가용성"
+      ],
+      "install_guide": "# API 키 발급: you.com/api\n# REST API 호출\ncurl 'https://api.ydc-index.io/search?query=검색어' \\\n  -H 'X-API-Key: YOUR_KEY'",
+      "tags": [
+        "search-api",
+        "rag",
+        "developer-friendly",
+        "steady-seller"
+      ],
+      "license": "Proprietary",
+      "pricing": "Free (100쿼리/월) / Developer $100/월 / Enterprise 문의"
+    },
+    {
+      "id": "tavily",
+      "name": "Tavily",
+      "category": "ai-search",
+      "description": "AI 에이전트를 위해 특화된 검색 API로 LangChain 공식 파트너이다. 검색 결과를 LLM이 소비하기 쉬운 형태로 가공하여 반환한다.",
+      "github_url": null,
+      "website": "https://tavily.com",
+      "stars": null,
+      "trending_score": 72,
+      "key_features": [
+        "에이전트 최적화 검색 결과 반환",
+        "LangChain/LlamaIndex 공식 통합",
+        "실시간 웹 검색 및 뉴스",
+        "자동 요약 및 관련성 스코어링",
+        "JSON 구조화 응답"
+      ],
+      "install_guide": "# Python SDK\npip install tavily-python\n\nfrom tavily import TavilyClient\nclient = TavilyClient(api_key=\"tvly-...\")\nresults = client.search(\"검색어\")",
+      "tags": [
+        "search-api",
+        "agent-tool",
+        "langchain-partner",
+        "steady-seller"
+      ],
+      "license": "Proprietary",
+      "pricing": "Free (1000쿼리/월) / Boost $200/월 / Scale $600/월"
+    },
+    {
+      "id": "dall-e",
+      "name": "DALL-E 3",
+      "category": "design-ai",
+      "description": "OpenAI의 텍스트-이미지 생성 모델로 ChatGPT와 완전 통합되어 있다. 자연어 프롬프트만으로 고품질 이미지를 생성하며 API로도 접근 가능하다.",
+      "github_url": null,
+      "website": "https://openai.com/dall-e-3",
+      "stars": null,
+      "trending_score": 75,
+      "key_features": [
+        "ChatGPT 네이티브 통합 이미지 생성",
+        "프롬프트 이해력 및 텍스트 렌더링 향상",
+        "API를 통한 프로그래밍 접근",
+        "안전성 필터 및 콘텐츠 정책",
+        "다양한 스타일 및 해상도 지원"
+      ],
+      "install_guide": "# OpenAI API 사용\npip install openai\n\nfrom openai import OpenAI\nclient = OpenAI()\nresponse = client.images.generate(\n    model=\"dall-e-3\",\n    prompt=\"설명\",\n    size=\"1024x1024\"\n)",
+      "tags": [
+        "image-generation",
+        "openai",
+        "api",
+        "cloud"
+      ],
+      "license": "Proprietary",
+      "pricing": "Standard $0.040/이미지 / HD $0.080/이미지 (1024x1024)"
+    },
+    {
+      "id": "ideogram",
+      "name": "Ideogram",
+      "category": "design-ai",
+      "description": "텍스트 렌더링 능력이 가장 뛰어난 AI 이미지 생성 플랫폼. 로고, 포스터 등 텍스트가 포함된 디자인 작업에서 독보적인 성능을 보여준다.",
+      "github_url": null,
+      "website": "https://ideogram.ai",
+      "stars": null,
+      "trending_score": 70,
+      "key_features": [
+        "업계 최고 수준 텍스트 렌더링",
+        "다양한 스타일 프리셋 (포토, 일러스트 등)",
+        "고해상도 이미지 생성",
+        "API를 통한 자동화 지원",
+        "매직 프롬프트 자동 확장"
+      ],
+      "install_guide": "# ideogram.ai에서 가입\n# 웹 에디터에서 이미지 생성\n# API 사용:\ncurl -X POST https://api.ideogram.ai/generate \\\n  -H 'Api-Key: YOUR_KEY' \\\n  -d '{\"prompt\": \"설명\"}'",
+      "tags": [
+        "image-generation",
+        "text-rendering",
+        "design",
+        "cloud"
+      ],
+      "license": "Proprietary",
+      "pricing": "Free (10이미지/일) / Basic $8/월 / Plus $20/월 / Pro $60/월"
+    },
+    {
+      "id": "vllm",
+      "name": "vLLM",
+      "category": "local-llm",
+      "description": "PagedAttention 기반의 고처리량 LLM 추론 및 서빙 엔진. OpenAI 호환 API를 제공하며 프로덕션 환경에서 최고 수준의 토큰 처리 성능을 자랑한다.",
+      "github_url": "https://github.com/vllm-project/vllm",
+      "website": "https://vllm.ai",
+      "stars": 74800,
+      "trending_score": 92,
+      "key_features": [
+        "PagedAttention으로 메모리 효율 극대화",
+        "연속 배칭(Continuous Batching) 지원",
+        "OpenAI 호환 API 서버",
+        "다양한 양자화 포맷 지원 (AWQ, GPTQ, FP8)",
+        "멀티 GPU 텐서 병렬 처리"
+      ],
+      "install_guide": "pip install vllm\n\n# 서버 실행\nvllm serve meta-llama/Llama-4-Scout-17B-16E-Instruct\n\n# Python에서 사용\nfrom vllm import LLM\nllm = LLM(model=\"meta-llama/Llama-4-Scout-17B-16E-Instruct\")",
+      "tags": ["inference", "serving", "production", "gpu"],
+      "license": "Apache-2.0"
+    },
+    {
+      "id": "llama-cpp",
+      "name": "llama.cpp",
+      "category": "local-llm",
+      "description": "GGUF 포맷을 창시한 CPU/GPU LLM 추론의 기반 프로젝트. C/C++로 작성되어 다양한 플랫폼에서 경량으로 대규모 언어 모델을 실행할 수 있다.",
+      "github_url": "https://github.com/ggerganov/llama.cpp",
+      "website": "https://github.com/ggerganov/llama.cpp",
+      "stars": 100000,
+      "trending_score": 95,
+      "key_features": [
+        "GGUF 양자화 포맷 표준",
+        "CPU 전용 추론 가능",
+        "Apple Silicon Metal 가속",
+        "CUDA/Vulkan/OpenCL GPU 지원",
+        "내장 HTTP 서버 (OpenAI 호환)"
+      ],
+      "install_guide": "git clone https://github.com/ggerganov/llama.cpp\ncd llama.cpp\nmake -j\n\n# 모델 실행\n./llama-cli -m model.gguf -p \"Hello\"",
+      "tags": ["cpu", "gpu", "gguf", "cross-platform", "lightweight"],
+      "license": "MIT"
+    },
+    {
+      "id": "koboldcpp",
+      "name": "KoboldCpp",
+      "category": "local-llm",
+      "description": "단일 파일로 실행 가능한 llama.cpp 기반 LLM 런타임. 내장 웹UI와 KoboldAI API를 제공하여 설치 없이 바로 LLM을 사용할 수 있다.",
+      "github_url": "https://github.com/LostRuins/koboldcpp",
+      "website": "https://github.com/LostRuins/koboldcpp",
+      "stars": 9600,
+      "trending_score": 58,
+      "key_features": [
+        "단일 실행파일로 설치 불필요",
+        "내장 웹 UI 제공",
+        "KoboldAI 및 OpenAI 호환 API",
+        "GGUF/GGML 모델 지원",
+        "스토리텔링/RP 특화 기능"
+      ],
+      "install_guide": "# Windows: koboldcpp.exe 다운로드 후 실행\n# Linux/Mac:\ngit clone https://github.com/LostRuins/koboldcpp\nmake\npython koboldcpp.py model.gguf",
+      "tags": ["single-file", "easy-setup", "storytelling", "roleplay"],
+      "license": "AGPL-3.0"
+    },
+    {
+      "id": "text-generation-webui",
+      "name": "text-generation-webui",
+      "category": "local-llm",
+      "description": "oobabooga가 개발한 올인원 LLM 웹 인터페이스. GGUF, GPTQ, AWQ 등 모든 주요 포맷을 지원하며 확장 시스템으로 무한 커스터마이징이 가능하다.",
+      "github_url": "https://github.com/oobabooga/text-generation-webui",
+      "website": "https://github.com/oobabooga/text-generation-webui",
+      "stars": 46000,
+      "trending_score": 72,
+      "key_features": [
+        "GGUF/GPTQ/AWQ/EXL2 등 다양한 포맷 지원",
+        "Gradio 기반 웹 UI",
+        "확장(Extensions) 시스템",
+        "OpenAI 호환 API 서버",
+        "멀티모달 (이미지 입력) 지원"
+      ],
+      "install_guide": "git clone https://github.com/oobabooga/text-generation-webui\ncd text-generation-webui\n\n# 원클릭 설치\n./start_linux.sh  # 또는 start_windows.bat",
+      "tags": ["webui", "all-in-one", "extensions", "multi-format"],
+      "license": "AGPL-3.0"
+    },
+    {
+      "id": "open-webui",
+      "name": "Open WebUI",
+      "category": "local-llm",
+      "description": "ChatGPT를 완전히 대체할 수 있는 셀프호스팅 웹 UI. Ollama와 OpenAI 호환 API를 모두 지원하며 RAG, 도구, 사용자 관리 기능을 내장하고 있다.",
+      "github_url": "https://github.com/open-webui/open-webui",
+      "website": "https://openwebui.com",
+      "stars": 122000,
+      "trending_score": 96,
+      "key_features": [
+        "ChatGPT 스타일 직관적 UI",
+        "Ollama/OpenAI 호환 API 연동",
+        "내장 RAG (문서 업로드/검색)",
+        "다중 사용자 및 권한 관리",
+        "파이프라인(Pipelines) 확장 시스템"
+      ],
+      "install_guide": "# Docker (권장)\ndocker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway -v open-webui:/app/backend/data --name open-webui ghcr.io/open-webui/open-webui:main\n\n# pip\npip install open-webui\nopen-webui serve",
+      "tags": ["webui", "self-hosted", "rag", "multi-user", "docker"],
+      "license": "MIT"
+    },
+    {
+      "id": "mlx",
+      "name": "MLX",
+      "category": "local-llm",
+      "description": "Apple이 개발한 Apple Silicon 전용 머신러닝 프레임워크. 통합 메모리 아키텍처를 활용해 Mac에서 LLM을 네이티브 성능으로 실행할 수 있다.",
+      "github_url": "https://github.com/ml-explore/mlx",
+      "website": "https://ml-explore.github.io/mlx/",
+      "stars": 24900,
+      "trending_score": 78,
+      "key_features": [
+        "Apple Silicon 통합 메모리 최적화",
+        "NumPy 유사 Python API",
+        "지연 연산(Lazy Evaluation)",
+        "mlx-lm으로 LLM 즉시 실행",
+        "Hugging Face 모델 자동 변환"
+      ],
+      "install_guide": "pip install mlx mlx-lm\n\n# 모델 실행\nmlx_lm.generate --model mlx-community/Qwen3-8B-4bit --prompt \"Hello\"",
+      "tags": ["apple-silicon", "mac", "native", "unified-memory"],
+      "license": "MIT"
+    },
+    {
+      "id": "llamafile",
+      "name": "Llamafile",
+      "category": "local-llm",
+      "description": "Mozilla가 개발한 단일 실행파일 LLM 배포 솔루션. 하나의 파일에 모델 가중치와 런타임을 모두 포함하여 어떤 OS에서든 더블클릭으로 실행 가능하다.",
+      "github_url": "https://github.com/Mozilla-Ocho/llamafile",
+      "website": "https://github.com/Mozilla-Ocho/llamafile",
+      "stars": 23800,
+      "trending_score": 70,
+      "key_features": [
+        "OS 무관 단일 실행파일 배포",
+        "모델+런타임 원파일 패키징",
+        "내장 웹 서버 및 UI",
+        "llama.cpp 기반 추론 엔진",
+        "GPU 자동 감지 및 가속"
+      ],
+      "install_guide": "# llamafile 다운로드 후 실행\nchmod +x mistral-7b-instruct.llamafile\n./mistral-7b-instruct.llamafile\n\n# 브라우저에서 http://localhost:8080 접속",
+      "tags": ["single-file", "portable", "mozilla", "zero-install"],
+      "license": "Apache-2.0"
+    },
+    {
+      "id": "deepseek",
+      "name": "DeepSeek R1/V3",
+      "category": "local-llm",
+      "description": "OpenAI o1급 추론 능력을 가진 오픈소스 모델. R1은 사고 사슬(CoT) 추론에 특화되었고 V3는 671B MoE로 범용 최고 성능을 달성했다.",
+      "github_url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "website": "https://www.deepseek.com",
+      "stars": 92000,
+      "trending_score": 97,
+      "key_features": [
+        "o1급 사고 사슬(CoT) 추론",
+        "671B MoE 아키텍처 (V3)",
+        "MIT 라이선스 완전 오픈소스",
+        "다양한 증류 모델 (1.5B~70B)",
+        "수학/코딩 벤치마크 최상위권"
+      ],
+      "install_guide": "# Ollama로 실행\nollama run deepseek-r1:70b\n\n# vLLM으로 서빙\nvllm serve deepseek-ai/DeepSeek-R1 --tensor-parallel-size 8",
+      "tags": ["reasoning", "open-source", "moe", "chinese-ai"],
+      "license": "MIT"
+    },
+    {
+      "id": "qwen",
+      "name": "Qwen 3",
+      "category": "local-llm",
+      "description": "알리바바가 개발한 MoE 397B 파라미터 오픈소스 모델. 하이브리드 사고 모드로 빠른 응답과 깊은 추론을 자동 전환하며 119개 언어를 지원한다.",
+      "github_url": "https://github.com/QwenLM/Qwen3",
+      "website": "https://qwenlm.github.io",
+      "stars": 27000,
+      "trending_score": 88,
+      "key_features": [
+        "397B MoE (활성 52B) 아키텍처",
+        "하이브리드 사고 모드 (빠른/깊은 추론)",
+        "119개 언어 및 코딩 지원",
+        "0.6B~235B 다양한 크기 제공",
+        "Apache 2.0 라이선스"
+      ],
+      "install_guide": "# Ollama로 실행\nollama run qwen3:32b\n\n# Transformers\nfrom transformers import AutoModelForCausalLM\nmodel = AutoModelForCausalLM.from_pretrained(\"Qwen/Qwen3-32B\")",
+      "tags": ["moe", "multilingual", "alibaba", "hybrid-thinking"],
+      "license": "Apache-2.0"
+    },
+    {
+      "id": "llama-4",
+      "name": "Llama 4",
+      "category": "local-llm",
+      "description": "Meta의 최신 멀티모달 MoE 모델로 최대 10M 컨텍스트 윈도우를 지원한다. Scout(109B)과 Maverick(402B) 두 모델로 다양한 멀티모달 벤치마크 최상위를 기록했다.",
+      "github_url": "https://github.com/meta-llama/llama-models",
+      "website": "https://llama.meta.com",
+      "stars": 7500,
+      "trending_score": 90,
+      "key_features": [
+        "10M 토큰 컨텍스트 윈도우",
+        "멀티모달 (텍스트+이미지+비디오)",
+        "Scout 109B / Maverick 402B MoE",
+        "12개 언어 지원",
+        "Llama 라이선스 (상업적 이용 가능)"
+      ],
+      "install_guide": "# Ollama로 실행\nollama run llama4:scout\n\n# Transformers\nfrom transformers import AutoModelForCausalLM\nmodel = AutoModelForCausalLM.from_pretrained(\"meta-llama/Llama-4-Scout-17B-16E-Instruct\")",
+      "tags": ["multimodal", "moe", "meta", "long-context"],
+      "license": "Llama 4 Community"
+    },
+    {
+      "id": "mistral-models",
+      "name": "Mistral",
+      "category": "local-llm",
+      "description": "Mistral AI의 오픈소스 모델 시리즈로 Mistral 3과 코딩 특화 Devstral을 포함한다. 소형 모델 대비 뛰어난 성능으로 효율적인 로컬 추론에 최적화되어 있다.",
+      "github_url": "https://github.com/mistralai/mistral-inference",
+      "website": "https://mistral.ai",
+      "stars": 10700,
+      "trending_score": 80,
+      "key_features": [
+        "Mistral Small 3.1 (24B) 멀티모달",
+        "Devstral 코딩 에이전트 모델",
+        "Sliding Window Attention",
+        "다국어 지원 (한국어 포함)",
+        "Apache 2.0 라이선스"
+      ],
+      "install_guide": "# Ollama로 실행\nollama run mistral-small3.1\n\n# pip\npip install mistral-inference\nmistral-chat /path/to/mistral-small --instruct",
+      "tags": ["efficient", "coding", "multilingual", "french-ai"],
+      "license": "Apache-2.0"
+    },
+    {
+      "id": "phi-4",
+      "name": "Phi-4",
+      "category": "local-llm",
+      "description": "Microsoft의 14B 파라미터 소형 언어 모델로 MIT 라이선스로 공개되었다. 수학/추론 벤치마크에서 훨씬 큰 모델과 대등한 성능을 보여 효율성의 극치를 보여준다.",
+      "github_url": "https://github.com/microsoft/phi-4",
+      "website": "https://azure.microsoft.com/en-us/products/phi",
+      "stars": 3700,
+      "trending_score": 72,
+      "key_features": [
+        "14B 파라미터 소형 고성능",
+        "수학/추론 벤치마크 최상위권",
+        "MIT 라이선스 완전 오픈",
+        "16K 컨텍스트 윈도우",
+        "멀티모달 변형 (Phi-4-multimodal) 지원"
+      ],
+      "install_guide": "# Ollama로 실행\nollama run phi4:14b\n\n# Transformers\nfrom transformers import AutoModelForCausalLM\nmodel = AutoModelForCausalLM.from_pretrained(\"microsoft/phi-4\")",
+      "tags": ["small-model", "efficient", "microsoft", "reasoning"],
+      "license": "MIT"
+    },
+    {
+      "id": "gemma-3",
+      "name": "Gemma 3",
+      "category": "local-llm",
+      "description": "Google이 공개한 멀티모달 오픈 LLM으로 128K 컨텍스트를 지원한다. 1B부터 27B까지 다양한 크기로 제공되며 이미지 이해와 다국어 성능이 뛰어나다.",
+      "github_url": "https://github.com/google/gemma.cpp",
+      "website": "https://ai.google.dev/gemma",
+      "stars": 4100,
+      "trending_score": 76,
+      "key_features": [
+        "128K 컨텍스트 윈도우",
+        "멀티모달 (이미지+텍스트) 입력",
+        "1B/4B/12B/27B 크기 제공",
+        "140개 이상 언어 지원",
+        "ShieldGemma 안전 필터 내장"
+      ],
+      "install_guide": "# Ollama로 실행\nollama run gemma3:27b\n\n# Transformers\nfrom transformers import AutoModelForCausalLM\nmodel = AutoModelForCausalLM.from_pretrained(\"google/gemma-3-27b-it\")",
+      "tags": ["multimodal", "google", "long-context", "multilingual"],
+      "license": "Gemma License"
+    },
+    {
+      "id": "exllamav2",
+      "name": "ExLlamaV2",
+      "category": "local-llm",
+      "description": "EXL2 양자화 포맷 기반의 초고속 LLM 추론 라이브러리. 비트 단위 혼합 양자화로 VRAM 대비 최고의 품질과 속도를 동시에 달성한다.",
+      "github_url": "https://github.com/turboderp/exllamav2",
+      "website": "https://github.com/turboderp/exllamav2",
+      "stars": 4500,
+      "trending_score": 62,
+      "key_features": [
+        "EXL2 혼합 비트 양자화",
+        "CUDA 커널 최적화 추론",
+        "동적 배칭 지원",
+        "Flash Attention 2 통합",
+        "Speculative Decoding 지원"
+      ],
+      "install_guide": "pip install exllamav2\n\n# 양자화\npython convert.py -i model_dir -o quant_dir -b 4.0\n\n# 추론\npython test_inference.py -m quant_dir -p \"Hello\"",
+      "tags": ["quantization", "fast-inference", "cuda", "exl2"],
+      "license": "MIT"
+    },
+    {
+      "id": "tensorrt-llm",
+      "name": "TensorRT-LLM",
+      "category": "local-llm",
+      "description": "NVIDIA의 LLM 추론 최적화 라이브러리로 TensorRT 엔진 기반이다. In-Flight Batching과 FP8 양자화로 NVIDIA GPU에서 최대 성능의 LLM 서빙을 구현한다.",
+      "github_url": "https://github.com/NVIDIA/TensorRT-LLM",
+      "website": "https://nvidia.github.io/TensorRT-LLM/",
+      "stars": 13200,
+      "trending_score": 75,
+      "key_features": [
+        "TensorRT 엔진 기반 최적화",
+        "In-Flight Batching",
+        "FP8/INT4 양자화 지원",
+        "멀티 GPU/멀티 노드 병렬화",
+        "Triton 서버 통합"
+      ],
+      "install_guide": "pip install tensorrt_llm -U --pre --extra-index-url https://pypi.nvidia.com\n\n# 모델 빌드 및 실행\ntrtllm-build --checkpoint_dir ./checkpoint --output_dir ./engine\ntrtllm-run --engine_dir ./engine --prompt \"Hello\"",
+      "tags": ["nvidia", "gpu-optimized", "production", "tensorrt"],
+      "license": "Apache-2.0"
+    },
+    {
+      "id": "coze",
+      "name": "Coze",
+      "category": "nocode-builders",
+      "description": "ByteDance가 개발한 AI 에이전트 빌드 플랫폼. 드래그앤드롭으로 복잡한 워크플로우를 구성하고 다양한 메신저 채널에 배포할 수 있다.",
+      "github_url": "https://github.com/coze-dev/coze",
+      "website": "https://www.coze.com",
+      "stars": 20400,
+      "trending_score": 78,
+      "key_features": [
+        "드래그앤드롭 워크플로우 빌더",
+        "60+ 내장 플러그인",
+        "멀티 채널 배포 (Discord, Slack, 텔레그램)",
+        "내장 지식 베이스 (RAG)",
+        "Bot Store 마켓플레이스"
+      ],
+      "install_guide": "# coze.com에서 가입\n# 웹 에디터에서 에이전트 생성\n# 오픈소스 버전:\ngit clone https://github.com/coze-dev/coze\ncd coze && docker compose up",
+      "tags": ["no-code", "bytedance", "multi-channel", "marketplace"],
+      "license": "Apache-2.0"
+    },
+    {
+      "id": "wordware",
+      "name": "Wordware",
+      "category": "nocode-builders",
+      "description": "자연어로 AI 에이전트를 프로그래밍하는 IDE 플랫폼. YC 역대 최대 시드 투자를 유치했으며 자연어 명령만으로 복잡한 AI 워크플로우를 구축할 수 있다.",
+      "github_url": null,
+      "website": "https://www.wordware.ai",
+      "stars": null,
+      "trending_score": 74,
+      "key_features": [
+        "자연어 프로그래밍 인터페이스",
+        "멀티모달 AI 에이전트 구축",
+        "루프/분기/서브루틴 지원",
+        "API 엔드포인트 자동 생성",
+        "팀 협업 및 버전 관리"
+      ],
+      "install_guide": "# wordware.ai에서 가입\n# 웹 기반 IDE에서 자연어로 에이전트 작성\n# API로 배포 및 호출 가능",
+      "tags": ["no-code", "natural-language", "yc-backed", "ide"],
+      "license": "Proprietary",
+      "pricing": "Free / Pro $49/월 / Enterprise (커스텀)"
+    },
+    {
+      "id": "activepieces",
+      "name": "Activepieces",
+      "category": "nocode-builders",
+      "description": "MIT 라이선스의 오픈소스 자동화 플랫폼으로 Zapier의 대안이다. AI 피스를 포함한 200개 이상의 통합을 제공하며 셀프호스팅으로 데이터 주권을 보장한다.",
+      "github_url": "https://github.com/activepieces/activepieces",
+      "website": "https://www.activepieces.com",
+      "stars": 21200,
+      "trending_score": 76,
+      "key_features": [
+        "200+ 앱 통합 (AI 포함)",
+        "드래그앤드롭 플로우 빌더",
+        "셀프호스팅 지원 (Docker)",
+        "AI 피스 (GPT, Claude 등)",
+        "MIT 라이선스 완전 오픈소스"
+      ],
+      "install_guide": "# Docker\ndocker run -d -p 8080:80 activepieces/activepieces:latest\n\n# 또는 docker-compose\ngit clone https://github.com/activepieces/activepieces\ncd activepieces && docker compose up",
+      "tags": ["no-code", "automation", "self-hosted", "open-source", "zapier-alternative"],
+      "license": "MIT"
+    },
+    {
+      "id": "voiceflow",
+      "name": "Voiceflow",
+      "category": "nocode-builders",
+      "description": "음성 및 챗 AI 에이전트를 시각적으로 구축하는 플랫폼. 50만 개 이상의 팀이 사용하며 대화형 AI 설계에 특화된 캔버스 기반 빌더를 제공한다.",
+      "github_url": null,
+      "website": "https://www.voiceflow.com",
+      "stars": null,
+      "trending_score": 68,
+      "key_features": [
+        "비주얼 캔버스 대화 설계",
+        "음성+챗 멀티채널 지원",
+        "Knowledge Base (RAG) 내장",
+        "API 및 커스텀 함수 통합",
+        "팀 협업 및 버전 관리"
+      ],
+      "install_guide": "# voiceflow.com에서 가입\n# 캔버스 에디터에서 에이전트 설계\n# 웹/음성/메신저 채널에 배포",
+      "tags": ["no-code", "voice", "chatbot", "enterprise", "visual-builder"],
+      "license": "Proprietary",
+      "pricing": "Free / Pro $60/월 / Enterprise (커스텀)"
+    },
+    {
+      "id": "botpress",
+      "name": "Botpress",
+      "category": "nocode-builders",
+      "description": "GPT 기반 오픈소스 챗봇 구축 플랫폼. 비주얼 플로우 빌더와 자연어 이해 엔진을 내장하여 기업용 대화형 AI를 빠르게 구축할 수 있다.",
+      "github_url": "https://github.com/botpress/botpress",
+      "website": "https://botpress.com",
+      "stars": 14600,
+      "trending_score": 70,
+      "key_features": [
+        "비주얼 플로우 에디터",
+        "GPT 네이티브 통합",
+        "다국어 자동 번역",
+        "Knowledge Base 및 RAG",
+        "30+ 메신저 채널 배포"
+      ],
+      "install_guide": "# 클라우드: botpress.com에서 가입\n# 셀프호스팅:\ngit clone https://github.com/botpress/botpress\ncd botpress && pnpm install && pnpm build\npnpm start",
+      "tags": ["no-code", "chatbot", "open-source", "gpt", "enterprise"],
+      "license": "MIT"
+    },
+    {
+      "id": "typebot",
+      "name": "Typebot",
+      "category": "nocode-builders",
+      "description": "셀프호스팅 가능한 오픈소스 대화형 폼 빌더. 드래그앤드롭으로 아름다운 챗봇 형태의 폼을 만들고 AI 블록으로 동적 대화를 구현할 수 있다.",
+      "github_url": "https://github.com/baptisteArno/typebot.io",
+      "website": "https://typebot.io",
+      "stars": 9700,
+      "trending_score": 60,
+      "key_features": [
+        "드래그앤드롭 대화형 폼 빌더",
+        "OpenAI/Anthropic AI 블록",
+        "셀프호스팅 (Docker)",
+        "웹사이트 임베드 위젯",
+        "조건 분기 및 변수 시스템"
+      ],
+      "install_guide": "# Docker\ngit clone https://github.com/baptisteArno/typebot.io\ncd typebot.io\ncp .env.example .env\ndocker compose up -d",
+      "tags": ["no-code", "forms", "chatbot", "self-hosted", "open-source"],
+      "license": "AGPL-3.0"
+    },
+    {
+      "id": "flux-2",
+      "name": "FLUX.2",
+      "category": "image-generation",
+      "description": "Black Forest Labs의 최신 4MP 이미지 생성 모델. 최대 2048x2048 해상도를 네이티브로 생성하며 텍스트 렌더링과 프롬프트 충실도에서 최고 성능을 보인다.",
+      "github_url": "https://github.com/black-forest-labs/flux",
+      "website": "https://blackforestlabs.ai",
+      "stars": 2100,
+      "trending_score": 88,
+      "key_features": [
+        "4MP (2048x2048) 네이티브 해상도",
+        "텍스트 렌더링 정확도 최상위",
+        "Pro/Dev/Schnell 모델 제공",
+        "ControlNet/IP-Adapter 지원",
+        "ComfyUI/InvokeAI 통합"
+      ],
+      "install_guide": "# ComfyUI에서 사용 (권장)\n# 또는 Python:\npip install flux\nfrom flux import FluxPipeline\npipe = FluxPipeline.from_pretrained(\"black-forest-labs/FLUX.2-dev\")",
+      "tags": ["image-gen", "high-res", "text-rendering", "diffusion"],
+      "license": "Apache-2.0"
+    },
+    {
+      "id": "sd-3-5",
+      "name": "Stable Diffusion 3.5",
+      "category": "image-generation",
+      "description": "Stability AI의 MMDiT 기반 이미지 생성 모델. Large/Medium/Turbo 변형을 제공하며 로컬에서 고품질 이미지를 생성할 수 있는 오픈 모델이다.",
+      "github_url": "https://github.com/Stability-AI/sd3.5",
+      "website": "https://stability.ai",
+      "stars": 1500,
+      "trending_score": 65,
+      "key_features": [
+        "MMDiT (Multi-Modal DiT) 아키텍처",
+        "Large (8B) / Medium (2.6B) / Turbo 제공",
+        "16채널 VAE 고품질 디코딩",
+        "T5+CLIP 듀얼 텍스트 인코더",
+        "ControlNet 및 IP-Adapter 지원"
+      ],
+      "install_guide": "# ComfyUI에서 사용 (권장)\n# 또는 diffusers:\npip install diffusers\nfrom diffusers import StableDiffusion3Pipeline\npipe = StableDiffusion3Pipeline.from_pretrained(\"stabilityai/stable-diffusion-3.5-large\")",
+      "tags": ["image-gen", "open-weights", "diffusion", "stability-ai"],
+      "license": "Stability AI Community"
+    },
+    {
+      "id": "invokeai",
+      "name": "InvokeAI",
+      "category": "image-generation",
+      "description": "프로페셔널 노드 기반 AI 크리에이티브 엔진. 직관적인 캔버스와 노드 에디터로 SD/FLUX 모델을 활용한 복잡한 이미지 생성 워크플로우를 구축할 수 있다.",
+      "github_url": "https://github.com/invoke-ai/InvokeAI",
+      "website": "https://invoke.ai",
+      "stars": 27000,
+      "trending_score": 72,
+      "key_features": [
+        "노드 기반 워크플로우 에디터",
+        "통합 캔버스 (인페인팅/아웃페인팅)",
+        "SD 1.5/XL/3.5 및 FLUX 지원",
+        "ControlNet/IP-Adapter/LoRA 관리",
+        "큐 시스템 및 배치 생성"
+      ],
+      "install_guide": "# 설치 스크립트\npip install invokeai\ninvokeai-web\n\n# 또는 Docker\ndocker run -p 9090:9090 ghcr.io/invoke-ai/invokeai",
+      "tags": ["image-gen", "node-editor", "professional", "canvas"],
+      "license": "Apache-2.0"
+    },
+    {
+      "id": "sd-webui-forge",
+      "name": "SD WebUI Forge",
+      "category": "image-generation",
+      "description": "Automatic1111 WebUI의 최적화 포크로 30-45% 빠른 생성 속도를 제공한다. 메모리 관리 개선으로 저사양 GPU에서도 대형 모델을 실행할 수 있다.",
+      "github_url": "https://github.com/lllyasviel/stable-diffusion-webui-forge",
+      "website": "https://github.com/lllyasviel/stable-diffusion-webui-forge",
+      "stars": 11600,
+      "trending_score": 74,
+      "key_features": [
+        "A1111 대비 30-45% 속도 향상",
+        "VRAM 사용량 대폭 절감",
+        "FLUX/SD3.5 네이티브 지원",
+        "A1111 확장 호환",
+        "자동 메모리 최적화"
+      ],
+      "install_guide": "git clone https://github.com/lllyasviel/stable-diffusion-webui-forge\ncd stable-diffusion-webui-forge\n\n# 원클릭 실행\n./webui.sh  # 또는 webui-user.bat (Windows)",
+      "tags": ["image-gen", "webui", "optimized", "a1111-fork"],
+      "license": "AGPL-3.0"
+    },
+    {
+      "id": "draw-things",
+      "name": "Draw Things",
+      "category": "image-generation",
+      "description": "iOS 및 Mac 전용 무료 오프라인 AI 이미지 생성 앱. Apple Silicon을 활용한 네이티브 추론으로 인터넷 없이도 고품질 이미지를 생성할 수 있다.",
+      "github_url": null,
+      "website": "https://drawthings.ai",
+      "stars": null,
+      "trending_score": 58,
+      "key_features": [
+        "완전 오프라인 이미지 생성",
+        "Apple Silicon 네이티브 최적화",
+        "SD/FLUX/PixArt 모델 지원",
+        "ControlNet/LoRA/텍스트 인버전",
+        "인페인팅 및 아웃페인팅"
+      ],
+      "install_guide": "# App Store에서 'Draw Things' 검색 후 설치 (무료)\n# iPhone, iPad, Mac 모두 지원\n# 앱 내에서 모델 자동 다운로드",
+      "tags": ["image-gen", "ios", "mac", "offline", "free"],
+      "license": "Proprietary",
+      "pricing": "Free"
+    },
+    {
+      "id": "stable-video-diffusion",
+      "name": "Stable Video Diffusion",
+      "category": "image-generation",
+      "description": "Stability AI의 이미지-투-비디오(I2V) 생성 모델. 단일 이미지에서 고품질 비디오 클립을 생성하며 로컬에서 실행 가능한 오픈 모델이다.",
+      "github_url": "https://github.com/Stability-AI/generative-models",
+      "website": "https://stability.ai",
+      "stars": 27000,
+      "trending_score": 62,
+      "key_features": [
+        "이미지-투-비디오 (I2V) 생성",
+        "14/25프레임 비디오 출력",
+        "모션 제어 가능",
+        "ComfyUI 노드 지원",
+        "XT 모델 (25프레임 확장)"
+      ],
+      "install_guide": "# ComfyUI에서 SVD 노드 사용 (권장)\n# 또는 diffusers:\npip install diffusers\nfrom diffusers import StableVideoDiffusionPipeline\npipe = StableVideoDiffusionPipeline.from_pretrained(\"stabilityai/stable-video-diffusion-img2vid-xt\")",
+      "tags": ["video-gen", "i2v", "open-weights", "stability-ai"],
+      "license": "Stability AI Community"
+    },
+    {
+      "id": "stagehand",
+      "name": "Stagehand",
+      "category": "browser-automation",
+      "description": "AI 기반 브라우저 자동화 프레임워크로 Zod 스키마를 활용한 구조화된 데이터 추출이 가능하다. Playwright 위에 AI 레이어를 추가하여 자연어로 웹 페이지를 조작한다.",
+      "github_url": "https://github.com/browserbase/stagehand",
+      "website": "https://stagehand.dev",
+      "stars": 21100,
+      "trending_score": 82,
+      "key_features": [
+        "act() - 자연어 웹 페이지 조작",
+        "extract() - Zod 스키마 데이터 추출",
+        "observe() - 페이지 요소 관찰",
+        "Playwright 기반 안정적 실행",
+        "Browserbase 클라우드 통합"
+      ],
+      "install_guide": "npm install @browserbasehq/stagehand\n\n# 사용 예시\nimport { Stagehand } from '@browserbasehq/stagehand'\nconst stagehand = new Stagehand()\nawait stagehand.init()\nawait stagehand.page.goto('https://example.com')",
+      "tags": ["browser", "ai-automation", "data-extraction", "playwright"],
+      "license": "MIT"
+    },
+    {
+      "id": "skyvern",
+      "name": "Skyvern",
+      "category": "browser-automation",
+      "description": "비전 LLM을 활용한 웹 자동화 에이전트. DOM 선택자 없이 스크린샷 기반으로 웹사이트를 이해하고 조작하여 사이트 변경에도 깨지지 않는 자동화를 구현한다.",
+      "github_url": "https://github.com/Skyvern-AI/skyvern",
+      "website": "https://www.skyvern.com",
+      "stars": 20400,
+      "trending_score": 78,
+      "key_features": [
+        "비전 LLM 기반 웹 이해",
+        "DOM 의존성 제로 자동화",
+        "워크플로우 체이닝",
+        "2FA/CAPTCHA 핸들링",
+        "셀프호스팅 및 클라우드"
+      ],
+      "install_guide": "# Docker (권장)\ngit clone https://github.com/Skyvern-AI/skyvern\ncd skyvern\n./setup.sh\n./run_skyvern.sh",
+      "tags": ["browser", "vision-llm", "web-automation", "no-selectors"],
+      "license": "AGPL-3.0"
+    },
+    {
+      "id": "playwright-mcp",
+      "name": "Playwright MCP",
+      "category": "browser-automation",
+      "description": "Microsoft 공식 Playwright MCP 서버로 AI 에이전트에 브라우저 제어 기능을 제공한다. 접근성 스냅샷 기반으로 웹 탐색, 폼 입력, 스크린샷 등을 LLM이 수행할 수 있다.",
+      "github_url": "https://github.com/microsoft/playwright-mcp",
+      "website": "https://playwright.dev",
+      "stars": 30100,
+      "trending_score": 90,
+      "key_features": [
+        "MCP 프로토콜 표준 지원",
+        "접근성 스냅샷 기반 탐색",
+        "스크린샷 및 비전 모드",
+        "탭/iframe 멀티 컨텍스트",
+        "Claude/Cursor/VS Code 통합"
+      ],
+      "install_guide": "npx @anthropic-ai/claude-code mcp add playwright -- npx @playwright/mcp@latest\n\n# 또는 claude_desktop_config.json에 추가:\n# {\"mcpServers\": {\"playwright\": {\"command\": \"npx\", \"args\": [\"@playwright/mcp@latest\"]}}}",
+      "tags": ["browser", "mcp", "microsoft", "playwright", "ai-agent"],
+      "license": "Apache-2.0"
+    },
+    {
+      "id": "steel",
+      "name": "Steel",
+      "category": "browser-automation",
+      "description": "AI 에이전트를 위한 오픈소스 헤드리스 브라우저 API. 세션 관리, 프록시, CAPTCHA 우회 등을 내장하여 AI 에이전트의 웹 접근을 단순화한다.",
+      "github_url": "https://github.com/nicepkg/steel",
+      "website": "https://steel.dev",
+      "stars": 6700,
+      "trending_score": 64,
+      "key_features": [
+        "세션 기반 브라우저 관리",
+        "내장 프록시 및 스텔스 모드",
+        "CAPTCHA 자동 처리",
+        "REST API 인터페이스",
+        "셀프호스팅 Docker 지원"
+      ],
+      "install_guide": "# Docker\ndocker run -p 3000:3000 ghcr.io/nicepkg/steel:latest\n\n# SDK\npip install steel-sdk\nfrom steel import Steel\nclient = Steel(base_url=\"http://localhost:3000\")",
+      "tags": ["browser", "headless", "api", "anti-detection", "open-source"],
+      "license": "Apache-2.0"
     }
   ]
 }
