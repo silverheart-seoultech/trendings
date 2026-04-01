@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-01T15:39:45.861888+00:00",
+  "last_updated": "2026-04-01T17:10:05.330928+00:00",
   "total_entries": 110,
-  "new_entries": 5,
+  "new_entries": 9,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,6 +47,18 @@
     }
   ],
   "entries": [
+    {
+      "id": "94140c716f15aecd537f3f4f3dd14b00",
+      "title": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
+      "url": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
+      "description": "The firm says it can can reduce the cost of chip development by more than 75% and cut the timeline by more than half.",
+      "published": "Wed, 01 Apr 2026 16:00:00 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "9dce3146b9ded4dbb80e2e38db498c51",
       "title": "Less than a month: StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
@@ -756,16 +768,32 @@
       "is_new": false
     },
     {
-      "id": "b670ae2eda60143790e3f0bd9d0df3c8",
-      "title": "Why OpenAI really shut down Sora",
-      "url": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
-      "description": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public, raised immediate suspicions. The app had invited users to upload their ow",
-      "published": "Mon, 30 Mar 2026 03:09:38 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
+      "id": "47603135",
+      "title": "Show HN: SandClaw = A sandboxed alternative to OpenClaw for trading",
+      "url": "https://news.ycombinator.com/item?id=47603135",
+      "description": "",
+      "published": "2026-04-01T16:33:58Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
       "category": "news",
-      "is_new": false
+      "points": 2,
+      "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "47601608",
+      "title": "Show HN: Castra – Strip orchestration rights from your LLMs",
+      "url": "https://github.com/amangsingh/castra",
+      "description": "",
+      "published": "2026-04-01T14:40:28Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 3,
+      "comments": 3,
+      "is_new": true
     },
     {
       "id": "47600678",
@@ -791,8 +819,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 5,
-      "comments": 0,
+      "points": 6,
+      "comments": 1,
       "is_new": false
     },
     {
@@ -819,8 +847,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 30,
-      "comments": 21,
+      "points": 35,
+      "comments": 25,
       "is_new": false
     },
     {
@@ -1073,19 +1101,6 @@
       "is_new": true
     },
     {
-      "id": "91efe6f718226e0bf47d9667fe8cbebb",
-      "title": "MMFace-DiT: A Dual-Stream Diffusion Transformer for High-Fidelity Multimodal Face Generation",
-      "url": "https://huggingface.co/papers/2603.29029",
-      "description": "Recent multimodal face generation models address the spatial control limitations of text-to-image diffusion models by augmenting text-based conditioning with spatial priors such as segmentation masks,",
-      "published": "2026-03-30T17:44:18.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
-      "is_new": false
-    },
-    {
       "id": "12ec4e20ad8b5fabc2c2864ec51322e2",
       "title": "The Model Says Walk: How Surface Heuristics Override Implicit Constraints in LLM Reasoning",
       "url": "https://huggingface.co/papers/2603.29025",
@@ -1095,7 +1110,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 5,
       "is_new": true
     },
     {
@@ -1122,7 +1137,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -1244,32 +1259,17 @@
       "is_new": false
     },
     {
-      "id": "47566687",
-      "title": "Ask HN: M5 MacBook Pro buyers, worth spending the $$$ to maybe run LLMs local?",
-      "url": "https://news.ycombinator.com/item?id=47566687",
-      "description": "",
-      "published": "2026-03-29T20:02:58Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 11,
-      "comments": 11,
-      "is_new": false
-    },
-    {
-      "id": "47559293",
-      "title": "Ask HN: How are you keeping AI coding agents from burning money?",
-      "url": "https://news.ycombinator.com/item?id=47559293",
-      "description": "",
-      "published": "2026-03-29T00:22:20Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 8,
-      "comments": 33,
-      "is_new": false
+      "id": "d87c3e9a03550410fb16e1433b2998b9",
+      "title": "TokenDial: Continuous Attribute Control in Text-to-Video via Spatiotemporal Token Offsets",
+      "url": "https://huggingface.co/papers/2603.27520",
+      "description": "We present TokenDial, a framework for continuous, slider-style attribute control in pretrained text-to-video generation models. While modern generators produce strong holistic videos, they offer limit",
+      "published": "2026-03-29T01:07:41.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
     },
     {
       "id": "366bb8b3ec45150f32a9b034bbb6498d",
@@ -1281,7 +1281,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 30,
+      "likes": 41,
       "is_new": false
     },
     {
@@ -1300,6 +1300,18 @@
   ],
   "by_category": {
     "news": [
+      {
+        "id": "94140c716f15aecd537f3f4f3dd14b00",
+        "title": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
+        "url": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
+        "description": "The firm says it can can reduce the cost of chip development by more than 75% and cut the timeline by more than half.",
+        "published": "Wed, 01 Apr 2026 16:00:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "9dce3146b9ded4dbb80e2e38db498c51",
         "title": "Less than a month: StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
@@ -1529,16 +1541,32 @@
         "is_new": false
       },
       {
-        "id": "b670ae2eda60143790e3f0bd9d0df3c8",
-        "title": "Why OpenAI really shut down Sora",
-        "url": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
-        "description": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public, raised immediate suspicions. The app had invited users to upload their ow",
-        "published": "Mon, 30 Mar 2026 03:09:38 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
+        "id": "47603135",
+        "title": "Show HN: SandClaw = A sandboxed alternative to OpenClaw for trading",
+        "url": "https://news.ycombinator.com/item?id=47603135",
+        "description": "",
+        "published": "2026-04-01T16:33:58Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
         "category": "news",
-        "is_new": false
+        "points": 2,
+        "comments": 0,
+        "is_new": true
+      },
+      {
+        "id": "47601608",
+        "title": "Show HN: Castra – Strip orchestration rights from your LLMs",
+        "url": "https://github.com/amangsingh/castra",
+        "description": "",
+        "published": "2026-04-01T14:40:28Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 3,
+        "comments": 3,
+        "is_new": true
       },
       {
         "id": "47600678",
@@ -1564,8 +1592,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 5,
-        "comments": 0,
+        "points": 6,
+        "comments": 1,
         "is_new": false
       },
       {
@@ -1592,8 +1620,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 30,
-        "comments": 21,
+        "points": 35,
+        "comments": 25,
         "is_new": false
       },
       {
@@ -1646,32 +1674,6 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "bdbd30aaa17f307174efe3a534846e1c",
-        "title": "Baidu’s robotaxis froze in traffic, creating chaos",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china",
-        "description": "Numerous robotaxis operated by Chinese tech giant Baidu froze in a major city on Tuesday, reportedly trapping passengers inside, stranding them on highways, and causing at least one accident in snarle",
-        "published": "2026-04-01T07:29:26-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "47596950",
-        "title": "Show HN: Browserbeam – a browser API built for AI agents",
-        "url": "https://browserbeam.com/",
-        "description": "",
-        "published": "2026-04-01T04:50:35Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 3,
-        "comments": 0,
         "is_new": false
       }
     ],
