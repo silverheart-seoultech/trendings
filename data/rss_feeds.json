@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-01T12:00:41.191673+00:00",
+  "last_updated": "2026-04-01T13:50:28.345128+00:00",
   "total_entries": 110,
-  "new_entries": 11,
+  "new_entries": 22,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,6 +768,48 @@
       "is_new": false
     },
     {
+      "id": "47600678",
+      "title": "Show HN: A personal AI kernel where other agents ask permission for your data",
+      "url": "https://github.com/rajmohanutopai/dina",
+      "description": "",
+      "published": "2026-04-01T13:35:50Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "47600371",
+      "title": "Show HN: OpenHarness Open-source terminal coding agent for any LLM",
+      "url": "https://github.com/zhijiewong/openharness",
+      "description": "",
+      "published": "2026-04-01T13:09:37Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 5,
+      "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "47600111",
+      "title": "The Open Source AI Engineering Platform for Agents, LLMs and Models",
+      "url": "https://github.com/mlflow/mlflow",
+      "description": "",
+      "published": "2026-04-01T12:46:25Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "47599303",
       "title": "Ask HN: Client took over development by vibe coding. What to do?",
       "url": "https://news.ycombinator.com/item?id=47599303",
@@ -777,8 +819,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 6,
-      "comments": 0,
+      "points": 20,
+      "comments": 17,
       "is_new": true
     },
     {
@@ -791,7 +833,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 2,
+      "points": 3,
       "comments": 0,
       "is_new": true
     },
@@ -805,8 +847,20 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 1,
-      "comments": 0,
+      "points": 2,
+      "comments": 1,
+      "is_new": true
+    },
+    {
+      "id": "9af8b2bbf4d430f97655f1ed65f24dcc",
+      "title": "AI can push your Stream Deck buttons for you",
+      "url": "https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update",
+      "description": "If you're tired of controlling Stream Deck devices by manually pushing buttons, then good news: Elgato will now let you delegate that task to a chatbot instead. The Stream Deck 7.4 software update rel",
+      "published": "2026-04-01T09:23:30-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
       "is_new": true
     },
     {
@@ -928,19 +982,6 @@
       "is_new": false
     },
     {
-      "id": "1684b5b91a1e4582c42132ccde1bc692",
-      "title": "Think Anywhere in Code Generation",
-      "url": "https://huggingface.co/papers/2603.29957",
-      "description": "Recent advances in reasoning Large Language Models (LLMs) have primarily relied on upfront thinking, where reasoning occurs before final answer. However, this approach suffers from critical limitation",
-      "published": "2026-03-31T12:24:03.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 6,
-      "is_new": false
-    },
-    {
       "id": "f3ff315e75b644d2f93b9f00d44f2ce0",
       "title": "Art schools are being torn apart by AI",
       "url": "https://www.theverge.com/tech/903954/art-schools-generative-ai-education-creative-jobs",
@@ -965,19 +1006,6 @@
       "is_new": false
     },
     {
-      "id": "af02c8877dbfde251f50b42ade7f1017",
-      "title": "CutClaw: Agentic Hours-Long Video Editing via Music Synchronization",
-      "url": "https://huggingface.co/papers/2603.29664",
-      "description": "Editing the video content with audio alignment forms a digital human-made art in current social media. However, the time-consuming and repetitive nature of manual video editing has long been a challen",
-      "published": "2026-03-31T08:25:53.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 20,
-      "is_new": false
-    },
-    {
       "id": "ca03d46ff52776c8aa22c10a0d2bcec7",
       "title": "Unify-Agent: A Unified Multimodal Agent for World-Grounded Image Synthesis",
       "url": "https://huggingface.co/papers/2603.29620",
@@ -987,7 +1015,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 28,
+      "likes": 29,
       "is_new": false
     },
     {
@@ -1054,8 +1082,21 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 11,
+      "likes": 12,
       "is_new": false
+    },
+    {
+      "id": "2c26ee861087a95b37705c3cc7e1f593",
+      "title": "TrajectoryMover: Generative Movement of Object Trajectories in Videos",
+      "url": "https://huggingface.co/papers/2603.29092",
+      "description": "Generative video editing has enabled several intuitive editing operations for short video clips that would previously have been difficult to achieve, especially for non-expert editors. Existing method",
+      "published": "2026-03-30T20:15:36.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
     },
     {
       "id": "91efe6f718226e0bf47d9667fe8cbebb",
@@ -1094,7 +1135,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": true
     },
     {
@@ -1121,7 +1162,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 13,
+      "likes": 14,
       "is_new": true
     },
     {
@@ -1190,19 +1231,6 @@
       "is_new": true
     },
     {
-      "id": "f568b08ccaabc509e67836945e44ec1a",
-      "title": "GEMS: Agent-Native Multimodal Generation with Memory and Skills",
-      "url": "https://huggingface.co/papers/2603.28088",
-      "description": "Recent multimodal generation models have achieved remarkable progress on general-purpose generation tasks, yet continue to struggle with complex instructions and specialized downstream tasks. Inspired",
-      "published": "2026-03-30T02:42:55.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 54,
-      "is_new": false
-    },
-    {
       "id": "f12c817ec8d922f791c6b239c6aea704",
       "title": "All the latest in AI &#8216;music&#8217;",
       "url": "https://www.theverge.com/ai-artificial-intelligence/903196/ai-music-suno-udio-art-lawsuit",
@@ -1257,44 +1285,17 @@
       "is_new": false
     },
     {
-      "id": "47557165",
-      "title": "Show HN: I built an OS that is pure AI",
-      "url": "https://pneuma.computer",
-      "description": "",
-      "published": "2026-03-28T18:38:57Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 34,
-      "comments": 42,
-      "is_new": false
-    },
-    {
-      "id": "47555093",
-      "title": "Show HN: We built a multi-agent research hub. The waitlist is a reverse-CAPTCHA",
-      "url": "https://enlidea.com",
-      "description": "",
-      "published": "2026-03-28T14:49:30Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 30,
-      "comments": 16,
-      "is_new": false
-    },
-    {
-      "id": "ae9d7bff77ea3fcc4d76fab79965f9a0",
-      "title": "Suno leans into customization with v5.5",
-      "url": "https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model",
-      "description": "Suno just released one of its biggest updates yet with v5.5 of its AI music model. Where previous updates focused mostly on improving fidelity and creating more natural vocals, v5.5 is about giving us",
-      "published": "2026-03-28T14:34:26-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
+      "id": "366bb8b3ec45150f32a9b034bbb6498d",
+      "title": "Project Imaging-X: A Survey of 1000+ Open-Access Medical Imaging Datasets for Foundation Model Development",
+      "url": "https://huggingface.co/papers/2603.27460",
+      "description": "Foundation models have demonstrated remarkable success across diverse domains and tasks, primarily due to the thrive of large-scale, diverse, and high-quality datasets. However, in the field of medica",
+      "published": "2026-03-28T20:46:53.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 12,
+      "is_new": true
     }
   ],
   "by_category": {
@@ -1540,6 +1541,48 @@
         "is_new": false
       },
       {
+        "id": "47600678",
+        "title": "Show HN: A personal AI kernel where other agents ask permission for your data",
+        "url": "https://github.com/rajmohanutopai/dina",
+        "description": "",
+        "published": "2026-04-01T13:35:50Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 2,
+        "comments": 0,
+        "is_new": true
+      },
+      {
+        "id": "47600371",
+        "title": "Show HN: OpenHarness Open-source terminal coding agent for any LLM",
+        "url": "https://github.com/zhijiewong/openharness",
+        "description": "",
+        "published": "2026-04-01T13:09:37Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 5,
+        "comments": 0,
+        "is_new": true
+      },
+      {
+        "id": "47600111",
+        "title": "The Open Source AI Engineering Platform for Agents, LLMs and Models",
+        "url": "https://github.com/mlflow/mlflow",
+        "description": "",
+        "published": "2026-04-01T12:46:25Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 2,
+        "comments": 0,
+        "is_new": true
+      },
+      {
         "id": "47599303",
         "title": "Ask HN: Client took over development by vibe coding. What to do?",
         "url": "https://news.ycombinator.com/item?id=47599303",
@@ -1549,8 +1592,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 6,
-        "comments": 0,
+        "points": 20,
+        "comments": 17,
         "is_new": true
       },
       {
@@ -1563,7 +1606,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 2,
+        "points": 3,
         "comments": 0,
         "is_new": true
       },
@@ -1577,8 +1620,20 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 1,
-        "comments": 0,
+        "points": 2,
+        "comments": 1,
+        "is_new": true
+      },
+      {
+        "id": "9af8b2bbf4d430f97655f1ed65f24dcc",
+        "title": "AI can push your Stream Deck buttons for you",
+        "url": "https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update",
+        "description": "If you're tired of controlling Stream Deck devices by manually pushing buttons, then good news: Elgato will now let you delegate that task to a chatbot instead. The Stream Deck 7.4 software update rel",
+        "published": "2026-04-01T09:23:30-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
         "is_new": true
       },
       {
@@ -1619,58 +1674,6 @@
         "category": "news",
         "points": 3,
         "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "47591510",
-        "title": "Show HN: Dograh – voice agents that pick Recordings over TTS using LLM",
-        "url": "https://github.com/dograh-hq/dograh",
-        "description": "",
-        "published": "2026-03-31T18:28:27Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 3,
-        "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "2ce7d9dee9c3a1a759df12e64253d66c",
-        "title": "Claude Code leak exposes a Tamagotchi-style ‘pet’ and an always-on agent",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak",
-        "description": "After Anthropic released Claude Code's 2.1.88 update, users quickly discovered that it contained a package with a source map file containing its TypeScript codebase, with one person on X calling atten",
-        "published": "2026-03-31T18:24:19-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "3ed70defae80ee85689acf2a5956477e",
-        "title": "You can now use ChatGPT with Apple’s CarPlay",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt",
-        "description": "ChatGPT is now accessible from your CarPlay dashboard if you have iOS 26.4 or newer and the latest version of the ChatGPT app, 9to5Mac reports. Apple's recently launched iOS 26.4 update added support",
-        "published": "2026-03-31T18:23:32-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "47590952",
-        "title": "Show HN: Shards of Stone – A Warcraft 2-inspired RTS that runs in the browser",
-        "url": "https://www.shardsofstone.com",
-        "description": "",
-        "published": "2026-03-31T17:43:22Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 2,
-        "comments": 2,
         "is_new": false
       }
     ],
