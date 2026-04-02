@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-02T17:59:25.617765+00:00",
+  "last_updated": "2026-04-02T19:05:00.138805+00:00",
   "total_entries": 110,
-  "new_entries": 9,
+  "new_entries": 12,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,6 +768,20 @@
       "is_new": false
     },
     {
+      "id": "47618654",
+      "title": "Show HN: A task market where AI agents post work, claim it, and build reputation",
+      "url": "https://vakr.me",
+      "description": "",
+      "published": "2026-04-02T18:54:25Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "47617846",
       "title": "Show HN: Screenbox – Self-hosted virtual desktops for AI agents",
       "url": "https://news.ycombinator.com/item?id=47617846",
@@ -791,16 +805,28 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 2,
-      "comments": 0,
+      "points": 3,
+      "comments": 1,
+      "is_new": true
+    },
+    {
+      "id": "eab9db906a7cab62940a871043589fc5",
+      "title": "Elon Musk is about to be a very busy boy!",
+      "url": "https://www.theverge.com/tech/906027/elon-musk-lawsuit-ipo-spacex-tesla",
+      "description": "To be honest, I thought Elon Musk would confidentially file for SpaceX's IPO on the 20th of this month, rather than the 1st. But maybe that just means he's moved on to other numbers, and we should all",
+      "published": "2026-04-02T14:53:38-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
       "is_new": true
     },
     {
       "id": "3ad57c4040d1f64dbd86885a7a0e8628",
       "title": "OpenAI just bought TBPN",
       "url": "https://www.theverge.com/ai-artificial-intelligence/906022/openai-buys-tbpn",
-      "description": "OpenAI has purchased TBPN, the viral online talk show that often interviews AI executives and other tech leaders. The show - which goes live every weekday, often for a three-hour duration - considers",
-      "published": "2026-04-02T13:56:34-04:00",
+      "description": "OpenAI has purchased TBPN, an online talk show that often interviews AI executives and other tech leaders. The show goes live every weekday at 2PM PT, often for a three-hour duration, counting OpenAI",
+      "published": "2026-04-02T14:21:18-04:00",
       "source_id": "theverge-ai",
       "source_name": "The Verge AI",
       "source_icon": "📰",
@@ -1076,18 +1102,6 @@
       "is_new": true
     },
     {
-      "id": "f3ff315e75b644d2f93b9f00d44f2ce0",
-      "title": "Art schools are being torn apart by AI",
-      "url": "https://www.theverge.com/tech/903954/art-schools-generative-ai-education-creative-jobs",
-      "description": "When my baby brother, a 3D modelling and animation student, talks to me about his projects and studies, the pride I usually feel is becoming increasingly tainted by a growing sense of dread. As a crea",
-      "published": "2026-04-01T10:38:43-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "04ec07bbae6160ce205d92b45c912e2c",
       "title": "Benchmarking and Mechanistic Analysis of Vision-Language Models for Cross-Depiction Assembly Instruction Alignment",
       "url": "https://huggingface.co/papers/2604.00913",
@@ -1192,6 +1206,19 @@
       "is_new": false
     },
     {
+      "id": "7a779eebd4b30e9d3b3afcad412c6d3d",
+      "title": "When Users Change Their Mind: Evaluating Interruptible Agents in Long-Horizon Web Navigation",
+      "url": "https://huggingface.co/papers/2604.00892",
+      "description": "As LLM agents transition from short, static problem solving to executing complex, long-horizon tasks in dynamic environments, the ability to handle user interruptions, such as adding requirement or re",
+      "published": "2026-03-31T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "47591510",
       "title": "Show HN: Dograh – voice agents that pick Recordings over TTS using LLM",
       "url": "https://github.com/dograh-hq/dograh",
@@ -1267,34 +1294,6 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "47583697",
-      "title": "Show HN: TaskTrace, a local-first activity log that gives LLMs context",
-      "url": "https://tasktrace.com",
-      "description": "",
-      "published": "2026-03-31T06:58:05Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 4,
-      "comments": 3,
-      "is_new": false
-    },
-    {
-      "id": "47583255",
-      "title": "Sandflare – I built a sandbox that launches AI agent VMs in ~300ms",
-      "url": "https://news.ycombinator.com/item?id=47583255",
-      "description": "",
-      "published": "2026-03-31T05:54:41Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 5,
-      "comments": 5,
       "is_new": false
     }
   ],
@@ -1541,6 +1540,20 @@
         "is_new": false
       },
       {
+        "id": "47618654",
+        "title": "Show HN: A task market where AI agents post work, claim it, and build reputation",
+        "url": "https://vakr.me",
+        "description": "",
+        "published": "2026-04-02T18:54:25Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 1,
+        "comments": 0,
+        "is_new": true
+      },
+      {
         "id": "47617846",
         "title": "Show HN: Screenbox – Self-hosted virtual desktops for AI agents",
         "url": "https://news.ycombinator.com/item?id=47617846",
@@ -1564,16 +1577,28 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 2,
-        "comments": 0,
+        "points": 3,
+        "comments": 1,
+        "is_new": true
+      },
+      {
+        "id": "eab9db906a7cab62940a871043589fc5",
+        "title": "Elon Musk is about to be a very busy boy!",
+        "url": "https://www.theverge.com/tech/906027/elon-musk-lawsuit-ipo-spacex-tesla",
+        "description": "To be honest, I thought Elon Musk would confidentially file for SpaceX's IPO on the 20th of this month, rather than the 1st. But maybe that just means he's moved on to other numbers, and we should all",
+        "published": "2026-04-02T14:53:38-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
         "is_new": true
       },
       {
         "id": "3ad57c4040d1f64dbd86885a7a0e8628",
         "title": "OpenAI just bought TBPN",
         "url": "https://www.theverge.com/ai-artificial-intelligence/906022/openai-buys-tbpn",
-        "description": "OpenAI has purchased TBPN, the viral online talk show that often interviews AI executives and other tech leaders. The show - which goes live every weekday, often for a three-hour duration - considers",
-        "published": "2026-04-02T13:56:34-04:00",
+        "description": "OpenAI has purchased TBPN, an online talk show that often interviews AI executives and other tech leaders. The show goes live every weekday at 2PM PT, often for a three-hour duration, counting OpenAI",
+        "published": "2026-04-02T14:21:18-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
@@ -1642,34 +1667,6 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "47606946",
-        "title": "Show HN: Mkdnsite – Markdown-native web server for humans (HTML) and agents (md)",
-        "url": "https://github.com/mkdnsite/mkdnsite",
-        "description": "",
-        "published": "2026-04-01T21:47:32Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 4,
-        "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "47603135",
-        "title": "Show HN: SandClaw = A sandboxed alternative to OpenClaw for trading",
-        "url": "https://news.ycombinator.com/item?id=47603135",
-        "description": "",
-        "published": "2026-04-01T16:33:58Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 2,
-        "comments": 0,
         "is_new": false
       }
     ],
