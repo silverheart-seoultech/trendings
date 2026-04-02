@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-02T13:54:54.649358+00:00",
+  "last_updated": "2026-04-02T15:14:27.477052+00:00",
   "total_entries": 110,
-  "new_entries": 0,
+  "new_entries": 2,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -791,9 +791,21 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 1,
+      "points": 2,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "d0f28096640db3d48fac86c1cdd6e147",
+      "title": "Microsoft’s new ‘superintelligence’ game plan is all about business",
+      "url": "https://www.theverge.com/report/905791/mustafa-suleyman-microsoft-ai-transcription-model",
+      "description": "Mustafa Suleyman has been preparing for his new job description for a long time. Suleyman is Microsoft's inaugural CEO of AI, but after the company underwent a large-scale restructuring in mid-March,",
+      "published": "2026-04-02T10:06:19-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "a750def32749b580376c5c358f9d61d2",
@@ -884,7 +896,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 5,
       "is_new": false
     },
     {
@@ -979,7 +991,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 52,
-      "comments": 34,
+      "comments": 35,
       "is_new": false
     },
     {
@@ -1009,6 +1021,19 @@
       "points": 2,
       "comments": 1,
       "is_new": false
+    },
+    {
+      "id": "2e39fcc46f99cc7aa9801bb77f8a3e62",
+      "title": "Do Phone-Use Agents Respect Your Privacy?",
+      "url": "https://huggingface.co/papers/2604.00986",
+      "description": "We study whether phone-use agents respect privacy while completing benign mobile tasks. This question has remained hard to answer because privacy-compliant behavior is not operationalized for phone-us",
+      "published": "2026-04-01T10:50:50.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
     },
     {
       "id": "f3ff315e75b644d2f93b9f00d44f2ce0",
@@ -1268,34 +1293,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "47575844",
-      "title": "Show HN: ClamBot – AI agent that runs all LLM-generated code in a WASM sandbox",
-      "url": "https://github.com/clamguy/clambot",
-      "description": "",
-      "published": "2026-03-30T15:52:35Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 4,
-      "comments": 3,
-      "is_new": false
-    },
-    {
-      "id": "47573245",
-      "title": "Show HN: AgentLair – Give your AI agent an email identity and credential vault",
-      "url": "https://agentlair.dev/",
-      "description": "",
-      "published": "2026-03-30T12:11:03Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 1,
       "is_new": false
     }
   ],
@@ -1565,9 +1562,21 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 1,
+        "points": 2,
         "comments": 0,
         "is_new": false
+      },
+      {
+        "id": "d0f28096640db3d48fac86c1cdd6e147",
+        "title": "Microsoft’s new ‘superintelligence’ game plan is all about business",
+        "url": "https://www.theverge.com/report/905791/mustafa-suleyman-microsoft-ai-transcription-model",
+        "description": "Mustafa Suleyman has been preparing for his new job description for a long time. Suleyman is Microsoft's inaugural CEO of AI, but after the company underwent a large-scale restructuring in mid-March,",
+        "published": "2026-04-02T10:06:19-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
       },
       {
         "id": "a750def32749b580376c5c358f9d61d2",
@@ -1661,20 +1670,6 @@
         "category": "news",
         "points": 6,
         "comments": 1,
-        "is_new": false
-      },
-      {
-        "id": "47600111",
-        "title": "The Open Source AI Engineering Platform for Agents, LLMs and Models",
-        "url": "https://github.com/mlflow/mlflow",
-        "description": "",
-        "published": "2026-04-01T12:46:25Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 3,
-        "comments": 0,
         "is_new": false
       }
     ],
