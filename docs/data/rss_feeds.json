@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-02T15:14:27.477052+00:00",
+  "last_updated": "2026-04-02T16:11:59.779724+00:00",
   "total_entries": 110,
-  "new_entries": 2,
+  "new_entries": 5,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -202,6 +202,18 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "11d321b4b4568f4bf38a63c1a9a1ff56",
+      "title": "Google now lets you direct avatars through prompts in its Vids app",
+      "url": "https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/",
+      "description": "Google is adding a way to customize and instruct avatars for video creation in the Vids app",
+      "published": "Thu, 02 Apr 2026 16:00:00 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "00f3d9031506d8261f78e5069f0e0e79",
@@ -756,18 +768,6 @@
       "is_new": false
     },
     {
-      "id": "fa66f94dfde63937ccabc686de1ab5dc",
-      "title": "Mistral AI raises $830M in debt to set up a data center near Paris",
-      "url": "https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/",
-      "description": "Mistral aims to start operating the data center by the second quarter of 2026.",
-      "published": "Mon, 30 Mar 2026 12:49:51 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "47614108",
       "title": "The Founder's Paradox in AI Generation",
       "url": "https://news.ycombinator.com/item?id=47614108",
@@ -796,6 +796,18 @@
       "is_new": false
     },
     {
+      "id": "3f4b7ad71b163c7226d28943ca5df0a9",
+      "title": "It’s not easy to get depression-detecting AI through the FDA",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/905864/depression-detecting-ai-kintsugi-clinical-ai-startup-shut-down",
+      "description": "For the past seven years, the California-based startup Kintsugi has been developing AI designed to detect signs of depression and anxiety from a person's speech. But after failing to secure FDA cleara",
+      "published": "2026-04-02T11:33:23-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "d0f28096640db3d48fac86c1cdd6e147",
       "title": "Microsoft’s new ‘superintelligence’ game plan is all about business",
       "url": "https://www.theverge.com/report/905791/mustafa-suleyman-microsoft-ai-transcription-model",
@@ -813,18 +825,6 @@
       "url": "https://www.theverge.com/tech/905805/google-home-gemini-temperature-controls-lighting",
       "description": "Google is launching another update to its Home app, which is supposed to make controlling your smart home with its Gemini AI assistant \"more natural and reliable,\" according to this week's release not",
       "published": "2026-04-02T09:47:51-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "16532beedf7b1ab1f99997201bf99aa7",
-      "title": "Okta&#8217;s CEO is betting big on AI agent identity",
-      "url": "https://www.theverge.com/podcast/902264/oktas-ceo-is-betting-big-on-ai-agent-identity",
-      "description": "Today, I’m talking with Todd McKinnon, who is co-founder and CEO of Okta, a platform that lets big companies manage security and identity across all the apps and services their employees use. Think of",
-      "published": "2026-04-02T09:18:10-04:00",
       "source_id": "theverge-ai",
       "source_name": "The Verge AI",
       "source_icon": "📰",
@@ -870,7 +870,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 7,
-      "comments": 9,
+      "comments": 10,
       "is_new": false
     },
     {
@@ -884,19 +884,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 11,
-      "is_new": false
-    },
-    {
-      "id": "feccb098022e21e4fbccc058b103de14",
-      "title": "Embarrassingly Simple Self-Distillation Improves Code Generation",
-      "url": "https://huggingface.co/papers/2604.01193",
-      "description": "Can a large language model (LLM) improve at code generation using only its own raw outputs, without a verifier, a teacher model, or reinforcement learning? We answer in the affirmative with simple sel",
-      "published": "2026-04-01T13:39:50.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 5,
       "is_new": false
     },
     {
@@ -914,6 +901,19 @@
       "is_new": false
     },
     {
+      "id": "43367672e8a8384ef53803b7668597c0",
+      "title": "S0 Tuning: Zero-Overhead Adaptation of Hybrid Recurrent-Attention Models",
+      "url": "https://huggingface.co/papers/2604.01168",
+      "description": "Using roughly 48 execution-verified HumanEval training solutions, tuning a single initial state matrix per recurrent layer, with zero inference overhead, outperforms LoRA by +10.8 pp (p < 0.001) on Hu",
+      "published": "2026-04-01T13:21:15.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "f79c78eaecdef2a9318ff8bed7679c28",
       "title": "Reasoning Shift: How Context Silently Shortens LLM Reasoning",
       "url": "https://huggingface.co/papers/2604.01161",
@@ -923,7 +923,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 20,
+      "likes": 21,
       "is_new": false
     },
     {
@@ -950,7 +950,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 6,
       "is_new": false
     },
     {
@@ -1279,7 +1279,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -1455,6 +1455,18 @@
         "is_new": false
       },
       {
+        "id": "11d321b4b4568f4bf38a63c1a9a1ff56",
+        "title": "Google now lets you direct avatars through prompts in its Vids app",
+        "url": "https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/",
+        "description": "Google is adding a way to customize and instruct avatars for video creation in the Vids app",
+        "published": "Thu, 02 Apr 2026 16:00:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "17604cb0da14c4a64977da89f40bf732",
         "title": "15% of Americans say they’d be willing to work for an AI boss, according to new poll",
         "url": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/",
@@ -1527,18 +1539,6 @@
         "is_new": false
       },
       {
-        "id": "fa66f94dfde63937ccabc686de1ab5dc",
-        "title": "Mistral AI raises $830M in debt to set up a data center near Paris",
-        "url": "https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/",
-        "description": "Mistral aims to start operating the data center by the second quarter of 2026.",
-        "published": "Mon, 30 Mar 2026 12:49:51 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
         "id": "47614108",
         "title": "The Founder's Paradox in AI Generation",
         "url": "https://news.ycombinator.com/item?id=47614108",
@@ -1567,6 +1567,18 @@
         "is_new": false
       },
       {
+        "id": "3f4b7ad71b163c7226d28943ca5df0a9",
+        "title": "It’s not easy to get depression-detecting AI through the FDA",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/905864/depression-detecting-ai-kintsugi-clinical-ai-startup-shut-down",
+        "description": "For the past seven years, the California-based startup Kintsugi has been developing AI designed to detect signs of depression and anxiety from a person's speech. But after failing to secure FDA cleara",
+        "published": "2026-04-02T11:33:23-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "d0f28096640db3d48fac86c1cdd6e147",
         "title": "Microsoft’s new ‘superintelligence’ game plan is all about business",
         "url": "https://www.theverge.com/report/905791/mustafa-suleyman-microsoft-ai-transcription-model",
@@ -1584,18 +1596,6 @@
         "url": "https://www.theverge.com/tech/905805/google-home-gemini-temperature-controls-lighting",
         "description": "Google is launching another update to its Home app, which is supposed to make controlling your smart home with its Gemini AI assistant \"more natural and reliable,\" according to this week's release not",
         "published": "2026-04-02T09:47:51-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "16532beedf7b1ab1f99997201bf99aa7",
-        "title": "Okta&#8217;s CEO is betting big on AI agent identity",
-        "url": "https://www.theverge.com/podcast/902264/oktas-ceo-is-betting-big-on-ai-agent-identity",
-        "description": "Today, I’m talking with Todd McKinnon, who is co-founder and CEO of Okta, a platform that lets big companies manage security and identity across all the apps and services their employees use. Think of",
-        "published": "2026-04-02T09:18:10-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
@@ -1641,7 +1641,7 @@
         "source_icon": "🟧",
         "category": "news",
         "points": 7,
-        "comments": 9,
+        "comments": 10,
         "is_new": false
       },
       {
