@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-02T07:40:18.517640+00:00",
+  "last_updated": "2026-04-02T09:13:37.338402+00:00",
   "total_entries": 110,
-  "new_entries": 0,
+  "new_entries": 3,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -805,7 +805,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 6,
+      "points": 7,
       "comments": 9,
       "is_new": false
     },
@@ -819,7 +819,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 11,
+      "likes": 12,
       "is_new": false
     },
     {
@@ -832,7 +832,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 10,
+      "likes": 11,
       "is_new": false
     },
     {
@@ -845,7 +845,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -861,6 +861,19 @@
       "points": 2,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "f79c78eaecdef2a9318ff8bed7679c28",
+      "title": "Reasoning Shift: How Context Silently Shortens LLM Reasoning",
+      "url": "https://huggingface.co/papers/2604.01161",
+      "description": "Large language models (LLMs) exhibiting test-time scaling behavior, such as extended reasoning traces and self-verification, have demonstrated remarkable performance on complex, long-term reasoning ta",
+      "published": "2026-04-01T13:14:18.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 8,
+      "is_new": true
     },
     {
       "id": "47600371",
@@ -980,7 +993,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -1005,7 +1018,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -1035,24 +1048,24 @@
       "is_new": false
     },
     {
-      "id": "1f828f433cbe667c2bf3f89dfa729756",
-      "title": "UniMixer: A Unified Architecture for Scaling Laws in Recommendation Systems",
-      "url": "https://huggingface.co/papers/2604.00590",
-      "description": "In recent years, the scaling laws of recommendation models have attracted increasing attention, which govern the relationship between performance and parameters/FLOPs of recommenders. Currently, there",
-      "published": "2026-04-01T03:57:40.000Z",
+      "id": "96248aa37e122ec88a0a426c509ba60d",
+      "title": "A Survey of On-Policy Distillation for Large Language Models",
+      "url": "https://huggingface.co/papers/2604.00626",
+      "description": "Knowledge distillation has become a primary mechanism for transferring reasoning and domain expertise from frontier Large Language Models (LLMs) to smaller, deployable students. However, the dominant ",
+      "published": "2026-04-01T04:32:34.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": false
+      "is_new": true
     },
     {
-      "id": "78cce2017876cebd691d85c625489e52",
-      "title": "Think, Act, Build: An Agentic Framework with Vision Language Models for Zero-Shot 3D Visual Grounding",
-      "url": "https://huggingface.co/papers/2604.00528",
-      "description": "3D Visual Grounding (3D-VG) aims to localize objects in 3D scenes via natural language descriptions. While recent advancements leveraging Vision-Language Models (VLMs) have explored zero-shot possibil",
-      "published": "2026-04-01T02:12:16.000Z",
+      "id": "1f828f433cbe667c2bf3f89dfa729756",
+      "title": "UniMixer: A Unified Architecture for Scaling Laws in Recommendation Systems",
+      "url": "https://huggingface.co/papers/2604.00590",
+      "description": "In recent years, the scaling laws of recommendation models have attracted increasing attention, which govern the relationship between performance and parameters/FLOPs of recommenders. Currently, there",
+      "published": "2026-04-01T03:57:40.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
@@ -1150,19 +1163,6 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "01cf084ea7f5283e300c311824659dde",
-      "title": "Terminal Agents Suffice for Enterprise Automation",
-      "url": "https://huggingface.co/papers/2604.00073",
-      "description": "There has been growing interest in building agents that can interact with digital platforms to execute meaningful enterprise tasks autonomously. Among the approaches explored are tool-augmented agents",
-      "published": "2026-03-31T10:14:47.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 34,
       "is_new": false
     },
     {
@@ -1295,7 +1295,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 41,
+      "likes": 45,
       "is_new": false
     }
   ],
@@ -1579,7 +1579,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 6,
+        "points": 7,
         "comments": 9,
         "is_new": false
       },
