@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-03T13:17:32.708939+00:00",
+  "last_updated": "2026-04-03T13:37:49.362903+00:00",
   "total_entries": 110,
-  "new_entries": 15,
+  "new_entries": 2,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -777,7 +777,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "8ffc9734d668915d314520037967311d",
@@ -789,7 +789,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "47622878",
@@ -962,6 +962,19 @@
       "is_new": false
     },
     {
+      "id": "9e0d4b8c08c9c6d0e9c02b2b31ee8e6e",
+      "title": "NearID: Identity Representation Learning via Near-identity Distractors",
+      "url": "https://huggingface.co/papers/2604.01973",
+      "description": "When evaluating identity-focused tasks such as personalized generation and image editing, existing vision encoders entangle object identity with background context, leading to unreliable representatio",
+      "published": "2026-04-01T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "bd3557b4c516bb4941d379563115dfae",
       "title": "ActionParty: Multi-Subject Action Binding in Generative Video Games",
       "url": "https://huggingface.co/papers/2604.02330",
@@ -972,7 +985,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "18e452eeebfeea6835fc5008c017bd6f",
@@ -985,7 +998,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "ef3d9d113faf099a8e34603359b59f6e",
@@ -997,8 +1010,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
-      "is_new": true
+      "likes": 7,
+      "is_new": false
     },
     {
       "id": "5e2f39829015b20745a4fb6b21b35cfb",
@@ -1011,7 +1024,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "452b1d935ea5b579a59d69fdd7e4db48",
@@ -1132,7 +1145,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "47600111",
@@ -1158,8 +1171,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
-      "is_new": true
+      "likes": 5,
+      "is_new": false
     },
     {
       "id": "47599303",
@@ -1266,7 +1279,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "a9aecd36b86c1dd7dbe65ad663b624a8",
@@ -1279,19 +1292,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 8,
-      "is_new": true
-    },
-    {
-      "id": "cebaaa39691fde80d43f4fdd044e3a27",
-      "title": "Executing as You Generate: Hiding Execution Latency in LLM Code Generation",
-      "url": "https://huggingface.co/papers/2604.00491",
-      "description": "Current LLM-based coding agents follow a serial execution paradigm: the model first generates the complete code, then invokes an interpreter to execute it. This sequential workflow leaves the executor",
-      "published": "2026-03-31T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
       "is_new": false
     }
   ],
@@ -1547,7 +1547,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "8ffc9734d668915d314520037967311d",
@@ -1559,7 +1559,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "47622878",
