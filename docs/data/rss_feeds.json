@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-03T09:08:41.444073+00:00",
+  "last_updated": "2026-04-03T10:01:14.069298+00:00",
   "total_entries": 110,
-  "new_entries": 2,
+  "new_entries": 4,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -986,7 +986,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 1,
       "is_new": false
     },
     {
@@ -1051,7 +1051,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
+      "likes": 10,
       "is_new": false
     },
     {
@@ -1065,32 +1065,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 15,
-      "is_new": false
-    },
-    {
-      "id": "9f38023ff2ce0d0ea759746cf0d1fea0",
-      "title": "VideoZeroBench: Probing the Limits of Video MLLMs with Spatio-Temporal Evidence Verification",
-      "url": "https://huggingface.co/papers/2604.01569",
-      "description": "Recent video multimodal large language models achieve impressive results across various benchmarks. However, current evaluations suffer from two critical limitations: (1) inflated scores can mask defi",
-      "published": "2026-04-01T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 5,
-      "is_new": false
-    },
-    {
-      "id": "5addda9630561a6204dc5bacab46aad6",
-      "title": "Generative World Renderer",
-      "url": "https://huggingface.co/papers/2604.02329",
-      "description": "Scaling generative inverse and forward rendering to real-world scenarios is bottlenecked by the limited realism and temporal coherence of existing synthetic datasets. To bridge this persistent domain ",
-      "published": "2026-04-01T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 45,
       "is_new": false
     },
     {
@@ -1162,6 +1136,19 @@
       "points": 3,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "fafc0e95d123bcfbb2d8c8130ebd51d9",
+      "title": "AutoMIA: Improved Baselines for Membership Inference Attack via Agentic Self-Exploration",
+      "url": "https://huggingface.co/papers/2604.01014",
+      "description": "Membership Inference Attacks (MIAs) serve as a fundamental auditing tool for evaluating training data leakage in machine learning models. However, existing methodologies predominantly rely on static, ",
+      "published": "2026-04-01T11:17:45.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
     },
     {
       "id": "47599303",
@@ -1267,7 +1254,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 3,
       "is_new": true
     },
     {
@@ -1294,6 +1281,19 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
+      "is_new": false
+    },
+    {
+      "id": "aec5aa65e96d95b504d578e938f94021",
+      "title": "Friends and Grandmothers in Silico: Localizing Entity Cells in Language Models",
+      "url": "https://huggingface.co/papers/2604.01404",
+      "description": "Language models can answer many entity-centric factual questions, but it remains unclear which internal mechanisms are involved in this process. We study this question across multiple language models.",
+      "published": "2026-03-31T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
       "is_new": false
     }
   ],
