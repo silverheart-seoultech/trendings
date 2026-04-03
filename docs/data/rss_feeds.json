@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-03T16:57:07.912887+00:00",
+  "last_updated": "2026-04-03T17:51:30.705477+00:00",
   "total_entries": 110,
-  "new_entries": 4,
+  "new_entries": 7,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -962,6 +962,32 @@
       "is_new": false
     },
     {
+      "id": "4cc734cf495813d9db7c712c1f21408e",
+      "title": "CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery",
+      "url": "https://huggingface.co/papers/2604.01658",
+      "description": "Large language model (LLM)-based evolution is a promising approach for open-ended discovery, where progress requires sustained search and knowledge accumulation. Existing methods still rely heavily on",
+      "published": "2026-04-01T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "68dd28d194744d174d4f19dad9a5262a",
+      "title": "Therefore I am. I Think",
+      "url": "https://huggingface.co/papers/2604.01202",
+      "description": "We consider the question: when a large language reasoning model makes a choice, did it think first and then decide to, or decide first and then think? In this paper, we present evidence that detectabl",
+      "published": "2026-04-01T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 10,
+      "is_new": true
+    },
+    {
       "id": "9e0d4b8c08c9c6d0e9c02b2b31ee8e6e",
       "title": "NearID: Identity Representation Learning via Near-identity Distractors",
       "url": "https://huggingface.co/papers/2604.01973",
@@ -997,7 +1023,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 20,
+      "likes": 21,
       "is_new": false
     },
     {
@@ -1037,32 +1063,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 11,
-      "is_new": false
-    },
-    {
-      "id": "1326fa445569f1da3be7138c808fa9e0",
-      "title": "DynaVid: Learning to Generate Highly Dynamic Videos using Synthetic Motion Data",
-      "url": "https://huggingface.co/papers/2604.01666",
-      "description": "Despite recent progress, video diffusion models still struggle to synthesize realistic videos involving highly dynamic motions or requiring fine-grained motion controllability. A central limitation li",
-      "published": "2026-04-01T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "26bc03bc1a73b67cb77a3b1093bda5b2",
-      "title": "T5Gemma-TTS Technical Report",
-      "url": "https://huggingface.co/papers/2604.01760",
-      "description": "Autoregressive neural codec language models have shown strong zero-shot voice cloning ability, but decoder-only architectures treat input text as a prefix that competes with the growing audio sequence",
-      "published": "2026-04-01T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
       "is_new": false
     },
     {
@@ -1282,16 +1282,17 @@
       "is_new": false
     },
     {
-      "id": "cebaaa39691fde80d43f4fdd044e3a27",
-      "title": "Executing as You Generate: Hiding Execution Latency in LLM Code Generation",
-      "url": "https://huggingface.co/papers/2604.00491",
-      "description": "Current LLM-based coding agents follow a serial execution paradigm: the model first generates the complete code, then invokes an interpreter to execute it. This sequential workflow leaves the executor",
-      "published": "2026-03-31T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
+      "id": "47591510",
+      "title": "Show HN: Dograh – voice agents that pick Recordings over TTS using LLM",
+      "url": "https://github.com/dograh-hq/dograh",
+      "description": "",
+      "published": "2026-03-31T18:28:27Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 4,
+      "comments": 0,
       "is_new": false
     }
   ],
