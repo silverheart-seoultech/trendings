@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-03T05:48:09.384229+00:00",
+  "last_updated": "2026-04-03T07:19:20.321398+00:00",
   "total_entries": 110,
-  "new_entries": 30,
+  "new_entries": 36,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -938,6 +938,58 @@
       "is_new": false
     },
     {
+      "id": "452b1d935ea5b579a59d69fdd7e4db48",
+      "title": "VOID: Video Object and Interaction Deletion",
+      "url": "https://huggingface.co/papers/2604.02296",
+      "description": "Existing video object removal methods excel at inpainting content \"behind\" the object and correcting appearance-level artifacts such as shadows and reflections. However, when the removed object has mo",
+      "published": "2026-04-01T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
+    },
+    {
+      "id": "1326fa445569f1da3be7138c808fa9e0",
+      "title": "DynaVid: Learning to Generate Highly Dynamic Videos using Synthetic Motion Data",
+      "url": "https://huggingface.co/papers/2604.01666",
+      "description": "Despite recent progress, video diffusion models still struggle to synthesize realistic videos involving highly dynamic motions or requiring fine-grained motion controllability. A central limitation li",
+      "published": "2026-04-01T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "26bc03bc1a73b67cb77a3b1093bda5b2",
+      "title": "T5Gemma-TTS Technical Report",
+      "url": "https://huggingface.co/papers/2604.01760",
+      "description": "Autoregressive neural codec language models have shown strong zero-shot voice cloning ability, but decoder-only architectures treat input text as a prefix that competes with the growing audio sequence",
+      "published": "2026-04-01T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "3b6feb91bdd7de477b929a49d61654e1",
+      "title": "Automatic Image-Level Morphological Trait Annotation for Organismal Images",
+      "url": "https://huggingface.co/papers/2604.01619",
+      "description": "Morphological traits are physical characteristics of biological organisms that provide vital clues on how organisms interact with their environment. Yet extracting these traits remains a slow, expert-",
+      "published": "2026-04-01T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "a7ca4dc0a86e1a88978c74b9ad0ce9b6",
       "title": "Woosh: A Sound Effects Foundation Model",
       "url": "https://huggingface.co/papers/2604.01929",
@@ -1025,7 +1077,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 36,
+      "likes": 41,
       "is_new": false
     },
     {
@@ -1055,32 +1107,6 @@
       "is_new": false
     },
     {
-      "id": "d7ef733e39b754b6b403ecd2655c6c39",
-      "title": "The Latent Space: Foundation, Evolution, Mechanism, Ability, and Outlook",
-      "url": "https://huggingface.co/papers/2604.02029",
-      "description": "Latent space is rapidly emerging as a native substrate for language-based models. While modern systems are still commonly understood through explicit token-level generation, an increasing body of work",
-      "published": "2026-04-01T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 14,
-      "is_new": false
-    },
-    {
-      "id": "92d38e4fbcef7a2fbeb651a8cd48cbf9",
-      "title": "SKILL0: In-Context Agentic Reinforcement Learning for Skill Internalization",
-      "url": "https://huggingface.co/papers/2604.02268",
-      "description": "Agent skills, structured packages of procedural knowledge and executable resources that agents dynamically load at inference time, have become a reliable mechanism for augmenting LLM agents. Yet infer",
-      "published": "2026-04-01T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 49,
-      "is_new": false
-    },
-    {
       "id": "47603135",
       "title": "Show HN: SandClaw = A sandboxed alternative to OpenClaw for trading",
       "url": "https://news.ycombinator.com/item?id=47603135",
@@ -1106,19 +1132,6 @@
       "category": "news",
       "points": 8,
       "comments": 10,
-      "is_new": false
-    },
-    {
-      "id": "b0f3e824aecb26bfc73128b4b1b9abd4",
-      "title": "AgentWatcher: A Rule-based Prompt Injection Monitor",
-      "url": "https://huggingface.co/papers/2604.01194",
-      "description": "Large language models (LLMs) and their applications, such as agents, are highly vulnerable to prompt injection attacks. State-of-the-art prompt injection detection methods have the following limitatio",
-      "published": "2026-04-01T13:40:03.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
       "is_new": false
     },
     {
@@ -1173,8 +1186,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 57,
-      "comments": 37,
+      "points": 58,
+      "comments": 38,
       "is_new": false
     },
     {
@@ -1203,19 +1216,6 @@
       "category": "news",
       "points": 2,
       "comments": 1,
-      "is_new": false
-    },
-    {
-      "id": "adc7e103896deb0b08dc0ffe9ad2a2ba",
-      "title": "PixelPrune: Pixel-Level Adaptive Visual Token Reduction via Predictive Coding",
-      "url": "https://huggingface.co/papers/2604.00886",
-      "description": "Document understanding and GUI interaction are among the highest-value applications of Vision-Language Models (VLMs), yet they impose exceptionally heavy computational burden: fine-grained text and sm",
-      "published": "2026-04-01T09:33:27.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
       "is_new": false
     },
     {
@@ -1271,23 +1271,23 @@
       "is_new": false
     },
     {
-      "id": "aec5aa65e96d95b504d578e938f94021",
-      "title": "Friends and Grandmothers in Silico: Localizing Entity Cells in Language Models",
-      "url": "https://huggingface.co/papers/2604.01404",
-      "description": "Language models can answer many entity-centric factual questions, but it remains unclear which internal mechanisms are involved in this process. We study this question across multiple language models.",
+      "id": "cebaaa39691fde80d43f4fdd044e3a27",
+      "title": "Executing as You Generate: Hiding Execution Latency in LLM Code Generation",
+      "url": "https://huggingface.co/papers/2604.00491",
+      "description": "Current LLM-based coding agents follow a serial execution paradigm: the model first generates the complete code, then invokes an interpreter to execute it. This sequential workflow leaves the executor",
       "published": "2026-03-31T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 1,
       "is_new": true
     },
     {
-      "id": "b9c337c29fb852c882f6b4b40748df9b",
-      "title": "LinguDistill: Recovering Linguistic Ability in Vision- Language Models via Selective Cross-Modal Distillation",
-      "url": "https://huggingface.co/papers/2604.00829",
-      "description": "Adapting pretrained language models (LMs) into vision-language models (VLMs) can degrade their native linguistic capability due to representation shift and cross-modal interference introduced during m",
+      "id": "69f88a5e33a793ee1c0bcecc99e6c25f",
+      "title": "UniRecGen: Unifying Multi-View 3D Reconstruction and Generation",
+      "url": "https://huggingface.co/papers/2604.01479",
+      "description": "Sparse-view 3D modeling represents a fundamental tension between reconstruction fidelity and generative plausibility. While feed-forward reconstruction excels in efficiency and input alignment, it oft",
       "published": "2026-03-31T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
