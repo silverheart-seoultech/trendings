@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-02T23:49:48.799343+00:00",
+  "last_updated": "2026-04-03T02:52:46.018729+00:00",
   "total_entries": 110,
-  "new_entries": 5,
+  "new_entries": 16,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -411,7 +411,7 @@
       "id": "c96765339da7e73085a0a62bc1e0e693",
       "title": "The Silicon Mirror: Dynamic Behavioral Gating for Anti-Sycophancy in LLM Agents",
       "url": "https://arxiv.org/abs/2604.00478",
-      "description": "arXiv:2604.00478v1 Announce Type: new \nAbstract: Large Language Models (LLMs) increasingly prioritize user validation over epistemic accuracy-a phenomenon known as sycophancy. We present The Silicon M",
+      "description": "arXiv:2604.00478v2 Announce Type: new \nAbstract: Large Language Models (LLMs) increasingly prioritize user validation over epistemic accuracy - a phenomenon known as sycophancy. We present The Silicon",
       "published": "Thu, 02 Apr 2026 00:00:00 -0400",
       "source_id": "arxiv-ai",
       "source_name": "arXiv AI",
@@ -567,7 +567,7 @@
       "id": "c355746cc6162d540b42ac7c913bfcb4",
       "title": "Learning to Play Blackjack: A Curriculum Learning Perspective",
       "url": "https://arxiv.org/abs/2604.00076",
-      "description": "arXiv:2604.00076v1 Announce Type: new \nAbstract: Reinforcement Learning (RL) agents often struggle with efficiency and performance in complex environments. We propose a novel framework that uses a Lar",
+      "description": "arXiv:2604.00076v2 Announce Type: new \nAbstract: Reinforcement Learning (RL) agents often struggle with efficiency and performance in complex environments. We propose a novel framework that uses a Lar",
       "published": "Thu, 02 Apr 2026 00:00:00 -0400",
       "source_id": "arxiv-ml",
       "source_name": "arXiv ML",
@@ -768,6 +768,20 @@
       "is_new": false
     },
     {
+      "id": "47621756",
+      "title": "Show HN: Trytet – Deterministic WASM substrate for stateful AI agents",
+      "url": "https://trytet.com",
+      "description": "",
+      "published": "2026-04-02T23:54:56Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "47621306",
       "title": "Show HN: Currant – Anonymus social media for NON-AI agents",
       "url": "https://currantfeed.cc",
@@ -780,34 +794,6 @@
       "points": 3,
       "comments": 0,
       "is_new": true
-    },
-    {
-      "id": "47618654",
-      "title": "Show HN: A task market where AI agents post work, claim it, and build reputation",
-      "url": "https://vakr.me",
-      "description": "",
-      "published": "2026-04-02T18:54:25Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 1,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "47617846",
-      "title": "Show HN: Screenbox – Self-hosted virtual desktops for AI agents",
-      "url": "https://news.ycombinator.com/item?id=47617846",
-      "description": "",
-      "published": "2026-04-02T17:56:48Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 1,
-      "comments": 0,
-      "is_new": false
     },
     {
       "id": "198fd4fc1dd0388e16b5d9a3d0b97b6f",
@@ -857,20 +843,6 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "47614108",
-      "title": "The Founder's Paradox in AI Generation",
-      "url": "https://news.ycombinator.com/item?id=47614108",
-      "description": "",
-      "published": "2026-04-02T13:19:11Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 1,
-      "comments": 0,
       "is_new": false
     },
     {
@@ -936,6 +908,84 @@
       "points": 4,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "9f38023ff2ce0d0ea759746cf0d1fea0",
+      "title": "VideoZeroBench: Probing the Limits of Video MLLMs with Spatio-Temporal Evidence Verification",
+      "url": "https://huggingface.co/papers/2604.01569",
+      "description": "Recent video multimodal large language models achieve impressive results across various benchmarks. However, current evaluations suffer from two critical limitations: (1) inflated scores can mask defi",
+      "published": "2026-04-01T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
+      "id": "5addda9630561a6204dc5bacab46aad6",
+      "title": "Generative World Renderer",
+      "url": "https://huggingface.co/papers/2604.02329",
+      "description": "Scaling generative inverse and forward rendering to real-world scenarios is bottlenecked by the limited realism and temporal coherence of existing synthetic datasets. To bridge this persistent domain ",
+      "published": "2026-04-01T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 8,
+      "is_new": true
+    },
+    {
+      "id": "c2096abe47e4990db12a9967b0e1e813",
+      "title": "FlowSlider: Training-Free Continuous Image Editing via Fidelity-Steering Decomposition",
+      "url": "https://huggingface.co/papers/2604.02088",
+      "description": "Continuous image editing aims to provide slider-style control of edit strength while preserving source-image fidelity and maintaining a consistent edit direction. Existing learning-based slider method",
+      "published": "2026-04-01T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "6c7565ad65a6fd5a8cdadc3a943b6557",
+      "title": "GPA: Learning GUI Process Automation from Demonstrations",
+      "url": "https://huggingface.co/papers/2604.01676",
+      "description": "GUI Process Automation (GPA) is a lightweight but general vision-based Robotic Process Automation (RPA), which enables fast and stable process replay with only a single demo. Addressing the fragility ",
+      "published": "2026-04-01T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "d7ef733e39b754b6b403ecd2655c6c39",
+      "title": "The Latent Space: Foundation, Evolution, Mechanism, Ability, and Outlook",
+      "url": "https://huggingface.co/papers/2604.02029",
+      "description": "Latent space is rapidly emerging as a native substrate for language-based models. While modern systems are still commonly understood through explicit token-level generation, an increasing body of work",
+      "published": "2026-04-01T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 6,
+      "is_new": true
+    },
+    {
+      "id": "92d38e4fbcef7a2fbeb651a8cd48cbf9",
+      "title": "SKILL0: In-Context Agentic Reinforcement Learning for Skill Internalization",
+      "url": "https://huggingface.co/papers/2604.02268",
+      "description": "Agent skills, structured packages of procedural knowledge and executable resources that agents dynamically load at inference time, have become a reliable mechanism for augmenting LLM agents. Yet infer",
+      "published": "2026-04-01T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 29,
+      "is_new": true
     },
     {
       "id": "47603135",
@@ -1033,19 +1083,6 @@
       "is_new": false
     },
     {
-      "id": "07c3e297abcc2d8bfd54434921bdc262",
-      "title": "Paper Reconstruction Evaluation: Evaluating Presentation and Hallucination in AI-written Papers",
-      "url": "https://huggingface.co/papers/2604.01128",
-      "description": "This paper introduces the first systematic evaluation framework for quantifying the quality and risks of papers written by modern coding agents. While AI-driven paper writing has become a growing conc",
-      "published": "2026-04-01T12:48:04.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 6,
-      "is_new": false
-    },
-    {
       "id": "47600111",
       "title": "The Open Source AI Engineering Platform for Agents, LLMs and Models",
       "url": "https://github.com/mlflow/mlflow",
@@ -1060,19 +1097,6 @@
       "is_new": false
     },
     {
-      "id": "06004ab921b821d21a9979d5318356fc",
-      "title": "Revision or Re-Solving? Decomposing Second-Pass Gains in Multi-LLM Pipelines",
-      "url": "https://huggingface.co/papers/2604.01029",
-      "description": "Multi-LLM revision pipelines, in which a second model reviews and improves a draft produced by a first, are widely assumed to derive their gains from genuine error correction. We question this assumpt",
-      "published": "2026-04-01T11:39:40.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
       "id": "47599303",
       "title": "Ask HN: Client took over development by vibe coding. What to do?",
       "url": "https://news.ycombinator.com/item?id=47599303",
@@ -1082,7 +1106,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 56,
+      "points": 57,
       "comments": 37,
       "is_new": false
     },
@@ -1124,21 +1148,21 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
-      "id": "04ec07bbae6160ce205d92b45c912e2c",
-      "title": "Benchmarking and Mechanistic Analysis of Vision-Language Models for Cross-Depiction Assembly Instruction Alignment",
-      "url": "https://huggingface.co/papers/2604.00913",
-      "description": "2D assembly diagrams are often abstract and hard to follow, creating a need for intelligent assistants that can monitor progress, detect errors, and provide step-by-step guidance. In mixed reality set",
-      "published": "2026-04-01T09:55:28.000Z",
+      "id": "adc7e103896deb0b08dc0ffe9ad2a2ba",
+      "title": "PixelPrune: Pixel-Level Adaptive Visual Token Reduction via Predictive Coding",
+      "url": "https://huggingface.co/papers/2604.00886",
+      "description": "Document understanding and GUI interaction are among the highest-value applications of Vision-Language Models (VLMs), yet they impose exceptionally heavy computational burden: fine-grained text and sm",
+      "published": "2026-04-01T09:33:27.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "9af8b2bbf4d430f97655f1ed65f24dcc",
@@ -1150,19 +1174,6 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "24f7a5c4d812f080ccd7c1decba666e5",
-      "title": "Proactive Agent Research Environment: Simulating Active Users to Evaluate Proactive Assistants",
-      "url": "https://huggingface.co/papers/2604.00842",
-      "description": "Proactive agents that anticipate user needs and autonomously execute tasks hold great promise as digital assistants, yet the lack of realistic user simulation frameworks hinders their development. Exi",
-      "published": "2026-04-01T08:53:01.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 5,
       "is_new": false
     },
     {
@@ -1205,19 +1216,6 @@
       "is_new": false
     },
     {
-      "id": "1f828f433cbe667c2bf3f89dfa729756",
-      "title": "UniMixer: A Unified Architecture for Scaling Laws in Recommendation Systems",
-      "url": "https://huggingface.co/papers/2604.00590",
-      "description": "In recent years, the scaling laws of recommendation models have attracted increasing attention, which govern the relationship between performance and parameters/FLOPs of recommenders. Currently, there",
-      "published": "2026-04-01T03:57:40.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
       "id": "47595450",
       "title": "Show HN: Live simulation of AI agents scamming each other (and getting caught)",
       "url": "http://5.161.255.238:8888",
@@ -1230,6 +1228,19 @@
       "points": 4,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "7952a4a2a5fda061cabe556e1999c250",
+      "title": "EgoSim: Egocentric World Simulator for Embodied Interaction Generation",
+      "url": "https://huggingface.co/papers/2604.01001",
+      "description": "We introduce EgoSim, a closed-loop egocentric world simulator that generates spatially consistent interaction videos and persistently updates the underlying 3D scene state for continuous simulation. E",
+      "published": "2026-03-31T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 5,
+      "is_new": true
     },
     {
       "id": "7a779eebd4b30e9d3b3afcad412c6d3d",
@@ -1280,20 +1291,6 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "47590952",
-      "title": "Show HN: Shards of Stone – A Warcraft 2-inspired RTS that runs in the browser",
-      "url": "https://www.shardsofstone.com",
-      "description": "",
-      "published": "2026-03-31T17:43:22Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 2,
       "is_new": false
     }
   ],
@@ -1540,6 +1537,20 @@
         "is_new": false
       },
       {
+        "id": "47621756",
+        "title": "Show HN: Trytet – Deterministic WASM substrate for stateful AI agents",
+        "url": "https://trytet.com",
+        "description": "",
+        "published": "2026-04-02T23:54:56Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 2,
+        "comments": 0,
+        "is_new": true
+      },
+      {
         "id": "47621306",
         "title": "Show HN: Currant – Anonymus social media for NON-AI agents",
         "url": "https://currantfeed.cc",
@@ -1552,34 +1563,6 @@
         "points": 3,
         "comments": 0,
         "is_new": true
-      },
-      {
-        "id": "47618654",
-        "title": "Show HN: A task market where AI agents post work, claim it, and build reputation",
-        "url": "https://vakr.me",
-        "description": "",
-        "published": "2026-04-02T18:54:25Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 1,
-        "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "47617846",
-        "title": "Show HN: Screenbox – Self-hosted virtual desktops for AI agents",
-        "url": "https://news.ycombinator.com/item?id=47617846",
-        "description": "",
-        "published": "2026-04-02T17:56:48Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 1,
-        "comments": 0,
-        "is_new": false
       },
       {
         "id": "198fd4fc1dd0388e16b5d9a3d0b97b6f",
@@ -1632,20 +1615,6 @@
         "is_new": false
       },
       {
-        "id": "47614108",
-        "title": "The Founder's Paradox in AI Generation",
-        "url": "https://news.ycombinator.com/item?id=47614108",
-        "description": "",
-        "published": "2026-04-02T13:19:11Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 1,
-        "comments": 0,
-        "is_new": false
-      },
-      {
         "id": "47613614",
         "title": "Google banned our mobile AI agent app for doing what Gemini should do,but doesnt",
         "url": "https://news.ycombinator.com/item?id=47613614",
@@ -1665,6 +1634,30 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/905864/depression-detecting-ai-kintsugi-clinical-ai-startup-shut-down",
         "description": "For the past seven years, the California-based startup Kintsugi has been developing AI designed to detect signs of depression and anxiety from a person's speech. But after failing to secure FDA cleara",
         "published": "2026-04-02T11:33:23-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "d0f28096640db3d48fac86c1cdd6e147",
+        "title": "Microsoft’s new ‘superintelligence’ game plan is all about business",
+        "url": "https://www.theverge.com/report/905791/mustafa-suleyman-microsoft-ai-transcription-model",
+        "description": "Mustafa Suleyman has been preparing for his new job description for a long time. Suleyman is Microsoft's inaugural CEO of AI, but after the company underwent a large-scale restructuring in mid-March,",
+        "published": "2026-04-02T10:06:19-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "a750def32749b580376c5c358f9d61d2",
+        "title": "Google Home’s latest update makes Gemini better at understanding your commands",
+        "url": "https://www.theverge.com/tech/905805/google-home-gemini-temperature-controls-lighting",
+        "description": "Google is launching another update to its Home app, which is supposed to make controlling your smart home with its Gemini AI assistant \"more natural and reliable,\" according to this week's release not",
+        "published": "2026-04-02T09:47:51-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
@@ -1845,7 +1838,7 @@
         "id": "c96765339da7e73085a0a62bc1e0e693",
         "title": "The Silicon Mirror: Dynamic Behavioral Gating for Anti-Sycophancy in LLM Agents",
         "url": "https://arxiv.org/abs/2604.00478",
-        "description": "arXiv:2604.00478v1 Announce Type: new \nAbstract: Large Language Models (LLMs) increasingly prioritize user validation over epistemic accuracy-a phenomenon known as sycophancy. We present The Silicon M",
+        "description": "arXiv:2604.00478v2 Announce Type: new \nAbstract: Large Language Models (LLMs) increasingly prioritize user validation over epistemic accuracy - a phenomenon known as sycophancy. We present The Silicon",
         "published": "Thu, 02 Apr 2026 00:00:00 -0400",
         "source_id": "arxiv-ai",
         "source_name": "arXiv AI",
@@ -2001,7 +1994,7 @@
         "id": "c355746cc6162d540b42ac7c913bfcb4",
         "title": "Learning to Play Blackjack: A Curriculum Learning Perspective",
         "url": "https://arxiv.org/abs/2604.00076",
-        "description": "arXiv:2604.00076v1 Announce Type: new \nAbstract: Reinforcement Learning (RL) agents often struggle with efficiency and performance in complex environments. We propose a novel framework that uses a Lar",
+        "description": "arXiv:2604.00076v2 Announce Type: new \nAbstract: Reinforcement Learning (RL) agents often struggle with efficiency and performance in complex environments. We propose a novel framework that uses a Lar",
         "published": "Thu, 02 Apr 2026 00:00:00 -0400",
         "source_id": "arxiv-ml",
         "source_name": "arXiv ML",
