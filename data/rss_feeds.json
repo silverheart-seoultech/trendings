@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-03T11:01:47.417619+00:00",
+  "last_updated": "2026-04-03T11:51:00.254076+00:00",
   "total_entries": 110,
-  "new_entries": 5,
+  "new_entries": 11,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,6 +768,18 @@
       "is_new": false
     },
     {
+      "id": "35ba2cb02f874859803baba1ad2634e7",
+      "title": "Chatbots are now prescribing psychiatric drugs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/906525/ai-chatbot-prescribe-refill-psychiatric-drugs",
+      "description": "Utah is allowing an AI system to prescribe psychiatric drugs without a doctor. It's only the second time the state - and the country - has delegated this kind of clinical authority to AI. State offici",
+      "published": "2026-04-03T07:43:51-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "47622878",
       "title": "Show HN: Ubik – Analyze local files like NotebookLM, with Cursor-like power",
       "url": "https://www.ubik.studio/features",
@@ -938,6 +950,19 @@
       "is_new": false
     },
     {
+      "id": "18e452eeebfeea6835fc5008c017bd6f",
+      "title": "Steerable Visual Representations",
+      "url": "https://huggingface.co/papers/2604.02327",
+      "description": "Pretrained Vision Transformers (ViTs) such as DINOv2 and MAE provide generic image features that can be applied to a variety of downstream tasks such as retrieval, classification, and segmentation. Ho",
+      "published": "2026-04-01T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 5,
+      "is_new": true
+    },
+    {
       "id": "ef3d9d113faf099a8e34603359b59f6e",
       "title": "Tex3D: Objects as Attack Surfaces via Adversarial 3D Textures for Vision-Language-Action Models",
       "url": "https://huggingface.co/papers/2604.01618",
@@ -973,7 +998,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
+      "likes": 8,
       "is_new": false
     },
     {
@@ -999,7 +1024,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -1039,45 +1064,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "6cc052298b30d04a6341f5651cd26921",
-      "title": "LatentUM: Unleashing the Potential of Interleaved Cross-Modal Reasoning via a Latent-Space Unified Model",
-      "url": "https://huggingface.co/papers/2604.02097",
-      "description": "Unified models (UMs) hold promise for their ability to understand and generate content across heterogeneous modalities. Compared to merely generating visual content, the use of UMs for interleaved cro",
-      "published": "2026-04-01T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 11,
-      "is_new": false
-    },
-    {
-      "id": "106ba4d31178515489f37499c833da8b",
-      "title": "UniDriveVLA: Unifying Understanding, Perception, and Action Planning for Autonomous Driving",
-      "url": "https://huggingface.co/papers/2604.02190",
-      "description": "Vision-Language-Action (VLA) models have recently emerged in autonomous driving, with the promise of leveraging rich world knowledge to improve the cognitive capabilities of driving systems. However, ",
-      "published": "2026-04-01T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 11,
-      "is_new": false
-    },
-    {
-      "id": "683ca3a03ff6279fc0c6634b0be41647",
-      "title": "Omni-SimpleMem: Autoresearch-Guided Discovery of Lifelong Multimodal Agent Memory",
-      "url": "https://huggingface.co/papers/2604.01007",
-      "description": "AI agents increasingly operate over extended time horizons, yet their ability to retain, organize, and recall multimodal experiences remains a critical bottleneck. Building effective lifelong memory r",
-      "published": "2026-04-01T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 15,
       "is_new": false
     },
     {
@@ -1135,6 +1121,19 @@
       "points": 6,
       "comments": 1,
       "is_new": false
+    },
+    {
+      "id": "8cc26a9b9d85b8921a9c5a15b21fceff",
+      "title": "Brainstacks: Cross-Domain Cognitive Capabilities via Frozen MoE-LoRA Stacks for Continual LLM Learning",
+      "url": "https://huggingface.co/papers/2604.01152",
+      "description": "We present Brainstacks, a modular architecture for continual multi-domain fine-tuning of large language models that packages domain expertise as frozen adapter stacks composing additively on a shared ",
+      "published": "2026-04-01T13:08:25.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
     },
     {
       "id": "47600111",
@@ -1258,6 +1257,19 @@
       "is_new": false
     },
     {
+      "id": "f6c36dead4fc0e76a16d7a0f3f9f43fe",
+      "title": "Efficient and Principled Scientific Discovery through Bayesian Optimization: A Tutorial",
+      "url": "https://huggingface.co/papers/2604.01328",
+      "description": "Traditional scientific discovery relies on an iterative hypothesise-experiment-refine cycle that has driven progress for centuries, but its intuitive, ad-hoc implementation often wastes resources, yie",
+      "published": "2026-03-31T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
       "id": "a9aecd36b86c1dd7dbe65ad663b624a8",
       "title": "Investigating Autonomous Agent Contributions in the Wild: Activity Patterns and Code Change over Time",
       "url": "https://huggingface.co/papers/2604.00917",
@@ -1275,19 +1287,6 @@
       "title": "Executing as You Generate: Hiding Execution Latency in LLM Code Generation",
       "url": "https://huggingface.co/papers/2604.00491",
       "description": "Current LLM-based coding agents follow a serial execution paradigm: the model first generates the complete code, then invokes an interpreter to execute it. This sequential workflow leaves the executor",
-      "published": "2026-03-31T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "69f88a5e33a793ee1c0bcecc99e6c25f",
-      "title": "UniRecGen: Unifying Multi-View 3D Reconstruction and Generation",
-      "url": "https://huggingface.co/papers/2604.01479",
-      "description": "Sparse-view 3D modeling represents a fundamental tension between reconstruction fidelity and generative plausibility. While feed-forward reconstruction excels in efficiency and input alignment, it oft",
       "published": "2026-03-31T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
@@ -1540,6 +1539,18 @@
         "is_new": false
       },
       {
+        "id": "35ba2cb02f874859803baba1ad2634e7",
+        "title": "Chatbots are now prescribing psychiatric drugs",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/906525/ai-chatbot-prescribe-refill-psychiatric-drugs",
+        "description": "Utah is allowing an AI system to prescribe psychiatric drugs without a doctor. It's only the second time the state - and the country - has delegated this kind of clinical authority to AI. State offici",
+        "published": "2026-04-03T07:43:51-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "47622878",
         "title": "Show HN: Ubik – Analyze local files like NotebookLM, with Cursor-like power",
         "url": "https://www.ubik.studio/features",
@@ -1657,18 +1668,6 @@
         "category": "news",
         "points": 3,
         "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "3f4b7ad71b163c7226d28943ca5df0a9",
-        "title": "It’s not easy to get depression-detecting AI through the FDA",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/905864/depression-detecting-ai-kintsugi-clinical-ai-startup-shut-down",
-        "description": "For the past seven years, the California-based startup Kintsugi has been developing AI designed to detect signs of depression and anxiety from a person's speech. But after failing to secure FDA cleara",
-        "published": "2026-04-02T11:33:23-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
         "is_new": false
       }
     ],
