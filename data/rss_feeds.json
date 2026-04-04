@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-04T15:46:47.177700+00:00",
+  "last_updated": "2026-04-04T16:51:43.664486+00:00",
   "total_entries": 70,
-  "new_entries": 3,
+  "new_entries": 4,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -156,18 +156,6 @@
       "is_new": false
     },
     {
-      "id": "abf2e66f4fe27a0f46f9d25fd8c281f2",
-      "title": "Alexa+ gets new food ordering experiences with Uber Eats and Grubhub",
-      "url": "https://techcrunch.com/2026/03/31/alexa-plus-new-food-ordering-experiences-with-uber-eats-and-grubhub/",
-      "description": "You can now order from Uber Eats and Grubhub using Alexa+, an experience Amazon says will be similar to chatting with a waiter at a restaurant or placing an order at a drive-thru.",
-      "published": "Tue, 31 Mar 2026 17:41:35 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "043898ae58668aaa89909ef84b650b78",
       "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
       "url": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
@@ -202,6 +190,18 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "b85184eac57722e571a81624d6a7d627",
+      "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
+      "url": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
+      "description": "It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools.",
+      "published": "Sat, 04 Apr 2026 16:32:22 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "502b81695f3cca8806a065e3f28682c7",
@@ -311,7 +311,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 2,
+      "points": 3,
       "comments": 0,
       "is_new": true
     },
@@ -641,7 +641,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 33,
+      "likes": 34,
       "is_new": false
     },
     {
@@ -840,7 +840,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
+      "likes": 9,
       "is_new": false
     },
     {
@@ -866,7 +866,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
+      "likes": 7,
       "is_new": false
     },
     {
@@ -879,7 +879,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 1,
       "is_new": false
     },
     {
@@ -1059,18 +1059,6 @@
         "is_new": false
       },
       {
-        "id": "abf2e66f4fe27a0f46f9d25fd8c281f2",
-        "title": "Alexa+ gets new food ordering experiences with Uber Eats and Grubhub",
-        "url": "https://techcrunch.com/2026/03/31/alexa-plus-new-food-ordering-experiences-with-uber-eats-and-grubhub/",
-        "description": "You can now order from Uber Eats and Grubhub using Alexa+, an experience Amazon says will be similar to chatting with a waiter at a restaurant or placing an order at a drive-thru.",
-        "published": "Tue, 31 Mar 2026 17:41:35 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
         "id": "043898ae58668aaa89909ef84b650b78",
         "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
         "url": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
@@ -1105,6 +1093,18 @@
         "source_icon": "📰",
         "category": "news",
         "is_new": false
+      },
+      {
+        "id": "b85184eac57722e571a81624d6a7d627",
+        "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
+        "url": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
+        "description": "It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools.",
+        "published": "Sat, 04 Apr 2026 16:32:22 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
       },
       {
         "id": "502b81695f3cca8806a065e3f28682c7",
@@ -1214,7 +1214,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 2,
+        "points": 3,
         "comments": 0,
         "is_new": true
       },
@@ -1338,7 +1338,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 33,
+        "likes": 34,
         "is_new": false
       },
       {
@@ -1481,7 +1481,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 8,
+        "likes": 9,
         "is_new": false
       },
       {
@@ -1507,7 +1507,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 6,
+        "likes": 7,
         "is_new": false
       },
       {
@@ -1520,7 +1520,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 0,
+        "likes": 1,
         "is_new": false
       },
       {
