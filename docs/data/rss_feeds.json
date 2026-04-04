@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-03T23:48:03.046946+00:00",
+  "last_updated": "2026-04-04T02:43:16.779640+00:00",
   "total_entries": 110,
-  "new_entries": 11,
+  "new_entries": 15,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -168,18 +168,6 @@
       "is_new": false
     },
     {
-      "id": "b1c229ff66c5b0b6b4833070813cc78d",
-      "title": "Nomadic raises $8.4 million to wrangle the data pouring off autonomous vehicles",
-      "url": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/",
-      "description": "The company turns footage from robots into structured, searchable datasets with a deep learning model.",
-      "published": "Tue, 31 Mar 2026 15:00:00 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "043898ae58668aaa89909ef84b650b78",
       "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
       "url": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
@@ -214,6 +202,18 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "502b81695f3cca8806a065e3f28682c7",
+      "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
+      "url": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
+      "description": "Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active — with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's",
+      "published": "Sat, 04 Apr 2026 01:31:00 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "85dc10294da528b6206073a51c68c3c9",
@@ -768,6 +768,20 @@
       "is_new": false
     },
     {
+      "id": "47634733",
+      "title": "Scaling tool orchestration data will emerge different intelligence and LLMs",
+      "url": "https://news.ycombinator.com/item?id=47634733",
+      "description": "",
+      "published": "2026-04-04T01:42:03Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "47632530",
       "title": "Show HN: AI agent skills for affiliate marketing (Markdown, works with any LLM)",
       "url": "https://github.com/Affitor/affiliate-skills",
@@ -779,6 +793,18 @@
       "category": "news",
       "points": 1,
       "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "1355bfc8610e5bebb54dec8c027e1921",
+      "title": "Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban",
+      "description": "Using OpenClaw with Claude AI is about to get a lot more expensive, thanks to Anthropic's new policy changes. Beginning April 4th at 3PM ET, users will \"no longer be able to use your Claude subscripti",
+      "published": "2026-04-03T20:14:00-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
       "is_new": true
     },
     {
@@ -1025,7 +1051,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
+      "likes": 19,
       "is_new": false
     },
     {
@@ -1038,7 +1064,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 15,
+      "likes": 16,
       "is_new": false
     },
     {
@@ -1077,7 +1103,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 28,
+      "likes": 30,
       "is_new": false
     },
     {
@@ -1118,7 +1144,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 8,
-      "comments": 10,
+      "comments": 9,
       "is_new": false
     },
     {
@@ -1177,19 +1203,6 @@
       "is_new": false
     },
     {
-      "id": "fafc0e95d123bcfbb2d8c8130ebd51d9",
-      "title": "AutoMIA: Improved Baselines for Membership Inference Attack via Agentic Self-Exploration",
-      "url": "https://huggingface.co/papers/2604.01014",
-      "description": "Membership Inference Attacks (MIAs) serve as a fundamental auditing tool for evaluating training data leakage in machine learning models. However, existing methodologies predominantly rely on static, ",
-      "published": "2026-04-01T11:17:45.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 5,
-      "is_new": false
-    },
-    {
       "id": "47599303",
       "title": "Ask HN: Client took over development by vibe coding. What to do?",
       "url": "https://news.ycombinator.com/item?id=47599303",
@@ -1232,37 +1245,11 @@
       "is_new": false
     },
     {
-      "id": "9af8b2bbf4d430f97655f1ed65f24dcc",
-      "title": "AI can push your Stream Deck buttons for you",
-      "url": "https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update",
-      "description": "If you're tired of controlling Stream Deck devices by manually pushing buttons, then good news: Elgato will now let you delegate that task to a chatbot instead. The Stream Deck 7.4 software update rel",
-      "published": "2026-04-01T09:23:30-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "47596950",
       "title": "Show HN: Browserbeam – a browser API built for AI agents",
       "url": "https://browserbeam.com/",
       "description": "",
       "published": "2026-04-01T04:50:35Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 4,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "47595450",
-      "title": "Show HN: Live simulation of AI agents scamming each other (and getting caught)",
-      "url": "http://5.161.255.238:8888",
-      "description": "",
-      "published": "2026-04-01T00:53:10Z",
       "source_id": "hn-ai",
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
@@ -1281,7 +1268,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 1,
       "is_new": true
     },
     {
@@ -1295,6 +1282,19 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 4,
+      "is_new": false
+    },
+    {
+      "id": "f6c36dead4fc0e76a16d7a0f3f9f43fe",
+      "title": "Efficient and Principled Scientific Discovery through Bayesian Optimization: A Tutorial",
+      "url": "https://huggingface.co/papers/2604.01328",
+      "description": "Traditional scientific discovery relies on an iterative hypothesise-experiment-refine cycle that has driven progress for centuries, but its intuitive, ad-hoc implementation often wastes resources, yie",
+      "published": "2026-03-31T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
       "is_new": false
     }
   ],
@@ -1421,18 +1421,6 @@
         "is_new": false
       },
       {
-        "id": "b1c229ff66c5b0b6b4833070813cc78d",
-        "title": "Nomadic raises $8.4 million to wrangle the data pouring off autonomous vehicles",
-        "url": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/",
-        "description": "The company turns footage from robots into structured, searchable datasets with a deep learning model.",
-        "published": "Tue, 31 Mar 2026 15:00:00 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
         "id": "043898ae58668aaa89909ef84b650b78",
         "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
         "url": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
@@ -1467,6 +1455,18 @@
         "source_icon": "📰",
         "category": "news",
         "is_new": false
+      },
+      {
+        "id": "502b81695f3cca8806a065e3f28682c7",
+        "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
+        "url": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
+        "description": "Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active — with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's",
+        "published": "Sat, 04 Apr 2026 01:31:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
       },
       {
         "id": "85dc10294da528b6206073a51c68c3c9",
@@ -1541,6 +1541,20 @@
         "is_new": false
       },
       {
+        "id": "47634733",
+        "title": "Scaling tool orchestration data will emerge different intelligence and LLMs",
+        "url": "https://news.ycombinator.com/item?id=47634733",
+        "description": "",
+        "published": "2026-04-04T01:42:03Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 2,
+        "comments": 0,
+        "is_new": true
+      },
+      {
         "id": "47632530",
         "title": "Show HN: AI agent skills for affiliate marketing (Markdown, works with any LLM)",
         "url": "https://github.com/Affitor/affiliate-skills",
@@ -1552,6 +1566,18 @@
         "category": "news",
         "points": 1,
         "comments": 0,
+        "is_new": true
+      },
+      {
+        "id": "1355bfc8610e5bebb54dec8c027e1921",
+        "title": "Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban",
+        "description": "Using OpenClaw with Claude AI is about to get a lot more expensive, thanks to Anthropic's new policy changes. Beginning April 4th at 3PM ET, users will \"no longer be able to use your Claude subscripti",
+        "published": "2026-04-03T20:14:00-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
         "is_new": true
       },
       {
@@ -1643,34 +1669,6 @@
         "points": 3,
         "comments": 0,
         "is_new": false
-      },
-      {
-        "id": "47621306",
-        "title": "Show HN: Currant – Anonymus social media for NON-AI agents",
-        "url": "https://currantfeed.cc",
-        "description": "",
-        "published": "2026-04-02T23:00:37Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 4,
-        "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "47618654",
-        "title": "Show HN: A task market where AI agents post work, claim it, and build reputation",
-        "url": "https://vakr.me",
-        "description": "",
-        "published": "2026-04-02T18:54:25Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 2,
-        "comments": 0,
-        "is_new": true
       }
     ],
     "research": [
