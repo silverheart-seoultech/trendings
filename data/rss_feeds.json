@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-06T03:22:26.368062+00:00",
+  "last_updated": "2026-04-06T03:37:45.976294+00:00",
   "total_entries": 70,
-  "new_entries": 6,
+  "new_entries": 2,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -299,7 +299,7 @@
       "category": "news",
       "points": 7,
       "comments": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "47652386",
@@ -660,6 +660,19 @@
       "is_new": false
     },
     {
+      "id": "456d0888438d76fa6e129a1fb7f1f4c2",
+      "title": "Self-Distilled RLVR",
+      "url": "https://huggingface.co/papers/2604.03128",
+      "description": "On-policy distillation (OPD) has become a popular training paradigm in the LLM community. This paradigm selects a larger model as the teacher to provide dense, fine-grained signals for each sampled tr",
+      "published": "2026-04-02T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
       "id": "84efd76465d91cac1fbdd40a89b1e917",
       "title": "Agentic-MME: What Agentic Capability Really Brings to Multimodal Intelligence?",
       "url": "https://huggingface.co/papers/2604.03016",
@@ -669,8 +682,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
-      "is_new": true
+      "likes": 11,
+      "is_new": false
     },
     {
       "id": "ee05810da2047f92195b61887dcb3f27",
@@ -682,8 +695,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
-      "is_new": true
+      "likes": 1,
+      "is_new": false
     },
     {
       "id": "85f3a8fe6df2364bd2e2c630caaaf9e7",
@@ -696,7 +709,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "a91ee79eb3ecb35bde937a9d69da6f97",
@@ -708,8 +721,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
-      "is_new": true
+      "likes": 1,
+      "is_new": false
     },
     {
       "id": "47617401",
@@ -738,6 +751,19 @@
       "points": 3,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "7d157a60621fa931d0e726059621980a",
+      "title": "A Simple Baseline for Streaming Video Understanding",
+      "url": "https://huggingface.co/papers/2604.02317",
+      "description": "Recent streaming video understanding methods increasingly rely on complex memory mechanisms to handle long video streams. We challenge this trend with a simple finding: a sliding-window baseline that ",
+      "published": "2026-04-01T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
     },
     {
       "id": "4cc734cf495813d9db7c712c1f21408e",
@@ -818,19 +844,6 @@
       "is_new": false
     },
     {
-      "id": "f6c36dead4fc0e76a16d7a0f3f9f43fe",
-      "title": "Efficient and Principled Scientific Discovery through Bayesian Optimization: A Tutorial",
-      "url": "https://huggingface.co/papers/2604.01328",
-      "description": "Traditional scientific discovery relies on an iterative hypothesise-experiment-refine cycle that has driven progress for centuries, but its intuitive, ad-hoc implementation often wastes resources, yie",
-      "published": "2026-03-31T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 6,
-      "is_new": false
-    },
-    {
       "id": "9d52d4d9ffc5aab5235e7ecd96ccd659",
       "title": "Video Models Reason Early: Exploiting Plan Commitment for Maze Solving",
       "url": "https://huggingface.co/papers/2603.30043",
@@ -854,19 +867,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 9,
-      "is_new": false
-    },
-    {
-      "id": "d989bc2d5ac051901183e72f7a212035",
-      "title": "ASI-Evolve: AI Accelerates AI",
-      "url": "https://huggingface.co/papers/2603.29640",
-      "description": "Can AI accelerate the development of AI itself? While recent agentic systems have shown strong performance on well-scoped tasks with rapid feedback, it remains unclear whether they can tackle the cost",
-      "published": "2026-03-30T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 19,
       "is_new": false
     },
     {
@@ -931,8 +931,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
-      "is_new": true
+      "likes": 1,
+      "is_new": false
     },
     {
       "id": "47f2220795d5690694e1e6c968d1fd24",
@@ -1202,7 +1202,7 @@
         "category": "news",
         "points": 7,
         "comments": 3,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "47652386",
@@ -1331,6 +1331,19 @@
     ],
     "research": [
       {
+        "id": "456d0888438d76fa6e129a1fb7f1f4c2",
+        "title": "Self-Distilled RLVR",
+        "url": "https://huggingface.co/papers/2604.03128",
+        "description": "On-policy distillation (OPD) has become a popular training paradigm in the LLM community. This paradigm selects a larger model as the teacher to provide dense, fine-grained signals for each sampled tr",
+        "published": "2026-04-02T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 2,
+        "is_new": true
+      },
+      {
         "id": "84efd76465d91cac1fbdd40a89b1e917",
         "title": "Agentic-MME: What Agentic Capability Really Brings to Multimodal Intelligence?",
         "url": "https://huggingface.co/papers/2604.03016",
@@ -1340,8 +1353,8 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 9,
-        "is_new": true
+        "likes": 11,
+        "is_new": false
       },
       {
         "id": "ee05810da2047f92195b61887dcb3f27",
@@ -1353,8 +1366,8 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 0,
-        "is_new": true
+        "likes": 1,
+        "is_new": false
       },
       {
         "id": "85f3a8fe6df2364bd2e2c630caaaf9e7",
@@ -1367,7 +1380,7 @@
         "source_icon": "🤗",
         "category": "research",
         "likes": 0,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "a91ee79eb3ecb35bde937a9d69da6f97",
@@ -1379,7 +1392,20 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 0,
+        "likes": 1,
+        "is_new": false
+      },
+      {
+        "id": "7d157a60621fa931d0e726059621980a",
+        "title": "A Simple Baseline for Streaming Video Understanding",
+        "url": "https://huggingface.co/papers/2604.02317",
+        "description": "Recent streaming video understanding methods increasingly rely on complex memory mechanisms to handle long video streams. We challenge this trend with a simple finding: a sliding-window baseline that ",
+        "published": "2026-04-01T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 2,
         "is_new": true
       },
       {
@@ -1461,19 +1487,6 @@
         "is_new": false
       },
       {
-        "id": "f6c36dead4fc0e76a16d7a0f3f9f43fe",
-        "title": "Efficient and Principled Scientific Discovery through Bayesian Optimization: A Tutorial",
-        "url": "https://huggingface.co/papers/2604.01328",
-        "description": "Traditional scientific discovery relies on an iterative hypothesise-experiment-refine cycle that has driven progress for centuries, but its intuitive, ad-hoc implementation often wastes resources, yie",
-        "published": "2026-03-31T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 6,
-        "is_new": false
-      },
-      {
         "id": "9d52d4d9ffc5aab5235e7ecd96ccd659",
         "title": "Video Models Reason Early: Exploiting Plan Commitment for Maze Solving",
         "url": "https://huggingface.co/papers/2603.30043",
@@ -1497,19 +1510,6 @@
         "source_icon": "🤗",
         "category": "research",
         "likes": 9,
-        "is_new": false
-      },
-      {
-        "id": "d989bc2d5ac051901183e72f7a212035",
-        "title": "ASI-Evolve: AI Accelerates AI",
-        "url": "https://huggingface.co/papers/2603.29640",
-        "description": "Can AI accelerate the development of AI itself? While recent agentic systems have shown strong performance on well-scoped tasks with rapid feedback, it remains unclear whether they can tackle the cost",
-        "published": "2026-03-30T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 19,
         "is_new": false
       },
       {
@@ -1574,8 +1574,8 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 0,
-        "is_new": true
+        "likes": 1,
+        "is_new": false
       },
       {
         "id": "47f2220795d5690694e1e6c968d1fd24",
