@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-05T23:48:29.886527+00:00",
+  "last_updated": "2026-04-06T03:22:26.368062+00:00",
   "total_entries": 70,
-  "new_entries": 1,
+  "new_entries": 6,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -297,7 +297,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 6,
+      "points": 7,
       "comments": 3,
       "is_new": true
     },
@@ -311,7 +311,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 3,
+      "points": 4,
       "comments": 0,
       "is_new": false
     },
@@ -660,6 +660,58 @@
       "is_new": false
     },
     {
+      "id": "84efd76465d91cac1fbdd40a89b1e917",
+      "title": "Agentic-MME: What Agentic Capability Really Brings to Multimodal Intelligence?",
+      "url": "https://huggingface.co/papers/2604.03016",
+      "description": "Multimodal Large Language Models (MLLMs) are evolving from passive observers into active agents, solving problems through Visual Expansion (invoking visual tools) and Knowledge Expansion (open-web sea",
+      "published": "2026-04-02T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 9,
+      "is_new": true
+    },
+    {
+      "id": "ee05810da2047f92195b61887dcb3f27",
+      "title": "AgentHazard: A Benchmark for Evaluating Harmful Behavior in Computer-Use Agents",
+      "url": "https://huggingface.co/papers/2604.02947",
+      "description": "Computer-use agents extend language models from text generation to persistent action over tools, files, and execution environments. Unlike chat systems, they maintain state across interactions and tra",
+      "published": "2026-04-02T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "85f3a8fe6df2364bd2e2c630caaaf9e7",
+      "title": "CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning",
+      "url": "https://huggingface.co/papers/2604.03231",
+      "description": "Recent vision-language models (VLMs) typically rely on a single vision encoder trained with contrastive image-text objectives, such as CLIP-style pretraining. While contrastive encoders are effective ",
+      "published": "2026-04-02T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "a91ee79eb3ecb35bde937a9d69da6f97",
+      "title": "InCoder-32B-Thinking: Industrial Code World Model for Thinking",
+      "url": "https://huggingface.co/papers/2604.03144",
+      "description": "Industrial software development across chip design, GPU optimization, and embedded systems lacks expert reasoning traces showing how engineers reason about hardware constraints and timing semantics. I",
+      "published": "2026-04-02T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "47617401",
       "title": "Show HN: Wick – censorship circumvention tech repurposed for AI web access",
       "url": "https://getwick.dev",
@@ -737,45 +789,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 4,
-      "is_new": false
-    },
-    {
-      "id": "18e452eeebfeea6835fc5008c017bd6f",
-      "title": "Steerable Visual Representations",
-      "url": "https://huggingface.co/papers/2604.02327",
-      "description": "Pretrained Vision Transformers (ViTs) such as DINOv2 and MAE provide generic image features that can be applied to a variety of downstream tasks such as retrieval, classification, and segmentation. Ho",
-      "published": "2026-04-01T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 43,
-      "is_new": false
-    },
-    {
-      "id": "ef3d9d113faf099a8e34603359b59f6e",
-      "title": "Tex3D: Objects as Attack Surfaces via Adversarial 3D Textures for Vision-Language-Action Models",
-      "url": "https://huggingface.co/papers/2604.01618",
-      "description": "Vision-language-action (VLA) models have shown strong performance in robotic manipulation, yet their robustness to physically realizable adversarial attacks remains underexplored. Existing studies rev",
-      "published": "2026-04-01T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 9,
-      "is_new": false
-    },
-    {
-      "id": "8cc26a9b9d85b8921a9c5a15b21fceff",
-      "title": "Brainstacks: Cross-Domain Cognitive Capabilities via Frozen MoE-LoRA Stacks for Continual LLM Learning",
-      "url": "https://huggingface.co/papers/2604.01152",
-      "description": "We present Brainstacks, a modular architecture for continual multi-domain fine-tuning of large language models that packages domain expertise as frozen adapter stacks composing additively on a shared ",
-      "published": "2026-04-01T13:08:25.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
       "is_new": false
     },
     {
@@ -857,19 +870,6 @@
       "is_new": false
     },
     {
-      "id": "d939e8d089bf4228a3b8fc961b78b18b",
-      "title": "MDPBench: A Benchmark for Multilingual Document Parsing in Real-World Scenarios",
-      "url": "https://huggingface.co/papers/2603.28130",
-      "description": "We introduce Multilingual Document Parsing Benchmark, the first benchmark for multilingual digital and photographed document parsing. Document parsing has made remarkable strides, yet almost exclusive",
-      "published": "2026-03-30T03:47:46.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 7,
-      "is_new": false
-    },
-    {
       "id": "1a462a35c10c344f2d4d1aa08a183eed",
       "title": "An Empirical Recipe for Universal Phone Recognition",
       "url": "https://huggingface.co/papers/2603.29042",
@@ -887,19 +887,6 @@
       "title": "MultiGen: Level-Design for Editable Multiplayer Worlds in Diffusion Game Engines",
       "url": "https://huggingface.co/papers/2603.06679",
       "description": "Video world models have shown immense promise for interactive simulation and entertainment, but current systems still struggle with two important aspects of interactivity: user control over the enviro",
-      "published": "2026-03-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "f045349bb7e831ea4f9e9949f58ead9b",
-      "title": "Memory-Augmented Vision-Language Agents for Persistent and Semantically Consistent Object Captioning",
-      "url": "https://huggingface.co/papers/2603.24257",
-      "description": "Vision-Language Models (VLMs) often yield inconsistent descriptions of the same object across viewpoints, hindering the ability of embodied agents to construct consistent semantic representations over",
       "published": "2026-03-29T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
@@ -933,6 +920,19 @@
       "category": "research",
       "likes": 4,
       "is_new": false
+    },
+    {
+      "id": "8b29eaa02b35aa6f44c237a94c5cdb28",
+      "title": "Xpertbench: Expert Level Tasks with Rubrics-Based Evaluation",
+      "url": "https://huggingface.co/papers/2604.02368",
+      "description": "As Large Language Models (LLMs) exhibit plateauing performance on conventional benchmarks, a pivotal challenge persists: evaluating their proficiency in complex, open-ended tasks characterizing genuin",
+      "published": "2026-03-26T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
     },
     {
       "id": "47f2220795d5690694e1e6c968d1fd24",
@@ -1200,7 +1200,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 6,
+        "points": 7,
         "comments": 3,
         "is_new": true
       },
@@ -1214,7 +1214,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 3,
+        "points": 4,
         "comments": 0,
         "is_new": false
       },
@@ -1331,6 +1331,58 @@
     ],
     "research": [
       {
+        "id": "84efd76465d91cac1fbdd40a89b1e917",
+        "title": "Agentic-MME: What Agentic Capability Really Brings to Multimodal Intelligence?",
+        "url": "https://huggingface.co/papers/2604.03016",
+        "description": "Multimodal Large Language Models (MLLMs) are evolving from passive observers into active agents, solving problems through Visual Expansion (invoking visual tools) and Knowledge Expansion (open-web sea",
+        "published": "2026-04-02T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 9,
+        "is_new": true
+      },
+      {
+        "id": "ee05810da2047f92195b61887dcb3f27",
+        "title": "AgentHazard: A Benchmark for Evaluating Harmful Behavior in Computer-Use Agents",
+        "url": "https://huggingface.co/papers/2604.02947",
+        "description": "Computer-use agents extend language models from text generation to persistent action over tools, files, and execution environments. Unlike chat systems, they maintain state across interactions and tra",
+        "published": "2026-04-02T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 0,
+        "is_new": true
+      },
+      {
+        "id": "85f3a8fe6df2364bd2e2c630caaaf9e7",
+        "title": "CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning",
+        "url": "https://huggingface.co/papers/2604.03231",
+        "description": "Recent vision-language models (VLMs) typically rely on a single vision encoder trained with contrastive image-text objectives, such as CLIP-style pretraining. While contrastive encoders are effective ",
+        "published": "2026-04-02T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 0,
+        "is_new": true
+      },
+      {
+        "id": "a91ee79eb3ecb35bde937a9d69da6f97",
+        "title": "InCoder-32B-Thinking: Industrial Code World Model for Thinking",
+        "url": "https://huggingface.co/papers/2604.03144",
+        "description": "Industrial software development across chip design, GPU optimization, and embedded systems lacks expert reasoning traces showing how engineers reason about hardware constraints and timing semantics. I",
+        "published": "2026-04-02T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 0,
+        "is_new": true
+      },
+      {
         "id": "4cc734cf495813d9db7c712c1f21408e",
         "title": "CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery",
         "url": "https://huggingface.co/papers/2604.01658",
@@ -1380,45 +1432,6 @@
         "source_icon": "🤗",
         "category": "research",
         "likes": 4,
-        "is_new": false
-      },
-      {
-        "id": "18e452eeebfeea6835fc5008c017bd6f",
-        "title": "Steerable Visual Representations",
-        "url": "https://huggingface.co/papers/2604.02327",
-        "description": "Pretrained Vision Transformers (ViTs) such as DINOv2 and MAE provide generic image features that can be applied to a variety of downstream tasks such as retrieval, classification, and segmentation. Ho",
-        "published": "2026-04-01T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 43,
-        "is_new": false
-      },
-      {
-        "id": "ef3d9d113faf099a8e34603359b59f6e",
-        "title": "Tex3D: Objects as Attack Surfaces via Adversarial 3D Textures for Vision-Language-Action Models",
-        "url": "https://huggingface.co/papers/2604.01618",
-        "description": "Vision-language-action (VLA) models have shown strong performance in robotic manipulation, yet their robustness to physically realizable adversarial attacks remains underexplored. Existing studies rev",
-        "published": "2026-04-01T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 9,
-        "is_new": false
-      },
-      {
-        "id": "8cc26a9b9d85b8921a9c5a15b21fceff",
-        "title": "Brainstacks: Cross-Domain Cognitive Capabilities via Frozen MoE-LoRA Stacks for Continual LLM Learning",
-        "url": "https://huggingface.co/papers/2604.01152",
-        "description": "We present Brainstacks, a modular architecture for continual multi-domain fine-tuning of large language models that packages domain expertise as frozen adapter stacks composing additively on a shared ",
-        "published": "2026-04-01T13:08:25.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 2,
         "is_new": false
       },
       {
@@ -1500,19 +1513,6 @@
         "is_new": false
       },
       {
-        "id": "d939e8d089bf4228a3b8fc961b78b18b",
-        "title": "MDPBench: A Benchmark for Multilingual Document Parsing in Real-World Scenarios",
-        "url": "https://huggingface.co/papers/2603.28130",
-        "description": "We introduce Multilingual Document Parsing Benchmark, the first benchmark for multilingual digital and photographed document parsing. Document parsing has made remarkable strides, yet almost exclusive",
-        "published": "2026-03-30T03:47:46.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 7,
-        "is_new": false
-      },
-      {
         "id": "1a462a35c10c344f2d4d1aa08a183eed",
         "title": "An Empirical Recipe for Universal Phone Recognition",
         "url": "https://huggingface.co/papers/2603.29042",
@@ -1530,19 +1530,6 @@
         "title": "MultiGen: Level-Design for Editable Multiplayer Worlds in Diffusion Game Engines",
         "url": "https://huggingface.co/papers/2603.06679",
         "description": "Video world models have shown immense promise for interactive simulation and entertainment, but current systems still struggle with two important aspects of interactivity: user control over the enviro",
-        "published": "2026-03-29T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 3,
-        "is_new": false
-      },
-      {
-        "id": "f045349bb7e831ea4f9e9949f58ead9b",
-        "title": "Memory-Augmented Vision-Language Agents for Persistent and Semantically Consistent Object Captioning",
-        "url": "https://huggingface.co/papers/2603.24257",
-        "description": "Vision-Language Models (VLMs) often yield inconsistent descriptions of the same object across viewpoints, hindering the ability of embodied agents to construct consistent semantic representations over",
         "published": "2026-03-29T20:00:00.000Z",
         "source_id": "hf-papers",
         "source_name": "HuggingFace Daily Papers",
@@ -1576,6 +1563,19 @@
         "category": "research",
         "likes": 4,
         "is_new": false
+      },
+      {
+        "id": "8b29eaa02b35aa6f44c237a94c5cdb28",
+        "title": "Xpertbench: Expert Level Tasks with Rubrics-Based Evaluation",
+        "url": "https://huggingface.co/papers/2604.02368",
+        "description": "As Large Language Models (LLMs) exhibit plateauing performance on conventional benchmarks, a pivotal challenge persists: evaluating their proficiency in complex, open-ended tasks characterizing genuin",
+        "published": "2026-03-26T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 0,
+        "is_new": true
       },
       {
         "id": "47f2220795d5690694e1e6c968d1fd24",
