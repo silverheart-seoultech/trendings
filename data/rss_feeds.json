@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-06T17:04:12.297373+00:00",
-  "total_entries": 110,
-  "new_entries": 11,
+  "last_updated": "2026-04-06T18:03:22.823272+00:00",
+  "total_entries": 108,
+  "new_entries": 12,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -48,18 +48,6 @@
   ],
   "entries": [
     {
-      "id": "c38b9a2096a383cc25cf9a6dc2e09acb",
-      "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
-      "url": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
-      "description": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices.",
-      "published": "Wed, 01 Apr 2026 22:12:13 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "043898ae58668aaa89909ef84b650b78",
       "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
       "url": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
@@ -77,18 +65,6 @@
       "url": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
       "description": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
       "published": "Thu, 02 Apr 2026 16:48:16 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "11d321b4b4568f4bf38a63c1a9a1ff56",
-      "title": "Google now lets you direct avatars through prompts in its Vids app",
-      "url": "https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/",
-      "description": "Google is adding a way to customize and instruct avatars for video creation in the Vids app.",
-      "published": "Thu, 02 Apr 2026 16:00:00 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
@@ -782,6 +758,18 @@
       "is_new": true
     },
     {
+      "id": "315d5d64ac968df6be1e50bfc6b9b7ea",
+      "title": "Grammarly’s sloppelganger saga",
+      "url": "https://www.theverge.com/column/906606/grammarly-expert-review-ai-saga",
+      "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the ups and downs of AI, follow Stevie Bonifield. The Stepback arrives in our subscribers'",
+      "published": "2026-04-06T13:06:53-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": false
+    },
+    {
       "id": "3d37ba82edc04d49176c9aaf82edbada",
       "title": "Iran threatens OpenAI’s Stargate data center in Abu Dhabi",
       "url": "https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat",
@@ -830,7 +818,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 4,
-      "comments": 3,
+      "comments": 4,
       "is_new": false
     },
     {
@@ -1088,18 +1076,6 @@
       "is_new": false
     },
     {
-      "id": "315d5d64ac968df6be1e50bfc6b9b7ea",
-      "title": "Grammarly’s sloppelganger saga",
-      "url": "https://www.theverge.com/column/906606/grammarly-expert-review-ai-saga",
-      "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the ups and downs of AI, follow Stevie Bonifield. The Stepback arrives in our subscribers'",
-      "published": "2026-04-03T11:10:17-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "8ffc9734d668915d314520037967311d",
       "title": "Apple’s best product ever",
       "url": "https://www.theverge.com/podcast/906548/best-apple-product-vergecast",
@@ -1189,7 +1165,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 40,
+      "likes": 49,
       "is_new": false
     },
     {
@@ -1202,7 +1178,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 18,
+      "likes": 20,
       "is_new": false
     },
     {
@@ -1259,6 +1235,19 @@
       "is_new": false
     },
     {
+      "id": "45c3fa762ec8e399c168b3aa474d815a",
+      "title": "VLMs Need Words: Vision Language Models Ignore Visual Detail In Favor of Semantic Anchors",
+      "url": "https://huggingface.co/papers/2604.02486",
+      "description": "Vision Language Models (VLMs) achieve impressive performance across a wide range of multimodal tasks. However, on some tasks that demand fine-grained visual perception, they often fail even when the r",
+      "published": "2026-04-01T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "dea6946dbecba5dab489a02ea6ec144c",
       "title": "Swift-SVD: Theoretical Optimality Meets Practical Efficiency in Low-Rank LLM Compression",
       "url": "https://huggingface.co/papers/2604.01609",
@@ -1296,22 +1285,23 @@
       "category": "research",
       "likes": 42,
       "is_new": false
+    },
+    {
+      "id": "43cd893e3cca9f8982cfef29c28bda21",
+      "title": "Test-Time Scaling Makes Overtraining Compute-Optimal",
+      "url": "https://huggingface.co/papers/2604.01411",
+      "description": "Modern LLMs scale at test-time, e.g. via repeated sampling, where inference cost grows with model size and the number of samples. This creates a trade-off that pretraining scaling laws, such as Chinch",
+      "published": "2026-03-31T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 11,
+      "is_new": true
     }
   ],
   "by_category": {
     "news": [
-      {
-        "id": "c38b9a2096a383cc25cf9a6dc2e09acb",
-        "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
-        "url": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
-        "description": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices.",
-        "published": "Wed, 01 Apr 2026 22:12:13 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
       {
         "id": "043898ae58668aaa89909ef84b650b78",
         "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
@@ -1330,18 +1320,6 @@
         "url": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
         "description": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
         "published": "Thu, 02 Apr 2026 16:48:16 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "11d321b4b4568f4bf38a63c1a9a1ff56",
-        "title": "Google now lets you direct avatars through prompts in its Vids app",
-        "url": "https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/",
-        "description": "Google is adding a way to customize and instruct avatars for video creation in the Vids app.",
-        "published": "Thu, 02 Apr 2026 16:00:00 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
@@ -1555,6 +1533,18 @@
         "is_new": true
       },
       {
+        "id": "315d5d64ac968df6be1e50bfc6b9b7ea",
+        "title": "Grammarly’s sloppelganger saga",
+        "url": "https://www.theverge.com/column/906606/grammarly-expert-review-ai-saga",
+        "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the ups and downs of AI, follow Stevie Bonifield. The Stepback arrives in our subscribers'",
+        "published": "2026-04-06T13:06:53-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
         "id": "3d37ba82edc04d49176c9aaf82edbada",
         "title": "Iran threatens OpenAI’s Stargate data center in Abu Dhabi",
         "url": "https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat",
@@ -1603,7 +1593,7 @@
         "source_icon": "🟧",
         "category": "news",
         "points": 4,
-        "comments": 3,
+        "comments": 4,
         "is_new": false
       },
       {
@@ -1671,6 +1661,20 @@
         "source_icon": "🟧",
         "category": "news",
         "points": 3,
+        "comments": 0,
+        "is_new": false
+      },
+      {
+        "id": "47640770",
+        "title": "Show HN: DocMason – Agent Knowledge Base for local complex office files",
+        "url": "https://github.com/jetxu-llm/docmason",
+        "description": "",
+        "published": "2026-04-04T16:49:32Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 11,
         "comments": 0,
         "is_new": false
       }
