@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-07T15:41:53.976532+00:00",
+  "last_updated": "2026-04-07T17:14:57.991373+00:00",
   "total_entries": 110,
-  "new_entries": 7,
+  "new_entries": 17,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -48,6 +48,30 @@
   ],
   "entries": [
     {
+      "id": "0439b4852718305370811c960b12bf01",
+      "title": "Uber is the latest to be won over by Amazon’s AI chips",
+      "url": "https://techcrunch.com/2026/04/07/uber-is-the-latest-to-be-won-over-by-amazons-ai-chips/",
+      "description": "Uber is expanding its AWS contract to run more of its ride-sharing features on Amazon's chips. This is a thumb-of-the nose at Oracle and Google.",
+      "published": "Tue, 07 Apr 2026 16:46:59 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "eb413fa818d5368f5fb036ab1fd46fed",
+      "title": "Anthropic ups compute deal with Google and Broadcom amid skyrocketing demand",
+      "url": "https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/",
+      "description": "Anthropic bulked up its compute deal with Google and Broadcom as the company has seen its run-rate revenue surge to $30 billion.",
+      "published": "Tue, 07 Apr 2026 16:05:56 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "11344deadfde329ec2db0d18b8598b82",
       "title": "Google Maps can now write captions for your photos using AI",
       "url": "https://techcrunch.com/2026/04/07/google-maps-can-now-write-captions-for-your-photos-using-ai/",
@@ -63,7 +87,7 @@
       "id": "f7461835dbe5a3440b29a8b3dd03b994",
       "title": "4 days left to save close to $500 on TechCrunch Disrupt 2026 passes",
       "url": "https://techcrunch.com/2026/04/07/4-days-left-to-save-close-to-500-on-techcrunch-disrupt-2026-passes/",
-      "description": "4 days left to save up to $482 on your TechCrunch disrupt 2026 ticket. These low rates will disappear on April 10 at 11:59 p.m. PT. Register here.",
+      "description": "Four days left to save up to $482 on your TechCrunch Disrupt 2026 ticket. These low rates will disappear on April 10 at 11:59 p.m. PT. Register now.",
       "published": "Tue, 07 Apr 2026 14:00:00 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
@@ -744,28 +768,74 @@
       "is_new": false
     },
     {
-      "id": "ae45489aceb72474d6b4056579ebe69b",
-      "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
-      "url": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
-      "description": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer.",
-      "published": "Fri, 03 Apr 2026 20:28:40 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
+      "id": "47678328",
+      "title": "Show HN: Front end-VisualQA, give coding agents eyes to verify their own UI work",
+      "url": "https://github.com/yutori-ai/frontend-visualqa",
+      "description": "",
+      "published": "2026-04-07T17:06:03Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
       "category": "news",
-      "is_new": false
+      "points": 2,
+      "comments": 0,
+      "is_new": true
     },
     {
-      "id": "6dd22ac30e6b34ad6c118794e5b52812",
-      "title": "Anthropic ramps up its political activities with a new PAC",
-      "url": "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/",
-      "description": "With the midterms right around the corner, the new group is positioned to back candidates who support the AI company's policy agenda.",
-      "published": "Fri, 03 Apr 2026 20:22:18 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
+      "id": "47678048",
+      "title": "Show HN: I built a database for AI agents",
+      "url": "https://github.com/DinobaseHQ/dinobase",
+      "description": "",
+      "published": "2026-04-07T16:43:51Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
       "category": "news",
-      "is_new": false
+      "points": 6,
+      "comments": 6,
+      "is_new": true
+    },
+    {
+      "id": "47677583",
+      "title": "Show HN: Build queryable packs for AI agents from videos, podcasts, and files",
+      "url": "https://github.com/buralog/beyin",
+      "description": "",
+      "published": "2026-04-07T16:15:33Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "47677256",
+      "title": "AI Agent Guardrails: Pre-LLM and Post-LLM Best Practices",
+      "url": "https://www.arthur.ai/blog/best-practices-for-building-agents-guardrails",
+      "description": "",
+      "published": "2026-04-07T15:55:10Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "47677184",
+      "title": "Ask HN: Why isn't Anthropic eating their own dogfood? A Max subscriber's view",
+      "url": "https://news.ycombinator.com/item?id=47677184",
+      "description": "",
+      "published": "2026-04-07T15:50:18Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 2,
+      "is_new": true
     },
     {
       "id": "47676736",
@@ -778,7 +848,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 3,
-      "comments": 0,
+      "comments": 1,
       "is_new": true
     },
     {
@@ -793,6 +863,30 @@
       "category": "news",
       "points": 1,
       "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "a9b4204db23011a5c25ee5fd8e206d80",
+      "title": "Suno and major music labels reportedly clash over AI music sharing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/908119/suno-sony-universal-music-ai-disagreement",
+      "description": "The AI-powered musicmaker Suno is struggling to reach licensing deals with Universal Music Group and Sony Music Entertainment. That's according to a report from the Financial Times, which says both si",
+      "published": "2026-04-07T12:23:43-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "f54224b233017ac6945390e6f8477b98",
+      "title": "Intel will help build Elon Musk’s Terafab AI chip factory",
+      "url": "https://www.theverge.com/transportation/907976/elon-musk-terafab-intel-ai-chip-spacex-tesla",
+      "description": "Elon Musk's Terafab AI chip project in Austin, Texas, is gaining a crucial new partner: Intel. On Tuesday, the American chipmaker announced it was signing on to help design and build the sprawling fac",
+      "published": "2026-04-07T11:44:06-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
       "is_new": true
     },
     {
@@ -908,7 +1002,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 9,
-      "comments": 4,
+      "comments": 3,
       "is_new": false
     },
     {
@@ -921,7 +1015,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 4,
       "is_new": true
     },
     {
@@ -986,20 +1080,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
-      "is_new": false
-    },
-    {
-      "id": "db48945216260deb917e3a58f3cc5a41",
-      "title": "HDP: A Lightweight Cryptographic Protocol for Human Delegation Provenance in Agentic AI Systems",
-      "url": "https://huggingface.co/papers/2604.04522",
-      "description": "Agentic AI systems increasingly execute consequential actions on behalf of human principals, delegating tasks through multi-step chains of autonomous agents. No existing standard addresses a fundament",
-      "published": "2026-04-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
+      "likes": 5,
       "is_new": false
     },
     {
@@ -1027,7 +1108,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 9,
-      "comments": 5,
+      "comments": 4,
       "is_new": false
     },
     {
@@ -1179,60 +1260,6 @@
       "is_new": false
     },
     {
-      "id": "47638329",
-      "title": "LLMs audit code from the same blind spot they wrote it from. Here's the fix",
-      "url": "https://news.ycombinator.com/item?id=47638329",
-      "description": "",
-      "published": "2026-04-04T12:08:16Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 3,
-      "comments": 4,
-      "is_new": false
-    },
-    {
-      "id": "47634733",
-      "title": "Scaling tool orchestration data will emerge different intelligence and LLMs",
-      "url": "https://news.ycombinator.com/item?id=47634733",
-      "description": "",
-      "published": "2026-04-04T01:42:03Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "47632530",
-      "title": "Show HN: AI agent skills for affiliate marketing (Markdown, works with any LLM)",
-      "url": "https://github.com/Affitor/affiliate-skills",
-      "description": "",
-      "published": "2026-04-03T21:28:34Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 3,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "1355bfc8610e5bebb54dec8c027e1921",
-      "title": "Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban",
-      "description": "Using OpenClaw with Claude AI is about to get a lot more expensive, thanks to Anthropic's new policy changes. Beginning April 4th at 3PM ET, users will \"no longer be able to use your Claude subscripti",
-      "published": "2026-04-03T20:14:00-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "1b6d73df5afd1c111959a3f930e96f14",
       "title": "POEMetric: The Last Stanza of Humanity",
       "url": "https://huggingface.co/papers/2604.03695",
@@ -1259,20 +1286,6 @@
       "is_new": false
     },
     {
-      "id": "47631079",
-      "title": "Show HN: A memory layer for AI agents that organizes itself",
-      "url": "https://news.ycombinator.com/item?id=47631079",
-      "description": "",
-      "published": "2026-04-03T19:31:28Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 3,
-      "comments": 0,
-      "is_new": false
-    },
-    {
       "id": "a8569d17ce373355f30e6797fadbced1",
       "title": "I let Gemini in Google Maps plan my day and it went surprisingly well",
       "url": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on",
@@ -1283,22 +1296,34 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
-    },
-    {
-      "id": "38ba1e9d35fa768c7b67b2b59f4eaa4c",
-      "title": "OpenAI’s AGI boss is taking a leave of absence",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence",
-      "description": "OpenAI is undergoing another round of C-suite changes, according to an internal memo viewed by The Verge. Fidji Simo, OpenAI's CEO of AGI deployment - who was until recently the company's CEO of appli",
-      "published": "2026-04-03T18:55:16-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
     }
   ],
   "by_category": {
     "news": [
+      {
+        "id": "0439b4852718305370811c960b12bf01",
+        "title": "Uber is the latest to be won over by Amazon’s AI chips",
+        "url": "https://techcrunch.com/2026/04/07/uber-is-the-latest-to-be-won-over-by-amazons-ai-chips/",
+        "description": "Uber is expanding its AWS contract to run more of its ride-sharing features on Amazon's chips. This is a thumb-of-the nose at Oracle and Google.",
+        "published": "Tue, 07 Apr 2026 16:46:59 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "eb413fa818d5368f5fb036ab1fd46fed",
+        "title": "Anthropic ups compute deal with Google and Broadcom amid skyrocketing demand",
+        "url": "https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/",
+        "description": "Anthropic bulked up its compute deal with Google and Broadcom as the company has seen its run-rate revenue surge to $30 billion.",
+        "published": "Tue, 07 Apr 2026 16:05:56 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "11344deadfde329ec2db0d18b8598b82",
         "title": "Google Maps can now write captions for your photos using AI",
@@ -1315,7 +1340,7 @@
         "id": "f7461835dbe5a3440b29a8b3dd03b994",
         "title": "4 days left to save close to $500 on TechCrunch Disrupt 2026 passes",
         "url": "https://techcrunch.com/2026/04/07/4-days-left-to-save-close-to-500-on-techcrunch-disrupt-2026-passes/",
-        "description": "4 days left to save up to $482 on your TechCrunch disrupt 2026 ticket. These low rates will disappear on April 10 at 11:59 p.m. PT. Register here.",
+        "description": "Four days left to save up to $482 on your TechCrunch Disrupt 2026 ticket. These low rates will disappear on April 10 at 11:59 p.m. PT. Register now.",
         "published": "Tue, 07 Apr 2026 14:00:00 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
@@ -1516,28 +1541,74 @@
         "is_new": false
       },
       {
-        "id": "ae45489aceb72474d6b4056579ebe69b",
-        "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
-        "url": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
-        "description": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer.",
-        "published": "Fri, 03 Apr 2026 20:28:40 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
+        "id": "47678328",
+        "title": "Show HN: Front end-VisualQA, give coding agents eyes to verify their own UI work",
+        "url": "https://github.com/yutori-ai/frontend-visualqa",
+        "description": "",
+        "published": "2026-04-07T17:06:03Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
         "category": "news",
-        "is_new": false
+        "points": 2,
+        "comments": 0,
+        "is_new": true
       },
       {
-        "id": "6dd22ac30e6b34ad6c118794e5b52812",
-        "title": "Anthropic ramps up its political activities with a new PAC",
-        "url": "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/",
-        "description": "With the midterms right around the corner, the new group is positioned to back candidates who support the AI company's policy agenda.",
-        "published": "Fri, 03 Apr 2026 20:22:18 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
+        "id": "47678048",
+        "title": "Show HN: I built a database for AI agents",
+        "url": "https://github.com/DinobaseHQ/dinobase",
+        "description": "",
+        "published": "2026-04-07T16:43:51Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
         "category": "news",
-        "is_new": false
+        "points": 6,
+        "comments": 6,
+        "is_new": true
+      },
+      {
+        "id": "47677583",
+        "title": "Show HN: Build queryable packs for AI agents from videos, podcasts, and files",
+        "url": "https://github.com/buralog/beyin",
+        "description": "",
+        "published": "2026-04-07T16:15:33Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 1,
+        "comments": 0,
+        "is_new": true
+      },
+      {
+        "id": "47677256",
+        "title": "AI Agent Guardrails: Pre-LLM and Post-LLM Best Practices",
+        "url": "https://www.arthur.ai/blog/best-practices-for-building-agents-guardrails",
+        "description": "",
+        "published": "2026-04-07T15:55:10Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 1,
+        "comments": 0,
+        "is_new": true
+      },
+      {
+        "id": "47677184",
+        "title": "Ask HN: Why isn't Anthropic eating their own dogfood? A Max subscriber's view",
+        "url": "https://news.ycombinator.com/item?id=47677184",
+        "description": "",
+        "published": "2026-04-07T15:50:18Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 2,
+        "comments": 2,
+        "is_new": true
       },
       {
         "id": "47676736",
@@ -1550,7 +1621,7 @@
         "source_icon": "🟧",
         "category": "news",
         "points": 3,
-        "comments": 0,
+        "comments": 1,
         "is_new": true
       },
       {
@@ -1568,6 +1639,30 @@
         "is_new": true
       },
       {
+        "id": "a9b4204db23011a5c25ee5fd8e206d80",
+        "title": "Suno and major music labels reportedly clash over AI music sharing",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/908119/suno-sony-universal-music-ai-disagreement",
+        "description": "The AI-powered musicmaker Suno is struggling to reach licensing deals with Universal Music Group and Sony Music Entertainment. That's according to a report from the Financial Times, which says both si",
+        "published": "2026-04-07T12:23:43-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "f54224b233017ac6945390e6f8477b98",
+        "title": "Intel will help build Elon Musk’s Terafab AI chip factory",
+        "url": "https://www.theverge.com/transportation/907976/elon-musk-terafab-intel-ai-chip-spacex-tesla",
+        "description": "Elon Musk's Terafab AI chip project in Austin, Texas, is gaining a crucial new partner: Intel. On Tuesday, the American chipmaker announced it was signing on to help design and build the sprawling fac",
+        "published": "2026-04-07T11:44:06-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "47672458",
         "title": "Show HN: Secure SDLC Agents for Claude and Cursor (MCP)",
         "url": "https://github.com/Kaademos/secure-sdlc-agents",
@@ -1579,94 +1674,6 @@
         "category": "news",
         "points": 1,
         "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "ac248289876285ca132f9fd42667236f",
-        "title": "Gemini is making it faster for distressed users to reach mental health resources",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/907842/google-gemini-mental-health-interface-update",
-        "description": "Google says it has updated Gemini to better direct users to get mental health resources during moments of crisis. The change comes as the tech giant faces a wrongful death lawsuit alleging its chatbot",
-        "published": "2026-04-07T06:09:57-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "47668118",
-        "title": "Show HN: ACP – Governance for AI Coding Agents (Claude Code, OpenClaw)",
-        "url": "https://agenticcontrolplane.com/",
-        "description": "",
-        "published": "2026-04-06T22:22:56Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 1,
-        "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "47661938",
-        "title": "Show HN: TUI Settlers of Catan built with Llamafile and Bonsai PrismML Models",
-        "url": "https://github.com/mozilla-ai/settl",
-        "description": "",
-        "published": "2026-04-06T15:08:45Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 1,
-        "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "492ada7284e1f5d65bf9b5887f72ce01",
-        "title": "Really, you made this without AI? Prove it",
-        "url": "https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content",
-        "description": "\"This looks like AI.\" It's a phrase I dread seeing as a writer who dabbles in illustration and amateur photography. In a world where generative AI technology is increasingly adept at mimicking the wor",
-        "published": "2026-04-06T14:38:16-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "3d37ba82edc04d49176c9aaf82edbada",
-        "title": "Iran threatens OpenAI’s Stargate data center in Abu Dhabi",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat",
-        "description": "Iran's Islamic Revolutionary Guard Corps (IRGC) has published a video threatening OpenAI's planned Abu Dhabi data center if the US follows through on threats to attack the country's power plants, as r",
-        "published": "2026-04-06T14:14:52-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "315d5d64ac968df6be1e50bfc6b9b7ea",
-        "title": "Grammarly’s sloppelganger saga",
-        "url": "https://www.theverge.com/column/906606/grammarly-expert-review-ai-saga",
-        "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the ups and downs of AI, follow Stevie Bonifield. The Stepback arrives in our subscribers'",
-        "published": "2026-04-06T13:06:53-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "5ec53940028dc6b21ff533f40d1bdf21",
-        "title": "Cisco CEO Chuck Robbins wants data centers in space",
-        "url": "https://www.theverge.com/podcast/906727/cisco-ceo-chuck-robbins-data-centers-space-ai-elon-musk-interview",
-        "description": "Today, I’m talking with Chuck Robbins, CEO of Cisco. Cisco is one of those big companies that everyone has heard of but that most of us don’t have to interact with very much; it’s not really a consume",
-        "published": "2026-04-06T11:25:48-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
         "is_new": false
       }
     ],
