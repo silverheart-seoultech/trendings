@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-07T19:20:33.734402+00:00",
+  "last_updated": "2026-04-07T21:02:07.851352+00:00",
   "total_entries": 110,
-  "new_entries": 0,
+  "new_entries": 3,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -49,7 +49,7 @@
   "entries": [
     {
       "id": "1cbdc947d41e04b45c09557161789084",
-      "title": "Firmus, the ‘Southgate’ AI datacenter builder backed by Nvidia, hits $5.5B valuation",
+      "title": "Firmus, the ‘Southgate’ AI data center builder backed by Nvidia, hits $5.5B valuation",
       "url": "https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/",
       "description": "Nvidia-backed Asia AI data center provider Firmus has now raised $1.35 billion in six months.",
       "published": "Tue, 07 Apr 2026 18:46:55 +0000",
@@ -768,8 +768,22 @@
       "is_new": false
     },
     {
+      "id": "47680184",
+      "title": "Show HN: I built an AI coding agent 50% cheaper than Claude Code (same prompts)",
+      "url": "https://github.com/kirby88/vix-releases",
+      "description": "",
+      "published": "2026-04-07T19:28:28Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "47678844",
-      "title": "Show HN: Marimo pair – reactive Python notebooks as environments for agents",
+      "title": "Show HN: Marimo pair – Reactive Python notebooks as environments for agents",
       "url": "https://github.com/marimo-team/marimo-pair",
       "description": "",
       "published": "2026-04-07T17:47:46Z",
@@ -777,8 +791,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 16,
-      "comments": 0,
+      "points": 19,
+      "comments": 1,
       "is_new": false
     },
     {
@@ -805,8 +819,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 9,
-      "comments": 8,
+      "points": 11,
+      "comments": 9,
       "is_new": false
     },
     {
@@ -822,6 +836,18 @@
       "points": 1,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "7103413ac37cd1fa0ab067ba6c70b04b",
+      "title": "Spotify&#8217;s Prompted Playlists can help you find new podcasts to listen to",
+      "url": "https://www.theverge.com/entertainment/908339/spotify-prompted-playlists-podcasts",
+      "description": "On Tuesday, Spotify expanded its Prompted Playlists feature to include podcasts, an update that could make it easier for Premium users to find new shows to listen to. Prompted Playlists were originall",
+      "published": "2026-04-07T16:13:23-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "47677256",
@@ -861,7 +887,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 3,
+      "points": 4,
       "comments": 2,
       "is_new": false
     },
@@ -1095,7 +1121,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 11,
+      "likes": 13,
       "is_new": false
     },
     {
@@ -1179,19 +1205,6 @@
       "is_new": false
     },
     {
-      "id": "644f2ed43d94a4ae9fc8962c8ea0a853",
-      "title": "Can LLMs Learn to Reason Robustly under Noisy Supervision?",
-      "url": "https://huggingface.co/papers/2604.03993",
-      "description": "Reinforcement Learning with Verifiable Rewards (RLVR) effectively trains reasoning models that rely on abundant perfect labels, but its vulnerability to unavoidable noisy labels due to expert scarcity",
-      "published": "2026-04-04T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 9,
-      "is_new": false
-    },
-    {
       "id": "47642344",
       "title": "it's not Ai if the LLM is not in control",
       "url": "https://news.ycombinator.com/item?id=47642344",
@@ -1234,32 +1247,6 @@
       "is_new": false
     },
     {
-      "id": "47639907",
-      "title": "Reasoning.json – DKIM for AI Agents (Ed25519-Signed Brand Context for LLMs)",
-      "url": "https://github.com/SaschaDeforth/arp-protocol",
-      "description": "",
-      "published": "2026-04-04T15:32:11Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "1219c4bc9223a6a3869d6e6f1012cef9",
-      "title": "A folk musician became a target for AI fakes and a copyright troll",
-      "url": "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright",
-      "description": "In January, folk artist Murphy Campbell discovered several songs on her Spotify profile that did not belong there. They were songs that she had recorded, but she'd never uploaded them to Spotify, and",
-      "published": "2026-04-04T13:57:12-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "1b6d73df5afd1c111959a3f930e96f14",
       "title": "POEMetric: The Last Stanza of Humanity",
       "url": "https://huggingface.co/papers/2604.03695",
@@ -1296,13 +1283,26 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "34179233f76b54b63f780186656855d0",
+      "title": "Do Audio-Visual Large Language Models Really See and Hear?",
+      "url": "https://huggingface.co/papers/2604.02605",
+      "description": "Audio-Visual Large Language Models (AVLLMs) are emerging as unified interfaces to multimodal perception. We present the first mechanistic interpretability study of AVLLMs, analyzing how audio and visu",
+      "published": "2026-04-02T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": false
     }
   ],
   "by_category": {
     "news": [
       {
         "id": "1cbdc947d41e04b45c09557161789084",
-        "title": "Firmus, the ‘Southgate’ AI datacenter builder backed by Nvidia, hits $5.5B valuation",
+        "title": "Firmus, the ‘Southgate’ AI data center builder backed by Nvidia, hits $5.5B valuation",
         "url": "https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/",
         "description": "Nvidia-backed Asia AI data center provider Firmus has now raised $1.35 billion in six months.",
         "published": "Tue, 07 Apr 2026 18:46:55 +0000",
@@ -1541,8 +1541,22 @@
         "is_new": false
       },
       {
+        "id": "47680184",
+        "title": "Show HN: I built an AI coding agent 50% cheaper than Claude Code (same prompts)",
+        "url": "https://github.com/kirby88/vix-releases",
+        "description": "",
+        "published": "2026-04-07T19:28:28Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 2,
+        "comments": 0,
+        "is_new": true
+      },
+      {
         "id": "47678844",
-        "title": "Show HN: Marimo pair – reactive Python notebooks as environments for agents",
+        "title": "Show HN: Marimo pair – Reactive Python notebooks as environments for agents",
         "url": "https://github.com/marimo-team/marimo-pair",
         "description": "",
         "published": "2026-04-07T17:47:46Z",
@@ -1550,8 +1564,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 16,
-        "comments": 0,
+        "points": 19,
+        "comments": 1,
         "is_new": false
       },
       {
@@ -1578,8 +1592,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 9,
-        "comments": 8,
+        "points": 11,
+        "comments": 9,
         "is_new": false
       },
       {
@@ -1595,6 +1609,18 @@
         "points": 1,
         "comments": 0,
         "is_new": false
+      },
+      {
+        "id": "7103413ac37cd1fa0ab067ba6c70b04b",
+        "title": "Spotify&#8217;s Prompted Playlists can help you find new podcasts to listen to",
+        "url": "https://www.theverge.com/entertainment/908339/spotify-prompted-playlists-podcasts",
+        "description": "On Tuesday, Spotify expanded its Prompted Playlists feature to include podcasts, an update that could make it easier for Premium users to find new shows to listen to. Prompted Playlists were originall",
+        "published": "2026-04-07T16:13:23-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
       },
       {
         "id": "47677256",
@@ -1634,7 +1660,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 3,
+        "points": 4,
         "comments": 2,
         "is_new": false
       },
@@ -1649,32 +1675,6 @@
         "source_icon": "🟧",
         "category": "news",
         "points": 1,
-        "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "ca927685146d359d5f0397d6585b0026",
-        "title": "A new Anthropic model found security problems &#8216;in every major operating system and web browser&#8217;",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity",
-        "description": "Anthropic is debuting a new AI model as part of a cybersecurity partnership with Nvidia, Google, Amazon Web Services, Apple, Microsoft, and other companies. Project Glasswing, as it's called, is bille",
-        "published": "2026-04-07T14:16:03-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "47674606",
-        "title": "Show HN: Unicode Steganography",
-        "url": "https://steganography.patrickvuscan.com",
-        "description": "",
-        "published": "2026-04-07T12:57:25Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 2,
         "comments": 0,
         "is_new": false
       }
