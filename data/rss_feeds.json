@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-07T13:59:19.645592+00:00",
+  "last_updated": "2026-04-07T15:41:53.976532+00:00",
   "total_entries": 110,
-  "new_entries": 0,
+  "new_entries": 7,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,6 +47,30 @@
     }
   ],
   "entries": [
+    {
+      "id": "11344deadfde329ec2db0d18b8598b82",
+      "title": "Google Maps can now write captions for your photos using AI",
+      "url": "https://techcrunch.com/2026/04/07/google-maps-can-now-write-captions-for-your-photos-using-ai/",
+      "description": "Gemini can now create captions when users are looking to share a photo or video.",
+      "published": "Tue, 07 Apr 2026 15:30:00 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "f7461835dbe5a3440b29a8b3dd03b994",
+      "title": "4 days left to save close to $500 on TechCrunch Disrupt 2026 passes",
+      "url": "https://techcrunch.com/2026/04/07/4-days-left-to-save-close-to-500-on-techcrunch-disrupt-2026-passes/",
+      "description": "4 days left to save up to $482 on your TechCrunch disrupt 2026 ticket. These low rates will disappear on April 10 at 11:59 p.m. PT. Register here.",
+      "published": "Tue, 07 Apr 2026 14:00:00 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "cbb7a2708c83b66a18b3f7cb1dce5943",
       "title": "The AI gold rush is pulling private wealth into riskier, earlier bets",
@@ -744,28 +768,32 @@
       "is_new": false
     },
     {
-      "id": "aaa2e8ff2ea81bab17013f9d77df9282",
-      "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
-      "url": "https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/",
-      "description": "Meta, Microsoft, and Google are all betting big on new natural gas power plants to run their AI data centers. They may regret it.",
-      "published": "Fri, 03 Apr 2026 19:48:22 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
+      "id": "47676736",
+      "title": "I don't want an autonomous AI agent. I want a collaborator",
+      "url": "https://news.ycombinator.com/item?id=47676736",
+      "description": "",
+      "published": "2026-04-07T15:19:25Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
       "category": "news",
-      "is_new": false
+      "points": 3,
+      "comments": 0,
+      "is_new": true
     },
     {
-      "id": "5eed4ea5685c13dfa4820af37c671253",
-      "title": "People would rather have an Amazon warehouse in their backyard than a data center",
-      "url": "https://techcrunch.com/2026/04/03/people-would-rather-have-an-amazon-warehouse-in-their-backyard-than-a-data-center/",
-      "description": "A new poll shows that the debate over data centers is far from settled.",
-      "published": "Fri, 03 Apr 2026 19:20:36 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
+      "id": "47676264",
+      "title": "Show HN: OneManCompany The first AI company with real corporate org structure",
+      "url": "https://one-man-company.com/",
+      "description": "",
+      "published": "2026-04-07T14:46:18Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
       "category": "news",
-      "is_new": false
+      "points": 1,
+      "comments": 0,
+      "is_new": true
     },
     {
       "id": "47672458",
@@ -884,6 +912,32 @@
       "is_new": false
     },
     {
+      "id": "1a8c4fd368b8932f263fb04bee8fcfc4",
+      "title": "Synthetic Sandbox for Training Machine Learning Engineering Agents",
+      "url": "https://huggingface.co/papers/2604.04872",
+      "description": "As large language model agents advance beyond software engineering (SWE) tasks toward machine learning engineering (MLE), verifying agent behavior becomes orders of magnitude more expensive: while SWE",
+      "published": "2026-04-05T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "c465c3b923562fcff24d41bac63d0614",
+      "title": "Cog-DRIFT: Exploration on Adaptively Reformulated Instances Enables Learning from Hard Reasoning Problems",
+      "url": "https://huggingface.co/papers/2604.04767",
+      "description": "Reinforcement learning from verifiable rewards (RLVR) has improved the reasoning abilities of LLMs, yet a fundamental limitation remains: models cannot learn from problems that are too difficult to so",
+      "published": "2026-04-05T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "16bfd559bff91ee35207a8f33d30014f",
       "title": "Paper Espresso: From Paper Overload to Research Insight",
       "url": "https://huggingface.co/papers/2604.04562",
@@ -919,7 +973,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 10,
       "is_new": false
     },
     {
@@ -932,7 +986,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -946,32 +1000,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "f938582151aba6e9a82b8888aae76142",
-      "title": "OpenWorldLib: A Unified Codebase and Definition of Advanced World Models",
-      "url": "https://huggingface.co/papers/2604.04707",
-      "description": "World models have garnered significant attention as a promising research direction in artificial intelligence, yet a clear and unified definition remains lacking. In this paper, we introduce OpenWorld",
-      "published": "2026-04-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 142,
-      "is_new": false
-    },
-    {
-      "id": "021f636e075a3735689fa89bcb674178",
-      "title": "FileGram: Grounding Agent Personalization in File-System Behavioral Traces",
-      "url": "https://huggingface.co/papers/2604.04901",
-      "description": "Coworking AI agents operating within local file systems are rapidly emerging as a paradigm in human-AI interaction; however, effective personalization remains limited by severe data constraints, as st",
-      "published": "2026-04-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 24,
       "is_new": false
     },
     {
@@ -1038,7 +1066,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -1051,7 +1079,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 8,
       "is_new": false
     },
     {
@@ -1231,19 +1259,6 @@
       "is_new": false
     },
     {
-      "id": "cc87327115803370b1f615081a32418a",
-      "title": "LightThinker++: From Reasoning Compression to Memory Management",
-      "url": "https://huggingface.co/papers/2604.03679",
-      "description": "Large language models (LLMs) excel at complex reasoning, yet their efficiency is limited by the surging cognitive overhead of long thought traces. In this paper, we propose LightThinker, a method that",
-      "published": "2026-04-03T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 22,
-      "is_new": false
-    },
-    {
       "id": "47631079",
       "title": "Show HN: A memory layer for AI agents that organizes itself",
       "url": "https://news.ycombinator.com/item?id=47631079",
@@ -1280,24 +1295,34 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
-    },
-    {
-      "id": "47622878",
-      "title": "Show HN: Ubik – Analyze local files like NotebookLM, with Cursor-like power",
-      "url": "https://www.ubik.studio/features",
-      "description": "",
-      "published": "2026-04-03T03:27:16Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 1,
-      "comments": 0,
-      "is_new": false
     }
   ],
   "by_category": {
     "news": [
+      {
+        "id": "11344deadfde329ec2db0d18b8598b82",
+        "title": "Google Maps can now write captions for your photos using AI",
+        "url": "https://techcrunch.com/2026/04/07/google-maps-can-now-write-captions-for-your-photos-using-ai/",
+        "description": "Gemini can now create captions when users are looking to share a photo or video.",
+        "published": "Tue, 07 Apr 2026 15:30:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "f7461835dbe5a3440b29a8b3dd03b994",
+        "title": "4 days left to save close to $500 on TechCrunch Disrupt 2026 passes",
+        "url": "https://techcrunch.com/2026/04/07/4-days-left-to-save-close-to-500-on-techcrunch-disrupt-2026-passes/",
+        "description": "4 days left to save up to $482 on your TechCrunch disrupt 2026 ticket. These low rates will disappear on April 10 at 11:59 p.m. PT. Register here.",
+        "published": "Tue, 07 Apr 2026 14:00:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "cbb7a2708c83b66a18b3f7cb1dce5943",
         "title": "The AI gold rush is pulling private wealth into riskier, earlier bets",
@@ -1515,28 +1540,32 @@
         "is_new": false
       },
       {
-        "id": "aaa2e8ff2ea81bab17013f9d77df9282",
-        "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
-        "url": "https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/",
-        "description": "Meta, Microsoft, and Google are all betting big on new natural gas power plants to run their AI data centers. They may regret it.",
-        "published": "Fri, 03 Apr 2026 19:48:22 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
+        "id": "47676736",
+        "title": "I don't want an autonomous AI agent. I want a collaborator",
+        "url": "https://news.ycombinator.com/item?id=47676736",
+        "description": "",
+        "published": "2026-04-07T15:19:25Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
         "category": "news",
-        "is_new": false
+        "points": 3,
+        "comments": 0,
+        "is_new": true
       },
       {
-        "id": "5eed4ea5685c13dfa4820af37c671253",
-        "title": "People would rather have an Amazon warehouse in their backyard than a data center",
-        "url": "https://techcrunch.com/2026/04/03/people-would-rather-have-an-amazon-warehouse-in-their-backyard-than-a-data-center/",
-        "description": "A new poll shows that the debate over data centers is far from settled.",
-        "published": "Fri, 03 Apr 2026 19:20:36 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
+        "id": "47676264",
+        "title": "Show HN: OneManCompany The first AI company with real corporate org structure",
+        "url": "https://one-man-company.com/",
+        "description": "",
+        "published": "2026-04-07T14:46:18Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
         "category": "news",
-        "is_new": false
+        "points": 1,
+        "comments": 0,
+        "is_new": true
       },
       {
         "id": "47672458",
@@ -1638,34 +1667,6 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "47654123",
-        "title": "Show HN: ACE – A dynamic benchmark measuring the cost to break AI agents",
-        "url": "https://fabraix.com/blog/adversarial-cost-to-exploit",
-        "description": "",
-        "published": "2026-04-05T21:37:54Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 9,
-        "comments": 4,
-        "is_new": false
-      },
-      {
-        "id": "47652386",
-        "title": "Show HN: Sigil – A new programming language for AI agents",
-        "url": "https://news.ycombinator.com/item?id=47652386",
-        "description": "",
-        "published": "2026-04-05T18:28:23Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 5,
-        "comments": 4,
         "is_new": false
       }
     ],
