@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-06T23:50:17.896379+00:00",
+  "last_updated": "2026-04-07T02:55:32.641917+00:00",
   "total_entries": 108,
-  "new_entries": 2,
+  "new_entries": 11,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -219,7 +219,7 @@
       "id": "fd678c378c57166f469cfc6ce990a42c",
       "title": "Xpertbench: Expert Level Tasks with Rubrics-Based Evaluation",
       "url": "https://arxiv.org/abs/2604.02368",
-      "description": "arXiv:2604.02368v1 Announce Type: new \nAbstract: As Large Language Models (LLMs) exhibit plateauing performance on conventional benchmarks, a pivotal challenge persists: evaluating their proficiency i",
+      "description": "arXiv:2604.02368v2 Announce Type: new \nAbstract: As Large Language Models (LLMs) exhibit plateauing performance on conventional benchmarks, a pivotal challenge persists: evaluating their proficiency i",
       "published": "Mon, 06 Apr 2026 00:00:00 -0400",
       "source_id": "arxiv-ai",
       "source_name": "arXiv AI",
@@ -829,9 +829,61 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 8,
+      "points": 9,
       "comments": 4,
       "is_new": false
+    },
+    {
+      "id": "d63d87bee63fcb9d1e727ac8d262b850",
+      "title": "Vero: An Open RL Recipe for General Visual Reasoning",
+      "url": "https://huggingface.co/papers/2604.04917",
+      "description": "What does it take to build a visual reasoner that works across charts, science, spatial understanding, and open-ended tasks? The strongest vision-language models (VLMs) show such broad visual reasonin",
+      "published": "2026-04-05T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "fbf25c34febc8299e254ccaf3825503b",
+      "title": "Memory Intelligence Agent",
+      "url": "https://huggingface.co/papers/2604.04503",
+      "description": "Deep research agents (DRAs) integrate LLM reasoning with external tools. Memory systems enable DRAs to leverage historical experiences, which are essential for efficient reasoning and autonomous evolu",
+      "published": "2026-04-05T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "a6e8d7f80a34e5a4d1b04156f61f9f86",
+      "title": "Less Detail, Better Answers: Degradation-Driven Prompting for VQA",
+      "url": "https://huggingface.co/papers/2604.04838",
+      "description": "Recent advancements in Vision-Language Models (VLMs) have significantly pushed the boundaries of Visual Question Answering (VQA).However,high-resolution details can sometimes become noise that leads t",
+      "published": "2026-04-05T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "c203e5b4cda57640ab51f65f47ae3ecd",
+      "title": "SpatialEdit: Benchmarking Fine-Grained Image Spatial Editing",
+      "url": "https://huggingface.co/papers/2604.04911",
+      "description": "Image spatial editing performs geometry-driven transformations, allowing precise control over object layout and camera viewpoints. Current models are insufficient for fine-grained spatial manipulation",
+      "published": "2026-04-05T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 7,
+      "is_new": true
     },
     {
       "id": "47652386",
@@ -845,20 +897,6 @@
       "category": "news",
       "points": 5,
       "comments": 4,
-      "is_new": false
-    },
-    {
-      "id": "47652046",
-      "title": "Onepilot – Deploy AI coding agents to remote servers from your iPhone",
-      "url": "https://onepilotapp.com",
-      "description": "",
-      "published": "2026-04-05T17:55:52Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 9,
-      "comments": 5,
       "is_new": false
     },
     {
@@ -886,6 +924,32 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "ce4a599151ec1d92bf2371ff86d97af8",
+      "title": "ClawArena: Benchmarking AI Agents in Evolving Information Environments",
+      "url": "https://huggingface.co/papers/2604.04202",
+      "description": "AI agents deployed as persistent assistants must maintain correct beliefs as their information environment evolves. In practice, evidence is scattered across heterogeneous sources that often contradic",
+      "published": "2026-04-04T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
+    },
+    {
+      "id": "ca638a1d6106f3494aff0aa879e1d7cb",
+      "title": "AURA: Always-On Understanding and Real-Time Assistance via Video Streams",
+      "url": "https://huggingface.co/papers/2604.04184",
+      "description": "Video Large Language Models (VideoLLMs) have achieved strong performance on many video understanding tasks, but most existing systems remain offline and are not well-suited for live video streams that",
+      "published": "2026-04-04T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 5,
+      "is_new": true
     },
     {
       "id": "47642344",
@@ -995,20 +1059,6 @@
       "category": "news",
       "points": 3,
       "comments": 4,
-      "is_new": false
-    },
-    {
-      "id": "47638172",
-      "title": "Show HN: Clusterflock: An AI orchestrator for networked hardware",
-      "url": "https://news.ycombinator.com/item?id=47638172",
-      "description": "",
-      "published": "2026-04-04T11:43:53Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 3,
-      "comments": 0,
       "is_new": false
     },
     {
@@ -1144,6 +1194,19 @@
       "is_new": false
     },
     {
+      "id": "4c6f3217d637fff64cc4f81e28237d0a",
+      "title": "GrandCode: Achieving Grandmaster Level in Competitive Programming via Agentic Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2604.02721",
+      "description": "Competitive programming remains one of the last few human strongholds in coding against AI. The best AI system to date still underperforms the best humans competitive programming: the most recent best",
+      "published": "2026-04-02T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 7,
+      "is_new": true
+    },
+    {
       "id": "4bdac9c8b51a71bc4043bd24a93ab08a",
       "title": "Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation",
       "url": "https://huggingface.co/papers/2604.03118",
@@ -1166,7 +1229,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 22,
+      "likes": 23,
       "is_new": false
     },
     {
@@ -1179,7 +1242,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 79,
+      "likes": 86,
       "is_new": false
     },
     {
@@ -1192,7 +1255,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 21,
+      "likes": 23,
       "is_new": false
     },
     {
@@ -1209,95 +1272,32 @@
       "is_new": false
     },
     {
-      "id": "85f3a8fe6df2364bd2e2c630caaaf9e7",
-      "title": "CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning",
-      "url": "https://huggingface.co/papers/2604.03231",
-      "description": "Recent vision-language models (VLMs) typically rely on a single vision encoder trained with contrastive image-text objectives, such as CLIP-style pretraining. While contrastive encoders are effective ",
-      "published": "2026-04-02T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
+      "id": "47617401",
+      "title": "Show HN: Wick – censorship circumvention tech repurposed for AI web access",
+      "url": "https://getwick.dev",
+      "description": "",
+      "published": "2026-04-02T17:27:57Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 4,
+      "comments": 2,
       "is_new": false
     },
     {
-      "id": "a91ee79eb3ecb35bde937a9d69da6f97",
-      "title": "InCoder-32B-Thinking: Industrial Code World Model for Thinking",
-      "url": "https://huggingface.co/papers/2604.03144",
-      "description": "Industrial software development across chip design, GPU optimization, and embedded systems lacks expert reasoning traces showing how engineers reason about hardware constraints and timing semantics. I",
-      "published": "2026-04-02T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 6,
-      "is_new": false
-    },
-    {
-      "id": "45c3fa762ec8e399c168b3aa474d815a",
-      "title": "VLMs Need Words: Vision Language Models Ignore Visual Detail In Favor of Semantic Anchors",
-      "url": "https://huggingface.co/papers/2604.02486",
-      "description": "Vision Language Models (VLMs) achieve impressive performance across a wide range of multimodal tasks. However, on some tasks that demand fine-grained visual perception, they often fail even when the r",
-      "published": "2026-04-01T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "dea6946dbecba5dab489a02ea6ec144c",
-      "title": "Swift-SVD: Theoretical Optimality Meets Practical Efficiency in Low-Rank LLM Compression",
-      "url": "https://huggingface.co/papers/2604.01609",
-      "description": "The deployment of Large Language Models is constrained by the memory and bandwidth demands of static weights and dynamic Key-Value cache. SVD-based compression provides a hardware-friendly solution to",
-      "published": "2026-04-01T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "7d157a60621fa931d0e726059621980a",
-      "title": "A Simple Baseline for Streaming Video Understanding",
-      "url": "https://huggingface.co/papers/2604.02317",
-      "description": "Recent streaming video understanding methods increasingly rely on complex memory mechanisms to handle long video streams. We challenge this trend with a simple finding: a sliding-window baseline that ",
-      "published": "2026-04-01T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 53,
-      "is_new": false
-    },
-    {
-      "id": "4cc734cf495813d9db7c712c1f21408e",
-      "title": "CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery",
-      "url": "https://huggingface.co/papers/2604.01658",
-      "description": "Large language model (LLM)-based evolution is a promising approach for open-ended discovery, where progress requires sustained search and knowledge accumulation. Existing methods still rely heavily on",
-      "published": "2026-04-01T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 43,
-      "is_new": false
-    },
-    {
-      "id": "43cd893e3cca9f8982cfef29c28bda21",
-      "title": "Test-Time Scaling Makes Overtraining Compute-Optimal",
-      "url": "https://huggingface.co/papers/2604.01411",
-      "description": "Modern LLMs scale at test-time, e.g. via repeated sampling, where inference cost grows with model size and the number of samples. This creates a trade-off that pretraining scaling laws, such as Chinch",
-      "published": "2026-03-31T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 14,
-      "is_new": false
+      "id": "47613614",
+      "title": "Google banned our mobile AI agent app for doing what Gemini should do,but doesnt",
+      "url": "https://news.ycombinator.com/item?id=47613614",
+      "description": "",
+      "published": "2026-04-02T12:35:29Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 3,
+      "comments": 0,
+      "is_new": true
     }
   ],
   "by_category": {
@@ -1604,7 +1604,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 8,
+        "points": 9,
         "comments": 4,
         "is_new": false
       },
@@ -1620,20 +1620,6 @@
         "category": "news",
         "points": 5,
         "comments": 4,
-        "is_new": false
-      },
-      {
-        "id": "47652046",
-        "title": "Onepilot – Deploy AI coding agents to remote servers from your iPhone",
-        "url": "https://onepilotapp.com",
-        "description": "",
-        "published": "2026-04-05T17:55:52Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 9,
-        "comments": 5,
         "is_new": false
       },
       {
@@ -1675,6 +1661,20 @@
         "points": 2,
         "comments": 1,
         "is_new": false
+      },
+      {
+        "id": "47641994",
+        "title": "Ask HN: How do you use AI coding harnesses for individual development?",
+        "url": "https://news.ycombinator.com/item?id=47641994",
+        "description": "",
+        "published": "2026-04-04T18:45:21Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 3,
+        "comments": 0,
+        "is_new": false
       }
     ],
     "research": [
@@ -1694,7 +1694,7 @@
         "id": "fd678c378c57166f469cfc6ce990a42c",
         "title": "Xpertbench: Expert Level Tasks with Rubrics-Based Evaluation",
         "url": "https://arxiv.org/abs/2604.02368",
-        "description": "arXiv:2604.02368v1 Announce Type: new \nAbstract: As Large Language Models (LLMs) exhibit plateauing performance on conventional benchmarks, a pivotal challenge persists: evaluating their proficiency i",
+        "description": "arXiv:2604.02368v2 Announce Type: new \nAbstract: As Large Language Models (LLMs) exhibit plateauing performance on conventional benchmarks, a pivotal challenge persists: evaluating their proficiency i",
         "published": "Mon, 06 Apr 2026 00:00:00 -0400",
         "source_id": "arxiv-ai",
         "source_name": "arXiv AI",
