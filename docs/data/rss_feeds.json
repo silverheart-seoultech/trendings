@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-07T07:47:54.562332+00:00",
+  "last_updated": "2026-04-07T09:18:55.081753+00:00",
   "total_entries": 109,
-  "new_entries": 0,
+  "new_entries": 8,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -756,6 +756,20 @@
       "is_new": false
     },
     {
+      "id": "47672458",
+      "title": "Show HN: Secure SDLC Agents for Claude and Cursor (MCP)",
+      "url": "https://github.com/Kaademos/secure-sdlc-agents",
+      "description": "",
+      "published": "2026-04-07T09:00:01Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "47668118",
       "title": "Show HN: ACP – Governance for AI Coding Agents (Claude Code, OpenClaw)",
       "url": "https://agenticcontrolplane.com/",
@@ -846,6 +860,19 @@
       "is_new": false
     },
     {
+      "id": "be123d0780762598002a23b30d142efe",
+      "title": "CLEAR: Unlocking Generative Potential for Degraded Image Understanding in Unified Multimodal Models",
+      "url": "https://huggingface.co/papers/2604.04780",
+      "description": "Image degradation from blur, noise, compression, and poor illumination severely undermines multimodal understanding in real-world settings. Unified multimodal models that combine understanding and gen",
+      "published": "2026-04-05T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
       "id": "f2aa2540df0eb77182edea17abe3bbaa",
       "title": "Your Agent, Their Asset: A Real-World Safety Analysis of OpenClaw",
       "url": "https://huggingface.co/papers/2604.04759",
@@ -855,7 +882,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
+      "likes": 7,
       "is_new": false
     },
     {
@@ -868,7 +895,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -881,7 +908,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 1,
       "is_new": false
     },
     {
@@ -894,7 +921,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 80,
+      "likes": 119,
       "is_new": false
     },
     {
@@ -907,7 +934,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 16,
+      "likes": 19,
       "is_new": false
     },
     {
@@ -920,7 +947,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 34,
+      "likes": 41,
       "is_new": false
     },
     {
@@ -933,7 +960,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 66,
+      "likes": 73,
       "is_new": false
     },
     {
@@ -946,59 +973,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 13,
-      "is_new": false
-    },
-    {
-      "id": "d63d87bee63fcb9d1e727ac8d262b850",
-      "title": "Vero: An Open RL Recipe for General Visual Reasoning",
-      "url": "https://huggingface.co/papers/2604.04917",
-      "description": "What does it take to build a visual reasoner that works across charts, science, spatial understanding, and open-ended tasks? The strongest vision-language models (VLMs) show such broad visual reasonin",
-      "published": "2026-04-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 11,
-      "is_new": false
-    },
-    {
-      "id": "fbf25c34febc8299e254ccaf3825503b",
-      "title": "Memory Intelligence Agent",
-      "url": "https://huggingface.co/papers/2604.04503",
-      "description": "Deep research agents (DRAs) integrate LLM reasoning with external tools. Memory systems enable DRAs to leverage historical experiences, which are essential for efficient reasoning and autonomous evolu",
-      "published": "2026-04-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "a6e8d7f80a34e5a4d1b04156f61f9f86",
-      "title": "Less Detail, Better Answers: Degradation-Driven Prompting for VQA",
-      "url": "https://huggingface.co/papers/2604.04838",
-      "description": "Recent advancements in Vision-Language Models (VLMs) have significantly pushed the boundaries of Visual Question Answering (VQA).However,high-resolution details can sometimes become noise that leads t",
-      "published": "2026-04-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 5,
-      "is_new": false
-    },
-    {
-      "id": "c203e5b4cda57640ab51f65f47ae3ecd",
-      "title": "SpatialEdit: Benchmarking Fine-Grained Image Spatial Editing",
-      "url": "https://huggingface.co/papers/2604.04911",
-      "description": "Image spatial editing performs geometry-driven transformations, allowing precise control over object layout and camera viewpoints. Current models are insufficient for fine-grained spatial manipulation",
-      "published": "2026-04-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 24,
+      "likes": 14,
       "is_new": false
     },
     {
@@ -1078,7 +1053,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 16,
+      "likes": 18,
       "is_new": false
     },
     {
@@ -1091,7 +1066,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 28,
+      "likes": 34,
       "is_new": false
     },
     {
@@ -1245,6 +1220,19 @@
       "is_new": false
     },
     {
+      "id": "dc03d56f35dc06a2f8f3782adda8cfea",
+      "title": "SciLT: Long-Tailed Classification in Scientific Image Domains",
+      "url": "https://huggingface.co/papers/2604.03687",
+      "description": "Long-tailed recognition has benefited from foundation models and fine-tuning paradigms, yet existing studies and benchmarks are mainly confined to natural image domains, where pre-training and fine-tu",
+      "published": "2026-04-03T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "cc87327115803370b1f615081a32418a",
       "title": "LightThinker++: From Reasoning Compression to Memory Management",
       "url": "https://huggingface.co/papers/2604.03679",
@@ -1254,7 +1242,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 18,
+      "likes": 19,
       "is_new": false
     },
     {
@@ -1289,6 +1277,18 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence",
       "description": "OpenAI is undergoing another round of C-suite changes, according to an internal memo viewed by The Verge. Fidji Simo, OpenAI's CEO of AGI deployment - who was until recently the company's CEO of appli",
       "published": "2026-04-03T18:55:16-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": false
+    },
+    {
+      "id": "8ffc9734d668915d314520037967311d",
+      "title": "Apple’s best product ever",
+      "url": "https://www.theverge.com/podcast/906548/best-apple-product-vergecast",
+      "description": "All week, we've been asking you to help us rank the 50 best products Apple ever made, as we mark the company's 50th anniversary. Thanks to everyone who pitched in - we ended up with more than 1.6 mill",
+      "published": "2026-04-03T08:55:56-04:00",
       "source_id": "theverge-ai",
       "source_name": "The Verge AI",
       "source_icon": "📰",
@@ -1527,6 +1527,20 @@
         "is_new": false
       },
       {
+        "id": "47672458",
+        "title": "Show HN: Secure SDLC Agents for Claude and Cursor (MCP)",
+        "url": "https://github.com/Kaademos/secure-sdlc-agents",
+        "description": "",
+        "published": "2026-04-07T09:00:01Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 1,
+        "comments": 0,
+        "is_new": true
+      },
+      {
         "id": "47668118",
         "title": "Show HN: ACP – Governance for AI Coding Agents (Claude Code, OpenClaw)",
         "url": "https://agenticcontrolplane.com/",
@@ -1656,18 +1670,6 @@
         "category": "news",
         "points": 3,
         "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "a261fc2a80ea507ced15b1de86f50a16",
-        "title": "Suno is a music copyright nightmare",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers",
-        "description": "AI music platform Suno's policy is that it does not permit the use of copyrighted material. You can upload your own tracks to remix or set your original lyrics to AI-generated music. But, it's suppose",
-        "published": "2026-04-05T12:17:17-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
         "is_new": false
       }
     ],
