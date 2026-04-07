@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-07T12:02:04.962058+00:00",
-  "total_entries": 109,
-  "new_entries": 11,
+  "last_updated": "2026-04-07T13:44:34.345929+00:00",
+  "total_entries": 110,
+  "new_entries": 15,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,6 +47,18 @@
     }
   ],
   "entries": [
+    {
+      "id": "cbb7a2708c83b66a18b3f7cb1dce5943",
+      "title": "The AI gold rush is pulling private wealth into riskier, earlier bets",
+      "url": "https://techcrunch.com/2026/04/07/the-ai-gold-rush-is-pulling-private-wealth-into-riskier-earlier-bets/",
+      "description": "On a recent episode of Equity, we  talked to Arena Private Wealth to explore a growing trend: family offices bypassing VCs to gain direct exposure to AI startups, turning them from passive investors i",
+      "published": "Tue, 07 Apr 2026 13:00:00 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "a4f07c41a0bdc444c4f3bc9861b902df",
       "title": "AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost",
@@ -881,7 +893,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 2,
       "is_new": true
     },
     {
@@ -920,7 +932,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -933,7 +945,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -946,7 +958,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 136,
+      "likes": 140,
       "is_new": false
     },
     {
@@ -959,46 +971,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 23,
-      "is_new": false
-    },
-    {
-      "id": "62ae0eb9c3580cb2bad6da7fd66094de",
-      "title": "TriAttention: Efficient Long Reasoning with Trigonometric KV Compression",
-      "url": "https://huggingface.co/papers/2604.04921",
-      "description": "Extended reasoning in large language models (LLMs) creates severe KV cache memory bottlenecks. Leading KV cache compression methods estimate KV importance using attention scores from recent post-RoPE ",
-      "published": "2026-04-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 55,
-      "is_new": false
-    },
-    {
-      "id": "3ab37a6d70d9e40a0930d9db128e1936",
-      "title": "MinerU2.5-Pro: Pushing the Limits of Data-Centric Document Parsing at Scale",
-      "url": "https://huggingface.co/papers/2604.04771",
-      "description": "Current document parsing methods compete primarily on model architecture innovation, while systematic engineering of training data remains underexplored. Yet SOTA models of different architectures and",
-      "published": "2026-04-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 84,
-      "is_new": false
-    },
-    {
-      "id": "2ba50f60a2b614af1dbd531a5a1e932d",
-      "title": "SkillX: Automatically Constructing Skill Knowledge Bases for Agents",
-      "url": "https://huggingface.co/papers/2604.04804",
-      "description": "Learning from experience is critical for building capable large language model (LLM) agents, yet prevailing self-evolving paradigms remain inefficient: agents learn in isolation, repeatedly rediscover",
-      "published": "2026-04-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 18,
+      "likes": 24,
       "is_new": false
     },
     {
@@ -1056,6 +1029,19 @@
       "is_new": false
     },
     {
+      "id": "11e86b36341fe8c98e6ab8da8c46c9fe",
+      "title": "The Geometric Alignment Tax: Tokenization vs. Continuous Geometry in Scientific Foundation Models",
+      "url": "https://huggingface.co/papers/2604.04155",
+      "description": "Foundation models for biology and physics optimize predictive accuracy, but their internal representations systematically fail to preserve the continuous geometry of the systems they model. We identif",
+      "published": "2026-04-04T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "644f2ed43d94a4ae9fc8962c8ea0a853",
       "title": "Can LLMs Learn to Reason Robustly under Noisy Supervision?",
       "url": "https://huggingface.co/papers/2604.03993",
@@ -1065,7 +1051,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 5,
       "is_new": false
     },
     {
@@ -1228,7 +1214,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 1,
       "is_new": true
     },
     {
@@ -1241,7 +1227,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": true
     },
     {
@@ -1294,10 +1280,36 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "47622878",
+      "title": "Show HN: Ubik – Analyze local files like NotebookLM, with Cursor-like power",
+      "url": "https://www.ubik.studio/features",
+      "description": "",
+      "published": "2026-04-03T03:27:16Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 0,
+      "is_new": false
     }
   ],
   "by_category": {
     "news": [
+      {
+        "id": "cbb7a2708c83b66a18b3f7cb1dce5943",
+        "title": "The AI gold rush is pulling private wealth into riskier, earlier bets",
+        "url": "https://techcrunch.com/2026/04/07/the-ai-gold-rush-is-pulling-private-wealth-into-riskier-earlier-bets/",
+        "description": "On a recent episode of Equity, we  talked to Arena Private Wealth to explore a growing trend: family offices bypassing VCs to gain direct exposure to AI startups, turning them from passive investors i",
+        "published": "Tue, 07 Apr 2026 13:00:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "a4f07c41a0bdc444c4f3bc9861b902df",
         "title": "AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost",
@@ -1654,20 +1666,6 @@
         "category": "news",
         "points": 5,
         "comments": 4,
-        "is_new": false
-      },
-      {
-        "id": "47652046",
-        "title": "Onepilot – Deploy AI coding agents to remote servers from your iPhone",
-        "url": "https://onepilotapp.com",
-        "description": "",
-        "published": "2026-04-05T17:55:52Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 9,
-        "comments": 5,
         "is_new": false
       }
     ],
