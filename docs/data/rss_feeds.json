@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-07T02:55:32.641917+00:00",
+  "last_updated": "2026-04-07T03:29:05.257673+00:00",
   "total_entries": 108,
-  "new_entries": 11,
+  "new_entries": 4,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -117,7 +117,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "669a7a115c5cc2adc34c539302f85ac7",
@@ -755,7 +755,7 @@
       "category": "news",
       "points": 1,
       "comments": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "47661938",
@@ -834,6 +834,45 @@
       "is_new": false
     },
     {
+      "id": "62ae0eb9c3580cb2bad6da7fd66094de",
+      "title": "TriAttention: Efficient Long Reasoning with Trigonometric KV Compression",
+      "url": "https://huggingface.co/papers/2604.04921",
+      "description": "Extended reasoning in large language models (LLMs) creates severe KV cache memory bottlenecks. Leading KV cache compression methods estimate KV importance using attention scores from recent post-RoPE ",
+      "published": "2026-04-05T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 7,
+      "is_new": true
+    },
+    {
+      "id": "3ab37a6d70d9e40a0930d9db128e1936",
+      "title": "MinerU2.5-Pro: Pushing the Limits of Data-Centric Document Parsing at Scale",
+      "url": "https://huggingface.co/papers/2604.04771",
+      "description": "Current document parsing methods compete primarily on model architecture innovation, while systematic engineering of training data remains underexplored. Yet SOTA models of different architectures and",
+      "published": "2026-04-05T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "2ba50f60a2b614af1dbd531a5a1e932d",
+      "title": "SkillX: Automatically Constructing Skill Knowledge Bases for Agents",
+      "url": "https://huggingface.co/papers/2604.04804",
+      "description": "Learning from experience is critical for building capable large language model (LLM) agents, yet prevailing self-evolving paradigms remain inefficient: agents learn in isolation, repeatedly rediscover",
+      "published": "2026-04-05T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 8,
+      "is_new": true
+    },
+    {
       "id": "d63d87bee63fcb9d1e727ac8d262b850",
       "title": "Vero: An Open RL Recipe for General Visual Reasoning",
       "url": "https://huggingface.co/papers/2604.04917",
@@ -843,8 +882,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
-      "is_new": true
+      "likes": 2,
+      "is_new": false
     },
     {
       "id": "fbf25c34febc8299e254ccaf3825503b",
@@ -857,7 +896,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "a6e8d7f80a34e5a4d1b04156f61f9f86",
@@ -869,8 +908,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
-      "is_new": true
+      "likes": 4,
+      "is_new": false
     },
     {
       "id": "c203e5b4cda57640ab51f65f47ae3ecd",
@@ -882,8 +921,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
-      "is_new": true
+      "likes": 11,
+      "is_new": false
     },
     {
       "id": "47652386",
@@ -935,8 +974,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
-      "is_new": true
+      "likes": 10,
+      "is_new": false
     },
     {
       "id": "ca638a1d6106f3494aff0aa879e1d7cb",
@@ -948,8 +987,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
-      "is_new": true
+      "likes": 11,
+      "is_new": false
     },
     {
       "id": "47642344",
@@ -1102,6 +1141,19 @@
       "is_new": false
     },
     {
+      "id": "cc87327115803370b1f615081a32418a",
+      "title": "LightThinker++: From Reasoning Compression to Memory Management",
+      "url": "https://huggingface.co/papers/2604.03679",
+      "description": "Large language models (LLMs) excel at complex reasoning, yet their efficiency is limited by the surging cognitive overhead of long thought traces. In this paper, we propose LightThinker, a method that",
+      "published": "2026-04-03T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 7,
+      "is_new": true
+    },
+    {
       "id": "47631079",
       "title": "Show HN: A memory layer for AI agents that organizes itself",
       "url": "https://news.ycombinator.com/item?id=47631079",
@@ -1203,8 +1255,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
-      "is_new": true
+      "likes": 10,
+      "is_new": false
     },
     {
       "id": "4bdac9c8b51a71bc4043bd24a93ab08a",
@@ -1233,45 +1285,6 @@
       "is_new": false
     },
     {
-      "id": "456d0888438d76fa6e129a1fb7f1f4c2",
-      "title": "Self-Distilled RLVR",
-      "url": "https://huggingface.co/papers/2604.03128",
-      "description": "On-policy distillation (OPD) has become a popular training paradigm in the LLM community. This paradigm selects a larger model as the teacher to provide dense, fine-grained signals for each sampled tr",
-      "published": "2026-04-02T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 86,
-      "is_new": false
-    },
-    {
-      "id": "84efd76465d91cac1fbdd40a89b1e917",
-      "title": "Agentic-MME: What Agentic Capability Really Brings to Multimodal Intelligence?",
-      "url": "https://huggingface.co/papers/2604.03016",
-      "description": "Multimodal Large Language Models (MLLMs) are evolving from passive observers into active agents, solving problems through Visual Expansion (invoking visual tools) and Knowledge Expansion (open-web sea",
-      "published": "2026-04-02T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 23,
-      "is_new": false
-    },
-    {
-      "id": "ee05810da2047f92195b61887dcb3f27",
-      "title": "AgentHazard: A Benchmark for Evaluating Harmful Behavior in Computer-Use Agents",
-      "url": "https://huggingface.co/papers/2604.02947",
-      "description": "Computer-use agents extend language models from text generation to persistent action over tools, files, and execution environments. Unlike chat systems, they maintain state across interactions and tra",
-      "published": "2026-04-02T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
       "id": "47617401",
       "title": "Show HN: Wick – censorship circumvention tech repurposed for AI web access",
       "url": "https://getwick.dev",
@@ -1284,20 +1297,6 @@
       "points": 4,
       "comments": 2,
       "is_new": false
-    },
-    {
-      "id": "47613614",
-      "title": "Google banned our mobile AI agent app for doing what Gemini should do,but doesnt",
-      "url": "https://news.ycombinator.com/item?id=47613614",
-      "description": "",
-      "published": "2026-04-02T12:35:29Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 3,
-      "comments": 0,
-      "is_new": true
     }
   ],
   "by_category": {
@@ -1372,7 +1371,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "669a7a115c5cc2adc34c539302f85ac7",
@@ -1530,7 +1529,7 @@
         "category": "news",
         "points": 1,
         "comments": 0,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "47661938",
