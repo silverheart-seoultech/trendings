@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-08T19:39:04.073337+00:00",
+  "last_updated": "2026-04-08T21:00:40.510627+00:00",
   "total_entries": 108,
-  "new_entries": 0,
+  "new_entries": 3,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,6 +47,18 @@
     }
   ],
   "entries": [
+    {
+      "id": "cc2ebcc5f43f1a0275b6d0a8fad4d147",
+      "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
+      "url": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
+      "description": "AWS has an ingrained culture of handling competition, he explained, because the cloud giant also competes with its partners.",
+      "published": "Wed, 08 Apr 2026 20:09:14 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "4e33cbdc8061e046d212bdd1a3dedbec",
       "title": "Tubi is the first streamer to launch a native app within ChatGPT",
@@ -732,18 +744,6 @@
       "is_new": false
     },
     {
-      "id": "de82341001c3272914f295a4b1ef5890",
-      "title": "OpenAI alums have been quietly investing from a new, potentially $100M fund",
-      "url": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/",
-      "description": "Zero Shot, a new venture capital fund with deep ties to OpenAI, is aiming to raise $100 million for its first fund. It has already written some checks.",
-      "published": "Mon, 06 Apr 2026 21:54:26 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "47694452",
       "title": "Show HN: Better Agent – A composable AI agent framework in TypeScript",
       "url": "https://www.better-agent.com/",
@@ -770,6 +770,18 @@
       "points": 3,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "b30c89d92af3fa47f1c06b52f435a438",
+      "title": "OpenAI made economic proposals — here’s what DC thinks of them",
+      "url": "https://www.theverge.com/column/908880/openai-made-economic-proposals-heres-what-dc-thinks-of-them",
+      "description": "Happy ceasefire day and welcome to Regulator, a newsletter for Verge subscribers about Big Tech's rocky journey through the world of politics. If you're not a subscriber yet, you can do so here, but m",
+      "published": "2026-04-08T16:10:56-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "47690674",
@@ -1037,8 +1049,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 27,
-      "comments": 5,
+      "points": 33,
+      "comments": 6,
       "is_new": false
     },
     {
@@ -1154,7 +1166,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 18,
+      "likes": 20,
       "is_new": false
     },
     {
@@ -1180,20 +1192,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
-      "is_new": false
-    },
-    {
-      "id": "2c4c084ab71c259542216e0ce1c5bbf7",
-      "title": "Scientific Graphics Program Synthesis via Dual Self-Consistency Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2604.06079",
-      "description": "Graphics Program Synthesis is pivotal for interpreting and editing visual data, effectively facilitating the reverse-engineering of static visuals into editable TikZ code. While TikZ is the de facto s",
-      "published": "2026-04-06T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
+      "likes": 8,
       "is_new": false
     },
     {
@@ -1223,16 +1222,17 @@
       "is_new": false
     },
     {
-      "id": "5ec53940028dc6b21ff533f40d1bdf21",
-      "title": "Cisco CEO Chuck Robbins wants data centers in space",
-      "url": "https://www.theverge.com/podcast/906727/cisco-ceo-chuck-robbins-data-centers-space-ai-elon-musk-interview",
-      "description": "Today, I’m talking with Chuck Robbins, CEO of Cisco. Cisco is one of those big companies that everyone has heard of but that most of us don’t have to interact with very much; it’s not really a consume",
-      "published": "2026-04-06T11:25:48-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
+      "id": "5c57f5156d07fd32b814b710250e3d46",
+      "title": "REAM: Merging Improves Pruning of Experts in LLMs",
+      "url": "https://huggingface.co/papers/2604.04356",
+      "description": "Mixture-of-Experts (MoE) large language models (LLMs) are among the top-performing architectures. The largest models, often with hundreds of billions of parameters, pose significant memory challenges ",
+      "published": "2026-04-05T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
     },
     {
       "id": "fecf10480a95cf9bb8b6ce2f74e7eccb",
@@ -1244,7 +1244,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 12,
+      "likes": 14,
       "is_new": false
     },
     {
@@ -1257,7 +1257,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 17,
+      "likes": 18,
       "is_new": false
     },
     {
@@ -1270,7 +1270,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 17,
+      "likes": 23,
       "is_new": false
     },
     {
@@ -1283,7 +1283,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 20,
+      "likes": 22,
       "is_new": false
     },
     {
@@ -1302,6 +1302,18 @@
   ],
   "by_category": {
     "news": [
+      {
+        "id": "cc2ebcc5f43f1a0275b6d0a8fad4d147",
+        "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
+        "url": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
+        "description": "AWS has an ingrained culture of handling competition, he explained, because the cloud giant also competes with its partners.",
+        "published": "Wed, 08 Apr 2026 20:09:14 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "4e33cbdc8061e046d212bdd1a3dedbec",
         "title": "Tubi is the first streamer to launch a native app within ChatGPT",
@@ -1507,18 +1519,6 @@
         "is_new": false
       },
       {
-        "id": "de82341001c3272914f295a4b1ef5890",
-        "title": "OpenAI alums have been quietly investing from a new, potentially $100M fund",
-        "url": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/",
-        "description": "Zero Shot, a new venture capital fund with deep ties to OpenAI, is aiming to raise $100 million for its first fund. It has already written some checks.",
-        "published": "Mon, 06 Apr 2026 21:54:26 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
         "id": "47694452",
         "title": "Show HN: Better Agent – A composable AI agent framework in TypeScript",
         "url": "https://www.better-agent.com/",
@@ -1545,6 +1545,18 @@
         "points": 3,
         "comments": 0,
         "is_new": false
+      },
+      {
+        "id": "b30c89d92af3fa47f1c06b52f435a438",
+        "title": "OpenAI made economic proposals — here’s what DC thinks of them",
+        "url": "https://www.theverge.com/column/908880/openai-made-economic-proposals-heres-what-dc-thinks-of-them",
+        "description": "Happy ceasefire day and welcome to Regulator, a newsletter for Verge subscribers about Big Tech's rocky journey through the world of politics. If you're not a subscriber yet, you can do so here, but m",
+        "published": "2026-04-08T16:10:56-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
       },
       {
         "id": "47690674",
@@ -1664,20 +1676,6 @@
         "category": "news",
         "points": 4,
         "comments": 2,
-        "is_new": false
-      },
-      {
-        "id": "47678844",
-        "title": "Show HN: Marimo pair – Reactive Python notebooks as environments for agents",
-        "url": "https://github.com/marimo-team/marimo-pair",
-        "description": "",
-        "published": "2026-04-07T17:47:46Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 27,
-        "comments": 1,
         "is_new": false
       }
     ],
