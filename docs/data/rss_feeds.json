@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-08T21:00:40.510627+00:00",
+  "last_updated": "2026-04-08T21:57:47.549827+00:00",
   "total_entries": 108,
-  "new_entries": 3,
+  "new_entries": 5,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,6 +47,18 @@
     }
   ],
   "entries": [
+    {
+      "id": "561854044d742db233cb2bd6cfa97b59",
+      "title": "Poke makes AI agents as easy as sending a text",
+      "url": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
+      "description": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.",
+      "published": "Wed, 08 Apr 2026 21:05:13 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "cc2ebcc5f43f1a0275b6d0a8fad4d147",
       "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
@@ -732,16 +744,18 @@
       "is_new": false
     },
     {
-      "id": "a4f07c41a0bdc444c4f3bc9861b902df",
-      "title": "AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost",
-      "url": "https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/",
-      "description": "Rocket's new AI platform combines strategy, product building, and competitive intelligence, aiming to move beyond code generation.",
-      "published": "Tue, 07 Apr 2026 05:30:00 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
+      "id": "47696273",
+      "title": "Show HN: CongaLine – Self-hosted isolated AI agent fleet (OpenClaw, Hermes)",
+      "url": "https://github.com/cruxdigital-llc/congaline",
+      "description": "",
+      "published": "2026-04-08T21:06:35Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
       "category": "news",
-      "is_new": false
+      "points": 1,
+      "comments": 0,
+      "is_new": true
     },
     {
       "id": "47694452",
@@ -767,7 +781,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 3,
+      "points": 4,
       "comments": 0,
       "is_new": false
     },
@@ -1049,8 +1063,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 33,
-      "comments": 6,
+      "points": 37,
+      "comments": 8,
       "is_new": false
     },
     {
@@ -1127,7 +1141,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -1196,20 +1210,6 @@
       "is_new": false
     },
     {
-      "id": "47661938",
-      "title": "Show HN: TUI Settlers of Catan built with Llamafile and Bonsai PrismML Models",
-      "url": "https://github.com/mozilla-ai/settl",
-      "description": "",
-      "published": "2026-04-06T15:08:45Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 0,
-      "is_new": false
-    },
-    {
       "id": "3d37ba82edc04d49176c9aaf82edbada",
       "title": "Iran threatens OpenAI’s Stargate data center in Abu Dhabi",
       "url": "https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat",
@@ -1257,7 +1257,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 18,
+      "likes": 20,
       "is_new": false
     },
     {
@@ -1296,12 +1296,24 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 22,
+      "likes": 23,
       "is_new": false
     }
   ],
   "by_category": {
     "news": [
+      {
+        "id": "561854044d742db233cb2bd6cfa97b59",
+        "title": "Poke makes AI agents as easy as sending a text",
+        "url": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
+        "description": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.",
+        "published": "Wed, 08 Apr 2026 21:05:13 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "cc2ebcc5f43f1a0275b6d0a8fad4d147",
         "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
@@ -1507,16 +1519,18 @@
         "is_new": false
       },
       {
-        "id": "a4f07c41a0bdc444c4f3bc9861b902df",
-        "title": "AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost",
-        "url": "https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/",
-        "description": "Rocket's new AI platform combines strategy, product building, and competitive intelligence, aiming to move beyond code generation.",
-        "published": "Tue, 07 Apr 2026 05:30:00 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
+        "id": "47696273",
+        "title": "Show HN: CongaLine – Self-hosted isolated AI agent fleet (OpenClaw, Hermes)",
+        "url": "https://github.com/cruxdigital-llc/congaline",
+        "description": "",
+        "published": "2026-04-08T21:06:35Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
         "category": "news",
-        "is_new": false
+        "points": 1,
+        "comments": 0,
+        "is_new": true
       },
       {
         "id": "47694452",
@@ -1542,7 +1556,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 3,
+        "points": 4,
         "comments": 0,
         "is_new": false
       },
@@ -1662,20 +1676,6 @@
         "category": "news",
         "points": 2,
         "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "47680184",
-        "title": "Show HN: I built an AI coding agent 50% cheaper than Claude Code (same prompts)",
-        "url": "https://github.com/kirby88/vix-releases",
-        "description": "",
-        "published": "2026-04-07T19:28:28Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 4,
-        "comments": 2,
         "is_new": false
       }
     ],
