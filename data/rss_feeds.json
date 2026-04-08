@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-08T09:17:20.387416+00:00",
+  "last_updated": "2026-04-08T11:14:31.018626+00:00",
   "total_entries": 110,
-  "new_entries": 1,
+  "new_entries": 6,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,6 +768,20 @@
       "is_new": false
     },
     {
+      "id": "47688116",
+      "title": "Show HN: I built an open protocol for Agent-to-agent commercial negotiation",
+      "url": "https://a2cn.io/",
+      "description": "",
+      "published": "2026-04-08T10:23:58Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "47687134",
       "title": "Show HN: Bring AI Agents to industrial control via \"SDK-style\" real-time engine",
       "url": "https://www.youtube.com/watch?v=3Uc_OT2CKiE",
@@ -819,7 +833,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 25,
+      "points": 26,
       "comments": 1,
       "is_new": false
     },
@@ -1024,6 +1038,19 @@
       "is_new": false
     },
     {
+      "id": "f3149b3ab9bdb98cbd100bff0214a817",
+      "title": "Context-Value-Action Architecture for Value-Driven Large Language Model Agents",
+      "url": "https://huggingface.co/papers/2604.05939",
+      "description": "Large Language Models (LLMs) have shown promise in simulating human behavior, yet existing agents often exhibit behavioral rigidity, a flaw frequently masked by the self-referential bias of current \"L",
+      "published": "2026-04-06T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "596b0da34d1d06d68e7fc527ffffb596",
       "title": "QiMeng-PRepair: Precise Code Repair via Edit-Aware Reward Optimization",
       "url": "https://huggingface.co/papers/2604.05963",
@@ -1046,7 +1073,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 14,
+      "likes": 15,
       "is_new": false
     },
     {
@@ -1098,7 +1125,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
+      "likes": 8,
       "is_new": false
     },
     {
@@ -1124,33 +1151,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 70,
-      "is_new": false
-    },
-    {
-      "id": "0cda67372f5a2e047db80dbdf273e9a5",
-      "title": "FactReview: Evidence-Grounded Reviews with Literature Positioning and Execution-Based Claim Verification",
-      "url": "https://huggingface.co/papers/2604.04074",
-      "description": "Peer review in machine learning is under growing pressure from rising submission volume and limited reviewer time. Most LLM-based reviewing systems read only the manuscript and generate comments from ",
-      "published": "2026-04-06T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "09c715ccfa5d57b20aada08457eea587",
-      "title": "Beyond Accuracy: Unveiling Inefficiency Patterns in Tool-Integrated Reasoning",
-      "url": "https://huggingface.co/papers/2604.05404",
-      "description": "In real-world Tool-Integrated Reasoning (TIR) scenarios, where LLMs interleave reasoning with external tool calls, a major source of inefficiency is that the toolcalls create pauses between LLM reques",
-      "published": "2026-04-06T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 25,
+      "likes": 76,
       "is_new": false
     },
     {
@@ -1163,7 +1164,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 1,
+      "points": 2,
       "comments": 0,
       "is_new": false
     },
@@ -1218,6 +1219,19 @@
       "is_new": false
     },
     {
+      "id": "d2b9b5ba94ce840ec1a82d71fac13a68",
+      "title": "Watch Before You Answer: Learning from Visually Grounded Post-Training",
+      "url": "https://huggingface.co/papers/2604.05117",
+      "description": "It is critical for vision-language models (VLMs) to comprehensively understand visual, temporal, and textual cues. However, despite rapid progress in multimodal modeling, video understanding performan",
+      "published": "2026-04-05T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 7,
+      "is_new": true
+    },
+    {
       "id": "3384e153950879359180747afb8b7710",
       "title": "MegaTrain: Full Precision Training of 100B+ Parameter Large Language Models on a Single GPU",
       "url": "https://huggingface.co/papers/2604.05091",
@@ -1253,7 +1267,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 21,
+      "likes": 24,
       "is_new": false
     },
     {
@@ -1266,7 +1280,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 6,
       "is_new": false
     },
     {
@@ -1280,19 +1294,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 8,
-      "is_new": false
-    },
-    {
-      "id": "95dc673259d486d10da5577757d73457",
-      "title": "Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding",
-      "url": "https://huggingface.co/papers/2604.05015",
-      "description": "With the rapid advancement of video understanding, existing benchmarks are becoming increasingly saturated, exposing a critical discrepancy between inflated leaderboard scores and real-world model cap",
-      "published": "2026-04-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 174,
       "is_new": false
     }
   ],
@@ -1539,6 +1540,20 @@
         "is_new": false
       },
       {
+        "id": "47688116",
+        "title": "Show HN: I built an open protocol for Agent-to-agent commercial negotiation",
+        "url": "https://a2cn.io/",
+        "description": "",
+        "published": "2026-04-08T10:23:58Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 2,
+        "comments": 0,
+        "is_new": true
+      },
+      {
         "id": "47687134",
         "title": "Show HN: Bring AI Agents to industrial control via \"SDK-style\" real-time engine",
         "url": "https://www.youtube.com/watch?v=3Uc_OT2CKiE",
@@ -1590,7 +1605,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 25,
+        "points": 26,
         "comments": 1,
         "is_new": false
       },
@@ -1660,20 +1675,6 @@
         "category": "news",
         "points": 1,
         "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "47677184",
-        "title": "Ask HN: Why isn't Anthropic eating their own dogfood? A Max subscriber's view",
-        "url": "https://news.ycombinator.com/item?id=47677184",
-        "description": "",
-        "published": "2026-04-07T15:50:18Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 3,
-        "comments": 2,
         "is_new": false
       }
     ],
