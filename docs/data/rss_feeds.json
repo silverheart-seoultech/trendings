@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-08T13:47:38.224368+00:00",
+  "last_updated": "2026-04-08T14:00:53.114008+00:00",
   "total_entries": 110,
-  "new_entries": 10,
+  "new_entries": 1,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -57,7 +57,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "f0cb2e33f72af67f095623abde665405",
@@ -779,7 +779,7 @@
       "category": "news",
       "points": 1,
       "comments": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "47688116",
@@ -793,6 +793,18 @@
       "category": "news",
       "points": 2,
       "comments": 0,
+      "is_new": false
+    },
+    {
+      "id": "cdede6c3239c6689be0a107d39b929de",
+      "title": "The vibes are off at OpenAI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/908513/the-vibes-are-off-at-openai",
+      "description": "OpenAI is in a relatively precarious position. The company is and has been a funding behemoth - just over a week ago, it closed $122 billion in funding at a post-money valuation of $852 billion. It's",
+      "published": "2026-04-08T09:56:26-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
       "is_new": true
     },
     {
@@ -805,7 +817,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "47687134",
@@ -819,7 +831,7 @@
       "category": "news",
       "points": 2,
       "comments": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "47682055",
@@ -1074,7 +1086,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "596b0da34d1d06d68e7fc527ffffb596",
@@ -1243,7 +1255,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 11,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3384e153950879359180747afb8b7710",
@@ -1283,19 +1295,6 @@
       "category": "research",
       "likes": 26,
       "is_new": false
-    },
-    {
-      "id": "cc096e7b63fe64344316cb48e7d0f4cc",
-      "title": "MedGemma 1.5 Technical Report",
-      "url": "https://huggingface.co/papers/2604.05081",
-      "description": "We introduce MedGemma 1.5 4B, the latest model in the MedGemma collection. MedGemma 1.5 expands on MedGemma 1 by integrating additional capabilities: high-dimensional medical imaging (CT/MRI volumes a",
-      "published": "2026-04-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 8,
-      "is_new": false
     }
   ],
   "by_category": {
@@ -1310,7 +1309,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "f0cb2e33f72af67f095623abde665405",
@@ -1552,7 +1551,7 @@
         "category": "news",
         "points": 1,
         "comments": 0,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "47688116",
@@ -1566,6 +1565,18 @@
         "category": "news",
         "points": 2,
         "comments": 0,
+        "is_new": false
+      },
+      {
+        "id": "cdede6c3239c6689be0a107d39b929de",
+        "title": "The vibes are off at OpenAI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/908513/the-vibes-are-off-at-openai",
+        "description": "OpenAI is in a relatively precarious position. The company is and has been a funding behemoth - just over a week ago, it closed $122 billion in funding at a post-money valuation of $852 billion. It's",
+        "published": "2026-04-08T09:56:26-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
         "is_new": true
       },
       {
@@ -1578,7 +1589,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "47687134",
@@ -1592,7 +1603,7 @@
         "category": "news",
         "points": 2,
         "comments": 0,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "47682055",
@@ -1662,20 +1673,6 @@
         "category": "news",
         "points": 11,
         "comments": 10,
-        "is_new": false
-      },
-      {
-        "id": "47677583",
-        "title": "Show HN: Build queryable packs for AI agents from videos, podcasts, and files",
-        "url": "https://github.com/buralog/beyin",
-        "description": "",
-        "published": "2026-04-07T16:15:33Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 1,
-        "comments": 0,
         "is_new": false
       }
     ],
