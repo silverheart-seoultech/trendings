@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-08T17:19:59.386849+00:00",
+  "last_updated": "2026-04-08T19:26:24.130437+00:00",
   "total_entries": 108,
-  "new_entries": 9,
+  "new_entries": 14,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,6 +47,18 @@
     }
   ],
   "entries": [
+    {
+      "id": "4e33cbdc8061e046d212bdd1a3dedbec",
+      "title": "Tubi is the first streamer to launch a native app within ChatGPT",
+      "url": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
+      "description": "Tubi becomes the first streaming service to offer an app integration within ChatGPT, the AI chatbot that millions of users turn to for answers.",
+      "published": "Wed, 08 Apr 2026 18:23:06 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "bc940f4b0e88a9006d127d59533510fd",
       "title": "Astropad’s Workbench reimagines remote desktop for AI agents, not IT support",
@@ -732,16 +744,32 @@
       "is_new": false
     },
     {
-      "id": "12475e003a856c63385c475fe1d5d79a",
-      "title": "Iran threatens ‘Stargate’ AI data centers",
-      "url": "https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/",
-      "description": "Iran said it will target U.S.-linked data centers with new missile strikes, as the war between the U.S. and Iran escalates.",
-      "published": "Mon, 06 Apr 2026 18:06:28 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
+      "id": "47694452",
+      "title": "Show HN: Better Agent – A composable AI agent framework in TypeScript",
+      "url": "https://www.better-agent.com/",
+      "description": "",
+      "published": "2026-04-08T18:42:36Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
       "category": "news",
-      "is_new": false
+      "points": 3,
+      "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "47694112",
+      "title": "Show HN: Itsumo: Make yourself fun and interesting academic language lessons",
+      "url": "https://itsumo.study/",
+      "description": "",
+      "published": "2026-04-08T18:14:36Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 3,
+      "comments": 0,
+      "is_new": true
     },
     {
       "id": "47690674",
@@ -1009,8 +1037,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 25,
-      "comments": 4,
+      "points": 27,
+      "comments": 5,
       "is_new": false
     },
     {
@@ -1078,6 +1106,19 @@
       "is_new": false
     },
     {
+      "id": "b37f703b13c47f6c3df9fc8c9e3ad3a1",
+      "title": "CUE-R: Beyond the Final Answer in Retrieval-Augmented Generation",
+      "url": "https://huggingface.co/papers/2604.05467",
+      "description": "As language models shift from single-shot answer generation toward multi-step reasoning that retrieves and consumes evidence mid-inference, evaluating the role of individual retrieved items becomes mo",
+      "published": "2026-04-06T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "f3149b3ab9bdb98cbd100bff0214a817",
       "title": "Context-Value-Action Architecture for Value-Driven Large Language Model Agents",
       "url": "https://huggingface.co/papers/2604.05939",
@@ -1087,7 +1128,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -1100,7 +1141,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -1126,7 +1167,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -1153,32 +1194,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "402228019c826ed6a074cad5d4555191",
-      "title": "In-Place Test-Time Training",
-      "url": "https://huggingface.co/papers/2604.06169",
-      "description": "The static ``train then deploy\" paradigm fundamentally limits Large Language Models (LLMs) from dynamically adapting their weights in response to continuous streams of new information inherent in real",
-      "published": "2026-04-06T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 8,
-      "is_new": false
-    },
-    {
-      "id": "641855a51a18dc99b02464c2b0fef236",
-      "title": "MMEmb-R1: Reasoning-Enhanced Multimodal Embedding with Pair-Aware Selection and Adaptive Control",
-      "url": "https://huggingface.co/papers/2604.06156",
-      "description": "MLLMs have been successfully applied to multimodal embedding tasks, yet their generative reasoning capabilities remain underutilized. Directly incorporating chain-of-thought reasoning into embedding l",
-      "published": "2026-04-06T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 6,
       "is_new": false
     },
     {
@@ -1220,18 +1235,17 @@
       "is_new": false
     },
     {
-      "id": "47654123",
-      "title": "Show HN: ACE – A dynamic benchmark measuring the cost to break AI agents",
-      "url": "https://fabraix.com/blog/adversarial-cost-to-exploit",
-      "description": "",
-      "published": "2026-04-05T21:37:54Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 9,
-      "comments": 3,
-      "is_new": false
+      "id": "fecf10480a95cf9bb8b6ce2f74e7eccb",
+      "title": "ClawsBench: Evaluating Capability and Safety of LLM Productivity Agents in Simulated Workspaces",
+      "url": "https://huggingface.co/papers/2604.05172",
+      "description": "Large language model (LLM) agents are increasingly deployed to automate productivity tasks (e.g., email, scheduling, document management), but evaluating them on live services is risky due to potentia",
+      "published": "2026-04-05T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 11,
+      "is_new": true
     },
     {
       "id": "84b635319e627c13e57108c2a4d79b44",
@@ -1243,7 +1257,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 11,
+      "likes": 17,
       "is_new": true
     },
     {
@@ -1256,7 +1270,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 12,
+      "likes": 15,
       "is_new": false
     },
     {
@@ -1269,7 +1283,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 14,
+      "likes": 20,
       "is_new": false
     },
     {
@@ -1282,25 +1296,24 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 21,
-      "is_new": false
-    },
-    {
-      "id": "23812bac374156f4ad5a88fc7c580298",
-      "title": "Vanast: Virtual Try-On with Human Image Animation via Synthetic Triplet Supervision",
-      "url": "https://huggingface.co/papers/2604.04934",
-      "description": "We present Vanast, a unified framework that generates garment-transferred human animation videos directly from a single human image, garment images, and a pose guidance video. Conventional two-stage p",
-      "published": "2026-04-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 28,
+      "likes": 22,
       "is_new": false
     }
   ],
   "by_category": {
     "news": [
+      {
+        "id": "4e33cbdc8061e046d212bdd1a3dedbec",
+        "title": "Tubi is the first streamer to launch a native app within ChatGPT",
+        "url": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
+        "description": "Tubi becomes the first streaming service to offer an app integration within ChatGPT, the AI chatbot that millions of users turn to for answers.",
+        "published": "Wed, 08 Apr 2026 18:23:06 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "bc940f4b0e88a9006d127d59533510fd",
         "title": "Astropad’s Workbench reimagines remote desktop for AI agents, not IT support",
@@ -1506,16 +1519,32 @@
         "is_new": false
       },
       {
-        "id": "12475e003a856c63385c475fe1d5d79a",
-        "title": "Iran threatens ‘Stargate’ AI data centers",
-        "url": "https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/",
-        "description": "Iran said it will target U.S.-linked data centers with new missile strikes, as the war between the U.S. and Iran escalates.",
-        "published": "Mon, 06 Apr 2026 18:06:28 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
+        "id": "47694452",
+        "title": "Show HN: Better Agent – A composable AI agent framework in TypeScript",
+        "url": "https://www.better-agent.com/",
+        "description": "",
+        "published": "2026-04-08T18:42:36Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
         "category": "news",
-        "is_new": false
+        "points": 3,
+        "comments": 0,
+        "is_new": true
+      },
+      {
+        "id": "47694112",
+        "title": "Show HN: Itsumo: Make yourself fun and interesting academic language lessons",
+        "url": "https://itsumo.study/",
+        "description": "",
+        "published": "2026-04-08T18:14:36Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 3,
+        "comments": 0,
+        "is_new": true
       },
       {
         "id": "47690674",
@@ -1649,34 +1678,6 @@
         "category": "news",
         "points": 27,
         "comments": 1,
-        "is_new": false
-      },
-      {
-        "id": "47678328",
-        "title": "Show HN: Frontend-VisualQA — give coding agents eyes to verify their own UI work",
-        "url": "https://github.com/yutori-ai/frontend-visualqa",
-        "description": "",
-        "published": "2026-04-07T17:06:03Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 10,
-        "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "47678048",
-        "title": "Show HN: I built a database for AI agents",
-        "url": "https://github.com/DinobaseHQ/dinobase",
-        "description": "",
-        "published": "2026-04-07T16:43:51Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 11,
-        "comments": 10,
         "is_new": false
       }
     ],
