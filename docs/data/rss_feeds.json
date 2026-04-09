@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-09T02:51:28.500618+00:00",
+  "last_updated": "2026-04-09T03:26:55.150584+00:00",
   "total_entries": 108,
-  "new_entries": 16,
+  "new_entries": 4,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -57,7 +57,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "cc2ebcc5f43f1a0275b6d0a8fad4d147",
@@ -69,7 +69,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "4e33cbdc8061e046d212bdd1a3dedbec",
@@ -755,7 +755,7 @@
       "category": "news",
       "points": 2,
       "comments": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "47696872",
@@ -769,7 +769,7 @@
       "category": "news",
       "points": 2,
       "comments": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "30aac13d11e3bca7091b0f57a9c86f18",
@@ -781,7 +781,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "47694452",
@@ -807,7 +807,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 6,
+      "points": 7,
       "comments": 0,
       "is_new": false
     },
@@ -821,7 +821,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "47690674",
@@ -930,6 +930,32 @@
       "is_new": false
     },
     {
+      "id": "ce476fa3b0baedd39917b227f5f88555",
+      "title": "Think in Strokes, Not Pixels: Process-Driven Image Generation via Interleaved Reasoning",
+      "url": "https://huggingface.co/papers/2604.04746",
+      "description": "Humans paint images incrementally: they plan a global layout, sketch a coarse draft, inspect, and refine details, and most importantly, each step is grounded in the evolving visual states. However, ca",
+      "published": "2026-04-07T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "7771907f45b2da0885c36edb862be101",
+      "title": "TC-AE: Unlocking Token Capacity for Deep Compression Autoencoders",
+      "url": "https://huggingface.co/papers/2604.07340",
+      "description": "We propose TC-AE, a ViT-based architecture for deep compression autoencoders. Existing methods commonly increase the channel number of latent representations to maintain reconstruction quality under h",
+      "published": "2026-04-07T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "a5a1b76a8e78a18f924aad0dbc191a8e",
       "title": "INSPATIO-WORLD: A Real-Time 4D World Simulator via Spatiotemporal Autoregressive Modeling",
       "url": "https://huggingface.co/papers/2604.07209",
@@ -940,7 +966,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "fed8ef684246c98f563f98989d14f76c",
@@ -953,7 +979,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "f4b0ab0a0b8968cac95914031d2b653f",
@@ -965,8 +991,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
-      "is_new": true
+      "likes": 3,
+      "is_new": false
     },
     {
       "id": "4842a3094dba45c83275e2d42b5d9d9c",
@@ -979,7 +1005,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "8de5ebc5d3c2296e1fcf227f8e98d539",
@@ -992,7 +1018,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "47680184",
@@ -1209,6 +1235,19 @@
       "is_new": false
     },
     {
+      "id": "7a1c7647312750a721f1e541c5daac88",
+      "title": "The Depth Ceiling: On the Limits of Large Language Models in Discovering Latent Planning",
+      "url": "https://huggingface.co/papers/2604.06427",
+      "description": "The viability of chain-of-thought (CoT) monitoring hinges on models being unable to reason effectively in their latent representations. Yet little is known about the limits of such latent reasoning in",
+      "published": "2026-04-06T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "0018fb69302e51a5010f84dd659756c3",
       "title": "Improving Semantic Proximity in Information Retrieval through Cross-Lingual Alignment",
       "url": "https://huggingface.co/papers/2604.05684",
@@ -1219,7 +1258,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "8f9e3b8e35f63856421cb11afda33f3a",
@@ -1231,8 +1270,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
-      "is_new": true
+      "likes": 8,
+      "is_new": false
     },
     {
       "id": "2a51b220e3a9ac8f3450c4b66c4edb8a",
@@ -1245,7 +1284,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "b37f703b13c47f6c3df9fc8c9e3ad3a1",
@@ -1259,45 +1298,6 @@
       "category": "research",
       "likes": 2,
       "is_new": false
-    },
-    {
-      "id": "f3149b3ab9bdb98cbd100bff0214a817",
-      "title": "Context-Value-Action Architecture for Value-Driven Large Language Model Agents",
-      "url": "https://huggingface.co/papers/2604.05939",
-      "description": "Large Language Models (LLMs) have shown promise in simulating human behavior, yet existing agents often exhibit behavioral rigidity, a flaw frequently masked by the self-referential bias of current \"L",
-      "published": "2026-04-06T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "596b0da34d1d06d68e7fc527ffffb596",
-      "title": "QiMeng-PRepair: Precise Code Repair via Edit-Aware Reward Optimization",
-      "url": "https://huggingface.co/papers/2604.05963",
-      "description": "Large Language Models (LLMs) achieve strong program repair performance but often suffer from over-editing, where excessive modifications overwrite correct code and hinder bug localization. We systemat",
-      "published": "2026-04-06T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
-      "is_new": false
-    },
-    {
-      "id": "5c57f5156d07fd32b814b710250e3d46",
-      "title": "REAM: Merging Improves Pruning of Experts in LLMs",
-      "url": "https://huggingface.co/papers/2604.04356",
-      "description": "Mixture-of-Experts (MoE) large language models (LLMs) are among the top-performing architectures. The largest models, often with hundreds of billions of parameters, pose significant memory challenges ",
-      "published": "2026-04-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": true
     }
   ],
   "by_category": {
@@ -1312,7 +1312,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "cc2ebcc5f43f1a0275b6d0a8fad4d147",
@@ -1324,7 +1324,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "4e33cbdc8061e046d212bdd1a3dedbec",
@@ -1530,7 +1530,7 @@
         "category": "news",
         "points": 2,
         "comments": 1,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "47696872",
@@ -1544,7 +1544,7 @@
         "category": "news",
         "points": 2,
         "comments": 8,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "30aac13d11e3bca7091b0f57a9c86f18",
@@ -1556,7 +1556,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "47694452",
@@ -1582,7 +1582,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 6,
+        "points": 7,
         "comments": 0,
         "is_new": false
       },
@@ -1596,7 +1596,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "47690674",
