@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-09T11:15:59.350567+00:00",
+  "last_updated": "2026-04-09T13:57:50.911669+00:00",
   "total_entries": 108,
-  "new_entries": 6,
+  "new_entries": 7,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -754,8 +754,32 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 2,
-      "comments": 1,
+      "comments": 2,
       "is_new": true
+    },
+    {
+      "id": "e70c90613699370e1cd9b187bd9d69c8",
+      "title": "Meta is reentering the AI race with a new model called Muse Spark",
+      "url": "https://www.theverge.com/tech/908769/meta-muse-spark-ai-model-launch-rollout",
+      "description": "Meta Superintelligence Labs is launching its first model since Mark Zuckerberg spent billions overhauling the company's AI efforts. Called Muse Spark, the model now powers the Meta AI app and the Meta",
+      "published": "2026-04-09T09:09:40-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": false
+    },
+    {
+      "id": "b30c89d92af3fa47f1c06b52f435a438",
+      "title": "OpenAI made economic proposals — here’s what DC thinks of them",
+      "url": "https://www.theverge.com/column/908880/openai-made-economic-proposals-heres-what-dc-thinks-of-them",
+      "description": "Happy ceasefire day and welcome to Regulator, a newsletter for Verge subscribers about Big Tech's rocky journey through the world of politics. If you're not a subscriber yet, you can do so here, but m",
+      "published": "2026-04-09T08:44:09-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": false
     },
     {
       "id": "4f87db76a4b9b672b03d605cefb3377f",
@@ -794,7 +818,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 2,
-      "comments": 11,
+      "comments": 12,
       "is_new": false
     },
     {
@@ -847,20 +871,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 8,
+      "points": 9,
       "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "b30c89d92af3fa47f1c06b52f435a438",
-      "title": "OpenAI made economic proposals — here’s what DC thinks of them",
-      "url": "https://www.theverge.com/column/908880/openai-made-economic-proposals-heres-what-dc-thinks-of-them",
-      "description": "Happy ceasefire day and welcome to Regulator, a newsletter for Verge subscribers about Big Tech's rocky journey through the world of politics. If you're not a subscriber yet, you can do so here, but m",
-      "published": "2026-04-08T16:10:56-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
       "is_new": false
     },
     {
@@ -897,18 +909,6 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/908513/the-vibes-are-off-at-openai",
       "description": "OpenAI is in a relatively precarious position. The company is and has been a funding behemoth - just over a week ago, it closed $122 billion in funding at a post-money valuation of $852 billion. It's",
       "published": "2026-04-08T12:26:38-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "e70c90613699370e1cd9b187bd9d69c8",
-      "title": "Meta is reentering the AI race with a new model called Muse Spark",
-      "url": "https://www.theverge.com/tech/908769/meta-muse-spark-ai-model-launch-rollout",
-      "description": "Meta Superintelligence Labs is launching its first model since Mark Zuckerberg spent billions overhauling the company's AI efforts. Called Muse Spark, the model now powers the Meta AI app and the Meta",
-      "published": "2026-04-08T12:12:54-04:00",
       "source_id": "theverge-ai",
       "source_name": "The Verge AI",
       "source_icon": "📰",
@@ -1018,7 +1018,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 30,
+      "likes": 36,
       "is_new": false
     },
     {
@@ -1031,7 +1031,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
+      "likes": 8,
       "is_new": false
     },
     {
@@ -1044,7 +1044,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 13,
       "is_new": false
     },
     {
@@ -1193,7 +1193,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 52,
+      "points": 54,
       "comments": 13,
       "is_new": false
     },
@@ -1220,6 +1220,19 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "67597d420f6172b528990ad5f5f457e9",
+      "title": "Graph-Based Chain-of-Thought Pruning for Reducing Redundant Reflections in Reasoning LLMs",
+      "url": "https://huggingface.co/papers/2604.05643",
+      "description": "Extending CoT through RL has been widely used to enhance the reasoning capabilities of LLMs. However, due to the sparsity of reward signals, it can also induce undesirable thinking patterns such as ov",
+      "published": "2026-04-06T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
     },
     {
       "id": "ef8ff179712d09f698ab4e5a8e1650b2",
@@ -1283,21 +1296,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 37,
+      "likes": 38,
       "is_new": false
-    },
-    {
-      "id": "176a1b5f310179af8625740fb4dee69f",
-      "title": "A Frame is Worth One Token: Efficient Generative World Modeling with Delta Tokens",
-      "url": "https://huggingface.co/papers/2604.04913",
-      "description": "Anticipating diverse future states is a central challenge in video world modeling. Discriminative world models produce a deterministic prediction that implicitly averages over possible futures, while ",
-      "published": "2026-04-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": true
     }
   ],
   "by_category": {
@@ -1529,8 +1529,32 @@
         "source_icon": "🟧",
         "category": "news",
         "points": 2,
-        "comments": 1,
+        "comments": 2,
         "is_new": true
+      },
+      {
+        "id": "e70c90613699370e1cd9b187bd9d69c8",
+        "title": "Meta is reentering the AI race with a new model called Muse Spark",
+        "url": "https://www.theverge.com/tech/908769/meta-muse-spark-ai-model-launch-rollout",
+        "description": "Meta Superintelligence Labs is launching its first model since Mark Zuckerberg spent billions overhauling the company's AI efforts. Called Muse Spark, the model now powers the Meta AI app and the Meta",
+        "published": "2026-04-09T09:09:40-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "b30c89d92af3fa47f1c06b52f435a438",
+        "title": "OpenAI made economic proposals — here’s what DC thinks of them",
+        "url": "https://www.theverge.com/column/908880/openai-made-economic-proposals-heres-what-dc-thinks-of-them",
+        "description": "Happy ceasefire day and welcome to Regulator, a newsletter for Verge subscribers about Big Tech's rocky journey through the world of politics. If you're not a subscriber yet, you can do so here, but m",
+        "published": "2026-04-09T08:44:09-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
       },
       {
         "id": "4f87db76a4b9b672b03d605cefb3377f",
@@ -1569,7 +1593,7 @@
         "source_icon": "🟧",
         "category": "news",
         "points": 2,
-        "comments": 11,
+        "comments": 12,
         "is_new": false
       },
       {
@@ -1622,20 +1646,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 8,
+        "points": 9,
         "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "b30c89d92af3fa47f1c06b52f435a438",
-        "title": "OpenAI made economic proposals — here’s what DC thinks of them",
-        "url": "https://www.theverge.com/column/908880/openai-made-economic-proposals-heres-what-dc-thinks-of-them",
-        "description": "Happy ceasefire day and welcome to Regulator, a newsletter for Verge subscribers about Big Tech's rocky journey through the world of politics. If you're not a subscriber yet, you can do so here, but m",
-        "published": "2026-04-08T16:10:56-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
         "is_new": false
       },
       {
@@ -1664,18 +1676,6 @@
         "category": "news",
         "points": 1,
         "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "cdede6c3239c6689be0a107d39b929de",
-        "title": "The vibes are off at OpenAI",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/908513/the-vibes-are-off-at-openai",
-        "description": "OpenAI is in a relatively precarious position. The company is and has been a funding behemoth - just over a week ago, it closed $122 billion in funding at a post-money valuation of $852 billion. It's",
-        "published": "2026-04-08T12:26:38-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
         "is_new": false
       }
     ],
