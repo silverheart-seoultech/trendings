@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-09T09:39:27.771982+00:00",
+  "last_updated": "2026-04-09T11:15:59.350567+00:00",
   "total_entries": 108,
-  "new_entries": 3,
+  "new_entries": 6,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -744,6 +744,32 @@
       "is_new": false
     },
     {
+      "id": "47701941",
+      "title": "Can a non – coder build a high tech product?",
+      "url": "https://news.ycombinator.com/item?id=47701941",
+      "description": "",
+      "published": "2026-04-09T10:48:51Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 1,
+      "is_new": true
+    },
+    {
+      "id": "4f87db76a4b9b672b03d605cefb3377f",
+      "title": "Google makes it easy to deepfake yourself",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/909104/youtube-shorts-make-ai-avatar",
+      "description": "YouTube Shorts is rolling out a new AI-powered feature giving creators an easy way to realistically clone themselves on camera. The launch, hinted at earlier this year, reflects the platform's fraught",
+      "published": "2026-04-09T06:53:49-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "47698191",
       "title": "Ask HN: Deterministic codebase maps vs. LLM inferred knowledge graphs?",
       "url": "https://news.ycombinator.com/item?id=47698191",
@@ -992,7 +1018,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 29,
+      "likes": 30,
       "is_new": false
     },
     {
@@ -1005,7 +1031,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 7,
       "is_new": false
     },
     {
@@ -1018,20 +1044,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
-      "is_new": false
-    },
-    {
-      "id": "fed8ef684246c98f563f98989d14f76c",
-      "title": "FP4 Explore, BF16 Train: Diffusion Reinforcement Learning via Efficient Rollout Scaling",
-      "url": "https://huggingface.co/papers/2604.06916",
-      "description": "Reinforcement-Learning-based post-training has recently emerged as a promising paradigm for aligning text-to-image diffusion models with human preferences. In recent studies, increasing the rollout gr",
-      "published": "2026-04-07T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
+      "likes": 9,
       "is_new": false
     },
     {
@@ -1180,7 +1193,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 51,
+      "points": 52,
       "comments": 13,
       "is_new": false
     },
@@ -1202,32 +1215,6 @@
       "url": "https://www.theverge.com/transportation/907976/elon-musk-terafab-intel-ai-chip-spacex-tesla",
       "description": "Elon Musk's Terafab AI chip project in Austin, Texas, is gaining a crucial new partner: Intel. On Tuesday, the American chipmaker announced it was signing on to help design and build the sprawling fac",
       "published": "2026-04-07T11:44:06-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "47672458",
-      "title": "Show HN: Secure SDLC Agents for Claude and Cursor (MCP)",
-      "url": "https://github.com/Kaademos/secure-sdlc-agents",
-      "description": "",
-      "published": "2026-04-07T09:00:01Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 1,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "ac248289876285ca132f9fd42667236f",
-      "title": "Gemini is making it faster for distressed users to reach mental health resources",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/907842/google-gemini-mental-health-interface-update",
-      "description": "Google says it has updated Gemini to better direct users to get mental health resources during moments of crisis. The change comes as the tech giant faces a wrongful death lawsuit alleging its chatbot",
-      "published": "2026-04-07T06:09:57-04:00",
       "source_id": "theverge-ai",
       "source_name": "The Verge AI",
       "source_icon": "📰",
@@ -1298,6 +1285,19 @@
       "category": "research",
       "likes": 37,
       "is_new": false
+    },
+    {
+      "id": "176a1b5f310179af8625740fb4dee69f",
+      "title": "A Frame is Worth One Token: Efficient Generative World Modeling with Delta Tokens",
+      "url": "https://huggingface.co/papers/2604.04913",
+      "description": "Anticipating diverse future states is a central challenge in video world modeling. Discriminative world models produce a deterministic prediction that implicitly averages over possible futures, while ",
+      "published": "2026-04-05T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
     }
   ],
   "by_category": {
@@ -1519,6 +1519,32 @@
         "is_new": false
       },
       {
+        "id": "47701941",
+        "title": "Can a non – coder build a high tech product?",
+        "url": "https://news.ycombinator.com/item?id=47701941",
+        "description": "",
+        "published": "2026-04-09T10:48:51Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 2,
+        "comments": 1,
+        "is_new": true
+      },
+      {
+        "id": "4f87db76a4b9b672b03d605cefb3377f",
+        "title": "Google makes it easy to deepfake yourself",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/909104/youtube-shorts-make-ai-avatar",
+        "description": "YouTube Shorts is rolling out a new AI-powered feature giving creators an easy way to realistically clone themselves on camera. The launch, hinted at earlier this year, reflects the platform's fraught",
+        "published": "2026-04-09T06:53:49-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "47698191",
         "title": "Ask HN: Deterministic codebase maps vs. LLM inferred knowledge graphs?",
         "url": "https://news.ycombinator.com/item?id=47698191",
@@ -1650,32 +1676,6 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "e70c90613699370e1cd9b187bd9d69c8",
-        "title": "Meta is reentering the AI race with a new model called Muse Spark",
-        "url": "https://www.theverge.com/tech/908769/meta-muse-spark-ai-model-launch-rollout",
-        "description": "Meta Superintelligence Labs is launching its first model since Mark Zuckerberg spent billions overhauling the company's AI efforts. Called Muse Spark, the model now powers the Meta AI app and the Meta",
-        "published": "2026-04-08T12:12:54-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "47688116",
-        "title": "Show HN: I built an open protocol for Agent-to-agent commercial negotiation",
-        "url": "https://a2cn.io/",
-        "description": "",
-        "published": "2026-04-08T10:23:58Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 2,
-        "comments": 0,
         "is_new": false
       }
     ],
