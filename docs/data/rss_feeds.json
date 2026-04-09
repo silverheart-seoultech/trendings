@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-08T23:51:57.817563+00:00",
+  "last_updated": "2026-04-09T02:51:28.500618+00:00",
   "total_entries": 108,
-  "new_entries": 6,
+  "new_entries": 16,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -49,7 +49,7 @@
   "entries": [
     {
       "id": "561854044d742db233cb2bd6cfa97b59",
-      "title": "AI agent Poke makes setting up automations as easy as sending a text",
+      "title": "Poke makes using AI agents as easy as sending a text",
       "url": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
       "description": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.",
       "published": "Wed, 08 Apr 2026 21:05:13 +0000",
@@ -351,7 +351,7 @@
       "id": "a091c9557ede513cb1b773abcf329468",
       "title": "ClawsBench: Evaluating Capability and Safety of LLM Productivity Agents in Simulated Workspaces",
       "url": "https://arxiv.org/abs/2604.05172",
-      "description": "arXiv:2604.05172v1 Announce Type: new \nAbstract: Large language model (LLM) agents are increasingly deployed to automate productivity tasks (e.g., email, scheduling, document management), but evaluati",
+      "description": "arXiv:2604.05172v2 Announce Type: new \nAbstract: Large language model (LLM) agents are increasingly deployed to automate productivity tasks (e.g., email, scheduling, document management), but evaluati",
       "published": "Wed, 08 Apr 2026 00:00:00 -0400",
       "source_id": "arxiv-ai",
       "source_name": "arXiv AI",
@@ -744,6 +744,20 @@
       "is_new": false
     },
     {
+      "id": "47698191",
+      "title": "Ask HN: Deterministic codebase maps vs. LLM inferred knowledge graphs?",
+      "url": "https://news.ycombinator.com/item?id=47698191",
+      "description": "",
+      "published": "2026-04-09T01:11:58Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 1,
+      "is_new": true
+    },
+    {
       "id": "47696872",
       "title": "Ask HN: We got 100 stars. A weekend project got 12k. What are we missing?",
       "url": "https://news.ycombinator.com/item?id=47696872",
@@ -754,21 +768,19 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 2,
-      "comments": 4,
+      "comments": 8,
       "is_new": true
     },
     {
-      "id": "47696273",
-      "title": "Show HN: CongaLine – Self-hosted isolated AI agent fleet (OpenClaw, Hermes)",
-      "url": "https://github.com/cruxdigital-llc/congaline",
-      "description": "",
-      "published": "2026-04-08T21:06:35Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
+      "id": "30aac13d11e3bca7091b0f57a9c86f18",
+      "title": "Gemini gets notebooks to help you organize projects",
+      "url": "https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm",
+      "description": "Google's Gemini is getting a feature called \"notebooks\" to help you organize things about certain topics in a single place while using the AI chatbot, the company announced on Wednesday. You can pull",
+      "published": "2026-04-08T20:06:12-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
       "category": "news",
-      "points": 2,
-      "comments": 0,
       "is_new": true
     },
     {
@@ -795,7 +807,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 5,
+      "points": 6,
       "comments": 0,
       "is_new": false
     },
@@ -918,6 +930,71 @@
       "is_new": false
     },
     {
+      "id": "a5a1b76a8e78a18f924aad0dbc191a8e",
+      "title": "INSPATIO-WORLD: A Real-Time 4D World Simulator via Spatiotemporal Autoregressive Modeling",
+      "url": "https://huggingface.co/papers/2604.07209",
+      "description": "Building world models with spatial consistency and real-time interactivity remains a fundamental challenge in computer vision. Current video generation paradigms often struggle with a lack of spatial ",
+      "published": "2026-04-07T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "fed8ef684246c98f563f98989d14f76c",
+      "title": "FP4 Explore, BF16 Train: Diffusion Reinforcement Learning via Efficient Rollout Scaling",
+      "url": "https://huggingface.co/papers/2604.06916",
+      "description": "Reinforcement-Learning-based post-training has recently emerged as a promising paradigm for aligning text-to-image diffusion models with human preferences. In recent studies, increasing the rollout gr",
+      "published": "2026-04-07T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "f4b0ab0a0b8968cac95914031d2b653f",
+      "title": "MARS: Enabling Autoregressive Models Multi-Token Generation",
+      "url": "https://huggingface.co/papers/2604.07023",
+      "description": "Autoregressive (AR) language models generate text one token at a time, even when consecutive tokens are highly predictable given earlier context. We introduce MARS (Mask AutoRegreSsion), a lightweight",
+      "published": "2026-04-07T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "4842a3094dba45c83275e2d42b5d9d9c",
+      "title": "Personalized RewardBench: Evaluating Reward Models with Human Aligned Personalization",
+      "url": "https://huggingface.co/papers/2604.07343",
+      "description": "Pluralistic alignment has emerged as a critical frontier in the development of Large Language Models (LLMs), with reward models (RMs) serving as a central mechanism for capturing diverse human values.",
+      "published": "2026-04-07T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "8de5ebc5d3c2296e1fcf227f8e98d539",
+      "title": "MoRight: Motion Control Done Right",
+      "url": "https://huggingface.co/papers/2604.07348",
+      "description": "Generating motion-controlled videos--where user-specified actions drive physically plausible scene dynamics under freely chosen viewpoints--demands two capabilities: (1) disentangled motion control, a",
+      "published": "2026-04-07T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "47680184",
       "title": "Show HN: I built an AI coding agent 50% cheaper than Claude Code (same prompts)",
       "url": "https://github.com/kirby88/vix-releases",
@@ -929,20 +1006,6 @@
       "category": "news",
       "points": 4,
       "comments": 2,
-      "is_new": false
-    },
-    {
-      "id": "47678844",
-      "title": "Show HN: Marimo pair – Reactive Python notebooks as environments for agents",
-      "url": "https://github.com/marimo-team/marimo-pair",
-      "description": "",
-      "published": "2026-04-07T17:47:46Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 27,
-      "comments": 1,
       "is_new": false
     },
     {
@@ -1077,8 +1140,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 45,
-      "comments": 11,
+      "points": 47,
+      "comments": 14,
       "is_new": false
     },
     {
@@ -1132,6 +1195,59 @@
       "is_new": false
     },
     {
+      "id": "47668118",
+      "title": "Show HN: ACP – Governance for AI Coding Agents (Claude Code, OpenClaw)",
+      "url": "https://agenticcontrolplane.com/",
+      "description": "",
+      "published": "2026-04-06T22:22:56Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 0,
+      "is_new": false
+    },
+    {
+      "id": "0018fb69302e51a5010f84dd659756c3",
+      "title": "Improving Semantic Proximity in Information Retrieval through Cross-Lingual Alignment",
+      "url": "https://huggingface.co/papers/2604.05684",
+      "description": "With the increasing accessibility and utilization of multilingual documents, Cross-Lingual Information Retrieval (CLIR) has emerged as an important research area. Conventionally, CLIR tasks have been ",
+      "published": "2026-04-06T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "8f9e3b8e35f63856421cb11afda33f3a",
+      "title": "RAGEN-2: Reasoning Collapse in Agentic RL",
+      "url": "https://huggingface.co/papers/2604.06268",
+      "description": "RL training of multi-turn LLM agents is inherently unstable, and reasoning quality directly determines task performance. Entropy is widely used to track reasoning stability. However, entropy only meas",
+      "published": "2026-04-06T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 6,
+      "is_new": true
+    },
+    {
+      "id": "2a51b220e3a9ac8f3450c4b66c4edb8a",
+      "title": "Neural Computers",
+      "url": "https://huggingface.co/papers/2604.06425",
+      "description": "We propose a new frontier: Neural Computers (NCs) -- an emerging machine form that unifies computation, memory, and I/O in a learned runtime state. Unlike conventional computers, which execute explici",
+      "published": "2026-04-06T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "b37f703b13c47f6c3df9fc8c9e3ad3a1",
       "title": "CUE-R: Beyond the Final Answer in Retrieval-Augmented Generation",
       "url": "https://huggingface.co/papers/2604.05467",
@@ -1167,58 +1283,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "5a754e46cb8f3515e78d1e09e719f87b",
-      "title": "Paper Circle: An Open-source Multi-agent Research Discovery and Analysis Framework",
-      "url": "https://huggingface.co/papers/2604.06170",
-      "description": "The rapid growth of scientific literature has made it increasingly difficult for researchers to efficiently discover, evaluate, and synthesize relevant work. Recent advances in multi-agent large langu",
-      "published": "2026-04-06T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 20,
-      "is_new": false
-    },
-    {
-      "id": "078e5619eb88a902d388c259741f50a7",
-      "title": "Experience Transfer for Multimodal LLM Agents in Minecraft Game",
-      "url": "https://huggingface.co/papers/2604.05533",
-      "description": "Multimodal LLM agents operating in complex game environments must continually reuse past experience to solve new tasks efficiently. In this work, we propose Echo, a transfer-oriented memory framework ",
-      "published": "2026-04-06T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 6,
-      "is_new": false
-    },
-    {
-      "id": "0e678f995ed11f4a5ad94292ab9ac360",
-      "title": "Action Images: End-to-End Policy Learning via Multiview Video Generation",
-      "url": "https://huggingface.co/papers/2604.06168",
-      "description": "World action models (WAMs) have emerged as a promising direction for robot policy learning, as they can leverage powerful video backbones to model the future states. However, existing approaches often",
-      "published": "2026-04-06T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 8,
-      "is_new": false
-    },
-    {
-      "id": "3d37ba82edc04d49176c9aaf82edbada",
-      "title": "Iran threatens OpenAI’s Stargate data center in Abu Dhabi",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat",
-      "description": "Iran's Islamic Revolutionary Guard Corps (IRGC) has published a video threatening OpenAI's planned Abu Dhabi data center if the US follows through on threats to attack the country's power plants, as r",
-      "published": "2026-04-06T14:14:52-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
+      "likes": 4,
       "is_new": false
     },
     {
@@ -1233,78 +1298,13 @@
       "category": "research",
       "likes": 2,
       "is_new": true
-    },
-    {
-      "id": "fecf10480a95cf9bb8b6ce2f74e7eccb",
-      "title": "ClawsBench: Evaluating Capability and Safety of LLM Productivity Agents in Simulated Workspaces",
-      "url": "https://huggingface.co/papers/2604.05172",
-      "description": "Large language model (LLM) agents are increasingly deployed to automate productivity tasks (e.g., email, scheduling, document management), but evaluating them on live services is risky due to potentia",
-      "published": "2026-04-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 15,
-      "is_new": false
-    },
-    {
-      "id": "84b635319e627c13e57108c2a4d79b44",
-      "title": "General Multimodal Protein Design Enables DNA-Encoding of Chemistry",
-      "url": "https://huggingface.co/papers/2604.05181",
-      "description": "Evolution is an extraordinary engine for enzymatic diversity, yet the chemistry it has explored remains a narrow slice of what DNA can encode. Deep generative models can design new proteins that bind ",
-      "published": "2026-04-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 20,
-      "is_new": false
-    },
-    {
-      "id": "d2b9b5ba94ce840ec1a82d71fac13a68",
-      "title": "Watch Before You Answer: Learning from Visually Grounded Post-Training",
-      "url": "https://huggingface.co/papers/2604.05117",
-      "description": "It is critical for vision-language models (VLMs) to comprehensively understand visual, temporal, and textual cues. However, despite rapid progress in multimodal modeling, video understanding performan",
-      "published": "2026-04-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 24,
-      "is_new": false
-    },
-    {
-      "id": "3384e153950879359180747afb8b7710",
-      "title": "MegaTrain: Full Precision Training of 100B+ Parameter Large Language Models on a Single GPU",
-      "url": "https://huggingface.co/papers/2604.05091",
-      "description": "We present MegaTrain, a memory-centric system that efficiently trains 100B+ parameter large language models at full precision on a single GPU. Unlike traditional GPU-centric systems, MegaTrain stores ",
-      "published": "2026-04-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 24,
-      "is_new": false
-    },
-    {
-      "id": "6db45f7c303a7ba3acd8f3d485a714d0",
-      "title": "How Well Do Agentic Skills Work in the Wild: Benchmarking LLM Skill Usage in Realistic Settings",
-      "url": "https://huggingface.co/papers/2604.04323",
-      "description": "Agent skills, which are reusable, domain-specific knowledge artifacts, have become a popular mechanism for extending LLM-based agents, yet formally benchmarking skill usage performance remains scarce.",
-      "published": "2026-04-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 24,
-      "is_new": false
     }
   ],
   "by_category": {
     "news": [
       {
         "id": "561854044d742db233cb2bd6cfa97b59",
-        "title": "AI agent Poke makes setting up automations as easy as sending a text",
+        "title": "Poke makes using AI agents as easy as sending a text",
         "url": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
         "description": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.",
         "published": "Wed, 08 Apr 2026 21:05:13 +0000",
@@ -1519,6 +1519,20 @@
         "is_new": false
       },
       {
+        "id": "47698191",
+        "title": "Ask HN: Deterministic codebase maps vs. LLM inferred knowledge graphs?",
+        "url": "https://news.ycombinator.com/item?id=47698191",
+        "description": "",
+        "published": "2026-04-09T01:11:58Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 2,
+        "comments": 1,
+        "is_new": true
+      },
+      {
         "id": "47696872",
         "title": "Ask HN: We got 100 stars. A weekend project got 12k. What are we missing?",
         "url": "https://news.ycombinator.com/item?id=47696872",
@@ -1529,21 +1543,19 @@
         "source_icon": "🟧",
         "category": "news",
         "points": 2,
-        "comments": 4,
+        "comments": 8,
         "is_new": true
       },
       {
-        "id": "47696273",
-        "title": "Show HN: CongaLine – Self-hosted isolated AI agent fleet (OpenClaw, Hermes)",
-        "url": "https://github.com/cruxdigital-llc/congaline",
-        "description": "",
-        "published": "2026-04-08T21:06:35Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
+        "id": "30aac13d11e3bca7091b0f57a9c86f18",
+        "title": "Gemini gets notebooks to help you organize projects",
+        "url": "https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm",
+        "description": "Google's Gemini is getting a feature called \"notebooks\" to help you organize things about certain topics in a single place while using the AI chatbot, the company announced on Wednesday. You can pull",
+        "published": "2026-04-08T20:06:12-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
         "category": "news",
-        "points": 2,
-        "comments": 0,
         "is_new": true
       },
       {
@@ -1570,7 +1582,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 5,
+        "points": 6,
         "comments": 0,
         "is_new": false
       },
@@ -1662,20 +1674,6 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "47687134",
-        "title": "Show HN: Bring AI Agents to industrial control via \"SDK-style\" real-time engine",
-        "url": "https://www.youtube.com/watch?v=3Uc_OT2CKiE",
-        "description": "",
-        "published": "2026-04-08T08:36:27Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 2,
-        "comments": 0,
         "is_new": false
       }
     ],
@@ -1876,7 +1874,7 @@
         "id": "a091c9557ede513cb1b773abcf329468",
         "title": "ClawsBench: Evaluating Capability and Safety of LLM Productivity Agents in Simulated Workspaces",
         "url": "https://arxiv.org/abs/2604.05172",
-        "description": "arXiv:2604.05172v1 Announce Type: new \nAbstract: Large language model (LLM) agents are increasingly deployed to automate productivity tasks (e.g., email, scheduling, document management), but evaluati",
+        "description": "arXiv:2604.05172v2 Announce Type: new \nAbstract: Large language model (LLM) agents are increasingly deployed to automate productivity tasks (e.g., email, scheduling, document management), but evaluati",
         "published": "Wed, 08 Apr 2026 00:00:00 -0400",
         "source_id": "arxiv-ai",
         "source_name": "arXiv AI",
