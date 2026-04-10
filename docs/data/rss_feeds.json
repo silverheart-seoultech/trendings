@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-10T06:06:02.870288+00:00",
+  "last_updated": "2026-04-10T07:51:43.319783+00:00",
   "total_entries": 108,
-  "new_entries": 7,
+  "new_entries": 11,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -924,6 +924,32 @@
       "is_new": false
     },
     {
+      "id": "7d3a678bd26e0543ba089d66f8820a07",
+      "title": "On the Global Photometric Alignment for Low-Level Vision",
+      "url": "https://huggingface.co/papers/2604.08172",
+      "description": "Supervised low-level vision models rely on pixel-wise losses against paired references, yet paired training sets exhibit per-pair photometric inconsistency, say, different image pairs demand different",
+      "published": "2026-04-08T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "3cbef4931fbf3bbade9ec92c889c30bb",
+      "title": "ImplicitMemBench: Measuring Unconscious Behavioral Adaptation in Large Language Models",
+      "url": "https://huggingface.co/papers/2604.08064",
+      "description": "Existing memory benchmarks for LLM agents evaluate explicit recall of facts, yet overlook implicit memory where experience becomes automated behavior without conscious retrieval. This gap is critical:",
+      "published": "2026-04-08T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "c995227bcef268c994006285ec73f0ec",
       "title": "ViVa: A Video-Generative Value Model for Robot Reinforcement Learning",
       "url": "https://huggingface.co/papers/2604.08168",
@@ -933,7 +959,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 7,
       "is_new": true
     },
     {
@@ -946,7 +972,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 23,
       "is_new": true
     },
     {
@@ -959,7 +985,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 4,
       "is_new": true
     },
     {
@@ -972,7 +998,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
+      "likes": 7,
       "is_new": true
     },
     {
@@ -998,7 +1024,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 27,
+      "likes": 42,
       "is_new": false
     },
     {
@@ -1011,7 +1037,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 20,
+      "likes": 23,
       "is_new": false
     },
     {
@@ -1024,7 +1050,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 18,
+      "likes": 20,
       "is_new": false
     },
     {
@@ -1037,7 +1063,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 47,
+      "likes": 73,
       "is_new": false
     },
     {
@@ -1063,59 +1089,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
-      "is_new": false
-    },
-    {
-      "id": "2c787b06d84ec7b84e089bfb26c9fffd",
-      "title": "RewardFlow: Generate Images by Optimizing What You Reward",
-      "url": "https://huggingface.co/papers/2604.08536",
-      "description": "We introduce RewardFlow, an inversion-free framework that steers pretrained diffusion and flow-matching models at inference time through multi-reward Langevin dynamics. RewardFlow unifies complementar",
-      "published": "2026-04-08T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
-      "is_new": false
-    },
-    {
-      "id": "020716ef5d699b5b69f104985332dcb9",
-      "title": "Phantom: Physics-Infused Video Generation via Joint Modeling of Visual and Latent Physical Dynamics",
-      "url": "https://huggingface.co/papers/2604.08503",
-      "description": "Recent advances in generative video modeling, driven by large-scale datasets and powerful architectures, have yielded remarkable visual realism. However, emerging evidence suggests that simply scaling",
-      "published": "2026-04-08T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
-      "is_new": false
-    },
-    {
-      "id": "94768dff59483fb0aad2051f89412b7e",
-      "title": "PokeGym: A Visually-Driven Long-Horizon Benchmark for Vision-Language Models",
-      "url": "https://huggingface.co/papers/2604.08340",
-      "description": "While Vision-Language Models (VLMs) have achieved remarkable progress in static visual understanding, their deployment in complex 3D embodied environments remains severely limited. Existing benchmarks",
-      "published": "2026-04-08T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
-      "is_new": false
-    },
-    {
-      "id": "acaba27fe144d2f4a9fab4e13dcf5522",
-      "title": "SkillClaw: Let Skills Evolve Collectively with Agentic Evolver",
-      "url": "https://huggingface.co/papers/2604.08377",
-      "description": "Large language model (LLM) agents such as OpenClaw rely on reusable skills to perform complex tasks, yet these skills remain largely static after deployment. As a result, similar workflows, tool usage",
-      "published": "2026-04-08T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 72,
+      "likes": 7,
       "is_new": false
     },
     {
@@ -1241,6 +1215,32 @@
       "is_new": false
     },
     {
+      "id": "7433145a882fea2f2b9822a47820b640",
+      "title": "Personalizing Text-to-Image Generation to Individual Taste",
+      "url": "https://huggingface.co/papers/2604.07427",
+      "description": "Modern text-to-image (T2I) models generate high-fidelity visuals but remain indifferent to individual user preferences. While existing reward models optimize for \"average\" human appeal, they fail to c",
+      "published": "2026-04-07T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "547a6bab4c9293be020d4ec89a9bd3a0",
+      "title": "POS-ISP: Pipeline Optimization at the Sequence Level for Task-aware ISP",
+      "url": "https://huggingface.co/papers/2604.06938",
+      "description": "Recent work has explored optimizing image signal processing (ISP) pipelines for various tasks by composing predefined modules and adapting them to task-specific objectives. However, jointly optimizing",
+      "published": "2026-04-07T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "65cc41a71fa21fe7c166bb39245e7285",
       "title": "Rethinking Generalization in Reasoning SFT: A Conditional Analysis on Optimization, Data, and Model Capability",
       "url": "https://huggingface.co/papers/2604.06628",
@@ -1250,7 +1250,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 16,
+      "likes": 29,
       "is_new": true
     },
     {
@@ -1263,7 +1263,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 20,
+      "likes": 23,
       "is_new": false
     },
     {
