@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-10T13:24:48.554318+00:00",
+  "last_updated": "2026-04-10T13:46:37.924547+00:00",
   "total_entries": 108,
-  "new_entries": 8,
+  "new_entries": 1,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -755,7 +755,7 @@
       "category": "news",
       "points": 4,
       "comments": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "34bc94ee1e94f29a3ca76518147e46dd",
@@ -767,7 +767,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "d37289dcfd31494a112eb589ab355609",
@@ -779,7 +779,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "50565080518bd319616fd6f5bf3837f8",
@@ -803,7 +803,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "c12dda6d544e1cf16ad4f998dc8e8e35",
@@ -879,8 +879,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
-      "is_new": true
+      "likes": 3,
+      "is_new": false
     },
     {
       "id": "47701941",
@@ -984,7 +984,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 43,
+      "likes": 45,
       "is_new": false
     },
     {
@@ -997,8 +997,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
-      "is_new": true
+      "likes": 2,
+      "is_new": false
     },
     {
       "id": "9bda52824fc8617e2b25314c3536a550",
@@ -1011,7 +1011,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "7d3a678bd26e0543ba089d66f8820a07",
@@ -1088,7 +1088,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
+      "likes": 8,
       "is_new": false
     },
     {
@@ -1114,7 +1114,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 32,
+      "likes": 33,
       "is_new": false
     },
     {
@@ -1128,19 +1128,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 23,
-      "is_new": false
-    },
-    {
-      "id": "5a66a82c97f4afc26bca54273ac0a2b5",
-      "title": "When Numbers Speak: Aligning Textual Numerals and Visual Instances in Text-to-Video Diffusion Models",
-      "url": "https://huggingface.co/papers/2604.08546",
-      "description": "Text-to-video diffusion models have enabled open-ended video synthesis, but often struggle with generating the correct number of objects specified in a prompt. We introduce NUMINA , a training-free id",
-      "published": "2026-04-08T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 100,
       "is_new": false
     },
     {
@@ -1242,6 +1229,19 @@
       "is_new": false
     },
     {
+      "id": "f8ee84fc6d3b41da9d1fef5ee568faa3",
+      "title": "CylinderDepth: Cylindrical Spatial Attention for Multi-View Consistent Self-Supervised Surround Depth Estimation",
+      "url": "https://huggingface.co/papers/2511.16428",
+      "description": "Self-supervised surround-view depth estimation enables dense, low-cost 3D perception with a 360° field of view from multiple minimally overlapping images. Yet, most existing methods suffer from depth ",
+      "published": "2026-04-07T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "7433145a882fea2f2b9822a47820b640",
       "title": "Personalizing Text-to-Image Generation to Individual Taste",
       "url": "https://huggingface.co/papers/2604.07427",
@@ -1277,7 +1277,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 63,
+      "likes": 68,
       "is_new": false
     },
     {
@@ -1290,7 +1290,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 24,
+      "likes": 25,
       "is_new": false
     }
   ],
@@ -1524,7 +1524,7 @@
         "category": "news",
         "points": 4,
         "comments": 0,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "34bc94ee1e94f29a3ca76518147e46dd",
@@ -1536,7 +1536,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "d37289dcfd31494a112eb589ab355609",
@@ -1548,7 +1548,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "50565080518bd319616fd6f5bf3837f8",
@@ -1572,7 +1572,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "c12dda6d544e1cf16ad4f998dc8e8e35",
