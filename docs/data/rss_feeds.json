@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-10T11:11:10.425200+00:00",
+  "last_updated": "2026-04-10T11:58:52.586234+00:00",
   "total_entries": 108,
-  "new_entries": 4,
+  "new_entries": 6,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -758,6 +758,18 @@
       "is_new": true
     },
     {
+      "id": "d37289dcfd31494a112eb589ab355609",
+      "title": "Gen Z’s love-hate relationship with AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/909687/gen-z-doesnt-like-ai-gallup",
+      "description": "Gen Z is increasingly disillusioned with AI - just not enough to stop using it. A new Gallup report released this week, based on responses from nearly 1,600 people ages 14 to 29 across the US, suggest",
+      "published": "2026-04-10T07:23:28-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "50565080518bd319616fd6f5bf3837f8",
       "title": "Google’s Gemini AI can answer your questions with 3D models and simulations",
       "url": "https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations",
@@ -963,6 +975,32 @@
       "is_new": false
     },
     {
+      "id": "27b86404ba33f94bcb1ed7d91d4b385e",
+      "title": "ClawBench: Can AI Agents Complete Everyday Online Tasks?",
+      "url": "https://huggingface.co/papers/2604.08523",
+      "description": "AI agents may be able to automate your inbox, but can they automate other routine aspects of your life? Everyday online tasks offer a realistic yet unsolved testbed for evaluating the next generation ",
+      "published": "2026-04-08T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 41,
+      "is_new": false
+    },
+    {
+      "id": "52b896f9bed66859c0b0a5f236a50305",
+      "title": "Small Vision-Language Models are Smart Compressors for Long Video Understanding",
+      "url": "https://huggingface.co/papers/2604.08120",
+      "description": "Adapting Multimodal Large Language Models (MLLMs) for hour-long videos is bottlenecked by context limits. Dense visual streams saturate token budgets and exacerbate the lost-in-the-middle phenomenon. ",
+      "published": "2026-04-08T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "9bda52824fc8617e2b25314c3536a550",
       "title": "AnomalyVFM -- Transforming Vision Foundation Models into Zero-Shot Anomaly Detectors",
       "url": "https://huggingface.co/papers/2601.20524",
@@ -1011,20 +1049,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
-      "is_new": false
-    },
-    {
-      "id": "27b86404ba33f94bcb1ed7d91d4b385e",
-      "title": "ClawBench: Can AI Agents Complete Everyday Online Tasks?",
-      "url": "https://huggingface.co/papers/2604.08523",
-      "description": "AI agents may be able to automate your inbox, but can they automate other routine aspects of your life? Everyday online tasks offer a realistic yet unsolved testbed for evaluating the next generation ",
-      "published": "2026-04-08T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 39,
+      "likes": 8,
       "is_new": false
     },
     {
@@ -1037,7 +1062,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 5,
       "is_new": false
     },
     {
@@ -1063,7 +1088,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -1089,7 +1114,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 27,
+      "likes": 32,
       "is_new": false
     },
     {
@@ -1102,7 +1127,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 22,
+      "likes": 23,
       "is_new": false
     },
     {
@@ -1115,20 +1140,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 98,
-      "is_new": false
-    },
-    {
-      "id": "656b84970dbe4872dd3674014fac1cdb",
-      "title": "Beyond Stochastic Exploration: What Makes Training Data Valuable for Agentic Search",
-      "url": "https://huggingface.co/papers/2604.08124",
-      "description": "Reinforcement learning (RL) has become an effective approach for advancing the reasoning capabilities of large language models (LLMs) through the strategic integration of external search engines. Howe",
-      "published": "2026-04-08T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
+      "likes": 99,
       "is_new": false
     },
     {
@@ -1185,18 +1197,6 @@
       "category": "news",
       "points": 1,
       "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "cdede6c3239c6689be0a107d39b929de",
-      "title": "The vibes are off at OpenAI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/908513/the-vibes-are-off-at-openai",
-      "description": "OpenAI is in a relatively precarious position. The company is and has been a funding behemoth - just over a week ago, it closed $122 billion in funding at a post-money valuation of $852 billion. It's",
-      "published": "2026-04-08T12:26:38-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
       "is_new": false
     },
     {
@@ -1290,7 +1290,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 23,
+      "likes": 24,
       "is_new": false
     }
   ],
@@ -1527,6 +1527,18 @@
         "is_new": true
       },
       {
+        "id": "d37289dcfd31494a112eb589ab355609",
+        "title": "Gen Z’s love-hate relationship with AI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/909687/gen-z-doesnt-like-ai-gallup",
+        "description": "Gen Z is increasingly disillusioned with AI - just not enough to stop using it. A new Gallup report released this week, based on responses from nearly 1,600 people ages 14 to 29 across the US, suggest",
+        "published": "2026-04-10T07:23:28-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "50565080518bd319616fd6f5bf3837f8",
         "title": "Google’s Gemini AI can answer your questions with 3D models and simulations",
         "url": "https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations",
@@ -1646,18 +1658,6 @@
         "url": "https://www.theverge.com/column/908880/openai-made-economic-proposals-heres-what-dc-thinks-of-them",
         "description": "Happy ceasefire day and welcome to Regulator, a newsletter for Verge subscribers about Big Tech's rocky journey through the world of politics. If you're not a subscriber yet, you can do so here, but m",
         "published": "2026-04-09T08:44:09-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "4f87db76a4b9b672b03d605cefb3377f",
-        "title": "Google makes it easy to deepfake yourself",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/909104/youtube-shorts-make-ai-avatar",
-        "description": "YouTube Shorts is rolling out a new AI-powered feature giving creators an easy way to realistically clone themselves on camera. The launch, hinted at earlier this year, reflects the platform's fraught",
-        "published": "2026-04-09T06:53:49-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
