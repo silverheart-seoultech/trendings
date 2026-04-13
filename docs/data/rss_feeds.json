@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-13T14:05:56.520149+00:00",
+  "last_updated": "2026-04-13T15:43:27.869203+00:00",
   "total_entries": 110,
-  "new_entries": 0,
+  "new_entries": 8,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,18 +47,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "561854044d742db233cb2bd6cfa97b59",
-      "title": "Poke makes using AI agents as easy as sending a text",
-      "url": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
-      "description": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.",
-      "published": "Wed, 08 Apr 2026 21:05:13 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
     {
       "id": "2380ccb72e9cdcb157d5b01988d6b7db",
       "title": "ChatGPT finally offers $100/month Pro plan",
@@ -226,6 +214,18 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "48f40a99a5e29febee07fadce31e5ccb",
+      "title": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
+      "url": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
+      "description": "\"The company is ready and getting more ready for every day,\" Rauch said about an IPO at HumanX conference.",
+      "published": "Mon, 13 Apr 2026 15:22:29 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "f35db54e5f9fb9ffabf048d329cc8848",
@@ -768,6 +768,32 @@
       "is_new": false
     },
     {
+      "id": "47752780",
+      "title": "Lambda Just Got a File System. I Put AI Agents on It",
+      "url": "https://edjgeek.com/blog/s3-files-lambda-agents/",
+      "description": "",
+      "published": "2026-04-13T14:46:38Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "b42ae5984dc055d5b161eaccab678b85",
+      "title": "Microsoft is testing OpenClaw-like AI bots for 365 Copilot",
+      "url": "https://www.theverge.com/tech/911080/microsoft-ai-openclaw-365-businesses",
+      "description": "Microsoft is looking into ways it can integrate OpenClaw-style features into 365 Copilot, according to a report from The Information. The test reportedly comes as part of efforts to make its 365 Copil",
+      "published": "2026-04-13T11:41:09-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "ea24c78406f648c5e025c7df8c01f675",
       "title": "Mark Zuckerberg is reportedly building an AI clone to replace him in meetings",
       "url": "https://www.theverge.com/tech/910990/meta-ceo-mark-zuckerberg-ai-clone",
@@ -789,7 +815,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 4,
+      "points": 7,
       "comments": 0,
       "is_new": false
     },
@@ -1002,16 +1028,30 @@
       "is_new": false
     },
     {
-      "id": "d37289dcfd31494a112eb589ab355609",
-      "title": "Gen Z’s love-hate relationship with AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/909687/gen-z-doesnt-like-ai-gallup",
-      "description": "Gen Z is increasingly disillusioned with AI - just not enough to stop using it. A new Gallup report released this week, based on responses from nearly 1,600 people ages 14 to 29 across the US, suggest",
-      "published": "2026-04-10T08:11:17-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
+      "id": "b1ca67c006cb083d00ebdcb77fd2dab7",
+      "title": "Process Reward Agents for Steering Knowledge-Intensive Reasoning",
+      "url": "https://huggingface.co/papers/2604.09482",
+      "description": "Reasoning in knowledge-intensive domains remains challenging as intermediate steps are often not locally verifiable: unlike math or code, evaluating step correctness may require synthesizing clues acr",
+      "published": "2026-04-09T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "e3d3533796fa4aefa00e2e6e4c42fcb5",
+      "title": "EquiformerV3: Scaling Efficient, Expressive, and General SE(3)-Equivariant Graph Attention Transformers",
+      "url": "https://huggingface.co/papers/2604.09130",
+      "description": "As SE(3)-equivariant graph neural networks mature as a core tool for 3D atomistic modeling, improving their efficiency, expressivity, and physical consistency has become a central challenge for large-",
+      "published": "2026-04-09T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
     },
     {
       "id": "535d84d9d3faea69b83843c2f6e3756f",
@@ -1023,7 +1063,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -1062,46 +1102,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 24,
-      "is_new": false
-    },
-    {
-      "id": "6f68917e3d39e515c15698195682522c",
-      "title": "CT-1: Vision-Language-Camera Models Transfer Spatial Reasoning Knowledge to Camera-Controllable Video Generation",
-      "url": "https://huggingface.co/papers/2604.09201",
-      "description": "Camera-controllable video generation aims to synthesize videos with flexible and physically plausible camera movements. However, existing methods either provide imprecise camera control from text prom",
-      "published": "2026-04-09T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
-      "is_new": false
-    },
-    {
-      "id": "f3cb3a564c0a43d3dafd4c7c18116876",
-      "title": "ELT: Elastic Looped Transformers for Visual Generation",
-      "url": "https://huggingface.co/papers/2604.09168",
-      "description": "We introduce Elastic Looped Transformers (ELT), a highly parameter-efficient class of visual generative models based on a recurrent transformer architecture. While conventional generative models rely ",
-      "published": "2026-04-09T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 11,
-      "is_new": false
-    },
-    {
-      "id": "c129d51fbc1cebeac66e1c4b23f70f78",
-      "title": "VisionFoundry: Teaching VLMs Visual Perception with Synthetic Images",
-      "url": "https://huggingface.co/papers/2604.09531",
-      "description": "Vision-language models (VLMs) still struggle with visual perception tasks such as spatial understanding and viewpoint recognition. One plausible contributing factor is that natural image datasets prov",
-      "published": "2026-04-09T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 5,
+      "likes": 29,
       "is_new": false
     },
     {
@@ -1175,6 +1176,19 @@
       "is_new": false
     },
     {
+      "id": "a90c74e999e06f07f43802423573f01d",
+      "title": "p1: Better Prompt Optimization with Fewer Prompts",
+      "url": "https://huggingface.co/papers/2604.08801",
+      "description": "Prompt optimization improves language models without updating their weights by searching for a better system prompt, but its effectiveness varies widely across tasks. We study what makes a task amenab",
+      "published": "2026-04-08T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "39d23d3998d7447d8a292f5e172e8a9a",
       "title": "Initialisation Determines the Basin: Efficient Codebook Optimisation for Extreme LLM Quantization",
       "url": "https://huggingface.co/papers/2604.08118",
@@ -1236,7 +1250,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 122,
+      "likes": 138,
       "is_new": false
     },
     {
@@ -1249,7 +1263,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 30,
+      "likes": 31,
       "is_new": false
     },
     {
@@ -1279,36 +1293,10 @@
       "points": 9,
       "comments": 0,
       "is_new": false
-    },
-    {
-      "id": "47690674",
-      "title": "Alicization Town – A decentralized pixel MMO for AI agents",
-      "url": "https://news.ycombinator.com/item?id=47690674",
-      "description": "",
-      "published": "2026-04-08T14:24:08Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 1,
-      "is_new": false
     }
   ],
   "by_category": {
     "news": [
-      {
-        "id": "561854044d742db233cb2bd6cfa97b59",
-        "title": "Poke makes using AI agents as easy as sending a text",
-        "url": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
-        "description": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.",
-        "published": "Wed, 08 Apr 2026 21:05:13 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
       {
         "id": "2380ccb72e9cdcb157d5b01988d6b7db",
         "title": "ChatGPT finally offers $100/month Pro plan",
@@ -1478,6 +1466,18 @@
         "is_new": false
       },
       {
+        "id": "48f40a99a5e29febee07fadce31e5ccb",
+        "title": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
+        "url": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
+        "description": "\"The company is ready and getting more ready for every day,\" Rauch said about an IPO at HumanX conference.",
+        "published": "Mon, 13 Apr 2026 15:22:29 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "f35db54e5f9fb9ffabf048d329cc8848",
         "title": "The largest orbital compute cluster is open for business",
         "url": "https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/",
@@ -1538,6 +1538,32 @@
         "is_new": false
       },
       {
+        "id": "47752780",
+        "title": "Lambda Just Got a File System. I Put AI Agents on It",
+        "url": "https://edjgeek.com/blog/s3-files-lambda-agents/",
+        "description": "",
+        "published": "2026-04-13T14:46:38Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 1,
+        "comments": 0,
+        "is_new": true
+      },
+      {
+        "id": "b42ae5984dc055d5b161eaccab678b85",
+        "title": "Microsoft is testing OpenClaw-like AI bots for 365 Copilot",
+        "url": "https://www.theverge.com/tech/911080/microsoft-ai-openclaw-365-businesses",
+        "description": "Microsoft is looking into ways it can integrate OpenClaw-style features into 365 Copilot, according to a report from The Information. The test reportedly comes as part of efforts to make its 365 Copil",
+        "published": "2026-04-13T11:41:09-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "ea24c78406f648c5e025c7df8c01f675",
         "title": "Mark Zuckerberg is reportedly building an AI clone to replace him in meetings",
         "url": "https://www.theverge.com/tech/910990/meta-ceo-mark-zuckerberg-ai-clone",
@@ -1559,7 +1585,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 4,
+        "points": 7,
         "comments": 0,
         "is_new": false
       },
@@ -1641,32 +1667,6 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "a1b2fa60fee1f97a6ad28cfbfddc7d8f",
-        "title": "How Iran out-shitposted the White House",
-        "url": "https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop",
-        "description": "In the early days of the war on Iran, while the White House was busy posting Call of Duty memes and AI slop of dancing bowling pins, the Iranian regime's state media was flooding the zone with video a",
-        "published": "2026-04-10T20:18:45-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "47721255",
-        "title": "Show HN: Eve – Managed OpenClaw for work",
-        "url": "https://eve.new/login",
-        "description": "",
-        "published": "2026-04-10T17:31:22Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 71,
-        "comments": 39,
         "is_new": false
       }
     ],
