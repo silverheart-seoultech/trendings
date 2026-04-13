@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-13T09:08:24.340338+00:00",
+  "last_updated": "2026-04-13T10:54:33.141056+00:00",
   "total_entries": 110,
-  "new_entries": 1,
+  "new_entries": 6,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -782,6 +782,18 @@
       "is_new": true
     },
     {
+      "id": "b9d289891401567b0b9b18feaf13296a",
+      "title": "Sam Altman reportedly targeted in second attack",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/910890/openai-sam-altman-second-home-attack-shooting",
+      "description": "Sam Altman was seemingly targeted by a second attack on Sunday morning, with two suspects arrested following a shooting at his Russian Hill residence, The San Francisco Standard reports. The suspects",
+      "published": "2026-04-13T06:20:33-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "47743208",
       "title": "Show HN: Prediction game where AI copies of people earn and replicate",
       "url": "https://news.ycombinator.com/item?id=47743208",
@@ -1002,6 +1014,19 @@
       "is_new": false
     },
     {
+      "id": "535d84d9d3faea69b83843c2f6e3756f",
+      "title": "ScheMatiQ: From Research Question to Structured Data through Interactive Schema Discovery",
+      "url": "https://huggingface.co/papers/2604.09237",
+      "description": "Many disciplines pose natural-language research questions over large document collections whose answers typically require structured evidence, traditionally obtained by manually designing an annotatio",
+      "published": "2026-04-09T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "8fcbb14cd93ba50313cf6777b5de5be7",
       "title": "Large Language Models Generate Harmful Content Using a Distinct, Unified Mechanism",
       "url": "https://huggingface.co/papers/2604.09544",
@@ -1024,7 +1049,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 13,
+      "likes": 14,
       "is_new": false
     },
     {
@@ -1063,7 +1088,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 6,
       "is_new": false
     },
     {
@@ -1077,18 +1102,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 5,
-      "is_new": false
-    },
-    {
-      "id": "e9f273d7e91200becfd5fe5fa6ee2daa",
-      "title": "ChatGPT has a new $100 per month Pro subscription",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/909599/chatgpt-pro-subscription-new",
-      "description": "OpenAI has announced a new version of its ChatGPT Pro subscription that costs $100 per month. The new Pro tier offers \"5x more\" usage of its Codex coding tool than the $20 per month Plus subscription",
-      "published": "2026-04-09T18:57:15-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
       "is_new": false
     },
     {
@@ -1162,6 +1175,32 @@
       "is_new": false
     },
     {
+      "id": "da238df8ac6014db16ba6bea0c9f8fe2",
+      "title": "AVGen-Bench: A Task-Driven Benchmark for Multi-Granular Evaluation of Text-to-Audio-Video Generation",
+      "url": "https://huggingface.co/papers/2604.08540",
+      "description": "Text-to-Audio-Video (T2AV) generation is rapidly becoming a core interface for media creation, yet its evaluation remains fragmented. Existing benchmarks largely assess audio and video in isolation or",
+      "published": "2026-04-08T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "5ec9b634a81764af4384e43183c7c533",
+      "title": "On Semiotic-Grounded Interpretive Evaluation of Generative Art",
+      "url": "https://huggingface.co/papers/2604.08641",
+      "description": "Interpretation is essential to deciphering the language of art: audiences communicate with artists by recovering meaning from visual artifacts. However, current Generative Art (GenArt) evaluators rema",
+      "published": "2026-04-08T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "6f2a00a40c4419b4c7e39163ebdedb61",
       "title": "Cross-Modal Emotion Transfer for Emotion Editing in Talking Face Video",
       "url": "https://huggingface.co/papers/2604.07786",
@@ -1184,7 +1223,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 48,
+      "likes": 76,
       "is_new": false
     },
     {
@@ -1197,33 +1236,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 25,
-      "is_new": false
-    },
-    {
-      "id": "27b86404ba33f94bcb1ed7d91d4b385e",
-      "title": "ClawBench: Can AI Agents Complete Everyday Online Tasks?",
-      "url": "https://huggingface.co/papers/2604.08523",
-      "description": "AI agents may be able to automate your inbox, but can they automate other routine aspects of your life? Everyday online tasks offer a realistic yet unsolved testbed for evaluating the next generation ",
-      "published": "2026-04-08T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 245,
-      "is_new": false
-    },
-    {
-      "id": "52b896f9bed66859c0b0a5f236a50305",
-      "title": "Small Vision-Language Models are Smart Compressors for Long Video Understanding",
-      "url": "https://huggingface.co/papers/2604.08120",
-      "description": "Adapting Multimodal Large Language Models (MLLMs) for hour-long videos is bottlenecked by context limits. Dense visual streams saturate token budgets and exacerbate the lost-in-the-middle phenomenon. ",
-      "published": "2026-04-08T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 15,
+      "likes": 28,
       "is_new": false
     },
     {
@@ -1279,20 +1292,6 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 1,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "47688116",
-      "title": "Show HN: I built an open protocol for Agent-to-agent commercial negotiation",
-      "url": "https://a2cn.io/",
-      "description": "",
-      "published": "2026-04-08T10:23:58Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 3,
       "comments": 0,
       "is_new": false
     }
@@ -1554,6 +1553,18 @@
         "is_new": true
       },
       {
+        "id": "b9d289891401567b0b9b18feaf13296a",
+        "title": "Sam Altman reportedly targeted in second attack",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/910890/openai-sam-altman-second-home-attack-shooting",
+        "description": "Sam Altman was seemingly targeted by a second attack on Sunday morning, with two suspects arrested following a shooting at his Russian Hill residence, The San Francisco Standard reports. The suspects",
+        "published": "2026-04-13T06:20:33-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "47743208",
         "title": "Show HN: Prediction game where AI copies of people earn and replicate",
         "url": "https://news.ycombinator.com/item?id=47743208",
@@ -1659,18 +1670,6 @@
         "category": "news",
         "points": 1,
         "comments": 1,
-        "is_new": false
-      },
-      {
-        "id": "436aafacf15c9661f8a770e0af34875b",
-        "title": "The Iranian Lego AI video creators credit their virality to &#8216;heart&#8217;",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/909948/explosive-media-lego-iran-war-trump-netanyahu",
-        "description": "Donald Trump has spun the recent rescue of a downed airman whose fighter jet was destroyed behind Iranian borders as a resounding success. But the story is very different in one of the many viral, AI-",
-        "published": "2026-04-10T16:58:38-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
         "is_new": false
       }
     ],
