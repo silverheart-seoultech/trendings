@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-13T10:54:33.141056+00:00",
+  "last_updated": "2026-04-13T12:09:39.739964+00:00",
   "total_entries": 110,
-  "new_entries": 6,
+  "new_entries": 8,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -1088,7 +1088,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
+      "likes": 9,
       "is_new": false
     },
     {
@@ -1175,6 +1175,19 @@
       "is_new": false
     },
     {
+      "id": "39d23d3998d7447d8a292f5e172e8a9a",
+      "title": "Initialisation Determines the Basin: Efficient Codebook Optimisation for Extreme LLM Quantization",
+      "url": "https://huggingface.co/papers/2604.08118",
+      "description": "Additive quantization enables extreme LLM compression with O(1) lookup-table dequantization, making it attractive for edge deployment. Yet at 2-bit precision, it often fails catastrophically, even wit",
+      "published": "2026-04-08T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "da238df8ac6014db16ba6bea0c9f8fe2",
       "title": "AVGen-Bench: A Task-Driven Benchmark for Multi-Granular Evaluation of Text-to-Audio-Video Generation",
       "url": "https://huggingface.co/papers/2604.08540",
@@ -1223,7 +1236,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 76,
+      "likes": 94,
       "is_new": false
     },
     {
@@ -1236,7 +1249,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 28,
+      "likes": 29,
       "is_new": false
     },
     {
@@ -1279,20 +1292,6 @@
       "category": "news",
       "points": 2,
       "comments": 1,
-      "is_new": false
-    },
-    {
-      "id": "47689504",
-      "title": "Show HN: Flowcost – know what your AI workflow is likely to cost",
-      "url": "https://www.flowcost.ai/",
-      "description": "",
-      "published": "2026-04-08T12:51:58Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 1,
-      "comments": 0,
       "is_new": false
     }
   ],
