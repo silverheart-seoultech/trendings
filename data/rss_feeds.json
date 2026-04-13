@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-13T19:36:51.498230+00:00",
+  "last_updated": "2026-04-13T21:07:24.785120+00:00",
   "total_entries": 110,
-  "new_entries": 0,
+  "new_entries": 2,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -195,7 +195,7 @@
       "id": "67a5aaba5823bfde7eacbc63a8cd2fa8",
       "title": "Microsoft is working on yet another OpenClaw-like agent",
       "url": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
-      "description": "The company has also previously introduced agents that are able to complete tasks, Cowork and Copilot Tasks.",
+      "description": "The new features would be geared toward enterprise customers, with better security controls than the famously risky open source OpenClaw agent.",
       "published": "Mon, 13 Apr 2026 19:05:19 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
@@ -219,7 +219,7 @@
       "id": "48f40a99a5e29febee07fadce31e5ccb",
       "title": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
       "url": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
-      "description": "\"The company is ready and getting more ready for every day,\" Rauch said about an IPO at the HumanX conference.",
+      "description": "While many startups founded prior to the emergence of ChatGPT are struggling to position themselves for the AI era, Vercel, a 10-year-old dev tool and website hosting platform, is benefiting from the",
       "published": "Mon, 13 Apr 2026 15:22:29 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
@@ -810,6 +810,18 @@
       "is_new": false
     },
     {
+      "id": "4a5ae02d01355b5704b515cc9b7d4489",
+      "title": "AI influencers are ‘everywhere’ at Coachella",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/911267/ai-influencers-coachella",
+      "description": "Coachella kicked off on Friday, and as usual, it's the place to be for online influencers looking to show off their memorable experiences at the festival. A quick scroll through my social media feeds",
+      "published": "2026-04-13T15:59:42-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "47752780",
       "title": "Lambda Just Got a File System. I Put AI Agents on It",
       "url": "https://edjgeek.com/blog/s3-files-lambda-agents/",
@@ -1006,18 +1018,6 @@
       "is_new": false
     },
     {
-      "id": "436aafacf15c9661f8a770e0af34875b",
-      "title": "The Iranian Lego AI video creators credit their virality to &#8216;heart&#8217;",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/909948/explosive-media-lego-iran-war-trump-netanyahu",
-      "description": "Donald Trump has spun the recent rescue of a downed airman whose fighter jet was destroyed behind Iranian borders as a resounding success. But the story is very different in one of the many viral, AI-",
-      "published": "2026-04-10T16:58:38-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "47720741",
       "title": "Context Engineering – LLM Memory and Retrieval for AI Agents",
       "url": "https://weaviate.io/blog/context-engineering",
@@ -1070,6 +1070,19 @@
       "is_new": false
     },
     {
+      "id": "479c35da2afdafd9be68a6591d8acea1",
+      "title": "MixFlow: Mixed Source Distributions Improve Rectified Flows",
+      "url": "https://huggingface.co/papers/2604.09181",
+      "description": "Diffusion models and their variations, such as rectified flows, generate diverse and high-quality images, but they are still hindered by slow iterative sampling caused by the highly curved generative ",
+      "published": "2026-04-09T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "fe186413ad71f956bb0d3653ba8263c5",
       "title": "Envisioning the Future, One Step at a Time",
       "url": "https://huggingface.co/papers/2604.09527",
@@ -1105,7 +1118,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -1131,7 +1144,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -1227,7 +1240,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -1266,7 +1279,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -1280,19 +1293,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "c6242cc3b1c67a85c76e9ed719b06b37",
-      "title": "WildDet3D: Scaling Promptable 3D Detection in the Wild",
-      "url": "https://huggingface.co/papers/2604.08626",
-      "description": "Understanding objects in 3D from a single image is a cornerstone of spatial intelligence. A key step toward this goal is monocular 3D object detection--recovering the extent, location, and orientation",
-      "published": "2026-04-08T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 167,
       "is_new": false
     }
   ],
@@ -1446,7 +1446,7 @@
         "id": "67a5aaba5823bfde7eacbc63a8cd2fa8",
         "title": "Microsoft is working on yet another OpenClaw-like agent",
         "url": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
-        "description": "The company has also previously introduced agents that are able to complete tasks, Cowork and Copilot Tasks.",
+        "description": "The new features would be geared toward enterprise customers, with better security controls than the famously risky open source OpenClaw agent.",
         "published": "Mon, 13 Apr 2026 19:05:19 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
@@ -1470,7 +1470,7 @@
         "id": "48f40a99a5e29febee07fadce31e5ccb",
         "title": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
         "url": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
-        "description": "\"The company is ready and getting more ready for every day,\" Rauch said about an IPO at the HumanX conference.",
+        "description": "While many startups founded prior to the emergence of ChatGPT are struggling to position themselves for the AI era, Vercel, a 10-year-old dev tool and website hosting platform, is benefiting from the",
         "published": "Mon, 13 Apr 2026 15:22:29 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
@@ -1581,6 +1581,18 @@
         "is_new": false
       },
       {
+        "id": "4a5ae02d01355b5704b515cc9b7d4489",
+        "title": "AI influencers are ‘everywhere’ at Coachella",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/911267/ai-influencers-coachella",
+        "description": "Coachella kicked off on Friday, and as usual, it's the place to be for online influencers looking to show off their memorable experiences at the festival. A quick scroll through my social media feeds",
+        "published": "2026-04-13T15:59:42-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "47752780",
         "title": "Lambda Just Got a File System. I Put AI Agents on It",
         "url": "https://edjgeek.com/blog/s3-files-lambda-agents/",
@@ -1652,20 +1664,6 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "47749295",
-        "title": "Show HN: Equirect – a Rust VR video player",
-        "url": "https://github.com/greggman/equirect",
-        "description": "",
-        "published": "2026-04-13T08:26:41Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 11,
-        "comments": 1,
         "is_new": false
       }
     ],
