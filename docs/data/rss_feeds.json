@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-14T06:07:57.031723+00:00",
+  "last_updated": "2026-04-14T07:57:31.360483+00:00",
   "total_entries": 110,
-  "new_entries": 52,
+  "new_entries": 58,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,6 +768,20 @@
       "is_new": false
     },
     {
+      "id": "47762486",
+      "title": "Show HN: A Bomberman-style 1v1 game where LLMs compete in real time",
+      "url": "https://github.com/klemenvod/TokenBrawl",
+      "description": "",
+      "published": "2026-04-14T07:36:39Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "1d9d4566c211c5c06c8340b16427ec07",
       "title": "Daniel Moreno-Gama is facing federal charges for attacking Sam Altman&#8217;s home and OpenAI’s HQ",
       "url": "https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack",
@@ -803,7 +817,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 7,
+      "points": 8,
       "comments": 0,
       "is_new": false
     },
@@ -934,6 +948,19 @@
       "is_new": false
     },
     {
+      "id": "c52919807089fcd6fcbbfda19f449703",
+      "title": "Playing Along: Learning a Double-Agent Defender for Belief Steering via Theory of Mind",
+      "url": "https://huggingface.co/papers/2604.11666",
+      "description": "As large language models (LLMs) become the engine behind conversational systems, their ability to reason about the intentions and states of their dialogue partners (i.e., form and use a theory-of-mind",
+      "published": "2026-04-12T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "4762ce4f00609baff0662133c715e241",
       "title": "SWE-AGILE: A Software Agent Framework for Efficiently Managing Dynamic Reasoning Context",
       "url": "https://huggingface.co/papers/2604.11716",
@@ -956,7 +983,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": true
     },
     {
@@ -982,7 +1009,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 5,
       "is_new": true
     },
     {
@@ -995,7 +1022,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 21,
+      "likes": 41,
       "is_new": true
     },
     {
@@ -1008,7 +1035,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 5,
       "is_new": true
     },
     {
@@ -1021,7 +1048,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 16,
+      "likes": 20,
       "is_new": true
     },
     {
@@ -1048,45 +1075,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 4,
-      "is_new": false
-    },
-    {
-      "id": "1b1a005f69d7b9a00d50ba565e81197b",
-      "title": "Low-rank Optimization Trajectories Modeling for LLM RLVR Acceleration",
-      "url": "https://huggingface.co/papers/2604.11446",
-      "description": "Recently, scaling reinforcement learning with verifiable rewards (RLVR) for large language models (LLMs) has emerged as an effective training paradigm for significantly improving model capabilities, w",
-      "published": "2026-04-12T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "d77b29e8de453ccacd2554283901f22c",
-      "title": "From Reasoning to Agentic: Credit Assignment in Reinforcement Learning for Large Language Models",
-      "url": "https://huggingface.co/papers/2604.09459",
-      "description": "Reinforcement learning (RL) for large language models (LLMs) increasingly relies on sparse, outcome-level rewards -- yet determining which actions within a long trajectory caused the outcome remains d",
-      "published": "2026-04-12T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 5,
-      "is_new": false
-    },
-    {
-      "id": "3639bc4680c9a40ca1714ef8294f2bb8",
-      "title": "CodeTracer: Towards Traceable Agent States",
-      "url": "https://huggingface.co/papers/2604.11641",
-      "description": "Code agents are advancing rapidly, but debugging them is becoming increasingly difficult. As frameworks orchestrate parallel tool calls and multi-stage workflows over complex tasks, making the agent's",
-      "published": "2026-04-12T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 14,
       "is_new": false
     },
     {
@@ -1146,6 +1134,19 @@
       "is_new": false
     },
     {
+      "id": "35d9442331ef0fa1415f7629382f9ca4",
+      "title": "DiningBench: A Hierarchical Multi-view Benchmark for Perception and Reasoning in the Dietary Domain",
+      "url": "https://huggingface.co/papers/2604.10425",
+      "description": "Recent advancements in Vision-Language Models (VLMs) have revolutionized general visual understanding. However, their application in the food domain remains constrained by benchmarks that rely on coar",
+      "published": "2026-04-11T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "e2fd9eeab18ac26cff4f04fdab96c60d",
       "title": "Tracing the Roots: A Multi-Agent Framework for Uncovering Data Lineage in Post-Training LLMs",
       "url": "https://huggingface.co/papers/2604.10480",
@@ -1168,21 +1169,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 1,
       "is_new": true
-    },
-    {
-      "id": "5238310c75eaf8c332cc49c4b5ec1dcd",
-      "title": "TorchUMM: A Unified Multimodal Model Codebase for Evaluation, Analysis, and Post-training",
-      "url": "https://huggingface.co/papers/2604.10784",
-      "description": "Recent advances in unified multimodal models (UMMs) have led to a proliferation of architectures capable of understanding, generating, and editing across visual and textual modalities. However, develo",
-      "published": "2026-04-11T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
     },
     {
       "id": "a1b2fa60fee1f97a6ad28cfbfddc7d8f",
@@ -1197,6 +1185,19 @@
       "is_new": false
     },
     {
+      "id": "46f08872ef688b890797eb1a9550b6d4",
+      "title": "Not All Denoising Steps Are Equal: Model Scheduling for Faster Masked Diffusion Language Models",
+      "url": "https://huggingface.co/papers/2604.02340",
+      "description": "Recent advances in masked diffusion language models (MDLMs) narrow the quality gap to autoregressive LMs, but their sampling remains expensive because generation requires many full-sequence denoising ",
+      "published": "2026-04-10T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
       "id": "01c9f15bcfafe79085722b7581404c1f",
       "title": "Zero-shot World Models Are Developmentally Efficient Learners",
       "url": "https://huggingface.co/papers/2604.10333",
@@ -1206,7 +1207,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 4,
       "is_new": true
     },
     {
@@ -1232,7 +1233,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 31,
+      "likes": 38,
       "is_new": false
     },
     {
@@ -1533,6 +1534,20 @@
         "is_new": false
       },
       {
+        "id": "47762486",
+        "title": "Show HN: A Bomberman-style 1v1 game where LLMs compete in real time",
+        "url": "https://github.com/klemenvod/TokenBrawl",
+        "description": "",
+        "published": "2026-04-14T07:36:39Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 1,
+        "comments": 0,
+        "is_new": true
+      },
+      {
         "id": "1d9d4566c211c5c06c8340b16427ec07",
         "title": "Daniel Moreno-Gama is facing federal charges for attacking Sam Altman&#8217;s home and OpenAI’s HQ",
         "url": "https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack",
@@ -1568,7 +1583,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 7,
+        "points": 8,
         "comments": 0,
         "is_new": false
       },
@@ -1642,18 +1657,6 @@
         "url": "https://www.theverge.com/tech/911080/microsoft-ai-openclaw-365-businesses",
         "description": "Microsoft is looking into ways it can integrate OpenClaw-style features into its Copilot AI assistant, according to a report from The Information. The test reportedly comes as part of efforts to make",
         "published": "2026-04-13T13:59:09-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "2f7c7321b3c506003cf32c2381e8d583",
-        "title": "Your article about AI doesn’t need AI art",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
-        "description": "The illustration for The New Yorker's profile of OpenAI CEO Sam Altman is a jump scare. Altman stands in a blue sweater with a blank expression. Around his head hovers a cluster of disembodied faces -",
-        "published": "2026-04-13T12:07:20-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
