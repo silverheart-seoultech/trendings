@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-13T23:57:07.947704+00:00",
+  "last_updated": "2026-04-14T03:23:13.421863+00:00",
   "total_entries": 110,
-  "new_entries": 3,
+  "new_entries": 17,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,6 +47,18 @@
     }
   ],
   "entries": [
+    {
+      "id": "d79fd99fd6a0200c13d941d9e425ec22",
+      "title": "OpenAI has bought AI personal finance startup Hiro",
+      "url": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
+      "description": "The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning.",
+      "published": "Tue, 14 Apr 2026 00:23:33 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "2380ccb72e9cdcb157d5b01988d6b7db",
       "title": "ChatGPT finally offers $100/month Pro plan",
@@ -113,18 +125,6 @@
       "url": "https://techcrunch.com/2026/04/09/google-and-intel-deepen-ai-infrastructure-partnership/",
       "description": "The two tech giants are looking to co-develop custom chips, at a time when demand for CPUs is high due to a growing global shortage.",
       "published": "Thu, 09 Apr 2026 18:27:47 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "c4edc5c6d7613107a76b3f889af04d7b",
-      "title": "Sierra’s Bret Taylor says the era of clicking buttons is over",
-      "url": "https://techcrunch.com/2026/04/09/sierras-bret-taylor-says-the-era-of-clicking-buttons-is-over/",
-      "description": "Last month, Sierra launched Ghostwriter, an agent designed to build other agents. With this “agent as a service” tool, the startup intends to replace traditional click-based web applications with natu",
-      "published": "Thu, 09 Apr 2026 17:20:50 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
@@ -768,6 +768,18 @@
       "is_new": false
     },
     {
+      "id": "1d9d4566c211c5c06c8340b16427ec07",
+      "title": "Daniel Moreno-Gama is facing federal charges for attacking Sam Altman&#8217;s home and OpenAI’s HQ",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack",
+      "description": "Daniel Moreno-Gama is now facing federal charges after allegedly traveling from Texas to California with the intent to kill OpenAI CEO Sam Altman. On April 10th, he was arrested after throwing a Molot",
+      "published": "2026-04-13T20:02:38-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "47755420",
       "title": "Show HN: Ix. Sick of rebuilding context every session. We mapped it instead",
       "url": "https://github.com/ix-infrastructure/Ix",
@@ -922,6 +934,110 @@
       "is_new": false
     },
     {
+      "id": "c40e18ad1dec92ee937f7199c3b695ca",
+      "title": "Eliciting Medical Reasoning with Knowledge-enhanced Data Synthesis: A Semi-Supervised Reinforcement Learning Approach",
+      "url": "https://huggingface.co/papers/2604.11547",
+      "description": "While large language models hold promise for complex medical applications, their development is hindered by the scarcity of high-quality reasoning data. To address this issue, existing approaches typi",
+      "published": "2026-04-12T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "418be7391ff10ad7a71739a9f8b1f756",
+      "title": "General365: Benchmarking General Reasoning in Large Language Models Across Diverse and Challenging Tasks",
+      "url": "https://huggingface.co/papers/2604.11778",
+      "description": "Contemporary large language models (LLMs) have demonstrated remarkable reasoning capabilities, particularly in specialized domains like mathematics and physics. However, their ability to generalize th",
+      "published": "2026-04-12T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "1b1a005f69d7b9a00d50ba565e81197b",
+      "title": "Low-rank Optimization Trajectories Modeling for LLM RLVR Acceleration",
+      "url": "https://huggingface.co/papers/2604.11446",
+      "description": "Recently, scaling reinforcement learning with verifiable rewards (RLVR) for large language models (LLMs) has emerged as an effective training paradigm for significantly improving model capabilities, w",
+      "published": "2026-04-12T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "d77b29e8de453ccacd2554283901f22c",
+      "title": "From Reasoning to Agentic: Credit Assignment in Reinforcement Learning for Large Language Models",
+      "url": "https://huggingface.co/papers/2604.09459",
+      "description": "Reinforcement learning (RL) for large language models (LLMs) increasingly relies on sparse, outcome-level rewards -- yet determining which actions within a long trajectory caused the outcome remains d",
+      "published": "2026-04-12T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "3639bc4680c9a40ca1714ef8294f2bb8",
+      "title": "CodeTracer: Towards Traceable Agent States",
+      "url": "https://huggingface.co/papers/2604.11641",
+      "description": "Code agents are advancing rapidly, but debugging them is becoming increasingly difficult. As frameworks orchestrate parallel tool calls and multi-stage workflows over complex tasks, making the agent's",
+      "published": "2026-04-12T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 11,
+      "is_new": true
+    },
+    {
+      "id": "d7e7922d3c33e3bf478517e94cd611e9",
+      "title": "OmniShow: Unifying Multimodal Conditions for Human-Object Interaction Video Generation",
+      "url": "https://huggingface.co/papers/2604.11804",
+      "description": "In this work, we study Human-Object Interaction Video Generation (HOIVG), which aims to synthesize high-quality human-object interaction videos conditioned on text, reference images, audio, and pose. ",
+      "published": "2026-04-12T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 12,
+      "is_new": true
+    },
+    {
+      "id": "d8ad52a9394b20a5d87a1a1703965791",
+      "title": "ADD for Multi-Bit Image Watermarking",
+      "url": "https://huggingface.co/papers/2604.11491",
+      "description": "As generative models enable rapid creation of high-fidelity images, societal concerns about misinformation and authenticity have intensified. A promising remedy is multi-bit image watermarking, which ",
+      "published": "2026-04-12T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "395c54b3d429238eaabdfab5449549c2",
+      "title": "Pseudo-Unification: Entropy Probing Reveals Divergent Information Patterns in Unified Multimodal Models",
+      "url": "https://huggingface.co/papers/2604.10949",
+      "description": "Unified multimodal models (UMMs) were designed to combine the reasoning ability of large language models (LLMs) with the generation capability of vision models. In practice, however, this synergy rema",
+      "published": "2026-04-12T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
       "id": "47743208",
       "title": "Show HN: Prediction game where AI copies of people earn and replicate",
       "url": "https://news.ycombinator.com/item?id=47743208",
@@ -978,6 +1094,19 @@
       "is_new": false
     },
     {
+      "id": "5238310c75eaf8c332cc49c4b5ec1dcd",
+      "title": "TorchUMM: A Unified Multimodal Model Codebase for Evaluation, Analysis, and Post-training",
+      "url": "https://huggingface.co/papers/2604.10784",
+      "description": "Recent advances in unified multimodal models (UMMs) have led to a proliferation of architectures capable of understanding, generating, and editing across visual and textual modalities. However, develo",
+      "published": "2026-04-11T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "a1b2fa60fee1f97a6ad28cfbfddc7d8f",
       "title": "How Iran out-shitposted the White House",
       "url": "https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop",
@@ -988,6 +1117,19 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "b41a44d07708ead0d96a0881631845e0",
+      "title": "Attention Sink in Transformers: A Survey on Utilization, Interpretation, and Mitigation",
+      "url": "https://huggingface.co/papers/2604.10098",
+      "description": "As the foundational architecture of modern machine learning, Transformers have driven remarkable progress across diverse AI domains. Despite their transformative impact, a persistent challenge across ",
+      "published": "2026-04-10T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 6,
+      "is_new": true
     },
     {
       "id": "47721255",
@@ -1032,18 +1174,6 @@
       "is_new": false
     },
     {
-      "id": "743baf6e8493c2d18cbc358addf08814",
-      "title": "20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman’s house",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail",
-      "description": "San Francisco police have arrested a 20-year-old man suspected of throwing a Molotov cocktail at OpenAI CEO Sam Altman's Russian Hill house early Friday morning, The San Francisco Standard reports. Th",
-      "published": "2026-04-10T16:16:57-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "f455aef55e03d42d5bdc8b32f4149d17",
       "title": "The AI code wars are heating up",
       "url": "https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic",
@@ -1070,6 +1200,32 @@
       "is_new": false
     },
     {
+      "id": "b4b9d89ee0aa8915ce8651c3999836d1",
+      "title": "TAIHRI: Task-Aware 3D Human Keypoints Localization for Close-Range Human-Robot Interaction",
+      "url": "https://huggingface.co/papers/2604.08921",
+      "description": "Accurate 3D human keypoints localization is a critical technology enabling robots to achieve natural and safe physical interaction with users. Conventional 3D human keypoints estimation methods primar",
+      "published": "2026-04-09T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "cde96075272dfd747a8a2cb833d67a5c",
+      "title": "Strips as Tokens: Artist Mesh Generation with Native UV Segmentation",
+      "url": "https://huggingface.co/papers/2604.09132",
+      "description": "Recent advancements in autoregressive transformers have demonstrated remarkable potential for generating artist-quality meshes. However, the token ordering strategies employed by existing methods typi",
+      "published": "2026-04-09T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 13,
+      "is_new": true
+    },
+    {
       "id": "479c35da2afdafd9be68a6591d8acea1",
       "title": "MixFlow: Mixed Source Distributions Improve Rectified Flows",
       "url": "https://huggingface.co/papers/2604.09181",
@@ -1079,7 +1235,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 1,
       "is_new": true
     },
     {
@@ -1092,7 +1248,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 5,
       "is_new": false
     },
     {
@@ -1122,45 +1278,6 @@
       "is_new": false
     },
     {
-      "id": "535d84d9d3faea69b83843c2f6e3756f",
-      "title": "ScheMatiQ: From Research Question to Structured Data through Interactive Schema Discovery",
-      "url": "https://huggingface.co/papers/2604.09237",
-      "description": "Many disciplines pose natural-language research questions over large document collections whose answers typically require structured evidence, traditionally obtained by manually designing an annotatio",
-      "published": "2026-04-09T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 5,
-      "is_new": false
-    },
-    {
-      "id": "8fcbb14cd93ba50313cf6777b5de5be7",
-      "title": "Large Language Models Generate Harmful Content Using a Distinct, Unified Mechanism",
-      "url": "https://huggingface.co/papers/2604.09544",
-      "description": "Large language models (LLMs) undergo alignment training to avoid harmful behaviors, yet the resulting safeguards remain brittle: jailbreaks routinely bypass them, and fine-tuning on narrow domains can",
-      "published": "2026-04-09T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
-      "is_new": false
-    },
-    {
-      "id": "a15dac0dfa3a9cef7afc70191dc6a641",
-      "title": "ECHO: Efficient Chest X-ray Report Generation with One-step Block Diffusion",
-      "url": "https://huggingface.co/papers/2604.09450",
-      "description": "Chest X-ray report generation (CXR-RG) has the potential to substantially alleviate radiologists' workload. However, conventional autoregressive vision--language models (VLMs) suffer from high inferen",
-      "published": "2026-04-09T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 14,
-      "is_new": false
-    },
-    {
       "id": "47704728",
       "title": "Show HN: AI agents are bad at API integrations – we fixed it",
       "url": "https://www.apimatic.io/product/context-plugins/showcase",
@@ -1173,132 +1290,22 @@
       "points": 6,
       "comments": 3,
       "is_new": false
-    },
-    {
-      "id": "47703972",
-      "title": "Show HN: AgentDM – Agent to agent messaging over MCP and A2A",
-      "url": "https://agentdm.ai",
-      "description": "",
-      "published": "2026-04-09T14:06:53Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 4,
-      "comments": 4,
-      "is_new": false
-    },
-    {
-      "id": "47701941",
-      "title": "Can a non – coder build a high tech product?",
-      "url": "https://news.ycombinator.com/item?id=47701941",
-      "description": "",
-      "published": "2026-04-09T10:48:51Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 2,
-      "is_new": false
-    },
-    {
-      "id": "47698191",
-      "title": "Ask HN: Deterministic codebase maps vs. LLM inferred knowledge graphs?",
-      "url": "https://news.ycombinator.com/item?id=47698191",
-      "description": "",
-      "published": "2026-04-09T01:11:58Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 1,
-      "is_new": false
-    },
-    {
-      "id": "47696872",
-      "title": "Ask HN: We got 100 stars. A weekend project got 12k. What are we missing?",
-      "url": "https://news.ycombinator.com/item?id=47696872",
-      "description": "",
-      "published": "2026-04-08T22:04:53Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 18,
-      "is_new": false
-    },
-    {
-      "id": "a90c74e999e06f07f43802423573f01d",
-      "title": "p1: Better Prompt Optimization with Fewer Prompts",
-      "url": "https://huggingface.co/papers/2604.08801",
-      "description": "Prompt optimization improves language models without updating their weights by searching for a better system prompt, but its effectiveness varies widely across tasks. We study what makes a task amenab",
-      "published": "2026-04-08T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "39d23d3998d7447d8a292f5e172e8a9a",
-      "title": "Initialisation Determines the Basin: Efficient Codebook Optimisation for Extreme LLM Quantization",
-      "url": "https://huggingface.co/papers/2604.08118",
-      "description": "Additive quantization enables extreme LLM compression with O(1) lookup-table dequantization, making it attractive for edge deployment. Yet at 2-bit precision, it often fails catastrophically, even wit",
-      "published": "2026-04-08T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "da238df8ac6014db16ba6bea0c9f8fe2",
-      "title": "AVGen-Bench: A Task-Driven Benchmark for Multi-Granular Evaluation of Text-to-Audio-Video Generation",
-      "url": "https://huggingface.co/papers/2604.08540",
-      "description": "Text-to-Audio-Video (T2AV) generation is rapidly becoming a core interface for media creation, yet its evaluation remains fragmented. Existing benchmarks largely assess audio and video in isolation or",
-      "published": "2026-04-08T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "5ec9b634a81764af4384e43183c7c533",
-      "title": "On Semiotic-Grounded Interpretive Evaluation of Generative Art",
-      "url": "https://huggingface.co/papers/2604.08641",
-      "description": "Interpretation is essential to deciphering the language of art: audiences communicate with artists by recovering meaning from visual artifacts. However, current Generative Art (GenArt) evaluators rema",
-      "published": "2026-04-08T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "47694452",
-      "title": "Show HN: Better Agent – A composable AI agent framework in TypeScript",
-      "url": "https://www.better-agent.com/",
-      "description": "",
-      "published": "2026-04-08T18:42:36Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 3,
-      "comments": 0,
-      "is_new": false
     }
   ],
   "by_category": {
     "news": [
+      {
+        "id": "d79fd99fd6a0200c13d941d9e425ec22",
+        "title": "OpenAI has bought AI personal finance startup Hiro",
+        "url": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
+        "description": "The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning.",
+        "published": "Tue, 14 Apr 2026 00:23:33 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "2380ccb72e9cdcb157d5b01988d6b7db",
         "title": "ChatGPT finally offers $100/month Pro plan",
@@ -1365,18 +1372,6 @@
         "url": "https://techcrunch.com/2026/04/09/google-and-intel-deepen-ai-infrastructure-partnership/",
         "description": "The two tech giants are looking to co-develop custom chips, at a time when demand for CPUs is high due to a growing global shortage.",
         "published": "Thu, 09 Apr 2026 18:27:47 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "c4edc5c6d7613107a76b3f889af04d7b",
-        "title": "Sierra’s Bret Taylor says the era of clicking buttons is over",
-        "url": "https://techcrunch.com/2026/04/09/sierras-bret-taylor-says-the-era-of-clicking-buttons-is-over/",
-        "description": "Last month, Sierra launched Ghostwriter, an agent designed to build other agents. With this “agent as a service” tool, the startup intends to replace traditional click-based web applications with natu",
-        "published": "Thu, 09 Apr 2026 17:20:50 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
@@ -1540,6 +1535,18 @@
         "is_new": false
       },
       {
+        "id": "1d9d4566c211c5c06c8340b16427ec07",
+        "title": "Daniel Moreno-Gama is facing federal charges for attacking Sam Altman&#8217;s home and OpenAI’s HQ",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack",
+        "description": "Daniel Moreno-Gama is now facing federal charges after allegedly traveling from Texas to California with the intent to kill OpenAI CEO Sam Altman. On April 10th, he was arrested after throwing a Molot",
+        "published": "2026-04-13T20:02:38-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "47755420",
         "title": "Show HN: Ix. Sick of rebuilding context every session. We mapped it instead",
         "url": "https://github.com/ix-infrastructure/Ix",
@@ -1649,18 +1656,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
         "description": "The illustration for The New Yorker's profile of OpenAI CEO Sam Altman is a jump scare. Altman stands in a blue sweater with a blank expression. Around his head hovers a cluster of disembodied faces -",
         "published": "2026-04-13T12:07:20-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "ea24c78406f648c5e025c7df8c01f675",
-        "title": "Mark Zuckerberg is reportedly building an AI clone to replace him in meetings",
-        "url": "https://www.theverge.com/tech/910990/meta-ceo-mark-zuckerberg-ai-clone",
-        "description": "Meta CEO Mark Zuckerberg could soon have an AI clone of himself to interact with and provide feedback to employees, according to a report from the Financial Times. Sources tell the outlet that Meta is",
-        "published": "2026-04-13T09:40:03-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
