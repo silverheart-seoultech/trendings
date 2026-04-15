@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-15T06:07:53.473186+00:00",
+  "last_updated": "2026-04-15T07:58:36.164118+00:00",
   "total_entries": 110,
-  "new_entries": 48,
+  "new_entries": 52,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -831,8 +831,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 128,
-      "comments": 39,
+      "points": 131,
+      "comments": 43,
       "is_new": false
     },
     {
@@ -928,6 +928,32 @@
       "is_new": false
     },
     {
+      "id": "f823635e426f8f3d4d13d5738aec14ca",
+      "title": "Accelerating Speculative Decoding with Block Diffusion Draft Trees",
+      "url": "https://huggingface.co/papers/2604.12989",
+      "description": "Speculative decoding accelerates autoregressive language models by using a lightweight drafter to propose multiple future tokens, which the target model then verifies in parallel. DFlash shows that a ",
+      "published": "2026-04-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "bd4808fa9bc2334407b12a462ca1aefe",
+      "title": "Masked by Consensus: Disentangling Privileged Knowledge in LLM Correctness",
+      "url": "https://huggingface.co/papers/2604.12373",
+      "description": "Humans use introspection to evaluate their understanding through private internal states inaccessible to external observers. We investigate whether large language models possess similar privileged kno",
+      "published": "2026-04-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "fff8ec0fdf095cf01d519069ac82ef5a",
       "title": "KnowRL: Boosting LLM Reasoning via Reinforcement Learning with Minimal-Sufficient Knowledge Guidance",
       "url": "https://huggingface.co/papers/2604.12627",
@@ -937,7 +963,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 24,
+      "likes": 39,
       "is_new": true
     },
     {
@@ -950,7 +976,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
+      "likes": 10,
       "is_new": true
     },
     {
@@ -963,7 +989,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 13,
       "is_new": false
     },
     {
@@ -989,7 +1015,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 13,
       "is_new": false
     },
     {
@@ -1002,7 +1028,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 1,
       "is_new": false
     },
     {
@@ -1015,7 +1041,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -1028,33 +1054,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
-      "is_new": false
-    },
-    {
-      "id": "2855af073d05cf350aeed77ab71abfe0",
-      "title": "Toward Autonomous Long-Horizon Engineering for ML Research",
-      "url": "https://huggingface.co/papers/2604.13018",
-      "description": "Autonomous AI research has advanced rapidly, but long-horizon ML research engineering remains difficult: agents must sustain coherent progress across task comprehension, environment setup, implementat",
-      "published": "2026-04-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 15,
-      "is_new": false
-    },
-    {
-      "id": "942e7a6df14b67a24f3d308bafe8242d",
-      "title": "Rethinking On-Policy Distillation of Large Language Models: Phenomenology, Mechanism, and Recipe",
-      "url": "https://huggingface.co/papers/2604.13016",
-      "description": "On-policy distillation (OPD) has become a core technique in the post-training of large language models, yet its training dynamics remain poorly understood. This paper provides a systematic investigati",
-      "published": "2026-04-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 32,
+      "likes": 5,
       "is_new": false
     },
     {
@@ -1084,6 +1084,20 @@
       "points": 13,
       "comments": 2,
       "is_new": false
+    },
+    {
+      "id": "47754296",
+      "title": "Show HN: Dbg – One CLI debugger for every language (AI-agent ready)",
+      "url": "https://redknightlois.github.io/dbg/",
+      "description": "",
+      "published": "2026-04-13T16:17:53Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 6,
+      "comments": 0,
+      "is_new": true
     },
     {
       "id": "4a5ae02d01355b5704b515cc9b7d4489",
@@ -1221,7 +1235,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 108,
+      "likes": 110,
       "is_new": false
     },
     {
@@ -1278,19 +1292,6 @@
       "category": "news",
       "points": 5,
       "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "8c56a01047b34b8ca63ee9dcb7cbf232",
-      "title": "Rethinking the Diffusion Model from a Langevin Perspective",
-      "url": "https://huggingface.co/papers/2604.10465",
-      "description": "Diffusion models are often introduced from multiple perspectives, such as VAEs, score matching, or flow matching, accompanied by dense and technically demanding mathematics that can be difficult for b",
-      "published": "2026-04-11T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 6,
       "is_new": false
     }
   ],
@@ -1600,8 +1601,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 128,
-        "comments": 39,
+        "points": 131,
+        "comments": 43,
         "is_new": false
       },
       {
