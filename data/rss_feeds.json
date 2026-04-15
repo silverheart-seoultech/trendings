@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-15T14:03:03.044311+00:00",
+  "last_updated": "2026-04-15T15:21:05.464175+00:00",
   "total_entries": 110,
-  "new_entries": 0,
+  "new_entries": 3,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,6 +47,18 @@
     }
   ],
   "entries": [
+    {
+      "id": "328256d716fe40cb56f977f131f4088d",
+      "title": "After sale of its shoe business, Allbirds pivots to AI",
+      "url": "https://techcrunch.com/2026/04/15/after-sale-of-its-shoe-business-allbirds-pivots-to-ai/",
+      "description": "Allbirds is ditching wool sneakers for AI servers, rebranding as NewBird AI after locking in a $50M convertible financing facility.",
+      "published": "Wed, 15 Apr 2026 14:24:31 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "08cd2e3f25eb17410eca30f6d7e04b57",
       "title": "Reid Hoffman weighs in on the ‘tokenmaxxing’ debate",
@@ -708,18 +720,6 @@
       "is_new": false
     },
     {
-      "id": "72ce90ad289d93c53c3e59dfede65527",
-      "title": "At the HumanX conference, everyone was talking about Claude",
-      "url": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
-      "description": "Anthropic was the star of the show at San Francisco's AI-centric conference.",
-      "published": "Sun, 12 Apr 2026 15:00:00 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "67a5aaba5823bfde7eacbc63a8cd2fa8",
       "title": "Microsoft is working on yet another OpenClaw-like agent",
       "url": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
@@ -869,7 +869,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 137,
+      "points": 140,
       "comments": 49,
       "is_new": false
     },
@@ -966,6 +966,19 @@
       "is_new": false
     },
     {
+      "id": "ca5513bb98f841c93e1456ce309348ca",
+      "title": "GlotOCR Bench: OCR Models Still Struggle Beyond a Handful of Unicode Scripts",
+      "url": "https://huggingface.co/papers/2604.12978",
+      "description": "Optical character recognition (OCR) has advanced rapidly with the rise of vision-language models, yet evaluation has remained concentrated on a small cluster of high- and mid-resource scripts. We intr",
+      "published": "2026-04-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
       "id": "4d9099aace098b8776b65712f371c846",
       "title": "Domain-Specific Latent Representations Improve the Fidelity of Diffusion-Based Medical Image Super-Resolution",
       "url": "https://huggingface.co/papers/2604.12152",
@@ -975,7 +988,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 1,
       "is_new": false
     },
     {
@@ -1027,7 +1040,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 75,
+      "likes": 76,
       "is_new": false
     },
     {
@@ -1041,19 +1054,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 11,
-      "is_new": false
-    },
-    {
-      "id": "75b96f13d0e9ad49abed2d03036e2466",
-      "title": "Towards Long-horizon Agentic Multimodal Search",
-      "url": "https://huggingface.co/papers/2604.12890",
-      "description": "Multimodal deep search agents have shown great potential in solving complex tasks by iteratively collecting textual and visual evidence. However, managing the heterogeneous information and high token ",
-      "published": "2026-04-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 14,
       "is_new": false
     },
     {
@@ -1183,7 +1183,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 117,
+      "likes": 118,
       "is_new": false
     },
     {
@@ -1222,20 +1222,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "d323cc81edde038003b05d06c2c4f330",
-      "title": "Seeing Through Touch: Tactile-Driven Visual Localization of Material Regions",
-      "url": "https://huggingface.co/papers/2604.11579",
-      "description": "We address the problem of tactile localization, where the goal is to identify image regions that share the same material properties as a tactile input. Existing visuo-tactile methods rely on global al",
-      "published": "2026-04-12T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -1293,10 +1280,35 @@
       "points": 5,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "82f59c70dca23c27de1b6970359646e5",
+      "title": "PokeRL: Reinforcement Learning for Pokemon Red",
+      "url": "https://huggingface.co/papers/2604.10812",
+      "description": "Pokemon Red is a long-horizon JRPG with sparse rewards, partial observability, and quirky control mechanics that make it a challenging benchmark for reinforcement learning. While recent work has shown",
+      "published": "2026-04-11T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
     }
   ],
   "by_category": {
     "news": [
+      {
+        "id": "328256d716fe40cb56f977f131f4088d",
+        "title": "After sale of its shoe business, Allbirds pivots to AI",
+        "url": "https://techcrunch.com/2026/04/15/after-sale-of-its-shoe-business-allbirds-pivots-to-ai/",
+        "description": "Allbirds is ditching wool sneakers for AI servers, rebranding as NewBird AI after locking in a $50M convertible financing facility.",
+        "published": "Wed, 15 Apr 2026 14:24:31 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "08cd2e3f25eb17410eca30f6d7e04b57",
         "title": "Reid Hoffman weighs in on the ‘tokenmaxxing’ debate",
@@ -1478,18 +1490,6 @@
         "is_new": false
       },
       {
-        "id": "72ce90ad289d93c53c3e59dfede65527",
-        "title": "At the HumanX conference, everyone was talking about Claude",
-        "url": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
-        "description": "Anthropic was the star of the show at San Francisco's AI-centric conference.",
-        "published": "Sun, 12 Apr 2026 15:00:00 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
         "id": "67a5aaba5823bfde7eacbc63a8cd2fa8",
         "title": "Microsoft is working on yet another OpenClaw-like agent",
         "url": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
@@ -1639,7 +1639,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 137,
+        "points": 140,
         "comments": 49,
         "is_new": false
       },
