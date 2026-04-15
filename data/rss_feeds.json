@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-14T23:57:23.548189+00:00",
+  "last_updated": "2026-04-15T03:21:10.519394+00:00",
   "total_entries": 110,
-  "new_entries": 5,
+  "new_entries": 23,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,6 +47,18 @@
     }
   ],
   "entries": [
+    {
+      "id": "d9d61aaf0a79bb91a5afdc071705dddd",
+      "title": "Anthropic’s rise is giving some OpenAI investors second thoughts",
+      "url": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
+      "description": "One investor who has backed both companies told the FT that justifying OpenAI's recent round required assuming an IPO valuation of $1.2 trillion or more — making Anthropic's current $380 billion valua",
+      "published": "Wed, 15 Apr 2026 02:31:04 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "4126c0f474b7e5ceb10c491b3ad5c3e2",
       "title": "Anthropic co-founder confirms the company briefed the Trump administration on Mythos",
@@ -337,9 +349,9 @@
     },
     {
       "id": "4ec67f467120f598724aa0ec36c250c5",
-      "title": "Hubble: An LLM-Driven Agentic Framework for Safe and Automated Alpha Factor Discovery",
+      "title": "Hubble: An LLM-Driven Agentic Framework for Safe, Diverse, and Reproducible Alpha Factor Discovery",
       "url": "https://arxiv.org/abs/2604.09601",
-      "description": "arXiv:2604.09601v1 Announce Type: new \nAbstract: Discovering predictive alpha factors in quantitative finance remains a formidable challenge due to the vast combinatorial search space and inherently l",
+      "description": "arXiv:2604.09601v2 Announce Type: new \nAbstract: Automated alpha discovery is difficult because the search space of formulaic factors is combinatorial, the signal-to-noise ratio in daily equity data i",
       "published": "Tue, 14 Apr 2026 00:00:00 -0400",
       "source_id": "arxiv-ai",
       "source_name": "arXiv AI",
@@ -756,18 +768,6 @@
       "is_new": false
     },
     {
-      "id": "41818e7c705b1f4fa15ae42489c9ea6b",
-      "title": "Last 24 hours: Save up to $500 on your TechCrunch Disrupt 2026 pass",
-      "url": "https://techcrunch.com/2026/04/10/final-24-hours-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/",
-      "description": "This is it. Tonight is your last chance to lock in savings of up to $500 for your TechCrunch Disrupt 2026 pass. These discounts end at 11:59 p.m. PT.",
-      "published": "Fri, 10 Apr 2026 14:00:00 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "47771096",
       "title": "Show HN: Run Python tools on rust agents",
       "url": "https://github.com/eggermarc/tools-rs",
@@ -796,20 +796,6 @@
       "is_new": false
     },
     {
-      "id": "47768506",
-      "title": "Zuver – Build your enterprise Agents with just 10MB RAM",
-      "url": "https://news.ycombinator.com/item?id=47768506",
-      "description": "",
-      "published": "2026-04-14T17:25:26Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 3,
-      "comments": 0,
-      "is_new": false
-    },
-    {
       "id": "47767606",
       "title": "Show HN: Kelet – Root Cause Analysis agent for your LLM apps",
       "url": "https://kelet.ai/",
@@ -819,8 +805,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 38,
-      "comments": 18,
+      "points": 39,
+      "comments": 19,
       "is_new": false
     },
     {
@@ -845,8 +831,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 92,
-      "comments": 32,
+      "points": 113,
+      "comments": 38,
       "is_new": false
     },
     {
@@ -874,7 +860,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 2,
-      "comments": 2,
+      "comments": 3,
       "is_new": false
     },
     {
@@ -942,6 +928,123 @@
       "is_new": false
     },
     {
+      "id": "75b96f13d0e9ad49abed2d03036e2466",
+      "title": "Towards Long-horizon Agentic Multimodal Search",
+      "url": "https://huggingface.co/papers/2604.12890",
+      "description": "Multimodal deep search agents have shown great potential in solving complex tasks by iteratively collecting textual and visual evidence. However, managing the heterogeneous information and high token ",
+      "published": "2026-04-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
+      "id": "f433ab10ff833914abb6688f42558ed9",
+      "title": "VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization",
+      "url": "https://huggingface.co/papers/2604.12887",
+      "description": "Visual tokenizers map high-dimensional raw pixels into a compressed representation for downstream modeling. Beyond compression, tokenizers dictate what information is preserved and how it is organized",
+      "published": "2026-04-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "9be30819ce2fe9324b55bb80881b8257",
+      "title": "Lyra 2.0: Explorable Generative 3D Worlds",
+      "url": "https://huggingface.co/papers/2604.13036",
+      "description": "Recent advances in video generation enable a new paradigm for 3D scene creation: generating camera-controlled videos that simulate scene walkthroughs, then lifting them to 3D via feed-forward reconstr",
+      "published": "2026-04-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "5d0a0a04ef590b748cd0f4623e8d84d3",
+      "title": "Generative Refinement Networks for Visual Synthesis",
+      "url": "https://huggingface.co/papers/2604.13030",
+      "description": "While diffusion models dominate the field of visual generation, they are computationally inefficient, applying a uniform computational effort regardless of different complexity. In contrast, autoregre",
+      "published": "2026-04-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "fde6e6cad9b5a53303ffb22299365309",
+      "title": "Lightning OPD: Efficient Post-Training for Large Reasoning Models with Offline On-Policy Distillation",
+      "url": "https://huggingface.co/papers/2604.13010",
+      "description": "On-policy distillation (OPD) has emerged as an efficient post-training paradigm for large language models. However, standard OPD requires a live teacher inference server throughout training, resulting",
+      "published": "2026-04-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "099137baf27da8bad0ccdf9574e944b0",
+      "title": "Nemotron 3 Super: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning",
+      "url": "https://huggingface.co/papers/2604.12374",
+      "description": "We describe the pre-training, post-training, and quantization of Nemotron 3 Super, a 120 billion (active 12 billion) parameter hybrid Mamba-Attention Mixture-of-Experts model. Nemotron 3 Super is the ",
+      "published": "2026-04-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
+    },
+    {
+      "id": "2855af073d05cf350aeed77ab71abfe0",
+      "title": "Toward Autonomous Long-Horizon Engineering for ML Research",
+      "url": "https://huggingface.co/papers/2604.13018",
+      "description": "Autonomous AI research has advanced rapidly, but long-horizon ML research engineering remains difficult: agents must sustain coherent progress across task comprehension, environment setup, implementat",
+      "published": "2026-04-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 9,
+      "is_new": true
+    },
+    {
+      "id": "942e7a6df14b67a24f3d308bafe8242d",
+      "title": "Rethinking On-Policy Distillation of Large Language Models: Phenomenology, Mechanism, and Recipe",
+      "url": "https://huggingface.co/papers/2604.13016",
+      "description": "On-policy distillation (OPD) has become a core technique in the post-training of large language models, yet its training dynamics remain poorly understood. This paper provides a systematic investigati",
+      "published": "2026-04-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 13,
+      "is_new": true
+    },
+    {
+      "id": "a8eecb03dc80d138ed628826e356bc9a",
+      "title": "Habitat-GS: A High-Fidelity Navigation Simulator with Dynamic Gaussian Splatting",
+      "url": "https://huggingface.co/papers/2604.12626",
+      "description": "Training embodied AI agents depends critically on the visual fidelity of simulation environments and the ability to model dynamic humans. Current simulators rely on mesh-based rasterization with limit",
+      "published": "2026-04-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 5,
+      "is_new": true
+    },
+    {
       "id": "47755420",
       "title": "Show HN: Ix. Sick of rebuilding context every session. We mapped it instead",
       "url": "https://github.com/ix-infrastructure/Ix",
@@ -970,20 +1073,6 @@
       "is_new": false
     },
     {
-      "id": "47754296",
-      "title": "Show HN: Dbg – One CLI debugger for every language (AI-agent ready)",
-      "url": "https://redknightlois.github.io/dbg/",
-      "description": "",
-      "published": "2026-04-13T16:17:53Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 5,
-      "comments": 0,
-      "is_new": false
-    },
-    {
       "id": "4a5ae02d01355b5704b515cc9b7d4489",
       "title": "AI influencers are ‘everywhere’ at Coachella",
       "url": "https://www.theverge.com/ai-artificial-intelligence/911267/ai-influencers-coachella",
@@ -993,20 +1082,6 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "47752780",
-      "title": "Lambda Just Got a File System. I Put AI Agents on It",
-      "url": "https://edjgeek.com/blog/s3-files-lambda-agents/",
-      "description": "",
-      "published": "2026-04-13T14:46:38Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 1,
-      "comments": 0,
       "is_new": false
     },
     {
@@ -1072,6 +1147,45 @@
       "is_new": false
     },
     {
+      "id": "697bb52576401004d256dcc74f953990",
+      "title": "You Only Judge Once: Multi-response Reward Modeling in a Single Forward Pass",
+      "url": "https://huggingface.co/papers/2604.10966",
+      "description": "We present a discriminative multimodal reward model that scores all candidate responses in a single forward pass. Conventional discriminative reward models evaluate each response independently, requir",
+      "published": "2026-04-12T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "d323cc81edde038003b05d06c2c4f330",
+      "title": "Seeing Through Touch: Tactile-Driven Visual Localization of Material Regions",
+      "url": "https://huggingface.co/papers/2604.11579",
+      "description": "We address the problem of tactile localization, where the goal is to identify image regions that share the same material properties as a tactile input. Existing visuo-tactile methods rely on global al",
+      "published": "2026-04-12T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "85257914da06b31ca854ee1bb493eb4f",
+      "title": "ClawGUI: A Unified Framework for Training, Evaluating, and Deploying GUI Agents",
+      "url": "https://huggingface.co/papers/2604.11784",
+      "description": "GUI agents drive applications through their visual interfaces instead of programmatic APIs, interacting with arbitrary software via taps, swipes, and keystrokes, reaching a long tail of applications t",
+      "published": "2026-04-12T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 107,
+      "is_new": true
+    },
+    {
       "id": "b61d94e3305a2704c459b7411f3bf218",
       "title": "Time is Not a Label: Continuous Phase Rotation for Temporal Knowledge Graphs and Agentic Memory",
       "url": "https://huggingface.co/papers/2604.11544",
@@ -1083,110 +1197,6 @@
       "category": "research",
       "likes": 1,
       "is_new": true
-    },
-    {
-      "id": "72ea32dd80a715974a4cfa5fa024eeaf",
-      "title": "Agentic Aggregation for Parallel Scaling of Long-Horizon Agentic Tasks",
-      "url": "https://huggingface.co/papers/2604.11753",
-      "description": "We study parallel test-time scaling for long-horizon agentic tasks such as agentic search and deep research, where multiple rollouts are generated in parallel and aggregated into a final response. Whi",
-      "published": "2026-04-12T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 10,
-      "is_new": false
-    },
-    {
-      "id": "df4ef9dd2d9ea000899a912f649b94e3",
-      "title": "Panoptic Pairwise Distortion Graph",
-      "url": "https://huggingface.co/papers/2604.11004",
-      "description": "In this work, we introduce a new perspective on comparative image assessment by representing an image pair as a structured composition of its regions. In contrast, existing methods focus on whole imag",
-      "published": "2026-04-12T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "c38e6e64722b9299df73f66c1330aaaa",
-      "title": "How Alignment Routes: Localizing, Scaling, and Controlling Policy Circuits in Language Models",
-      "url": "https://huggingface.co/papers/2604.04385",
-      "description": "This paper localizes the policy routing mechanism in alignment-trained language models. An intermediate-layer attention gate reads detected content and triggers deeper amplifier heads that boost the s",
-      "published": "2026-04-12T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
-      "is_new": false
-    },
-    {
-      "id": "da252914362dff5b3c27e10a1f23e891",
-      "title": "Learning Long-term Motion Embeddings for Efficient Kinematics Generation",
-      "url": "https://huggingface.co/papers/2604.11737",
-      "description": "Understanding and predicting motion is a fundamental component of visual intelligence. Although modern video models exhibit strong comprehension of scene dynamics, exploring multiple possible futures ",
-      "published": "2026-04-12T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "1ad531a793ef6b4248f7c099fbf6dcf8",
-      "title": "The Past Is Not Past: Memory-Enhanced Dynamic Reward Shaping",
-      "url": "https://huggingface.co/papers/2604.11297",
-      "description": "Despite the success of reinforcement learning for large language models, a common failure mode is reduced sampling diversity, where the policy repeatedly generates similar erroneous behaviors. Classic",
-      "published": "2026-04-12T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 80,
-      "is_new": false
-    },
-    {
-      "id": "9aaf69a742b0d8b26d89147a0b13e6a7",
-      "title": "Mobile GUI Agent Privacy Personalization with Trajectory Induced Preference Optimization",
-      "url": "https://huggingface.co/papers/2604.11259",
-      "description": "Mobile GUI agents powered by Multimodal Large Language Models (MLLMs) can execute complex tasks on mobile devices. Despite this progress, most existing systems still optimize task success or efficienc",
-      "published": "2026-04-12T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 9,
-      "is_new": false
-    },
-    {
-      "id": "c0890cebe094b4d4ac1771527f351ecc",
-      "title": "SHARE: Social-Humanities AI for Research and Education",
-      "url": "https://huggingface.co/papers/2604.11152",
-      "description": "This intermediate technical report introduces the SHARE family of base models and the MIRROR user interface. The SHARE models are the first causal language models fully pretrained by and for the socia",
-      "published": "2026-04-12T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
-      "is_new": false
-    },
-    {
-      "id": "369a699e11bdad7ca2f2038ae70b8fea",
-      "title": "Polyglot Teachers: Evaluating Language Models for Multilingual Synthetic Data Generation",
-      "url": "https://huggingface.co/papers/2604.11290",
-      "description": "Synthesizing supervised finetuning (SFT) data from language models (LMs) to teach smaller models multilingual tasks has become increasingly common. However, teacher model selection is often ad hoc, ty",
-      "published": "2026-04-12T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
     },
     {
       "id": "47743208",
@@ -1245,6 +1255,19 @@
       "is_new": false
     },
     {
+      "id": "8c56a01047b34b8ca63ee9dcb7cbf232",
+      "title": "Rethinking the Diffusion Model from a Langevin Perspective",
+      "url": "https://huggingface.co/papers/2604.10465",
+      "description": "Diffusion models are often introduced from multiple perspectives, such as VAEs, score matching, or flow matching, accompanied by dense and technically demanding mathematics that can be difficult for b",
+      "published": "2026-04-11T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 5,
+      "is_new": true
+    },
+    {
       "id": "a50792c1bd08236a6ebe1670500da5f0",
       "title": "Audio-Omni: Extending Multi-modal Understanding to Versatile Audio Generation and Editing",
       "url": "https://huggingface.co/papers/2604.10708",
@@ -1254,7 +1277,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": true
     },
     {
@@ -1267,38 +1290,24 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 1,
       "is_new": true
-    },
-    {
-      "id": "6867415c9e67358e679bed20e6b5e7b9",
-      "title": "SCOPE: Signal-Calibrated On-Policy Distillation Enhancement with Dual-Path Adaptive Weighting",
-      "url": "https://huggingface.co/papers/2604.10688",
-      "description": "On-policy reinforcement learning has become the dominant paradigm for reasoning alignment in large language models, yet its sparse, outcome-level rewards make token-level credit assignment notoriously",
-      "published": "2026-04-11T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 5,
-      "is_new": false
-    },
-    {
-      "id": "71fb2783bf8dc92b36bcbc765826497c",
-      "title": "BMdataset: A Musicologically Curated LilyPond Dataset",
-      "url": "https://huggingface.co/papers/2604.10628",
-      "description": "Symbolic music research has relied almost exclusively on MIDI-based datasets; text-based engraving formats such as LilyPond remain unexplored for music understanding. We present BMdataset, a musicolog",
-      "published": "2026-04-11T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
     }
   ],
   "by_category": {
     "news": [
+      {
+        "id": "d9d61aaf0a79bb91a5afdc071705dddd",
+        "title": "Anthropic’s rise is giving some OpenAI investors second thoughts",
+        "url": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
+        "description": "One investor who has backed both companies told the FT that justifying OpenAI's recent round required assuming an IPO valuation of $1.2 trillion or more — making Anthropic's current $380 billion valua",
+        "published": "Wed, 15 Apr 2026 02:31:04 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "4126c0f474b7e5ceb10c491b3ad5c3e2",
         "title": "Anthropic co-founder confirms the company briefed the Trump administration on Mythos",
@@ -1528,18 +1537,6 @@
         "is_new": false
       },
       {
-        "id": "41818e7c705b1f4fa15ae42489c9ea6b",
-        "title": "Last 24 hours: Save up to $500 on your TechCrunch Disrupt 2026 pass",
-        "url": "https://techcrunch.com/2026/04/10/final-24-hours-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/",
-        "description": "This is it. Tonight is your last chance to lock in savings of up to $500 for your TechCrunch Disrupt 2026 pass. These discounts end at 11:59 p.m. PT.",
-        "published": "Fri, 10 Apr 2026 14:00:00 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
         "id": "47771096",
         "title": "Show HN: Run Python tools on rust agents",
         "url": "https://github.com/eggermarc/tools-rs",
@@ -1568,20 +1565,6 @@
         "is_new": false
       },
       {
-        "id": "47768506",
-        "title": "Zuver – Build your enterprise Agents with just 10MB RAM",
-        "url": "https://news.ycombinator.com/item?id=47768506",
-        "description": "",
-        "published": "2026-04-14T17:25:26Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 3,
-        "comments": 0,
-        "is_new": false
-      },
-      {
         "id": "47767606",
         "title": "Show HN: Kelet – Root Cause Analysis agent for your LLM apps",
         "url": "https://kelet.ai/",
@@ -1591,8 +1574,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 38,
-        "comments": 18,
+        "points": 39,
+        "comments": 19,
         "is_new": false
       },
       {
@@ -1617,8 +1600,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 92,
-        "comments": 32,
+        "points": 113,
+        "comments": 38,
         "is_new": false
       },
       {
@@ -1646,7 +1629,7 @@
         "source_icon": "🟧",
         "category": "news",
         "points": 2,
-        "comments": 2,
+        "comments": 3,
         "is_new": false
       },
       {
@@ -1669,6 +1652,18 @@
         "url": "https://www.theverge.com/tech/911658/google-chrome-gemini-ai-skills-availability-launch",
         "description": "Google is launching a new Chrome workflow feature that allows you to reuse your favorite Gemini commands across multiple webpages. Any AI prompts can now be saved as \"Skills\" in the Chrome desktop bro",
         "published": "2026-04-14T13:02:19-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "559097908121a417684c9c5b7eb16176",
+        "title": "Has Google’s AI watermarking system been reverse-engineered?",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered",
+        "description": "A software developer claims to have reverse-engineered Google DeepMind's SynthID system, showing how AI watermarks can be stripped from generated images or manually inserted into other works. A claim",
+        "published": "2026-04-14T09:53:53-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
@@ -1883,9 +1878,9 @@
       },
       {
         "id": "4ec67f467120f598724aa0ec36c250c5",
-        "title": "Hubble: An LLM-Driven Agentic Framework for Safe and Automated Alpha Factor Discovery",
+        "title": "Hubble: An LLM-Driven Agentic Framework for Safe, Diverse, and Reproducible Alpha Factor Discovery",
         "url": "https://arxiv.org/abs/2604.09601",
-        "description": "arXiv:2604.09601v1 Announce Type: new \nAbstract: Discovering predictive alpha factors in quantitative finance remains a formidable challenge due to the vast combinatorial search space and inherently l",
+        "description": "arXiv:2604.09601v2 Announce Type: new \nAbstract: Automated alpha discovery is difficult because the search space of formulaic factors is combinatorial, the signal-to-noise ratio in daily equity data i",
         "published": "Tue, 14 Apr 2026 00:00:00 -0400",
         "source_id": "arxiv-ai",
         "source_name": "arXiv AI",
