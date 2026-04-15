@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-15T09:48:34.150366+00:00",
+  "last_updated": "2026-04-15T11:15:08.837697+00:00",
   "total_entries": 110,
-  "new_entries": 2,
+  "new_entries": 5,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,6 +768,18 @@
       "is_new": false
     },
     {
+      "id": "4610a79059866b628c76ad921174e414",
+      "title": "Grok’s sexual deepfakes almost got it banned from Apple’s App Store. Almost.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/912297/apple-app-store-ban-grok-x-deepfakes",
+      "description": "Apple quietly threatened to kick Elon Musk's AI app, Grok, from its App Store in January over its failure to curb the surge of nonconsensual sexual deepfakes flooding X, according to NBC News. It was",
+      "published": "2026-04-15T06:55:22-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "47771096",
       "title": "Show HN: Run Python tools on rust agents",
       "url": "https://github.com/eggermarc/tools-rs",
@@ -805,8 +817,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 44,
-      "comments": 21,
+      "points": 45,
+      "comments": 22,
       "is_new": false
     },
     {
@@ -831,8 +843,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 133,
-      "comments": 45,
+      "points": 135,
+      "comments": 46,
       "is_new": false
     },
     {
@@ -928,6 +940,19 @@
       "is_new": false
     },
     {
+      "id": "4d9099aace098b8776b65712f371c846",
+      "title": "Domain-Specific Latent Representations Improve the Fidelity of Diffusion-Based Medical Image Super-Resolution",
+      "url": "https://huggingface.co/papers/2604.12152",
+      "description": "Latent diffusion models for medical image super-resolution universally inherit variational autoencoders designed for natural photographs. We show that this default choice, not the diffusion architectu",
+      "published": "2026-04-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "90c7dba0d920084fd00ebe6e1874cd20",
       "title": "SpotSound: Enhancing Large Audio-Language Models with Fine-Grained Temporal Grounding",
       "url": "https://huggingface.co/papers/2604.13023",
@@ -976,7 +1001,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 58,
+      "likes": 59,
       "is_new": false
     },
     {
@@ -1029,32 +1054,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 13,
-      "is_new": false
-    },
-    {
-      "id": "5d0a0a04ef590b748cd0f4623e8d84d3",
-      "title": "Generative Refinement Networks for Visual Synthesis",
-      "url": "https://huggingface.co/papers/2604.13030",
-      "description": "While diffusion models dominate the field of visual generation, they are computationally inefficient, applying a uniform computational effort regardless of different complexity. In contrast, autoregre",
-      "published": "2026-04-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "fde6e6cad9b5a53303ffb22299365309",
-      "title": "Lightning OPD: Efficient Post-Training for Large Reasoning Models with Offline On-Policy Distillation",
-      "url": "https://huggingface.co/papers/2604.13010",
-      "description": "On-policy distillation (OPD) has emerged as an efficient post-training paradigm for large language models. However, standard OPD requires a live teacher inference server throughout training, resulting",
-      "published": "2026-04-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
       "is_new": false
     },
     {
@@ -1174,6 +1173,19 @@
       "is_new": false
     },
     {
+      "id": "51444b451a8680c99466bbd197f21a0e",
+      "title": "3DTV: A Feedforward Interpolation Network for Real-Time View Synthesis",
+      "url": "https://huggingface.co/papers/2604.11211",
+      "description": "Real-time free-viewpoint rendering requires balancing multi-camera redundancy with the latency constraints of interactive applications. We address this challenge by combining lightweight geometry with",
+      "published": "2026-04-12T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "85257914da06b31ca854ee1bb493eb4f",
       "title": "ClawGUI: A Unified Framework for Training, Evaluating, and Deploying GUI Agents",
       "url": "https://huggingface.co/papers/2604.11784",
@@ -1209,7 +1221,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 5,
       "is_new": false
     },
     {
@@ -1278,20 +1290,6 @@
       "category": "news",
       "points": 4,
       "comments": 2,
-      "is_new": false
-    },
-    {
-      "id": "47736402",
-      "title": "Show HN: MCP is for tools. A2A is for agents. What's for websites?",
-      "url": "https://www.rtrvr.ai/blog/agent-web-protocol-stack",
-      "description": "",
-      "published": "2026-04-12T05:30:17Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 5,
-      "comments": 0,
       "is_new": false
     }
   ],
@@ -1538,6 +1536,18 @@
         "is_new": false
       },
       {
+        "id": "4610a79059866b628c76ad921174e414",
+        "title": "Grok’s sexual deepfakes almost got it banned from Apple’s App Store. Almost.",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/912297/apple-app-store-ban-grok-x-deepfakes",
+        "description": "Apple quietly threatened to kick Elon Musk's AI app, Grok, from its App Store in January over its failure to curb the surge of nonconsensual sexual deepfakes flooding X, according to NBC News. It was",
+        "published": "2026-04-15T06:55:22-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "47771096",
         "title": "Show HN: Run Python tools on rust agents",
         "url": "https://github.com/eggermarc/tools-rs",
@@ -1575,8 +1585,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 44,
-        "comments": 21,
+        "points": 45,
+        "comments": 22,
         "is_new": false
       },
       {
@@ -1601,8 +1611,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 133,
-        "comments": 45,
+        "points": 135,
+        "comments": 46,
         "is_new": false
       },
       {
@@ -1653,18 +1663,6 @@
         "url": "https://www.theverge.com/tech/911658/google-chrome-gemini-ai-skills-availability-launch",
         "description": "Google is launching a new Chrome workflow feature that allows you to reuse your favorite Gemini commands across multiple webpages. Any AI prompts can now be saved as \"Skills\" in the Chrome desktop bro",
         "published": "2026-04-14T13:02:19-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "559097908121a417684c9c5b7eb16176",
-        "title": "Has Google’s AI watermarking system been reverse-engineered?",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered",
-        "description": "A software developer claims to have reverse-engineered Google DeepMind's SynthID system, showing how AI watermarks can be stripped from generated images or manually inserted into other works. A claim",
-        "published": "2026-04-14T09:53:53-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
