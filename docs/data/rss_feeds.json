@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-17T06:12:41.166987+00:00",
+  "last_updated": "2026-04-17T07:58:55.941800+00:00",
   "total_entries": 109,
-  "new_entries": 44,
+  "new_entries": 46,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -806,7 +806,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 6,
-      "comments": 0,
+      "comments": 1,
       "is_new": false
     },
     {
@@ -819,8 +819,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 85,
-      "comments": 65,
+      "points": 86,
+      "comments": 73,
       "is_new": false
     },
     {
@@ -964,6 +964,19 @@
       "is_new": false
     },
     {
+      "id": "1a83552505a86c0b136b530622b56839",
+      "title": "TRACER: Trace-Based Adaptive Cost-Efficient Routing for LLM Classification",
+      "url": "https://huggingface.co/papers/2604.14531",
+      "description": "Every call to an LLM classification endpoint produces a labeled input-output pair already retained in production logs. These pairs constitute a free, growing training set: a lightweight surrogate trai",
+      "published": "2026-04-15T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
       "id": "d53c31e2732495c001a6134adf4191c0",
       "title": "GlobalSplat: Efficient Feed-Forward 3D Gaussian Splatting via Global Scene Tokens",
       "url": "https://huggingface.co/papers/2604.15284",
@@ -973,7 +986,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 11,
       "is_new": true
     },
     {
@@ -1038,7 +1051,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 15,
+      "likes": 17,
       "is_new": false
     },
     {
@@ -1051,7 +1064,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 17,
+      "likes": 19,
       "is_new": false
     },
     {
@@ -1134,6 +1147,19 @@
       "is_new": false
     },
     {
+      "id": "3c9df0bad822c61f7ba8f9eff52fb1c9",
+      "title": "OneHOI: Unifying Human-Object Interaction Generation and Editing",
+      "url": "https://huggingface.co/papers/2604.14062",
+      "description": "Human-Object Interaction (HOI) modelling captures how humans act upon and relate to objects, typically expressed as <person, action, object> triplets. Existing approaches split into two disjoint famil",
+      "published": "2026-04-14T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "b66bae8710d879ce732b1492eb988581",
       "title": "HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System",
       "url": "https://huggingface.co/papers/2604.14125",
@@ -1143,7 +1169,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 15,
+      "likes": 16,
       "is_new": false
     },
     {
@@ -1169,7 +1195,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 34,
+      "likes": 45,
       "is_new": false
     },
     {
@@ -1268,32 +1294,6 @@
       "category": "news",
       "points": 2,
       "comments": 2,
-      "is_new": false
-    },
-    {
-      "id": "b82e654db2ca72080e1fca8c65fe22af",
-      "title": "Towards Autonomous Mechanistic Reasoning in Virtual Cells",
-      "url": "https://huggingface.co/papers/2604.11661",
-      "description": "Large language models (LLMs) have recently gained significant attention as a promising approach to accelerate scientific discovery. However, their application in open-ended scientific domains such as ",
-      "published": "2026-04-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
-      "is_new": true
-    },
-    {
-      "id": "c3197fa8c07fd9b90b8fc81ceddc3465",
-      "title": "Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems",
-      "url": "https://huggingface.co/papers/2604.14228",
-      "description": "Claude Code is an agentic coding tool that can run shell commands, edit files, and call external services on behalf of the user. This study describes its comprehensive architecture by analyzing the pu",
-      "published": "2026-04-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
       "is_new": false
     }
   ],
@@ -1578,7 +1578,7 @@
         "source_icon": "🟧",
         "category": "news",
         "points": 6,
-        "comments": 0,
+        "comments": 1,
         "is_new": false
       },
       {
@@ -1591,8 +1591,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 85,
-        "comments": 65,
+        "points": 86,
+        "comments": 73,
         "is_new": false
       },
       {
