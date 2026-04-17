@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-17T18:02:26.683296+00:00",
+  "last_updated": "2026-04-17T19:10:55.627238+00:00",
   "total_entries": 110,
-  "new_entries": 9,
+  "new_entries": 10,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,18 +47,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "1c1d8c15e6a35d9b9587158f8136b18a",
-      "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
-      "url": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
-      "description": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity.",
-      "published": "Wed, 15 Apr 2026 19:28:36 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
     {
       "id": "04229a2656b604630f8353ef830f3edb",
       "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
@@ -250,6 +238,18 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "573fe90601e9be2845baf37916a90eec",
+      "title": "“Tokenmaxxing” is making developers less productive than they think",
+      "url": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
+      "description": "There's a lot more code—but it's a lot more expensive and requires a lot more rewriting.",
+      "published": "Fri, 17 Apr 2026 18:42:45 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "51926208cdc84bd2b42c5276bc14acd5",
@@ -856,7 +856,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 1,
-      "comments": 1,
+      "comments": 2,
       "is_new": false
     },
     {
@@ -923,7 +923,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 93,
+      "points": 94,
       "comments": 78,
       "is_new": false
     },
@@ -990,7 +990,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 17,
-      "comments": 5,
+      "comments": 6,
       "is_new": false
     },
     {
@@ -1143,7 +1143,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 13,
+      "likes": 14,
       "is_new": false
     },
     {
@@ -1297,18 +1297,6 @@
   ],
   "by_category": {
     "news": [
-      {
-        "id": "1c1d8c15e6a35d9b9587158f8136b18a",
-        "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
-        "url": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
-        "description": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity.",
-        "published": "Wed, 15 Apr 2026 19:28:36 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
       {
         "id": "04229a2656b604630f8353ef830f3edb",
         "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
@@ -1502,6 +1490,18 @@
         "is_new": false
       },
       {
+        "id": "573fe90601e9be2845baf37916a90eec",
+        "title": "“Tokenmaxxing” is making developers less productive than they think",
+        "url": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
+        "description": "There's a lot more code—but it's a lot more expensive and requires a lot more rewriting.",
+        "published": "Fri, 17 Apr 2026 18:42:45 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "51926208cdc84bd2b42c5276bc14acd5",
         "title": "Tokenmaxxing, OpenAI’s shopping spree, and the AI Anxiety Gap",
         "url": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
@@ -1626,7 +1626,7 @@
         "source_icon": "🟧",
         "category": "news",
         "points": 1,
-        "comments": 1,
+        "comments": 2,
         "is_new": false
       },
       {
