@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-17T12:02:25.637379+00:00",
+  "last_updated": "2026-04-17T13:44:51.378301+00:00",
   "total_entries": 109,
-  "new_entries": 5,
+  "new_entries": 9,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -756,6 +756,44 @@
       "is_new": false
     },
     {
+      "id": "47805227",
+      "title": "Show HN: Mabon – AI agent that finds jobs continuously and shows strong matches",
+      "url": "https://mabon.ai/",
+      "description": "",
+      "published": "2026-04-17T12:32:46Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "a0c80801fcb93693698bbf43937b3c10",
+      "title": "The ‘AI is inevitable’ trap",
+      "url": "https://www.theverge.com/podcast/913792/ai-divide-sam-altman-vergecast",
+      "description": "In the latest sign of AI silly season, Allbirds, the shoe company, told the world it was now an AI company and briefly managed to septuple its stock price. The Newbird AI story is really just one of a",
+      "published": "2026-04-17T09:24:34-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "5fc8ec81b5b99f85598465554703dc5a",
+      "title": "Trump’s posting even more AI-generated Trump-Jesus fan art",
+      "url": "https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme",
+      "description": "Hello and welcome to Regulator, a newsletter for Verge subscribers about Big Tech power plays in Washington and beyond. (And when I say beyond, I mean the great beyond, like Heaven, maybe.) If you've",
+      "published": "2026-04-17T09:22:44-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": false
+    },
+    {
       "id": "47803689",
       "title": "A language model that emits raw VM opcodes instead of text",
       "url": "https://news.ycombinator.com/item?id=47803689",
@@ -833,8 +871,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 90,
-      "comments": 77,
+      "points": 91,
+      "comments": 78,
       "is_new": false
     },
     {
@@ -940,18 +978,6 @@
       "is_new": false
     },
     {
-      "id": "5fc8ec81b5b99f85598465554703dc5a",
-      "title": "Trump’s posting even more AI-generated Trump-Jesus fan art",
-      "url": "https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme",
-      "description": "Hello and welcome to Regulator, a newsletter for Verge subscribers about Big Tech power plays in Washington and beyond. (And when I say beyond, I mean the great beyond, like Heaven, maybe.) If you've",
-      "published": "2026-04-16T09:41:09-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "9c1e736b6e51b3278f95abce7f76c40f",
       "title": "Canva’s AI 2.0 update goes all in on prompt-powered design tools",
       "url": "https://www.theverge.com/tech/913068/canva-ai-2-update-prompt-based-editing-availability",
@@ -978,6 +1004,19 @@
       "is_new": false
     },
     {
+      "id": "3cda83d7fb4e8bf878f20d0227f5bd7c",
+      "title": "An Optimal Transport-driven Approach for Cultivating Latent Space in Online Incremental Learning",
+      "url": "https://huggingface.co/papers/2211.16780",
+      "description": "In online incremental learning, data continuously arrives with substantial distributional shifts, creating a significant challenge because previous samples have limited replay value when learning a ne",
+      "published": "2026-04-15T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "b61f2009f3de00ca0be8e994f34522b1",
       "title": "RadAgent: A tool-using AI agent for stepwise interpretation of chest computed tomography",
       "url": "https://huggingface.co/papers/2604.15231",
@@ -987,7 +1026,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": true
     },
     {
@@ -1026,7 +1065,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 5,
       "is_new": false
     },
     {
@@ -1092,44 +1131,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "ce7733a5d4461f8600c9970e87e3391b",
-      "title": "RAD-2: Scaling Reinforcement Learning in a Generator-Discriminator Framework",
-      "url": "https://huggingface.co/papers/2604.15308",
-      "description": "High-level autonomous driving requires motion planners capable of modeling multimodal future uncertainties while remaining robust in closed-loop interactions. Although diffusion-based planners are eff",
-      "published": "2026-04-15T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 18,
-      "is_new": false
-    },
-    {
-      "id": "b1788a002ed491290632915a347671bb",
-      "title": "DR^{3}-Eval: Towards Realistic and Reproducible Deep Research Evaluation",
-      "url": "https://huggingface.co/papers/2604.14683",
-      "description": "Deep Research Agents (DRAs) aim to solve complex, long-horizon research tasks involving planning, retrieval, multimodal understanding, and report generation, yet their evaluation remains challenging d",
-      "published": "2026-04-15T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 20,
-      "is_new": false
-    },
-    {
-      "id": "cee2c3c48dfe63521e7bea7f37b982ba",
-      "title": "Allbirds announced a switch from shoes to AI and its stock jumped 600 percent",
-      "url": "https://www.theverge.com/news/912484/allbirds-ai-hyperscale",
-      "description": "Allbirds had a hit a decade ago with its Wool Runner shoes, but after a $4 billion IPO in 2021, the business never turned a profit, and sales dropped nearly 50 percent between 2022 and 2025. The compa",
-      "published": "2026-04-15T16:22:25-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
       "is_new": false
     },
     {
@@ -1527,6 +1528,44 @@
         "is_new": false
       },
       {
+        "id": "47805227",
+        "title": "Show HN: Mabon – AI agent that finds jobs continuously and shows strong matches",
+        "url": "https://mabon.ai/",
+        "description": "",
+        "published": "2026-04-17T12:32:46Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 1,
+        "comments": 0,
+        "is_new": true
+      },
+      {
+        "id": "a0c80801fcb93693698bbf43937b3c10",
+        "title": "The ‘AI is inevitable’ trap",
+        "url": "https://www.theverge.com/podcast/913792/ai-divide-sam-altman-vergecast",
+        "description": "In the latest sign of AI silly season, Allbirds, the shoe company, told the world it was now an AI company and briefly managed to septuple its stock price. The Newbird AI story is really just one of a",
+        "published": "2026-04-17T09:24:34-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "5fc8ec81b5b99f85598465554703dc5a",
+        "title": "Trump’s posting even more AI-generated Trump-Jesus fan art",
+        "url": "https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme",
+        "description": "Hello and welcome to Regulator, a newsletter for Verge subscribers about Big Tech power plays in Washington and beyond. (And when I say beyond, I mean the great beyond, like Heaven, maybe.) If you've",
+        "published": "2026-04-17T09:22:44-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
         "id": "47803689",
         "title": "A language model that emits raw VM opcodes instead of text",
         "url": "https://news.ycombinator.com/item?id=47803689",
@@ -1604,8 +1643,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 90,
-        "comments": 77,
+        "points": 91,
+        "comments": 78,
         "is_new": false
       },
       {
@@ -1630,48 +1669,6 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "47793313",
-        "title": "The Common AI Provider: LLM and AI Agent Support for Apache Airflow",
-        "url": "https://airflow.apache.org/blog/common-ai-provider/",
-        "description": "",
-        "published": "2026-04-16T14:17:05Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 1,
-        "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "47793245",
-        "title": "Show HN: EDDI – Multi-agent AI engine where agent logic lives in JSON, not code",
-        "url": "https://github.com/labsai/EDDI",
-        "description": "",
-        "published": "2026-04-16T14:11:37Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 2,
-        "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "47792122",
-        "title": "Show HN: Agent-cache – Multi-tier LLM/tool/session caching for Valkey and Redis",
-        "url": "https://news.ycombinator.com/item?id=47792122",
-        "description": "",
-        "published": "2026-04-16T12:37:56Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 16,
-        "comments": 5,
         "is_new": false
       }
     ],
