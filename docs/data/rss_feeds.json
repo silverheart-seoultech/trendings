@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-17T08:03:38.007247+00:00",
+  "last_updated": "2026-04-17T09:45:09.952129+00:00",
   "total_entries": 109,
-  "new_entries": 0,
+  "new_entries": 4,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -756,6 +756,20 @@
       "is_new": false
     },
     {
+      "id": "47803689",
+      "title": "A language model that emits raw VM opcodes instead of text",
+      "url": "https://news.ycombinator.com/item?id=47803689",
+      "description": "",
+      "published": "2026-04-17T08:24:33Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 1,
+      "is_new": true
+    },
+    {
       "id": "47800418",
       "title": "Show HN: Rebuilt SETI Home but for AI",
       "url": "https://github.com/Agent-FM/agentfm-core",
@@ -765,7 +779,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 3,
+      "points": 4,
       "comments": 3,
       "is_new": false
     },
@@ -819,7 +833,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 86,
+      "points": 89,
       "comments": 74,
       "is_new": false
     },
@@ -964,6 +978,32 @@
       "is_new": false
     },
     {
+      "id": "91c7b16d9e25debfc6793f48206c4b33",
+      "title": "Don't Retrieve, Navigate: Distilling Enterprise Knowledge into Navigable Agent Skills for QA and RAG",
+      "url": "https://huggingface.co/papers/2604.14572",
+      "description": "Retrieval-Augmented Generation (RAG) grounds LLM responses in external evidence but treats the model as a passive consumer of search results: it never sees how the corpus is organized or what it has n",
+      "published": "2026-04-15T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "4e62c4bfb05a8ad9f61a048633823787",
+      "title": "Switch-KD: Visual-Switch Knowledge Distillation for Vision-Language Models",
+      "url": "https://huggingface.co/papers/2604.14629",
+      "description": "Vision-Language Models (VLMs) have shown remarkable capabilities in joint vision-language understanding, but their large scale poses significant challenges for deployment in resource-constrained scena",
+      "published": "2026-04-15T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 5,
+      "is_new": true
+    },
+    {
       "id": "1a83552505a86c0b136b530622b56839",
       "title": "TRACER: Trace-Based Adaptive Cost-Efficient Routing for LLM Classification",
       "url": "https://huggingface.co/papers/2604.14531",
@@ -973,7 +1013,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -1012,7 +1052,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -1038,7 +1078,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -1064,20 +1104,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 19,
-      "is_new": false
-    },
-    {
-      "id": "4c018832b2f831bd1f54ce30a3601860",
-      "title": "MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation",
-      "url": "https://huggingface.co/papers/2604.15309",
-      "description": "The rapid progress of Artificial Intelligence Generated Content (AIGC) tools enables images, videos, and visualizations to be created on demand for webpage design, offering a flexible and increasingly",
-      "published": "2026-04-15T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
+      "likes": 20,
       "is_new": false
     },
     {
@@ -1156,7 +1183,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -1195,7 +1222,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 46,
+      "likes": 52,
       "is_new": false
     },
     {
@@ -1266,34 +1293,6 @@
       "category": "news",
       "points": 2,
       "comments": 3,
-      "is_new": false
-    },
-    {
-      "id": "47765161",
-      "title": "Show HN: DollhouseMCP 2.0, open-source MCP composable AI building blocks",
-      "url": "https://dollhousemcp.com/",
-      "description": "",
-      "published": "2026-04-14T13:05:32Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 3,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "47762486",
-      "title": "Show HN: A Bomberman-style 1v1 game where LLMs compete in real time",
-      "url": "https://github.com/klemenvod/TokenBrawl",
-      "description": "",
-      "published": "2026-04-14T07:36:39Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 2,
       "is_new": false
     }
   ],
@@ -1528,6 +1527,20 @@
         "is_new": false
       },
       {
+        "id": "47803689",
+        "title": "A language model that emits raw VM opcodes instead of text",
+        "url": "https://news.ycombinator.com/item?id=47803689",
+        "description": "",
+        "published": "2026-04-17T08:24:33Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 1,
+        "comments": 1,
+        "is_new": true
+      },
+      {
         "id": "47800418",
         "title": "Show HN: Rebuilt SETI Home but for AI",
         "url": "https://github.com/Agent-FM/agentfm-core",
@@ -1537,7 +1550,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 3,
+        "points": 4,
         "comments": 3,
         "is_new": false
       },
@@ -1591,7 +1604,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 86,
+        "points": 89,
         "comments": 74,
         "is_new": false
       },
@@ -1659,18 +1672,6 @@
         "category": "news",
         "points": 16,
         "comments": 4,
-        "is_new": false
-      },
-      {
-        "id": "f9e1dd9d8562e1c7b7f51a05ecfdcf20",
-        "title": "Anthropic releases a new Opus model amid Mythos Preview buzz",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/913184/anthropic-claude-opus-4-7-cybersecurity",
-        "description": "Anthropic has released its most powerful \"generally available\" model to date: Claude Opus 4.7. The company called it a step up from Opus 4.6 for advanced software engineering tasks, particularly in co",
-        "published": "2026-04-16T12:00:23-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
         "is_new": false
       }
     ],
