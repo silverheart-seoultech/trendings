@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-17T15:13:45.875605+00:00",
+  "last_updated": "2026-04-17T16:13:52.387985+00:00",
   "total_entries": 109,
-  "new_entries": 3,
+  "new_entries": 7,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -53,18 +53,6 @@
       "url": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
       "description": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity.",
       "published": "Wed, 15 Apr 2026 19:28:36 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "696d03a555e17c595f25ce683bce1afe",
-      "title": "Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
-      "url": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
-      "description": "The startup says it grew its ARR by $70 million in just 20 months after launching an AI agent platform for marketers.",
-      "published": "Wed, 15 Apr 2026 18:55:12 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
@@ -262,6 +250,18 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "51926208cdc84bd2b42c5276bc14acd5",
+      "title": "Tokenmaxxing, OpenAI’s shopping spree, and the AI Anxiety Gap",
+      "url": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
+      "description": "The gap between AI insiders and everyone else is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from finance apps to",
+      "published": "Fri, 17 Apr 2026 15:57:40 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "9ec149dfbc1dd78e6821f2d9f63115a7",
@@ -756,6 +756,20 @@
       "is_new": false
     },
     {
+      "id": "47807378",
+      "title": "ParseBench: Document Parsing Benchmark for AI Agents",
+      "url": "https://github.com/run-llama/ParseBench",
+      "description": "",
+      "published": "2026-04-17T16:01:03Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "47806038",
       "title": "Ask HN: Agents Craving Context",
       "url": "https://news.ycombinator.com/item?id=47806038",
@@ -782,6 +796,18 @@
       "points": 2,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "4ef79fe769290d96aba40d5722159562",
+      "title": "Dairy Queen is putting an AI chatbot in its drive-thrus",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/913928/dairy-queen-ai-drive-thru-presto",
+      "description": "Dairy Queen is becoming the latest fast food chain to get in on AI, as it's bringing a chatbot to dozens of its drive-thrus across the US and Canada. It aims to help speed up drive-thru service and \"e",
+      "published": "2026-04-17T11:46:37-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "a0c80801fcb93693698bbf43937b3c10",
@@ -951,7 +977,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 16,
+      "points": 17,
       "comments": 5,
       "is_new": false
     },
@@ -1016,6 +1042,19 @@
       "points": 2,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "1982a830e6f9a69dc3d616dede924760",
+      "title": "Beyond Prompts: Unconditional 3D Inversion for Out-of-Distribution Shapes",
+      "url": "https://huggingface.co/papers/2604.14914",
+      "description": "Text-driven inversion of generative models is a core paradigm for manipulating 2D or 3D content, unlocking numerous applications such as text-based editing, style transfer, or inverse problems. Howeve",
+      "published": "2026-04-15T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
     },
     {
       "id": "3cda83d7fb4e8bf878f20d0227f5bd7c",
@@ -1122,19 +1161,6 @@
       "is_new": false
     },
     {
-      "id": "ccb19d3da6053d30e8b458ea2c9dade5",
-      "title": "UniDoc-RL: Coarse-to-Fine Visual RAG with Hierarchical Actions and Dense Rewards",
-      "url": "https://huggingface.co/papers/2604.14967",
-      "description": "Retrieval-Augmented Generation (RAG) extends Large Vision-Language Models (LVLMs) with external visual knowledge. However, existing visual RAG systems typically rely on generic retrieval signals that ",
-      "published": "2026-04-15T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 6,
-      "is_new": false
-    },
-    {
       "id": "47780622",
       "title": "Show HN: MCP server gives your agent a budget (save tokens, get smarter results)",
       "url": "https://l6e.ai",
@@ -1146,18 +1172,6 @@
       "category": "news",
       "points": 5,
       "comments": 4,
-      "is_new": false
-    },
-    {
-      "id": "b9b4a768c6f79e3e09608a484ff39dbc",
-      "title": "Google launches a Gemini AI app on Mac",
-      "url": "https://www.theverge.com/tech/912638/google-gemini-mac-app",
-      "description": "Google is launching a new Gemini app on Mac that allows you to interact with the AI assistant without switching windows on your desktop. With the app, you can use the Option + Space shortcut to pull u",
-      "published": "2026-04-15T14:10:15-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
       "is_new": false
     },
     {
@@ -1281,20 +1295,6 @@
       "points": 145,
       "comments": 54,
       "is_new": false
-    },
-    {
-      "id": "47765871",
-      "title": "Show HN: OpenParallax: OS-level privilege separation for AI agent execution",
-      "url": "https://news.ycombinator.com/item?id=47765871",
-      "description": "",
-      "published": "2026-04-14T14:07:47Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 0,
-      "is_new": false
     }
   ],
   "by_category": {
@@ -1305,18 +1305,6 @@
         "url": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
         "description": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity.",
         "published": "Wed, 15 Apr 2026 19:28:36 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "696d03a555e17c595f25ce683bce1afe",
-        "title": "Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
-        "url": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
-        "description": "The startup says it grew its ARR by $70 million in just 20 months after launching an AI agent platform for marketers.",
-        "published": "Wed, 15 Apr 2026 18:55:12 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
@@ -1516,6 +1504,18 @@
         "is_new": false
       },
       {
+        "id": "51926208cdc84bd2b42c5276bc14acd5",
+        "title": "Tokenmaxxing, OpenAI’s shopping spree, and the AI Anxiety Gap",
+        "url": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
+        "description": "The gap between AI insiders and everyone else is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from finance apps to",
+        "published": "Fri, 17 Apr 2026 15:57:40 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "9ec149dfbc1dd78e6821f2d9f63115a7",
         "title": "Anthropic launches Claude Design, a new product for creating quick visuals",
         "url": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/",
@@ -1525,6 +1525,20 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "47807378",
+        "title": "ParseBench: Document Parsing Benchmark for AI Agents",
+        "url": "https://github.com/run-llama/ParseBench",
+        "description": "",
+        "published": "2026-04-17T16:01:03Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 1,
+        "comments": 0,
         "is_new": true
       },
       {
@@ -1554,6 +1568,18 @@
         "points": 2,
         "comments": 0,
         "is_new": false
+      },
+      {
+        "id": "4ef79fe769290d96aba40d5722159562",
+        "title": "Dairy Queen is putting an AI chatbot in its drive-thrus",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/913928/dairy-queen-ai-drive-thru-presto",
+        "description": "Dairy Queen is becoming the latest fast food chain to get in on AI, as it's bringing a chatbot to dozens of its drive-thrus across the US and Canada. It aims to help speed up drive-thru service and \"e",
+        "published": "2026-04-17T11:46:37-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
       },
       {
         "id": "a0c80801fcb93693698bbf43937b3c10",
@@ -1645,32 +1671,6 @@
         "category": "news",
         "points": 6,
         "comments": 1,
-        "is_new": false
-      },
-      {
-        "id": "47794514",
-        "title": "Launch HN: Kampala (YC W26) – Reverse-Engineer Apps into APIs",
-        "url": "https://www.zatanna.ai/kampala",
-        "description": "",
-        "published": "2026-04-16T15:19:54Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 92,
-        "comments": 78,
-        "is_new": false
-      },
-      {
-        "id": "106bc12f85afb89e8f65d98085b29a5a",
-        "title": "Ronan Farrow on Sam Altman&#8217;s ‘unconstrained’ relationship with the truth",
-        "url": "https://www.theverge.com/podcast/911753/sam-altman-openai-ronan-farrow-new-yorker-feature-trust-liar-ai-industry",
-        "description": "Today on Decoder, I’m talking with Ronan Farrow, one of the biggest stars of investigative reporting working today. He broke the Harvey Weinstein story, among many, many others. And just last week, he",
-        "published": "2026-04-16T15:18:11-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
         "is_new": false
       }
     ],
