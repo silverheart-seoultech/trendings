@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-20T06:26:23.713626+00:00",
+  "last_updated": "2026-04-20T08:20:25.524693+00:00",
   "total_entries": 110,
-  "new_entries": 44,
+  "new_entries": 48,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -1070,8 +1070,21 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 1,
-      "comments": 0,
+      "comments": 1,
       "is_new": false
+    },
+    {
+      "id": "2d9ac190081aff799a476badd60763a6",
+      "title": "TwinTrack: Post-hoc Multi-Rater Calibration for Medical Image Segmentation",
+      "url": "https://huggingface.co/papers/2604.15950",
+      "description": "Pancreatic ductal adenocarcinoma (PDAC) segmentation on contrast-enhanced CT is inherently ambiguous: inter-rater disagreement among experts reflects genuine uncertainty rather than annotation noise. ",
+      "published": "2026-04-16T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
     },
     {
       "id": "c89ad57e3105d2d7777b3a8fac14854c",
@@ -1083,7 +1096,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 9,
       "is_new": true
     },
     {
@@ -1109,7 +1122,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 15,
+      "likes": 16,
       "is_new": false
     },
     {
@@ -1135,7 +1148,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 12,
       "is_new": false
     },
     {
@@ -1246,6 +1259,32 @@
       "is_new": false
     },
     {
+      "id": "118994b4fecf44f7eef12f8f79b3c42f",
+      "title": "EdgeDetect: Importance-Aware Gradient Compression with Homomorphic Aggregation for Federated Intrusion Detection",
+      "url": "https://huggingface.co/papers/2604.14663",
+      "description": "Federated learning (FL) enables collaborative intrusion detection without raw data exchange, but conventional FL incurs high communication overhead from full-precision gradient transmission and remain",
+      "published": "2026-04-15T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "569d52dcfbf8cb56c828f2916a189122",
+      "title": "NTIRE 2026 Challenge on Video Saliency Prediction: Methods and Results",
+      "url": "https://huggingface.co/papers/2604.14816",
+      "description": "This paper presents an overview of the NTIRE 2026 Challenge on Video Saliency Prediction. The goal of the challenge participants was to develop automatic saliency map prediction methods for the provid",
+      "published": "2026-04-15T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "946489c8d16cf9a3561ec542749a3dfc",
       "title": "Maximal Brain Damage Without Data or Optimization: Disrupting Neural Networks via Sign-Bit Flips",
       "url": "https://huggingface.co/papers/2502.07408",
@@ -1255,47 +1294,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
+      "likes": 17,
       "is_new": true
-    },
-    {
-      "id": "ad7e87e9d12f55897e58daa41621bc65",
-      "title": "Learning Adaptive Reasoning Paths for Efficient Visual Reasoning",
-      "url": "https://huggingface.co/papers/2604.14568",
-      "description": "Visual reasoning models (VRMs) have recently shown strong cross-modal reasoning capabilities by integrating visual perception with language reasoning. However, they often suffer from overthinking, pro",
-      "published": "2026-04-15T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "a07f910f11af54f0649259de954f433b",
-      "title": "PRL-Bench: A Comprehensive Benchmark Evaluating LLMs' Capabilities in Frontier Physics Research",
-      "url": "https://huggingface.co/papers/2604.15411",
-      "description": "The paradigm of agentic science requires AI systems to conduct robust reasoning and engage in long-horizon, autonomous exploration. However, current scientific benchmarks remain confined to domain kno",
-      "published": "2026-04-15T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
-      "is_new": false
-    },
-    {
-      "id": "1982a830e6f9a69dc3d616dede924760",
-      "title": "Beyond Prompts: Unconditional 3D Inversion for Out-of-Distribution Shapes",
-      "url": "https://huggingface.co/papers/2604.14914",
-      "description": "Text-driven inversion of generative models is a core paradigm for manipulating 2D or 3D content, unlocking numerous applications such as text-based editing, style transfer, or inverse problems. Howeve",
-      "published": "2026-04-15T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
-      "is_new": false
     }
   ],
   "by_category": {
