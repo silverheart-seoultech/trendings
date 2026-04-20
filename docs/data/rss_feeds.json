@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-20T09:17:14.579808+00:00",
+  "last_updated": "2026-04-20T11:40:54.276648+00:00",
   "total_entries": 110,
-  "new_entries": 2,
+  "new_entries": 5,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,6 +768,30 @@
       "is_new": false
     },
     {
+      "id": "14b4d3c07b7411253c817e18979b8b1d",
+      "title": "Cloud development platform Vercel was hacked",
+      "url": "https://www.theverge.com/tech/914723/vercel-hacked",
+      "description": "Vercel, a major development platform that hosts and deploys web apps, was compromised, and the hackers are attempting to sell stolen data. A person claiming to be a member of ShinyHunters, which was b",
+      "published": "2026-04-20T05:41:50-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": false
+    },
+    {
+      "id": "8bc307ae958ca9cfb15b68df6bf01b9f",
+      "title": "The RAM shortage could last years",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
+      "description": "According to Nikkei Asia, even as suppliers ramp up DRAM production, manufacturers are only expected to meet 60 percent of demand by the end of 2027. SK Group chairman has even said that shortages cou",
+      "published": "2026-04-20T05:28:13-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": false
+    },
+    {
       "id": "47829234",
       "title": "Show HN: Self-healing browser harness via direct CDP",
       "url": "https://github.com/browser-use/browser-harness",
@@ -801,18 +825,6 @@
       "url": "https://www.theverge.com/gadgets/913981/poetry-camera-ai-hands-on",
       "description": "I've never been as charmed and frustrated by one gadget as I have with the Poetry Camera. It's a delightful object. White and cherry red with a color-matched woven strap, it looks playful and adorably",
       "published": "2026-04-19T19:13:31-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "14b4d3c07b7411253c817e18979b8b1d",
-      "title": "Cloud development platform Vercel was hacked",
-      "url": "https://www.theverge.com/tech/914723/vercel-hacked",
-      "description": "Vercel, a major development platform that hosts and deploys web apps, was compromised, and the hackers are attempting to sell stolen data. A person claiming to be a member of ShinyHunters, which was b",
-      "published": "2026-04-19T15:54:52-04:00",
       "source_id": "theverge-ai",
       "source_name": "The Verge AI",
       "source_icon": "📰",
@@ -873,18 +885,6 @@
       "category": "news",
       "points": 4,
       "comments": 10,
-      "is_new": false
-    },
-    {
-      "id": "8bc307ae958ca9cfb15b68df6bf01b9f",
-      "title": "The RAM shortage could last years",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
-      "description": "According to Nikkei Asia, even as suppliers ramp up DRAM production, manufacturers are only expected to meet 60 percent of demand by the end of 2027. SK Group chairman has even said that shortages cou",
-      "published": "2026-04-18T17:08:45-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
       "is_new": false
     },
     {
@@ -1074,6 +1074,19 @@
       "is_new": false
     },
     {
+      "id": "417d80b29df2b3568a83b4630b09cbf4",
+      "title": "Elucidating the SNR-t Bias of Diffusion Probabilistic Models",
+      "url": "https://huggingface.co/papers/2604.16044",
+      "description": "Diffusion Probabilistic Models have demonstrated remarkable performance across a wide range of generative tasks. However, we have observed that these models often suffer from a Signal-to-Noise Ratio-t",
+      "published": "2026-04-16T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 58,
+      "is_new": true
+    },
+    {
       "id": "2d9ac190081aff799a476badd60763a6",
       "title": "TwinTrack: Post-hoc Multi-Rater Calibration for Medical Image Segmentation",
       "url": "https://huggingface.co/papers/2604.15950",
@@ -1148,7 +1161,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 13,
+      "likes": 16,
       "is_new": false
     },
     {
@@ -1259,6 +1272,19 @@
       "is_new": false
     },
     {
+      "id": "265957919dec6793e6ae8c11ba116a5f",
+      "title": "QuantCode-Bench: A Benchmark for Evaluating the Ability of Large Language Models to Generate Executable Algorithmic Trading Strategies",
+      "url": "https://huggingface.co/papers/2604.15151",
+      "description": "Large language models have demonstrated strong performance on general-purpose programming tasks, yet their ability to generate executable algorithmic trading strategies remains underexplored. Unlike s",
+      "published": "2026-04-15T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
       "id": "1d77e1419996620debd11ce894457573",
       "title": "(1D) Ordered Tokens Enable Efficient Test-Time Search",
       "url": "https://huggingface.co/papers/2604.15453",
@@ -1268,34 +1294,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 5,
       "is_new": true
-    },
-    {
-      "id": "118994b4fecf44f7eef12f8f79b3c42f",
-      "title": "EdgeDetect: Importance-Aware Gradient Compression with Homomorphic Aggregation for Federated Intrusion Detection",
-      "url": "https://huggingface.co/papers/2604.14663",
-      "description": "Federated learning (FL) enables collaborative intrusion detection without raw data exchange, but conventional FL incurs high communication overhead from full-precision gradient transmission and remain",
-      "published": "2026-04-15T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "569d52dcfbf8cb56c828f2916a189122",
-      "title": "NTIRE 2026 Challenge on Video Saliency Prediction: Methods and Results",
-      "url": "https://huggingface.co/papers/2604.14816",
-      "description": "This paper presents an overview of the NTIRE 2026 Challenge on Video Saliency Prediction. The goal of the challenge participants was to develop automatic saliency map prediction methods for the provid",
-      "published": "2026-04-15T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
     }
   ],
   "by_category": {
@@ -1541,6 +1541,30 @@
         "is_new": false
       },
       {
+        "id": "14b4d3c07b7411253c817e18979b8b1d",
+        "title": "Cloud development platform Vercel was hacked",
+        "url": "https://www.theverge.com/tech/914723/vercel-hacked",
+        "description": "Vercel, a major development platform that hosts and deploys web apps, was compromised, and the hackers are attempting to sell stolen data. A person claiming to be a member of ShinyHunters, which was b",
+        "published": "2026-04-20T05:41:50-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "8bc307ae958ca9cfb15b68df6bf01b9f",
+        "title": "The RAM shortage could last years",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
+        "description": "According to Nikkei Asia, even as suppliers ramp up DRAM production, manufacturers are only expected to meet 60 percent of demand by the end of 2027. SK Group chairman has even said that shortages cou",
+        "published": "2026-04-20T05:28:13-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
         "id": "47829234",
         "title": "Show HN: Self-healing browser harness via direct CDP",
         "url": "https://github.com/browser-use/browser-harness",
@@ -1574,18 +1598,6 @@
         "url": "https://www.theverge.com/gadgets/913981/poetry-camera-ai-hands-on",
         "description": "I've never been as charmed and frustrated by one gadget as I have with the Poetry Camera. It's a delightful object. White and cherry red with a color-matched woven strap, it looks playful and adorably",
         "published": "2026-04-19T19:13:31-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "14b4d3c07b7411253c817e18979b8b1d",
-        "title": "Cloud development platform Vercel was hacked",
-        "url": "https://www.theverge.com/tech/914723/vercel-hacked",
-        "description": "Vercel, a major development platform that hosts and deploys web apps, was compromised, and the hackers are attempting to sell stolen data. A person claiming to be a member of ShinyHunters, which was b",
-        "published": "2026-04-19T15:54:52-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
@@ -1646,18 +1658,6 @@
         "category": "news",
         "points": 4,
         "comments": 10,
-        "is_new": false
-      },
-      {
-        "id": "8bc307ae958ca9cfb15b68df6bf01b9f",
-        "title": "The RAM shortage could last years",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
-        "description": "According to Nikkei Asia, even as suppliers ramp up DRAM production, manufacturers are only expected to meet 60 percent of demand by the end of 2027. SK Group chairman has even said that shortages cou",
-        "published": "2026-04-18T17:08:45-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
         "is_new": false
       },
       {
