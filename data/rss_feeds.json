@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-20T15:42:11.078485+00:00",
+  "last_updated": "2026-04-20T17:18:12.806077+00:00",
   "total_entries": 110,
-  "new_entries": 2,
+  "new_entries": 5,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -77,18 +77,6 @@
       "url": "https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/",
       "description": "AI infrastructure company Upscale AI is reportedly in talks to raise its third funding round since launching just seven months ago.",
       "published": "Thu, 16 Apr 2026 20:41:13 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "3050cb1e6e14285219cb9d95277c16ca",
-      "title": "Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught",
-      "url": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
-      "description": "The new model, called π0.7, represents what the company describes as an early but meaningful step toward the long-sought goal of a general-purpose robot brain.",
-      "published": "Thu, 16 Apr 2026 20:26:44 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
@@ -190,6 +178,18 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "9c57fea75aaec5a79026164fdf667314",
+      "title": "NSA spies are reportedly using Anthropic’s Mythos, despite Pentagon feud",
+      "url": "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/",
+      "description": "NSA is said to be using Anthropic's restricted Mythos AI model.",
+      "published": "Mon, 20 Apr 2026 16:06:21 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "23195d5f10b1ae4cb67fe30448b62da1",
@@ -782,6 +782,18 @@
       "is_new": false
     },
     {
+      "id": "dd303cd7f30df572142e07559cd96ebd",
+      "title": "Fortnite developers can make AI characters now — just don&#8217;t try to date them",
+      "url": "https://www.theverge.com/games/914963/fortnite-ai-characters-developers-conversations",
+      "description": "Following last year's AI-powered Darth Vader in Fortnite that swore in a re-creation of James Earl Jones' voice, Epic Games is now letting Fortnite creators experiment with a new \"conversations\" tool",
+      "published": "2026-04-20T13:08:31-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "47833278",
       "title": "Is anyone else bothered that AI agents can basically do what they want?",
       "url": "https://news.ycombinator.com/item?id=47833278",
@@ -1102,6 +1114,19 @@
       "is_new": false
     },
     {
+      "id": "c67346d01a28cb2c03e44e4af89cd515",
+      "title": "The Amazing Agent Race: Strong Tool Users, Weak Navigators",
+      "url": "https://huggingface.co/papers/2604.10261",
+      "description": "Existing tool-use benchmarks for LLM agents are overwhelmingly linear: our analysis of six benchmarks shows 55 to 100% of instances are simple chains of 2 to 5 steps. We introduce The Amazing Agent Ra",
+      "published": "2026-04-16T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "594943567b021803afa3bdeef03e4765",
       "title": "Where does output diversity collapse in post-training?",
       "url": "https://huggingface.co/papers/2604.16027",
@@ -1137,7 +1162,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 63,
+      "likes": 64,
       "is_new": false
     },
     {
@@ -1193,19 +1218,6 @@
       "is_new": false
     },
     {
-      "id": "daf01e4e9ccba02a88dc723ba6dee181",
-      "title": "ArtifactNet: Detecting AI-Generated Music via Forensic Residual Physics",
-      "url": "https://huggingface.co/papers/2604.16254",
-      "description": "We present ArtifactNet, a lightweight framework that detects AI-generated music by reframing the problem as forensic physics -- extracting and analyzing the physical artifacts that neural audio codecs",
-      "published": "2026-04-16T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
-      "is_new": false
-    },
-    {
       "id": "92ec85da286b7e64def202b7edf4546d",
       "title": "OpenAI’s big Codex update is a direct shot at Claude Code",
       "url": "https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos",
@@ -1246,18 +1258,6 @@
       "is_new": false
     },
     {
-      "id": "c80371d9dd9f353d25cbcff5b7223acc",
-      "title": "Google’s AI Mode update lets you open links without leaving the page",
-      "url": "https://www.theverge.com/tech/913109/google-ai-mode-tabs-sources",
-      "description": "Google is upgrading AI Mode in Chrome with a new feature that will allow you to open links to sources alongside your chat. Now, instead of automatically opening a new tab, clicking a source will open",
-      "published": "2026-04-16T14:35:15-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "47793313",
       "title": "The Common AI Provider: LLM and AI Agent Support for Apache Airflow",
       "url": "https://airflow.apache.org/blog/common-ai-provider/",
@@ -1294,7 +1294,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 11,
+      "likes": 12,
       "is_new": false
     }
   ],
@@ -1330,18 +1330,6 @@
         "url": "https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/",
         "description": "AI infrastructure company Upscale AI is reportedly in talks to raise its third funding round since launching just seven months ago.",
         "published": "Thu, 16 Apr 2026 20:41:13 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "3050cb1e6e14285219cb9d95277c16ca",
-        "title": "Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught",
-        "url": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
-        "description": "The new model, called π0.7, represents what the company describes as an early but meaningful step toward the long-sought goal of a general-purpose robot brain.",
-        "published": "Thu, 16 Apr 2026 20:26:44 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
@@ -1443,6 +1431,18 @@
         "source_icon": "📰",
         "category": "news",
         "is_new": false
+      },
+      {
+        "id": "9c57fea75aaec5a79026164fdf667314",
+        "title": "NSA spies are reportedly using Anthropic’s Mythos, despite Pentagon feud",
+        "url": "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/",
+        "description": "NSA is said to be using Anthropic's restricted Mythos AI model.",
+        "published": "Mon, 20 Apr 2026 16:06:21 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
       },
       {
         "id": "23195d5f10b1ae4cb67fe30448b62da1",
@@ -1555,6 +1555,18 @@
         "is_new": false
       },
       {
+        "id": "dd303cd7f30df572142e07559cd96ebd",
+        "title": "Fortnite developers can make AI characters now — just don&#8217;t try to date them",
+        "url": "https://www.theverge.com/games/914963/fortnite-ai-characters-developers-conversations",
+        "description": "Following last year's AI-powered Darth Vader in Fortnite that swore in a re-creation of James Earl Jones' voice, Epic Games is now letting Fortnite creators experiment with a new \"conversations\" tool",
+        "published": "2026-04-20T13:08:31-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "47833278",
         "title": "Is anyone else bothered that AI agents can basically do what they want?",
         "url": "https://news.ycombinator.com/item?id=47833278",
@@ -1658,20 +1670,6 @@
         "category": "news",
         "points": 3,
         "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "47822787",
-        "title": "Ask HN: May be a basic question, but how can I use AI well?",
-        "url": "https://news.ycombinator.com/item?id=47822787",
-        "description": "",
-        "published": "2026-04-19T08:42:37Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 8,
-        "comments": 2,
         "is_new": false
       }
     ],
