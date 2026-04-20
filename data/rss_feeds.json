@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-20T11:40:54.276648+00:00",
+  "last_updated": "2026-04-20T13:57:36.188028+00:00",
   "total_entries": 110,
-  "new_entries": 5,
+  "new_entries": 9,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,6 +768,34 @@
       "is_new": false
     },
     {
+      "id": "47833955",
+      "title": "I Built a 22k-Line App with Zero Coding Experience. Or, how to control agents",
+      "url": "https://news.ycombinator.com/item?id=47833955",
+      "description": "",
+      "published": "2026-04-20T13:22:39Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "47833278",
+      "title": "Is anyone else bothered that AI agents can basically do what they want?",
+      "url": "https://news.ycombinator.com/item?id=47833278",
+      "description": "",
+      "published": "2026-04-20T12:25:53Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 1,
+      "is_new": true
+    },
+    {
       "id": "14b4d3c07b7411253c817e18979b8b1d",
       "title": "Cloud development platform Vercel was hacked",
       "url": "https://www.theverge.com/tech/914723/vercel-hacked",
@@ -1074,6 +1102,32 @@
       "is_new": false
     },
     {
+      "id": "594943567b021803afa3bdeef03e4765",
+      "title": "Where does output diversity collapse in post-training?",
+      "url": "https://huggingface.co/papers/2604.16027",
+      "description": "Post-trained language models produce less varied outputs than their base counterparts. This output diversity collapse undermines inference-time scaling methods that rely on varied samples, and risks h",
+      "published": "2026-04-16T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 6,
+      "is_new": true
+    },
+    {
+      "id": "5af7e5062f72c684e95e056e2cd17eb9",
+      "title": "Hierarchical Codec Diffusion for Video-to-Speech Generation",
+      "url": "https://huggingface.co/papers/2604.15923",
+      "description": "Video-to-Speech (VTS) generation aims to synthesize speech from a silent video without auditory signals. However, existing VTS methods disregard the hierarchical nature of speech, which spans coarse s",
+      "published": "2026-04-16T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "417d80b29df2b3568a83b4630b09cbf4",
       "title": "Elucidating the SNR-t Bias of Diffusion Probabilistic Models",
       "url": "https://huggingface.co/papers/2604.16044",
@@ -1083,7 +1137,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 58,
+      "likes": 61,
       "is_new": true
     },
     {
@@ -1135,7 +1189,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 17,
+      "likes": 18,
       "is_new": false
     },
     {
@@ -1143,32 +1197,6 @@
       "title": "ArtifactNet: Detecting AI-Generated Music via Forensic Residual Physics",
       "url": "https://huggingface.co/papers/2604.16254",
       "description": "We present ArtifactNet, a lightweight framework that detects AI-generated music by reframing the problem as forensic physics -- extracting and analyzing the physical artifacts that neural audio codecs",
-      "published": "2026-04-16T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
-      "is_new": false
-    },
-    {
-      "id": "ec7e8b207dba36c2b4e64684ed6180d5",
-      "title": "Qwen3.5-Omni Technical Report",
-      "url": "https://huggingface.co/papers/2604.15804",
-      "description": "In this work, we present Qwen3.5-Omni, the latest advancement in the Qwen-Omni model family. Representing a significant evolution over its predecessor, Qwen3.5-Omni scales to hundreds of billions of p",
-      "published": "2026-04-16T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 16,
-      "is_new": false
-    },
-    {
-      "id": "25c5da52c21e01be1e013487c03791c2",
-      "title": "VEFX-Bench: A Holistic Benchmark for Generic Video Editing and Visual Effects",
-      "url": "https://huggingface.co/papers/2604.16272",
-      "description": "As AI-assisted video creation becomes increasingly practical, instruction-guided video editing has become essential for refining generated or captured footage to meet professional requirements. Yet th",
       "published": "2026-04-16T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
@@ -1244,34 +1272,6 @@
       "is_new": false
     },
     {
-      "id": "47793245",
-      "title": "Show HN: EDDI – Multi-agent AI engine where agent logic lives in JSON, not code",
-      "url": "https://github.com/labsai/EDDI",
-      "description": "",
-      "published": "2026-04-16T14:11:37Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "47792122",
-      "title": "Show HN: Agent-cache – Multi-tier LLM/tool/session caching for Valkey and Redis",
-      "url": "https://news.ycombinator.com/item?id=47792122",
-      "description": "",
-      "published": "2026-04-16T12:37:56Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 17,
-      "comments": 6,
-      "is_new": false
-    },
-    {
       "id": "265957919dec6793e6ae8c11ba116a5f",
       "title": "QuantCode-Bench: A Benchmark for Evaluating the Ability of Large Language Models to Generate Executable Algorithmic Trading Strategies",
       "url": "https://huggingface.co/papers/2604.15151",
@@ -1281,7 +1281,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 5,
       "is_new": true
     },
     {
@@ -1294,7 +1294,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 10,
       "is_new": true
     }
   ],
@@ -1541,6 +1541,34 @@
         "is_new": false
       },
       {
+        "id": "47833955",
+        "title": "I Built a 22k-Line App with Zero Coding Experience. Or, how to control agents",
+        "url": "https://news.ycombinator.com/item?id=47833955",
+        "description": "",
+        "published": "2026-04-20T13:22:39Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 2,
+        "comments": 0,
+        "is_new": true
+      },
+      {
+        "id": "47833278",
+        "title": "Is anyone else bothered that AI agents can basically do what they want?",
+        "url": "https://news.ycombinator.com/item?id=47833278",
+        "description": "",
+        "published": "2026-04-20T12:25:53Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 1,
+        "comments": 1,
+        "is_new": true
+      },
+      {
         "id": "14b4d3c07b7411253c817e18979b8b1d",
         "title": "Cloud development platform Vercel was hacked",
         "url": "https://www.theverge.com/tech/914723/vercel-hacked",
@@ -1644,34 +1672,6 @@
         "category": "news",
         "points": 8,
         "comments": 1,
-        "is_new": false
-      },
-      {
-        "id": "47819553",
-        "title": "Show HN: How Are You-elderly fall detection app I built solo with AI in 6 months",
-        "url": "https://news.ycombinator.com/item?id=47819553",
-        "description": "",
-        "published": "2026-04-18T21:11:18Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 4,
-        "comments": 10,
-        "is_new": false
-      },
-      {
-        "id": "47810533",
-        "title": "Show HN: AI Subroutines – Run automation scripts inside your browser tab",
-        "url": "https://www.rtrvr.ai/blog/ai-subroutines-zero-token-deterministic-automation",
-        "description": "",
-        "published": "2026-04-17T21:03:18Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 44,
-        "comments": 17,
         "is_new": false
       }
     ],
