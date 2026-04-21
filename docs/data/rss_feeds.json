@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-21T08:07:27.906005+00:00",
+  "last_updated": "2026-04-21T09:49:53.983436+00:00",
   "total_entries": 110,
-  "new_entries": 1,
+  "new_entries": 4,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -789,8 +789,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 51,
-      "comments": 21,
+      "points": 64,
+      "comments": 26,
       "is_new": false
     },
     {
@@ -872,6 +872,19 @@
       "is_new": false
     },
     {
+      "id": "fc0c3489ca468d21eb2acab2702167e4",
+      "title": "Extending One-Step Image Generation from Class Labels to Text via Discriminative Text Representation",
+      "url": "https://huggingface.co/papers/2604.18168",
+      "description": "Few-step generation has been a long-standing goal, with recent one-step generation methods exemplified by MeanFlow achieving remarkable results. Existing research on MeanFlow primarily focuses on clas",
+      "published": "2026-04-19T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 72,
+      "is_new": true
+    },
+    {
       "id": "aaa80615551a8eb9d58c997b0ee9d7b1",
       "title": "Latent Preference Modeling for Cross-Session Personalized Tool Calling",
       "url": "https://huggingface.co/papers/2604.17886",
@@ -894,7 +907,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 35,
+      "likes": 38,
       "is_new": false
     },
     {
@@ -907,7 +920,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 11,
       "is_new": false
     },
     {
@@ -933,7 +946,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 11,
+      "likes": 12,
       "is_new": false
     },
     {
@@ -960,45 +973,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "16d4393ce1d4dccedc0cb9d2f1728790",
-      "title": "Agent-World: Scaling Real-World Environment Synthesis for Evolving General Agent Intelligence",
-      "url": "https://huggingface.co/papers/2604.18292",
-      "description": "Large language models are increasingly expected to serve as general-purpose agents that interact with external, stateful tool environments. The Model Context Protocol (MCP) and broader agent skills of",
-      "published": "2026-04-19T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 42,
-      "is_new": false
-    },
-    {
-      "id": "e9668440117b2fe857024a61a88e0a2d",
-      "title": "Modeling Multiple Support Strategies within a Single Turn for Emotional Support Conversations",
-      "url": "https://huggingface.co/papers/2604.17972",
-      "description": "Emotional Support Conversation (ESC) aims to assist individuals experiencing distress by generating empathetic and supportive dialogue. While prior work typically assumes that each supporter turn corr",
-      "published": "2026-04-19T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "d347e1a64e881a044855e2e5fc5401fe",
-      "title": "MultiWorld: Scalable Multi-Agent Multi-View Video World Models",
-      "url": "https://huggingface.co/papers/2604.18564",
-      "description": "Video world models have achieved remarkable success in simulating environmental dynamics in response to actions by users or agents. They are modeled as action-conditioned video generation models that ",
-      "published": "2026-04-19T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 29,
       "is_new": false
     },
     {
@@ -1079,7 +1053,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 11,
+      "likes": 13,
       "is_new": false
     },
     {
@@ -1186,7 +1160,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 22,
+      "likes": 29,
       "is_new": false
     },
     {
@@ -1290,6 +1264,32 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
+      "is_new": false
+    },
+    {
+      "id": "a0c80801fcb93693698bbf43937b3c10",
+      "title": "The ‘AI is inevitable’ trap",
+      "url": "https://www.theverge.com/podcast/913792/ai-divide-sam-altman-vergecast",
+      "description": "In the latest sign of AI silly season, Allbirds, the shoe company, told the world it was now an AI company and briefly managed to septuple its stock price. The Newbird AI story is really just one of a",
+      "published": "2026-04-17T09:24:34-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": false
+    },
+    {
+      "id": "47803689",
+      "title": "A language model that emits raw VM opcodes instead of text",
+      "url": "https://news.ycombinator.com/item?id=47803689",
+      "description": "",
+      "published": "2026-04-17T08:24:33Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 2,
       "is_new": false
     }
   ],
@@ -1919,8 +1919,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 51,
-        "comments": 21,
+        "points": 64,
+        "comments": 26,
         "is_new": false
       },
       {
