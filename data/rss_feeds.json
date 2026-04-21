@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-21T15:41:12.883050+00:00",
+  "last_updated": "2026-04-21T17:15:16.155557+00:00",
   "total_entries": 110,
-  "new_entries": 10,
+  "new_entries": 16,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,6 +47,30 @@
     }
   ],
   "entries": [
+    {
+      "id": "f17ab9e9e10930af712a5f684f8bdf85",
+      "title": "Clarifai deletes 3 million photos that OkCupid provided to train facial recognition AI, report says",
+      "url": "https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-settlement/",
+      "description": "The photo deletion comes after an FTC settlement with Clarifai. The company had asked OkCupid — whose executives had invested in Clarifai — to share data in 2014, according to court documents.",
+      "published": "Tue, 21 Apr 2026 17:11:01 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "92ce862f803639087a8db84982a0b9f9",
+      "title": "AI Dungeon maker Latitude unveils Voyage, a platform for creating AI-powered RPGs",
+      "url": "https://techcrunch.com/2026/04/21/voyage-is-an-ai-rpg-platform-for-creating-custom-gaming-worlds-with-ai-generated-npc-interactions/",
+      "description": "Latitude's new AI-native platform, Voyage, aims to help gamers create their very own role-playing game.",
+      "published": "Tue, 21 Apr 2026 16:00:00 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "d3cb509cceb0e69841b928c068872271",
       "title": "Bond, a new social media platform, wants to use AI to help you kick your doomscrolling habit",
@@ -744,28 +768,18 @@
       "is_new": false
     },
     {
-      "id": "18d30f5d748d768fe492fd4dee730c47",
-      "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
-      "url": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
-      "description": "Returning backers a16z and Thrive are expected to lead the round.",
-      "published": "Fri, 17 Apr 2026 19:17:26 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
+      "id": "47850907",
+      "title": "Show HN: Daemons – we pivoted from building agents to cleaning up after them",
+      "url": "https://charlielabs.ai/",
+      "description": "",
+      "published": "2026-04-21T16:16:41Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
       "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "573fe90601e9be2845baf37916a90eec",
-      "title": "‘Tokenmaxxing’ is making developers less productive than they think",
-      "url": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
-      "description": "There's a lot more code — but it's a lot more expensive and requires a lot more rewriting.",
-      "published": "Fri, 17 Apr 2026 18:42:45 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
+      "points": 13,
+      "comments": 7,
+      "is_new": true
     },
     {
       "id": "47849521",
@@ -791,9 +805,21 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 2,
+      "points": 3,
       "comments": 2,
       "is_new": false
+    },
+    {
+      "id": "1e2f94a62ac70f1c669df973784f1a77",
+      "title": "Ordering with the Starbucks ChatGPT app was a true coffee nightmare",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/915821/starbucks-chatgpt-app-testing",
+      "description": "Venti iced coffee, light skim milk. That's what I get at Starbucks. It is what I have gotten at Starbucks every time I've been to Starbucks for as long as I can remember, other than a brief love affai",
+      "published": "2026-04-21T12:19:40-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "7faac906f243c381b64db98cc8b53b5c",
@@ -853,8 +879,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 105,
-      "comments": 57,
+      "points": 114,
+      "comments": 60,
       "is_new": false
     },
     {
@@ -936,6 +962,19 @@
       "is_new": false
     },
     {
+      "id": "1d15b136d8eb8c623f8517e59c2fafd0",
+      "title": "On the Reliability of Computer Use Agents",
+      "url": "https://huggingface.co/papers/2604.17849",
+      "description": "Computer-use agents have rapidly improved on real-world tasks such as web navigation, desktop automation, and software interaction, in some cases surpassing human performance. Yet even when the task a",
+      "published": "2026-04-19T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
       "id": "fc0c3489ca468d21eb2acab2702167e4",
       "title": "Extending One-Step Image Generation from Class Labels to Text via Discriminative Text Representation",
       "url": "https://huggingface.co/papers/2604.18168",
@@ -971,19 +1010,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 45,
-      "is_new": false
-    },
-    {
-      "id": "378b2eab7e1e4f22996581503aa524f2",
-      "title": "This charming gadget writes bad AI poetry",
-      "url": "https://www.theverge.com/gadgets/913981/poetry-camera-ai-hands-on",
-      "description": "I've never been as charmed and frustrated by one gadget as I have with the Poetry Camera. It's a delightful object. White and cherry red with a color-matched woven strap, it looks playful and adorably",
-      "published": "2026-04-19T19:13:31-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
+      "likes": 49,
       "is_new": false
     },
     {
@@ -1024,7 +1051,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 8,
+      "points": 9,
       "comments": 4,
       "is_new": false
     },
@@ -1065,7 +1092,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 5,
       "is_new": false
     },
     {
@@ -1086,19 +1113,6 @@
       "title": "Back to Repair: A Minimal Denoising Network\\ for Time Series Anomaly Detection",
       "url": "https://huggingface.co/papers/2604.17388",
       "description": "We introduce JuRe (Just Repair), a minimal denoising network for time series anomaly detection that exposes a central finding: architectural complexity is unnecessary when the training objective corre",
-      "published": "2026-04-18T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
-      "is_new": false
-    },
-    {
-      "id": "414f09f587084d263c1ded93fbb90b8f",
-      "title": "HSG: Hyperbolic Scene Graph",
-      "url": "https://huggingface.co/papers/2604.17454",
-      "description": "Scene graph representations enable structured visual understanding by modeling objects and their relationships, and have been widely used for multiview and 3D scene reasoning. Existing methods such as",
       "published": "2026-04-18T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
@@ -1150,6 +1164,19 @@
       "is_new": false
     },
     {
+      "id": "33d0f3e4e2074045b637751a046a3ca6",
+      "title": "The Illusion of Certainty: Decoupling Capability and Calibration in On-Policy Distillation",
+      "url": "https://huggingface.co/papers/2604.16830",
+      "description": "On-policy distillation (OPD) is an increasingly important paradigm for post-training language models. However, we identify a pervasive Scaling Law of Miscalibration: while OPD effectively improves tas",
+      "published": "2026-04-17T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
       "id": "a2ede29519abb2f22c25bb9041b8019b",
       "title": "GenericAgent: A Token-Efficient Self-Evolving LLM Agent via Contextual Information Density Maximization (V1.0)",
       "url": "https://huggingface.co/papers/2604.17091",
@@ -1159,7 +1186,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 6,
       "is_new": false
     },
     {
@@ -1173,19 +1200,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "3b4d8c40e93442efb96f21e9b6bf47cf",
-      "title": "EasyVideoR1: Easier RL for Video Understanding",
-      "url": "https://huggingface.co/papers/2604.16893",
-      "description": "Reinforcement learning from verifiable rewards (RLVR) has demonstrated remarkable effectiveness in improving the reasoning capabilities of large language models. As models evolve into natively multimo",
-      "published": "2026-04-17T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 32,
       "is_new": false
     },
     {
@@ -1280,24 +1294,34 @@
       "points": 1,
       "comments": 2,
       "is_new": false
-    },
-    {
-      "id": "47800418",
-      "title": "Show HN: Rebuilt SETI Home but for AI",
-      "url": "https://github.com/Agent-FM/agentfm-core",
-      "description": "",
-      "published": "2026-04-16T22:40:33Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 4,
-      "comments": 3,
-      "is_new": false
     }
   ],
   "by_category": {
     "news": [
+      {
+        "id": "f17ab9e9e10930af712a5f684f8bdf85",
+        "title": "Clarifai deletes 3 million photos that OkCupid provided to train facial recognition AI, report says",
+        "url": "https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-settlement/",
+        "description": "The photo deletion comes after an FTC settlement with Clarifai. The company had asked OkCupid — whose executives had invested in Clarifai — to share data in 2014, according to court documents.",
+        "published": "Tue, 21 Apr 2026 17:11:01 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "92ce862f803639087a8db84982a0b9f9",
+        "title": "AI Dungeon maker Latitude unveils Voyage, a platform for creating AI-powered RPGs",
+        "url": "https://techcrunch.com/2026/04/21/voyage-is-an-ai-rpg-platform-for-creating-custom-gaming-worlds-with-ai-generated-npc-interactions/",
+        "description": "Latitude's new AI-native platform, Voyage, aims to help gamers create their very own role-playing game.",
+        "published": "Tue, 21 Apr 2026 16:00:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "d3cb509cceb0e69841b928c068872271",
         "title": "Bond, a new social media platform, wants to use AI to help you kick your doomscrolling habit",
@@ -1515,28 +1539,18 @@
         "is_new": false
       },
       {
-        "id": "18d30f5d748d768fe492fd4dee730c47",
-        "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
-        "url": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
-        "description": "Returning backers a16z and Thrive are expected to lead the round.",
-        "published": "Fri, 17 Apr 2026 19:17:26 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
+        "id": "47850907",
+        "title": "Show HN: Daemons – we pivoted from building agents to cleaning up after them",
+        "url": "https://charlielabs.ai/",
+        "description": "",
+        "published": "2026-04-21T16:16:41Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
         "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "573fe90601e9be2845baf37916a90eec",
-        "title": "‘Tokenmaxxing’ is making developers less productive than they think",
-        "url": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
-        "description": "There's a lot more code — but it's a lot more expensive and requires a lot more rewriting.",
-        "published": "Fri, 17 Apr 2026 18:42:45 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
+        "points": 13,
+        "comments": 7,
+        "is_new": true
       },
       {
         "id": "47849521",
@@ -1562,9 +1576,21 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 2,
+        "points": 3,
         "comments": 2,
         "is_new": false
+      },
+      {
+        "id": "1e2f94a62ac70f1c669df973784f1a77",
+        "title": "Ordering with the Starbucks ChatGPT app was a true coffee nightmare",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/915821/starbucks-chatgpt-app-testing",
+        "description": "Venti iced coffee, light skim milk. That's what I get at Starbucks. It is what I have gotten at Starbucks every time I've been to Starbucks for as long as I can remember, other than a brief love affai",
+        "published": "2026-04-21T12:19:40-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
       },
       {
         "id": "7faac906f243c381b64db98cc8b53b5c",
@@ -1624,8 +1650,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 105,
-        "comments": 57,
+        "points": 114,
+        "comments": 60,
         "is_new": false
       },
       {
@@ -1634,32 +1660,6 @@
         "url": "https://www.theverge.com/games/914963/fortnite-ai-characters-developers-conversations",
         "description": "Following last year's AI-powered Darth Vader in Fortnite that swore in a re-creation of James Earl Jones' voice, Epic Games is now letting Fortnite creators experiment with a new \"conversations\" tool",
         "published": "2026-04-20T13:39:32-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "47833955",
-        "title": "I Built a 22k-Line App with Zero Coding Experience. Or, how to control agents",
-        "url": "https://news.ycombinator.com/item?id=47833955",
-        "description": "",
-        "published": "2026-04-20T13:22:39Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 2,
-        "comments": 2,
-        "is_new": false
-      },
-      {
-        "id": "14b4d3c07b7411253c817e18979b8b1d",
-        "title": "Cloud development platform Vercel was hacked",
-        "url": "https://www.theverge.com/tech/914723/vercel-hacked",
-        "description": "Vercel, a major development platform that hosts and deploys web apps, was compromised, and the hackers are attempting to sell stolen data. A person claiming to be a member of ShinyHunters, which was b",
-        "published": "2026-04-20T05:41:50-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
