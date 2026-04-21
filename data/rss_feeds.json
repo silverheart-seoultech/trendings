@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-21T19:36:51.701531+00:00",
+  "last_updated": "2026-04-21T21:03:36.701833+00:00",
   "total_entries": 110,
-  "new_entries": 0,
+  "new_entries": 4,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,6 +47,18 @@
     }
   ],
   "entries": [
+    {
+      "id": "a521d11c49f0dc899bf24dc2db5d68ce",
+      "title": "Apple’s John Ternus will run one of the world’s most powerful companies; the job is a minefield",
+      "url": "https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/",
+      "description": "Apple's top job comes with almost unrivaled power and money, but it comes with plenty of baggage, too.",
+      "published": "Tue, 21 Apr 2026 20:23:24 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "6c61749c78a4f6a6f255e970d547c16b",
       "title": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
@@ -696,18 +708,6 @@
       "is_new": false
     },
     {
-      "id": "bd8a430d3e86eb79a0c9f844ac1ea64a",
-      "title": "Anthropic’s relationship with the Trump administration seems to be thawing",
-      "url": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
-      "description": "Despite recently being designated a supply-chain risk by the Pentagon, Anthropic is still talking to high-level members of the Trump administration.",
-      "published": "Sat, 18 Apr 2026 14:56:48 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "ad8b96a4b1a537c2e3d5984b29698f8f",
       "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
       "url": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
@@ -833,7 +833,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 38,
+      "points": 43,
       "comments": 24,
       "is_new": false
     },
@@ -971,8 +971,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 130,
-      "comments": 65,
+      "points": 140,
+      "comments": 70,
       "is_new": false
     },
     {
@@ -1042,6 +1042,32 @@
       "is_new": false
     },
     {
+      "id": "cd70bf6d8f7eab7bc899c8cca00e6cfe",
+      "title": "River-LLM: Large Language Model Seamless Exit Based on KV Share",
+      "url": "https://huggingface.co/papers/2604.18396",
+      "description": "Large Language Models (LLMs) have demonstrated exceptional performance across diverse domains but are increasingly constrained by high inference latency. Early Exit has emerged as a promising solution",
+      "published": "2026-04-19T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "a1813eb3b1ff6125df9ddb93b6552086",
+      "title": "MARCO: Navigating the Unseen Space of Semantic Correspondence",
+      "url": "https://huggingface.co/papers/2604.18267",
+      "description": "Recent advances in semantic correspondence rely on dual-encoder architectures, combining DINOv2 with diffusion backbones. While accurate, these billion-parameter models generalize poorly beyond traini",
+      "published": "2026-04-19T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "1d15b136d8eb8c623f8517e59c2fafd0",
       "title": "On the Reliability of Computer Use Agents",
       "url": "https://huggingface.co/papers/2604.17849",
@@ -1051,7 +1077,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
+      "likes": 7,
       "is_new": false
     },
     {
@@ -1078,19 +1104,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 0,
-      "is_new": false
-    },
-    {
-      "id": "73e95d0156867b3c551641877c6468a1",
-      "title": "OpenGame: Open Agentic Coding for Games",
-      "url": "https://huggingface.co/papers/2604.18394",
-      "description": "Game development sits at the intersection of creative design and intricate software engineering, demanding the joint orchestration of game engines, real-time loops, and tightly coupled state across ma",
-      "published": "2026-04-19T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 49,
       "is_new": false
     },
     {
@@ -1150,6 +1163,19 @@
       "is_new": false
     },
     {
+      "id": "a5e49199bdcedf327992d40ef95454d2",
+      "title": "When Background Matters: Breaking Medical Vision Language Models by Transferable Attack",
+      "url": "https://huggingface.co/papers/2604.17318",
+      "description": "Vision-Language Models (VLMs) are increasingly used in clinical diagnostics, yet their robustness to adversarial attacks remains largely unexplored, posing serious risks. Existing medical attacks focu",
+      "published": "2026-04-18T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "effa52bca94f1a1a639fe330eaf628b2",
       "title": "The Continuity Layer: Why Intelligence Needs an Architecture for What It Carries Forward",
       "url": "https://huggingface.co/papers/2604.17273",
@@ -1173,19 +1199,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 5,
-      "is_new": false
-    },
-    {
-      "id": "be64d442838d07d5b2be6a5b2b74987e",
-      "title": "SkillFlow:Benchmarking Lifelong Skill Discovery and Evolution for Autonomous Agents",
-      "url": "https://huggingface.co/papers/2604.17308",
-      "description": "As the capability frontier of autonomous agents continues to expand, they are increasingly able to complete specialized tasks through plug-and-play external skills. Yet current benchmarks mostly test ",
-      "published": "2026-04-18T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 15,
       "is_new": false
     },
     {
@@ -1240,7 +1253,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
+      "likes": 10,
       "is_new": false
     },
     {
@@ -1254,19 +1267,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 6,
-      "is_new": false
-    },
-    {
-      "id": "5519f205595e6a37e13c98964fe730a5",
-      "title": "Beyond Text-Dominance: Understanding Modality Preference of Omni-modal Large Language Models",
-      "url": "https://huggingface.co/papers/2604.16902",
-      "description": "Native Omni-modal Large Language Models (OLLMs) have shifted from pipeline architectures to unified representation spaces. However, this native integration gives rise to a critical yet underexplored p",
-      "published": "2026-04-17T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
       "is_new": false
     },
     {
@@ -1300,6 +1300,18 @@
   ],
   "by_category": {
     "news": [
+      {
+        "id": "a521d11c49f0dc899bf24dc2db5d68ce",
+        "title": "Apple’s John Ternus will run one of the world’s most powerful companies; the job is a minefield",
+        "url": "https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/",
+        "description": "Apple's top job comes with almost unrivaled power and money, but it comes with plenty of baggage, too.",
+        "published": "Tue, 21 Apr 2026 20:23:24 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "6c61749c78a4f6a6f255e970d547c16b",
         "title": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
@@ -1469,18 +1481,6 @@
         "is_new": false
       },
       {
-        "id": "bd8a430d3e86eb79a0c9f844ac1ea64a",
-        "title": "Anthropic’s relationship with the Trump administration seems to be thawing",
-        "url": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
-        "description": "Despite recently being designated a supply-chain risk by the Pentagon, Anthropic is still talking to high-level members of the Trump administration.",
-        "published": "Sat, 18 Apr 2026 14:56:48 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
         "id": "ad8b96a4b1a537c2e3d5984b29698f8f",
         "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
         "url": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
@@ -1606,7 +1606,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 38,
+        "points": 43,
         "comments": 24,
         "is_new": false
       },
