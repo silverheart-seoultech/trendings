@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-22T06:08:43.678883+00:00",
+  "last_updated": "2026-04-22T07:59:22.183984+00:00",
   "total_entries": 110,
-  "new_entries": 44,
+  "new_entries": 51,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -777,7 +777,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 2,
+      "points": 3,
       "comments": 1,
       "is_new": false
     },
@@ -791,7 +791,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 3,
+      "points": 4,
       "comments": 0,
       "is_new": false
     },
@@ -913,7 +913,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 55,
+      "points": 56,
       "comments": 28,
       "is_new": false
     },
@@ -1018,6 +1018,32 @@
       "is_new": false
     },
     {
+      "id": "e93b9fb63f031201de5f0c052072e8fa",
+      "title": "ShadowPEFT: Shadow Network for Parameter-Efficient Fine-Tuning",
+      "url": "https://huggingface.co/papers/2604.19254",
+      "description": "Parameter-efficient fine-tuning (PEFT) reduces the training cost of full-parameter fine-tuning for large language models (LLMs) by training only a small set of task-specific parameters while freezing ",
+      "published": "2026-04-20T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 7,
+      "is_new": true
+    },
+    {
+      "id": "15f38e4856d1a3f199d07985831f65e1",
+      "title": "HP-Edit: A Human-Preference Post-Training Framework for Image Editing",
+      "url": "https://huggingface.co/papers/2604.19406",
+      "description": "Common image editing tasks typically adopt powerful generative diffusion models as the leading paradigm for real-world content editing. Meanwhile, although reinforcement learning (RL) methods such as ",
+      "published": "2026-04-20T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
       "id": "fd825e795ab34e9c2e53260d5f59e3b2",
       "title": "AnyRecon: Arbitrary-View 3D Reconstruction with Video Diffusion Model",
       "url": "https://huggingface.co/papers/2604.19747",
@@ -1027,7 +1053,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 22,
+      "likes": 27,
       "is_new": true
     },
     {
@@ -1040,7 +1066,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 1,
       "is_new": true
     },
     {
@@ -1053,7 +1079,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 15,
+      "likes": 18,
       "is_new": false
     },
     {
@@ -1066,7 +1092,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 10,
       "is_new": false
     },
     {
@@ -1079,7 +1105,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 17,
+      "likes": 21,
       "is_new": false
     },
     {
@@ -1087,58 +1113,6 @@
       "title": "ClawNet: Human-Symbiotic Agent Network for Cross-User Autonomous Cooperation",
       "url": "https://huggingface.co/papers/2604.19211",
       "description": "Current AI agent frameworks have made remarkable progress in automating individual tasks, yet all existing systems serve a single user. Human productivity rests on the social and organizational relati",
-      "published": "2026-04-20T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "03ce58d3b5b5f1f74f37a06b4b4e66e9",
-      "title": "LoopCTR: Unlocking the Loop Scaling Power for Click-Through Rate Prediction",
-      "url": "https://huggingface.co/papers/2604.19550",
-      "description": "Scaling Transformer-based click-through rate (CTR) models by stacking more parameters brings growing computational and storage overhead, creating a widening gap between scaling ambitions and the strin",
-      "published": "2026-04-20T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "2bc78694b1146cadee3557c150619aed",
-      "title": "PlayCoder: Making LLM-Generated GUI Code Playable",
-      "url": "https://huggingface.co/papers/2604.19742",
-      "description": "Large language models (LLMs) have achieved strong results in code generation, but their ability to generate GUI applications, especially games, remains insufficiently studied. Existing benchmarks main",
-      "published": "2026-04-20T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 12,
-      "is_new": false
-    },
-    {
-      "id": "a0e5954f2effb29a6a55d2dcae5a093a",
-      "title": "Tstars-Tryon 1.0: Robust and Realistic Virtual Try-On for Diverse Fashion Items",
-      "url": "https://huggingface.co/papers/2604.19748",
-      "description": "Recent advances in image generation and editing have opened new opportunities for virtual try-on. However, existing methods still struggle to meet complex real-world demands. We present Tstars-Tryon 1",
-      "published": "2026-04-20T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 25,
-      "is_new": false
-    },
-    {
-      "id": "f3898fb24cd067f2c4794aefedff8ef4",
-      "title": "Evaluation-driven Scaling for Scientific Discovery",
-      "url": "https://huggingface.co/papers/2604.19341",
-      "description": "Language models are increasingly used in scientific discovery to generate hypotheses, propose candidate solutions, implement systems, and iteratively refine them. At the core of these trial-and-error ",
       "published": "2026-04-20T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
@@ -1226,6 +1200,32 @@
       "points": 2,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "5ae6a5a645442590bfc2806b3a5b7ee1",
+      "title": "Mitigating Multimodal Hallucination via Phase-wise Self-reward",
+      "url": "https://huggingface.co/papers/2604.17982",
+      "description": "Large Vision-Language Models (LVLMs) still struggle with vision hallucination, where generated responses are inconsistent with the visual input. Existing methods either rely on large-scale annotated d",
+      "published": "2026-04-19T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "e0b05f666b74eb26943e8df038d6e549",
+      "title": "UDM-GRPO: Stable and Efficient Group Relative Policy Optimization for Uniform Discrete Diffusion Models",
+      "url": "https://huggingface.co/papers/2604.18518",
+      "description": "Uniform Discrete Diffusion Model (UDM) has recently emerged as a promising paradigm for discrete generative modeling; however, its integration with reinforcement learning remains largely unexplored. W",
+      "published": "2026-04-19T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
     },
     {
       "id": "118ad8b2c48be396988b258b46582a95",
@@ -1909,7 +1909,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 2,
+        "points": 3,
         "comments": 1,
         "is_new": false
       },
@@ -1923,7 +1923,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 3,
+        "points": 4,
         "comments": 0,
         "is_new": false
       },
