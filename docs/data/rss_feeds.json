@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-22T23:04:14.126622+00:00",
+  "last_updated": "2026-04-22T23:58:35.517930+00:00",
   "total_entries": 110,
-  "new_entries": 5,
+  "new_entries": 6,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,6 +47,18 @@
     }
   ],
   "entries": [
+    {
+      "id": "e4062796e839b1f57e674abd8f9f1629",
+      "title": "Tesla just increased its capex to $25B. Here’s where the money is going.",
+      "url": "https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/",
+      "description": "Tesla's planned capex for 2026 is three times higher than what the company has historically spent. Its CFO said, as a result, Tesla will have a negative free cash flow the rest of the year.",
+      "published": "Wed, 22 Apr 2026 23:56:52 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "f7fd414c02ef3e7d71ffcf6d2b8e486b",
       "title": "Google updates Workspace to make AI your new office intern",
@@ -756,18 +768,6 @@
       "is_new": false
     },
     {
-      "id": "f17ab9e9e10930af712a5f684f8bdf85",
-      "title": "Clarifai deletes 3 million photos that OkCupid provided to train facial recognition AI, report says",
-      "url": "https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-settlement/",
-      "description": "The photo deletion comes after an FTC settlement with Clarifai. The company had asked OkCupid — whose executives had invested in Clarifai — to share data in 2014, according to court documents.",
-      "published": "Tue, 21 Apr 2026 17:11:01 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "47866891",
       "title": "Show HN: Callmux – MCP multiplexer that cuts tool call context pollution by ~19x",
       "url": "https://github.com/edimuj/callmux",
@@ -895,7 +895,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 5,
+      "points": 6,
       "comments": 0,
       "is_new": false
     },
@@ -1253,7 +1253,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 5,
       "is_new": false
     },
     {
@@ -1300,6 +1300,18 @@
   ],
   "by_category": {
     "news": [
+      {
+        "id": "e4062796e839b1f57e674abd8f9f1629",
+        "title": "Tesla just increased its capex to $25B. Here’s where the money is going.",
+        "url": "https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/",
+        "description": "Tesla's planned capex for 2026 is three times higher than what the company has historically spent. Its CFO said, as a result, Tesla will have a negative free cash flow the rest of the year.",
+        "published": "Wed, 22 Apr 2026 23:56:52 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "f7fd414c02ef3e7d71ffcf6d2b8e486b",
         "title": "Google updates Workspace to make AI your new office intern",
@@ -1529,18 +1541,6 @@
         "is_new": false
       },
       {
-        "id": "f17ab9e9e10930af712a5f684f8bdf85",
-        "title": "Clarifai deletes 3 million photos that OkCupid provided to train facial recognition AI, report says",
-        "url": "https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-settlement/",
-        "description": "The photo deletion comes after an FTC settlement with Clarifai. The company had asked OkCupid — whose executives had invested in Clarifai — to share data in 2014, according to court documents.",
-        "published": "Tue, 21 Apr 2026 17:11:01 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
         "id": "47866891",
         "title": "Show HN: Callmux – MCP multiplexer that cuts tool call context pollution by ~19x",
         "url": "https://github.com/edimuj/callmux",
@@ -1668,7 +1668,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 5,
+        "points": 6,
         "comments": 0,
         "is_new": false
       }
