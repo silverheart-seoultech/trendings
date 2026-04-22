@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-22T08:04:24.657085+00:00",
+  "last_updated": "2026-04-22T09:49:06.527467+00:00",
   "total_entries": 110,
-  "new_entries": 0,
+  "new_entries": 4,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,6 +768,44 @@
       "is_new": false
     },
     {
+      "id": "47860859",
+      "title": "Show HN: We open-sourced a 6-library governance stack for AI agents (Python)",
+      "url": "https://news.ycombinator.com/item?id=47860859",
+      "description": "",
+      "published": "2026-04-22T08:47:25Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "3101b2eb692d8725991bcefec9708c95",
+      "title": "SpaceX cuts a deal to maybe buy Cursor for $60 billion",
+      "url": "https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition",
+      "description": "With an IPO looming for Elon Musk's SpaceX / xAI / X combo platter of companies, SpaceX has announced an odd arrangement to either acquire the automated programming platform Cursor for $60 billion or",
+      "published": "2026-04-22T05:40:37-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": false
+    },
+    {
+      "id": "ca661f784b61a05c0241a2bfbc0d2b3b",
+      "title": "Anthropic’s most dangerous AI model just fell into the wrong hands",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security",
+      "description": "Anthropic's Mythos AI model, a powerful cybersecurity tool that the company said could be dangerous in the wrong hands, has been accessed by a \"small group of unauthorized users,\" Bloomberg reports. A",
+      "published": "2026-04-22T05:30:13-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "47858398",
       "title": "Show HN: Open Chronicle – Local Screen Memory for Claude Code and Codex CLI",
       "url": "https://github.com/Screenata/open-chronicle",
@@ -777,7 +815,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 3,
+      "points": 4,
       "comments": 1,
       "is_new": false
     },
@@ -791,7 +829,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 4,
+      "points": 5,
       "comments": 0,
       "is_new": false
     },
@@ -861,18 +899,6 @@
       "category": "news",
       "points": 1,
       "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "3101b2eb692d8725991bcefec9708c95",
-      "title": "SpaceX cuts a deal to maybe buy Cursor for $60 billion",
-      "url": "https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition",
-      "description": "With an IPO looming for Elon Musk's SpaceX / xAI / X combo platter of companies, SpaceX has announced an odd arrangement to either acquire the automated programming platform Cursor for $60 billion or",
-      "published": "2026-04-21T18:57:52-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
       "is_new": false
     },
     {
@@ -1027,7 +1053,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
+      "likes": 12,
       "is_new": false
     },
     {
@@ -1053,7 +1079,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 27,
+      "likes": 33,
       "is_new": false
     },
     {
@@ -1079,7 +1105,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 18,
+      "likes": 19,
       "is_new": false
     },
     {
@@ -1092,33 +1118,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 10,
-      "is_new": false
-    },
-    {
-      "id": "30b8959f086b575c7dfc057186245afa",
-      "title": "CoInteract: Physically-Consistent Human-Object Interaction Video Synthesis via Spatially-Structured Co-Generation",
-      "url": "https://huggingface.co/papers/2604.19636",
-      "description": "Synthesizing human--object interaction (HOI) videos has broad practical value in e-commerce, digital advertising, and virtual marketing. However, current diffusion models, despite their photorealistic",
-      "published": "2026-04-20T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 21,
-      "is_new": false
-    },
-    {
-      "id": "0568ac90a2fc0beaefed51f4cf77dbe6",
-      "title": "ClawNet: Human-Symbiotic Agent Network for Cross-User Autonomous Cooperation",
-      "url": "https://huggingface.co/papers/2604.19211",
-      "description": "Current AI agent frameworks have made remarkable progress in automating individual tasks, yet all existing systems serve a single user. Human productivity rests on the social and organizational relati",
-      "published": "2026-04-20T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
+      "likes": 12,
       "is_new": false
     },
     {
@@ -1143,20 +1143,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 147,
+      "points": 148,
       "comments": 74,
-      "is_new": false
-    },
-    {
-      "id": "dd303cd7f30df572142e07559cd96ebd",
-      "title": "Fortnite developers can make AI characters now — just don&#8217;t try to date them",
-      "url": "https://www.theverge.com/games/914963/fortnite-ai-characters-developers-conversations",
-      "description": "Following last year's AI-powered Darth Vader in Fortnite that swore in a re-creation of James Earl Jones' voice, Epic Games is now letting Fortnite creators experiment with a new \"conversations\" tool",
-      "published": "2026-04-20T13:39:32-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
       "is_new": false
     },
     {
@@ -1200,6 +1188,19 @@
       "points": 2,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "c50ea15d7d896a279d18ac1c0426107b",
+      "title": "AJ-Bench: Benchmarking Agent-as-a-Judge for Environment-Aware Evaluation",
+      "url": "https://huggingface.co/papers/2604.18240",
+      "description": "As reinforcement learning continues to scale the training of large language model-based agents, reliably verifying agent behaviors in complex environments has become increasingly challenging. Existing",
+      "published": "2026-04-19T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 8,
+      "is_new": true
     },
     {
       "id": "5ae6a5a645442590bfc2806b3a5b7ee1",
@@ -1900,6 +1901,44 @@
         "is_new": false
       },
       {
+        "id": "47860859",
+        "title": "Show HN: We open-sourced a 6-library governance stack for AI agents (Python)",
+        "url": "https://news.ycombinator.com/item?id=47860859",
+        "description": "",
+        "published": "2026-04-22T08:47:25Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 2,
+        "comments": 0,
+        "is_new": true
+      },
+      {
+        "id": "3101b2eb692d8725991bcefec9708c95",
+        "title": "SpaceX cuts a deal to maybe buy Cursor for $60 billion",
+        "url": "https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition",
+        "description": "With an IPO looming for Elon Musk's SpaceX / xAI / X combo platter of companies, SpaceX has announced an odd arrangement to either acquire the automated programming platform Cursor for $60 billion or",
+        "published": "2026-04-22T05:40:37-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "ca661f784b61a05c0241a2bfbc0d2b3b",
+        "title": "Anthropic’s most dangerous AI model just fell into the wrong hands",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security",
+        "description": "Anthropic's Mythos AI model, a powerful cybersecurity tool that the company said could be dangerous in the wrong hands, has been accessed by a \"small group of unauthorized users,\" Bloomberg reports. A",
+        "published": "2026-04-22T05:30:13-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "47858398",
         "title": "Show HN: Open Chronicle – Local Screen Memory for Claude Code and Codex CLI",
         "url": "https://github.com/Screenata/open-chronicle",
@@ -1909,7 +1948,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 3,
+        "points": 4,
         "comments": 1,
         "is_new": false
       },
@@ -1923,7 +1962,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 4,
+        "points": 5,
         "comments": 0,
         "is_new": false
       },
@@ -1993,46 +2032,6 @@
         "category": "news",
         "points": 1,
         "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "3101b2eb692d8725991bcefec9708c95",
-        "title": "SpaceX cuts a deal to maybe buy Cursor for $60 billion",
-        "url": "https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition",
-        "description": "With an IPO looming for Elon Musk's SpaceX / xAI / X combo platter of companies, SpaceX has announced an odd arrangement to either acquire the automated programming platform Cursor for $60 billion or",
-        "published": "2026-04-21T18:57:52-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "47852719",
-        "title": "Ask HN: How to incentivize 10k P2P nodes without Sybil attacks?",
-        "url": "https://news.ycombinator.com/item?id=47852719",
-        "description": "",
-        "published": "2026-04-21T18:41:02Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 3,
-        "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "47852418",
-        "title": "Show HN: Paper Lantern – improving Autoresearch with research knowledge",
-        "url": "https://www.paperlantern.ai/code",
-        "description": "",
-        "published": "2026-04-21T18:18:03Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 2,
-        "comments": 2,
         "is_new": false
       }
     ]
