@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-23T09:01:43.046964+00:00",
+  "last_updated": "2026-04-23T10:44:55.093288+00:00",
   "total_entries": 110,
-  "new_entries": 1,
+  "new_entries": 3,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,6 +768,20 @@
       "is_new": false
     },
     {
+      "id": "47874023",
+      "title": "Structured planning, execution, and memory for LLM agents (ragbits 1.6)",
+      "url": "https://deepsense.ai/blog/task-planning-execution-visibility-and-persistent-memory-for-ai-agents-ragbits-1-6-release/",
+      "description": "",
+      "published": "2026-04-23T10:23:42Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "47866891",
       "title": "Show HN: Callmux – MCP multiplexer that cuts tool call context pollution by ~19x",
       "url": "https://github.com/edimuj/callmux",
@@ -1004,6 +1018,19 @@
       "is_new": false
     },
     {
+      "id": "8111fd6360ca1857972f27525658a3f3",
+      "title": "DeVI: Physics-based Dexterous Human-Object Interaction via Synthetic Video Imitation",
+      "url": "https://huggingface.co/papers/2604.20841",
+      "description": "Recent advances in video generative models enable the synthesis of realistic human-object interaction videos across a wide range of scenarios and object categories, including complex dexterous manipul",
+      "published": "2026-04-21T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 16,
+      "is_new": true
+    },
+    {
       "id": "d4230856412e264daa17a3f843dccbbc",
       "title": "Near-Future Policy Optimization",
       "url": "https://huggingface.co/papers/2604.20733",
@@ -1013,7 +1040,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 31,
+      "likes": 41,
       "is_new": false
     },
     {
@@ -1026,7 +1053,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 11,
+      "likes": 13,
       "is_new": false
     },
     {
@@ -1039,7 +1066,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -1052,7 +1079,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 123,
+      "likes": 151,
       "is_new": false
     },
     {
@@ -1060,19 +1087,6 @@
       "title": "Cortex 2.0: Grounding World Models in Real-World Industrial Deployment",
       "url": "https://huggingface.co/papers/2604.20246",
       "description": "Industrial robotic manipulation demands reliable long-horizon execution across embodiments, tasks, and changing object distributions. While Vision-Language-Action models have demonstrated strong gener",
-      "published": "2026-04-21T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "a0eaec2cf8b6b68891301ff9d78b4f60",
-      "title": "SWE-chat: Coding Agent Interactions From Real Users in the Wild",
-      "url": "https://huggingface.co/papers/2604.20779",
-      "description": "AI coding agents are being adopted at scale, yet we lack empirical evidence on how people actually use them and how much of their output is useful in practice. We present SWE-chat, the first large-sca",
       "published": "2026-04-21T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
@@ -1148,7 +1162,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 65,
-      "comments": 32,
+      "comments": 33,
       "is_new": false
     },
     {
@@ -1213,7 +1227,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 5,
       "is_new": true
     },
     {
@@ -1226,7 +1240,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 1,
       "is_new": false
     },
     {
@@ -1252,7 +1266,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -1265,7 +1279,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -1278,20 +1292,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 30,
-      "is_new": false
-    },
-    {
-      "id": "98002546de2bb21f0438441c7ef0263b",
-      "title": "MMCORE: MultiModal COnnection with Representation Aligned Latent Embeddings",
-      "url": "https://huggingface.co/papers/2604.19902",
-      "description": "We present MMCORE, a unified framework designed for multimodal image generation and editing. MMCORE leverages a pre-trained Vision-Language Model (VLM) to predict semantic visual embeddings via learna",
-      "published": "2026-04-20T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
+      "likes": 32,
       "is_new": false
     }
   ],
@@ -1538,6 +1539,20 @@
         "is_new": false
       },
       {
+        "id": "47874023",
+        "title": "Structured planning, execution, and memory for LLM agents (ragbits 1.6)",
+        "url": "https://deepsense.ai/blog/task-planning-execution-visibility-and-persistent-memory-for-ai-agents-ragbits-1-6-release/",
+        "description": "",
+        "published": "2026-04-23T10:23:42Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 1,
+        "comments": 0,
+        "is_new": true
+      },
+      {
         "id": "47866891",
         "title": "Show HN: Callmux – MCP multiplexer that cuts tool call context pollution by ~19x",
         "url": "https://github.com/edimuj/callmux",
@@ -1653,20 +1668,6 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "47863430",
-        "title": "Show HN: We built a <60ms, open-source alternative to E2B using RustVMM and KVM",
-        "url": "https://github.com/TencentCloud/CubeSandbox",
-        "description": "",
-        "published": "2026-04-22T13:36:32Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 6,
-        "comments": 1,
         "is_new": false
       }
     ],
