@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-23T10:44:55.093288+00:00",
+  "last_updated": "2026-04-23T12:07:41.767183+00:00",
   "total_entries": 110,
-  "new_entries": 3,
+  "new_entries": 4,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -777,8 +777,20 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 1,
+      "points": 2,
       "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "0b7f5c69fb16520e0e2b22adffcce124",
+      "title": "Microsoft launches ‘vibe working’ in Word, Excel, and PowerPoint",
+      "url": "https://www.theverge.com/news/917328/microsoft-agent-mode-vibe-working-office-word-excel-powerpoint",
+      "description": "Microsoft is rolling out a new Agent Mode inside Office apps like Word, Excel, and PowerPoint this week. Previously described by Microsoft as \"vibe working,\" the Agent Mode is a more powerful version",
+      "published": "2026-04-23T07:34:18-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
       "is_new": true
     },
     {
@@ -1027,7 +1039,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 16,
+      "likes": 17,
       "is_new": true
     },
     {
@@ -1079,7 +1091,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 151,
+      "likes": 173,
       "is_new": false
     },
     {
@@ -1166,18 +1178,6 @@
       "is_new": false
     },
     {
-      "id": "dfa2e3606ed8b5ad81ee83de5a02604f",
-      "title": "OpenAI’s updated image generator can now pull information from the web",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/916166/openai-chatgpt-images-2",
-      "description": "OpenAI is rolling out the latest version of its AI-powered image generator with new \"thinking capabilities,\" allowing it to search the web to help it create multiple images from a single prompt. On Tu",
-      "published": "2026-04-21T15:29:41-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "314fefba7e7308bf4b0597dccc38b5aa",
       "title": "AI backlash is coming for elections",
       "url": "https://www.theverge.com/policy/916210/ai-midterm-elections-data-centers-jobs",
@@ -1227,7 +1227,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 10,
       "is_new": true
     },
     {
@@ -1548,8 +1548,20 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 1,
+        "points": 2,
         "comments": 0,
+        "is_new": true
+      },
+      {
+        "id": "0b7f5c69fb16520e0e2b22adffcce124",
+        "title": "Microsoft launches ‘vibe working’ in Word, Excel, and PowerPoint",
+        "url": "https://www.theverge.com/news/917328/microsoft-agent-mode-vibe-working-office-word-excel-powerpoint",
+        "description": "Microsoft is rolling out a new Agent Mode inside Office apps like Word, Excel, and PowerPoint this week. Previously described by Microsoft as \"vibe working,\" the Agent Mode is a more powerful version",
+        "published": "2026-04-23T07:34:18-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
         "is_new": true
       },
       {
@@ -1656,18 +1668,6 @@
         "category": "news",
         "points": 2,
         "comments": 1,
-        "is_new": false
-      },
-      {
-        "id": "724e8fcae112421d050e9927d1b4a7e1",
-        "title": "Google Meet will take AI notes for in-person meetings too",
-        "url": "https://www.theverge.com/tech/916779/google-meet-ai-notetaker-in-person-meetings",
-        "description": "Google's AI meeting notetaker is no longer limited to Google Meets - Gemini can also generate summaries and transcripts of in-person meetings now, as well as meetings on Zoom and Microsoft Teams, as f",
-        "published": "2026-04-22T13:57:17-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
         "is_new": false
       }
     ],
