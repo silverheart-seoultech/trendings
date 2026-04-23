@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-23T06:16:13.244291+00:00",
+  "last_updated": "2026-04-23T08:05:11.117291+00:00",
   "total_entries": 110,
-  "new_entries": 24,
+  "new_entries": 31,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -1013,7 +1013,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 14,
+      "likes": 23,
       "is_new": true
     },
     {
@@ -1052,7 +1052,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 70,
+      "likes": 106,
       "is_new": false
     },
     {
@@ -1065,7 +1065,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -1091,7 +1091,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -1161,7 +1161,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 65,
-      "comments": 31,
+      "comments": 32,
       "is_new": false
     },
     {
@@ -1217,6 +1217,58 @@
       "is_new": false
     },
     {
+      "id": "7f568e61397e0b39306a595edb9fc381",
+      "title": "Tadabur: A Large-Scale Quran Audio Dataset",
+      "url": "https://huggingface.co/papers/2604.18932",
+      "description": "Despite growing interest in Quranic data research, existing Quran datasets remain limited in both scale and diversity. To address this gap, we present Tadabur, a large-scale Quran audio dataset. Tadab",
+      "published": "2026-04-20T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "84f27c38bde67296bd6f1c01aa564040",
+      "title": "SAVOIR: Learning Social Savoir-Faire via Shapley-based Reward Attribution",
+      "url": "https://huggingface.co/papers/2604.18982",
+      "description": "Social intelligence, the ability to navigate complex interpersonal interactions, presents a fundamental challenge for language agents. Training such agents via reinforcement learning requires solving ",
+      "published": "2026-04-20T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "1612a4e52f5df7602867ba48f10d157f",
+      "title": "ReImagine: Rethinking Controllable High-Quality Human Video Generation via Image-First Synthesis",
+      "url": "https://huggingface.co/papers/2604.19720",
+      "description": "Human video generation remains challenging due to the difficulty of jointly modeling human appearance, motion, and camera viewpoint under limited multi-view data. Existing methods often address these ",
+      "published": "2026-04-20T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "30794ff90f924253cbdb829bc1d0d451",
+      "title": "Visual Reasoning through Tool-supervised Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2604.19945",
+      "description": "In this paper, we investigate the problem of how to effectively master tool-use to solve complex visual reasoning tasks for Multimodal Large Language Models. To achieve that, we propose a novel Tool-s",
+      "published": "2026-04-20T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "e3c68ddd414f6d72ee51b93ad4cfb79a",
       "title": "DR-Venus: Towards Frontier Edge-Scale Deep Research Agents with Only 10K Open Data",
       "url": "https://huggingface.co/papers/2604.19859",
@@ -1226,7 +1278,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 20,
+      "likes": 28,
       "is_new": false
     },
     {
@@ -1240,58 +1292,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 0,
-      "is_new": false
-    },
-    {
-      "id": "c0b3e4d366f4e26afc4a221cf301774c",
-      "title": "CreativeGame:Toward Mechanic-Aware Creative Game Generation",
-      "url": "https://huggingface.co/papers/2604.19926",
-      "description": "Large language models can generate plausible game code, but turning this capability into iterative creative improvement remains difficult. In practice, single-shot generation often produces brittle ru",
-      "published": "2026-04-20T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
-      "is_new": false
-    },
-    {
-      "id": "17590a9e1f1ae8c2bbd45f6ca959949e",
-      "title": "RDP LoRA: Geometry-Driven Identification for Parameter-Efficient Adaptation in Large Language Models",
-      "url": "https://huggingface.co/papers/2604.19321",
-      "description": "Fine-tuning Large Language Models (LLMs) remains structurally uncertain despite parameter-efficient methods such as Low-Rank Adaptation (LoRA), as the layer-specific roles of internal representations ",
-      "published": "2026-04-20T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
-      "is_new": false
-    },
-    {
-      "id": "50d93bc9b9d10741c316ab5f74eadaca",
-      "title": "Micro Language Models Enable Instant Responses",
-      "url": "https://huggingface.co/papers/2604.19642",
-      "description": "Edge devices such as smartwatches and smart glasses cannot continuously run even the smallest 100M-1B parameter language models due to power and compute constraints, yet cloud inference introduces mul",
-      "published": "2026-04-20T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "954989aa2daf97ec27d84a9d97885134",
-      "title": "CityRAG: Stepping Into a City via Spatially-Grounded Video Generation",
-      "url": "https://huggingface.co/papers/2604.19741",
-      "description": "We address the problem of generating a 3D-consistent, navigable environment that is spatially grounded: a simulation of a real location. Existing video generative models can produce a plausible sequen",
-      "published": "2026-04-20T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 10,
       "is_new": false
     }
   ],
