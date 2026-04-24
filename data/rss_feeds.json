@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-24T10:43:02.838716+00:00",
+  "last_updated": "2026-04-24T12:03:54.018810+00:00",
   "total_entries": 108,
-  "new_entries": 3,
+  "new_entries": 7,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -144,18 +144,6 @@
       "is_new": false
     },
     {
-      "id": "10f96a9703c4eaf73d5ddc0e0a02bf04",
-      "title": "OpenAI teams up with Infosys to bring AI tools to more businesses",
-      "url": "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/",
-      "description": "Infosys said the integration will be used to help its clients modernize software development, automate workflows, and deploy AI systems, initially focusing software engineering, legacy modernization,",
-      "published": "Wed, 22 Apr 2026 14:22:10 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "13d3ab524fe756085d7fafeacf99563a",
       "title": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment",
       "url": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
@@ -262,6 +250,18 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "9085fc03c2965f6c06a973654d46a849",
+      "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
+      "url": "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/",
+      "description": "Meta has commandeered a big chunk of Amazon's homegrown CPUs (not GPUs) for AI agentic workloads, signaling that a new kind of chip race has begun.",
+      "published": "Fri, 24 Apr 2026 12:00:00 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "1a2ec7e5152514728fedfbadd27f3aeb",
@@ -806,6 +806,18 @@
       "is_new": false
     },
     {
+      "id": "d04fb05af55f3c1e5a9a7b9db07540e2",
+      "title": "Elon Musk and Sam Altman’s court showdown will dish the dirt",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip",
+      "description": "Elon Musk cofounded OpenAI, and then flounced off in a huff when he wasn't anointed CEO, leaving Sam Altman as the last power-hungry man standing. Now, Musk is back with a lawsuit, and a trial is sche",
+      "published": "2026-04-23T18:19:41-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "8ff7a956079c3101976d4de136eb5929",
       "title": "THE PEOPLE DO NOT YEARN FOR AUTOMATION",
       "url": "https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation",
@@ -827,7 +839,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 7,
+      "points": 8,
       "comments": 0,
       "is_new": false
     },
@@ -882,18 +894,6 @@
       "is_new": false
     },
     {
-      "id": "2317e51621026f319b241167c89d0e19",
-      "title": "AI failure could trigger the next financial crisis, warns Elizabeth Warren",
-      "url": "https://www.theverge.com/policy/917026/ai-economy-bubble-elizabeth-warren",
-      "description": "\"I know a bubble when I see one.\" That's what Sen. Elizabeth Warren (D-MA), who led the push to create a new consumer financial regulator in the wake of the 2008 recession, told a crowd at a Vanderbil",
-      "published": "2026-04-23T09:39:03-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "0b7f5c69fb16520e0e2b22adffcce124",
       "title": "Microsoft launches ‘vibe working’ in Word, Excel, and PowerPoint",
       "url": "https://www.theverge.com/news/917328/microsoft-agent-mode-vibe-working-office-word-excel-powerpoint",
@@ -904,6 +904,19 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "3d85407fe36a7893c785d892766054d6",
+      "title": "Encoder-Free Human Motion Understanding via Structured Motion Descriptions",
+      "url": "https://huggingface.co/papers/2604.21668",
+      "description": "The world knowledge and reasoning capabilities of text-based large language models (LLMs) are advancing rapidly, yet current approaches to human motion understanding, including motion question answeri",
+      "published": "2026-04-22T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
     },
     {
       "id": "ad562011e9474e37b61ff4bf6dd68a2c",
@@ -967,7 +980,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 5,
       "is_new": false
     },
     {
@@ -980,7 +993,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 14,
+      "likes": 16,
       "is_new": false
     },
     {
@@ -993,7 +1006,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 27,
+      "likes": 29,
       "is_new": false
     },
     {
@@ -1006,7 +1019,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -1019,7 +1032,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 11,
+      "likes": 12,
       "is_new": false
     },
     {
@@ -1229,19 +1242,6 @@
       "is_new": false
     },
     {
-      "id": "54c39a21bc9cbb78bbe4da7bc8d54bcb",
-      "title": "COMPASS: COntinual Multilingual PEFT with Adaptive Semantic Sampling",
-      "url": "https://huggingface.co/papers/2604.20720",
-      "description": "Large language models (LLMs) often exhibit performance disparities across languages, with naive multilingual fine-tuning frequently degrading performance due to negative cross-lingual interference. To",
-      "published": "2026-04-21T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
       "id": "47853036",
       "title": "Show HN: I created an open source autoscaling AI browser agent",
       "url": "https://news.ycombinator.com/item?id=47853036",
@@ -1397,18 +1397,6 @@
         "is_new": false
       },
       {
-        "id": "10f96a9703c4eaf73d5ddc0e0a02bf04",
-        "title": "OpenAI teams up with Infosys to bring AI tools to more businesses",
-        "url": "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/",
-        "description": "Infosys said the integration will be used to help its clients modernize software development, automate workflows, and deploy AI systems, initially focusing software engineering, legacy modernization,",
-        "published": "Wed, 22 Apr 2026 14:22:10 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
         "id": "13d3ab524fe756085d7fafeacf99563a",
         "title": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment",
         "url": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
@@ -1517,6 +1505,18 @@
         "is_new": false
       },
       {
+        "id": "9085fc03c2965f6c06a973654d46a849",
+        "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
+        "url": "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/",
+        "description": "Meta has commandeered a big chunk of Amazon's homegrown CPUs (not GPUs) for AI agentic workloads, signaling that a new kind of chip race has begun.",
+        "published": "Fri, 24 Apr 2026 12:00:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "0d5e6dd413243fd1e8f9d32a730211ac",
         "title": "Meta is laying off 10 percent of its staff",
         "url": "https://www.theverge.com/tech/917690/meta-is-laying-off-10-percent-of-its-staff",
@@ -1579,6 +1579,18 @@
         "is_new": false
       },
       {
+        "id": "d04fb05af55f3c1e5a9a7b9db07540e2",
+        "title": "Elon Musk and Sam Altman’s court showdown will dish the dirt",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip",
+        "description": "Elon Musk cofounded OpenAI, and then flounced off in a huff when he wasn't anointed CEO, leaving Sam Altman as the last power-hungry man standing. Now, Musk is back with a lawsuit, and a trial is sche",
+        "published": "2026-04-23T18:19:41-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "8ff7a956079c3101976d4de136eb5929",
         "title": "THE PEOPLE DO NOT YEARN FOR AUTOMATION",
         "url": "https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation",
@@ -1600,7 +1612,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 7,
+        "points": 8,
         "comments": 0,
         "is_new": false
       },
@@ -1648,18 +1660,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue",
         "description": "Earlier this month, millions of OpenClaw users woke up to a sweeping mandate: The viral AI agent tool, which this year took the worldwide tech industry by storm, had been severely restricted by Anthro",
         "published": "2026-04-23T10:11:09-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "2317e51621026f319b241167c89d0e19",
-        "title": "AI failure could trigger the next financial crisis, warns Elizabeth Warren",
-        "url": "https://www.theverge.com/policy/917026/ai-economy-bubble-elizabeth-warren",
-        "description": "\"I know a bubble when I see one.\" That's what Sen. Elizabeth Warren (D-MA), who led the push to create a new consumer financial regulator in the wake of the 2008 recession, told a crowd at a Vanderbil",
-        "published": "2026-04-23T09:39:03-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
