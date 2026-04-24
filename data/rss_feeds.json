@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-24T19:11:36.800044+00:00",
+  "last_updated": "2026-04-24T19:59:20.948982+00:00",
   "total_entries": 108,
-  "new_entries": 0,
+  "new_entries": 2,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,18 +47,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "e4062796e839b1f57e674abd8f9f1629",
-      "title": "Tesla just increased its spending plan to $25B — here’s where the money is going",
-      "url": "https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/",
-      "description": "Tesla's planned capex for 2026 is three times higher than what the company has historically spent. Its CFO said, as a result, Tesla will have a negative free cash flow the rest of the year.",
-      "published": "Wed, 22 Apr 2026 23:56:52 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
     {
       "id": "13d3ab524fe756085d7fafeacf99563a",
       "title": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment",
@@ -166,6 +154,18 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "cfe7bb1f35cf450508a7fb9d2d50001c",
+      "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
+      "url": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
+      "description": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30M.",
+      "published": "Fri, 24 Apr 2026 19:49:35 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "1b3680d029f50bd7300bccb929e674a8",
@@ -744,6 +744,20 @@
       "is_new": false
     },
     {
+      "id": "47894947",
+      "title": "Show HN: Lilo – a self-hosted, open-source intelligent personal OS",
+      "url": "https://github.com/abi/lilo",
+      "description": "",
+      "published": "2026-04-24T19:46:30Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 2,
+      "is_new": true
+    },
+    {
       "id": "47891569",
       "title": "Show HN: PrivateClaw – AI agents running in confidential VMs you can verify",
       "url": "https://privateclaw.dev",
@@ -929,7 +943,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -1007,7 +1021,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
+      "likes": 9,
       "is_new": false
     },
     {
@@ -1282,36 +1296,10 @@
       "points": 1,
       "comments": 0,
       "is_new": false
-    },
-    {
-      "id": "47852719",
-      "title": "Ask HN: How to incentivize 10k P2P nodes without Sybil attacks?",
-      "url": "https://news.ycombinator.com/item?id=47852719",
-      "description": "",
-      "published": "2026-04-21T18:41:02Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 3,
-      "comments": 0,
-      "is_new": false
     }
   ],
   "by_category": {
     "news": [
-      {
-        "id": "e4062796e839b1f57e674abd8f9f1629",
-        "title": "Tesla just increased its spending plan to $25B — here’s where the money is going",
-        "url": "https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/",
-        "description": "Tesla's planned capex for 2026 is three times higher than what the company has historically spent. Its CFO said, as a result, Tesla will have a negative free cash flow the rest of the year.",
-        "published": "Wed, 22 Apr 2026 23:56:52 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
       {
         "id": "13d3ab524fe756085d7fafeacf99563a",
         "title": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment",
@@ -1421,6 +1409,18 @@
         "is_new": false
       },
       {
+        "id": "cfe7bb1f35cf450508a7fb9d2d50001c",
+        "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
+        "url": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
+        "description": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30M.",
+        "published": "Fri, 24 Apr 2026 19:49:35 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "1b3680d029f50bd7300bccb929e674a8",
         "title": "Google to invest up to $40B in Anthropic in cash and compute",
         "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
@@ -1515,6 +1515,20 @@
         "source_icon": "📰",
         "category": "news",
         "is_new": false
+      },
+      {
+        "id": "47894947",
+        "title": "Show HN: Lilo – a self-hosted, open-source intelligent personal OS",
+        "url": "https://github.com/abi/lilo",
+        "description": "",
+        "published": "2026-04-24T19:46:30Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 1,
+        "comments": 2,
+        "is_new": true
       },
       {
         "id": "47891569",
@@ -1652,18 +1666,6 @@
         "category": "news",
         "points": 8,
         "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "b9e12d990a8363fd6e8f07eeca28ccb3",
-        "title": "Anthropic&#8217;s Mythos breach was humiliating",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/917644/anthropic-claude-mythos-breach-humiliation",
-        "description": "Anthropic's tightly controlled rollout of Claude Mythos has taken an awkward turn. After spending weeks insisting the AI model is so capable at cybersecurity that it is too dangerous to release public",
-        "published": "2026-04-23T14:24:56-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
         "is_new": false
       }
     ],
