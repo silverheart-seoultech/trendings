@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-27T11:58:44.982951+00:00",
+  "last_updated": "2026-04-27T14:09:50.648926+00:00",
   "total_entries": 110,
-  "new_entries": 3,
+  "new_entries": 8,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,30 +47,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "13d3ab524fe756085d7fafeacf99563a",
-      "title": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment",
-      "url": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
-      "description": "Sierra, the AI customer service agent startup founded by technologist Bret Taylor, announced today that it has acquired the YC-backed French startup Fragment.",
-      "published": "Thu, 23 Apr 2026 21:00:00 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "4dab914eae2bd08508dea125fbad24b0",
-      "title": "Meet Noscroll, an AI bot that does your doomscrolling for you",
-      "url": "https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/",
-      "description": "Noscroll wants to cure doomscrolling with an AI bot that reads the internet for you.",
-      "published": "Thu, 23 Apr 2026 19:38:25 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
     {
       "id": "17968030620c8f59d6bd47bc365f0fb1",
       "title": "To buy this Bay Area home, you’ll need Anthropic equity",
@@ -154,6 +130,30 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "705b1c5bdea9d5b9dfa9ecc5ee18b075",
+      "title": "China vetoes Meta’s $2B Manus deal after months-long probe",
+      "url": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
+      "description": "China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg’s push into AI agents.",
+      "published": "Mon, 27 Apr 2026 13:16:55 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "d26cae5cca28f1ed50d6e1ecaa186c53",
+      "title": "OpenAI could be making a phone with AI agents replacing apps",
+      "url": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
+      "description": "The phone could go in mass production in 2028, an analyst says.",
+      "published": "Mon, 27 Apr 2026 13:08:59 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "1b64ebc14276ac1dd116445672ef88b4",
@@ -934,6 +934,19 @@
       "is_new": false
     },
     {
+      "id": "d952eb0dd7abfb9f15fdf675a63176d8",
+      "title": "Video Analysis and Generation via a Semantic Progress Function",
+      "url": "https://huggingface.co/papers/2604.22554",
+      "description": "Transformations produced by image and video generation models often evolve in a highly non-linear manner: long stretches where the content barely changes are followed by sudden, abrupt semantic jumps.",
+      "published": "2026-04-23T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 14,
+      "is_new": true
+    },
+    {
       "id": "21537aaa876249b5c7999a79e839afaa",
       "title": "Contexts are Never Long Enough: Structured Reasoning for Scalable Question Answering over Long Document Sets",
       "url": "https://huggingface.co/papers/2604.22294",
@@ -943,7 +956,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
+      "likes": 7,
       "is_new": false
     },
     {
@@ -956,7 +969,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 10,
       "is_new": false
     },
     {
@@ -969,7 +982,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -982,7 +995,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 8,
       "is_new": false
     },
     {
@@ -1008,7 +1021,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 113,
+      "likes": 132,
       "is_new": false
     },
     {
@@ -1078,6 +1091,19 @@
       "is_new": false
     },
     {
+      "id": "68d7b3b6054ccc47c510561dd0ead7bb",
+      "title": "Memanto: Typed Semantic Memory with Information-Theoretic Retrieval for Long-Horizon Agents",
+      "url": "https://huggingface.co/papers/2604.22085",
+      "description": "The transition from stateless language model inference to persistent, multi session autonomous agents has revealed memory to be a primary architectural bottleneck in the deployment of production grade",
+      "published": "2026-04-22T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "3bfb4cb42394d01ed74889bee41660f0",
       "title": "DiffNR: Diffusion-Enhanced Neural Representation Optimization for Sparse-View 3D Tomographic Reconstruction",
       "url": "https://huggingface.co/papers/2604.21518",
@@ -1087,7 +1113,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 25,
+      "likes": 26,
       "is_new": false
     },
     {
@@ -1266,62 +1292,12 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": true
-    },
-    {
-      "id": "a6e2a07df4ba6dda2fbe005a565ffd87",
-      "title": "Temporally Extended Mixture-of-Experts Models",
-      "url": "https://huggingface.co/papers/2604.20156",
-      "description": "Mixture-of-Experts models, now popular for scaling capacity at fixed inference speed, switch experts at nearly every token. Once a model outgrows available GPU memory, this churn can render optimizati",
-      "published": "2026-04-21T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "f4de5e2b78067759a60acac605aca21b",
-      "title": "WebGen-R1: Incentivizing Large Language Models to Generate Functional and Aesthetic Websites with Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2604.20398",
-      "description": "While Large Language Models (LLMs) excel at function-level code generation, project-level tasks such as generating functional and visually aesthetic multi-page websites remain highly challenging. Exis",
-      "published": "2026-04-21T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
     }
   ],
   "by_category": {
     "news": [
-      {
-        "id": "13d3ab524fe756085d7fafeacf99563a",
-        "title": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment",
-        "url": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
-        "description": "Sierra, the AI customer service agent startup founded by technologist Bret Taylor, announced today that it has acquired the YC-backed French startup Fragment.",
-        "published": "Thu, 23 Apr 2026 21:00:00 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "4dab914eae2bd08508dea125fbad24b0",
-        "title": "Meet Noscroll, an AI bot that does your doomscrolling for you",
-        "url": "https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/",
-        "description": "Noscroll wants to cure doomscrolling with an AI bot that reads the internet for you.",
-        "published": "Thu, 23 Apr 2026 19:38:25 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
       {
         "id": "17968030620c8f59d6bd47bc365f0fb1",
         "title": "To buy this Bay Area home, you’ll need Anthropic equity",
@@ -1405,6 +1381,30 @@
         "source_icon": "📰",
         "category": "news",
         "is_new": false
+      },
+      {
+        "id": "705b1c5bdea9d5b9dfa9ecc5ee18b075",
+        "title": "China vetoes Meta’s $2B Manus deal after months-long probe",
+        "url": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
+        "description": "China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg’s push into AI agents.",
+        "published": "Mon, 27 Apr 2026 13:16:55 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "d26cae5cca28f1ed50d6e1ecaa186c53",
+        "title": "OpenAI could be making a phone with AI agents replacing apps",
+        "url": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
+        "description": "The phone could go in mass production in 2028, an analyst says.",
+        "published": "Mon, 27 Apr 2026 13:08:59 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
       },
       {
         "id": "1b64ebc14276ac1dd116445672ef88b4",
