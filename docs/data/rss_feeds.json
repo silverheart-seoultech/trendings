@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-27T18:18:27.881140+00:00",
+  "last_updated": "2026-04-27T19:41:42.828927+00:00",
   "total_entries": 110,
-  "new_entries": 8,
+  "new_entries": 10,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,11 +768,25 @@
       "is_new": false
     },
     {
+      "id": "47925524",
+      "title": "Show HN: Graph-flow – LangGraph-inspired AI agent workflows in Rust",
+      "url": "https://github.com/a-agmon/rs-graph-llm",
+      "description": "",
+      "published": "2026-04-27T18:42:41Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "b674898a18bb27c809e60aa0c08e3f77",
       "title": "Google employees ask Sundar Pichai to say no to classified military AI use",
       "url": "https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter",
-      "description": "Over 600 Google employees signed a letter to CEO Sundar Pichai demanding that Google block the Pentagon from using its AI models for classified purposes, reports the Washington Post. Its organizers cl",
-      "published": "2026-04-27T14:17:12-04:00",
+      "description": "Over 600 Google employees signed a letter to CEO Sundar Pichai demanding that Google block the Pentagon from using its AI models for classified purposes, reports the The Washington Post. Its organizer",
+      "published": "2026-04-27T14:30:33-04:00",
       "source_id": "theverge-ai",
       "source_name": "The Verge AI",
       "source_icon": "📰",
@@ -877,7 +891,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 256,
+      "points": 257,
       "comments": 113,
       "is_new": false
     },
@@ -967,7 +981,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 33,
+      "likes": 35,
       "is_new": false
     },
     {
@@ -1045,7 +1059,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 149,
+      "likes": 150,
       "is_new": false
     },
     {
@@ -1089,6 +1103,19 @@
       "points": 2,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "5a52736a408457e13dd225184aa2b78b",
+      "title": "Emergent Strategic Reasoning Risks in AI: A Taxonomy-Driven Evaluation Framework",
+      "url": "https://huggingface.co/papers/2604.22119",
+      "description": "As reasoning capacity and deployment scope grow in tandem, large language models (LLMs) gain the capacity to engage in behaviors that serve their own objectives, a class of risks we term Emergent Stra",
+      "published": "2026-04-22T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
     },
     {
       "id": "68d7b3b6054ccc47c510561dd0ead7bb",
@@ -1267,32 +1294,6 @@
       "category": "news",
       "points": 1,
       "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "e72953997706c80aa369bbda187234a7",
-      "title": "Building a Precise Video Language with Human-AI Oversight",
-      "url": "https://huggingface.co/papers/2604.21718",
-      "description": "Video-language models (VLMs) learn to reason about the dynamic visual world through natural language. We introduce a suite of open datasets, benchmarks, and recipes for scalable oversight that enable ",
-      "published": "2026-04-21T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "a6e2a07df4ba6dda2fbe005a565ffd87",
-      "title": "Temporally Extended Mixture-of-Experts Models",
-      "url": "https://huggingface.co/papers/2604.20156",
-      "description": "Mixture-of-Experts models, now popular for scaling capacity at fixed inference speed, switch experts at nearly every token. Once a model outgrows available GPU memory, this churn can render optimizati",
-      "published": "2026-04-21T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
       "is_new": false
     }
   ],
@@ -1539,11 +1540,25 @@
         "is_new": false
       },
       {
+        "id": "47925524",
+        "title": "Show HN: Graph-flow – LangGraph-inspired AI agent workflows in Rust",
+        "url": "https://github.com/a-agmon/rs-graph-llm",
+        "description": "",
+        "published": "2026-04-27T18:42:41Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 2,
+        "comments": 0,
+        "is_new": true
+      },
+      {
         "id": "b674898a18bb27c809e60aa0c08e3f77",
         "title": "Google employees ask Sundar Pichai to say no to classified military AI use",
         "url": "https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter",
-        "description": "Over 600 Google employees signed a letter to CEO Sundar Pichai demanding that Google block the Pentagon from using its AI models for classified purposes, reports the Washington Post. Its organizers cl",
-        "published": "2026-04-27T14:17:12-04:00",
+        "description": "Over 600 Google employees signed a letter to CEO Sundar Pichai demanding that Google block the Pentagon from using its AI models for classified purposes, reports the The Washington Post. Its organizer",
+        "published": "2026-04-27T14:30:33-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
@@ -1648,22 +1663,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 256,
+        "points": 257,
         "comments": 113,
-        "is_new": false
-      },
-      {
-        "id": "47894947",
-        "title": "Show HN: Lilo – a self-hosted, open-source intelligent personal OS",
-        "url": "https://github.com/abi/lilo",
-        "description": "",
-        "published": "2026-04-24T19:46:30Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 7,
-        "comments": 4,
         "is_new": false
       }
     ],
