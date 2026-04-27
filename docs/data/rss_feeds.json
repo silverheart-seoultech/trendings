@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-26T23:54:26.287947+00:00",
+  "last_updated": "2026-04-27T03:40:31.702779+00:00",
   "total_entries": 70,
-  "new_entries": 0,
+  "new_entries": 8,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -325,7 +325,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 251,
+      "points": 252,
       "comments": 112,
       "is_new": false
     },
@@ -454,6 +454,58 @@
       "is_new": false
     },
     {
+      "id": "906865c75ebe04b39472832beb62fe89",
+      "title": "dWorldEval: Scalable Robotic Policy Evaluation via Discrete Diffusion World Model",
+      "url": "https://huggingface.co/papers/2604.22152",
+      "description": "Evaluating robotics policies across thousands of environments and thousands of tasks is infeasible with existing approaches. This motivates the need for a new methodology for scalable robotics policy ",
+      "published": "2026-04-23T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "ebbb5339b426b9b467bdc3f9bab519b3",
+      "title": "AgentSearchBench: A Benchmark for AI Agent Search in the Wild",
+      "url": "https://huggingface.co/papers/2604.22436",
+      "description": "The rapid growth of AI agent ecosystems is transforming how complex tasks are delegated and executed, creating a new challenge of identifying suitable agents for a given task. Unlike traditional tools",
+      "published": "2026-04-23T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "95d7ce8ac5352e7c9fb89f12b37a5eea",
+      "title": "Learning Evidence Highlighting for Frozen LLMs",
+      "url": "https://huggingface.co/papers/2604.22565",
+      "description": "Large Language Models (LLMs) can reason well, yet often miss decisive evidence when it is buried in long, noisy contexts. We introduce HiLight, an Evidence Emphasis framework that decouples evidence s",
+      "published": "2026-04-23T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "8165658125038177dc0741dbbd17f065",
+      "title": "Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond",
+      "url": "https://huggingface.co/papers/2604.22748",
+      "description": "As AI systems move from generating text to accomplishing goals through sustained interaction, the ability to model environment dynamics becomes a central bottleneck. Agents that manipulate objects, na",
+      "published": "2026-04-23T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 7,
+      "is_new": true
+    },
+    {
       "id": "47879929",
       "title": "AI Agents Demystified: A multi-step agent in 50 lines of Python",
       "url": "https://marvin.damschen.net/post/llm-based-agents/",
@@ -520,6 +572,19 @@
       "is_new": false
     },
     {
+      "id": "3bfb4cb42394d01ed74889bee41660f0",
+      "title": "DiffNR: Diffusion-Enhanced Neural Representation Optimization for Sparse-View 3D Tomographic Reconstruction",
+      "url": "https://huggingface.co/papers/2604.21518",
+      "description": "Neural representations (NRs), such as neural fields and 3D Gaussians, effectively model volumetric data in computed tomography (CT) but suffer from severe artifacts under sparse-view settings. To addr",
+      "published": "2026-04-22T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 13,
+      "is_new": true
+    },
+    {
       "id": "b861793fc028d179a7d5c66f7a5e1640",
       "title": "Vista4D: Video Reshooting with 4D Point Clouds",
       "url": "https://huggingface.co/papers/2604.21915",
@@ -569,84 +634,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "a1d035bbc3e6567b5d27e80a24928704",
-      "title": "TingIS: Real-time Risk Event Discovery from Noisy Customer Incidents at Enterprise Scale",
-      "url": "https://huggingface.co/papers/2604.21889",
-      "description": "Real-time detection and mitigation of technical anomalies are critical for large-scale cloud-native services, where even minutes of downtime can result in massive financial losses and diminished user ",
-      "published": "2026-04-22T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 10,
-      "is_new": false
-    },
-    {
-      "id": "ebe71992cba5d64cc5805d396fae3cd5",
-      "title": "UniGenDet: A Unified Generative-Discriminative Framework for Co-Evolutionary Image Generation and Generated Image Detection",
-      "url": "https://huggingface.co/papers/2604.21904",
-      "description": "In recent years, significant progress has been made in both image generation and generated image detection. Despite their rapid, yet largely independent, development, these two fields have evolved dis",
-      "published": "2026-04-22T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
-      "is_new": false
-    },
-    {
-      "id": "1b5bf78f44a17644d4134b563c45f729",
-      "title": "VLAA-GUI: Knowing When to Stop, Recover, and Search, A Modular Framework for GUI Automation",
-      "url": "https://huggingface.co/papers/2604.21375",
-      "description": "Autonomous GUI agents face two fundamental challenges: early stopping, where agents prematurely declare success without verifiable evidence, and repetitive loops, where agents cycle through the same f",
-      "published": "2026-04-22T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 14,
-      "is_new": false
-    },
-    {
-      "id": "1f3c85cb33e99046fb8f076be90cd1f2",
-      "title": "StyleID: A Perception-Aware Dataset and Metric for Stylization-Agnostic Facial Identity Recognition",
-      "url": "https://huggingface.co/papers/2604.21689",
-      "description": "Creative face stylization aims to render portraits in diverse visual idioms such as cartoons, sketches, and paintings while retaining recognizable identity. However, current identity encoders, which a",
-      "published": "2026-04-22T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 20,
-      "is_new": false
-    },
-    {
-      "id": "90fbd54b999f468af74095374c9bfb1b",
-      "title": "WorldMark: A Unified Benchmark Suite for Interactive Video World Models",
-      "url": "https://huggingface.co/papers/2604.21686",
-      "description": "Interactive video generation models such as Genie, YUME, HY-World, and Matrix-Game are advancing rapidly, yet every model is evaluated on its own benchmark with private scenes and trajectories, making",
-      "published": "2026-04-22T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 34,
-      "is_new": false
-    },
-    {
-      "id": "5d6ff406a7abf9f7591e270d8ca4c654",
-      "title": "Context Unrolling in Omni Models",
-      "url": "https://huggingface.co/papers/2604.21921",
-      "description": "We present Omni, a unified multimodal model natively trained on diverse modalities, including text, images, videos, 3D geometry, and hidden representations. We find that such training enables Context ",
-      "published": "2026-04-22T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 9,
       "is_new": false
     },
     {
@@ -790,20 +777,6 @@
       "is_new": false
     },
     {
-      "id": "47854570",
-      "title": "Ask HN: Claude Code Alternative",
-      "url": "https://news.ycombinator.com/item?id=47854570",
-      "description": "",
-      "published": "2026-04-21T21:13:04Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 10,
-      "comments": 6,
-      "is_new": false
-    },
-    {
       "id": "a6e2a07df4ba6dda2fbe005a565ffd87",
       "title": "Temporally Extended Mixture-of-Experts Models",
       "url": "https://huggingface.co/papers/2604.20156",
@@ -852,7 +825,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 18,
+      "likes": 19,
       "is_new": false
     },
     {
@@ -870,17 +843,31 @@
       "is_new": false
     },
     {
-      "id": "4c02311cbbeb3bfdcd47a4e183fb3bed",
-      "title": "UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling",
-      "url": "https://huggingface.co/papers/2604.19734",
-      "description": "Scaling humanoid foundation models is bottlenecked by the scarcity of robotic data. While massive egocentric human data offers a scalable alternative, bridging the cross-embodiment chasm remains a fun",
-      "published": "2026-04-20T20:00:00.000Z",
+      "id": "47853007",
+      "title": "Show HN: DataFrey – MCP server for Snowflake with text-to-SQL agent",
+      "url": "https://docs.datafrey.ai",
+      "description": "",
+      "published": "2026-04-21T19:01:49Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "9f7ec6631abcf9a7192bb88e06a2e69c",
+      "title": "LLM Safety From Within: Detecting Harmful Content with Internal Representations",
+      "url": "https://huggingface.co/papers/2604.18519",
+      "description": "Guard models are widely used to detect harmful content in user prompts and LLM responses. However, state-of-the-art guard models rely solely on terminal-layer representations and overlook the rich saf",
+      "published": "2026-04-19T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 27,
-      "is_new": false
+      "likes": 15,
+      "is_new": true
     },
     {
       "id": "c016eb0f358446ec0565865789c74a00",
@@ -905,7 +892,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 81,
+      "likes": 83,
       "is_new": false
     },
     {
@@ -946,6 +933,19 @@
       "category": "research",
       "likes": 1,
       "is_new": false
+    },
+    {
+      "id": "be9adedb616631c46121933228941c61",
+      "title": "AgriIR: A Scalable Framework for Domain-Specific Knowledge Retrieval",
+      "url": "https://huggingface.co/papers/2604.16353",
+      "description": "This paper introduces AgriIR, a configurable retrieval augmented generation (RAG) framework designed to deliver grounded, domain-specific answers while maintaining flexibility and low computational co",
+      "published": "2026-03-16T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
     }
   ],
   "by_category": {
@@ -1228,7 +1228,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 251,
+        "points": 252,
         "comments": 112,
         "is_new": false
       },
@@ -1323,6 +1323,71 @@
     ],
     "research": [
       {
+        "id": "906865c75ebe04b39472832beb62fe89",
+        "title": "dWorldEval: Scalable Robotic Policy Evaluation via Discrete Diffusion World Model",
+        "url": "https://huggingface.co/papers/2604.22152",
+        "description": "Evaluating robotics policies across thousands of environments and thousands of tasks is infeasible with existing approaches. This motivates the need for a new methodology for scalable robotics policy ",
+        "published": "2026-04-23T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 1,
+        "is_new": true
+      },
+      {
+        "id": "ebbb5339b426b9b467bdc3f9bab519b3",
+        "title": "AgentSearchBench: A Benchmark for AI Agent Search in the Wild",
+        "url": "https://huggingface.co/papers/2604.22436",
+        "description": "The rapid growth of AI agent ecosystems is transforming how complex tasks are delegated and executed, creating a new challenge of identifying suitable agents for a given task. Unlike traditional tools",
+        "published": "2026-04-23T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 0,
+        "is_new": true
+      },
+      {
+        "id": "95d7ce8ac5352e7c9fb89f12b37a5eea",
+        "title": "Learning Evidence Highlighting for Frozen LLMs",
+        "url": "https://huggingface.co/papers/2604.22565",
+        "description": "Large Language Models (LLMs) can reason well, yet often miss decisive evidence when it is buried in long, noisy contexts. We introduce HiLight, an Evidence Emphasis framework that decouples evidence s",
+        "published": "2026-04-23T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 0,
+        "is_new": true
+      },
+      {
+        "id": "8165658125038177dc0741dbbd17f065",
+        "title": "Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond",
+        "url": "https://huggingface.co/papers/2604.22748",
+        "description": "As AI systems move from generating text to accomplishing goals through sustained interaction, the ability to model environment dynamics becomes a central bottleneck. Agents that manipulate objects, na",
+        "published": "2026-04-23T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 7,
+        "is_new": true
+      },
+      {
+        "id": "3bfb4cb42394d01ed74889bee41660f0",
+        "title": "DiffNR: Diffusion-Enhanced Neural Representation Optimization for Sparse-View 3D Tomographic Reconstruction",
+        "url": "https://huggingface.co/papers/2604.21518",
+        "description": "Neural representations (NRs), such as neural fields and 3D Gaussians, effectively model volumetric data in computed tomography (CT) but suffer from severe artifacts under sparse-view settings. To addr",
+        "published": "2026-04-22T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 13,
+        "is_new": true
+      },
+      {
         "id": "b861793fc028d179a7d5c66f7a5e1640",
         "title": "Vista4D: Video Reshooting with 4D Point Clouds",
         "url": "https://huggingface.co/papers/2604.21915",
@@ -1375,84 +1440,6 @@
         "is_new": false
       },
       {
-        "id": "a1d035bbc3e6567b5d27e80a24928704",
-        "title": "TingIS: Real-time Risk Event Discovery from Noisy Customer Incidents at Enterprise Scale",
-        "url": "https://huggingface.co/papers/2604.21889",
-        "description": "Real-time detection and mitigation of technical anomalies are critical for large-scale cloud-native services, where even minutes of downtime can result in massive financial losses and diminished user ",
-        "published": "2026-04-22T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 10,
-        "is_new": false
-      },
-      {
-        "id": "ebe71992cba5d64cc5805d396fae3cd5",
-        "title": "UniGenDet: A Unified Generative-Discriminative Framework for Co-Evolutionary Image Generation and Generated Image Detection",
-        "url": "https://huggingface.co/papers/2604.21904",
-        "description": "In recent years, significant progress has been made in both image generation and generated image detection. Despite their rapid, yet largely independent, development, these two fields have evolved dis",
-        "published": "2026-04-22T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 4,
-        "is_new": false
-      },
-      {
-        "id": "1b5bf78f44a17644d4134b563c45f729",
-        "title": "VLAA-GUI: Knowing When to Stop, Recover, and Search, A Modular Framework for GUI Automation",
-        "url": "https://huggingface.co/papers/2604.21375",
-        "description": "Autonomous GUI agents face two fundamental challenges: early stopping, where agents prematurely declare success without verifiable evidence, and repetitive loops, where agents cycle through the same f",
-        "published": "2026-04-22T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 14,
-        "is_new": false
-      },
-      {
-        "id": "1f3c85cb33e99046fb8f076be90cd1f2",
-        "title": "StyleID: A Perception-Aware Dataset and Metric for Stylization-Agnostic Facial Identity Recognition",
-        "url": "https://huggingface.co/papers/2604.21689",
-        "description": "Creative face stylization aims to render portraits in diverse visual idioms such as cartoons, sketches, and paintings while retaining recognizable identity. However, current identity encoders, which a",
-        "published": "2026-04-22T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 20,
-        "is_new": false
-      },
-      {
-        "id": "90fbd54b999f468af74095374c9bfb1b",
-        "title": "WorldMark: A Unified Benchmark Suite for Interactive Video World Models",
-        "url": "https://huggingface.co/papers/2604.21686",
-        "description": "Interactive video generation models such as Genie, YUME, HY-World, and Matrix-Game are advancing rapidly, yet every model is evaluated on its own benchmark with private scenes and trajectories, making",
-        "published": "2026-04-22T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 34,
-        "is_new": false
-      },
-      {
-        "id": "5d6ff406a7abf9f7591e270d8ca4c654",
-        "title": "Context Unrolling in Omni Models",
-        "url": "https://huggingface.co/papers/2604.21921",
-        "description": "We present Omni, a unified multimodal model natively trained on diverse modalities, including text, images, videos, 3D geometry, and hidden representations. We find that such training enables Context ",
-        "published": "2026-04-22T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 9,
-        "is_new": false
-      },
-      {
         "id": "a6e2a07df4ba6dda2fbe005a565ffd87",
         "title": "Temporally Extended Mixture-of-Experts Models",
         "url": "https://huggingface.co/papers/2604.20156",
@@ -1501,21 +1488,21 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 18,
+        "likes": 19,
         "is_new": false
       },
       {
-        "id": "4c02311cbbeb3bfdcd47a4e183fb3bed",
-        "title": "UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling",
-        "url": "https://huggingface.co/papers/2604.19734",
-        "description": "Scaling humanoid foundation models is bottlenecked by the scarcity of robotic data. While massive egocentric human data offers a scalable alternative, bridging the cross-embodiment chasm remains a fun",
-        "published": "2026-04-20T20:00:00.000Z",
+        "id": "9f7ec6631abcf9a7192bb88e06a2e69c",
+        "title": "LLM Safety From Within: Detecting Harmful Content with Internal Representations",
+        "url": "https://huggingface.co/papers/2604.18519",
+        "description": "Guard models are widely used to detect harmful content in user prompts and LLM responses. However, state-of-the-art guard models rely solely on terminal-layer representations and overlook the rich saf",
+        "published": "2026-04-19T20:00:00.000Z",
         "source_id": "hf-papers",
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 27,
-        "is_new": false
+        "likes": 15,
+        "is_new": true
       },
       {
         "id": "c016eb0f358446ec0565865789c74a00",
@@ -1540,7 +1527,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 81,
+        "likes": 83,
         "is_new": false
       },
       {
@@ -1581,6 +1568,19 @@
         "category": "research",
         "likes": 1,
         "is_new": false
+      },
+      {
+        "id": "be9adedb616631c46121933228941c61",
+        "title": "AgriIR: A Scalable Framework for Domain-Specific Knowledge Retrieval",
+        "url": "https://huggingface.co/papers/2604.16353",
+        "description": "This paper introduces AgriIR, a configurable retrieval augmented generation (RAG) framework designed to deliver grounded, domain-specific answers while maintaining flexibility and low computational co",
+        "published": "2026-03-16T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 0,
+        "is_new": true
       }
     ]
   }
