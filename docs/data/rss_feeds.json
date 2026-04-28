@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-28T19:49:16.603249+00:00",
+  "last_updated": "2026-04-28T20:38:34.261858+00:00",
   "total_entries": 110,
-  "new_entries": 10,
+  "new_entries": 3,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -57,7 +57,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "a1231f5b46cc91f6964a23e4226312c0",
@@ -69,7 +69,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "8dcbd07fb3ff7e9220ea19473421e074",
@@ -81,7 +81,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "8a69f67e1d62b2289cdef9c223938abb",
@@ -93,7 +93,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "35ffafd44de0198275f8e6d2676d2e29",
@@ -768,6 +768,30 @@
       "is_new": false
     },
     {
+      "id": "74cdffe7e5df374389a7ff29cfba1c3a",
+      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "description": "Sam Altman and Elon Musk are set to face off in a high-stakes trial that could alter the future of tech’s leading AI startup, OpenAI. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its fo",
+      "published": "2026-04-28T16:36:36-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": false
+    },
+    {
+      "id": "f46abba89ed31fc6bcdc242b410ad649",
+      "title": "Taylor Swift is stepping up the legal war on AI copycats",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/919827/taylor-swift-trademarks-ai-copycats",
+      "description": "Taylor Swift has been at the center of AI imitation controversies for years, and now, she's become the latest celebrity who's escalating attempts to protect herself from AI copycats. As usual, however",
+      "published": "2026-04-28T16:27:02-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "47936303",
       "title": "Show HN: I built a search engine for llms.txt sites",
       "url": "https://statespace.com/",
@@ -779,18 +803,6 @@
       "category": "news",
       "points": 2,
       "comments": 0,
-      "is_new": true
-    },
-    {
-      "id": "74cdffe7e5df374389a7ff29cfba1c3a",
-      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "description": "Sam Altman and Elon Musk are set to face off in a high-stakes trial that could alter the future of tech’s leading AI startup, OpenAI. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its fo",
-      "published": "2026-04-28T15:47:51-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
       "is_new": false
     },
     {
@@ -815,7 +827,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "47933950",
@@ -841,7 +853,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "47933750",
@@ -895,7 +907,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "e4ba503cea6cc94e7c130a42ee867b34",
@@ -988,16 +1000,17 @@
       "is_new": false
     },
     {
-      "id": "b674898a18bb27c809e60aa0c08e3f77",
-      "title": "Google employees ask Sundar Pichai to say no to classified military AI use",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter",
-      "description": "Over 600 Google employees signed a letter to CEO Sundar Pichai demanding that Google block the Pentagon from using its AI models for classified purposes, reports the The Washington Post. Its organizer",
-      "published": "2026-04-27T14:30:33-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
+      "id": "4e81a3cf2a8a95f8fd89ccad867648be",
+      "title": "Improving Robustness of Tabular Retrieval via Representational Stability",
+      "url": "https://huggingface.co/papers/2604.24040",
+      "description": "Transformer-based table retrieval systems flatten structured tables into token sequences, making retrieval sensitive to the choice of serialization even when table semantics remain unchanged. We show ",
+      "published": "2026-04-26T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
     },
     {
       "id": "6a81b5c2cb71f6b5f9be46a17b04a88a",
@@ -1010,7 +1023,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "0d28652cef36b01df6bc1f9cba684b60",
@@ -1052,19 +1065,6 @@
       "is_new": false
     },
     {
-      "id": "2b27f9e5dee165b8c45e5e9dd8d213c2",
-      "title": "OmniShotCut: Holistic Relational Shot Boundary Detection with Shot-Query Transformer",
-      "url": "https://huggingface.co/papers/2604.24762",
-      "description": "Shot Boundary Detection (SBD) aims to automatically identify shot changes and divide a video into coherent shots. While SBD was widely studied in the literature, existing state-of-the-art methods ofte",
-      "published": "2026-04-26T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 7,
-      "is_new": false
-    },
-    {
       "id": "47912675",
       "title": "Show HN: I replaced a memory app with two Markdown files and a Git repo",
       "url": "https://news.ycombinator.com/item?id=47912675",
@@ -1103,7 +1103,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "899de4385caf7d367fd4dd138e41ef00",
@@ -1145,19 +1145,6 @@
       "is_new": false
     },
     {
-      "id": "e6161e2cbf5b15561bed029cf8c2898b",
-      "title": "Vision-Language-Action Safety: Threats, Challenges, Evaluations, and Mechanisms",
-      "url": "https://huggingface.co/papers/2604.23775",
-      "description": "Vision-Language-Action (VLA) models are emerging as a unified substrate for embodied intelligence. This shift raises a new class of safety challenges, stemming from the embodied nature of VLA systems,",
-      "published": "2026-04-25T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 42,
-      "is_new": false
-    },
-    {
       "id": "47899844",
       "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
       "url": "https://github.com/nex-crm/wuphf",
@@ -1194,7 +1181,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 13,
+      "likes": 14,
       "is_new": false
     },
     {
@@ -1292,6 +1279,19 @@
       "points": 2,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "6ad90206fa71bba51af3f6e572a801ea",
+      "title": "Sapiens2",
+      "url": "https://huggingface.co/papers/2604.21681",
+      "description": "We present Sapiens2, a model family of high-resolution transformers for human-centric vision focused on generalization, versatility, and high-fidelity outputs. Our model sizes range from 0.4 to 5 bill",
+      "published": "2026-04-22T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 7,
+      "is_new": true
     }
   ],
   "by_category": {
@@ -1306,7 +1306,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "a1231f5b46cc91f6964a23e4226312c0",
@@ -1318,7 +1318,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "8dcbd07fb3ff7e9220ea19473421e074",
@@ -1330,7 +1330,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "8a69f67e1d62b2289cdef9c223938abb",
@@ -1342,7 +1342,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "35ffafd44de0198275f8e6d2676d2e29",
@@ -1537,6 +1537,30 @@
         "is_new": false
       },
       {
+        "id": "74cdffe7e5df374389a7ff29cfba1c3a",
+        "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+        "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+        "description": "Sam Altman and Elon Musk are set to face off in a high-stakes trial that could alter the future of tech’s leading AI startup, OpenAI. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its fo",
+        "published": "2026-04-28T16:36:36-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "f46abba89ed31fc6bcdc242b410ad649",
+        "title": "Taylor Swift is stepping up the legal war on AI copycats",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/919827/taylor-swift-trademarks-ai-copycats",
+        "description": "Taylor Swift has been at the center of AI imitation controversies for years, and now, she's become the latest celebrity who's escalating attempts to protect herself from AI copycats. As usual, however",
+        "published": "2026-04-28T16:27:02-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "47936303",
         "title": "Show HN: I built a search engine for llms.txt sites",
         "url": "https://statespace.com/",
@@ -1548,18 +1572,6 @@
         "category": "news",
         "points": 2,
         "comments": 0,
-        "is_new": true
-      },
-      {
-        "id": "74cdffe7e5df374389a7ff29cfba1c3a",
-        "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-        "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-        "description": "Sam Altman and Elon Musk are set to face off in a high-stakes trial that could alter the future of tech’s leading AI startup, OpenAI. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its fo",
-        "published": "2026-04-28T15:47:51-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
         "is_new": false
       },
       {
@@ -1584,7 +1596,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "47933950",
@@ -1610,7 +1622,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "47933750",
@@ -1653,18 +1665,6 @@
         "points": 3,
         "comments": 0,
         "is_new": false
-      },
-      {
-        "id": "fa8209145f39c57e62252204216922d1",
-        "title": "Musk and Altman go to court",
-        "url": "https://www.theverge.com/podcast/919534/musk-openai-trial-vergecast",
-        "description": "The trial between Elon Musk and OpenAI is officially upon us. And it is going to be a mess. As the two sides fight over the early days of AI, who deserves credit and cash for what, and more, we're lik",
-        "published": "2026-04-28T10:47:21-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": true
       }
     ],
     "research": [
