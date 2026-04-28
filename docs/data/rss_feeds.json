@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-28T00:04:05.800155+00:00",
+  "last_updated": "2026-04-28T03:46:36.479125+00:00",
   "total_entries": 110,
-  "new_entries": 1,
+  "new_entries": 11,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -507,7 +507,7 @@
       "id": "690cff703d385f7d2e5b4efa89339340",
       "title": "Universal Transformers Need Memory: Depth-State Trade-offs in Adaptive Recursive Reasoning",
       "url": "https://arxiv.org/abs/2604.21999",
-      "description": "arXiv:2604.21999v1 Announce Type: new \nAbstract: We study learned memory tokens as computational scratchpad for a single-block Universal Transformer (UT) with Adaptive Computation Time (ACT) on Sudoku",
+      "description": "arXiv:2604.21999v2 Announce Type: new \nAbstract: We study learned memory tokens as computational scratchpad for a single-block Universal Transformer (UT) with Adaptive Computation Time (ACT) on Sudoku",
       "published": "Mon, 27 Apr 2026 00:00:00 -0400",
       "source_id": "arxiv-ml",
       "source_name": "arXiv ML",
@@ -768,6 +768,42 @@
       "is_new": false
     },
     {
+      "id": "6d044935cb5871004ef652d910ccf7f1",
+      "title": "Jury selection in Musk v. Altman: ‘People don’t like him’",
+      "url": "https://www.theverge.com/tech/919469/elon-musk-dont-like",
+      "description": "On Monday, the courtroom battle between Elon Musk and Sam Altman over alleged broken promises at OpenAI started, as usual, with jury selection. The only tricky part? A lot of the prospective jurors al",
+      "published": "2026-04-27T23:39:33-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "74cdffe7e5df374389a7ff29cfba1c3a",
+      "title": "Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "description": "Sam Altman and Elon Musk are set to face off in a high-stakes trial that could alter the future of tech’s leading AI startup, OpenAI. The trial begins with jury selection on April 27th, as Musk pushes",
+      "published": "2026-04-27T23:38:59-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": false
+    },
+    {
+      "id": "f0f9e683648b67c78a8d8eda9c0c667c",
+      "title": "Google is testing AI chatbot search for YouTube",
+      "url": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search",
+      "description": "Google is trying out an AI Mode-like search experience for YouTube. The company is now testing \"a new way to search on YouTube that feels more like a conversation,\" with results pulling in things like",
+      "published": "2026-04-27T22:11:45-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "47925524",
       "title": "Show HN: Graph-flow – LangGraph-inspired AI agent workflows in Rust",
       "url": "https://github.com/a-agmon/rs-graph-llm",
@@ -779,18 +815,6 @@
       "category": "news",
       "points": 2,
       "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "74cdffe7e5df374389a7ff29cfba1c3a",
-      "title": "Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "description": "Sam Altman and Elon Musk are set to face off in a high-stakes trial that could alter the future of tech’s leading AI startup, OpenAI. The trial begins with jury selection on April 27th, as Musk pushes",
-      "published": "2026-04-27T17:12:01-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
       "is_new": false
     },
     {
@@ -811,18 +835,6 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter",
       "description": "Over 600 Google employees signed a letter to CEO Sundar Pichai demanding that Google block the Pentagon from using its AI models for classified purposes, reports the The Washington Post. Its organizer",
       "published": "2026-04-27T14:30:33-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "d04fb05af55f3c1e5a9a7b9db07540e2",
-      "title": "Musk vs. Altman is here, and it&#8217;s going to get messy",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip",
-      "description": "Elon Musk cofounded OpenAI, and then flounced off in a huff when he wasn't anointed CEO, leaving Sam Altman as the last power-hungry man standing. Now, Musk is back with a lawsuit, and a trial is sche",
-      "published": "2026-04-27T12:21:14-04:00",
       "source_id": "theverge-ai",
       "source_name": "The Verge AI",
       "source_icon": "📰",
@@ -866,6 +878,71 @@
       "is_new": false
     },
     {
+      "id": "761480c283085f7033af692254e54d97",
+      "title": "Zero-to-CAD: Agentic Synthesis of Interpretable CAD Programs at Million-Scale Without Real Data",
+      "url": "https://huggingface.co/papers/2604.24479",
+      "description": "Computer-Aided Design (CAD) models are defined by their construction history: a parametric recipe that encodes design intent. However, existing large-scale 3D datasets predominantly consist of boundar",
+      "published": "2026-04-26T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "3917b2d8f740ad23bed66b74c1702536",
+      "title": "Tuna-2: Pixel Embeddings Beat Vision Encoders for Multimodal Understanding and Generation",
+      "url": "https://huggingface.co/papers/2604.24763",
+      "description": "Unified multimodal models typically rely on pretrained vision encoders and use separate visual representations for understanding and generation, creating misalignment between the two tasks and prevent",
+      "published": "2026-04-26T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "e0ce4c8c52a916ed309b7f15e4bb5921",
+      "title": "Stabilizing Efficient Reasoning with Step-Level Advantage Selection",
+      "url": "https://huggingface.co/papers/2604.24003",
+      "description": "Large language models (LLMs) achieve strong reasoning performance by allocating substantial computation at inference time, often generating long and verbose reasoning traces. While recent work on effi",
+      "published": "2026-04-26T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "424ad20fee583267a6da443e36e4a166",
+      "title": "World-R1: Reinforcing 3D Constraints for Text-to-Video Generation",
+      "url": "https://huggingface.co/papers/2604.24764",
+      "description": "Recent video foundation models demonstrate impressive visual synthesis but frequently suffer from geometric inconsistencies. While existing methods attempt to inject 3D priors via architectural modifi",
+      "published": "2026-04-26T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 17,
+      "is_new": true
+    },
+    {
+      "id": "801cf41420df009816b3657f1879701d",
+      "title": "Rewarding the Scientific Process: Process-Level Reward Modeling for Agentic Data Analysis",
+      "url": "https://huggingface.co/papers/2604.24198",
+      "description": "Process Reward Models (PRMs) have achieved remarkable success in augmenting the reasoning capabilities of Large Language Models (LLMs) within static domains such as mathematics. However, their potenti",
+      "published": "2026-04-26T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 9,
+      "is_new": true
+    },
+    {
       "id": "47912675",
       "title": "Show HN: I replaced a memory app with two Markdown files and a Git repo",
       "url": "https://news.ycombinator.com/item?id=47912675",
@@ -906,6 +983,19 @@
       "points": 258,
       "comments": 114,
       "is_new": false
+    },
+    {
+      "id": "5c83f34484a751f8729afacd6e72259b",
+      "title": "ProEval: Proactive Failure Discovery and Efficient Performance Estimation for Generative AI Evaluation",
+      "url": "https://huggingface.co/papers/2604.23099",
+      "description": "Evaluating generative AI models is increasingly resource-intensive due to slow inference, expensive raters, and a rapidly growing landscape of models and benchmarks. We propose ProEval, a proactive ev",
+      "published": "2026-04-24T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
     },
     {
       "id": "47894947",
@@ -960,18 +1050,6 @@
       "is_new": false
     },
     {
-      "id": "1e009397c380ed5bce5f976e953875ca",
-      "title": "China’s DeepSeek previews new AI model a year after jolting US rivals",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model",
-      "description": "Chinese AI company DeepSeek released a preview of its hotly anticipated next-generation AI model V4 on Friday, saying that the open-source model can compete with leading closed-source systems from US",
-      "published": "2026-04-24T05:45:30-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "d952eb0dd7abfb9f15fdf675a63176d8",
       "title": "Video Analysis and Generation via a Semantic Progress Function",
       "url": "https://huggingface.co/papers/2604.22554",
@@ -981,7 +1059,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 36,
+      "likes": 42,
       "is_new": false
     },
     {
@@ -1007,7 +1085,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 10,
+      "likes": 11,
       "is_new": false
     },
     {
@@ -1021,45 +1099,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "ebbb5339b426b9b467bdc3f9bab519b3",
-      "title": "AgentSearchBench: A Benchmark for AI Agent Search in the Wild",
-      "url": "https://huggingface.co/papers/2604.22436",
-      "description": "The rapid growth of AI agent ecosystems is transforming how complex tasks are delegated and executed, creating a new challenge of identifying suitable agents for a given task. Unlike traditional tools",
-      "published": "2026-04-23T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 9,
-      "is_new": false
-    },
-    {
-      "id": "95d7ce8ac5352e7c9fb89f12b37a5eea",
-      "title": "Learning Evidence Highlighting for Frozen LLMs",
-      "url": "https://huggingface.co/papers/2604.22565",
-      "description": "Large Language Models (LLMs) can reason well, yet often miss decisive evidence when it is buried in long, noisy contexts. We introduce HiLight, an Evidence Emphasis framework that decouples evidence s",
-      "published": "2026-04-23T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "8165658125038177dc0741dbbd17f065",
-      "title": "Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond",
-      "url": "https://huggingface.co/papers/2604.22748",
-      "description": "As AI systems move from generating text to accomplishing goals through sustained interaction, the ability to model environment dynamics becomes a central bottleneck. Agents that manipulate objects, na",
-      "published": "2026-04-23T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 152,
       "is_new": false
     },
     {
@@ -1105,6 +1144,19 @@
       "is_new": false
     },
     {
+      "id": "7f49a8d0b75b595e39cad855d96d5eda",
+      "title": "SketchVLM: Vision language models can annotate images to explain thoughts and guide users",
+      "url": "https://huggingface.co/papers/2604.22875",
+      "description": "When answering questions about images, humans naturally point, label, and draw to explain their reasoning. In contrast, modern vision-language models (VLMs) such as Gemini-3-Pro and GPT-5 only respond",
+      "published": "2026-04-22T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
+    },
+    {
       "id": "5a52736a408457e13dd225184aa2b78b",
       "title": "Emergent Strategic Reasoning Risks in AI: A Taxonomy-Driven Evaluation Framework",
       "url": "https://huggingface.co/papers/2604.22119",
@@ -1140,20 +1192,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 26,
-      "is_new": false
-    },
-    {
-      "id": "b861793fc028d179a7d5c66f7a5e1640",
-      "title": "Vista4D: Video Reshooting with 4D Point Clouds",
-      "url": "https://huggingface.co/papers/2604.21915",
-      "description": "We present Vista4D, a robust and flexible video reshooting framework that grounds the input video and target cameras in a 4D point cloud. Specifically, given an input video, our method re-synthesizes ",
-      "published": "2026-04-22T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 10,
+      "likes": 27,
       "is_new": false
     },
     {
@@ -1251,48 +1290,6 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 2,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "47858398",
-      "title": "Show HN: Open Chronicle – Local Screen Memory for Claude Code and Codex CLI",
-      "url": "https://github.com/Screenata/open-chronicle",
-      "description": "",
-      "published": "2026-04-22T03:06:15Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 5,
-      "comments": 1,
-      "is_new": false
-    },
-    {
-      "id": "47858049",
-      "title": "Show HN: MemFactory: Unified Inference and Training Framework for Agent Memory",
-      "url": "https://arxiv.org/abs/2603.29493",
-      "description": "",
-      "published": "2026-04-22T02:26:05Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 8,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "47854640",
-      "title": "Show HN: I built a coding agent that works with 8k context local models",
-      "url": "https://github.com/razvanneculai/litecode",
-      "description": "",
-      "published": "2026-04-21T21:21:14Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 1,
       "comments": 0,
       "is_new": false
     }
@@ -1540,6 +1537,42 @@
         "is_new": false
       },
       {
+        "id": "6d044935cb5871004ef652d910ccf7f1",
+        "title": "Jury selection in Musk v. Altman: ‘People don’t like him’",
+        "url": "https://www.theverge.com/tech/919469/elon-musk-dont-like",
+        "description": "On Monday, the courtroom battle between Elon Musk and Sam Altman over alleged broken promises at OpenAI started, as usual, with jury selection. The only tricky part? A lot of the prospective jurors al",
+        "published": "2026-04-27T23:39:33-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "74cdffe7e5df374389a7ff29cfba1c3a",
+        "title": "Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+        "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+        "description": "Sam Altman and Elon Musk are set to face off in a high-stakes trial that could alter the future of tech’s leading AI startup, OpenAI. The trial begins with jury selection on April 27th, as Musk pushes",
+        "published": "2026-04-27T23:38:59-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "f0f9e683648b67c78a8d8eda9c0c667c",
+        "title": "Google is testing AI chatbot search for YouTube",
+        "url": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search",
+        "description": "Google is trying out an AI Mode-like search experience for YouTube. The company is now testing \"a new way to search on YouTube that feels more like a conversation,\" with results pulling in things like",
+        "published": "2026-04-27T22:11:45-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "47925524",
         "title": "Show HN: Graph-flow – LangGraph-inspired AI agent workflows in Rust",
         "url": "https://github.com/a-agmon/rs-graph-llm",
@@ -1551,18 +1584,6 @@
         "category": "news",
         "points": 2,
         "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "74cdffe7e5df374389a7ff29cfba1c3a",
-        "title": "Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-        "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-        "description": "Sam Altman and Elon Musk are set to face off in a high-stakes trial that could alter the future of tech’s leading AI startup, OpenAI. The trial begins with jury selection on April 27th, as Musk pushes",
-        "published": "2026-04-27T17:12:01-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
         "is_new": false
       },
       {
@@ -1583,18 +1604,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter",
         "description": "Over 600 Google employees signed a letter to CEO Sundar Pichai demanding that Google block the Pentagon from using its AI models for classified purposes, reports the The Washington Post. Its organizer",
         "published": "2026-04-27T14:30:33-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "d04fb05af55f3c1e5a9a7b9db07540e2",
-        "title": "Musk vs. Altman is here, and it&#8217;s going to get messy",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip",
-        "description": "Elon Musk cofounded OpenAI, and then flounced off in a huff when he wasn't anointed CEO, leaving Sam Altman as the last power-hungry man standing. Now, Musk is back with a lawsuit, and a trial is sche",
-        "published": "2026-04-27T12:21:14-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
@@ -1649,20 +1658,6 @@
         "category": "news",
         "points": 2,
         "comments": 1,
-        "is_new": false
-      },
-      {
-        "id": "47911522",
-        "title": "Show HN: I made GAI to have LLM agents in Go without heavy frameworks",
-        "url": "https://github.com/lace-ai/gai",
-        "description": "",
-        "published": "2026-04-26T16:27:28Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 2,
-        "comments": 0,
         "is_new": false
       }
     ],
@@ -1971,7 +1966,7 @@
         "id": "690cff703d385f7d2e5b4efa89339340",
         "title": "Universal Transformers Need Memory: Depth-State Trade-offs in Adaptive Recursive Reasoning",
         "url": "https://arxiv.org/abs/2604.21999",
-        "description": "arXiv:2604.21999v1 Announce Type: new \nAbstract: We study learned memory tokens as computational scratchpad for a single-block Universal Transformer (UT) with Adaptive Computation Time (ACT) on Sudoku",
+        "description": "arXiv:2604.21999v2 Announce Type: new \nAbstract: We study learned memory tokens as computational scratchpad for a single-block Universal Transformer (UT) with Adaptive Computation Time (ACT) on Sudoku",
         "published": "Mon, 27 Apr 2026 00:00:00 -0400",
         "source_id": "arxiv-ml",
         "source_name": "arXiv ML",
