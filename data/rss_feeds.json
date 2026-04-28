@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-28T04:03:03.459855+00:00",
+  "last_updated": "2026-04-28T06:42:41.678076+00:00",
   "total_entries": 110,
-  "new_entries": 21,
+  "new_entries": 27,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -878,6 +878,32 @@
       "is_new": false
     },
     {
+      "id": "2b27f9e5dee165b8c45e5e9dd8d213c2",
+      "title": "OmniShotCut: Holistic Relational Shot Boundary Detection with Shot-Query Transformer",
+      "url": "https://huggingface.co/papers/2604.24762",
+      "description": "Shot Boundary Detection (SBD) aims to automatically identify shot changes and divide a video into coherent shots. While SBD was widely studied in the literature, existing state-of-the-art methods ofte",
+      "published": "2026-04-26T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
+      "id": "e14090bcf21ed89febe7d9f8d7a16414",
+      "title": "ReVSI: Rebuilding Visual Spatial Intelligence Evaluation for Accurate Assessment of VLM 3D Reasoning",
+      "url": "https://huggingface.co/papers/2604.24300",
+      "description": "Current evaluations of spatial intelligence can be systematically invalid under modern vision-language model (VLM) settings. First, many benchmarks derive question-answer (QA) pairs from point-cloud-b",
+      "published": "2026-04-26T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 31,
+      "is_new": true
+    },
+    {
       "id": "761480c283085f7033af692254e54d97",
       "title": "Zero-to-CAD: Agentic Synthesis of Interpretable CAD Programs at Million-Scale Without Real Data",
       "url": "https://huggingface.co/papers/2604.24479",
@@ -900,7 +926,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 8,
       "is_new": false
     },
     {
@@ -913,7 +939,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -926,7 +952,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 18,
+      "likes": 34,
       "is_new": false
     },
     {
@@ -939,7 +965,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 14,
       "is_new": false
     },
     {
@@ -971,6 +997,19 @@
       "is_new": false
     },
     {
+      "id": "e6161e2cbf5b15561bed029cf8c2898b",
+      "title": "Vision-Language-Action Safety: Threats, Challenges, Evaluations, and Mechanisms",
+      "url": "https://huggingface.co/papers/2604.23775",
+      "description": "Vision-Language-Action (VLA) models are emerging as a unified substrate for embodied intelligence. This shift raises a new class of safety challenges, stemming from the embodied nature of VLA systems,",
+      "published": "2026-04-25T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 24,
+      "is_new": true
+    },
+    {
       "id": "a7eefc3998effda400aa4fc94c8bbbbd",
       "title": "ClawMark: A Living-World Benchmark for Multi-Turn, Multi-Day, Multimodal Coworker Agents",
       "url": "https://huggingface.co/papers/2604.23781",
@@ -980,7 +1019,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 20,
       "is_new": true
     },
     {
@@ -998,6 +1037,19 @@
       "is_new": false
     },
     {
+      "id": "da38e4163c845dad07edfdb611246c63",
+      "title": "For-Value: Efficient Forward-Only Data Valuation for finetuning LLMs and VLMs",
+      "url": "https://huggingface.co/papers/2508.10180",
+      "description": "Data valuation is essential for enhancing the transparency and accountability of large language models (LLMs) and vision-language models (VLMs). However, existing methods typically rely on gradient co",
+      "published": "2026-04-24T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
       "id": "5c83f34484a751f8729afacd6e72259b",
       "title": "ProEval: Proactive Failure Discovery and Efficient Performance Estimation for Generative AI Evaluation",
       "url": "https://huggingface.co/papers/2604.23099",
@@ -1007,7 +1059,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 1,
       "is_new": false
     },
     {
@@ -1072,33 +1124,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 42,
-      "is_new": false
-    },
-    {
-      "id": "21537aaa876249b5c7999a79e839afaa",
-      "title": "Contexts are Never Long Enough: Structured Reasoning for Scalable Question Answering over Long Document Sets",
-      "url": "https://huggingface.co/papers/2604.22294",
-      "description": "Real-world document question answering is challenging. Analysts must synthesize evidence across multiple documents and different parts of each document. However, any fixed LLM context window can be ex",
-      "published": "2026-04-23T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 10,
-      "is_new": false
-    },
-    {
-      "id": "d00386bfa366c75faf0826d8afe09f7f",
-      "title": "FlowAnchor: Stabilizing the Editing Signal for Inversion-Free Video Editing",
-      "url": "https://huggingface.co/papers/2604.22586",
-      "description": "We propose FlowAnchor, a training-free framework for stable and efficient inversion-free, flow-based video editing. Inversion-free editing methods have recently shown impressive efficiency and structu",
-      "published": "2026-04-23T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 11,
+      "likes": 48,
       "is_new": false
     },
     {
@@ -1144,6 +1170,19 @@
       "is_new": false
     },
     {
+      "id": "d190902e69112634b506e8f26c48c990",
+      "title": "Efficient Agent Evaluation via Diversity-Guided User Simulation",
+      "url": "https://huggingface.co/papers/2604.21480",
+      "description": "Large language models (LLMs) are increasingly deployed as customer-facing agents, yet evaluating their reliability remains challenging due to stochastic, multi-turn interactions. Current evaluation pr",
+      "published": "2026-04-22T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 7,
+      "is_new": true
+    },
+    {
       "id": "7f49a8d0b75b595e39cad855d96d5eda",
       "title": "SketchVLM: Vision language models can annotate images to explain thoughts and guide users",
       "url": "https://huggingface.co/papers/2604.22875",
@@ -1153,7 +1192,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 11,
       "is_new": false
     },
     {
@@ -1179,20 +1218,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
-      "is_new": false
-    },
-    {
-      "id": "3bfb4cb42394d01ed74889bee41660f0",
-      "title": "DiffNR: Diffusion-Enhanced Neural Representation Optimization for Sparse-View 3D Tomographic Reconstruction",
-      "url": "https://huggingface.co/papers/2604.21518",
-      "description": "Neural representations (NRs), such as neural fields and 3D Gaussians, effectively model volumetric data in computed tomography (CT) but suffer from severe artifacts under sparse-view settings. To addr",
-      "published": "2026-04-22T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 27,
+      "likes": 9,
       "is_new": false
     },
     {
@@ -1263,34 +1289,6 @@
       "category": "news",
       "points": 3,
       "comments": 2,
-      "is_new": false
-    },
-    {
-      "id": "47863430",
-      "title": "Show HN: We built a <60ms, open-source alternative to E2B using RustVMM and KVM",
-      "url": "https://github.com/TencentCloud/CubeSandbox",
-      "description": "",
-      "published": "2026-04-22T13:36:32Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 7,
-      "comments": 2,
-      "is_new": false
-    },
-    {
-      "id": "47860859",
-      "title": "Show HN: We open-sourced a 6-library governance stack for AI agents (Python)",
-      "url": "https://news.ycombinator.com/item?id=47860859",
-      "description": "",
-      "published": "2026-04-22T08:47:25Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 0,
       "is_new": false
     }
   ],
