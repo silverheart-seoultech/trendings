@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-28T09:33:20.323593+00:00",
+  "last_updated": "2026-04-28T12:01:14.037995+00:00",
   "total_entries": 110,
-  "new_entries": 0,
+  "new_entries": 4,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -777,7 +777,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 2,
+      "points": 3,
       "comments": 0,
       "is_new": false
     },
@@ -791,8 +791,44 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 1,
+      "points": 2,
       "comments": 0,
+      "is_new": false
+    },
+    {
+      "id": "25ade5c82c92498a6065cb47185e264c",
+      "title": "Google and Pentagon reportedly agree on deal for ‘any lawful’ use of AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal",
+      "description": "Google has signed a classified deal that allows the US Department of Defense to use its AI models for \"any lawful government purpose,\" The Information reports. The agreement was reported less than a d",
+      "published": "2026-04-28T07:45:07-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "f0f9e683648b67c78a8d8eda9c0c667c",
+      "title": "Google is testing AI chatbot search for YouTube",
+      "url": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search",
+      "description": "Google is trying out an AI Mode-like search experience for YouTube. The company is now testing \"a new way to search on YouTube that feels more like a conversation,\" with results pulling in things like",
+      "published": "2026-04-28T05:44:18-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": false
+    },
+    {
+      "id": "5c286e0b169430ab93dd98265d942606",
+      "title": "Canonical lays out a plan for AI in Ubuntu Linux",
+      "url": "https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features",
+      "description": "One of the most popular Linux distributions is about to get an influx of AI features. As reported by Phoronix, Jon Seager, VP of engineering at Ubuntu developer Canonical, shared a blog post on Monday",
+      "published": "2026-04-28T05:40:21-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
       "is_new": false
     },
     {
@@ -820,18 +856,6 @@
       "is_new": false
     },
     {
-      "id": "f0f9e683648b67c78a8d8eda9c0c667c",
-      "title": "Google is testing AI chatbot search for YouTube",
-      "url": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search",
-      "description": "Google is trying out an AI Mode-like search experience for YouTube. The company is now testing \"a new way to search on YouTube that feels more like a conversation,\" with results pulling in things like",
-      "published": "2026-04-27T22:11:45-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "47925524",
       "title": "Show HN: Graph-flow – LangGraph-inspired AI agent workflows in Rust",
       "url": "https://github.com/a-agmon/rs-graph-llm",
@@ -843,18 +867,6 @@
       "category": "news",
       "points": 2,
       "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "5c286e0b169430ab93dd98265d942606",
-      "title": "Canonical lays out a plan for AI in Ubuntu Linux",
-      "url": "https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features",
-      "description": "One of the most popular Linux distributions is about to get an influx of AI features. As reported by Phoronix, Jon Seager, VP of engineering at Ubuntu developer Canonical, shared a blog post on Monday",
-      "published": "2026-04-27T16:47:45-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
       "is_new": false
     },
     {
@@ -882,6 +894,18 @@
       "is_new": false
     },
     {
+      "id": "e4ba503cea6cc94e7c130a42ee867b34",
+      "title": "Attack of the killer script kiddies",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/915660/mythos-script-kiddies-hackers-attack-cybersecurity-ai",
+      "description": "Last August, some of the best cybersecurity teams in the business gathered in Las Vegas to demonstrate the strength of their AI bug-finding systems at DARPA's Artificial Intelligence Cyber Challenge (",
+      "published": "2026-04-27T10:57:31-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "01d2196eff05dd175bc4cc669fc748ac",
       "title": "Canva apologizes after its AI tool replaces ‘Palestine’ in designs",
       "url": "https://www.theverge.com/ai-artificial-intelligence/919028/canva-magic-layers-ai-replacing-palestine",
@@ -904,6 +928,19 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "4e28fcf6809fdac873679af29b731e83",
+      "title": "How Much Is One Recurrence Worth? Iso-Depth Scaling Laws for Looped Language Models",
+      "url": "https://huggingface.co/papers/2604.21106",
+      "description": "We measure how much one extra recurrence is worth to a looped (depth-recurrent) language model, in equivalent unique parameters. From an iso-depth sweep of 116 pretraining runs across recurrence count",
+      "published": "2026-04-26T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
     },
     {
       "id": "768df084e07eba9d37349540470c066b",
@@ -941,7 +978,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 43,
+      "likes": 49,
       "is_new": false
     },
     {
@@ -967,7 +1004,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 20,
+      "likes": 27,
       "is_new": false
     },
     {
@@ -993,20 +1030,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 48,
-      "is_new": false
-    },
-    {
-      "id": "801cf41420df009816b3657f1879701d",
-      "title": "Rewarding the Scientific Process: Process-Level Reward Modeling for Agentic Data Analysis",
-      "url": "https://huggingface.co/papers/2604.24198",
-      "description": "Process Reward Models (PRMs) have achieved remarkable success in augmenting the reasoning capabilities of Large Language Models (LLMs) within static domains such as mathematics. However, their potenti",
-      "published": "2026-04-26T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 14,
+      "likes": 77,
       "is_new": false
     },
     {
@@ -1047,7 +1071,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 35,
+      "likes": 38,
       "is_new": false
     },
     {
@@ -1145,28 +1169,17 @@
       "is_new": false
     },
     {
-      "id": "2aecff3a36e2296c7bed8bd097a4b2ba",
-      "title": "How Project Maven taught the military to love AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson",
-      "description": "In the first 24 hours of the assault on Iran, the US military struck more than 1,000 targets, nearly double the scale of the \"shock and awe\" attack on Iraq over two decades ago. This acceleration was",
-      "published": "2026-04-24T12:42:02-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "77eb372334724249f9083643a73a846b",
-      "title": "AirPods, Touch Bars, and the rest of Tim Cook&#8217;s legacy",
-      "url": "https://www.theverge.com/podcast/917965/apple-ceo-cook-ternus-transition",
-      "description": "We knew at some point Tim Cook would step down from his position as Apple's CEO. Over the last year, it has become increasingly obvious that John Ternus was his likely successor. The news this week wa",
-      "published": "2026-04-24T10:43:07-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
+      "id": "c2fed2d2ff6dbdc8b7c653d24a20ea5f",
+      "title": "TexOCR: Advancing Document OCR Models for Compilable Page-to-LaTeX Reconstruction",
+      "url": "https://huggingface.co/papers/2604.22880",
+      "description": "Existing document OCR largely targets plain text or Markdown, discarding the structural and executable properties that make LaTeX essential for scientific publishing. We study page-level reconstructio",
+      "published": "2026-04-23T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
     },
     {
       "id": "dd0a7878c81e51fdd2e025fd775716f9",
@@ -1178,7 +1191,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 48,
+      "likes": 70,
       "is_new": false
     },
     {
@@ -1233,20 +1246,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
-      "is_new": false
-    },
-    {
-      "id": "7f49a8d0b75b595e39cad855d96d5eda",
-      "title": "SketchVLM: Vision language models can annotate images to explain thoughts and guide users",
-      "url": "https://huggingface.co/papers/2604.22875",
-      "description": "When answering questions about images, humans naturally point, label, and draw to explain their reasoning. In contrast, modern vision-language models (VLMs) such as Gemini-3-Pro and GPT-5 only respond",
-      "published": "2026-04-22T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 13,
+      "likes": 10,
       "is_new": false
     },
     {
@@ -1906,7 +1906,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 2,
+        "points": 3,
         "comments": 0,
         "is_new": false
       },
@@ -1920,8 +1920,44 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 1,
+        "points": 2,
         "comments": 0,
+        "is_new": false
+      },
+      {
+        "id": "25ade5c82c92498a6065cb47185e264c",
+        "title": "Google and Pentagon reportedly agree on deal for ‘any lawful’ use of AI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal",
+        "description": "Google has signed a classified deal that allows the US Department of Defense to use its AI models for \"any lawful government purpose,\" The Information reports. The agreement was reported less than a d",
+        "published": "2026-04-28T07:45:07-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "f0f9e683648b67c78a8d8eda9c0c667c",
+        "title": "Google is testing AI chatbot search for YouTube",
+        "url": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search",
+        "description": "Google is trying out an AI Mode-like search experience for YouTube. The company is now testing \"a new way to search on YouTube that feels more like a conversation,\" with results pulling in things like",
+        "published": "2026-04-28T05:44:18-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "5c286e0b169430ab93dd98265d942606",
+        "title": "Canonical lays out a plan for AI in Ubuntu Linux",
+        "url": "https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features",
+        "description": "One of the most popular Linux distributions is about to get an influx of AI features. As reported by Phoronix, Jon Seager, VP of engineering at Ubuntu developer Canonical, shared a blog post on Monday",
+        "published": "2026-04-28T05:40:21-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
         "is_new": false
       },
       {
@@ -1949,18 +1985,6 @@
         "is_new": false
       },
       {
-        "id": "f0f9e683648b67c78a8d8eda9c0c667c",
-        "title": "Google is testing AI chatbot search for YouTube",
-        "url": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search",
-        "description": "Google is trying out an AI Mode-like search experience for YouTube. The company is now testing \"a new way to search on YouTube that feels more like a conversation,\" with results pulling in things like",
-        "published": "2026-04-27T22:11:45-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
         "id": "47925524",
         "title": "Show HN: Graph-flow – LangGraph-inspired AI agent workflows in Rust",
         "url": "https://github.com/a-agmon/rs-graph-llm",
@@ -1972,18 +1996,6 @@
         "category": "news",
         "points": 2,
         "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "5c286e0b169430ab93dd98265d942606",
-        "title": "Canonical lays out a plan for AI in Ubuntu Linux",
-        "url": "https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features",
-        "description": "One of the most popular Linux distributions is about to get an influx of AI features. As reported by Phoronix, Jon Seager, VP of engineering at Ubuntu developer Canonical, shared a blog post on Monday",
-        "published": "2026-04-27T16:47:45-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
         "is_new": false
       },
       {
@@ -2004,18 +2016,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/918981/openai-microsoft-renegotiate-contract",
         "description": "OpenAI and Microsoft's partnership-turned-situationship just got even less committed. And a clause about artificial general intelligence, which has for years dictated the future of their deal, has off",
         "published": "2026-04-27T12:15:47-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "01d2196eff05dd175bc4cc669fc748ac",
-        "title": "Canva apologizes after its AI tool replaces ‘Palestine’ in designs",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/919028/canva-magic-layers-ai-replacing-palestine",
-        "description": "One of Canva's new AI features has been caught replacing the word \"Palestine\" in designs. The Magic Layers feature - which is designed to break flat images out into separate editable components - isn'",
-        "published": "2026-04-27T10:29:23-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
