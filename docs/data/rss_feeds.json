@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-29T19:44:47.600851+00:00",
+  "last_updated": "2026-04-29T20:20:09.532663+00:00",
   "total_entries": 110,
-  "new_entries": 9,
+  "new_entries": 1,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -57,7 +57,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "ddc6e0690928d435f344ad0ac640231e",
@@ -69,7 +69,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "b7ff057f3fbb00910cb6ae6a9ae7ad7d",
@@ -81,7 +81,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "0a618e6c1c6cfbf124a4257fdeeaacba",
@@ -93,7 +93,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "358b8403be54cfca8cb2c451bf7b71db",
@@ -772,7 +772,19 @@
       "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
       "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
       "description": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni",
-      "published": "2026-04-29T15:42:06-04:00",
+      "published": "2026-04-29T16:00:25-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": false
+    },
+    {
+      "id": "39e4cbbc4ec6916db2376c78f3599e11",
+      "title": "Google Photos launches an AI try-on feature for clothes you already have",
+      "url": "https://www.theverge.com/tech/920420/google-photos-ai-try-on-wardrobe",
+      "description": "Google Photos is launching a new AI-powered feature you can use to virtually try on clothes you already have. Using the photos in your gallery, Google will create a virtual \"wardrobe,\" allowing you to",
+      "published": "2026-04-29T15:55:35-04:00",
       "source_id": "theverge-ai",
       "source_name": "The Verge AI",
       "source_icon": "📰",
@@ -789,19 +801,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
-    },
-    {
-      "id": "39e4cbbc4ec6916db2376c78f3599e11",
-      "title": "Google Photos launches an AI try-on feature for clothes you already have",
-      "url": "https://www.theverge.com/tech/920420/google-photos-ai-try-on-wardrobe",
-      "description": "Google Photos is launching a new AI-powered feature you can use to virtually try on clothes you already have. Using the photos in your gallery, Google will create a virtual \"wardrobe,\" allowing you to",
-      "published": "2026-04-29T14:22:45-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "33c9f2d538e7d9eb8c0d49abcfa73b71",
@@ -825,7 +825,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3c4d4f7fde66006efc943719a6baae0e",
@@ -837,7 +837,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "bb02d6f063f6244333de9877fecbb4b5",
@@ -849,7 +849,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "f2f442e7b709ef7f953906ed25b711b4",
@@ -967,7 +967,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 4,
+      "points": 6,
       "comments": 0,
       "is_new": false
     },
@@ -1035,7 +1035,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 24,
+      "likes": 25,
       "is_new": false
     },
     {
@@ -1126,20 +1126,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 36,
-      "is_new": false
-    },
-    {
-      "id": "7ffae250bd6a61129b2ac9c42c883f02",
-      "title": "Recursive Multi-Agent Systems",
-      "url": "https://huggingface.co/papers/2604.25917",
-      "description": "Recursive or looped language models have recently emerged as a new scaling axis by iteratively refining the same model computation over latent states to deepen reasoning. We extend such scaling princi",
-      "published": "2026-04-27T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 120,
+      "likes": 37,
       "is_new": false
     },
     {
@@ -1218,7 +1205,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 10,
       "is_new": false
     },
     {
@@ -1288,6 +1275,20 @@
       "category": "research",
       "likes": 2,
       "is_new": false
+    },
+    {
+      "id": "47894947",
+      "title": "Show HN: Lilo – a self-hosted, open-source intelligent personal OS",
+      "url": "https://github.com/abi/lilo",
+      "description": "",
+      "published": "2026-04-24T19:46:30Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 7,
+      "comments": 4,
+      "is_new": false
     }
   ],
   "by_category": {
@@ -1302,7 +1303,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "ddc6e0690928d435f344ad0ac640231e",
@@ -1314,7 +1315,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "b7ff057f3fbb00910cb6ae6a9ae7ad7d",
@@ -1326,7 +1327,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "0a618e6c1c6cfbf124a4257fdeeaacba",
@@ -1338,7 +1339,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "358b8403be54cfca8cb2c451bf7b71db",
@@ -1537,7 +1538,19 @@
         "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
         "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
         "description": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni",
-        "published": "2026-04-29T15:42:06-04:00",
+        "published": "2026-04-29T16:00:25-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "39e4cbbc4ec6916db2376c78f3599e11",
+        "title": "Google Photos launches an AI try-on feature for clothes you already have",
+        "url": "https://www.theverge.com/tech/920420/google-photos-ai-try-on-wardrobe",
+        "description": "Google Photos is launching a new AI-powered feature you can use to virtually try on clothes you already have. Using the photos in your gallery, Google will create a virtual \"wardrobe,\" allowing you to",
+        "published": "2026-04-29T15:55:35-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
@@ -1554,19 +1567,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
-      },
-      {
-        "id": "39e4cbbc4ec6916db2376c78f3599e11",
-        "title": "Google Photos launches an AI try-on feature for clothes you already have",
-        "url": "https://www.theverge.com/tech/920420/google-photos-ai-try-on-wardrobe",
-        "description": "Google Photos is launching a new AI-powered feature you can use to virtually try on clothes you already have. Using the photos in your gallery, Google will create a virtual \"wardrobe,\" allowing you to",
-        "published": "2026-04-29T14:22:45-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "33c9f2d538e7d9eb8c0d49abcfa73b71",
@@ -1590,7 +1591,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "3c4d4f7fde66006efc943719a6baae0e",
@@ -1602,7 +1603,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "bb02d6f063f6244333de9877fecbb4b5",
@@ -1614,7 +1615,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "f2f442e7b709ef7f953906ed25b711b4",
