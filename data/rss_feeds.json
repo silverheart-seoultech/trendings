@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-29T04:00:34.294639+00:00",
+  "last_updated": "2026-04-29T06:35:45.360069+00:00",
   "total_entries": 110,
-  "new_entries": 20,
+  "new_entries": 24,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -986,6 +986,32 @@
       "is_new": false
     },
     {
+      "id": "3b7f9767a17d7002fd1e6e96d6097cb8",
+      "title": "MAIC-UI: Making Interactive Courseware with Generative UI",
+      "url": "https://huggingface.co/papers/2604.25806",
+      "description": "Creating interactive STEM courseware traditionally requires HTML/CSS/JavaScript expertise, leaving barriers for educators. While generative AI can produce HTML codes, existing tools generate static pr",
+      "published": "2026-04-27T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "a2e395ae781bf2ca28dfe6ff9e734fe0",
+      "title": "AutoResearchBench: Benchmarking AI Agents on Complex Scientific Literature Discovery",
+      "url": "https://huggingface.co/papers/2604.25256",
+      "description": "Autonomous scientific research is significantly advanced thanks to the development of AI agents. One key step in this process is finding the right scientific literature, whether to explore existing kn",
+      "published": "2026-04-27T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 16,
+      "is_new": true
+    },
+    {
       "id": "df9b3b4b8b762184d27dc938a52a2e0a",
       "title": "BARRED: Synthetic Training of Custom Policy Guardrails via Asymmetric Debate",
       "url": "https://huggingface.co/papers/2604.25203",
@@ -995,7 +1021,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -1008,7 +1034,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 10,
+      "likes": 12,
       "is_new": false
     },
     {
@@ -1021,7 +1047,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 13,
+      "likes": 19,
       "is_new": false
     },
     {
@@ -1060,7 +1086,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 5,
       "is_new": false
     },
     {
@@ -1073,7 +1099,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 15,
+      "likes": 24,
       "is_new": false
     },
     {
@@ -1086,7 +1112,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 37,
+      "likes": 44,
       "is_new": false
     },
     {
@@ -1113,7 +1139,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -1152,7 +1178,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 5,
       "is_new": false
     },
     {
@@ -1165,7 +1191,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 23,
+      "likes": 26,
       "is_new": false
     },
     {
@@ -1178,20 +1204,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 18,
-      "is_new": false
-    },
-    {
-      "id": "4e81a3cf2a8a95f8fd89ccad867648be",
-      "title": "Improving Robustness of Tabular Retrieval via Representational Stability",
-      "url": "https://huggingface.co/papers/2604.24040",
-      "description": "Transformer-based table retrieval systems flatten structured tables into token sequences, making retrieval sensitive to the choice of serialization even when table semantics remain unchanged. We show ",
-      "published": "2026-04-26T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
+      "likes": 21,
       "is_new": false
     },
     {
@@ -1220,19 +1233,6 @@
       "category": "news",
       "points": 2,
       "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "e9704e1fd13823f6178a88d80f0865ab",
-      "title": "Personality Shapes Gender Bias in Persona-Conditioned LLM Narratives Across English and Hindi: An Empirical Investigation",
-      "url": "https://huggingface.co/papers/2604.23600",
-      "description": "Large Language Models (LLMs) are increasingly deployed in persona-driven applications such as education, customer service, and social platforms, where models are prompted to adopt specific personas wh",
-      "published": "2026-04-25T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
       "is_new": false
     },
     {
