@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-29T20:20:09.532663+00:00",
+  "last_updated": "2026-04-29T22:10:33.494140+00:00",
   "total_entries": 110,
-  "new_entries": 1,
+  "new_entries": 4,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,6 +47,18 @@
     }
   ],
   "entries": [
+    {
+      "id": "c56e0d0e76fefd814b9a668e3a2cf6aa",
+      "title": "Google gains 25M subscriptions in Q1, driven by YouTube and Google One",
+      "url": "https://techcrunch.com/2026/04/29/google-gains-25m-subscriptions-in-q1-driven-by-youtube-and-google-one/",
+      "description": "Google added 25M paid subscriptions in Q1, reaching 350M total, as YouTube and Google One grow.",
+      "published": "Wed, 29 Apr 2026 20:59:00 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "20eea33e540514e5c2d545353dd8154a",
       "title": "Is AI video just a prequel? Runway’s CEO thinks world models are next",
@@ -756,23 +768,25 @@
       "is_new": false
     },
     {
-      "id": "705b1c5bdea9d5b9dfa9ecc5ee18b075",
-      "title": "China blocks Meta’s $2B Manus deal after months-long probe",
-      "url": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
-      "description": "China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg’s push into AI agents.",
-      "published": "Mon, 27 Apr 2026 13:16:55 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
+      "id": "47955083",
+      "title": "Scaling Pain of Coding Agent Serving: Lessons from Debugging GLM-5 at Scale",
+      "url": "https://z.ai/blog/scaling-pain",
+      "description": "",
+      "published": "2026-04-29T21:37:56Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
       "category": "news",
-      "is_new": false
+      "points": 3,
+      "comments": 1,
+      "is_new": true
     },
     {
       "id": "74cdffe7e5df374389a7ff29cfba1c3a",
       "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
       "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
       "description": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni",
-      "published": "2026-04-29T16:00:25-04:00",
+      "published": "2026-04-29T17:44:21-04:00",
       "source_id": "theverge-ai",
       "source_name": "The Verge AI",
       "source_icon": "📰",
@@ -784,12 +798,24 @@
       "title": "Google Photos launches an AI try-on feature for clothes you already have",
       "url": "https://www.theverge.com/tech/920420/google-photos-ai-try-on-wardrobe",
       "description": "Google Photos is launching a new AI-powered feature you can use to virtually try on clothes you already have. Using the photos in your gallery, Google will create a virtual \"wardrobe,\" allowing you to",
-      "published": "2026-04-29T15:55:35-04:00",
+      "published": "2026-04-29T16:54:19-04:00",
       "source_id": "theverge-ai",
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "04d7f3e10def0a0334ba020a490b8fc5",
+      "title": "Google Search queries hit an ‘all time high’ last quarter",
+      "url": "https://www.theverge.com/tech/920815/google-alphabet-q1-2026-earnings-sundar-pichai",
+      "description": "Google Search queries hit an \"all time high\" in the first quarter of 2026, according to a statement from CEO Sundar Pichai published as part of Alphabet's earnings on Wednesday. \"Our AI investments an",
+      "published": "2026-04-29T16:28:11-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "489362c10603bfc1a07dd3a29cf05044",
@@ -890,18 +916,6 @@
       "is_new": false
     },
     {
-      "id": "bb864aa9ccaba203f03b2e2b95ab90e1",
-      "title": "GitHub rushed to fix a critical vulnerability in less than six hours",
-      "url": "https://www.theverge.com/news/920295/github-remote-code-execution-vulnerability-fix",
-      "description": "GitHub employees fixed a critical remote code execution vulnerability in less than six hours last month. Wiz Research used AI models to uncover a vulnerability in GitHub's internal git infrastructure",
-      "published": "2026-04-29T06:15:23-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "47936303",
       "title": "Show HN: I built a search engine for llms.txt sites",
       "url": "https://statespace.com/",
@@ -967,7 +981,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 6,
+      "points": 7,
       "comments": 0,
       "is_new": false
     },
@@ -1218,7 +1232,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 69,
+      "likes": 70,
       "is_new": false
     },
     {
@@ -1275,24 +1289,22 @@
       "category": "research",
       "likes": 2,
       "is_new": false
-    },
-    {
-      "id": "47894947",
-      "title": "Show HN: Lilo – a self-hosted, open-source intelligent personal OS",
-      "url": "https://github.com/abi/lilo",
-      "description": "",
-      "published": "2026-04-24T19:46:30Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 7,
-      "comments": 4,
-      "is_new": false
     }
   ],
   "by_category": {
     "news": [
+      {
+        "id": "c56e0d0e76fefd814b9a668e3a2cf6aa",
+        "title": "Google gains 25M subscriptions in Q1, driven by YouTube and Google One",
+        "url": "https://techcrunch.com/2026/04/29/google-gains-25m-subscriptions-in-q1-driven-by-youtube-and-google-one/",
+        "description": "Google added 25M paid subscriptions in Q1, reaching 350M total, as YouTube and Google One grow.",
+        "published": "Wed, 29 Apr 2026 20:59:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "20eea33e540514e5c2d545353dd8154a",
         "title": "Is AI video just a prequel? Runway’s CEO thinks world models are next",
@@ -1522,23 +1534,25 @@
         "is_new": false
       },
       {
-        "id": "705b1c5bdea9d5b9dfa9ecc5ee18b075",
-        "title": "China blocks Meta’s $2B Manus deal after months-long probe",
-        "url": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
-        "description": "China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg’s push into AI agents.",
-        "published": "Mon, 27 Apr 2026 13:16:55 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
+        "id": "47955083",
+        "title": "Scaling Pain of Coding Agent Serving: Lessons from Debugging GLM-5 at Scale",
+        "url": "https://z.ai/blog/scaling-pain",
+        "description": "",
+        "published": "2026-04-29T21:37:56Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
         "category": "news",
-        "is_new": false
+        "points": 3,
+        "comments": 1,
+        "is_new": true
       },
       {
         "id": "74cdffe7e5df374389a7ff29cfba1c3a",
         "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
         "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
         "description": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni",
-        "published": "2026-04-29T16:00:25-04:00",
+        "published": "2026-04-29T17:44:21-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
@@ -1550,12 +1564,24 @@
         "title": "Google Photos launches an AI try-on feature for clothes you already have",
         "url": "https://www.theverge.com/tech/920420/google-photos-ai-try-on-wardrobe",
         "description": "Google Photos is launching a new AI-powered feature you can use to virtually try on clothes you already have. Using the photos in your gallery, Google will create a virtual \"wardrobe,\" allowing you to",
-        "published": "2026-04-29T15:55:35-04:00",
+        "published": "2026-04-29T16:54:19-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
         "is_new": false
+      },
+      {
+        "id": "04d7f3e10def0a0334ba020a490b8fc5",
+        "title": "Google Search queries hit an ‘all time high’ last quarter",
+        "url": "https://www.theverge.com/tech/920815/google-alphabet-q1-2026-earnings-sundar-pichai",
+        "description": "Google Search queries hit an \"all time high\" in the first quarter of 2026, according to a statement from CEO Sundar Pichai published as part of Alphabet's earnings on Wednesday. \"Our AI investments an",
+        "published": "2026-04-29T16:28:11-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
       },
       {
         "id": "489362c10603bfc1a07dd3a29cf05044",
@@ -1623,32 +1649,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/920351/ai-celebrity-deepfake-ads-tiktok-copyleaks",
         "description": "Scammers are using AI-generated videos of celebrities including Taylor Swift and Rihanna to promote shady services on TikTok, according to authentication company Copyleaks. The ads typically show cele",
         "published": "2026-04-29T10:43:42-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "47945051",
-        "title": "ANP – A binary protocol for AI agent-to-agent price negotiation (no LLM tokens)",
-        "url": "https://github.com/victornominista/anp",
-        "description": "",
-        "published": "2026-04-29T07:08:01Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 5,
-        "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "805fe2d3388416d76a4aaec630eaf710",
-        "title": "China freezes new robotaxi licenses after Baidu chaos",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/920312/china-suspends-autonomous-vehicle-permits-baidu-chaos",
-        "description": "China has suspended new licenses for autonomous vehicles, Bloomberg reports, citing unnamed people familiar with the matter. The move comes after dozens of robotaxis operated by Chinese tech giant Bai",
-        "published": "2026-04-29T06:39:21-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
