@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-30T14:22:34.241295+00:00",
+  "last_updated": "2026-04-30T16:44:43.403501+00:00",
   "total_entries": 110,
-  "new_entries": 0,
+  "new_entries": 8,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -216,34 +216,34 @@
       "is_new": false
     },
     {
-      "id": "9ac17987a01d4044c650a90193377af6",
-      "title": "Amazon is already offering new OpenAI products on AWS",
-      "url": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
-      "description": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
-      "published": "Tue, 28 Apr 2026 19:48:02 +0000",
+      "id": "2075a9a92ad78f5170b055709355a900",
+      "title": "Salesforce is crowdsourcing its AI roadmap — with customers",
+      "url": "https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers/",
+      "description": "Salesforce lets its customers lead its product roadmap with the thinking that if one enterprise customer has a problem, the others likely do too.",
+      "published": "Thu, 30 Apr 2026 16:06:49 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": false
+      "is_new": true
     },
     {
-      "id": "a1231f5b46cc91f6964a23e4226312c0",
-      "title": "Amazon launches an AI-powered audio Q&A experience on product pages",
-      "url": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
-      "description": "Amazon's new \"Join the chat\" feature lets you ask questions about products and receive AI-powered audio responses.",
-      "published": "Tue, 28 Apr 2026 18:49:54 +0000",
+      "id": "91eb9fdec76f3dfd6834bd906b342f9d",
+      "title": "X announces a rebuilt ad platform powered by AI",
+      "url": "https://techcrunch.com/2026/04/30/x-announces-a-rebuilt-ad-platform-powered-by-ai/",
+      "description": "X is rolling out a rebuilt ads platform powered by AI as it works to grow revenue again.",
+      "published": "Thu, 30 Apr 2026 15:14:55 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "b536347c3206cdef8f29c8b26a4a46d6",
       "title": "Meta says its business AI now facilitates 10 million conversations a week",
       "url": "https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/",
-      "description": "Meta said over 8 billion advertisers have used at least one of its gen AI tools",
+      "description": "Meta said over 8 billion advertisers have used at least one of its GenAI tools",
       "published": "Thu, 30 Apr 2026 12:08:45 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
@@ -255,7 +255,7 @@
       "id": "19231aeade95cde020309181fb36f9d9",
       "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
       "url": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
-      "description": "You need infrastructure to build AI a and robots, but apparently you also need AI and robots to build infrastructure.",
+      "description": "You need infrastructure to build AI and robots, but apparently you also need AI and robots to build infrastructure.",
       "published": "Thu, 30 Apr 2026 03:58:22 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
@@ -279,7 +279,7 @@
       "id": "72ba5d8b11befda8fb0b4e4e45a77f8e",
       "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
       "url": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
-      "description": "The maker of Claude has received multiple pre-emptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter.",
+      "description": "The maker of Claude has received multiple preemptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter.",
       "published": "Thu, 30 Apr 2026 00:07:15 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
@@ -768,6 +768,34 @@
       "is_new": false
     },
     {
+      "id": "47964692",
+      "title": "Scaling Pain of Coding Agent Serving: Lessons from Debugging GLM-5 at Scale",
+      "url": "https://z.ai/blog/scaling-pain",
+      "description": "",
+      "published": "2026-04-30T16:15:01Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "47963910",
+      "title": "Show HN: Npx LLM-safe-haven – harden your AI coding agent in 60 seconds",
+      "url": "https://github.com/pleasedodisturb/llm-safe-haven",
+      "description": "",
+      "published": "2026-04-30T15:23:32Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "47962098",
       "title": "SpecD – spec-driven development workflow for AI coding agents",
       "url": "https://github.com/specd-sdd/SpecD",
@@ -782,16 +810,52 @@
       "is_new": false
     },
     {
-      "id": "04d7f3e10def0a0334ba020a490b8fc5",
-      "title": "Google Search queries hit an ‘all time high’ last quarter",
-      "url": "https://www.theverge.com/tech/920815/google-alphabet-q1-2026-earnings-sundar-pichai",
-      "description": "Google Search queries hit an \"all time high\" in the first quarter of 2026, according to a statement from CEO Sundar Pichai published as part of Alphabet's earnings on Wednesday. \"Our AI investments an",
-      "published": "2026-04-30T10:05:12-04:00",
+      "id": "74cdffe7e5df374389a7ff29cfba1c3a",
+      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "description": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni",
+      "published": "2026-04-30T12:41:43-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "d39fa3e96fbe32fc477925ed26b3b4c9",
+      "title": "Here&#8217;s how the new Microsoft and OpenAI deal breaks down",
+      "url": "https://www.theverge.com/tech/921210/microsoft-openai-partnership-divorce-notepad",
+      "description": "Microsoft's relationship with OpenAI has always been complicated, so I expected the close partnership-turned-situationship to end in tears. After all, executive disagreements, rearranged contracts, an",
+      "published": "2026-04-30T12:01:58-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "327b317710341b8dd25fdceda3cefc67",
+      "title": "The more young people use AI, the more they hate it",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai",
+      "description": "It's been almost three years since Silicon Valley started aggressively pushing large language model-based chatbots like ChatGPT as the supposedly inevitable future of everything, and there's no group",
+      "published": "2026-04-30T11:37:44-04:00",
       "source_id": "theverge-ai",
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "6ce49c8bc3e1971a7413e0239274a20f",
+      "title": "All these smart glasses and nothing to do",
+      "url": "https://www.theverge.com/tech/921159/smart-glasses-review-wearable-even-realities-g2-meta-ray-ban-rokid-lucyd-oakley-meta-vanguard",
+      "description": "I'm currently wearing a pair of smart glasses called the Even Realities G2. Another two pairs, from Rokid, sit on my desk. A few feet away, I've got the Meta Ray-Ban Display charging alongside their N",
+      "published": "2026-04-30T09:59:01-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "3b4aec1da535b1e4f31c365bf5fb9cff",
@@ -830,6 +894,18 @@
       "points": 13,
       "comments": 9,
       "is_new": false
+    },
+    {
+      "id": "5f21026c89a31ad9f5bc9acc693495f7",
+      "title": "Gemini is rolling out to cars with Google built-in",
+      "url": "https://www.theverge.com/tech/921117/google-gemini-ai-assistant-cars-upgrade",
+      "description": "Google is preparing to update vehicles that have Google built-in with its Gemini AI assistant. This will be an upgrade from the current Google Assistant according to Google's announcement, and promise",
+      "published": "2026-04-30T08:49:46-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "64ba351946ed6ac5ea8105899a0a6636",
@@ -891,56 +967,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 8,
+      "points": 9,
       "comments": 1,
-      "is_new": false
-    },
-    {
-      "id": "489362c10603bfc1a07dd3a29cf05044",
-      "title": "All the evidence unveiled so far in Musk v. Altman",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
-      "description": "The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are",
-      "published": "2026-04-29T19:59:40-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "39e4cbbc4ec6916db2376c78f3599e11",
-      "title": "Google Photos launches an AI try-on feature for clothes you already have",
-      "url": "https://www.theverge.com/tech/920420/google-photos-ai-try-on-wardrobe",
-      "description": "Google Photos is launching a new AI-powered feature you can use to virtually try on clothes you already have. Using the photos in your gallery, Google will create a virtual \"wardrobe,\" allowing you to",
-      "published": "2026-04-29T16:54:19-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "f68cdc4ceeae6cfa4711fdf44068f858",
-      "title": "Ubuntu’s AI plans have Linux users looking for a &#8216;kill switch&#8217;",
-      "url": "https://www.theverge.com/tech/920723/linux-ubuntu-ai-features-ai-kill-switch",
-      "description": "Canonical's plan to add AI features to Ubuntu has some users asking for \"a version of Ubuntu that does not include these features,\" while others say they'll stick with older versions of the Linux dist",
-      "published": "2026-04-29T13:32:02-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "327b317710341b8dd25fdceda3cefc67",
-      "title": "The more young people use AI, the more they hate it",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai",
-      "description": "It's been almost three years since Silicon Valley started aggressively pushing large language model-based chatbots like ChatGPT as the supposedly inevitable future of everything, and there's no group",
-      "published": "2026-04-29T12:58:51-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
       "is_new": false
     },
     {
@@ -980,7 +1008,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 70,
+      "likes": 71,
       "is_new": false
     },
     {
@@ -1032,7 +1060,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 34,
+      "likes": 35,
       "is_new": false
     },
     {
@@ -1143,7 +1171,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 24,
+      "likes": 32,
       "is_new": false
     },
     {
@@ -1209,7 +1237,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 47,
+      "likes": 48,
       "is_new": false
     },
     {
@@ -1235,7 +1263,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 6,
       "is_new": false
     },
     {
@@ -1262,34 +1290,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 6,
-      "is_new": false
-    },
-    {
-      "id": "47912675",
-      "title": "Show HN: I replaced a memory app with two Markdown files and a Git repo",
-      "url": "https://news.ycombinator.com/item?id=47912675",
-      "description": "",
-      "published": "2026-04-26T18:37:59Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 1,
-      "is_new": false
-    },
-    {
-      "id": "47911522",
-      "title": "Show HN: I made GAI to have LLM agents in Go without heavy frameworks",
-      "url": "https://github.com/lace-ai/gai",
-      "description": "",
-      "published": "2026-04-26T16:27:28Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 0,
       "is_new": false
     }
   ],
@@ -1464,34 +1464,34 @@
         "is_new": false
       },
       {
-        "id": "9ac17987a01d4044c650a90193377af6",
-        "title": "Amazon is already offering new OpenAI products on AWS",
-        "url": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
-        "description": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
-        "published": "Tue, 28 Apr 2026 19:48:02 +0000",
+        "id": "2075a9a92ad78f5170b055709355a900",
+        "title": "Salesforce is crowdsourcing its AI roadmap — with customers",
+        "url": "https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers/",
+        "description": "Salesforce lets its customers lead its product roadmap with the thinking that if one enterprise customer has a problem, the others likely do too.",
+        "published": "Thu, 30 Apr 2026 16:06:49 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
+        "is_new": true
       },
       {
-        "id": "a1231f5b46cc91f6964a23e4226312c0",
-        "title": "Amazon launches an AI-powered audio Q&A experience on product pages",
-        "url": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
-        "description": "Amazon's new \"Join the chat\" feature lets you ask questions about products and receive AI-powered audio responses.",
-        "published": "Tue, 28 Apr 2026 18:49:54 +0000",
+        "id": "91eb9fdec76f3dfd6834bd906b342f9d",
+        "title": "X announces a rebuilt ad platform powered by AI",
+        "url": "https://techcrunch.com/2026/04/30/x-announces-a-rebuilt-ad-platform-powered-by-ai/",
+        "description": "X is rolling out a rebuilt ads platform powered by AI as it works to grow revenue again.",
+        "published": "Thu, 30 Apr 2026 15:14:55 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
+        "is_new": true
       },
       {
         "id": "b536347c3206cdef8f29c8b26a4a46d6",
         "title": "Meta says its business AI now facilitates 10 million conversations a week",
         "url": "https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/",
-        "description": "Meta said over 8 billion advertisers have used at least one of its gen AI tools",
+        "description": "Meta said over 8 billion advertisers have used at least one of its GenAI tools",
         "published": "Thu, 30 Apr 2026 12:08:45 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
@@ -1503,7 +1503,7 @@
         "id": "19231aeade95cde020309181fb36f9d9",
         "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
         "url": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
-        "description": "You need infrastructure to build AI a and robots, but apparently you also need AI and robots to build infrastructure.",
+        "description": "You need infrastructure to build AI and robots, but apparently you also need AI and robots to build infrastructure.",
         "published": "Thu, 30 Apr 2026 03:58:22 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
@@ -1527,13 +1527,41 @@
         "id": "72ba5d8b11befda8fb0b4e4e45a77f8e",
         "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
         "url": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
-        "description": "The maker of Claude has received multiple pre-emptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter.",
+        "description": "The maker of Claude has received multiple preemptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter.",
         "published": "Thu, 30 Apr 2026 00:07:15 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
         "is_new": false
+      },
+      {
+        "id": "47964692",
+        "title": "Scaling Pain of Coding Agent Serving: Lessons from Debugging GLM-5 at Scale",
+        "url": "https://z.ai/blog/scaling-pain",
+        "description": "",
+        "published": "2026-04-30T16:15:01Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 2,
+        "comments": 0,
+        "is_new": true
+      },
+      {
+        "id": "47963910",
+        "title": "Show HN: Npx LLM-safe-haven – harden your AI coding agent in 60 seconds",
+        "url": "https://github.com/pleasedodisturb/llm-safe-haven",
+        "description": "",
+        "published": "2026-04-30T15:23:32Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 1,
+        "comments": 0,
+        "is_new": true
       },
       {
         "id": "47962098",
@@ -1550,16 +1578,52 @@
         "is_new": false
       },
       {
-        "id": "04d7f3e10def0a0334ba020a490b8fc5",
-        "title": "Google Search queries hit an ‘all time high’ last quarter",
-        "url": "https://www.theverge.com/tech/920815/google-alphabet-q1-2026-earnings-sundar-pichai",
-        "description": "Google Search queries hit an \"all time high\" in the first quarter of 2026, according to a statement from CEO Sundar Pichai published as part of Alphabet's earnings on Wednesday. \"Our AI investments an",
-        "published": "2026-04-30T10:05:12-04:00",
+        "id": "74cdffe7e5df374389a7ff29cfba1c3a",
+        "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+        "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+        "description": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni",
+        "published": "2026-04-30T12:41:43-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "d39fa3e96fbe32fc477925ed26b3b4c9",
+        "title": "Here&#8217;s how the new Microsoft and OpenAI deal breaks down",
+        "url": "https://www.theverge.com/tech/921210/microsoft-openai-partnership-divorce-notepad",
+        "description": "Microsoft's relationship with OpenAI has always been complicated, so I expected the close partnership-turned-situationship to end in tears. After all, executive disagreements, rearranged contracts, an",
+        "published": "2026-04-30T12:01:58-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "327b317710341b8dd25fdceda3cefc67",
+        "title": "The more young people use AI, the more they hate it",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai",
+        "description": "It's been almost three years since Silicon Valley started aggressively pushing large language model-based chatbots like ChatGPT as the supposedly inevitable future of everything, and there's no group",
+        "published": "2026-04-30T11:37:44-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
         "is_new": false
+      },
+      {
+        "id": "6ce49c8bc3e1971a7413e0239274a20f",
+        "title": "All these smart glasses and nothing to do",
+        "url": "https://www.theverge.com/tech/921159/smart-glasses-review-wearable-even-realities-g2-meta-ray-ban-rokid-lucyd-oakley-meta-vanguard",
+        "description": "I'm currently wearing a pair of smart glasses called the Even Realities G2. Another two pairs, from Rokid, sit on my desk. A few feet away, I've got the Meta Ray-Ban Display charging alongside their N",
+        "published": "2026-04-30T09:59:01-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
       },
       {
         "id": "3b4aec1da535b1e4f31c365bf5fb9cff",
@@ -1597,70 +1661,6 @@
         "category": "news",
         "points": 13,
         "comments": 9,
-        "is_new": false
-      },
-      {
-        "id": "64ba351946ed6ac5ea8105899a0a6636",
-        "title": "Elon Musk’s worst enemy in court is Elon Musk",
-        "url": "https://www.theverge.com/tech/921022/elon-musk-cross-openai-altman",
-        "description": "About five hours into Elon Musk's testimony, I typed the following sentence into my notes: \"I have never been more sympathetic to Sam Altman in my life.\" Musk's direct testimony was an improvement ove",
-        "published": "2026-04-30T08:04:42-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "b794f0d698661fddd7d562ca2a273944",
-        "title": "Meta lost 20 million users last quarter",
-        "url": "https://www.theverge.com/tech/921089/meta-earnings-q1-2026-user-decline-ai-investments",
-        "description": "Meta is planning to pump billions more into AI investments this year, despite noting that millions of users have seemingly started to abandon its platforms. In an earning call on Wednesday, Meta repor",
-        "published": "2026-04-30T07:49:17-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "d1785dcca7165d3107f312b62ecb96e4",
-        "title": "OpenAI’s new security model is for ‘critical cyber defenders’ only",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/921073/openai-sam-altman-new-cybersecurity-model-gpt-5-5-cyber",
-        "description": "OpenAI is preparing to launch a new frontier cybersecurity model, GPT-5.5-Cyber. CEO Sam Altman said the model will not be available to the general public, but will be first rolled out to a select gro",
-        "published": "2026-04-30T07:13:54-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "47959169",
-        "title": "Ask HN: Anyone using AI agents for active learning sprints? Here's my setup",
-        "url": "https://news.ycombinator.com/item?id=47959169",
-        "description": "",
-        "published": "2026-04-30T07:03:38Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 4,
-        "comments": 2,
-        "is_new": false
-      },
-      {
-        "id": "47955083",
-        "title": "Scaling Pain of Coding Agent Serving: Lessons from Debugging GLM-5 at Scale",
-        "url": "https://z.ai/blog/scaling-pain",
-        "description": "",
-        "published": "2026-04-29T21:37:56Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 8,
-        "comments": 1,
         "is_new": false
       }
     ],
