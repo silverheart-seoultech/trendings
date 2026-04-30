@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-29T23:08:47.247411+00:00",
+  "last_updated": "2026-04-30T00:06:21.159200+00:00",
   "total_entries": 110,
-  "new_entries": 6,
+  "new_entries": 10,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -48,6 +48,42 @@
   ],
   "entries": [
     {
+      "id": "2fd0f913074f1c0d6867e91c9b5c449c",
+      "title": "On the stand, Elon Musk can’t escape his own tweets",
+      "url": "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/",
+      "description": "Elon Musk took the stand for the second day for his attempt to legally dismantle OpenAI.",
+      "published": "Wed, 29 Apr 2026 23:58:36 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "88881a095ddd7ffa20801071e05d060d",
+      "title": "Meta is still burning money on AR/VR",
+      "url": "https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/",
+      "description": "Meta is losing billions on Reality Labs each quarter, and its AI expenditures are only going to increase its spending.",
+      "published": "Wed, 29 Apr 2026 23:58:26 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "a53ee15b652a09bea95cc5b07a449b9f",
+      "title": "Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal",
+      "url": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
+      "description": "Microsoft gets to offer OpenAI's tech to its cloud customers and doesn't have to pay for it. \"We fully plan to exploit it,\" Nadella said.",
+      "published": "Wed, 29 Apr 2026 23:55:23 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "0ab605f52bd65743ea4538e555324e08",
       "title": "Microsoft says it has over 20M paid Copilot users, and they really are using it",
       "url": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
@@ -61,7 +97,7 @@
     },
     {
       "id": "14fce012f39276178f8affa821dfbaf3",
-      "title": "Google Cloud surpasses $20B but says growth was capacity-constrained",
+      "title": "Google Cloud surpasses $20B, but says growth was capacity-constrained",
       "url": "https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/",
       "description": "Google Cloud topped $20B in quarterly revenue for the first time, fueled by surging demand for AI. But capacity constraints mean it could have grown even faster.",
       "published": "Wed, 29 Apr 2026 22:20:48 +0000",
@@ -732,42 +768,6 @@
       "is_new": false
     },
     {
-      "id": "7d0974adc690bf4c9ca2e137175cf8cf",
-      "title": "Red Hat’s OpenClaw maintainer just made enterprise Claw deployments a lot safer",
-      "url": "https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/",
-      "description": "Tank OS puts OpenClaw AI agents into a container that lets it run reliably and more safely, especially for those running fleets of them.",
-      "published": "Tue, 28 Apr 2026 13:00:00 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "a661bb0d21fbb6522db0a0d618569223",
-      "title": "Otter’s new feature lets users search across their enterprise tools",
-      "url": "https://techcrunch.com/2026/04/28/otters-new-feature-lets-users-search-across-their-enterprise-tools/",
-      "description": "With this launch, users can connect their Gmail, Google Drive, Notion, Jira, and Salesforce accounts and query that data along with existing meeting data. The company said that it will soon allow conn",
-      "published": "Tue, 28 Apr 2026 12:00:00 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "cd10cd32bf8a97f79401fee6bed1ff62",
-      "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
-      "url": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
-      "description": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft gets more cash in a revenue-share agreement.",
-      "published": "Mon, 27 Apr 2026 17:40:38 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "47955083",
       "title": "Scaling Pain of Coding Agent Serving: Lessons from Debugging GLM-5 at Scale",
       "url": "https://z.ai/blog/scaling-pain",
@@ -777,8 +777,20 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 5,
+      "points": 7,
       "comments": 1,
+      "is_new": true
+    },
+    {
+      "id": "64ba351946ed6ac5ea8105899a0a6636",
+      "title": "Elon Musk’s worst enemy in court is Elon Musk",
+      "url": "https://www.theverge.com/tech/921022/elon-musk-cross-openai-altman",
+      "description": "About five hours into Elon Musk's testimony, I typed the following sentence into my notes: \"I have never been more sympathetic to Sam Altman in my life.\" Musk's direct testimony was an improvement ove",
+      "published": "2026-04-29T20:05:13-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
       "is_new": true
     },
     {
@@ -786,7 +798,7 @@
       "title": "All the evidence unveiled so far in Musk v. Altman",
       "url": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
       "description": "The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are",
-      "published": "2026-04-29T18:34:15-04:00",
+      "published": "2026-04-29T19:59:40-04:00",
       "source_id": "theverge-ai",
       "source_name": "The Verge AI",
       "source_icon": "📰",
@@ -798,7 +810,7 @@
       "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
       "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
       "description": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni",
-      "published": "2026-04-29T17:44:21-04:00",
+      "published": "2026-04-29T19:52:01-04:00",
       "source_id": "theverge-ai",
       "source_name": "The Verge AI",
       "source_icon": "📰",
@@ -901,18 +913,6 @@
       "category": "news",
       "points": 5,
       "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "805fe2d3388416d76a4aaec630eaf710",
-      "title": "China freezes new robotaxi licenses after Baidu chaos",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/920312/china-suspends-autonomous-vehicle-permits-baidu-chaos",
-      "description": "China has suspended new licenses for autonomous vehicles, Bloomberg reports, citing unnamed people familiar with the matter. The move comes after dozens of robotaxis operated by Chinese tech giant Bai",
-      "published": "2026-04-29T06:39:21-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
       "is_new": false
     },
     {
@@ -1219,7 +1219,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 10,
+      "likes": 11,
       "is_new": false
     },
     {
@@ -1294,6 +1294,42 @@
   "by_category": {
     "news": [
       {
+        "id": "2fd0f913074f1c0d6867e91c9b5c449c",
+        "title": "On the stand, Elon Musk can’t escape his own tweets",
+        "url": "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/",
+        "description": "Elon Musk took the stand for the second day for his attempt to legally dismantle OpenAI.",
+        "published": "Wed, 29 Apr 2026 23:58:36 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "88881a095ddd7ffa20801071e05d060d",
+        "title": "Meta is still burning money on AR/VR",
+        "url": "https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/",
+        "description": "Meta is losing billions on Reality Labs each quarter, and its AI expenditures are only going to increase its spending.",
+        "published": "Wed, 29 Apr 2026 23:58:26 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "a53ee15b652a09bea95cc5b07a449b9f",
+        "title": "Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal",
+        "url": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
+        "description": "Microsoft gets to offer OpenAI's tech to its cloud customers and doesn't have to pay for it. \"We fully plan to exploit it,\" Nadella said.",
+        "published": "Wed, 29 Apr 2026 23:55:23 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "0ab605f52bd65743ea4538e555324e08",
         "title": "Microsoft says it has over 20M paid Copilot users, and they really are using it",
         "url": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
@@ -1307,7 +1343,7 @@
       },
       {
         "id": "14fce012f39276178f8affa821dfbaf3",
-        "title": "Google Cloud surpasses $20B but says growth was capacity-constrained",
+        "title": "Google Cloud surpasses $20B, but says growth was capacity-constrained",
         "url": "https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/",
         "description": "Google Cloud topped $20B in quarterly revenue for the first time, fueled by surging demand for AI. But capacity constraints mean it could have grown even faster.",
         "published": "Wed, 29 Apr 2026 22:20:48 +0000",
@@ -1498,42 +1534,6 @@
         "is_new": false
       },
       {
-        "id": "7d0974adc690bf4c9ca2e137175cf8cf",
-        "title": "Red Hat’s OpenClaw maintainer just made enterprise Claw deployments a lot safer",
-        "url": "https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/",
-        "description": "Tank OS puts OpenClaw AI agents into a container that lets it run reliably and more safely, especially for those running fleets of them.",
-        "published": "Tue, 28 Apr 2026 13:00:00 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "a661bb0d21fbb6522db0a0d618569223",
-        "title": "Otter’s new feature lets users search across their enterprise tools",
-        "url": "https://techcrunch.com/2026/04/28/otters-new-feature-lets-users-search-across-their-enterprise-tools/",
-        "description": "With this launch, users can connect their Gmail, Google Drive, Notion, Jira, and Salesforce accounts and query that data along with existing meeting data. The company said that it will soon allow conn",
-        "published": "Tue, 28 Apr 2026 12:00:00 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "cd10cd32bf8a97f79401fee6bed1ff62",
-        "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
-        "url": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
-        "description": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft gets more cash in a revenue-share agreement.",
-        "published": "Mon, 27 Apr 2026 17:40:38 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
         "id": "47955083",
         "title": "Scaling Pain of Coding Agent Serving: Lessons from Debugging GLM-5 at Scale",
         "url": "https://z.ai/blog/scaling-pain",
@@ -1543,8 +1543,20 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 5,
+        "points": 7,
         "comments": 1,
+        "is_new": true
+      },
+      {
+        "id": "64ba351946ed6ac5ea8105899a0a6636",
+        "title": "Elon Musk’s worst enemy in court is Elon Musk",
+        "url": "https://www.theverge.com/tech/921022/elon-musk-cross-openai-altman",
+        "description": "About five hours into Elon Musk's testimony, I typed the following sentence into my notes: \"I have never been more sympathetic to Sam Altman in my life.\" Musk's direct testimony was an improvement ove",
+        "published": "2026-04-29T20:05:13-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
         "is_new": true
       },
       {
@@ -1552,7 +1564,7 @@
         "title": "All the evidence unveiled so far in Musk v. Altman",
         "url": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
         "description": "The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are",
-        "published": "2026-04-29T18:34:15-04:00",
+        "published": "2026-04-29T19:59:40-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
@@ -1564,7 +1576,7 @@
         "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
         "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
         "description": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni",
-        "published": "2026-04-29T17:44:21-04:00",
+        "published": "2026-04-29T19:52:01-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
@@ -1637,18 +1649,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/920476/openai-chatgpt-downloads-slow-down-ipo",
         "description": "ChatGPT is struggling to keep up its once-explosive growth as users uninstall the app or opt for rival chatbots instead. According to data from market intelligence firm Sensor Tower, ChatGPT experienc",
         "published": "2026-04-29T10:51:17-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "f2f442e7b709ef7f953906ed25b711b4",
-        "title": "Taylor Swift deepfakes are pushing scams on TikTok",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/920351/ai-celebrity-deepfake-ads-tiktok-copyleaks",
-        "description": "Scammers are using AI-generated videos of celebrities including Taylor Swift and Rihanna to promote shady services on TikTok, according to authentication company Copyleaks. The ads typically show cele",
-        "published": "2026-04-29T10:43:42-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
