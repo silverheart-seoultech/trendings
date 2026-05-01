@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-01T15:14:12.678968+00:00",
+  "last_updated": "2026-05-01T16:08:35.081773+00:00",
   "total_entries": 108,
-  "new_entries": 5,
+  "new_entries": 6,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -53,18 +53,6 @@
       "url": "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/",
       "description": "Elon Musk took the stand for the second day for his attempt to legally dismantle OpenAI.",
       "published": "Wed, 29 Apr 2026 23:58:36 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "88881a095ddd7ffa20801071e05d060d",
-      "title": "Meta is still burning money on AR/VR",
-      "url": "https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/",
-      "description": "Meta is losing billions on Reality Labs each quarter, and its AI expenditures are only going to increase its spending.",
-      "published": "Wed, 29 Apr 2026 23:58:26 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
@@ -250,6 +238,18 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "f9eee99f5f6567b6f2c84608ce0c388d",
+      "title": "Pentagon inks deals with Nvidia, Microsoft and AWS to deploy AI on classified networks",
+      "url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+      "description": "The deals come as the DoD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.",
+      "published": "Fri, 01 May 2026 16:02:36 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "d02cf6c66a2352d5e5614d2eb22a7bfc",
@@ -753,7 +753,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 1,
+      "points": 2,
       "comments": 1,
       "is_new": false
     },
@@ -779,8 +779,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 1,
-      "comments": 0,
+      "points": 10,
+      "comments": 1,
       "is_new": false
     },
     {
@@ -1156,7 +1156,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 65,
+      "likes": 66,
       "is_new": false
     },
     {
@@ -1235,7 +1235,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 30,
+      "likes": 33,
       "is_new": false
     },
     {
@@ -1302,18 +1302,6 @@
         "url": "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/",
         "description": "Elon Musk took the stand for the second day for his attempt to legally dismantle OpenAI.",
         "published": "Wed, 29 Apr 2026 23:58:36 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "88881a095ddd7ffa20801071e05d060d",
-        "title": "Meta is still burning money on AR/VR",
-        "url": "https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/",
-        "description": "Meta is losing billions on Reality Labs each quarter, and its AI expenditures are only going to increase its spending.",
-        "published": "Wed, 29 Apr 2026 23:58:26 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
@@ -1501,6 +1489,18 @@
         "is_new": false
       },
       {
+        "id": "f9eee99f5f6567b6f2c84608ce0c388d",
+        "title": "Pentagon inks deals with Nvidia, Microsoft and AWS to deploy AI on classified networks",
+        "url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+        "description": "The deals come as the DoD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.",
+        "published": "Fri, 01 May 2026 16:02:36 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "d02cf6c66a2352d5e5614d2eb22a7bfc",
         "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
         "url": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
@@ -1522,7 +1522,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 1,
+        "points": 2,
         "comments": 1,
         "is_new": false
       },
@@ -1548,8 +1548,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 1,
-        "comments": 0,
+        "points": 10,
+        "comments": 1,
         "is_new": false
       },
       {
