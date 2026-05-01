@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-01T04:13:35.785800+00:00",
+  "last_updated": "2026-05-01T06:44:26.938843+00:00",
   "total_entries": 108,
-  "new_entries": 42,
+  "new_entries": 45,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -753,7 +753,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 3,
+      "points": 4,
       "comments": 2,
       "is_new": false
     },
@@ -767,7 +767,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 73,
+      "points": 75,
       "comments": 21,
       "is_new": false
     },
@@ -930,8 +930,21 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 4,
-      "comments": 2,
+      "comments": 3,
       "is_new": false
+    },
+    {
+      "id": "d60b4725a88655c6246000680e972e30",
+      "title": "Claw-Eval-Live: A Live Agent Benchmark for Evolving Real-World Workflows",
+      "url": "https://huggingface.co/papers/2604.28139",
+      "description": "LLM agents are expected to complete end-to-end units of work across software tools, business services, and local workspaces. Yet many agent benchmarks freeze a curated task set at release time and gra",
+      "published": "2026-04-29T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
     },
     {
       "id": "48b7c50e2326dce36965339cce9f94ae",
@@ -943,7 +956,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 10,
       "is_new": true
     },
     {
@@ -956,7 +969,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 18,
       "is_new": true
     },
     {
@@ -969,7 +982,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -1021,7 +1034,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
+      "likes": 8,
       "is_new": false
     },
     {
@@ -1047,7 +1060,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 23,
+      "likes": 45,
       "is_new": false
     },
     {
@@ -1060,7 +1073,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 45,
+      "likes": 85,
       "is_new": false
     },
     {
@@ -1073,7 +1086,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 6,
       "is_new": false
     },
     {
@@ -1091,6 +1104,32 @@
       "is_new": false
     },
     {
+      "id": "16fba54c439f6a003a08cdffe86eea19",
+      "title": "Efficient Training on Multiple Consumer GPUs with RoundPipe",
+      "url": "https://huggingface.co/papers/2604.27085",
+      "description": "Fine-tuning Large Language Models (LLMs) on consumer-grade GPUs is highly cost-effective, yet constrained by limited GPU memory and slow PCIe interconnects. Pipeline parallelism combined with CPU offl",
+      "published": "2026-04-28T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 11,
+      "is_new": true
+    },
+    {
+      "id": "2a1ac39538e978e4cab95de5bd2f2c05",
+      "title": "Length Value Model: Scalable Value Pretraining for Token-Level Length Modeling",
+      "url": "https://huggingface.co/papers/2604.27039",
+      "description": "Token serves as the fundamental unit of computation in modern autoregressive models, and generation length directly influences both inference cost and reasoning performance. Despite its importance, ex",
+      "published": "2026-04-28T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 13,
+      "is_new": true
+    },
+    {
       "id": "1ac13a9409121d697bcab0d3bb963d1d",
       "title": "Co-Evolving Policy Distillation",
       "url": "https://huggingface.co/papers/2604.27083",
@@ -1100,7 +1139,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 16,
       "is_new": false
     },
     {
@@ -1113,7 +1152,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -1251,45 +1290,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 6,
-      "is_new": false
-    },
-    {
-      "id": "ba25a169d7040178e8df4f034c9386bb",
-      "title": "Operating-Layer Controls for Onchain Language-Model Agents Under Real Capital",
-      "url": "https://huggingface.co/papers/2604.26091",
-      "description": "We study reliability in autonomous language-model agents that translate user mandates into validated tool actions under real capital. The setting is DX Terminal Pro, a 21-day deployment in which 3,505",
-      "published": "2026-04-27T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
-      "is_new": false
-    },
-    {
-      "id": "8c55828422113291d5b0fc6c2b81bb5f",
-      "title": "Praxy Voice: Voice-Prompt Recovery + BUPS for Commercial-Class Indic TTS from a Frozen Non-Indic Base at Zero Commercial-Training-Data Cost",
-      "url": "https://huggingface.co/papers/2604.25441",
-      "description": "Commercial TTS systems produce near-native Indic audio, but the best open-source bases (Chatterbox, Indic Parler-TTS, IndicF5) trail them on measured phonological dimensions, and the most widely adopt",
-      "published": "2026-04-27T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "22bb7abbaae5c6d9a55f94d4515dcddc",
-      "title": "PSP: An Interpretable Per-Dimension Accent Benchmark for Indic Text-to-Speech",
-      "url": "https://huggingface.co/papers/2604.25476",
-      "description": "Standard text-to-speech (TTS) evaluation measures intelligibility (WER, CER) and overall naturalness (MOS, UTMOS) but does not quantify accent. A synthesiser may score well on all four yet sound non-n",
-      "published": "2026-04-27T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
       "is_new": false
     }
   ],
@@ -1521,7 +1521,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 3,
+        "points": 4,
         "comments": 2,
         "is_new": false
       },
@@ -1535,7 +1535,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 73,
+        "points": 75,
         "comments": 21,
         "is_new": false
       },
