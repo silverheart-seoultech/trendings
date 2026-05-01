@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-01T09:06:24.275367+00:00",
+  "last_updated": "2026-05-01T10:42:03.808197+00:00",
   "total_entries": 108,
-  "new_entries": 0,
+  "new_entries": 3,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -744,6 +744,20 @@
       "is_new": false
     },
     {
+      "id": "47973093",
+      "title": "Show HN: Loopsy, a way for terminals and AI agents on different machines to talk",
+      "url": "https://github.com/leox255/loopsy",
+      "description": "",
+      "published": "2026-05-01T10:25:41Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "47972142",
       "title": "Show HN: Git Shield – local hooks for secrets and PII",
       "url": "https://news.ycombinator.com/item?id=47972142",
@@ -755,6 +769,18 @@
       "category": "news",
       "points": 2,
       "comments": 0,
+      "is_new": false
+    },
+    {
+      "id": "6ce49c8bc3e1971a7413e0239274a20f",
+      "title": "All these smart glasses and nothing to do",
+      "url": "https://www.theverge.com/tech/921159/smart-glasses-review-wearable-even-realities-g2-meta-ray-ban-rokid-lucyd-oakley-meta-vanguard",
+      "description": "I'm currently wearing a pair of smart glasses called the Even Realities G2. Another two pairs, from Rokid, sit on my desk. A few feet away, I've got the Meta Ray-Ban Display charging alongside their N",
+      "published": "2026-05-01T06:32:20-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
       "is_new": false
     },
     {
@@ -781,7 +807,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 77,
+      "points": 81,
       "comments": 21,
       "is_new": false
     },
@@ -886,18 +912,6 @@
       "is_new": false
     },
     {
-      "id": "6ce49c8bc3e1971a7413e0239274a20f",
-      "title": "All these smart glasses and nothing to do",
-      "url": "https://www.theverge.com/tech/921159/smart-glasses-review-wearable-even-realities-g2-meta-ray-ban-rokid-lucyd-oakley-meta-vanguard",
-      "description": "I'm currently wearing a pair of smart glasses called the Even Realities G2. Another two pairs, from Rokid, sit on my desk. A few feet away, I've got the Meta Ray-Ban Display charging alongside their N",
-      "published": "2026-04-30T09:59:01-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "3b4aec1da535b1e4f31c365bf5fb9cff",
       "title": "OpenAI talks about not talking about goblins",
       "url": "https://www.theverge.com/ai-artificial-intelligence/921181/openai-codex-goblins",
@@ -962,6 +976,20 @@
       "is_new": false
     },
     {
+      "id": "47955083",
+      "title": "Scaling Pain of Coding Agent Serving: Lessons from Debugging GLM-5 at Scale",
+      "url": "https://z.ai/blog/scaling-pain",
+      "description": "",
+      "published": "2026-04-29T21:37:56Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 10,
+      "comments": 1,
+      "is_new": true
+    },
+    {
       "id": "d60b4725a88655c6246000680e972e30",
       "title": "Claw-Eval-Live: A Live Agent Benchmark for Evolving Real-World Workflows",
       "url": "https://huggingface.co/papers/2604.28139",
@@ -971,7 +999,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 14,
       "is_new": false
     },
     {
@@ -984,7 +1012,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 12,
+      "likes": 14,
       "is_new": false
     },
     {
@@ -997,7 +1025,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 24,
+      "likes": 26,
       "is_new": false
     },
     {
@@ -1101,7 +1129,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 121,
+      "likes": 141,
       "is_new": false
     },
     {
@@ -1132,6 +1160,19 @@
       "is_new": false
     },
     {
+      "id": "d7b92a29e2d1e8c5ee08e233d6df3ad2",
+      "title": "Compliance versus Sensibility: On the Reasoning Controllability in Large Language Models",
+      "url": "https://huggingface.co/papers/2604.27251",
+      "description": "Large Language Models (LLMs) are known to acquire reasoning capabilities through shared inference patterns in pre-training data, which are further elicited via Chain-of-Thought (CoT) practices. Howeve",
+      "published": "2026-04-28T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
+    },
+    {
       "id": "16fba54c439f6a003a08cdffe86eea19",
       "title": "Efficient Training on Multiple Consumer GPUs with RoundPipe",
       "url": "https://huggingface.co/papers/2604.27085",
@@ -1141,7 +1182,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 13,
+      "likes": 15,
       "is_new": false
     },
     {
@@ -1154,7 +1195,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 14,
+      "likes": 15,
       "is_new": false
     },
     {
@@ -1167,7 +1208,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 22,
+      "likes": 23,
       "is_new": false
     },
     {
@@ -1249,48 +1290,6 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 1,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "47933355",
-      "title": "$38k AWS Bedrock bill caused by a simple prompt caching miss",
-      "url": "https://news.ycombinator.com/item?id=47933355",
-      "description": "",
-      "published": "2026-04-28T12:07:40Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 7,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "47931761",
-      "title": "Show HN: Bumpy – versioning/changelog tool, fixed 120 open changesets issues",
-      "url": "https://github.com/dmno-dev/bumpy",
-      "description": "",
-      "published": "2026-04-28T08:19:37Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 5,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "47931728",
-      "title": "Show HN: I built a way to see if your SDK is AI-friendly",
-      "url": "https://news.ycombinator.com/item?id=47931728",
-      "description": "",
-      "published": "2026-04-28T08:13:12Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 4,
       "comments": 0,
       "is_new": false
     }
@@ -1514,6 +1513,20 @@
         "is_new": false
       },
       {
+        "id": "47973093",
+        "title": "Show HN: Loopsy, a way for terminals and AI agents on different machines to talk",
+        "url": "https://github.com/leox255/loopsy",
+        "description": "",
+        "published": "2026-05-01T10:25:41Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 1,
+        "comments": 0,
+        "is_new": true
+      },
+      {
         "id": "47972142",
         "title": "Show HN: Git Shield – local hooks for secrets and PII",
         "url": "https://news.ycombinator.com/item?id=47972142",
@@ -1525,6 +1538,18 @@
         "category": "news",
         "points": 2,
         "comments": 0,
+        "is_new": false
+      },
+      {
+        "id": "6ce49c8bc3e1971a7413e0239274a20f",
+        "title": "All these smart glasses and nothing to do",
+        "url": "https://www.theverge.com/tech/921159/smart-glasses-review-wearable-even-realities-g2-meta-ray-ban-rokid-lucyd-oakley-meta-vanguard",
+        "description": "I'm currently wearing a pair of smart glasses called the Even Realities G2. Another two pairs, from Rokid, sit on my desk. A few feet away, I've got the Meta Ray-Ban Display charging alongside their N",
+        "published": "2026-05-01T06:32:20-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
         "is_new": false
       },
       {
@@ -1551,7 +1576,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 77,
+        "points": 81,
         "comments": 21,
         "is_new": false
       },
@@ -1637,30 +1662,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/915970/meta-manus-ai-ads-website-slop",
         "description": "Manus, an AI company Meta acquired for $2 billion last year is running ads promising quick, easy money with AI: Find local businesses without websites or with bad websites, have AI build them one, the",
         "published": "2026-04-30T12:48:13-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "d39fa3e96fbe32fc477925ed26b3b4c9",
-        "title": "Here&#8217;s how the new Microsoft and OpenAI deal breaks down",
-        "url": "https://www.theverge.com/tech/921210/microsoft-openai-partnership-divorce-notepad",
-        "description": "Microsoft's relationship with OpenAI has always been complicated, so I expected the close partnership-turned-situationship to end in tears. After all, executive disagreements, rearranged contracts, an",
-        "published": "2026-04-30T12:01:58-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "6ce49c8bc3e1971a7413e0239274a20f",
-        "title": "All these smart glasses and nothing to do",
-        "url": "https://www.theverge.com/tech/921159/smart-glasses-review-wearable-even-realities-g2-meta-ray-ban-rokid-lucyd-oakley-meta-vanguard",
-        "description": "I'm currently wearing a pair of smart glasses called the Even Realities G2. Another two pairs, from Rokid, sit on my desk. A few feet away, I've got the Meta Ray-Ban Display charging alongside their N",
-        "published": "2026-04-30T09:59:01-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
