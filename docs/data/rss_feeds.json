@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-01T17:11:35.507316+00:00",
+  "last_updated": "2026-05-01T18:09:44.396358+00:00",
   "total_entries": 108,
-  "new_entries": 7,
+  "new_entries": 10,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,18 +47,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "2fd0f913074f1c0d6867e91c9b5c449c",
-      "title": "On the stand, Elon Musk can’t escape his own tweets",
-      "url": "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/",
-      "description": "Elon Musk took the stand for the second day for his attempt to legally dismantle OpenAI.",
-      "published": "Wed, 29 Apr 2026 23:58:36 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
     {
       "id": "e0cea1ae2c83c7ba34129635b04194a9",
       "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
@@ -228,16 +216,16 @@
       "is_new": false
     },
     {
-      "id": "72ba5d8b11befda8fb0b4e4e45a77f8e",
-      "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
-      "url": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
-      "description": "The maker of Claude has received multiple preemptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter.",
-      "published": "Thu, 30 Apr 2026 00:07:15 +0000",
+      "id": "f15b72a01048fe273d7afd7a39b83555",
+      "title": "Did you know you can’t steal a charity? Don’t worry. Elon Musk will remind you.",
+      "url": "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/",
+      "description": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it’s already getting messy. Emails, texts, and his own tweets are surfacing in court, an",
+      "published": "Fri, 01 May 2026 17:44:29 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "f9eee99f5f6567b6f2c84608ce0c388d",
@@ -245,6 +233,18 @@
       "url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
       "description": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.",
       "published": "Fri, 01 May 2026 16:02:36 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "c993597b3fe50e108bdb7b5dd8ab1aef",
+      "title": "Musk v. Altman is just getting started",
+      "url": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/",
+      "description": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it’s already getting messy. Emails, texts, and his own tweets are surfacing in court, an",
+      "published": "Fri, 01 May 2026 14:00:00 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
@@ -805,8 +805,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 15,
-      "comments": 2,
+      "points": 25,
+      "comments": 6,
       "is_new": false
     },
     {
@@ -895,7 +895,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 87,
+      "points": 88,
       "comments": 22,
       "is_new": false
     },
@@ -1079,7 +1079,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 30,
+      "likes": 31,
       "is_new": false
     },
     {
@@ -1161,19 +1161,6 @@
       "is_new": false
     },
     {
-      "id": "164bbeae98c56b1dce54efb162c54de6",
-      "title": "Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling",
-      "url": "https://huggingface.co/papers/2604.28185",
-      "description": "Recent visual generation models have made major progress in photorealism, typography, instruction following, and interactive editing, yet they still struggle with spatial reasoning, persistent state, ",
-      "published": "2026-04-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 68,
-      "is_new": false
-    },
-    {
       "id": "47945051",
       "title": "ANP – A binary protocol for AI agent-to-agent price negotiation (no LLM tokens)",
       "url": "https://github.com/victornominista/anp",
@@ -1186,6 +1173,19 @@
       "points": 5,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "3954a922cab3931d4b29c8942933ca55",
+      "title": "Step-level Optimization for Efficient Computer-use Agents",
+      "url": "https://huggingface.co/papers/2604.27151",
+      "description": "Computer-use agents provide a promising path toward general software automation because they can interact directly with arbitrary graphical user interfaces instead of relying on brittle, application-s",
+      "published": "2026-04-28T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
     },
     {
       "id": "aa1850ae1a69918a1f8fd4413959f86c",
@@ -1223,7 +1223,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 21,
+      "likes": 23,
       "is_new": false
     },
     {
@@ -1296,18 +1296,6 @@
   ],
   "by_category": {
     "news": [
-      {
-        "id": "2fd0f913074f1c0d6867e91c9b5c449c",
-        "title": "On the stand, Elon Musk can’t escape his own tweets",
-        "url": "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/",
-        "description": "Elon Musk took the stand for the second day for his attempt to legally dismantle OpenAI.",
-        "published": "Wed, 29 Apr 2026 23:58:36 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
       {
         "id": "e0cea1ae2c83c7ba34129635b04194a9",
         "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
@@ -1477,16 +1465,16 @@
         "is_new": false
       },
       {
-        "id": "72ba5d8b11befda8fb0b4e4e45a77f8e",
-        "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
-        "url": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
-        "description": "The maker of Claude has received multiple preemptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter.",
-        "published": "Thu, 30 Apr 2026 00:07:15 +0000",
+        "id": "f15b72a01048fe273d7afd7a39b83555",
+        "title": "Did you know you can’t steal a charity? Don’t worry. Elon Musk will remind you.",
+        "url": "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/",
+        "description": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it’s already getting messy. Emails, texts, and his own tweets are surfacing in court, an",
+        "published": "Fri, 01 May 2026 17:44:29 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
+        "is_new": true
       },
       {
         "id": "f9eee99f5f6567b6f2c84608ce0c388d",
@@ -1494,6 +1482,18 @@
         "url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
         "description": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.",
         "published": "Fri, 01 May 2026 16:02:36 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "c993597b3fe50e108bdb7b5dd8ab1aef",
+        "title": "Musk v. Altman is just getting started",
+        "url": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/",
+        "description": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it’s already getting messy. Emails, texts, and his own tweets are surfacing in court, an",
+        "published": "Fri, 01 May 2026 14:00:00 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
@@ -1574,8 +1574,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 15,
-        "comments": 2,
+        "points": 25,
+        "comments": 6,
         "is_new": false
       },
       {
@@ -1664,7 +1664,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 87,
+        "points": 88,
         "comments": 22,
         "is_new": false
       }
