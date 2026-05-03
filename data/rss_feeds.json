@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-03T17:05:40.343229+00:00",
+  "last_updated": "2026-05-03T18:00:49.429405+00:00",
   "total_entries": 68,
-  "new_entries": 0,
+  "new_entries": 3,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -156,16 +156,16 @@
       "is_new": false
     },
     {
-      "id": "2075a9a92ad78f5170b055709355a900",
-      "title": "Salesforce is crowdsourcing its AI roadmap — with customers",
-      "url": "https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers/",
-      "description": "Salesforce lets its customers lead its product roadmap with the thinking that if one enterprise customer has a problem, the others likely do too.",
-      "published": "Thu, 30 Apr 2026 16:06:49 +0000",
+      "id": "452d5889b4ba66fa60e4c61295ff3347",
+      "title": "In Harvard study, AI offered more accurate diagnoses than emergency room doctors",
+      "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+      "description": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
+      "published": "Sun, 03 May 2026 18:00:09 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "4ce3b826e9fa794a263bd68ad99e9cdb",
@@ -368,6 +368,20 @@
       "is_new": false
     },
     {
+      "id": "47973443",
+      "title": "Show HN: \"Woo\", a multi-user world for agents",
+      "url": "https://woo.hughpyle.workers.dev/",
+      "description": "",
+      "published": "2026-05-01T11:17:53Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 2,
+      "is_new": true
+    },
+    {
       "id": "47973093",
       "title": "Show HN: Loopsy, a way for terminals and AI agents on different machines to talk",
       "url": "https://github.com/leox255/loopsy",
@@ -482,6 +496,20 @@
       "points": 90,
       "comments": 27,
       "is_new": false
+    },
+    {
+      "id": "47964692",
+      "title": "Scaling Pain of Coding Agent Serving: Lessons from Debugging GLM-5 at Scale",
+      "url": "https://z.ai/blog/scaling-pain",
+      "description": "",
+      "published": "2026-04-30T16:15:01Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 12,
+      "comments": 0,
+      "is_new": true
     },
     {
       "id": "47963910",
@@ -857,34 +885,6 @@
       "is_new": false
     },
     {
-      "id": "47931728",
-      "title": "Show HN: I built a way to see if your SDK is AI-friendly",
-      "url": "https://news.ycombinator.com/item?id=47931728",
-      "description": "",
-      "published": "2026-04-28T08:13:12Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 4,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "47925524",
-      "title": "Show HN: Graph-flow – LangGraph-inspired AI agent workflows in Rust",
-      "url": "https://github.com/a-agmon/rs-graph-llm",
-      "description": "",
-      "published": "2026-04-27T18:42:41Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 0,
-      "is_new": false
-    },
-    {
       "id": "f62038bdaa98c56e6223d155370d4387",
       "title": "Nemotron 3 Nano Omni: Efficient and Open Multimodal Intelligence",
       "url": "https://huggingface.co/papers/2604.24954",
@@ -1035,16 +1035,16 @@
         "is_new": false
       },
       {
-        "id": "2075a9a92ad78f5170b055709355a900",
-        "title": "Salesforce is crowdsourcing its AI roadmap — with customers",
-        "url": "https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers/",
-        "description": "Salesforce lets its customers lead its product roadmap with the thinking that if one enterprise customer has a problem, the others likely do too.",
-        "published": "Thu, 30 Apr 2026 16:06:49 +0000",
+        "id": "452d5889b4ba66fa60e4c61295ff3347",
+        "title": "In Harvard study, AI offered more accurate diagnoses than emergency room doctors",
+        "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+        "description": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
+        "published": "Sun, 03 May 2026 18:00:09 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
+        "is_new": true
       },
       {
         "id": "4ce3b826e9fa794a263bd68ad99e9cdb",
@@ -1247,6 +1247,20 @@
         "is_new": false
       },
       {
+        "id": "47973443",
+        "title": "Show HN: \"Woo\", a multi-user world for agents",
+        "url": "https://woo.hughpyle.workers.dev/",
+        "description": "",
+        "published": "2026-05-01T11:17:53Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 2,
+        "comments": 2,
+        "is_new": true
+      },
+      {
         "id": "47973093",
         "title": "Show HN: Loopsy, a way for terminals and AI agents on different machines to talk",
         "url": "https://github.com/leox255/loopsy",
@@ -1278,18 +1292,6 @@
         "url": "https://www.theverge.com/podcast/922009/musk-openai-trial-testimony-vergecast",
         "description": "Elon Musk is the one who wanted this trial. He has spent months claiming OpenAI \"stole a nonprofit,\" and saying he was the actual driving force behind one of the most important companies currently in",
         "published": "2026-05-01T09:33:15-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "072b4665a19a1e7703d8d08084484c31",
-        "title": "The craziest part of Musk v. Altman happened while the jury was out of the room",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/921713/musk-v-altman-jared-birchall-screw-up-xai",
-        "description": "Okay, I am not a lawyer so I only understood about half of what just happened. But I am fairly sure, given the context, that Elon Musk's lawyers may have just fucked up big. Jared \"James Brickhouse\" B",
-        "published": "2026-05-01T07:50:06-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
