@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-04T00:00:57.982057+00:00",
+  "last_updated": "2026-05-04T03:49:29.935545+00:00",
   "total_entries": 69,
-  "new_entries": 2,
+  "new_entries": 11,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -356,6 +356,20 @@
       "is_new": false
     },
     {
+      "id": "47984321",
+      "title": "Ask HN: Should AI agents have their own legal entities?",
+      "url": "https://news.ycombinator.com/item?id=47984321",
+      "description": "",
+      "published": "2026-05-02T07:46:30Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 6,
+      "is_new": true
+    },
+    {
       "id": "47982708",
       "title": "Show HN: Agent-desktop – Native desktop automation CLI for AI agents",
       "url": "https://github.com/lahfir/agent-desktop",
@@ -365,7 +379,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 96,
+      "points": 97,
       "comments": 35,
       "is_new": false
     },
@@ -524,6 +538,84 @@
       "is_new": false
     },
     {
+      "id": "42f2cd4fae27becb25e86b39d70d0218",
+      "title": "Learning while Deploying: Fleet-Scale Reinforcement Learning for Generalist Robot Policies",
+      "url": "https://huggingface.co/papers/2605.00416",
+      "description": "Generalist robot policies increasingly benefit from large-scale pretraining, but offline data alone is insufficient for robust real-world deployment. Deployed robots encounter distribution shifts, lon",
+      "published": "2026-04-30T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 6,
+      "is_new": true
+    },
+    {
+      "id": "b4408091e542e0fd9493e63bf0c558eb",
+      "title": "Themis: Training Robust Multilingual Code Reward Models for Flexible Multi-Criteria Scoring",
+      "url": "https://huggingface.co/papers/2605.00754",
+      "description": "Reward models (RMs) have become an indispensable fixture of the language model (LM) post-training playbook, enabling policy alignment and test-time scaling. Research on the application of RMs in code ",
+      "published": "2026-04-30T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "ccb1414d3fd1ac0002fbfc3cc17393ac",
+      "title": "UniVidX: A Unified Multimodal Framework for Versatile Video Generation via Diffusion Priors",
+      "url": "https://huggingface.co/papers/2605.00658",
+      "description": "Recent progress has shown that video diffusion models (VDMs) can be repurposed for diverse multimodal graphics tasks. However, existing methods often train separate models for each problem setting, wh",
+      "published": "2026-04-30T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 32,
+      "is_new": true
+    },
+    {
+      "id": "460a5ea05e02b5a49973ce3eff24b5cb",
+      "title": "Map2World: Segment Map Conditioned Text to 3D World Generation",
+      "url": "https://huggingface.co/papers/2605.00781",
+      "description": "3D world generation is essential for applications such as immersive content creation or autonomous driving simulation. Recent advances in 3D world generation have shown promising results; however, the",
+      "published": "2026-04-30T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "a562287d1aa4b4ae91fc544b5973e6e1",
+      "title": "End-to-End Autoregressive Image Generation with 1D Semantic Tokenizer",
+      "url": "https://huggingface.co/papers/2605.00503",
+      "description": "Autoregressive image modeling relies on visual tokenizers to compress images into compact latent representations. We design an end-to-end training pipeline that jointly optimizes reconstruction and ge",
+      "published": "2026-04-30T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "7853b4030694dbae2c19ffacf523ea90",
+      "title": "Let ViT Speak: Generative Language-Image Pre-training",
+      "url": "https://huggingface.co/papers/2605.00809",
+      "description": "In this paper, we present Generative Language-Image Pre-training (GenLIP), a minimalist generative pretraining framework for Vision Transformers (ViTs) designed for multimodal large language models (M",
+      "published": "2026-04-30T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "47964692",
       "title": "Scaling Pain of Coding Agent Serving: Lessons from Debugging GLM-5 at Scale",
       "url": "https://z.ai/blog/scaling-pain",
@@ -644,84 +736,6 @@
       "is_new": false
     },
     {
-      "id": "78d0e3fb4d2a91d3fb8b569d367cace8",
-      "title": "ExoActor: Exocentric Video Generation as Generalizable Interactive Humanoid Control",
-      "url": "https://huggingface.co/papers/2604.27711",
-      "description": "Humanoid control systems have made significant progress in recent years, yet modeling fluent interaction-rich behavior between a robot, its surrounding environment, and task-relevant objects remains a",
-      "published": "2026-04-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 37,
-      "is_new": false
-    },
-    {
-      "id": "04328728dc93cc62bfabb67e866b8979",
-      "title": "InteractWeb-Bench: Can Multimodal Agent Escape Blind Execution in Interactive Website Generation?",
-      "url": "https://huggingface.co/papers/2604.27419",
-      "description": "With the advancement of multimodal large language models (MLLMs) and coding agents, the website development has shifted from manual programming to agent-based project-level code synthesis. Existing be",
-      "published": "2026-04-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 9,
-      "is_new": false
-    },
-    {
-      "id": "64e470d369c1eaf2978426872bc58d87",
-      "title": "MoCapAnything V2: End-to-End Motion Capture for Arbitrary Skeletons",
-      "url": "https://huggingface.co/papers/2604.28130",
-      "description": "Recent methods for arbitrary-skeleton motion capture from monocular video follow a factorized pipeline, where a Video-to-Pose network predicts joint positions and an analytical inverse-kinematics (IK)",
-      "published": "2026-04-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 8,
-      "is_new": false
-    },
-    {
-      "id": "9fed7242d1f65f7a9545ed835bc2c164",
-      "title": "PhyCo: Learning Controllable Physical Priors for Generative Motion",
-      "url": "https://huggingface.co/papers/2604.28169",
-      "description": "Modern video diffusion models excel at appearance synthesis but still struggle with physical consistency: objects drift, collisions lack realistic rebound, and material responses seldom match their un",
-      "published": "2026-04-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 8,
-      "is_new": false
-    },
-    {
-      "id": "fd925fbf57d6644c6db30a2bf495f4c1",
-      "title": "World2Minecraft: Occupancy-Driven Simulated Scenes Construction",
-      "url": "https://huggingface.co/papers/2604.27578",
-      "description": "Embodied intelligence requires high-fidelity simulation environments to support perception and decision-making, yet existing platforms often suffer from data contamination and limited flexibility. To ",
-      "published": "2026-04-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "207d707b28a44b6eb46aee54f0300d3b",
-      "title": "Intern-Atlas: A Methodological Evolution Graph as Research Infrastructure for AI Scientists",
-      "url": "https://huggingface.co/papers/2604.28158",
-      "description": "Existing research infrastructure is fundamentally document-centric, providing citation links between papers but lacking explicit representations of methodological evolution. In particular, it does not",
-      "published": "2026-04-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 37,
-      "is_new": false
-    },
-    {
       "id": "47945051",
       "title": "ANP – A binary protocol for AI agent-to-agent price negotiation (no LLM tokens)",
       "url": "https://github.com/victornominista/anp",
@@ -801,32 +815,6 @@
       "is_new": false
     },
     {
-      "id": "1ac13a9409121d697bcab0d3bb963d1d",
-      "title": "Co-Evolving Policy Distillation",
-      "url": "https://huggingface.co/papers/2604.27083",
-      "description": "RLVR and OPD have become standard paradigms for post-training. We provide a unified analysis of these two paradigms in consolidating multiple expert capabilities into a single model, identifying capab",
-      "published": "2026-04-28T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 46,
-      "is_new": false
-    },
-    {
-      "id": "190521da77c3fadb2f92d91876d4b356",
-      "title": "The Last Human-Written Paper: Agent-Native Research Artifacts",
-      "url": "https://huggingface.co/papers/2604.24658",
-      "description": "Scientific publication compresses a branching, iterative research process into a linear narrative, discarding the majority of what was discovered along the way. This compilation imposes two structural",
-      "published": "2026-04-28T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 12,
-      "is_new": false
-    },
-    {
       "id": "47936303",
       "title": "Show HN: I built a search engine for llms.txt sites",
       "url": "https://statespace.com/",
@@ -883,18 +871,17 @@
       "is_new": false
     },
     {
-      "id": "47933355",
-      "title": "$38k AWS Bedrock bill caused by a simple prompt caching miss",
-      "url": "https://news.ycombinator.com/item?id=47933355",
-      "description": "",
-      "published": "2026-04-28T12:07:40Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 8,
-      "comments": 0,
-      "is_new": false
+      "id": "ed332a2323a93311e2a1191b13b02bae",
+      "title": "From Skill Text to Skill Structure: The Scheduling-Structural-Logical Representation for Agent Skills",
+      "url": "https://huggingface.co/papers/2604.24026",
+      "description": "LLM agents increasingly rely on reusable skills, capability packages that combine instructions, control flow, constraints, and tool calls. In most current agent systems, however, skills are still repr",
+      "published": "2026-04-26T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
     },
     {
       "id": "f62038bdaa98c56e6223d155370d4387",
@@ -934,6 +921,19 @@
       "category": "research",
       "likes": 0,
       "is_new": false
+    },
+    {
+      "id": "489250610429308c5e1068c5a326631a",
+      "title": "AnalogRetriever: Learning Cross-Modal Representations for Analog Circuit Retrieval",
+      "url": "https://huggingface.co/papers/2604.23195",
+      "description": "Analog circuit design relies heavily on reusing existing intellectual property (IP), yet searching across heterogeneous representations such as SPICE netlists, schematics, and functional descriptions ",
+      "published": "2026-04-24T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
     }
   ],
   "by_category": {
@@ -1247,6 +1247,20 @@
         "is_new": false
       },
       {
+        "id": "47984321",
+        "title": "Ask HN: Should AI agents have their own legal entities?",
+        "url": "https://news.ycombinator.com/item?id=47984321",
+        "description": "",
+        "published": "2026-05-02T07:46:30Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 2,
+        "comments": 6,
+        "is_new": true
+      },
+      {
         "id": "47982708",
         "title": "Show HN: Agent-desktop – Native desktop automation CLI for AI agents",
         "url": "https://github.com/lahfir/agent-desktop",
@@ -1256,7 +1270,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 96,
+        "points": 97,
         "comments": 35,
         "is_new": false
       },
@@ -1297,23 +1311,87 @@
         "points": 2,
         "comments": 2,
         "is_new": false
-      },
-      {
-        "id": "47973093",
-        "title": "Show HN: Loopsy, a way for terminals and AI agents on different machines to talk",
-        "url": "https://github.com/leox255/loopsy",
-        "description": "",
-        "published": "2026-05-01T10:25:41Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 56,
-        "comments": 12,
-        "is_new": false
       }
     ],
     "research": [
+      {
+        "id": "42f2cd4fae27becb25e86b39d70d0218",
+        "title": "Learning while Deploying: Fleet-Scale Reinforcement Learning for Generalist Robot Policies",
+        "url": "https://huggingface.co/papers/2605.00416",
+        "description": "Generalist robot policies increasingly benefit from large-scale pretraining, but offline data alone is insufficient for robust real-world deployment. Deployed robots encounter distribution shifts, lon",
+        "published": "2026-04-30T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 6,
+        "is_new": true
+      },
+      {
+        "id": "b4408091e542e0fd9493e63bf0c558eb",
+        "title": "Themis: Training Robust Multilingual Code Reward Models for Flexible Multi-Criteria Scoring",
+        "url": "https://huggingface.co/papers/2605.00754",
+        "description": "Reward models (RMs) have become an indispensable fixture of the language model (LM) post-training playbook, enabling policy alignment and test-time scaling. Research on the application of RMs in code ",
+        "published": "2026-04-30T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 0,
+        "is_new": true
+      },
+      {
+        "id": "ccb1414d3fd1ac0002fbfc3cc17393ac",
+        "title": "UniVidX: A Unified Multimodal Framework for Versatile Video Generation via Diffusion Priors",
+        "url": "https://huggingface.co/papers/2605.00658",
+        "description": "Recent progress has shown that video diffusion models (VDMs) can be repurposed for diverse multimodal graphics tasks. However, existing methods often train separate models for each problem setting, wh",
+        "published": "2026-04-30T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 32,
+        "is_new": true
+      },
+      {
+        "id": "460a5ea05e02b5a49973ce3eff24b5cb",
+        "title": "Map2World: Segment Map Conditioned Text to 3D World Generation",
+        "url": "https://huggingface.co/papers/2605.00781",
+        "description": "3D world generation is essential for applications such as immersive content creation or autonomous driving simulation. Recent advances in 3D world generation have shown promising results; however, the",
+        "published": "2026-04-30T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 0,
+        "is_new": true
+      },
+      {
+        "id": "a562287d1aa4b4ae91fc544b5973e6e1",
+        "title": "End-to-End Autoregressive Image Generation with 1D Semantic Tokenizer",
+        "url": "https://huggingface.co/papers/2605.00503",
+        "description": "Autoregressive image modeling relies on visual tokenizers to compress images into compact latent representations. We design an end-to-end training pipeline that jointly optimizes reconstruction and ge",
+        "published": "2026-04-30T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 0,
+        "is_new": true
+      },
+      {
+        "id": "7853b4030694dbae2c19ffacf523ea90",
+        "title": "Let ViT Speak: Generative Language-Image Pre-training",
+        "url": "https://huggingface.co/papers/2605.00809",
+        "description": "In this paper, we present Generative Language-Image Pre-training (GenLIP), a minimalist generative pretraining framework for Vision Transformers (ViTs) designed for multimodal large language models (M",
+        "published": "2026-04-30T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 0,
+        "is_new": true
+      },
       {
         "id": "2542deb8769b0018bf4bc5e665b2d8b3",
         "title": "FlashRT: Towards Computationally and Memory Efficient Red-Teaming for Prompt Injection and Knowledge Corruption",
@@ -1364,84 +1442,6 @@
         "source_icon": "🤗",
         "category": "research",
         "likes": 29,
-        "is_new": false
-      },
-      {
-        "id": "78d0e3fb4d2a91d3fb8b569d367cace8",
-        "title": "ExoActor: Exocentric Video Generation as Generalizable Interactive Humanoid Control",
-        "url": "https://huggingface.co/papers/2604.27711",
-        "description": "Humanoid control systems have made significant progress in recent years, yet modeling fluent interaction-rich behavior between a robot, its surrounding environment, and task-relevant objects remains a",
-        "published": "2026-04-29T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 37,
-        "is_new": false
-      },
-      {
-        "id": "04328728dc93cc62bfabb67e866b8979",
-        "title": "InteractWeb-Bench: Can Multimodal Agent Escape Blind Execution in Interactive Website Generation?",
-        "url": "https://huggingface.co/papers/2604.27419",
-        "description": "With the advancement of multimodal large language models (MLLMs) and coding agents, the website development has shifted from manual programming to agent-based project-level code synthesis. Existing be",
-        "published": "2026-04-29T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 9,
-        "is_new": false
-      },
-      {
-        "id": "64e470d369c1eaf2978426872bc58d87",
-        "title": "MoCapAnything V2: End-to-End Motion Capture for Arbitrary Skeletons",
-        "url": "https://huggingface.co/papers/2604.28130",
-        "description": "Recent methods for arbitrary-skeleton motion capture from monocular video follow a factorized pipeline, where a Video-to-Pose network predicts joint positions and an analytical inverse-kinematics (IK)",
-        "published": "2026-04-29T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 8,
-        "is_new": false
-      },
-      {
-        "id": "9fed7242d1f65f7a9545ed835bc2c164",
-        "title": "PhyCo: Learning Controllable Physical Priors for Generative Motion",
-        "url": "https://huggingface.co/papers/2604.28169",
-        "description": "Modern video diffusion models excel at appearance synthesis but still struggle with physical consistency: objects drift, collisions lack realistic rebound, and material responses seldom match their un",
-        "published": "2026-04-29T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 8,
-        "is_new": false
-      },
-      {
-        "id": "fd925fbf57d6644c6db30a2bf495f4c1",
-        "title": "World2Minecraft: Occupancy-Driven Simulated Scenes Construction",
-        "url": "https://huggingface.co/papers/2604.27578",
-        "description": "Embodied intelligence requires high-fidelity simulation environments to support perception and decision-making, yet existing platforms often suffer from data contamination and limited flexibility. To ",
-        "published": "2026-04-29T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 3,
-        "is_new": false
-      },
-      {
-        "id": "207d707b28a44b6eb46aee54f0300d3b",
-        "title": "Intern-Atlas: A Methodological Evolution Graph as Research Infrastructure for AI Scientists",
-        "url": "https://huggingface.co/papers/2604.28158",
-        "description": "Existing research infrastructure is fundamentally document-centric, providing citation links between papers but lacking explicit representations of methodological evolution. In particular, it does not",
-        "published": "2026-04-29T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 37,
         "is_new": false
       },
       {
@@ -1510,30 +1510,17 @@
         "is_new": false
       },
       {
-        "id": "1ac13a9409121d697bcab0d3bb963d1d",
-        "title": "Co-Evolving Policy Distillation",
-        "url": "https://huggingface.co/papers/2604.27083",
-        "description": "RLVR and OPD have become standard paradigms for post-training. We provide a unified analysis of these two paradigms in consolidating multiple expert capabilities into a single model, identifying capab",
-        "published": "2026-04-28T20:00:00.000Z",
+        "id": "ed332a2323a93311e2a1191b13b02bae",
+        "title": "From Skill Text to Skill Structure: The Scheduling-Structural-Logical Representation for Agent Skills",
+        "url": "https://huggingface.co/papers/2604.24026",
+        "description": "LLM agents increasingly rely on reusable skills, capability packages that combine instructions, control flow, constraints, and tool calls. In most current agent systems, however, skills are still repr",
+        "published": "2026-04-26T20:00:00.000Z",
         "source_id": "hf-papers",
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 46,
-        "is_new": false
-      },
-      {
-        "id": "190521da77c3fadb2f92d91876d4b356",
-        "title": "The Last Human-Written Paper: Agent-Native Research Artifacts",
-        "url": "https://huggingface.co/papers/2604.24658",
-        "description": "Scientific publication compresses a branching, iterative research process into a linear narrative, discarding the majority of what was discovered along the way. This compilation imposes two structural",
-        "published": "2026-04-28T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 12,
-        "is_new": false
+        "likes": 2,
+        "is_new": true
       },
       {
         "id": "f62038bdaa98c56e6223d155370d4387",
@@ -1573,6 +1560,19 @@
         "category": "research",
         "likes": 0,
         "is_new": false
+      },
+      {
+        "id": "489250610429308c5e1068c5a326631a",
+        "title": "AnalogRetriever: Learning Cross-Modal Representations for Analog Circuit Retrieval",
+        "url": "https://huggingface.co/papers/2604.23195",
+        "description": "Analog circuit design relies heavily on reusing existing intellectual property (IP), yet searching across heterogeneous representations such as SPICE netlists, schematics, and functional descriptions ",
+        "published": "2026-04-24T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 1,
+        "is_new": true
       }
     ]
   }
