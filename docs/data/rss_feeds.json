@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-04T04:05:48.382319+00:00",
+  "last_updated": "2026-05-04T06:52:52.591118+00:00",
   "total_entries": 109,
-  "new_entries": 40,
+  "new_entries": 43,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -1018,6 +1018,45 @@
       "is_new": false
     },
     {
+      "id": "742c36317a0ca201d2a79837ab3011cb",
+      "title": "Online Self-Calibration Against Hallucination in Vision-Language Models",
+      "url": "https://huggingface.co/papers/2605.00323",
+      "description": "Large Vision-Language Models (LVLMs) often suffer from hallucinations, generating descriptions that include visual details absent from the input image. Recent preference alignment methods typically re",
+      "published": "2026-04-30T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "3c4f7a2958f33b113179c12d73caa093",
+      "title": "Learning to Act and Cooperate for Distributed Black-Box Consensus Optimization",
+      "url": "https://huggingface.co/papers/2605.00691",
+      "description": "Distributed blackbox consensus optimization is a fundamental problem in multi-agent systems, where agents must improve a global objective using only local objective queries and limited neighbor commun",
+      "published": "2026-04-30T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "0457a5d0c0a17d76a31f3c4bed3c9851",
+      "title": "LASE: Language-Adversarial Speaker Encoding for Indic Cross-Script Identity Preservation",
+      "url": "https://huggingface.co/papers/2605.00777",
+      "description": "A speaker encoder used in multilingual voice cloning should treat the same speaker identically regardless of which script the audio was uttered in. Off-the-shelf encoders do not, and the failure is ac",
+      "published": "2026-04-30T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "42f2cd4fae27becb25e86b39d70d0218",
       "title": "Learning while Deploying: Fleet-Scale Reinforcement Learning for Generalist Robot Policies",
       "url": "https://huggingface.co/papers/2605.00416",
@@ -1053,7 +1092,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 39,
+      "likes": 54,
       "is_new": false
     },
     {
@@ -1066,7 +1105,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -1079,7 +1118,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 1,
       "is_new": false
     },
     {
@@ -1092,7 +1131,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 1,
       "is_new": false
     },
     {
@@ -1203,19 +1242,6 @@
       "is_new": false
     },
     {
-      "id": "48b7c50e2326dce36965339cce9f94ae",
-      "title": "Leveraging Verifier-Based Reinforcement Learning in Image Editing",
-      "url": "https://huggingface.co/papers/2604.27505",
-      "description": "While Reinforcement Learning from Human Feedback (RLHF) has become a pivotal paradigm for text-to-image generation, its application to image editing remains largely unexplored. A key bottleneck is the",
-      "published": "2026-04-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 29,
-      "is_new": false
-    },
-    {
       "id": "47945051",
       "title": "ANP – A binary protocol for AI agent-to-agent price negotiation (no LLM tokens)",
       "url": "https://github.com/victornominista/anp",
@@ -1239,7 +1265,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 13,
+      "likes": 14,
       "is_new": false
     },
     {
@@ -1266,32 +1292,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 5,
-      "is_new": false
-    },
-    {
-      "id": "16fba54c439f6a003a08cdffe86eea19",
-      "title": "Efficient Training on Multiple Consumer GPUs with RoundPipe",
-      "url": "https://huggingface.co/papers/2604.27085",
-      "description": "Fine-tuning Large Language Models (LLMs) on consumer-grade GPUs is highly cost-effective, yet constrained by limited GPU memory and slow PCIe interconnects. Pipeline parallelism combined with CPU offl",
-      "published": "2026-04-28T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 34,
-      "is_new": false
-    },
-    {
-      "id": "2a1ac39538e978e4cab95de5bd2f2c05",
-      "title": "Length Value Model: Scalable Value Pretraining for Token-Level Length Modeling",
-      "url": "https://huggingface.co/papers/2604.27039",
-      "description": "Token serves as the fundamental unit of computation in modern autoregressive models, and generation length directly influences both inference cost and reasoning performance. Despite its importance, ex",
-      "published": "2026-04-28T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 19,
       "is_new": false
     }
   ],
