@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-04T18:53:07.897364+00:00",
+  "last_updated": "2026-05-04T19:48:36.249959+00:00",
   "total_entries": 110,
-  "new_entries": 10,
+  "new_entries": 12,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -84,18 +84,6 @@
       "is_new": false
     },
     {
-      "id": "fa5627bfa51b150d5ffbb706fb46589a",
-      "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
-      "url": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
-      "description": "OpenAI will begin rolling out its cybersecurity testing tool, GPT-5.5 Cyber only \"to critical cyber defenders\" at first.",
-      "published": "Thu, 30 Apr 2026 19:27:41 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "01b7165cd4b651b5889eda44d63f18a9",
       "title": "‘This is fine’ creator says AI startup stole his art",
       "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
@@ -144,6 +132,18 @@
       "is_new": false
     },
     {
+      "id": "a168596f139698972cc7e8c5284587a9",
+      "title": "Image AI models now drive app growth, beating chatbot upgrades",
+      "url": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
+      "description": "Appfigures finds visual model launches generate 6.5x more downloads — but most don’t convert that spike into revenue.",
+      "published": "Mon, 04 May 2026 19:12:49 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "cde12b0c15be2493aec6ae3bf4c6b031",
       "title": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race",
       "url": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
@@ -171,7 +171,7 @@
       "id": "4507c485b2ba55db282eec0275975d0c",
       "title": "Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI claims",
       "url": "https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/",
-      "description": "Musk texted OpenAI's president and co-founder saying that he and CEO Sam Altman \"will be the most hated men in America.\"",
+      "description": "Musk texted OpenAI's president and co-founder saying that he and CEO Sam Altman \"will be the most hated men in America\" if OpenAI doesn't settle the suit.",
       "published": "Mon, 04 May 2026 16:36:03 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
@@ -782,6 +782,18 @@
       "is_new": true
     },
     {
+      "id": "74cdffe7e5df374389a7ff29cfba1c3a",
+      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "description": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni",
+      "published": "2026-05-04T15:45:03-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": false
+    },
+    {
       "id": "d3576286998fec6d978d5fa65e2f9739",
       "title": "The creator of Roomba is back with a furry robot companion",
       "url": "https://www.theverge.com/ai-artificial-intelligence/922947/roomba-creator-new-robot-familiar-machines-magic-ai-launch",
@@ -792,18 +804,6 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": true
-    },
-    {
-      "id": "74cdffe7e5df374389a7ff29cfba1c3a",
-      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "description": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni",
-      "published": "2026-05-04T14:44:23-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
     },
     {
       "id": "489362c10603bfc1a07dd3a29cf05044",
@@ -1106,7 +1106,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -1283,17 +1283,17 @@
       "is_new": false
     },
     {
-      "id": "84afee7dd8310180997a41eaef881374",
-      "title": "When Do Diffusion Models learn to Generate Multiple Objects?",
-      "url": "https://huggingface.co/papers/2605.00273",
-      "description": "Text-to-image diffusion models achieve impressive visual fidelity, yet they remain unreliable in multi-object generation. Despite extensive empirical evidence of these failures, the underlying causes ",
+      "id": "db773916e865e2095ee5a0c4032a7131",
+      "title": "MASCing: Configurable Mixture-of-Experts Behavior via Activation Steering Masks",
+      "url": "https://huggingface.co/papers/2604.27818",
+      "description": "Mixture-of-Experts (MoE) architectures in Large Language Models (LLMs) have significantly reduced inference costs through sparse activation. However, this sparse activation paradigm also introduces ne",
       "published": "2026-04-29T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
-      "is_new": false
+      "likes": 1,
+      "is_new": true
     }
   ],
   "by_category": {
@@ -1328,18 +1328,6 @@
         "url": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
         "description": "The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf, and now have dueling ad campaigns.",
         "published": "Thu, 30 Apr 2026 20:14:47 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "fa5627bfa51b150d5ffbb706fb46589a",
-        "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
-        "url": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
-        "description": "OpenAI will begin rolling out its cybersecurity testing tool, GPT-5.5 Cyber only \"to critical cyber defenders\" at first.",
-        "published": "Thu, 30 Apr 2026 19:27:41 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
@@ -1395,6 +1383,18 @@
         "is_new": false
       },
       {
+        "id": "a168596f139698972cc7e8c5284587a9",
+        "title": "Image AI models now drive app growth, beating chatbot upgrades",
+        "url": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
+        "description": "Appfigures finds visual model launches generate 6.5x more downloads — but most don’t convert that spike into revenue.",
+        "published": "Mon, 04 May 2026 19:12:49 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "cde12b0c15be2493aec6ae3bf4c6b031",
         "title": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race",
         "url": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
@@ -1422,7 +1422,7 @@
         "id": "4507c485b2ba55db282eec0275975d0c",
         "title": "Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI claims",
         "url": "https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/",
-        "description": "Musk texted OpenAI's president and co-founder saying that he and CEO Sam Altman \"will be the most hated men in America.\"",
+        "description": "Musk texted OpenAI's president and co-founder saying that he and CEO Sam Altman \"will be the most hated men in America\" if OpenAI doesn't settle the suit.",
         "published": "Mon, 04 May 2026 16:36:03 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
@@ -1553,6 +1553,18 @@
         "is_new": true
       },
       {
+        "id": "74cdffe7e5df374389a7ff29cfba1c3a",
+        "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+        "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+        "description": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni",
+        "published": "2026-05-04T15:45:03-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
         "id": "d3576286998fec6d978d5fa65e2f9739",
         "title": "The creator of Roomba is back with a furry robot companion",
         "url": "https://www.theverge.com/ai-artificial-intelligence/922947/roomba-creator-new-robot-familiar-machines-magic-ai-launch",
@@ -1563,18 +1575,6 @@
         "source_icon": "📰",
         "category": "news",
         "is_new": true
-      },
-      {
-        "id": "74cdffe7e5df374389a7ff29cfba1c3a",
-        "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-        "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-        "description": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni",
-        "published": "2026-05-04T14:44:23-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
       },
       {
         "id": "489362c10603bfc1a07dd3a29cf05044",
