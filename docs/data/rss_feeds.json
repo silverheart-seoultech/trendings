@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-04T09:30:14.012053+00:00",
+  "last_updated": "2026-05-04T12:04:08.842692+00:00",
   "total_entries": 109,
-  "new_entries": 0,
+  "new_entries": 3,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -756,6 +756,20 @@
       "is_new": false
     },
     {
+      "id": "48007425",
+      "title": "Ask HN: Where are SWE's being replaced?",
+      "url": "https://news.ycombinator.com/item?id=48007425",
+      "description": "",
+      "published": "2026-05-04T11:39:36Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "48001123",
       "title": "Duralang – decorator makes every LangChain LLM/tool/MCP call a Temporal Activity",
       "url": "https://temporal.io/code-exchange/duralang-durable-stochastic-ai-agents-with-one-decorator",
@@ -1018,6 +1032,19 @@
       "is_new": false
     },
     {
+      "id": "1d732269299e6d379b76e7f7e41543a5",
+      "title": "Trees to Flows and Back: Unifying Decision Trees and Diffusion Models",
+      "url": "https://huggingface.co/papers/2605.00414",
+      "description": "Decision trees and diffusion models are ostensibly disparate model classes, one discrete and hierarchical, the other continuous and dynamic. This work unifies the two by establishing a crisp mathemati",
+      "published": "2026-04-30T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "742c36317a0ca201d2a79837ab3011cb",
       "title": "Online Self-Calibration Against Hallucination in Vision-Language Models",
       "url": "https://huggingface.co/papers/2605.00323",
@@ -1066,7 +1093,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
+      "likes": 7,
       "is_new": false
     },
     {
@@ -1092,7 +1119,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 60,
+      "likes": 62,
       "is_new": false
     },
     {
@@ -1105,7 +1132,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 5,
       "is_new": false
     },
     {
@@ -1118,7 +1145,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -1131,7 +1158,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -1216,19 +1243,6 @@
       "is_new": false
     },
     {
-      "id": "cc2479535f6419ef9f4091dcf788e235",
-      "title": "Instruction-Guided Poetry Generation in Arabic and Its Dialects",
-      "url": "https://huggingface.co/papers/2604.27766",
-      "description": "Poetry has long been a central art form for Arabic speakers, serving as a powerful medium of expression and cultural identity. While modern Arabic speakers continue to value poetry, existing research ",
-      "published": "2026-04-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
       "id": "47945051",
       "title": "ANP – A binary protocol for AI agent-to-agent price negotiation (no LLM tokens)",
       "url": "https://github.com/victornominista/anp",
@@ -1241,6 +1255,19 @@
       "points": 5,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "8abc7e4d75c0cda0b9a2abdac88f0992",
+      "title": "Web2BigTable: A Bi-Level Multi-Agent LLM System for Internet-Scale Information Search and Extraction",
+      "url": "https://huggingface.co/papers/2604.27221",
+      "description": "Agentic web search increasingly faces two distinct demands: deep reasoning over a single target, and structured aggregation across many entities and heterogeneous sources. Current systems struggle on ",
+      "published": "2026-04-28T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 20,
+      "is_new": true
     },
     {
       "id": "3954a922cab3931d4b29c8942933ca55",
@@ -1266,33 +1293,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "d7b92a29e2d1e8c5ee08e233d6df3ad2",
-      "title": "Compliance versus Sensibility: On the Reasoning Controllability in Large Language Models",
-      "url": "https://huggingface.co/papers/2604.27251",
-      "description": "Large Language Models (LLMs) are known to acquire reasoning capabilities through shared inference patterns in pre-training data, which are further elicited via Chain-of-Thought (CoT) practices. Howeve",
-      "published": "2026-04-28T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 5,
-      "is_new": false
-    },
-    {
-      "id": "47936303",
-      "title": "Show HN: I built a search engine for llms.txt sites",
-      "url": "https://statespace.com/",
-      "description": "",
-      "published": "2026-04-28T16:02:05Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 3,
-      "comments": 0,
       "is_new": false
     }
   ],
@@ -1527,6 +1527,20 @@
         "is_new": false
       },
       {
+        "id": "48007425",
+        "title": "Ask HN: Where are SWE's being replaced?",
+        "url": "https://news.ycombinator.com/item?id=48007425",
+        "description": "",
+        "published": "2026-05-04T11:39:36Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 2,
+        "comments": 0,
+        "is_new": true
+      },
+      {
         "id": "48001123",
         "title": "Duralang – decorator makes every LangChain LLM/tool/MCP call a Temporal Activity",
         "url": "https://temporal.io/code-exchange/duralang-durable-stochastic-ai-agents-with-one-decorator",
@@ -1656,20 +1670,6 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "47973443",
-        "title": "Show HN: \"Woo\", a multi-user world for agents",
-        "url": "https://woo.hughpyle.workers.dev/",
-        "description": "",
-        "published": "2026-05-01T11:17:53Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 2,
-        "comments": 2,
         "is_new": false
       }
     ],
