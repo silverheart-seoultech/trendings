@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-05T00:06:08.673030+00:00",
+  "last_updated": "2026-05-05T03:31:41.051121+00:00",
   "total_entries": 110,
-  "new_entries": 6,
+  "new_entries": 16,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -435,7 +435,7 @@
       "id": "bfb11941d29126bd419d26e8b68899a4",
       "title": "Models Recall What They Violate: Constraint Adherence in Multi-Turn LLM Ideation",
       "url": "https://arxiv.org/abs/2604.28031",
-      "description": "arXiv:2604.28031v1 Announce Type: cross \nAbstract: When researchers iteratively refine ideas with large language models, do the models preserve fidelity to the original objective? We introduce DriftBe",
+      "description": "arXiv:2604.28031v2 Announce Type: cross \nAbstract: When researchers iteratively refine ideas with large language models, do the models preserve fidelity to the original objective? We introduce DriftBe",
       "published": "Mon, 04 May 2026 00:00:00 -0400",
       "source_id": "arxiv-ai",
       "source_name": "arXiv AI",
@@ -768,6 +768,20 @@
       "is_new": false
     },
     {
+      "id": "48017602",
+      "title": "An LLM agent that runs on any Linux box",
+      "url": "https://getclaw.site/#demo",
+      "description": "",
+      "published": "2026-05-05T03:00:50Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 3,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "48014734",
       "title": "Ask HN: Are employers getting the returns from AI?",
       "url": "https://news.ycombinator.com/item?id=48014734",
@@ -782,6 +796,18 @@
       "is_new": true
     },
     {
+      "id": "f55dfe026dafa9aa4e6b1ce3e18a61bd",
+      "title": "OpenAI’s president does ‘all the things,’ except answer a question",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/923684/musk-brockman-altman-openai-trial",
+      "description": "The strongest witness for Elon Musk's case against OpenAI so far has been Greg Brockman's journal. Brockman himself is running as a close second. Brockman was called to the stand in a rather unusual w",
+      "published": "2026-05-04T20:12:35-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "48014124",
       "title": "SQL access to crypto market data, not just JSON",
       "url": "https://news.ycombinator.com/item?id=48014124",
@@ -793,18 +819,6 @@
       "category": "news",
       "points": 4,
       "comments": 0,
-      "is_new": true
-    },
-    {
-      "id": "f55dfe026dafa9aa4e6b1ce3e18a61bd",
-      "title": "OpenAI’s president does ‘all the things,’ except answer a question",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/923684/musk-brockman-altman-openai-trial",
-      "description": "The strongest witness for Elon Musk's case against OpenAI so far has been Greg Brockman's journal. Brockman himself is running as a close second. Brockman was called to the stand in a rather unusual w",
-      "published": "2026-05-04T19:53:44-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
       "is_new": true
     },
     {
@@ -924,6 +938,71 @@
       "is_new": false
     },
     {
+      "id": "5ea062a94f6ea39b1eeb35055eaf44d4",
+      "title": "Generative Modeling with Orbit-Space Particle Flow Matching",
+      "url": "https://huggingface.co/papers/2605.02222",
+      "description": "We present Orbit-Space Geometric Probability Paths (OGPP), a particle-native flow-matching framework for generative modeling of particle systems. OGPP is motivated by two insights: (i) particles are d",
+      "published": "2026-05-03T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "05947d863406a0546d4cfa9fd00c80f8",
+      "title": "Perceptual Flow Network for Visually Grounded Reasoning",
+      "url": "https://huggingface.co/papers/2605.02730",
+      "description": "Despite the success of Large-Vision Language Models (LVLMs), general optimization objectives (e.g., standard MLE) fail to constrain visual trajectories, leading to language bias and hallucination. To ",
+      "published": "2026-05-03T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "d266547dacd92c1e48dda5c377e81434",
+      "title": "AcademiClaw: When Students Set Challenges for AI Agents",
+      "url": "https://huggingface.co/papers/2605.02661",
+      "description": "Benchmarks within the OpenClaw ecosystem have thus far evaluated exclusively assistant-level tasks, leaving the academic-level capabilities of OpenClaw largely unexamined. We introduce AcademiClaw, a ",
+      "published": "2026-05-03T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "79e6ecaab67cdd9bfc770989e2389d57",
+      "title": "T^2PO: Uncertainty-Guided Exploration Control for Stable Multi-Turn Agentic Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2605.02178",
+      "description": "Recent progress in multi-turn reinforcement learning (RL) has significantly improved reasoning LLMs' performances on complex interactive tasks. Despite advances in stabilization techniques such as fin",
+      "published": "2026-05-03T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "43ba0fca2054297af87a80f1b7f95947",
+      "title": "PhysicianBench: Evaluating LLM Agents in Real-World EHR Environments",
+      "url": "https://huggingface.co/papers/2605.02240",
+      "description": "We introduce PhysicianBench, a benchmark for evaluating LLM agents on physician tasks grounded in real clinical setting within electronic health record (EHR) environments. Existing medical agent bench",
+      "published": "2026-05-03T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "47995206",
       "title": "Show HN: Speq – A collaborative web-based repository for your product's spec",
       "url": "https://getspeq.com",
@@ -950,6 +1029,32 @@
       "points": 1,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "726ec567789a4d6a405bab5217c07fc0",
+      "title": "Motion-Aware Caching for Efficient Autoregressive Video Generation",
+      "url": "https://huggingface.co/papers/2605.01725",
+      "description": "Autoregressive video generation paradigms offer theoretical promise for long video synthesis, yet their practical deployment is hindered by the computational burden of sequential iterative denoising. ",
+      "published": "2026-05-02T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "1804c69cd3152e2ad3c5510182b61a43",
+      "title": "From Context to Skills: Can Language Models Learn from Context Skillfully?",
+      "url": "https://huggingface.co/papers/2604.27660",
+      "description": "Many real-world tasks require language models (LMs) to reason over complex contexts that exceed their parametric knowledge. This calls for context learning, where LMs directly learn relevant knowledge",
+      "published": "2026-05-02T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
     },
     {
       "id": "47986749",
@@ -989,7 +1094,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 97,
+      "points": 98,
       "comments": 35,
       "is_new": false
     },
@@ -1121,7 +1226,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 8,
       "is_new": true
     },
     {
@@ -1164,97 +1269,6 @@
       "is_new": false
     },
     {
-      "id": "3c4f7a2958f33b113179c12d73caa093",
-      "title": "Learning to Act and Cooperate for Distributed Black-Box Consensus Optimization",
-      "url": "https://huggingface.co/papers/2605.00691",
-      "description": "Distributed blackbox consensus optimization is a fundamental problem in multi-agent systems, where agents must improve a global objective using only local objective queries and limited neighbor commun",
-      "published": "2026-04-30T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "0457a5d0c0a17d76a31f3c4bed3c9851",
-      "title": "LASE: Language-Adversarial Speaker Encoding for Indic Cross-Script Identity Preservation",
-      "url": "https://huggingface.co/papers/2605.00777",
-      "description": "A speaker encoder used in multilingual voice cloning should treat the same speaker identically regardless of which script the audio was uttered in. Off-the-shelf encoders do not, and the failure is ac",
-      "published": "2026-04-30T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "42f2cd4fae27becb25e86b39d70d0218",
-      "title": "Learning while Deploying: Fleet-Scale Reinforcement Learning for Generalist Robot Policies",
-      "url": "https://huggingface.co/papers/2605.00416",
-      "description": "Generalist robot policies increasingly benefit from large-scale pretraining, but offline data alone is insufficient for robust real-world deployment. Deployed robots encounter distribution shifts, lon",
-      "published": "2026-04-30T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 10,
-      "is_new": false
-    },
-    {
-      "id": "b4408091e542e0fd9493e63bf0c558eb",
-      "title": "Themis: Training Robust Multilingual Code Reward Models for Flexible Multi-Criteria Scoring",
-      "url": "https://huggingface.co/papers/2605.00754",
-      "description": "Reward models (RMs) have become an indispensable fixture of the language model (LM) post-training playbook, enabling policy alignment and test-time scaling. Research on the application of RMs in code ",
-      "published": "2026-04-30T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "ccb1414d3fd1ac0002fbfc3cc17393ac",
-      "title": "UniVidX: A Unified Multimodal Framework for Versatile Video Generation via Diffusion Priors",
-      "url": "https://huggingface.co/papers/2605.00658",
-      "description": "Recent progress has shown that video diffusion models (VDMs) can be repurposed for diverse multimodal graphics tasks. However, existing methods often train separate models for each problem setting, wh",
-      "published": "2026-04-30T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 68,
-      "is_new": false
-    },
-    {
-      "id": "460a5ea05e02b5a49973ce3eff24b5cb",
-      "title": "Map2World: Segment Map Conditioned Text to 3D World Generation",
-      "url": "https://huggingface.co/papers/2605.00781",
-      "description": "3D world generation is essential for applications such as immersive content creation or autonomous driving simulation. Recent advances in 3D world generation have shown promising results; however, the",
-      "published": "2026-04-30T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 13,
-      "is_new": false
-    },
-    {
-      "id": "a562287d1aa4b4ae91fc544b5973e6e1",
-      "title": "End-to-End Autoregressive Image Generation with 1D Semantic Tokenizer",
-      "url": "https://huggingface.co/papers/2605.00503",
-      "description": "Autoregressive image modeling relies on visual tokenizers to compress images into compact latent representations. We design an end-to-end training pipeline that jointly optimizes reconstruction and ge",
-      "published": "2026-04-30T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
-      "is_new": false
-    },
-    {
       "id": "47964692",
       "title": "Scaling Pain of Coding Agent Serving: Lessons from Debugging GLM-5 at Scale",
       "url": "https://z.ai/blog/scaling-pain",
@@ -1280,20 +1294,6 @@
       "category": "news",
       "points": 1,
       "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "47959984",
-      "title": "Show HN: Spec27 – Spec-driven validation for AI agents",
-      "url": "https://www.spec27.ai/launch",
-      "description": "",
-      "published": "2026-04-30T09:07:14Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 13,
-      "comments": 9,
       "is_new": false
     }
   ],
@@ -1540,6 +1540,20 @@
         "is_new": false
       },
       {
+        "id": "48017602",
+        "title": "An LLM agent that runs on any Linux box",
+        "url": "https://getclaw.site/#demo",
+        "description": "",
+        "published": "2026-05-05T03:00:50Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 3,
+        "comments": 0,
+        "is_new": true
+      },
+      {
         "id": "48014734",
         "title": "Ask HN: Are employers getting the returns from AI?",
         "url": "https://news.ycombinator.com/item?id=48014734",
@@ -1554,6 +1568,18 @@
         "is_new": true
       },
       {
+        "id": "f55dfe026dafa9aa4e6b1ce3e18a61bd",
+        "title": "OpenAI’s president does ‘all the things,’ except answer a question",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/923684/musk-brockman-altman-openai-trial",
+        "description": "The strongest witness for Elon Musk's case against OpenAI so far has been Greg Brockman's journal. Brockman himself is running as a close second. Brockman was called to the stand in a rather unusual w",
+        "published": "2026-05-04T20:12:35-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "48014124",
         "title": "SQL access to crypto market data, not just JSON",
         "url": "https://news.ycombinator.com/item?id=48014124",
@@ -1565,18 +1591,6 @@
         "category": "news",
         "points": 4,
         "comments": 0,
-        "is_new": true
-      },
-      {
-        "id": "f55dfe026dafa9aa4e6b1ce3e18a61bd",
-        "title": "OpenAI’s president does ‘all the things,’ except answer a question",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/923684/musk-brockman-altman-openai-trial",
-        "description": "The strongest witness for Elon Musk's case against OpenAI so far has been Greg Brockman's journal. Brockman himself is running as a close second. Brockman was called to the stand in a rather unusual w",
-        "published": "2026-05-04T19:53:44-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
         "is_new": true
       },
       {
@@ -1653,18 +1667,6 @@
         "category": "news",
         "points": 3,
         "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "3800b60792a248126bbb97d26bc0f1ef",
-        "title": "AI music is flooding streaming services — but who wants it?",
-        "url": "https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it",
-        "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how AI is changing music and the music industry, follow Terrence O'Brien. The Stepback arri",
-        "published": "2026-05-04T12:09:31-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
         "is_new": false
       }
     ],
@@ -1889,7 +1891,7 @@
         "id": "bfb11941d29126bd419d26e8b68899a4",
         "title": "Models Recall What They Violate: Constraint Adherence in Multi-Turn LLM Ideation",
         "url": "https://arxiv.org/abs/2604.28031",
-        "description": "arXiv:2604.28031v1 Announce Type: cross \nAbstract: When researchers iteratively refine ideas with large language models, do the models preserve fidelity to the original objective? We introduce DriftBe",
+        "description": "arXiv:2604.28031v2 Announce Type: cross \nAbstract: When researchers iteratively refine ideas with large language models, do the models preserve fidelity to the original objective? We introduce DriftBe",
         "published": "Mon, 04 May 2026 00:00:00 -0400",
         "source_id": "arxiv-ai",
         "source_name": "arXiv AI",
