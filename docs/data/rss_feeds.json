@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-05T18:22:57.654177+00:00",
+  "last_updated": "2026-05-05T19:43:21.896287+00:00",
   "total_entries": 110,
-  "new_entries": 23,
+  "new_entries": 27,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -786,7 +786,7 @@
       "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
       "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
       "description": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni",
-      "published": "2026-05-05T14:19:59-04:00",
+      "published": "2026-05-05T15:23:25-04:00",
       "source_id": "theverge-ai",
       "source_name": "The Verge AI",
       "source_icon": "📰",
@@ -1014,6 +1014,19 @@
       "is_new": false
     },
     {
+      "id": "0d8a11bb4e57c71e0bf0515430faad61",
+      "title": "A Hybrid Approach for Closing the Sim2real Appearance Gap in Game Engine Synthetic Datasets",
+      "url": "https://huggingface.co/papers/2605.02291",
+      "description": "Video game engines have been an important source for generating large volumes of visual synthetic datasets for training and evaluating computer vision algorithms that are to be deployed in the real wo",
+      "published": "2026-05-03T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "495eef1ea327e292bc4d349be822b714",
       "title": "MolmoAct2: Action Reasoning Models for Real-world Deployment",
       "url": "https://huggingface.co/papers/2605.02881",
@@ -1023,7 +1036,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 118,
+      "likes": 158,
       "is_new": false
     },
     {
@@ -1036,7 +1049,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -1049,7 +1062,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -1075,7 +1088,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -1088,7 +1101,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -1120,6 +1133,32 @@
       "is_new": false
     },
     {
+      "id": "cd344cd26e9caebfe120f592bf49d7d0",
+      "title": "Linear-Time Global Visual Modeling without Explicit Attention",
+      "url": "https://huggingface.co/papers/2605.01711",
+      "description": "Existing research largely attributes the global sequence modeling capability of Transformers to the explicit computation of attention weights, a process that inherently incurs quadratic computational ",
+      "published": "2026-05-02T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "4b2db375aa3ea9f984ee233dc8e448c8",
+      "title": "Counting as a minimal probe of language model reliability",
+      "url": "https://huggingface.co/papers/2605.02028",
+      "description": "Large language models perform strongly on benchmarks in mathematical reasoning, coding and document analysis, suggesting a broad ability to follow instructions. However, it remains unclear whether suc",
+      "published": "2026-05-02T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
       "id": "726ec567789a4d6a405bab5217c07fc0",
       "title": "Motion-Aware Caching for Efficient Autoregressive Video Generation",
       "url": "https://huggingface.co/papers/2605.01725",
@@ -1142,7 +1181,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 117,
+      "likes": 119,
       "is_new": false
     },
     {
@@ -1186,6 +1225,19 @@
       "points": 98,
       "comments": 42,
       "is_new": false
+    },
+    {
+      "id": "23000c92f8ea099024aa68d759131d2e",
+      "title": "Hallucinations Undermine Trust; Metacognition is a Way Forward",
+      "url": "https://huggingface.co/papers/2605.01428",
+      "description": "Despite significant strides in factual reliability, errors -- often termed hallucinations -- remain a major concern for generative AI, especially as LLMs are increasingly expected to be helpful in mor",
+      "published": "2026-05-01T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 5,
+      "is_new": true
     },
     {
       "id": "47973093",
@@ -1241,58 +1293,6 @@
       "category": "news",
       "points": 92,
       "comments": 28,
-      "is_new": false
-    },
-    {
-      "id": "e72482512bfd5a95aad4826dc0a95bfe",
-      "title": "BlenderRAG: High-Fidelity 3D Object Generation via Retrieval-Augmented Code Synthesis",
-      "url": "https://huggingface.co/papers/2605.00632",
-      "description": "Automatic generation of executable Blender code from natural language remains challenging, with state-of-the-art LLMs producing frequent syntactic errors and geometrically inconsistent objects. We pre",
-      "published": "2026-04-30T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": true
-    },
-    {
-      "id": "74f7a5d19b7ad6b2934e0244cd3b2a44",
-      "title": "Persistent Visual Memory: Sustaining Perception for Deep Generation in LVLMs",
-      "url": "https://huggingface.co/papers/2605.00814",
-      "description": "While autoregressive Large Vision-Language Models (LVLMs) demonstrate remarkable proficiency in multimodal tasks, they face a \"Visual Signal Dilution\" phenomenon, where the accumulation of textual his",
-      "published": "2026-04-30T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 11,
-      "is_new": true
-    },
-    {
-      "id": "0ee79340a3714637dce3c458f9192959",
-      "title": "Hierarchical Abstract Tree for Cross-Document Retrieval-Augmented Generation",
-      "url": "https://huggingface.co/papers/2605.00529",
-      "description": "Retrieval-augmented generation (RAG) enhances large language models with external knowledge, and tree-based RAG organizes documents into hierarchical indexes to support queries at multiple granulariti",
-      "published": "2026-04-30T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "956f4f25f742d557ee14323d8814d5e5",
-      "title": "Code World Model Preparedness Report",
-      "url": "https://huggingface.co/papers/2605.00932",
-      "description": "This report documents the preparedness assessment of Code World Model (CWM), a model for code generation and reasoning about code from Meta. We conducted pre-release testing across domains identified ",
-      "published": "2026-04-30T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
       "is_new": false
     }
   ],
@@ -1557,7 +1557,7 @@
         "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
         "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
         "description": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni",
-        "published": "2026-05-05T14:19:59-04:00",
+        "published": "2026-05-05T15:23:25-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
