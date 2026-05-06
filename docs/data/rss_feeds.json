@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-06T04:01:31.761699+00:00",
+  "last_updated": "2026-05-06T06:43:04.273278+00:00",
   "total_entries": 110,
-  "new_entries": 23,
+  "new_entries": 26,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,6 +47,18 @@
     }
   ],
   "entries": [
+    {
+      "id": "18521d413e03f5fc41e48c714300ea15",
+      "title": "Marc Lore says that AI will soon enable anyone open a restaurant",
+      "url": "https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/",
+      "description": "Wonder wants to turn its robotic kitchens into AI-powered “restaurant factories,” letting anyone spin up a virtual food brand with a prompt.",
+      "published": "Wed, 06 May 2026 06:34:32 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "57990a18e08b2862fa9bbb2f74277e77",
       "title": "2026 Roadmap on Artificial Intelligence and Machine Learning for Smart Manufacturing",
@@ -756,18 +768,6 @@
       "is_new": false
     },
     {
-      "id": "2df0f916df05414019b94b4fbbadfe5c",
-      "title": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services",
-      "url": "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/",
-      "description": "Both Anthropic and OpenAI have partnered with asset managers to more aggressively market their enterprise AI products.",
-      "published": "Mon, 04 May 2026 15:59:24 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "6b299ce73670610db561d8ace9dd81d0",
       "title": "Apple agrees to pay iPhone owners $250 million for not delivering AI Siri",
       "url": "https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement",
@@ -953,7 +953,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 3,
       "is_new": true
     },
     {
@@ -979,7 +979,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -992,7 +992,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 1,
       "is_new": false
     },
     {
@@ -1005,7 +1005,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -1088,7 +1088,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -1101,7 +1101,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 6,
       "is_new": false
     },
     {
@@ -1115,19 +1115,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "0d8a11bb4e57c71e0bf0515430faad61",
-      "title": "A Hybrid Approach for Closing the Sim2real Appearance Gap in Game Engine Synthetic Datasets",
-      "url": "https://huggingface.co/papers/2605.02291",
-      "description": "Video game engines have been an important source for generating large volumes of visual synthetic datasets for training and evaluating computer vision algorithms that are to be deployed in the real wo",
-      "published": "2026-05-03T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
       "is_new": false
     },
     {
@@ -1172,19 +1159,6 @@
       "is_new": true
     },
     {
-      "id": "cd344cd26e9caebfe120f592bf49d7d0",
-      "title": "Linear-Time Global Visual Modeling without Explicit Attention",
-      "url": "https://huggingface.co/papers/2605.01711",
-      "description": "Existing research largely attributes the global sequence modeling capability of Transformers to the explicit computation of attention weights, a process that inherently incurs quadratic computational ",
-      "published": "2026-05-02T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
       "id": "47986749",
       "title": "Show HN: Vdiff – CLI to help you review AI-generated code",
       "url": "https://news.ycombinator.com/item?id=47986749",
@@ -1225,6 +1199,19 @@
       "points": 98,
       "comments": 41,
       "is_new": false
+    },
+    {
+      "id": "10dc3c7ffd8f4592420b4dd73f454e3c",
+      "title": "ESARBench: A Benchmark for Agentic UAV Embodied Search and Rescue",
+      "url": "https://huggingface.co/papers/2605.01371",
+      "description": "The rapid advancement of Multimodal Large Language Models (MLLMs) has empowered Unmanned Aerial Vehicle (UAV) with exceptional capabilities in spatial reasoning, semantic understanding, and complex de",
+      "published": "2026-05-01T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
     },
     {
       "id": "188c87fc57ca93260eec33ee02044d51",
@@ -1292,9 +1279,389 @@
       "points": 2,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "47969781",
+      "title": "We scanned 100 Smithery MCP servers, 22 flagged, here's what we found",
+      "url": "https://news.ycombinator.com/item?id=47969781",
+      "description": "",
+      "published": "2026-04-30T23:44:18Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 5,
+      "comments": 5,
+      "is_new": false
     }
   ],
   "by_category": {
+    "news": [
+      {
+        "id": "18521d413e03f5fc41e48c714300ea15",
+        "title": "Marc Lore says that AI will soon enable anyone open a restaurant",
+        "url": "https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/",
+        "description": "Wonder wants to turn its robotic kitchens into AI-powered “restaurant factories,” letting anyone spin up a virtual food brand with a prompt.",
+        "published": "Wed, 06 May 2026 06:34:32 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "412ad8a3329d117853b7488151b31500",
+        "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
+        "url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
+        "description": "SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw.",
+        "published": "Tue, 05 May 2026 23:50:10 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "adb40e368632cf585951fba72d0b2283",
+        "title": "Altara secures $7M to bridge the data gap that’s slowing down physical sciences",
+        "url": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
+        "description": "Altara’s AI aims to diagnose failures and help speed up R&D by unifying  data siloed across spreadsheets and legacy systems.",
+        "published": "Tue, 05 May 2026 22:57:41 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "d9d36c1ef849679e2ff45180722b15f5",
+        "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
+        "url": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
+        "description": "With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks.",
+        "published": "Tue, 05 May 2026 20:56:41 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "d15cde9337a4a35b350b752ee54b54d3",
+        "title": "ASML CEO Christophe Fouquet on his company’s monopoly: no one is coming for us",
+        "url": "https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/",
+        "description": "Christophe Fouquet, who became ASML's CEO in 2024 after more than a decade at the company, sat down with this editor on the rooftop deck of his Beverly Hills hotel Tuesday morning ahead of his appeara",
+        "published": "Tue, 05 May 2026 20:06:40 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "7e9641e747631d6b62ee0bb60e0d3fc8",
+        "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
+        "url": "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/",
+        "description": "According to Pennsylvania's filing, a Character.AI chatbot presented itself as a licensed psychiatrist during a state investigation, and also fabricated a serial number for its state medical license.",
+        "published": "Tue, 05 May 2026 17:46:10 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "f2ffd9ae2c290fb9039f96223d8d41a5",
+        "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
+        "url": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
+        "description": "The company said the model reduces hallucination in sensitive areas such as law, medicine, and finance, while maintaining the low latency of its predecessor.",
+        "published": "Tue, 05 May 2026 17:00:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "8c525cdd8fbf1b0038f3c5cb062cff13",
+        "title": "PayPal says it’s ‘becoming a technology company again’ — that means AI",
+        "url": "https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/",
+        "description": "PayPal is pitching an AI-led turnaround, tying automation and restructuring to $1.5 billion in savings as it cuts jobs and works to modernize its tech stack.",
+        "published": "Tue, 05 May 2026 15:49:55 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "50fa2a67f866a8493b4f3757b9d2a3da",
+        "title": "Etsy launches its app within ChatGPT as it continues its AI push",
+        "url": "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/",
+        "description": "Etsy's new native app within ChatGPT aims to be a conversational  shopping experience for users.",
+        "published": "Tue, 05 May 2026 15:31:37 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "600ab37c0af8c7266467f25885ec9b95",
+        "title": "Meta will use AI to analyze height and bone structure to identify if users are underage",
+        "url": "https://techcrunch.com/2026/05/05/meta-will-use-ai-to-analyze-height-and-bone-structure-to-identify-if-users-are-underage/",
+        "description": "The visual analysis system is now operating in select countries, but Meta says it's working toward a broader rollout.",
+        "published": "Tue, 05 May 2026 14:27:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "1dd904ae7ba5c9f491ce730b404165b8",
+        "title": "ElevenLabs lists BlackRock, Jamie Foxx, and Eva Longoria as new investors",
+        "url": "https://techcrunch.com/2026/05/05/elevenlabs-lists-blackrock-jamie-foxx-and-eva-longoria-as-new-investors/",
+        "description": "ElevenLabs reveals new investors, hits $500M ARR, and expands enterprise footprint as voice AI becomes a critical interface.",
+        "published": "Tue, 05 May 2026 14:20:50 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "74750394a63731b89bce37c96a8ed784",
+        "title": "CopilotKit raises $27M to help devs deploy app-native AI agents",
+        "url": "https://techcrunch.com/2026/05/05/copilotkit-raises-27m-to-help-devs-deploy-app-native-ai-agents/",
+        "description": "The Seattle-based startup's Series A round was led by Glilot Capital, NFX, and SignalFire, TechCrunch has exclusively learned.",
+        "published": "Tue, 05 May 2026 14:07:47 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "4e030a9e5161aaa105b943f77fcb5c27",
+        "title": "4 days left: Get 50% off a second TechCrunch Disrupt 2026 pass to make more deals faster",
+        "url": "https://techcrunch.com/2026/05/05/4-days-left-get-50-off-a-second-techcrunch-disrupt-2026-pass-to-make-more-deals-faster/",
+        "description": "For the next four days only, you can buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. That window closes May 8 at 11:59 p.m. PT. After that, prices go up, and",
+        "published": "Tue, 05 May 2026 14:00:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "f7524164da4b3b14fe4870dcdfbcc9a5",
+        "title": "India’s first GenAI unicorn shifts to cloud services as AI model ambitions face reality",
+        "url": "https://techcrunch.com/2026/05/05/indias-first-genai-unicorn-shifts-to-cloud-services-as-ai-model-ambitions-face-reality/",
+        "description": "Krutrim's pivot to cloud after layoffs and limited product updates reflects the economic challenges of building AI models in India.",
+        "published": "Tue, 05 May 2026 13:18:50 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "2d00a23fb9d0abc28d91bad5701fb6c1",
+        "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
+        "url": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
+        "description": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated.",
+        "published": "Tue, 05 May 2026 03:31:54 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "bc98b10e8d5691400318dfc29fd6756c",
+        "title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
+        "url": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
+        "description": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich.",
+        "published": "Mon, 04 May 2026 21:53:21 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "a168596f139698972cc7e8c5284587a9",
+        "title": "Image AI models now drive app growth, beating chatbot upgrades",
+        "url": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
+        "description": "Appfigures finds visual model launches generate 6.5x more downloads — but most don’t convert that spike into revenue.",
+        "published": "Mon, 04 May 2026 19:12:49 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "cde12b0c15be2493aec6ae3bf4c6b031",
+        "title": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race",
+        "url": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
+        "description": "Stuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs.",
+        "published": "Mon, 04 May 2026 16:57:47 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "791e2ed7efba7995e8ffbf39df336cbb",
+        "title": "Sierra raises $950M as the race to own enterprise AI gets serious",
+        "url": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
+        "description": "The raise gives Sierra more than $1 billion to work with — capital the company says it will use to become the \"global standard\" for AI-powered customer experiences.",
+        "published": "Mon, 04 May 2026 16:45:55 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "4507c485b2ba55db282eec0275975d0c",
+        "title": "Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI claims",
+        "url": "https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/",
+        "description": "Musk texted OpenAI's president and co-founder saying that he and CEO Sam Altman \"will be the most hated men in America\" if OpenAI doesn't settle the suit.",
+        "published": "Mon, 04 May 2026 16:36:03 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "6b299ce73670610db561d8ace9dd81d0",
+        "title": "Apple agrees to pay iPhone owners $250 million for not delivering AI Siri",
+        "url": "https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement",
+        "description": "Apple has agreed to pay $250 million to settle a class action lawsuit that accused it of misleading customers about the availability of its Apple Intelligence features. The proposed settlement would a",
+        "published": "2026-05-05T18:10:12-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "2c86cbbc5016c075265eb3d5a64f1305",
+        "title": "Google Home&#8217;s Gemini AI can handle more complicated requests",
+        "url": "https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade",
+        "description": "Google Home users can now ask Gemini to complete more complex, multi-step tasks and combine multiple tasks in a single command. Google has updated Gemini for Home to Gemini 3.1, which it says will imp",
+        "published": "2026-05-05T17:46:04-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "48025774",
+        "title": "Dreamer: Make any coding agent self-evolving, across the whole team",
+        "url": "https://github.com/luml-ai/dreamer",
+        "description": "",
+        "published": "2026-05-05T17:33:43Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 4,
+        "comments": 3,
+        "is_new": false
+      },
+      {
+        "id": "74cdffe7e5df374389a7ff29cfba1c3a",
+        "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+        "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+        "description": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni",
+        "published": "2026-05-05T16:26:22-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "8738ef1c33b530864fb741bff1929847",
+        "title": "Microsoft gives up on Xbox Copilot AI",
+        "url": "https://www.theverge.com/games/924551/microsoft-xbox-ceo-copilot-ai-asha-sharma",
+        "description": "Xbox is \"winding down Copilot on mobile\" and \"will stop development of Copilot on console,\" new Xbox CEO Asha Sharma announced on Tuesday. The move follows Sharma's reorganization of the Xbox platform",
+        "published": "2026-05-05T15:58:45-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "9f3a2c3aa6fa4071d7654b4758aa5160",
+        "title": "Apple could let you pick a favorite AI model in iOS 27",
+        "url": "https://www.theverge.com/tech/924515/apple-intelligence-third-party-chatbot-extensions-ios-27",
+        "description": "The next update to Apple's operating systems could allow users to choose their preferred AI model for running Apple Intelligence. According to Bloomberg's Mark Gurman, Apple is planning to allow third",
+        "published": "2026-05-05T15:45:30-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "c7793318ff2770d7e620614057e53dd3",
+        "title": "OpenAI claims ChatGPT’s new default model hallucinates way less",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/924225/openai-chatgpt-default-model-gpt-5-5-instant",
+        "description": "OpenAI's newest default model for ChatGPT might not make stuff up as much. Hallucinations have been an ongoing problem for AI models, but OpenAI says its new GPT-5.5 Instant model has \"significant imp",
+        "published": "2026-05-05T14:01:24-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "114c4e61cd5a846d222787b5d9ea5ef2",
+        "title": "Book publishers sue Meta over AI&#8217;s &#8216;word-for-word&#8217; copying",
+        "url": "https://www.theverge.com/tech/924230/meta-publishers-lawsuit-ai-copyright",
+        "description": "Meta is facing a class action lawsuit filed by five major book publishers and one author over claims the company \"engaged in one of the most massive infringements of copyrighted materials in history\"",
+        "published": "2026-05-05T13:50:09-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "48022411",
+        "title": "Show HN: Probus, AI vuln scanner (PRs merged in Vercel AI SDK, n8n, LangGraph)",
+        "url": "https://news.ycombinator.com/item?id=48022411",
+        "description": "",
+        "published": "2026-05-05T13:39:05Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 1,
+        "comments": 0,
+        "is_new": false
+      },
+      {
+        "id": "8ee7d398be1e7ee307409beece0f2bf5",
+        "title": "OpenAI is reportedly launching a phone for ChatGPT",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/924063/openai-phone-rumors-2027-ming-chi-kuo",
+        "description": "OpenAI's first hardware product might be a phone instead of a mysterious Jony Ive gadget. As reported by MacRumors, supply chain analyst Ming-Chi Kuo shared details about the rumored phone, claiming O",
+        "published": "2026-05-05T11:40:07-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      }
+    ],
     "research": [
       {
         "id": "57990a18e08b2862fa9bbb2f74277e77",
@@ -1655,372 +2022,6 @@
         "source_icon": "📄",
         "category": "research",
         "is_new": true
-      }
-    ],
-    "news": [
-      {
-        "id": "412ad8a3329d117853b7488151b31500",
-        "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
-        "url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
-        "description": "SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw.",
-        "published": "Tue, 05 May 2026 23:50:10 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "adb40e368632cf585951fba72d0b2283",
-        "title": "Altara secures $7M to bridge the data gap that’s slowing down physical sciences",
-        "url": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
-        "description": "Altara’s AI aims to diagnose failures and help speed up R&D by unifying  data siloed across spreadsheets and legacy systems.",
-        "published": "Tue, 05 May 2026 22:57:41 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "d9d36c1ef849679e2ff45180722b15f5",
-        "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
-        "url": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
-        "description": "With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks.",
-        "published": "Tue, 05 May 2026 20:56:41 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "d15cde9337a4a35b350b752ee54b54d3",
-        "title": "ASML CEO Christophe Fouquet on his company’s monopoly: no one is coming for us",
-        "url": "https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/",
-        "description": "Christophe Fouquet, who became ASML's CEO in 2024 after more than a decade at the company, sat down with this editor on the rooftop deck of his Beverly Hills hotel Tuesday morning ahead of his appeara",
-        "published": "Tue, 05 May 2026 20:06:40 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "7e9641e747631d6b62ee0bb60e0d3fc8",
-        "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
-        "url": "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/",
-        "description": "According to Pennsylvania's filing, a Character.AI chatbot presented itself as a licensed psychiatrist during a state investigation, and also fabricated a serial number for its state medical license.",
-        "published": "Tue, 05 May 2026 17:46:10 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "f2ffd9ae2c290fb9039f96223d8d41a5",
-        "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
-        "url": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
-        "description": "The company said the model reduces hallucination in sensitive areas such as law, medicine, and finance, while maintaining the low latency of its predecessor.",
-        "published": "Tue, 05 May 2026 17:00:00 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "8c525cdd8fbf1b0038f3c5cb062cff13",
-        "title": "PayPal says it’s ‘becoming a technology company again’ — that means AI",
-        "url": "https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/",
-        "description": "PayPal is pitching an AI-led turnaround, tying automation and restructuring to $1.5 billion in savings as it cuts jobs and works to modernize its tech stack.",
-        "published": "Tue, 05 May 2026 15:49:55 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "50fa2a67f866a8493b4f3757b9d2a3da",
-        "title": "Etsy launches its app within ChatGPT as it continues its AI push",
-        "url": "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/",
-        "description": "Etsy's new native app within ChatGPT aims to be a conversational  shopping experience for users.",
-        "published": "Tue, 05 May 2026 15:31:37 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "600ab37c0af8c7266467f25885ec9b95",
-        "title": "Meta will use AI to analyze height and bone structure to identify if users are underage",
-        "url": "https://techcrunch.com/2026/05/05/meta-will-use-ai-to-analyze-height-and-bone-structure-to-identify-if-users-are-underage/",
-        "description": "The visual analysis system is now operating in select countries, but Meta says it's working toward a broader rollout.",
-        "published": "Tue, 05 May 2026 14:27:00 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "1dd904ae7ba5c9f491ce730b404165b8",
-        "title": "ElevenLabs lists BlackRock, Jamie Foxx, and Eva Longoria as new investors",
-        "url": "https://techcrunch.com/2026/05/05/elevenlabs-lists-blackrock-jamie-foxx-and-eva-longoria-as-new-investors/",
-        "description": "ElevenLabs reveals new investors, hits $500M ARR, and expands enterprise footprint as voice AI becomes a critical interface.",
-        "published": "Tue, 05 May 2026 14:20:50 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "74750394a63731b89bce37c96a8ed784",
-        "title": "CopilotKit raises $27M to help devs deploy app-native AI agents",
-        "url": "https://techcrunch.com/2026/05/05/copilotkit-raises-27m-to-help-devs-deploy-app-native-ai-agents/",
-        "description": "The Seattle-based startup's Series A round was led by Glilot Capital, NFX, and SignalFire, TechCrunch has exclusively learned.",
-        "published": "Tue, 05 May 2026 14:07:47 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "4e030a9e5161aaa105b943f77fcb5c27",
-        "title": "4 days left: Get 50% off a second TechCrunch Disrupt 2026 pass to make more deals faster",
-        "url": "https://techcrunch.com/2026/05/05/4-days-left-get-50-off-a-second-techcrunch-disrupt-2026-pass-to-make-more-deals-faster/",
-        "description": "For the next four days only, you can buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. That window closes May 8 at 11:59 p.m. PT. After that, prices go up, and",
-        "published": "Tue, 05 May 2026 14:00:00 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "f7524164da4b3b14fe4870dcdfbcc9a5",
-        "title": "India’s first GenAI unicorn shifts to cloud services as AI model ambitions face reality",
-        "url": "https://techcrunch.com/2026/05/05/indias-first-genai-unicorn-shifts-to-cloud-services-as-ai-model-ambitions-face-reality/",
-        "description": "Krutrim's pivot to cloud after layoffs and limited product updates reflects the economic challenges of building AI models in India.",
-        "published": "Tue, 05 May 2026 13:18:50 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "2d00a23fb9d0abc28d91bad5701fb6c1",
-        "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
-        "url": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
-        "description": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated.",
-        "published": "Tue, 05 May 2026 03:31:54 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "bc98b10e8d5691400318dfc29fd6756c",
-        "title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
-        "url": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
-        "description": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich.",
-        "published": "Mon, 04 May 2026 21:53:21 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "a168596f139698972cc7e8c5284587a9",
-        "title": "Image AI models now drive app growth, beating chatbot upgrades",
-        "url": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
-        "description": "Appfigures finds visual model launches generate 6.5x more downloads — but most don’t convert that spike into revenue.",
-        "published": "Mon, 04 May 2026 19:12:49 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "cde12b0c15be2493aec6ae3bf4c6b031",
-        "title": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race",
-        "url": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
-        "description": "Stuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs.",
-        "published": "Mon, 04 May 2026 16:57:47 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "791e2ed7efba7995e8ffbf39df336cbb",
-        "title": "Sierra raises $950M as the race to own enterprise AI gets serious",
-        "url": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
-        "description": "The raise gives Sierra more than $1 billion to work with — capital the company says it will use to become the \"global standard\" for AI-powered customer experiences.",
-        "published": "Mon, 04 May 2026 16:45:55 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "4507c485b2ba55db282eec0275975d0c",
-        "title": "Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI claims",
-        "url": "https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/",
-        "description": "Musk texted OpenAI's president and co-founder saying that he and CEO Sam Altman \"will be the most hated men in America\" if OpenAI doesn't settle the suit.",
-        "published": "Mon, 04 May 2026 16:36:03 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "2df0f916df05414019b94b4fbbadfe5c",
-        "title": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services",
-        "url": "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/",
-        "description": "Both Anthropic and OpenAI have partnered with asset managers to more aggressively market their enterprise AI products.",
-        "published": "Mon, 04 May 2026 15:59:24 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "6b299ce73670610db561d8ace9dd81d0",
-        "title": "Apple agrees to pay iPhone owners $250 million for not delivering AI Siri",
-        "url": "https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement",
-        "description": "Apple has agreed to pay $250 million to settle a class action lawsuit that accused it of misleading customers about the availability of its Apple Intelligence features. The proposed settlement would a",
-        "published": "2026-05-05T18:10:12-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "2c86cbbc5016c075265eb3d5a64f1305",
-        "title": "Google Home&#8217;s Gemini AI can handle more complicated requests",
-        "url": "https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade",
-        "description": "Google Home users can now ask Gemini to complete more complex, multi-step tasks and combine multiple tasks in a single command. Google has updated Gemini for Home to Gemini 3.1, which it says will imp",
-        "published": "2026-05-05T17:46:04-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "48025774",
-        "title": "Dreamer: Make any coding agent self-evolving, across the whole team",
-        "url": "https://github.com/luml-ai/dreamer",
-        "description": "",
-        "published": "2026-05-05T17:33:43Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 4,
-        "comments": 3,
-        "is_new": false
-      },
-      {
-        "id": "74cdffe7e5df374389a7ff29cfba1c3a",
-        "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-        "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-        "description": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni",
-        "published": "2026-05-05T16:26:22-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "8738ef1c33b530864fb741bff1929847",
-        "title": "Microsoft gives up on Xbox Copilot AI",
-        "url": "https://www.theverge.com/games/924551/microsoft-xbox-ceo-copilot-ai-asha-sharma",
-        "description": "Xbox is \"winding down Copilot on mobile\" and \"will stop development of Copilot on console,\" new Xbox CEO Asha Sharma announced on Tuesday. The move follows Sharma's reorganization of the Xbox platform",
-        "published": "2026-05-05T15:58:45-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "9f3a2c3aa6fa4071d7654b4758aa5160",
-        "title": "Apple could let you pick a favorite AI model in iOS 27",
-        "url": "https://www.theverge.com/tech/924515/apple-intelligence-third-party-chatbot-extensions-ios-27",
-        "description": "The next update to Apple's operating systems could allow users to choose their preferred AI model for running Apple Intelligence. According to Bloomberg's Mark Gurman, Apple is planning to allow third",
-        "published": "2026-05-05T15:45:30-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "c7793318ff2770d7e620614057e53dd3",
-        "title": "OpenAI claims ChatGPT’s new default model hallucinates way less",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/924225/openai-chatgpt-default-model-gpt-5-5-instant",
-        "description": "OpenAI's newest default model for ChatGPT might not make stuff up as much. Hallucinations have been an ongoing problem for AI models, but OpenAI says its new GPT-5.5 Instant model has \"significant imp",
-        "published": "2026-05-05T14:01:24-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "114c4e61cd5a846d222787b5d9ea5ef2",
-        "title": "Book publishers sue Meta over AI&#8217;s &#8216;word-for-word&#8217; copying",
-        "url": "https://www.theverge.com/tech/924230/meta-publishers-lawsuit-ai-copyright",
-        "description": "Meta is facing a class action lawsuit filed by five major book publishers and one author over claims the company \"engaged in one of the most massive infringements of copyrighted materials in history\"",
-        "published": "2026-05-05T13:50:09-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "48022411",
-        "title": "Show HN: Probus, AI vuln scanner (PRs merged in Vercel AI SDK, n8n, LangGraph)",
-        "url": "https://news.ycombinator.com/item?id=48022411",
-        "description": "",
-        "published": "2026-05-05T13:39:05Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 1,
-        "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "8ee7d398be1e7ee307409beece0f2bf5",
-        "title": "OpenAI is reportedly launching a phone for ChatGPT",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/924063/openai-phone-rumors-2027-ming-chi-kuo",
-        "description": "OpenAI's first hardware product might be a phone instead of a mysterious Jony Ive gadget. As reported by MacRumors, supply chain analyst Ming-Chi Kuo shared details about the rumored phone, claiming O",
-        "published": "2026-05-05T11:40:07-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
       }
     ]
   }
