@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-06T09:35:18.995854+00:00",
+  "last_updated": "2026-05-06T12:04:27.371326+00:00",
   "total_entries": 110,
-  "new_entries": 0,
+  "new_entries": 5,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,6 +768,30 @@
       "is_new": false
     },
     {
+      "id": "70f8f46a04d9b3a2a9744692130cf95b",
+      "title": "Microsoft’s Office and LinkedIn chief now runs Teams in latest reshuffle",
+      "url": "https://www.theverge.com/tech/924931/microsoft-office-copilot-windows-reorg-shuffle",
+      "description": "Microsoft's LinkedIn CEO, Ryan Roslansky, took on an expanded role at the company as head of Office last year, and he's now getting more responsibilities as part of the latest leadership reshuffle ins",
+      "published": "2026-05-06T07:45:45-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "a7f445bf912069d685af2dd9196d2d37",
+      "title": "Chrome’s AI features may be hogging 4GB of your computer storage",
+      "url": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
+      "description": "Google Chrome may be taking up more of your storage than expected thanks to a large on-device AI model file that, in some cases, is being automatically downloaded to the browser's system folders. User",
+      "published": "2026-05-06T06:13:09-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "6b299ce73670610db561d8ace9dd81d0",
       "title": "Apple agrees to pay iPhone owners $250 million for not delivering AI Siri",
       "url": "https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement",
@@ -892,30 +916,6 @@
       "is_new": false
     },
     {
-      "id": "8605b7862af338437219f54aab66569a",
-      "title": "Google, Microsoft, and xAI will allow the US government to review their new AI models",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/924017/google-microsoft-xai-government-review",
-      "description": "Google DeepMind, Microsoft, and Elon Musk's xAI have agreed to allow the US government to review new AI models before they're released to the public. In an announcement on Tuesday, the Commerce Depart",
-      "published": "2026-05-05T10:26:59-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "9cd301844a547b2935e465b1ff5d7e2d",
-      "title": "What an AI-designed car looks like",
-      "url": "https://www.theverge.com/podcast/923974/ai-car-design-codex-vergecast",
-      "description": "The cars rolling off production lines right now are filled with old ideas. From beginning to end, the creation of a new vehicle can take five years or longer - which is plenty of time for a lot of tas",
-      "published": "2026-05-05T09:42:18-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "48018160",
       "title": "Ask HN: Why would we care about \"extended time horizons\" and LLMs?",
       "url": "https://news.ycombinator.com/item?id=48018160",
@@ -925,7 +925,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 3,
+      "points": 4,
       "comments": 5,
       "is_new": false
     },
@@ -992,7 +992,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 12,
       "is_new": false
     },
     {
@@ -1079,6 +1079,32 @@
       "is_new": false
     },
     {
+      "id": "744ebd030d11c432e3b88f178987b28a",
+      "title": "Video Generation with Predictive Latents",
+      "url": "https://huggingface.co/papers/2605.02134",
+      "description": "Video Variational Autoencoder (VAE) enables latent video generative modeling by mapping the visual world into compact spatiotemporal latent spaces, improving training efficiency and stability. While e",
+      "published": "2026-05-03T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 5,
+      "is_new": true
+    },
+    {
+      "id": "76600a213315e606b2bf5608805a42bc",
+      "title": "ARIS: Autonomous Research via Adversarial Multi-Agent Collaboration",
+      "url": "https://huggingface.co/papers/2605.03042",
+      "description": "This report describes ARIS (Auto-Research-in-sleep), an open-source research harness for autonomous research, including its architecture, assurance mechanisms, and early deployment experience. The per",
+      "published": "2026-05-03T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 51,
+      "is_new": true
+    },
+    {
       "id": "b2443eedd184045abe08100bc6c8e7a2",
       "title": "The TTS-STT Flywheel: Synthetic Entity-Dense Audio Closes the Indic ASR Gap Where Commercial and Open-Source Systems Fail",
       "url": "https://huggingface.co/papers/2605.03073",
@@ -1114,7 +1140,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
+      "likes": 8,
       "is_new": false
     },
     {
@@ -1264,34 +1290,6 @@
       "category": "news",
       "points": 58,
       "comments": 12,
-      "is_new": false
-    },
-    {
-      "id": "47972142",
-      "title": "Show HN: Git Shield – local hooks for secrets and PII",
-      "url": "https://news.ycombinator.com/item?id=47972142",
-      "description": "",
-      "published": "2026-05-01T07:33:49Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "47969781",
-      "title": "We scanned 100 Smithery MCP servers, 22 flagged, here's what we found",
-      "url": "https://news.ycombinator.com/item?id=47969781",
-      "description": "",
-      "published": "2026-04-30T23:44:18Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 5,
-      "comments": 5,
       "is_new": false
     }
   ],
@@ -1538,6 +1536,30 @@
         "is_new": false
       },
       {
+        "id": "70f8f46a04d9b3a2a9744692130cf95b",
+        "title": "Microsoft’s Office and LinkedIn chief now runs Teams in latest reshuffle",
+        "url": "https://www.theverge.com/tech/924931/microsoft-office-copilot-windows-reorg-shuffle",
+        "description": "Microsoft's LinkedIn CEO, Ryan Roslansky, took on an expanded role at the company as head of Office last year, and he's now getting more responsibilities as part of the latest leadership reshuffle ins",
+        "published": "2026-05-06T07:45:45-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "a7f445bf912069d685af2dd9196d2d37",
+        "title": "Chrome’s AI features may be hogging 4GB of your computer storage",
+        "url": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
+        "description": "Google Chrome may be taking up more of your storage than expected thanks to a large on-device AI model file that, in some cases, is being automatically downloaded to the browser's system folders. User",
+        "published": "2026-05-06T06:13:09-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "6b299ce73670610db561d8ace9dd81d0",
         "title": "Apple agrees to pay iPhone owners $250 million for not delivering AI Siri",
         "url": "https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement",
@@ -1629,32 +1651,6 @@
         "url": "https://www.theverge.com/tech/924230/meta-publishers-lawsuit-ai-copyright",
         "description": "Meta is facing a class action lawsuit filed by five major book publishers and one author over claims the company \"engaged in one of the most massive infringements of copyrighted materials in history\"",
         "published": "2026-05-05T13:50:09-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "48022411",
-        "title": "Show HN: Probus, AI vuln scanner (PRs merged in Vercel AI SDK, n8n, LangGraph)",
-        "url": "https://news.ycombinator.com/item?id=48022411",
-        "description": "",
-        "published": "2026-05-05T13:39:05Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 1,
-        "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "8ee7d398be1e7ee307409beece0f2bf5",
-        "title": "OpenAI is reportedly launching a phone for ChatGPT",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/924063/openai-phone-rumors-2027-ming-chi-kuo",
-        "description": "OpenAI's first hardware product might be a phone instead of a mysterious Jony Ive gadget. As reported by MacRumors, supply chain analyst Ming-Chi Kuo shared details about the rumored phone, claiming O",
-        "published": "2026-05-05T11:40:07-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
