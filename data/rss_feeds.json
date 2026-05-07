@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-07T20:37:04.671931+00:00",
+  "last_updated": "2026-05-07T22:13:56.551149+00:00",
   "total_entries": 110,
-  "new_entries": 4,
+  "new_entries": 8,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -120,16 +120,16 @@
       "is_new": false
     },
     {
-      "id": "dd166b06fec4ef2cde42a67e0a0ad3b3",
-      "title": "Google updates AI search to include quotes from Reddit and other sources",
-      "url": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
-      "description": "While citing web forums and discussion boards can help users find answers to more niche queries, this design choice could also prove chaotic.",
-      "published": "Wed, 06 May 2026 15:49:39 +0000",
+      "id": "fd7638a89d317ab04353ffe8f77fc8cf",
+      "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
+      "url": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
+      "description": "AI startup Pit is led by the cofounders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round.",
+      "published": "Thu, 07 May 2026 21:02:11 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "78b9d253c0d2ad25d889f17eaa8d7748",
@@ -768,6 +768,60 @@
       "is_new": false
     },
     {
+      "id": "48055702",
+      "title": "Show HN: Disputron – AI small claims court for petty disputes",
+      "url": "https://disputron.ai",
+      "description": "",
+      "published": "2026-05-07T22:00:02Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 3,
+      "comments": 1,
+      "is_new": true
+    },
+    {
+      "id": "48055412",
+      "title": "thoughts on Gen AI's frontier of individuality",
+      "url": "https://news.ycombinator.com/item?id=48055412",
+      "description": "",
+      "published": "2026-05-07T21:35:39Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 3,
+      "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "48054659",
+      "title": "Show HN: Resurf – realistic, reproducible test framework for AI browser agents",
+      "url": "https://github.com/lightfeed/resurf",
+      "description": "",
+      "published": "2026-05-07T20:41:02Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 3,
+      "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "bb75d86767ac8fcbe9627c0444a66522",
+      "title": "Google’s taking a big swing at AI health with the Fitbit Air",
+      "url": "https://www.theverge.com/gadgets/925458/google-health-fitbit-air-ai-coaching-wearables-fitness-trackers",
+      "description": "It's a Whoop dupe. That was my first thought when I saw the new $99 Google Fitbit Air. You can hardly blame me. The band is screenless with a metallic fabric clasp. My eyes flickered between the Fitbi",
+      "published": "2026-05-07T18:13:01-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": false
+    },
+    {
       "id": "48052476",
       "title": "Show HN: Agent-data – a CLI for giving agents real-time, structured data",
       "url": "https://agent-data.dev/",
@@ -863,18 +917,6 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony",
       "description": "I sat down in the Musk v. Altman trial courtroom today, painfully aware that no one was going to ask Shivon Zilis the question on everyone's minds: Girl, what the fuck are you doing? Zilis, who testif",
       "published": "2026-05-07T11:55:46-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "bb75d86767ac8fcbe9627c0444a66522",
-      "title": "Google’s taking a big swing at AI health with the Fitbit Air",
-      "url": "https://www.theverge.com/gadgets/925458/google-health-fitbit-air-ai-coaching-wearables-fitness-trackers",
-      "description": "It's a Whoop dupe. That was my first thought when I saw the new $99 Google Fitbit Air. You can hardly blame me. The band is screenless with a metallic fabric clasp. My eyes flickered between the Fitbi",
-      "published": "2026-05-07T11:36:17-04:00",
       "source_id": "theverge-ai",
       "source_name": "The Verge AI",
       "source_icon": "📰",
@@ -1249,47 +1291,6 @@
       "points": 4,
       "comments": 1,
       "is_new": false
-    },
-    {
-      "id": "48001123",
-      "title": "Duralang – decorator makes every LangChain LLM/tool/MCP call a Temporal Activity",
-      "url": "https://temporal.io/code-exchange/duralang-durable-stochastic-ai-agents-with-one-decorator",
-      "description": "",
-      "published": "2026-05-03T20:30:41Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 5,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "9bf6dc176f531492a82f671022444e31",
-      "title": "KinDER: A Physical Reasoning Benchmark for Robot Learning and Planning",
-      "url": "https://huggingface.co/papers/2604.25788",
-      "description": "Robotic systems that interact with the physical world must reason about kinematic and dynamic constraints imposed by their own embodiment, their environment, and the task at hand. We introduce KinDER,",
-      "published": "2026-05-03T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": true
-    },
-    {
-      "id": "47995206",
-      "title": "Show HN: Speq – A collaborative web-based repository for your product's spec",
-      "url": "https://getspeq.com",
-      "description": "",
-      "published": "2026-05-03T09:38:18Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 3,
-      "comments": 0,
-      "is_new": false
     }
   ],
   "by_category": {
@@ -1367,16 +1368,16 @@
         "is_new": false
       },
       {
-        "id": "dd166b06fec4ef2cde42a67e0a0ad3b3",
-        "title": "Google updates AI search to include quotes from Reddit and other sources",
-        "url": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
-        "description": "While citing web forums and discussion boards can help users find answers to more niche queries, this design choice could also prove chaotic.",
-        "published": "Wed, 06 May 2026 15:49:39 +0000",
+        "id": "fd7638a89d317ab04353ffe8f77fc8cf",
+        "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
+        "url": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
+        "description": "AI startup Pit is led by the cofounders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round.",
+        "published": "Thu, 07 May 2026 21:02:11 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
+        "is_new": true
       },
       {
         "id": "78b9d253c0d2ad25d889f17eaa8d7748",
@@ -1535,6 +1536,60 @@
         "is_new": false
       },
       {
+        "id": "48055702",
+        "title": "Show HN: Disputron – AI small claims court for petty disputes",
+        "url": "https://disputron.ai",
+        "description": "",
+        "published": "2026-05-07T22:00:02Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 3,
+        "comments": 1,
+        "is_new": true
+      },
+      {
+        "id": "48055412",
+        "title": "thoughts on Gen AI's frontier of individuality",
+        "url": "https://news.ycombinator.com/item?id=48055412",
+        "description": "",
+        "published": "2026-05-07T21:35:39Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 3,
+        "comments": 0,
+        "is_new": true
+      },
+      {
+        "id": "48054659",
+        "title": "Show HN: Resurf – realistic, reproducible test framework for AI browser agents",
+        "url": "https://github.com/lightfeed/resurf",
+        "description": "",
+        "published": "2026-05-07T20:41:02Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 3,
+        "comments": 0,
+        "is_new": true
+      },
+      {
+        "id": "bb75d86767ac8fcbe9627c0444a66522",
+        "title": "Google’s taking a big swing at AI health with the Fitbit Air",
+        "url": "https://www.theverge.com/gadgets/925458/google-health-fitbit-air-ai-coaching-wearables-fitness-trackers",
+        "description": "It's a Whoop dupe. That was my first thought when I saw the new $99 Google Fitbit Air. You can hardly blame me. The band is screenless with a metallic fabric clasp. My eyes flickered between the Fitbi",
+        "published": "2026-05-07T18:13:01-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
         "id": "48052476",
         "title": "Show HN: Agent-data – a CLI for giving agents real-time, structured data",
         "url": "https://agent-data.dev/",
@@ -1604,56 +1659,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/926356/spacex-terafab-plant-cost-ai-chips",
         "description": "Elon Musk's plans to get into the AI chip manufacturing business are going to be costly. As the New York Times and CNBC report, SpaceX is planning to invest at least $55 billion into its \"Terafab\" chi",
         "published": "2026-05-07T15:26:16-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "48050015",
-        "title": "Show HN: Self-improving skills for any coding agent",
-        "url": "https://github.com/luml-ai/dreamer",
-        "description": "",
-        "published": "2026-05-07T14:37:30Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 3,
-        "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "f2594370a05d2db3d57e52b739f6e85d",
-        "title": "Musk’s biggest loyalist became his biggest liability",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony",
-        "description": "I sat down in the Musk v. Altman trial courtroom today, painfully aware that no one was going to ask Shivon Zilis the question on everyone's minds: Girl, what the fuck are you doing? Zilis, who testif",
-        "published": "2026-05-07T11:55:46-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "bb75d86767ac8fcbe9627c0444a66522",
-        "title": "Google’s taking a big swing at AI health with the Fitbit Air",
-        "url": "https://www.theverge.com/gadgets/925458/google-health-fitbit-air-ai-coaching-wearables-fitness-trackers",
-        "description": "It's a Whoop dupe. That was my first thought when I saw the new $99 Google Fitbit Air. You can hardly blame me. The band is screenless with a metallic fabric clasp. My eyes flickered between the Fitbi",
-        "published": "2026-05-07T11:36:17-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "bb0d80cfa847953969f31334ea12dafb",
-        "title": "OpenClaw and Claude can put your AI-generated podcasts in Spotify",
-        "url": "https://www.theverge.com/entertainment/925916/save-to-spotify-ai-podcasts",
-        "description": "Save to Spotify is a new command-line tool designed specifically for AI agents like OpenClaw, Claude Code, or OpenAI Codex. If you're the kind of person who collects research on a topic, then feeds it",
-        "published": "2026-05-07T11:09:36-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
