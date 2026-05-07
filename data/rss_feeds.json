@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-07T04:01:28.416608+00:00",
+  "last_updated": "2026-05-07T06:50:27.955218+00:00",
   "total_entries": 110,
-  "new_entries": 40,
+  "new_entries": 52,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -276,16 +276,16 @@
       "is_new": false
     },
     {
-      "id": "d15cde9337a4a35b350b752ee54b54d3",
-      "title": "ASML CEO Christophe Fouquet on his company’s monopoly: no one is coming for us",
-      "url": "https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/",
-      "description": "Christophe Fouquet, who became ASML's CEO in 2024 after more than a decade at the company, sat down with this editor on the rooftop deck of his Beverly Hills hotel Tuesday morning ahead of his appeara",
-      "published": "Tue, 05 May 2026 20:06:40 +0000",
+      "id": "bd6c9177f3c7403118d845c8158d07a1",
+      "title": "Five architects of the AI economy explain where the wheels are coming off",
+      "url": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
+      "description": "Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Global Conference in Beverly Hills, where they talked with TechCrunch about everything from chip shor",
+      "published": "Thu, 07 May 2026 05:25:10 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "d9c7bbf8f8bf514047a49473e5b54f76",
@@ -878,6 +878,45 @@
       "is_new": false
     },
     {
+      "id": "1cc0e50fce06cd30514bcd91a1c7afba",
+      "title": "OpenSearch-VL: An Open Recipe for Frontier Multimodal Search Agents",
+      "url": "https://huggingface.co/papers/2605.05185",
+      "description": "Deep search has become a crucial capability for frontier multimodal agents, enabling models to solve complex questions through active search, evidence verification, and multi-step reasoning. Despite r",
+      "published": "2026-05-05T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 8,
+      "is_new": true
+    },
+    {
+      "id": "b01899227fe924c1fdf96bab0eea39ba",
+      "title": "Stream-T1: Test-Time Scaling for Streaming Video Generation",
+      "url": "https://huggingface.co/papers/2605.04461",
+      "description": "While Test-Time Scaling (TTS) offers a promising direction to enhance video generation without the surging costs of training, current test-time video generation methods based on diffusion models suffe",
+      "published": "2026-05-05T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 76,
+      "is_new": true
+    },
+    {
+      "id": "1620761df64f22da4d021f27ed98c620",
+      "title": "Lightning Unified Video Editing via In-Context Sparse Attention",
+      "url": "https://huggingface.co/papers/2605.04569",
+      "description": "Video editing has evolved toward In-Context Learning (ICL) paradigms, yet the resulting quadratic attention costs create a critical computational bottleneck. In this work, we propose In-context Sparse",
+      "published": "2026-05-05T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
       "id": "ce49e1d250b9da5ceb21c3c4c17002d6",
       "title": "PhysForge: Generating Physics-Grounded 3D Assets for Interactive Virtual World",
       "url": "https://huggingface.co/papers/2605.05163",
@@ -887,7 +926,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 14,
       "is_new": false
     },
     {
@@ -900,7 +939,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
+      "likes": 13,
       "is_new": false
     },
     {
@@ -913,7 +952,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
+      "likes": 7,
       "is_new": false
     },
     {
@@ -938,20 +977,6 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "48025774",
-      "title": "Dreamer: Make any coding agent self-evolving, across the whole team",
-      "url": "https://github.com/luml-ai/dreamer",
-      "description": "",
-      "published": "2026-05-05T17:33:43Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 5,
-      "comments": 3,
       "is_new": false
     },
     {
@@ -997,6 +1022,71 @@
       "is_new": false
     },
     {
+      "id": "dce07149202f6856a5460641b3ac76ce",
+      "title": "Parameter-Efficient Multi-View Proficiency Estimation: From Discriminative Classification to Generative Feedback",
+      "url": "https://huggingface.co/papers/2605.03848",
+      "description": "Estimating how well a person performs an action, rather than which action is performed, is central to coaching, rehabilitation, and talent identification. This task is challenging because proficiency ",
+      "published": "2026-05-04T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "7c14cef0d858280c19e4cfa90bb56aa4",
+      "title": "APEX: Large-scale Multi-task Aesthetic-Informed Popularity Prediction for AI-Generated Music",
+      "url": "https://huggingface.co/papers/2605.03395",
+      "description": "Music popularity prediction has attracted growing research interest, with relevance to artists, platforms, and recommendation systems. However, the explosive rise of AI-generated music platforms has c",
+      "published": "2026-05-04T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "b747db06db8dc7fe019120b1af0ad9b4",
+      "title": "Awaking Spatial Intelligence in Unified Multimodal Understanding and Generation",
+      "url": "https://huggingface.co/papers/2605.04128",
+      "description": "We present JoyAI-Image, a unified multimodal foundation model for visual understanding, text-to-image generation, and instruction-guided image editing. JoyAI-Image couples a spatially enhanced Multimo",
+      "published": "2026-05-04T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
+    },
+    {
+      "id": "b0b0f980bef3e254de3d5ef23b6555b8",
+      "title": "Stream-R1: Reliability-Perplexity Aware Reward Distillation for Streaming Video Generation",
+      "url": "https://huggingface.co/papers/2605.03849",
+      "description": "Distillation-based acceleration has become foundational for making autoregressive streaming video diffusion models practical, with distribution matching distillation (DMD) as the de facto choice. Exis",
+      "published": "2026-05-04T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 82,
+      "is_new": true
+    },
+    {
+      "id": "fb544fa3ae0f6ac81297ae2bbecba16a",
+      "title": "RLDX-1 Technical Report",
+      "url": "https://huggingface.co/papers/2605.03269",
+      "description": "While Vision-Language-Action models (VLAs) have shown remarkable progress toward human-like generalist robotic policies through the versatile intelligence (i.e. broad scene understanding and language-",
+      "published": "2026-05-04T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 62,
+      "is_new": true
+    },
+    {
       "id": "37eb26f424c0432683dd33d6e34de9cb",
       "title": "Rethinking Reasoning-Intensive Retrieval: Evaluating and Advancing Retrievers in Agentic Search Systems",
       "url": "https://huggingface.co/papers/2605.04018",
@@ -1006,20 +1096,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
-      "is_new": false
-    },
-    {
-      "id": "f4e38f8c056e8b46519eeffc8fdbeb3f",
-      "title": "PatRe: A Full-Stage Office Action and Rebuttal Generation Benchmark for Patent Examination",
-      "url": "https://huggingface.co/papers/2605.03571",
-      "description": "Patent examination is a complex, multi-stage process requiring both technical expertise and legal reasoning, increasingly challenged by rising application volumes. Prior benchmarks predominantly view ",
-      "published": "2026-05-04T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 5,
+      "likes": 12,
       "is_new": false
     },
     {
@@ -1115,33 +1192,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 76,
-      "is_new": false
-    },
-    {
-      "id": "b2443eedd184045abe08100bc6c8e7a2",
-      "title": "The TTS-STT Flywheel: Synthetic Entity-Dense Audio Closes the Indic ASR Gap Where Commercial and Open-Source Systems Fail",
-      "url": "https://huggingface.co/papers/2605.03073",
-      "description": "Niche-domain Indic ASR -- digit strings, currency amounts, addresses, brand names, English/Indic codemix -- is under-served by both open-source SOTA and commercial systems. On a synthesised entity-den",
-      "published": "2026-05-03T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "afef8df7eee7d7a141a5db1c3fe47000",
-      "title": "Reinforcement Learning for LLM-based Multi-Agent Systems through Orchestration Traces",
-      "url": "https://huggingface.co/papers/2605.02801",
-      "description": "As large language model (LLM) agents evolve from isolated tool users into coordinated teams, reinforcement learning (RL) must optimize not only individual actions but also how work is spawned, delegat",
-      "published": "2026-05-03T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
+      "likes": 82,
       "is_new": false
     },
     {
@@ -1173,19 +1224,6 @@
       "is_new": false
     },
     {
-      "id": "9b0297affda5bccfcf226a782622dfb8",
-      "title": "TCDA: Thread-Constrained Discourse-Aware Modeling for Conversational Sentiment Quadruple Analysis",
-      "url": "https://huggingface.co/papers/2605.01717",
-      "description": "Conversational Aspect-based Sentiment Quadruple Analysis (DiaASQ) needs to capture the complex interrelationships in multiple rounds of dialogues. Existing methods usually employ simple Graph Convolut",
-      "published": "2026-05-02T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
       "id": "47986749",
       "title": "Show HN: Vdiff – CLI to help you review AI-generated code",
       "url": "https://news.ycombinator.com/item?id=47986749",
@@ -1197,20 +1235,6 @@
       "category": "news",
       "points": 1,
       "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "47984321",
-      "title": "Ask HN: Should AI agents have their own legal entities?",
-      "url": "https://news.ycombinator.com/item?id=47984321",
-      "description": "",
-      "published": "2026-05-02T07:46:30Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 8,
       "is_new": false
     },
     {
@@ -1228,59 +1252,6 @@
       "is_new": false
     },
     {
-      "id": "10dc3c7ffd8f4592420b4dd73f454e3c",
-      "title": "ESARBench: A Benchmark for Agentic UAV Embodied Search and Rescue",
-      "url": "https://huggingface.co/papers/2605.01371",
-      "description": "The rapid advancement of Multimodal Large Language Models (MLLMs) has empowered Unmanned Aerial Vehicle (UAV) with exceptional capabilities in spatial reasoning, semantic understanding, and complex de",
-      "published": "2026-05-01T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "188c87fc57ca93260eec33ee02044d51",
-      "title": "Chain of Evidence: Pixel-Level Visual Attribution for Iterative Retrieval-Augmented Generation",
-      "url": "https://huggingface.co/papers/2605.01284",
-      "description": "Iterative Retrieval-Augmented Generation (iRAG) has emerged as a powerful paradigm for answering complex multi-hop questions by progressively retrieving and reasoning over external documents. However,",
-      "published": "2026-05-01T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
-      "is_new": false
-    },
-    {
-      "id": "1183d6f9f001585e7cceb977a063f6a9",
-      "title": "SplAttN: Bridging 2D and 3D with Gaussian Soft Splatting and Attention for Point Cloud Completion",
-      "url": "https://huggingface.co/papers/2605.01466",
-      "description": "Although multi-modal learning has advanced point cloud completion, the theoretical mechanisms remain unclear. Recent works attribute success to the connection between modalities, yet we identify that ",
-      "published": "2026-05-01T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "47973093",
-      "title": "Show HN: Loopsy, a way for terminals and AI agents on different machines to talk",
-      "url": "https://github.com/leox255/loopsy",
-      "description": "",
-      "published": "2026-05-01T10:25:41Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 58,
-      "comments": 12,
-      "is_new": false
-    },
-    {
       "id": "47972142",
       "title": "Show HN: Git Shield – local hooks for secrets and PII",
       "url": "https://news.ycombinator.com/item?id=47972142",
@@ -1292,6 +1263,34 @@
       "category": "news",
       "points": 2,
       "comments": 0,
+      "is_new": false
+    },
+    {
+      "id": "47969781",
+      "title": "We scanned 100 Smithery MCP servers, 22 flagged, here's what we found",
+      "url": "https://news.ycombinator.com/item?id=47969781",
+      "description": "",
+      "published": "2026-04-30T23:44:18Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 5,
+      "comments": 5,
+      "is_new": false
+    },
+    {
+      "id": "47968112",
+      "title": "Show HN: Pu.sh – a full coding-agent harness in 400 lines of shell",
+      "url": "https://pu.dev/",
+      "description": "",
+      "published": "2026-04-30T20:55:12Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 92,
+      "comments": 28,
       "is_new": false
     }
   ],
@@ -1526,16 +1525,16 @@
         "is_new": false
       },
       {
-        "id": "d15cde9337a4a35b350b752ee54b54d3",
-        "title": "ASML CEO Christophe Fouquet on his company’s monopoly: no one is coming for us",
-        "url": "https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/",
-        "description": "Christophe Fouquet, who became ASML's CEO in 2024 after more than a decade at the company, sat down with this editor on the rooftop deck of his Beverly Hills hotel Tuesday morning ahead of his appeara",
-        "published": "Tue, 05 May 2026 20:06:40 +0000",
+        "id": "bd6c9177f3c7403118d845c8158d07a1",
+        "title": "Five architects of the AI economy explain where the wheels are coming off",
+        "url": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
+        "description": "Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Global Conference in Beverly Hills, where they talked with TechCrunch about everything from chip shor",
+        "published": "Thu, 07 May 2026 05:25:10 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
+        "is_new": true
       },
       {
         "id": "b4fac8bbe83410d1bc3323dbe566481b",
