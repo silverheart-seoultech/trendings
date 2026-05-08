@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-08T06:07:04.197299+00:00",
+  "last_updated": "2026-05-08T07:49:34.588722+00:00",
   "total_entries": 110,
-  "new_entries": 25,
+  "new_entries": 27,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -805,8 +805,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 6,
-      "comments": 8,
+      "points": 8,
+      "comments": 9,
       "is_new": false
     },
     {
@@ -1016,6 +1016,32 @@
       "is_new": false
     },
     {
+      "id": "2c279902be2644073636744a2aa8b673",
+      "title": "TIDE: Every Layer Knows the Token Beneath the Context",
+      "url": "https://huggingface.co/papers/2605.06216",
+      "description": "We revisit a universally accepted but under-examined design choice in every modern LLM: a token index is looked up once at the input embedding layer and then permanently discarded. This single-injecti",
+      "published": "2026-05-06T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "80d806932c25ef4d4165891ceb298228",
+      "title": "When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Ground-Truth Labels",
+      "url": "https://huggingface.co/papers/2605.06652",
+      "description": "Many deployments must compare candidate language models for safety before a labeled benchmark exists for the relevant language, sector, or regulatory regime. We formalize this setting as benchmarkless",
+      "published": "2026-05-06T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "47b237ffaccd26528097d47cd668aa1a",
       "title": "When to Trust Imagination: Adaptive Action Execution for World Action Models",
       "url": "https://huggingface.co/papers/2605.06222",
@@ -1025,7 +1051,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 24,
+      "likes": 26,
       "is_new": true
     },
     {
@@ -1051,7 +1077,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 15,
+      "likes": 16,
       "is_new": false
     },
     {
@@ -1064,7 +1090,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 6,
       "is_new": false
     },
     {
@@ -1090,7 +1116,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 11,
+      "likes": 17,
       "is_new": false
     },
     {
@@ -1129,7 +1155,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 6,
       "is_new": false
     },
     {
@@ -1142,7 +1168,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 19,
+      "likes": 22,
       "is_new": false
     },
     {
@@ -1155,33 +1181,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "1e433e812099aef6729df129ace63b0c",
-      "title": "Skill1: Unified Evolution of Skill-Augmented Agents via Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2605.06130",
-      "description": "A persistent skill library allows language model agents to reuse successful strategies across tasks. Maintaining such a library requires three coupled capabilities. The agent selects a relevant skill,",
-      "published": "2026-05-06T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "17c18a1e07b3ad20042ca7aec51127dc",
-      "title": "AI Co-Mathematician: Accelerating Mathematicians with Agentic AI",
-      "url": "https://huggingface.co/papers/2605.06651",
-      "description": "We introduce the AI co-mathematician, a workbench for mathematicians to interactively leverage AI agents to pursue open-ended research. The AI co-mathematician is optimized to provide holistic support",
-      "published": "2026-05-06T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -1220,7 +1220,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
+      "likes": 11,
       "is_new": true
     },
     {
@@ -1233,7 +1233,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 4,
       "is_new": true
     },
     {
@@ -1571,8 +1571,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 6,
-        "comments": 8,
+        "points": 8,
+        "comments": 9,
         "is_new": false
       },
       {
