@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-08T23:08:41.953760+00:00",
+  "last_updated": "2026-05-09T00:08:42.875161+00:00",
   "total_entries": 110,
-  "new_entries": 3,
+  "new_entries": 4,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -1056,6 +1056,19 @@
       "is_new": false
     },
     {
+      "id": "d5d1daf92510d70add8e36cbd8bae407",
+      "title": "EMO: Pretraining Mixture of Experts for Emergent Modularity",
+      "url": "https://huggingface.co/papers/2605.06663",
+      "description": "Large language models are typically deployed as monolithic systems, requiring the full model even when applications need only a narrow subset of capabilities, e.g., code, math, or domain-specific know",
+      "published": "2026-05-06T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
+    },
+    {
       "id": "b3828e65e074428eb8765c5fa60e3783",
       "title": "PianoCoRe: Combined and Refined Piano MIDI Dataset",
       "url": "https://huggingface.co/papers/2605.06627",
@@ -1170,19 +1183,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "89981cea9cf2e4c0cfadcb4681795b19",
-      "title": "Continuous-Time Distribution Matching for Few-Step Diffusion Distillation",
-      "url": "https://huggingface.co/papers/2605.06376",
-      "description": "Step distillation has become a leading technique for accelerating diffusion models, among which Distribution Matching Distillation (DMD) and Consistency Distillation are two representative paradigms. ",
-      "published": "2026-05-06T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 22,
       "is_new": false
     },
     {
