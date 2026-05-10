@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-10T00:01:20.722467+00:00",
+  "last_updated": "2026-05-10T03:53:35.421412+00:00",
   "total_entries": 90,
-  "new_entries": 2,
+  "new_entries": 4,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -180,16 +180,16 @@
       "is_new": false
     },
     {
-      "id": "c9be13e3a9fdb5450eaf69d9c39a7c4d",
-      "title": "China’s Moonshot AI raises $2B at $20B valuation as demand for open source AI skyrockets",
-      "url": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
-      "description": "Moonshot's annualized recurring revenue topped $200 million in April, driven by rapid growth in paid subscriptions and API usage.",
-      "published": "Thu, 07 May 2026 13:44:25 +0000",
+      "id": "78ff151ea44fac2b61c01fc5090f6cbf",
+      "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
+      "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
+      "description": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
+      "published": "Sun, 10 May 2026 02:00:00 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "f09c2bde499d66e5119af980abad6f2e",
@@ -554,6 +554,20 @@
       "points": 2,
       "comments": 2,
       "is_new": false
+    },
+    {
+      "id": "48076414",
+      "title": "Ask HN: Former master-tech building AI systems – how to break into software?",
+      "url": "https://news.ycombinator.com/item?id=48076414",
+      "description": "",
+      "published": "2026-05-09T17:00:58Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": true
     },
     {
       "id": "48076137",
@@ -1091,7 +1105,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 25,
+      "likes": 26,
       "is_new": false
     },
     {
@@ -1122,20 +1136,6 @@
       "is_new": false
     },
     {
-      "id": "48011875",
-      "title": "Show HN: [inerrata] – Collective and Causal Knowledge Layer for Coding Agents",
-      "url": "https://www.inerrata.ai",
-      "description": "",
-      "published": "2026-05-04T17:27:52Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 1,
-      "comments": 0,
-      "is_new": false
-    },
-    {
       "id": "99653a9f661065c50d6e60b1b7a7a2a7",
       "title": "Beyond Semantic Similarity: Rethinking Retrieval for Agentic Search via Direct Corpus Interaction",
       "url": "https://huggingface.co/papers/2605.05242",
@@ -1145,7 +1145,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 66,
+      "likes": 68,
       "is_new": false
     },
     {
@@ -1323,16 +1323,16 @@
         "is_new": false
       },
       {
-        "id": "c9be13e3a9fdb5450eaf69d9c39a7c4d",
-        "title": "China’s Moonshot AI raises $2B at $20B valuation as demand for open source AI skyrockets",
-        "url": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
-        "description": "Moonshot's annualized recurring revenue topped $200 million in April, driven by rapid growth in paid subscriptions and API usage.",
-        "published": "Thu, 07 May 2026 13:44:25 +0000",
+        "id": "78ff151ea44fac2b61c01fc5090f6cbf",
+        "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
+        "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
+        "description": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
+        "published": "Sun, 10 May 2026 02:00:00 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
+        "is_new": true
       },
       {
         "id": "f09c2bde499d66e5119af980abad6f2e",
@@ -1459,6 +1459,20 @@
         "is_new": false
       },
       {
+        "id": "48076414",
+        "title": "Ask HN: Former master-tech building AI systems – how to break into software?",
+        "url": "https://news.ycombinator.com/item?id=48076414",
+        "description": "",
+        "published": "2026-05-09T17:00:58Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 2,
+        "comments": 0,
+        "is_new": true
+      },
+      {
         "id": "48076137",
         "title": "Show HN: My AI agents bully each other to prevent context drift",
         "url": "https://wuphf.team",
@@ -1542,18 +1556,6 @@
         "url": "https://www.theverge.com/report/926771/microsoft-openai-amazon-worries-shit-talk-azure",
         "description": "When OpenAI was busy experimenting with AI-powered gaming bots, Microsoft CEO Satya Nadella and OpenAI CEO Sam Altman were in the early days of forming an AI partnership. Court documents from the ongo",
         "published": "2026-05-08T13:55:39-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "5cb0197e266dbe9c89f7229f28d94a42",
-        "title": "Mira Murati’s deposition pulled back the curtain on Sam Altman’s ouster",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster",
-        "description": "The week leading up to Thanksgiving 2023 was the AI industry's biggest soap opera moment. OpenAI CEO Sam Altman was abruptly ousted from his role at the ChatGPT maker. The explanation? That Altman was",
-        "published": "2026-05-08T13:54:13-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
