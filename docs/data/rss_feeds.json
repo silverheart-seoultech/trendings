@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-11T16:10:43.080277+00:00",
+  "last_updated": "2026-05-11T18:02:38.479805+00:00",
   "total_entries": 110,
-  "new_entries": 5,
+  "new_entries": 8,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -120,18 +120,6 @@
       "is_new": false
     },
     {
-      "id": "9a4e8f680d871e6daa51d24e3c69a00e",
-      "title": "How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity",
-      "url": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/",
-      "description": "Security researchers at Mozilla say Anthropic's Mythos has unearthed a wealth of high-severity bugs in Firefox.",
-      "published": "Thu, 07 May 2026 16:05:48 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "8297c2208a183540463d8fa8d3101376",
       "title": "Get ready for the whisper-filled office of the future",
       "url": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
@@ -204,10 +192,22 @@
       "is_new": false
     },
     {
+      "id": "0b86095285b9bb80c0283b4872163396",
+      "title": "Digg tries again, this time as an AI news aggregator",
+      "url": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
+      "description": "Digg returns (again) as another place to read AI news.",
+      "published": "Mon, 11 May 2026 17:02:35 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "8b55c4119673e9f59f160a7275cbe99a",
-      "title": "There aren’t enough rockets for space data centers. Cowboy Space raised $275 million to build them.",
+      "title": "There aren’t enough rockets for space data centers — Cowboy Space raised $275M to build them",
       "url": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
-      "description": "Cowboy Space Corporation wants to put data centers in orbit. First, it has to build the rockets to get them there.",
+      "description": "The apparently insatiable demand for AI compute has data center entrepreneurs looking to the stars. There's a key problem: There aren't enough rockets to put data centers in orbit around Earth, and th",
       "published": "Mon, 11 May 2026 13:00:00 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
@@ -777,7 +777,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 1,
+      "points": 2,
       "comments": 0,
       "is_new": true
     },
@@ -791,7 +791,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 2,
+      "points": 3,
       "comments": 0,
       "is_new": true
     },
@@ -805,9 +805,21 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 2,
+      "points": 3,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "74cdffe7e5df374389a7ff29cfba1c3a",
+      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "description": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni",
+      "published": "2026-05-11T13:52:24-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "48094438",
@@ -828,19 +840,7 @@
       "title": "Google stopped a zero-day hack that it says was developed with AI",
       "url": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped",
       "description": "For the first time, Google says it has spotted and stopped a zero-day exploit developed with AI. According to a report from Google Threat Intelligence Group (GTIG), \"prominent cyber crime threat actor",
-      "published": "2026-05-11T12:09:42-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": true
-    },
-    {
-      "id": "74cdffe7e5df374389a7ff29cfba1c3a",
-      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "description": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni",
-      "published": "2026-05-11T11:59:53-04:00",
+      "published": "2026-05-11T12:28:15-04:00",
       "source_id": "theverge-ai",
       "source_name": "The Verge AI",
       "source_icon": "📰",
@@ -1112,6 +1112,19 @@
       "is_new": false
     },
     {
+      "id": "87fcfef99598b793701323e49b94c33a",
+      "title": "Learning Visual Feature-Based World Models via Residual Latent Action",
+      "url": "https://huggingface.co/papers/2605.07079",
+      "description": "World models predict future transitions from observations and actions. Existing works predominantly focus on image generation only. Visual feature-based world models, on the other hand, predict future",
+      "published": "2026-05-07T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "9452f26cb9b3591db770a44315ed4f97",
       "title": "Trajectory as the Teacher: Few-Step Discrete Flow Matching via Energy-Navigated Distillation",
       "url": "https://huggingface.co/papers/2605.07924",
@@ -1160,7 +1173,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 13,
+      "likes": 14,
       "is_new": false
     },
     {
@@ -1187,32 +1200,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 14,
-      "is_new": false
-    },
-    {
-      "id": "beed706cfb0b75822d54c065a17d80f2",
-      "title": "AEM: Adaptive Entropy Modulation for Multi-Turn Agentic Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2605.00425",
-      "description": "Reinforcement learning (RL) has substantially improved the ability of large language model (LLM) agents to interact with environments and solve multi-turn tasks. However, effective agentic RL remains ",
-      "published": "2026-05-07T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 15,
-      "is_new": false
-    },
-    {
-      "id": "7781a4a0ac1cae6edd33de78f9fdb266",
-      "title": "SCOPE: Structured Decomposition and Conditional Skill Orchestration for Complex Image Generation",
-      "url": "https://huggingface.co/papers/2605.08043",
-      "description": "While text-to-image models have made strong progress in visual fidelity, faithfully realizing complex visual intents remains challenging because many requirements must be tracked across grounding, gen",
-      "published": "2026-05-07T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 7,
       "is_new": false
     },
     {
@@ -1293,7 +1280,20 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 72,
+      "likes": 82,
+      "is_new": false
+    },
+    {
+      "id": "90df95748a05faecea11ac9d93a6739b",
+      "title": "MACE-Dance: Motion-Appearance Cascaded Experts for Music-Driven Dance Video Generation",
+      "url": "https://huggingface.co/papers/2512.18181",
+      "description": "With the rise of online dance-video platforms and rapid advances in AI-generated content (AIGC), music-driven dance generation has emerged as a compelling research direction. Despite substantial progr",
+      "published": "2026-05-06T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 80,
       "is_new": false
     }
   ],
@@ -1365,18 +1365,6 @@
         "url": "https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/",
         "description": "Based on Whitney Wolfe Herd's past comments about Bumble's new direction, the company is expected to lean into AI -- Bumble is even working on an AI dating assistant called Bee, and the CEO has made m",
         "published": "Thu, 07 May 2026 19:06:17 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "9a4e8f680d871e6daa51d24e3c69a00e",
-        "title": "How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity",
-        "url": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/",
-        "description": "Security researchers at Mozilla say Anthropic's Mythos has unearthed a wealth of high-severity bugs in Firefox.",
-        "published": "Thu, 07 May 2026 16:05:48 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
@@ -1456,10 +1444,22 @@
         "is_new": false
       },
       {
+        "id": "0b86095285b9bb80c0283b4872163396",
+        "title": "Digg tries again, this time as an AI news aggregator",
+        "url": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
+        "description": "Digg returns (again) as another place to read AI news.",
+        "published": "Mon, 11 May 2026 17:02:35 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "8b55c4119673e9f59f160a7275cbe99a",
-        "title": "There aren’t enough rockets for space data centers. Cowboy Space raised $275 million to build them.",
+        "title": "There aren’t enough rockets for space data centers — Cowboy Space raised $275M to build them",
         "url": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
-        "description": "Cowboy Space Corporation wants to put data centers in orbit. First, it has to build the rockets to get them there.",
+        "description": "The apparently insatiable demand for AI compute has data center entrepreneurs looking to the stars. There's a key problem: There aren't enough rockets to put data centers in orbit around Earth, and th",
         "published": "Mon, 11 May 2026 13:00:00 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
@@ -1549,7 +1549,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 1,
+        "points": 2,
         "comments": 0,
         "is_new": true
       },
@@ -1563,7 +1563,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 2,
+        "points": 3,
         "comments": 0,
         "is_new": true
       },
@@ -1577,9 +1577,21 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 2,
+        "points": 3,
         "comments": 0,
         "is_new": false
+      },
+      {
+        "id": "74cdffe7e5df374389a7ff29cfba1c3a",
+        "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+        "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+        "description": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni",
+        "published": "2026-05-11T13:52:24-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
       },
       {
         "id": "48094438",
@@ -1600,19 +1612,7 @@
         "title": "Google stopped a zero-day hack that it says was developed with AI",
         "url": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped",
         "description": "For the first time, Google says it has spotted and stopped a zero-day exploit developed with AI. According to a report from Google Threat Intelligence Group (GTIG), \"prominent cyber crime threat actor",
-        "published": "2026-05-11T12:09:42-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": true
-      },
-      {
-        "id": "74cdffe7e5df374389a7ff29cfba1c3a",
-        "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-        "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-        "description": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni",
-        "published": "2026-05-11T11:59:53-04:00",
+        "published": "2026-05-11T12:28:15-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
