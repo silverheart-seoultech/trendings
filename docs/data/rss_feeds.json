@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-11T15:26:09.969532+00:00",
+  "last_updated": "2026-05-11T16:10:43.080277+00:00",
   "total_entries": 110,
-  "new_entries": 12,
+  "new_entries": 5,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -213,7 +213,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "81f6b279771c4d0bcc79b78d30f9e8a3",
@@ -768,6 +768,34 @@
       "is_new": false
     },
     {
+      "id": "48096598",
+      "title": "VibeServe: Can AI Agents Build Bespoke LLM Serving Systems?",
+      "url": "https://github.com/uw-syfi/vibe-serve",
+      "description": "",
+      "published": "2026-05-11T15:48:41Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "48096408",
+      "title": "Ask HN: How to deal with everybody rushing to implement?",
+      "url": "https://news.ycombinator.com/item?id=48096408",
+      "description": "",
+      "published": "2026-05-11T15:35:46Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "48095392",
       "title": "JetBrains Junie – an LLM-agnostic AI coding agent",
       "url": "https://www.jetbrains.com/junie/",
@@ -779,7 +807,7 @@
       "category": "news",
       "points": 2,
       "comments": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "48094438",
@@ -793,6 +821,30 @@
       "category": "news",
       "points": 2,
       "comments": 0,
+      "is_new": false
+    },
+    {
+      "id": "5b6afa769aecbff7e8fa4a322d765c1b",
+      "title": "Google stopped a zero-day hack that it says was developed with AI",
+      "url": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped",
+      "description": "For the first time, Google says it has spotted and stopped a zero-day exploit developed with AI. According to a report from Google Threat Intelligence Group (GTIG), \"prominent cyber crime threat actor",
+      "published": "2026-05-11T12:09:42-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "74cdffe7e5df374389a7ff29cfba1c3a",
+      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "description": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni",
+      "published": "2026-05-11T11:59:53-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
       "is_new": true
     },
     {
@@ -805,7 +857,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "48091975",
@@ -964,30 +1016,6 @@
       "is_new": false
     },
     {
-      "id": "78d7e9daf80683dde43d14181289e4bc",
-      "title": "ChatGPT&#8217;s &#8216;Trusted Contact&#8217; will alert loved ones of safety concerns",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/925874/chatgpt-trusted-contact-emergency-self-harm-notification",
-      "description": "OpenAI is launching an optional safety feature for ChatGPT that allows adult users to assign an emergency contact for mental health and safety concerns. Friends, family members, or caregivers designat",
-      "published": "2026-05-08T06:10:09-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "a4f7e22e914221fa86182680b5c72186",
-      "title": "SpaceX has a $55 billion plan to build AI chips in Texas",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/926356/spacex-terafab-plant-cost-ai-chips",
-      "description": "Elon Musk's plans to get into the AI chip manufacturing business are going to be costly. As the The New York Times and CNBC report, SpaceX is planning to invest at least $55 billion into its \"Terafab\"",
-      "published": "2026-05-08T06:00:54-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "408a70be651013791f9737ecaa4ceff2",
       "title": "Apple&#8217;s AirPods with cameras for AI are apparently close to production",
       "url": "https://www.theverge.com/tech/926376/apple-airpods-cameras-ai-production",
@@ -1084,6 +1112,19 @@
       "is_new": false
     },
     {
+      "id": "9452f26cb9b3591db770a44315ed4f97",
+      "title": "Trajectory as the Teacher: Few-Step Discrete Flow Matching via Energy-Navigated Distillation",
+      "url": "https://huggingface.co/papers/2605.07924",
+      "description": "Discrete flow matching generates text by iteratively transforming noise tokens into coherent language, but may require hundreds of forward passes. Distillation uses the multi-step trajectory to train ",
+      "published": "2026-05-07T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "fa172e217d0d3ee19f20cacf959bdfad",
       "title": "Delta-Adapter: Scalable Exemplar-Based Image Editing with Single-Pair Supervision",
       "url": "https://huggingface.co/papers/2605.07940",
@@ -1094,7 +1135,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3cff11ee953eaaea8513afc05828f427",
@@ -1106,8 +1147,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
-      "is_new": true
+      "likes": 6,
+      "is_new": false
     },
     {
       "id": "17c01f11d6853fd9dcc959fe7967ee26",
@@ -1119,8 +1160,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 12,
-      "is_new": true
+      "likes": 13,
+      "is_new": false
     },
     {
       "id": "ad98e49cf45df2b552e874cf641f4973",
@@ -1145,7 +1186,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 12,
+      "likes": 14,
       "is_new": false
     },
     {
@@ -1172,19 +1213,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 7,
-      "is_new": false
-    },
-    {
-      "id": "c1aa1fa4f0780059f2959c535a630e50",
-      "title": "SpecBlock: Block-Iterative Speculative Decoding with Dynamic Tree Drafting",
-      "url": "https://huggingface.co/papers/2605.07243",
-      "description": "Speculative decoding accelerates LLM inference by drafting a tree of candidate continuations and verifying it in one target forward. Existing drafters fall into two camps with opposite weaknesses. Aut",
-      "published": "2026-05-07T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
       "is_new": false
     },
     {
@@ -1240,7 +1268,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "622978746fd226f1315fd5b2d3a34f07",
@@ -1253,7 +1281,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "878e7471a63bcab99e5e1f1c38bc0960",
@@ -1265,33 +1293,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 65,
-      "is_new": false
-    },
-    {
-      "id": "90df95748a05faecea11ac9d93a6739b",
-      "title": "MACE-Dance: Motion-Appearance Cascaded Experts for Music-Driven Dance Video Generation",
-      "url": "https://huggingface.co/papers/2512.18181",
-      "description": "With the rise of online dance-video platforms and rapid advances in AI-generated content (AIGC), music-driven dance generation has emerged as a compelling research direction. Despite substantial progr",
-      "published": "2026-05-06T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 80,
-      "is_new": false
-    },
-    {
-      "id": "b6d0bfea792cc6c12d7587dfb1c14b84",
-      "title": "Gated QKAN-FWP: Scalable Quantum-inspired Sequence Learning",
-      "url": "https://huggingface.co/papers/2605.06734",
-      "description": "Fast Weight Programmers (FWPs) encode temporal dependencies through dynamically updated parameters rather than recurrent hidden states. Quantum FWPs (QFWPs) extend this idea with variational quantum c",
-      "published": "2026-05-06T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
+      "likes": 72,
       "is_new": false
     }
   ],
@@ -1463,7 +1465,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "3db6af49a0c95a3a08ed49f0f7f4048b",
@@ -1538,6 +1540,34 @@
         "is_new": false
       },
       {
+        "id": "48096598",
+        "title": "VibeServe: Can AI Agents Build Bespoke LLM Serving Systems?",
+        "url": "https://github.com/uw-syfi/vibe-serve",
+        "description": "",
+        "published": "2026-05-11T15:48:41Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 1,
+        "comments": 0,
+        "is_new": true
+      },
+      {
+        "id": "48096408",
+        "title": "Ask HN: How to deal with everybody rushing to implement?",
+        "url": "https://news.ycombinator.com/item?id=48096408",
+        "description": "",
+        "published": "2026-05-11T15:35:46Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 2,
+        "comments": 0,
+        "is_new": true
+      },
+      {
         "id": "48095392",
         "title": "JetBrains Junie – an LLM-agnostic AI coding agent",
         "url": "https://www.jetbrains.com/junie/",
@@ -1549,7 +1579,7 @@
         "category": "news",
         "points": 2,
         "comments": 0,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "48094438",
@@ -1563,6 +1593,30 @@
         "category": "news",
         "points": 2,
         "comments": 0,
+        "is_new": false
+      },
+      {
+        "id": "5b6afa769aecbff7e8fa4a322d765c1b",
+        "title": "Google stopped a zero-day hack that it says was developed with AI",
+        "url": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped",
+        "description": "For the first time, Google says it has spotted and stopped a zero-day exploit developed with AI. According to a report from Google Threat Intelligence Group (GTIG), \"prominent cyber crime threat actor",
+        "published": "2026-05-11T12:09:42-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "74cdffe7e5df374389a7ff29cfba1c3a",
+        "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+        "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+        "description": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni",
+        "published": "2026-05-11T11:59:53-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
         "is_new": true
       },
       {
@@ -1575,7 +1629,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "48091975",
@@ -1617,60 +1671,6 @@
         "category": "news",
         "points": 2,
         "comments": 2,
-        "is_new": false
-      },
-      {
-        "id": "48076414",
-        "title": "Ask HN: Former master-tech building AI systems – how to break into software?",
-        "url": "https://news.ycombinator.com/item?id=48076414",
-        "description": "",
-        "published": "2026-05-09T17:00:58Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 4,
-        "comments": 3,
-        "is_new": false
-      },
-      {
-        "id": "48076137",
-        "title": "Show HN: My AI agents bully each other to prevent context drift",
-        "url": "https://wuphf.team",
-        "description": "",
-        "published": "2026-05-09T16:22:23Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 9,
-        "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "48066970",
-        "title": "Show HN: Seb – Coding agent that teams trust to develop mission-critical systems",
-        "url": "https://news.ycombinator.com/item?id=48066970",
-        "description": "",
-        "published": "2026-05-08T18:31:43Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 3,
-        "comments": 2,
-        "is_new": false
-      },
-      {
-        "id": "4ef0d8377bd528fce40c277d897ed6ad",
-        "title": "Nanoleaf bets its future on robots, red light therapy, and AI",
-        "url": "https://www.theverge.com/tech/926342/nanoleaf-smart-lighting-ai-robotics-red-light-wellness",
-        "description": "Smart lighting company Nanoleaf has been unusually quiet recently. While competitors such as Govee and Philips Hue have been pumping out new products and innovative features at an impressive pace, Nan",
-        "published": "2026-05-08T15:23:58-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
         "is_new": false
       }
     ],
