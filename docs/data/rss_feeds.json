@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-11T12:20:55.485498+00:00",
+  "last_updated": "2026-05-11T15:26:09.969532+00:00",
   "total_entries": 110,
-  "new_entries": 6,
+  "new_entries": 12,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -132,18 +132,6 @@
       "is_new": false
     },
     {
-      "id": "954cf2aceca44a06d6c2c133f8007eaa",
-      "title": "Startup Battlefield 200 applications close May 27: A shot at VC access, global visibility, TechCrunch coverage, and $100K",
-      "url": "https://techcrunch.com/2026/05/07/startup-battlefield-200-applications-close-may-27-a-shot-at-vc-access-global-visibility-techcrunch-coverage-and-100k/",
-      "description": "Startup Battlefield 200 applications are open, but only for three more weeks. Apply by May 27 for your shot at VC access, global visibility, TechCrunch coverage, $100,000 equity-free, and more opportu",
-      "published": "Thu, 07 May 2026 15:00:00 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "8297c2208a183540463d8fa8d3101376",
       "title": "Get ready for the whisper-filled office of the future",
       "url": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
@@ -214,6 +202,18 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "8b55c4119673e9f59f160a7275cbe99a",
+      "title": "There aren’t enough rockets for space data centers. Cowboy Space raised $275 million to build them.",
+      "url": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
+      "description": "Cowboy Space Corporation wants to put data centers in orbit. First, it has to build the rockets to get them there.",
+      "published": "Mon, 11 May 2026 13:00:00 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "81f6b279771c4d0bcc79b78d30f9e8a3",
@@ -768,6 +768,46 @@
       "is_new": false
     },
     {
+      "id": "48095392",
+      "title": "JetBrains Junie – an LLM-agnostic AI coding agent",
+      "url": "https://www.jetbrains.com/junie/",
+      "description": "",
+      "published": "2026-05-11T14:23:01Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "48094438",
+      "title": "AI Agents Show Long Context Gains with LCM, Specialized Applications Emerge",
+      "url": "https://presciente.com/edition/75",
+      "description": "",
+      "published": "2026-05-11T13:02:39Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "df677f715e23d53fde90e95eca2b95a2",
+      "title": "Joanna Stern is not a robot, but she lived with them",
+      "url": "https://www.theverge.com/podcast/926752/joanna-stern-i-am-not-a-robot-new-things-media-youtube-ai-automation",
+      "description": "My guest today is longtime friend of the show Joanna Stern. You all know Joanna: she is the former senior personal technology columnist for The Wall Street Journal, a former Decoder guest host, one of",
+      "published": "2026-05-11T09:48:57-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "48091975",
       "title": "Show HN: AI agents who prevent context drift through gossip",
       "url": "https://wuphf.team",
@@ -835,18 +875,6 @@
       "category": "news",
       "points": 9,
       "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "74cdffe7e5df374389a7ff29cfba1c3a",
-      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "description": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni",
-      "published": "2026-05-09T12:01:23-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
       "is_new": false
     },
     {
@@ -1056,6 +1084,19 @@
       "is_new": false
     },
     {
+      "id": "fa172e217d0d3ee19f20cacf959bdfad",
+      "title": "Delta-Adapter: Scalable Exemplar-Based Image Editing with Single-Pair Supervision",
+      "url": "https://huggingface.co/papers/2605.07940",
+      "description": "Exemplar-based image editing applies a transformation defined by a source-target image pair to a new query image. Existing methods rely on a pair-of-pairs supervision paradigm, requiring two image pai",
+      "published": "2026-05-07T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "3cff11ee953eaaea8513afc05828f427",
       "title": "What if AI systems weren't chatbots?",
       "url": "https://huggingface.co/papers/2605.07896",
@@ -1065,7 +1106,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 5,
       "is_new": true
     },
     {
@@ -1078,7 +1119,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 12,
       "is_new": true
     },
     {
@@ -1104,7 +1145,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 10,
+      "likes": 12,
       "is_new": false
     },
     {
@@ -1143,20 +1184,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
-      "is_new": false
-    },
-    {
-      "id": "894df1ac4bdc617119d152713fb43172",
-      "title": "TextLDM: Language Modeling with Continuous Latent Diffusion",
-      "url": "https://huggingface.co/papers/2605.07748",
-      "description": "Diffusion Transformers (DiT) trained with flow matching in a VAE latent space have unified visual generation across images and videos. A natural next step toward a single architecture for both generat",
-      "published": "2026-05-07T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 15,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -1211,7 +1239,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": true
     },
     {
@@ -1224,7 +1252,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": true
     },
     {
@@ -1237,7 +1265,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 32,
+      "likes": 65,
       "is_new": false
     },
     {
@@ -1250,7 +1278,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 78,
+      "likes": 80,
       "is_new": false
     },
     {
@@ -1264,32 +1292,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "b8d825dd02cb491c2cb871b441b91b9f",
-      "title": "Shallow Prefill, Deep Decoding: Efficient Long-Context Inference via Layer-Asymmetric KV Visibility",
-      "url": "https://huggingface.co/papers/2605.06105",
-      "description": "Long-context inference in decoder-only language models is costly because long prompts are processed during Prefill, cached at every layer, and repeatedly attended to during autoregressive Decode. We i",
-      "published": "2026-05-06T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "1d2e6d081b84901e0d7efc10b4f8cbea",
-      "title": "Empirical Evidence for Simply Connected Decision Regions in Image Classifiers",
-      "url": "https://huggingface.co/papers/2605.06380",
-      "description": "Understanding the topology of decision regions is central to explaining the inner workings of deep neural networks. Prior empirical work has provided evidence that these regions are path connected. We",
-      "published": "2026-05-06T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
       "is_new": false
     }
   ],
@@ -1380,18 +1382,6 @@
         "is_new": false
       },
       {
-        "id": "954cf2aceca44a06d6c2c133f8007eaa",
-        "title": "Startup Battlefield 200 applications close May 27: A shot at VC access, global visibility, TechCrunch coverage, and $100K",
-        "url": "https://techcrunch.com/2026/05/07/startup-battlefield-200-applications-close-may-27-a-shot-at-vc-access-global-visibility-techcrunch-coverage-and-100k/",
-        "description": "Startup Battlefield 200 applications are open, but only for three more weeks. Apply by May 27 for your shot at VC access, global visibility, TechCrunch coverage, $100,000 equity-free, and more opportu",
-        "published": "Thu, 07 May 2026 15:00:00 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
         "id": "8297c2208a183540463d8fa8d3101376",
         "title": "Get ready for the whisper-filled office of the future",
         "url": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
@@ -1462,6 +1452,18 @@
         "source_icon": "📰",
         "category": "news",
         "is_new": false
+      },
+      {
+        "id": "8b55c4119673e9f59f160a7275cbe99a",
+        "title": "There aren’t enough rockets for space data centers. Cowboy Space raised $275 million to build them.",
+        "url": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
+        "description": "Cowboy Space Corporation wants to put data centers in orbit. First, it has to build the rockets to get them there.",
+        "published": "Mon, 11 May 2026 13:00:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
       },
       {
         "id": "3db6af49a0c95a3a08ed49f0f7f4048b",
@@ -1536,6 +1538,46 @@
         "is_new": false
       },
       {
+        "id": "48095392",
+        "title": "JetBrains Junie – an LLM-agnostic AI coding agent",
+        "url": "https://www.jetbrains.com/junie/",
+        "description": "",
+        "published": "2026-05-11T14:23:01Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 2,
+        "comments": 0,
+        "is_new": true
+      },
+      {
+        "id": "48094438",
+        "title": "AI Agents Show Long Context Gains with LCM, Specialized Applications Emerge",
+        "url": "https://presciente.com/edition/75",
+        "description": "",
+        "published": "2026-05-11T13:02:39Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 2,
+        "comments": 0,
+        "is_new": true
+      },
+      {
+        "id": "df677f715e23d53fde90e95eca2b95a2",
+        "title": "Joanna Stern is not a robot, but she lived with them",
+        "url": "https://www.theverge.com/podcast/926752/joanna-stern-i-am-not-a-robot-new-things-media-youtube-ai-automation",
+        "description": "My guest today is longtime friend of the show Joanna Stern. You all know Joanna: she is the former senior personal technology columnist for The Wall Street Journal, a former Decoder guest host, one of",
+        "published": "2026-05-11T09:48:57-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "48091975",
         "title": "Show HN: AI agents who prevent context drift through gossip",
         "url": "https://wuphf.team",
@@ -1606,18 +1648,6 @@
         "is_new": false
       },
       {
-        "id": "74cdffe7e5df374389a7ff29cfba1c3a",
-        "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-        "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-        "description": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni",
-        "published": "2026-05-09T12:01:23-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
         "id": "48066970",
         "title": "Show HN: Seb – Coding agent that teams trust to develop mission-critical systems",
         "url": "https://news.ycombinator.com/item?id=48066970",
@@ -1637,30 +1667,6 @@
         "url": "https://www.theverge.com/tech/926342/nanoleaf-smart-lighting-ai-robotics-red-light-wellness",
         "description": "Smart lighting company Nanoleaf has been unusually quiet recently. While competitors such as Govee and Philips Hue have been pumping out new products and innovative features at an impressive pace, Nan",
         "published": "2026-05-08T15:23:58-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "3bc01457309b56110355477bc2cf31e5",
-        "title": "All the latest updates on AI data centers",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-        "description": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the w",
-        "published": "2026-05-08T15:14:10-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "696d5e6d87ce9c0a8107d01fdcb7d467",
-        "title": "Microsoft was worried OpenAI would run off to Amazon and ‘shit-talk’ Azure",
-        "url": "https://www.theverge.com/report/926771/microsoft-openai-amazon-worries-shit-talk-azure",
-        "description": "When OpenAI was busy experimenting with AI-powered gaming bots, Microsoft CEO Satya Nadella and OpenAI CEO Sam Altman were in the early days of forming an AI partnership. Court documents from the ongo",
-        "published": "2026-05-08T13:55:39-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
