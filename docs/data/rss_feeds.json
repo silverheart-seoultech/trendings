@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-11T09:52:22.287708+00:00",
+  "last_updated": "2026-05-11T12:20:55.485498+00:00",
   "total_entries": 110,
-  "new_entries": 15,
+  "new_entries": 6,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -779,7 +779,7 @@
       "category": "news",
       "points": 1,
       "comments": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "48078195",
@@ -833,7 +833,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 8,
+      "points": 9,
       "comments": 0,
       "is_new": false
     },
@@ -1056,6 +1056,32 @@
       "is_new": false
     },
     {
+      "id": "3cff11ee953eaaea8513afc05828f427",
+      "title": "What if AI systems weren't chatbots?",
+      "url": "https://huggingface.co/papers/2605.07896",
+      "description": "The rapid convergence of artificial intelligence (AI) toward conversational chatbot interfaces marks a critical moment for the industry. This paper argues that the chatbot paradigm is not a neutral in",
+      "published": "2026-05-07T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "17c01f11d6853fd9dcc959fe7967ee26",
+      "title": "MatryoshkaLoRA: Learning Accurate Hierarchical Low-Rank Representations for LLM Fine-Tuning",
+      "url": "https://huggingface.co/papers/2605.07850",
+      "description": "With the rise in scale for deep learning models to billions of parameters, the computational cost of fine-tuning remains a significant barrier to deployment. While Low-Rank Adaptation (LoRA) has becom",
+      "published": "2026-05-07T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 9,
+      "is_new": true
+    },
+    {
       "id": "ad98e49cf45df2b552e874cf641f4973",
       "title": "Sparse Autoencoders as Plug-and-Play Firewalls for Adversarial Attack Detection in VLMs",
       "url": "https://huggingface.co/papers/2605.07447",
@@ -1065,8 +1091,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
-      "is_new": true
+      "likes": 1,
+      "is_new": false
     },
     {
       "id": "4182cfb3b2ea6f64b8c1f0937ecbeae6",
@@ -1078,8 +1104,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
-      "is_new": true
+      "likes": 10,
+      "is_new": false
     },
     {
       "id": "beed706cfb0b75822d54c065a17d80f2",
@@ -1091,8 +1117,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 13,
-      "is_new": true
+      "likes": 15,
+      "is_new": false
     },
     {
       "id": "7781a4a0ac1cae6edd33de78f9fdb266",
@@ -1104,8 +1130,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
-      "is_new": true
+      "likes": 7,
+      "is_new": false
     },
     {
       "id": "c1aa1fa4f0780059f2959c535a630e50",
@@ -1118,7 +1144,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "894df1ac4bdc617119d152713fb43172",
@@ -1130,59 +1156,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 13,
-      "is_new": true
-    },
-    {
-      "id": "cc2ed5f8e4b0657293cb82eee47b61dc",
-      "title": "HyperEyes: Dual-Grained Efficiency-Aware Reinforcement Learning for Parallel Multimodal Search Agents",
-      "url": "https://huggingface.co/papers/2605.07177",
-      "description": "Existing multimodal search agents process target entities sequentially, issuing one tool call per entity and accumulating redundant interaction rounds whenever a query decomposes into independent sub-",
-      "published": "2026-05-07T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 44,
-      "is_new": false
-    },
-    {
-      "id": "6f838971e7e13c34b1aa7ad1a69ec8d1",
-      "title": "Anisotropic Modality Align",
-      "url": "https://huggingface.co/papers/2605.07825",
-      "description": "Training multimodal large language models has long been limited by the scarcity of high-quality paired multimodal data. Recent studies show that the shared representation space of pretrained multimoda",
-      "published": "2026-05-07T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 19,
-      "is_new": false
-    },
-    {
-      "id": "516601178d14415122d226e538031cfe",
-      "title": "Flow-OPD: On-Policy Distillation for Flow Matching Models",
-      "url": "https://huggingface.co/papers/2605.08063",
-      "description": "Existing Flow Matching (FM) text-to-image models suffer from two critical bottlenecks under multi-task alignment: the reward sparsity induced by scalar-valued rewards, and the gradient interference ar",
-      "published": "2026-05-07T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 62,
-      "is_new": false
-    },
-    {
-      "id": "c9640875716e126d940e4512fd6936a3",
-      "title": "What Matters for Diffusion-Friendly Latent Manifold? Prior-Aligned Autoencoders for Latent Diffusion",
-      "url": "https://huggingface.co/papers/2605.07915",
-      "description": "Tokenizers are a crucial component of latent diffusion models, as they define the latent space in which diffusion models operate. However, existing tokenizers are primarily designed to improve reconst",
-      "published": "2026-05-07T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 6,
+      "likes": 15,
       "is_new": false
     },
     {
@@ -1228,6 +1202,32 @@
       "is_new": false
     },
     {
+      "id": "ca56d7a9763eb3c135d1c80df5076f4c",
+      "title": "Rethinking RL for LLM Reasoning: It's Sparse Policy Selection, Not Capability Learning",
+      "url": "https://huggingface.co/papers/2605.06241",
+      "description": "Reinforcement learning has become the standard for improving reasoning in large language models, yet evidence increasingly suggests that RL does not teach new strategies; it redistributes probability ",
+      "published": "2026-05-06T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "622978746fd226f1315fd5b2d3a34f07",
+      "title": "PrefixGuard: From LLM-Agent Traces to Online Failure-Warning Monitors",
+      "url": "https://huggingface.co/papers/2605.06455",
+      "description": "Large language model (LLM) agents now execute long, tool-using tasks where final outcome checks can arrive too late for intervention. Online warning requires lightweight prefix monitors over heterogen",
+      "published": "2026-05-06T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "878e7471a63bcab99e5e1f1c38bc0960",
       "title": "Mean Mode Screaming: Mean--Variance Split Residuals for 1000-Layer Diffusion Transformers",
       "url": "https://huggingface.co/papers/2605.06169",
@@ -1237,8 +1237,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
-      "is_new": true
+      "likes": 32,
+      "is_new": false
     },
     {
       "id": "90df95748a05faecea11ac9d93a6739b",
@@ -1250,8 +1250,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 68,
-      "is_new": true
+      "likes": 78,
+      "is_new": false
     },
     {
       "id": "b6d0bfea792cc6c12d7587dfb1c14b84",
@@ -1264,7 +1264,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "b8d825dd02cb491c2cb871b441b91b9f",
@@ -1276,8 +1276,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
-      "is_new": true
+      "likes": 1,
+      "is_new": false
     },
     {
       "id": "1d2e6d081b84901e0d7efc10b4f8cbea",
@@ -1289,8 +1289,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
-      "is_new": true
+      "likes": 3,
+      "is_new": false
     }
   ],
   "by_category": {
@@ -1547,7 +1547,7 @@
         "category": "news",
         "points": 1,
         "comments": 0,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "48078195",
@@ -1601,7 +1601,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 8,
+        "points": 9,
         "comments": 0,
         "is_new": false
       },
