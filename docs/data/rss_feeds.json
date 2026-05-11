@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-11T04:21:47.204403+00:00",
+  "last_updated": "2026-05-11T08:34:26.162826+00:00",
   "total_entries": 110,
-  "new_entries": 1,
+  "new_entries": 14,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,6 +768,20 @@
       "is_new": false
     },
     {
+      "id": "48091975",
+      "title": "Show HN: AI agents who prevent context drift through gossip",
+      "url": "https://wuphf.team",
+      "description": "",
+      "published": "2026-05-11T07:16:59Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "48078195",
       "title": "Show HN: Sigma Guard – deterministic contradiction checks for graph memory",
       "url": "https://news.ycombinator.com/item?id=48078195",
@@ -777,7 +791,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 2,
+      "points": 3,
       "comments": 0,
       "is_new": false
     },
@@ -796,20 +810,6 @@
       "is_new": false
     },
     {
-      "id": "48076414",
-      "title": "Ask HN: Former master-tech building AI systems – how to break into software?",
-      "url": "https://news.ycombinator.com/item?id=48076414",
-      "description": "",
-      "published": "2026-05-09T17:00:58Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 3,
-      "comments": 3,
-      "is_new": false
-    },
-    {
       "id": "48076137",
       "title": "Show HN: My AI agents bully each other to prevent context drift",
       "url": "https://wuphf.team",
@@ -819,7 +819,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 7,
+      "points": 8,
       "comments": 0,
       "is_new": false
     },
@@ -833,34 +833,6 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "48071158",
-      "title": "SoC 2 has no real edge",
-      "url": "https://news.ycombinator.com/item?id=48071158",
-      "description": "",
-      "published": "2026-05-09T02:27:09Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "48069781",
-      "title": "Ask HN: Is agent-driven QA a thing?",
-      "url": "https://news.ycombinator.com/item?id=48069781",
-      "description": "",
-      "published": "2026-05-08T22:57:31Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 1,
-      "comments": 0,
       "is_new": false
     },
     {
@@ -1023,7 +995,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 10,
+      "points": 11,
       "comments": 10,
       "is_new": false
     },
@@ -1070,6 +1042,58 @@
       "is_new": false
     },
     {
+      "id": "4182cfb3b2ea6f64b8c1f0937ecbeae6",
+      "title": "Rethinking State Tracking in Recurrent Models Through Error Control Dynamics",
+      "url": "https://huggingface.co/papers/2605.07755",
+      "description": "The theory of state tracking in recurrent architectures has predominantly focused on expressive capacity: whether a fixed architecture can theoretically realize a set of symbolic transition rules. We ",
+      "published": "2026-05-07T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "beed706cfb0b75822d54c065a17d80f2",
+      "title": "AEM: Adaptive Entropy Modulation for Multi-Turn Agentic Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2605.00425",
+      "description": "Reinforcement learning (RL) has substantially improved the ability of large language model (LLM) agents to interact with environments and solve multi-turn tasks. However, effective agentic RL remains ",
+      "published": "2026-05-07T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 13,
+      "is_new": true
+    },
+    {
+      "id": "7781a4a0ac1cae6edd33de78f9fdb266",
+      "title": "SCOPE: Structured Decomposition and Conditional Skill Orchestration for Complex Image Generation",
+      "url": "https://huggingface.co/papers/2605.08043",
+      "description": "While text-to-image models have made strong progress in visual fidelity, faithfully realizing complex visual intents remains challenging because many requirements must be tracked across grounding, gen",
+      "published": "2026-05-07T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
+    },
+    {
+      "id": "c1aa1fa4f0780059f2959c535a630e50",
+      "title": "SpecBlock: Block-Iterative Speculative Decoding with Dynamic Tree Drafting",
+      "url": "https://huggingface.co/papers/2605.07243",
+      "description": "Speculative decoding accelerates LLM inference by drafting a tree of candidate continuations and verifying it in one target forward. Existing drafters fall into two camps with opposite weaknesses. Aut",
+      "published": "2026-05-07T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "894df1ac4bdc617119d152713fb43172",
       "title": "TextLDM: Language Modeling with Continuous Latent Diffusion",
       "url": "https://huggingface.co/papers/2605.07748",
@@ -1079,7 +1103,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 12,
       "is_new": true
     },
     {
@@ -1092,7 +1116,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
+      "likes": 23,
       "is_new": false
     },
     {
@@ -1105,7 +1129,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 12,
+      "likes": 19,
       "is_new": false
     },
     {
@@ -1118,7 +1142,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 50,
       "is_new": false
     },
     {
@@ -1131,7 +1155,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 7,
       "is_new": false
     },
     {
@@ -1144,72 +1168,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "cda834312d2390841ca1382ed0206d35",
-      "title": "InterLV-Search: Benchmarking Interleaved Multimodal Agentic Search",
-      "url": "https://huggingface.co/papers/2605.07510",
-      "description": "Existing benchmarks for multimodal agentic search evaluate multimodal search and visual browsing, but visual evidence is either confined to the input or treated as an answer endpoint rather than part ",
-      "published": "2026-05-07T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "27a0eaa68fd6f4d875988588103af3ee",
-      "title": "STARFlow2: Bridging Language Models and Normalizing Flows for Unified Multimodal Generation",
-      "url": "https://huggingface.co/papers/2605.08029",
-      "description": "Deep generative models have advanced rapidly across text and vision, motivating unified multimodal systems that can understand, reason over, and generate interleaved text-image sequences. Most existin",
-      "published": "2026-05-07T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "75c8b75baad2bdecafbc3a9a87f54bb4",
-      "title": "Normalizing Trajectory Models",
-      "url": "https://huggingface.co/papers/2605.08078",
-      "description": "Diffusion-based models decompose sampling into many small Gaussian denoising steps -- an assumption that breaks down when generation is compressed to a few coarse transitions. Existing few-step method",
-      "published": "2026-05-07T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
       "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "ffb9c7017f0299ca10f02801f57cccad",
-      "title": "Fast Byte Latent Transformer",
-      "url": "https://huggingface.co/papers/2605.08044",
-      "description": "Recent byte-level language models (LMs) match the performance of token-level models without relying on subword vocabularies, yet their utility is limited by slow, byte-by-byte autoregressive generatio",
-      "published": "2026-05-07T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "3772b73ab93b18583669cbb655eb214a",
-      "title": "LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling",
-      "url": "https://huggingface.co/papers/2605.08083",
-      "description": "Test-time scaling (TTS) has become an effective approach for improving large language model performance by allocating additional computation during inference. However, existing TTS strategies are larg",
-      "published": "2026-05-07T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 36,
       "is_new": false
     },
     {
@@ -1255,6 +1214,71 @@
       "is_new": false
     },
     {
+      "id": "878e7471a63bcab99e5e1f1c38bc0960",
+      "title": "Mean Mode Screaming: Mean--Variance Split Residuals for 1000-Layer Diffusion Transformers",
+      "url": "https://huggingface.co/papers/2605.06169",
+      "description": "Scaling Diffusion Transformers (DiTs) to hundreds of layers introduces a structural vulnerability: networks can enter a silent, mean-dominated collapse state that homogenizes token representations and",
+      "published": "2026-05-06T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "90df95748a05faecea11ac9d93a6739b",
+      "title": "MACE-Dance: Motion-Appearance Cascaded Experts for Music-Driven Dance Video Generation",
+      "url": "https://huggingface.co/papers/2512.18181",
+      "description": "With the rise of online dance-video platforms and rapid advances in AI-generated content (AIGC), music-driven dance generation has emerged as a compelling research direction. Despite substantial progr",
+      "published": "2026-05-06T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 38,
+      "is_new": true
+    },
+    {
+      "id": "b6d0bfea792cc6c12d7587dfb1c14b84",
+      "title": "Gated QKAN-FWP: Scalable Quantum-inspired Sequence Learning",
+      "url": "https://huggingface.co/papers/2605.06734",
+      "description": "Fast Weight Programmers (FWPs) encode temporal dependencies through dynamically updated parameters rather than recurrent hidden states. Quantum FWPs (QFWPs) extend this idea with variational quantum c",
+      "published": "2026-05-06T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "b8d825dd02cb491c2cb871b441b91b9f",
+      "title": "Shallow Prefill, Deep Decoding: Efficient Long-Context Inference via Layer-Asymmetric KV Visibility",
+      "url": "https://huggingface.co/papers/2605.06105",
+      "description": "Long-context inference in decoder-only language models is costly because long prompts are processed during Prefill, cached at every layer, and repeatedly attended to during autoregressive Decode. We i",
+      "published": "2026-05-06T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "1d2e6d081b84901e0d7efc10b4f8cbea",
+      "title": "Empirical Evidence for Simply Connected Decision Regions in Image Classifiers",
+      "url": "https://huggingface.co/papers/2605.06380",
+      "description": "Understanding the topology of decision regions is central to explaining the inner workings of deep neural networks. Prior empirical work has provided evidence that these regions are path connected. We",
+      "published": "2026-05-06T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "fb3cb85415cf859e2740b6957b704f92",
       "title": "CPCANet: Deep Unfolding Common Principal Component Analysis for Domain Generalization",
       "url": "https://huggingface.co/papers/2605.05136",
@@ -1265,32 +1289,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 0,
-      "is_new": false
-    },
-    {
-      "id": "bd091ff0d51429c52349bdf9104c180b",
-      "title": "Steering Visual Generation in Unified Multimodal Models with Understanding Supervision",
-      "url": "https://huggingface.co/papers/2605.05781",
-      "description": "Unified multimodal models are envisioned to bridge the gap between understanding and generation. Yet, to achieve competitive performance, state-of-the-art models adopt largely decoupled understanding ",
-      "published": "2026-05-06T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "ece6f2e1c208f7342906d3189f389e73",
-      "title": "LiVeAction: a Lightweight, Versatile, and Asymmetric Neural Codec Design for Real-time Operation",
-      "url": "https://huggingface.co/papers/2605.06628",
-      "description": "Modern sensors generate rich, high-fidelity data, yet applications operating on wearable or remote sensing devices remain constrained by bandwidth and power budgets. Standardized codecs such as JPEG a",
-      "published": "2026-05-06T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
       "is_new": false
     }
   ],
@@ -1537,6 +1535,20 @@
         "is_new": false
       },
       {
+        "id": "48091975",
+        "title": "Show HN: AI agents who prevent context drift through gossip",
+        "url": "https://wuphf.team",
+        "description": "",
+        "published": "2026-05-11T07:16:59Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 1,
+        "comments": 0,
+        "is_new": true
+      },
+      {
         "id": "48078195",
         "title": "Show HN: Sigma Guard – deterministic contradiction checks for graph memory",
         "url": "https://news.ycombinator.com/item?id=48078195",
@@ -1546,7 +1558,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 2,
+        "points": 3,
         "comments": 0,
         "is_new": false
       },
@@ -1565,20 +1577,6 @@
         "is_new": false
       },
       {
-        "id": "48076414",
-        "title": "Ask HN: Former master-tech building AI systems – how to break into software?",
-        "url": "https://news.ycombinator.com/item?id=48076414",
-        "description": "",
-        "published": "2026-05-09T17:00:58Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 3,
-        "comments": 3,
-        "is_new": false
-      },
-      {
         "id": "48076137",
         "title": "Show HN: My AI agents bully each other to prevent context drift",
         "url": "https://wuphf.team",
@@ -1588,7 +1586,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 7,
+        "points": 8,
         "comments": 0,
         "is_new": false
       },
@@ -1602,34 +1600,6 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "48071158",
-        "title": "SoC 2 has no real edge",
-        "url": "https://news.ycombinator.com/item?id=48071158",
-        "description": "",
-        "published": "2026-05-09T02:27:09Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 2,
-        "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "48069781",
-        "title": "Ask HN: Is agent-driven QA a thing?",
-        "url": "https://news.ycombinator.com/item?id=48069781",
-        "description": "",
-        "published": "2026-05-08T22:57:31Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 1,
-        "comments": 0,
         "is_new": false
       },
       {
@@ -1664,6 +1634,30 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
         "description": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the w",
         "published": "2026-05-08T15:14:10-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "696d5e6d87ce9c0a8107d01fdcb7d467",
+        "title": "Microsoft was worried OpenAI would run off to Amazon and ‘shit-talk’ Azure",
+        "url": "https://www.theverge.com/report/926771/microsoft-openai-amazon-worries-shit-talk-azure",
+        "description": "When OpenAI was busy experimenting with AI-powered gaming bots, Microsoft CEO Satya Nadella and OpenAI CEO Sam Altman were in the early days of forming an AI partnership. Court documents from the ongo",
+        "published": "2026-05-08T13:55:39-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "5cb0197e266dbe9c89f7229f28d94a42",
+        "title": "Mira Murati’s deposition pulled back the curtain on Sam Altman’s ouster",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster",
+        "description": "The week leading up to Thanksgiving 2023 was the AI industry's biggest soap opera moment. OpenAI CEO Sam Altman was abruptly ousted from his role at the ChatGPT maker. The explanation? That Altman was",
+        "published": "2026-05-08T13:54:13-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
