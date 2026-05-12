@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-12T04:02:51.025040+00:00",
+  "last_updated": "2026-05-12T06:46:34.642296+00:00",
   "total_entries": 110,
-  "new_entries": 42,
+  "new_entries": 56,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,6 +47,18 @@
     }
   ],
   "entries": [
+    {
+      "id": "d3b5b5ad95107e44d216d88b50cc9509",
+      "title": "Thinking Machines wants to build an AI that actually listens while it talks",
+      "url": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
+      "description": "Right now, every AI model you've ever used works the same way. You talk, it listens. It responds, you listen. Thinking Machines is trying to change that by building a model that processes your input a",
+      "published": "Tue, 12 May 2026 04:52:35 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "7a7c4cf1151cbf20eb8d667139bb0fc6",
       "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
@@ -576,18 +588,6 @@
       "is_new": false
     },
     {
-      "id": "c158587de2a00b66bac03b9edac63304",
-      "title": "Perplexity’s Personal Computer is now available to everyone on Mac",
-      "url": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
-      "description": "Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone.",
-      "published": "Thu, 07 May 2026 19:57:59 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "8297c2208a183540463d8fa8d3101376",
       "title": "Get ready for the whisper-filled office of the future",
       "url": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
@@ -805,8 +805,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 63,
-      "comments": 19,
+      "points": 76,
+      "comments": 23,
       "is_new": false
     },
     {
@@ -940,6 +940,58 @@
       "is_new": false
     },
     {
+      "id": "68f0173541004d8df4a9f5f01b4db7d8",
+      "title": "The Alpha Blending Hypothesis: Compositing Shortcut in Deepfake Detection",
+      "url": "https://huggingface.co/papers/2605.10334",
+      "description": "Recent deepfake detection methods demonstrate improved cross-dataset generalization, yet the underlying mechanisms remain underexplored. We introduce the Alpha Blending Hypothesis, positing that state",
+      "published": "2026-05-10T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "810d7c6ec769a1085cbee7f10def25a2",
+      "title": "PaperFit: Vision-in-the-Loop Typesetting Optimization for Scientific Documents",
+      "url": "https://huggingface.co/papers/2605.10341",
+      "description": "A LaTeX manuscript that compiles without error is not necessarily publication-ready. The resulting PDFs frequently suffer from misplaced floats, overflowing equations, inconsistent table scaling, wido",
+      "published": "2026-05-10T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 21,
+      "is_new": true
+    },
+    {
+      "id": "3d7a0ad5fe2221c7312df32c3a2d0b6f",
+      "title": "Injecting Distributional Awareness into MLLMs via Reinforcement Learning for Deep Imbalanced Regression",
+      "url": "https://huggingface.co/papers/2605.01402",
+      "description": "Multimodal large language models (MLLMs) struggle with numerical regression under long-tailed target distributions. Token-level supervised fine-tuning (SFT) and point-wise regression rewards bias lear",
+      "published": "2026-05-10T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "1a8eebb4a3abff26d3f4ef67133fb894",
+      "title": "Qwen-Image-2.0 Technical Report",
+      "url": "https://huggingface.co/papers/2605.10730",
+      "description": "We present Qwen-Image-2.0, an omni-capable image generation foundation model that unifies high-fidelity generation and precise image editing within a single framework. Despite recent progress, existin",
+      "published": "2026-05-10T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 27,
+      "is_new": true
+    },
+    {
       "id": "86a97a8de655bf48abf6244f862f6458",
       "title": "Dynamic Skill Lifecycle Management for Agentic Reinforcement Learning",
       "url": "https://huggingface.co/papers/2605.10923",
@@ -949,7 +1001,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 9,
       "is_new": true
     },
     {
@@ -962,7 +1014,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -975,7 +1027,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
+      "likes": 16,
       "is_new": false
     },
     {
@@ -1001,7 +1053,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 6,
       "is_new": false
     },
     {
@@ -1014,59 +1066,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "2b7a42d0b884a7f0c53de37d3e13c79c",
-      "title": "Rebellious Student: Reversing Teacher Signals for Reasoning Exploration with Self-Distilled RLVR",
-      "url": "https://huggingface.co/papers/2605.10781",
-      "description": "Self-distillation has emerged as a powerful framework for post-training LLMs, where a teacher conditioned on extra information guides a student without it, both from the same model. While this guidanc",
-      "published": "2026-05-10T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
       "likes": 4,
-      "is_new": false
-    },
-    {
-      "id": "3b2e9936952c95431c3ce829d228d919",
-      "title": "Model Merging Scaling Laws in Large Language Models",
-      "url": "https://huggingface.co/papers/2509.24244",
-      "description": "We study empirical scaling laws for language model merging measured by cross-entropy. Despite its wide practical use, merging lacks a quantitative rule that predicts returns as we add experts or scale",
-      "published": "2026-05-10T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 12,
-      "is_new": false
-    },
-    {
-      "id": "fc2e89c797fc94de26c7a320a82b19d3",
-      "title": "G-Zero: Self-Play for Open-Ended Generation from Zero Data",
-      "url": "https://huggingface.co/papers/2605.09959",
-      "description": "Self-evolving LLMs excel in verifiable domains but struggle in open-ended tasks, where reliance on proxy LLM judges introduces capability bottlenecks and reward hacking. To overcome this, we introduce",
-      "published": "2026-05-10T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 8,
-      "is_new": false
-    },
-    {
-      "id": "6a9e65ed03b26eb29f136ed6110a3958",
-      "title": "Omni-Persona: Systematic Benchmarking and Improving Omnimodal Personalization",
-      "url": "https://huggingface.co/papers/2605.09996",
-      "description": "While multimodal large language models have advanced across text, image, and audio, personalization research has remained primarily vision-language, with unified omnimodal benchmarking that jointly co",
-      "published": "2026-05-10T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
       "is_new": false
     },
     {
@@ -1084,82 +1084,43 @@
       "is_new": false
     },
     {
-      "id": "ebe8960c1329e201e1fdca6f6923b013",
-      "title": "Sub-JEPA: Subspace Gaussian Regularization for Stable End-to-End World Models",
-      "url": "https://huggingface.co/papers/2605.09241",
-      "description": "Joint-Embedding Predictive Architectures (JEPAs) provide a simpleframework for learning world models by predicting future latent representations.However, JEPA training is subject to a bias-variance tr",
+      "id": "35c096f3fb6b947756a70243b721a06a",
+      "title": "Scratchpad Patching: Decoupling Compute from Patch Size in Byte-Level Language Models",
+      "url": "https://huggingface.co/papers/2605.09630",
+      "description": "Tokenizer-free language models eliminate the tokenizer step of the language modeling pipeline by operating directly on bytes; patch-based variants further aggregate contiguous byte spans into patches ",
+      "published": "2026-05-09T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "c6dbdca7b899503095b4906063df985d",
+      "title": "Dystruct: Dynamically Structured Diffusion Language Model Decoding via Bayesian Inference",
+      "url": "https://huggingface.co/papers/2605.09820",
+      "description": "Diffusion language models (DLMs) have recently emerged as a promising alternative to autoregressive models, primarily due to their ability to enable parallel decoding. Despite this advantage, most exi",
       "published": "2026-05-09T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
       "likes": 0,
-      "is_new": false
+      "is_new": true
     },
     {
-      "id": "a7b4e3281b5fe55c497571f05b6d6925",
-      "title": "TD3B: Transition-Directed Discrete Diffusion for Allosteric Binder Generation",
-      "url": "https://huggingface.co/papers/2605.09810",
-      "description": "Protein function is often controlled by ligands that bias the direction of state transitions, such as agonists and antagonists, rather than stabilizing a single conformation. This is especially import",
+      "id": "6bcb6b34553dd47e26a8bab5a180a67d",
+      "title": "SimWorld Studio: Automatic Environment Generation with Evolving Coding Agent for Embodied Agent Learning",
+      "url": "https://huggingface.co/papers/2605.09423",
+      "description": "LLM/VLM-based digital agents have advanced rapidly thanks to scalable sandboxes for coding, web navigation, and computer use, which provide rich interactive training grounds. In contrast, embodied age",
       "published": "2026-05-09T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
       "likes": 0,
-      "is_new": false
-    },
-    {
-      "id": "887c342ca80dd65cf82110e002517ef1",
-      "title": "Reinforcing Multimodal Reasoning Against Visual Degradation",
-      "url": "https://huggingface.co/papers/2605.09262",
-      "description": "Reinforcement Learning has significantly advanced the reasoning capabilities of Multimodal Large Language Models (MLLMs), yet the resulting policies remain brittle against real-world visual degradatio",
-      "published": "2026-05-09T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "836d2672fdafb22ac81e14b314a970de",
-      "title": "DeltaRubric: Generative Multimodal Reward Modeling via Joint Planning and Verification",
-      "url": "https://huggingface.co/papers/2605.09269",
-      "description": "Aligning Multimodal Large Language Models (MLLMs) requires reliable reward models, yet existing single-step evaluators can suffer from lazy judging, exploiting language priors over fine-grained visual",
-      "published": "2026-05-09T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "cdcb2c34eba24a4b5a43a97f3eaee80b",
-      "title": "Make Each Token Count: Towards Improving Long-Context Performance with KV Cache Eviction",
-      "url": "https://huggingface.co/papers/2605.09649",
-      "description": "The key-value (KV) cache is a major bottleneck in long-context inference, where memory and computation grow with sequence length. Existing KV eviction methods reduce this cost but typically degrade pe",
-      "published": "2026-05-09T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 5,
-      "is_new": false
-    },
-    {
-      "id": "eb2d508f40b576e612b3c2ad6566956d",
-      "title": "Geometry Conflict: Explaining and Controlling Forgetting in LLM Continual Post-Training",
-      "url": "https://huggingface.co/papers/2605.09608",
-      "description": "Continual post-training aims to extend large language models (LLMs) with new knowledge, skills, and behaviors, yet it remains unclear when sequential updates enable capability transfer and when they c",
-      "published": "2026-05-09T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 10,
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "48076443",
@@ -1185,7 +1146,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 4,
+      "points": 5,
       "comments": 4,
       "is_new": false
     },
@@ -1204,6 +1165,58 @@
       "is_new": false
     },
     {
+      "id": "eea75c55b0789362947dbf3e0925cfa2",
+      "title": "LLaVA-UHD v4: What Makes Efficient Visual Encoding in MLLMs?",
+      "url": "https://huggingface.co/papers/2605.08985",
+      "description": "Visual encoding constitutes a major computational bottleneck in Multimodal Large Language Models (MLLMs), especially for high-resolution image inputs. The prevailing practice typically adopts global e",
+      "published": "2026-05-08T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "3f2389da2b6b9dead01eeb09e42938c9",
+      "title": "SlimQwen: Exploring the Pruning and Distillation in Large MoE Model Pre-training",
+      "url": "https://huggingface.co/papers/2605.08738",
+      "description": "Structured pruning and knowledge distillation (KD) are typical techniques for compressing large language models, but it remains unclear how they should be applied at pretraining scale, especially to r",
+      "published": "2026-05-08T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "b9963ae8a5b72c917f366c5efe9521ff",
+      "title": "AgentForesight: Online Auditing for Early Failure Prediction in Multi-Agent Systems",
+      "url": "https://huggingface.co/papers/2605.08715",
+      "description": "LLM-based multi-agent systems are increasingly deployed on long-horizon tasks, but a single decisive error is often accepted by downstream agents and cascades into trajectory-level failure. Existing w",
+      "published": "2026-05-08T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "b464b40ac4da924a7bb5303a61dde4a7",
+      "title": "CollabVR: Collaborative Video Reasoning with Vision-Language and Video Generation Models",
+      "url": "https://huggingface.co/papers/2605.08735",
+      "description": "Recent \"Thinking with Video\" approaches use Video Generation Models (VGMs) for visual reasoning by producing temporally coherent Chain-of-Frames as reasoning artifacts. Even strong VGMs, however, exhi",
+      "published": "2026-05-08T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 15,
+      "is_new": true
+    },
+    {
       "id": "b8aa52109eb87e844bd319715e5947bb",
       "title": "MuSS: A Large-Scale Dataset and Cinematic Narrative Benchmark for Multi-Shot Subject-to-Video Generation",
       "url": "https://huggingface.co/papers/2604.23789",
@@ -1215,19 +1228,6 @@
       "category": "research",
       "likes": 1,
       "is_new": true
-    },
-    {
-      "id": "84681269c23f6bb1099e2cd10bfbe695",
-      "title": "Pushing Biomolecular Utility-Diversity Frontiers with Supergroup Relative Policy Optimization",
-      "url": "https://huggingface.co/papers/2605.08659",
-      "description": "Biomolecular generators are often adapted with reward feedback to improve task-specific utility, but pushing utility alone can concentrate generation on a narrow family of candidates. Maintaining dive",
-      "published": "2026-05-08T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
     },
     {
       "id": "48066970",
@@ -1295,6 +1295,18 @@
   "by_category": {
     "news": [
       {
+        "id": "d3b5b5ad95107e44d216d88b50cc9509",
+        "title": "Thinking Machines wants to build an AI that actually listens while it talks",
+        "url": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
+        "description": "Right now, every AI model you've ever used works the same way. You talk, it listens. It responds, you listen. Thinking Machines is trying to change that by building a model that processes your input a",
+        "published": "Tue, 12 May 2026 04:52:35 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "7a7c4cf1151cbf20eb8d667139bb0fc6",
         "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
         "url": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
@@ -1336,18 +1348,6 @@
         "url": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
         "description": "The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm.",
         "published": "Thu, 07 May 2026 20:20:20 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "c158587de2a00b66bac03b9edac63304",
-        "title": "Perplexity’s Personal Computer is now available to everyone on Mac",
-        "url": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
-        "description": "Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone.",
-        "published": "Thu, 07 May 2026 19:57:59 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
@@ -1572,8 +1572,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 63,
-        "comments": 19,
+        "points": 76,
+        "comments": 23,
         "is_new": false
       },
       {
