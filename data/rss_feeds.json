@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-12T06:46:34.642296+00:00",
+  "last_updated": "2026-05-12T08:48:13.791448+00:00",
   "total_entries": 110,
-  "new_entries": 56,
+  "new_entries": 61,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -805,8 +805,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 76,
-      "comments": 23,
+      "points": 81,
+      "comments": 24,
       "is_new": false
     },
     {
@@ -940,6 +940,71 @@
       "is_new": false
     },
     {
+      "id": "87761d836df315d0d0ad33fc00f50770",
+      "title": "TMAS: Scaling Test-Time Compute via Multi-Agent Synergy",
+      "url": "https://huggingface.co/papers/2605.10344",
+      "description": "Test-time scaling has become an effective paradigm for improving the reasoning ability of large language models by allocating additional computation during inference. Recent structured approaches have",
+      "published": "2026-05-10T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 25,
+      "is_new": true
+    },
+    {
+      "id": "bcad145b3a7f6d7594a8f7f54d880bbc",
+      "title": "SlimSpec: Low-Rank Draft LM-Head for Accelerated Speculative Decoding",
+      "url": "https://huggingface.co/papers/2605.10453",
+      "description": "Speculative decoding speeds up autoregressive generation in Large Language Models (LLMs) through a two-step procedure, where a lightweight draft model proposes tokens which the target model then verif",
+      "published": "2026-05-10T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "dee5f53edeaa44fc0dee541cfc08131b",
+      "title": "CapVector: Learning Transferable Capability Vectors in Parametric Space for Vision-Language-Action Models",
+      "url": "https://huggingface.co/papers/2605.10903",
+      "description": "This paper proposes a novel approach to address the challenge that pretrained VLA models often fail to effectively improve performance and reduce adaptation costs during standard supervised finetuning",
+      "published": "2026-05-10T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "466f748f216480b71e8732c1f2ac4ec2",
+      "title": "RoboMemArena: A Comprehensive and Challenging Robotic Memory Benchmark",
+      "url": "https://huggingface.co/papers/2605.10921",
+      "description": "Memory is a critical component of robotic intelligence, as robots must rely on past observations and actions to accomplish long-horizon tasks in partially observable environments. However, existing ro",
+      "published": "2026-05-10T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "a9011b90b78caeeda0b49e07e6c4d962",
+      "title": "DECO: Sparse Mixture-of-Experts with Dense-Comparable Performance on End-Side Devices",
+      "url": "https://huggingface.co/papers/2605.10933",
+      "description": "While Mixture-of-Experts (MoE) scales model capacity without proportionally increasing computation, its massive total parameter footprint creates significant storage and memory-access bottlenecks, whi",
+      "published": "2026-05-10T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "68f0173541004d8df4a9f5f01b4db7d8",
       "title": "The Alpha Blending Hypothesis: Compositing Shortcut in Deepfake Detection",
       "url": "https://huggingface.co/papers/2605.10334",
@@ -962,7 +1027,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 21,
+      "likes": 25,
       "is_new": true
     },
     {
@@ -979,97 +1044,6 @@
       "is_new": true
     },
     {
-      "id": "1a8eebb4a3abff26d3f4ef67133fb894",
-      "title": "Qwen-Image-2.0 Technical Report",
-      "url": "https://huggingface.co/papers/2605.10730",
-      "description": "We present Qwen-Image-2.0, an omni-capable image generation foundation model that unifies high-fidelity generation and precise image editing within a single framework. Despite recent progress, existin",
-      "published": "2026-05-10T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 27,
-      "is_new": true
-    },
-    {
-      "id": "86a97a8de655bf48abf6244f862f6458",
-      "title": "Dynamic Skill Lifecycle Management for Agentic Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2605.10923",
-      "description": "Large language model agents increasingly rely on external skills to solve complex tasks, where skills act as modular units that extend their capabilities beyond what parametric memory alone supports. ",
-      "published": "2026-05-10T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 9,
-      "is_new": true
-    },
-    {
-      "id": "99c5841c7b67d8a9ee59a2450a7d6468",
-      "title": "NanoResearch: Co-Evolving Skills, Memory, and Policy for Personalized Research Automation",
-      "url": "https://huggingface.co/papers/2605.10813",
-      "description": "LLM-powered multi-agent systems can now automate the full research pipeline from ideation to paper writing, but a fundamental question remains: automation for whom? Researchers operate under different",
-      "published": "2026-05-10T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "e2ca9313ca1633be2ed934c8533f4188",
-      "title": "WorldReasonBench: Human-Aligned Stress Testing of Video Generators as Future World-State Predictors",
-      "url": "https://huggingface.co/papers/2605.10434",
-      "description": "Commercial video generation systems such as Seedance2.0 and Veo3.1 have rapidly improved, strengthening the view that video generators may be evolving into \"world simulators.\" Yet the community still ",
-      "published": "2026-05-10T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 16,
-      "is_new": false
-    },
-    {
-      "id": "9f046f82ddb090600822269cb6d5ba56",
-      "title": "Shepherd: A Runtime Substrate Empowering Meta-Agents with a Formalized Execution Trace",
-      "url": "https://huggingface.co/papers/2605.10913",
-      "description": "We introduce Shepherd, a functional programming model that formalizes meta-agent operations on target agents as functions, with core operations mechanized in Lean. Shepherd records every agent-environ",
-      "published": "2026-05-10T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
-      "is_new": false
-    },
-    {
-      "id": "039e5ce135af1383fffb4a8c07026645",
-      "title": "Mela: Test-Time Memory Consolidation based on Transformation Hypothesis",
-      "url": "https://huggingface.co/papers/2605.10537",
-      "description": "Memory consolidation, the process by which transient experiences are transformed into stable, structured representations, is a foundational organizing principle in the human brain, yet it remains larg",
-      "published": "2026-05-10T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 6,
-      "is_new": false
-    },
-    {
-      "id": "85f359659678e74d42172ef6cfd422f2",
-      "title": "Pixal3D: Pixel-Aligned 3D Generation from Images",
-      "url": "https://huggingface.co/papers/2605.10922",
-      "description": "Recent advances in 3D generative models have rapidly improved image-to-3D synthesis quality, enabling higher-resolution geometry and more realistic appearance. Yet fidelity, which measures pixel-level",
-      "published": "2026-05-10T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
-      "is_new": false
-    },
-    {
       "id": "48078195",
       "title": "Show HN: Sigma Guard – deterministic contradiction checks for graph memory",
       "url": "https://news.ycombinator.com/item?id=48078195",
@@ -1082,6 +1056,32 @@
       "points": 3,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "cd34a0d4ad6eeda9fb8c29e56bed8d2d",
+      "title": "Shaping Schema via Language Representation as the Next Frontier for LLM Intelligence Expanding",
+      "url": "https://huggingface.co/papers/2605.09271",
+      "description": "Although natural language is the default medium for Large Language Models (LLMs), its limited expressive capacity creates a profound bottleneck for complex problem-solving. While recent advancements i",
+      "published": "2026-05-09T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
+      "id": "4adb14b4551f77d5d34faefbdb7f85dc",
+      "title": "Metal-Sci: A Scientific Compute Benchmark for Evolutionary LLM Kernel Search on Apple Silicon",
+      "url": "https://huggingface.co/papers/2605.09708",
+      "description": "We present Metal-Sci, a 10-task benchmark of scientific Apple Silicon Metal compute kernels spanning six optimization regimes (stencils, all-pairs in n-body problems, multi-field Boltzmann, neighbor-l",
+      "published": "2026-05-09T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
     },
     {
       "id": "35c096f3fb6b947756a70243b721a06a",
@@ -1101,19 +1101,6 @@
       "title": "Dystruct: Dynamically Structured Diffusion Language Model Decoding via Bayesian Inference",
       "url": "https://huggingface.co/papers/2605.09820",
       "description": "Diffusion language models (DLMs) have recently emerged as a promising alternative to autoregressive models, primarily due to their ability to enable parallel decoding. Despite this advantage, most exi",
-      "published": "2026-05-09T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
-      "is_new": true
-    },
-    {
-      "id": "6bcb6b34553dd47e26a8bab5a180a67d",
-      "title": "SimWorld Studio: Automatic Environment Generation with Evolving Coding Agent for Embodied Agent Learning",
-      "url": "https://huggingface.co/papers/2605.09423",
-      "description": "LLM/VLM-based digital agents have advanced rapidly thanks to scalable sandboxes for coding, web navigation, and computer use, which provide rich interactive training grounds. In contrast, embodied age",
       "published": "2026-05-09T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
@@ -1165,6 +1152,32 @@
       "is_new": false
     },
     {
+      "id": "0f49973176ad692dc69399ed7e72f693",
+      "title": "FORTIS: Benchmarking Over-Privilege in Agent Skills",
+      "url": "https://huggingface.co/papers/2605.09163",
+      "description": "Large language model agents increasingly operate through an intermediate skill layer that mediates between user intent and concrete task execution. This layer is widely treated as an organizational ab",
+      "published": "2026-05-08T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "926a09ecbf602b3732a36a774ef0a71e",
+      "title": "LLiMba: Sardinian on a Single GPU -- Adapting a 3B Language Model to a Vanishing Romance Language",
+      "url": "https://huggingface.co/papers/2605.09015",
+      "description": "Sardinian, a Romance language with roughly one million speakers, has minimal presence in modern NLP. Commercial services do not support it, and current language models do not produce it reliably. We p",
+      "published": "2026-05-08T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "eea75c55b0789362947dbf3e0925cfa2",
       "title": "LLaVA-UHD v4: What Makes Efficient Visual Encoding in MLLMs?",
       "url": "https://huggingface.co/papers/2605.08985",
@@ -1174,7 +1187,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": true
     },
     {
@@ -1187,7 +1200,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 6,
       "is_new": true
     },
     {
@@ -1201,32 +1214,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": true
-    },
-    {
-      "id": "b464b40ac4da924a7bb5303a61dde4a7",
-      "title": "CollabVR: Collaborative Video Reasoning with Vision-Language and Video Generation Models",
-      "url": "https://huggingface.co/papers/2605.08735",
-      "description": "Recent \"Thinking with Video\" approaches use Video Generation Models (VGMs) for visual reasoning by producing temporally coherent Chain-of-Frames as reasoning artifacts. Even strong VGMs, however, exhi",
-      "published": "2026-05-08T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 15,
-      "is_new": true
-    },
-    {
-      "id": "b8aa52109eb87e844bd319715e5947bb",
-      "title": "MuSS: A Large-Scale Dataset and Cinematic Narrative Benchmark for Multi-Shot Subject-to-Video Generation",
-      "url": "https://huggingface.co/papers/2604.23789",
-      "description": "While video foundation models excel at single-shot generation, real-world cinematic storytelling inherently relies on complex multi-shot sequencing. Further progress is constrained by the absence of d",
-      "published": "2026-05-08T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
       "is_new": true
     },
     {
@@ -1285,6 +1272,18 @@
       "url": "https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games",
       "description": "As part of an earnings presentation on Friday, Sony shared how it's thinking about AI at the company, including many details about how it's evaluating AI as part of making PlayStation games. Generativ",
       "published": "2026-05-08T12:32:38-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": false
+    },
+    {
+      "id": "56959341dab690db7059c20729cc5c14",
+      "title": "Everybody wants to rule the AI world",
+      "url": "https://www.theverge.com/podcast/926707/openai-ceo-murati-musk-trial-vergecast",
+      "description": "Sometimes, companies pick CEOs based on carefully laid succession plans designed to maximize investor confidence and future performance. Other times, apparently, companies pick CEOs based on a bunch o",
+      "published": "2026-05-08T09:31:37-04:00",
       "source_id": "theverge-ai",
       "source_name": "The Verge AI",
       "source_icon": "📰",
@@ -1572,8 +1571,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 76,
-        "comments": 23,
+        "points": 81,
+        "comments": 24,
         "is_new": false
       },
       {
