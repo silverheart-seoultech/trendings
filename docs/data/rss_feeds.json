@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-12T09:47:56.191899+00:00",
+  "last_updated": "2026-05-12T12:13:29.985889+00:00",
   "total_entries": 110,
-  "new_entries": 2,
+  "new_entries": 5,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,6 +47,18 @@
     }
   ],
   "entries": [
+    {
+      "id": "55313edf898f972f8812ff2c3a389460",
+      "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
+      "url": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
+      "description": "Vapi says its enterprise business has grown 10-fold since early 2025 as companies shift customer support and sales calls to AI agents.",
+      "published": "Tue, 12 May 2026 11:30:00 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "d3b5b5ad95107e44d216d88b50cc9509",
       "title": "Thinking Machines wants to build an AI that actually listens while it talks",
@@ -576,18 +588,6 @@
       "is_new": false
     },
     {
-      "id": "78b9d253c0d2ad25d889f17eaa8d7748",
-      "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
-      "url": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
-      "description": "The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm.",
-      "published": "Thu, 07 May 2026 20:20:20 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "8297c2208a183540463d8fa8d3101376",
       "title": "Get ready for the whisper-filled office of the future",
       "url": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
@@ -805,8 +805,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 84,
-      "comments": 24,
+      "points": 88,
+      "comments": 29,
       "is_new": false
     },
     {
@@ -962,7 +962,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 35,
+      "likes": 39,
       "is_new": false
     },
     {
@@ -1040,20 +1040,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 25,
-      "is_new": false
-    },
-    {
-      "id": "3d7a0ad5fe2221c7312df32c3a2d0b6f",
-      "title": "Injecting Distributional Awareness into MLLMs via Reinforcement Learning for Deep Imbalanced Regression",
-      "url": "https://huggingface.co/papers/2605.01402",
-      "description": "Multimodal large language models (MLLMs) struggle with numerical regression under long-tailed target distributions. Token-level supervised fine-tuning (SFT) and point-wise regression rewards bias lear",
-      "published": "2026-05-10T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
+      "likes": 26,
       "is_new": false
     },
     {
@@ -1069,6 +1056,19 @@
       "points": 3,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "b16459534e4f024514149142d4b27ba7",
+      "title": "Crosslingual On-Policy Self-Distillation for Multilingual Reasoning",
+      "url": "https://huggingface.co/papers/2605.09548",
+      "description": "Large language models (LLMs) have achieved remarkable progress in mathematical reasoning, but this ability is not equally accessible across languages. Especially low-resource languages exhibit much lo",
+      "published": "2026-05-09T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
     },
     {
       "id": "cd34a0d4ad6eeda9fb8c29e56bed8d2d",
@@ -1133,7 +1133,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 5,
+      "points": 6,
       "comments": 4,
       "is_new": false
     },
@@ -1201,19 +1201,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 6,
-      "is_new": false
-    },
-    {
-      "id": "b9963ae8a5b72c917f366c5efe9521ff",
-      "title": "AgentForesight: Online Auditing for Early Failure Prediction in Multi-Agent Systems",
-      "url": "https://huggingface.co/papers/2605.08715",
-      "description": "LLM-based multi-agent systems are increasingly deployed on long-horizon tasks, but a single decisive error is often accepted by downstream agents and cascades into trajectory-level failure. Existing w",
-      "published": "2026-05-08T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
       "is_new": false
     },
     {
@@ -1289,10 +1276,36 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "48057908",
+      "title": "Show HN: Loxai.tech and Neutboom – Gen AI's frontier of individuality",
+      "url": "https://www.neutboom.com",
+      "description": "",
+      "published": "2026-05-08T02:50:10Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 2,
+      "is_new": false
     }
   ],
   "by_category": {
     "news": [
+      {
+        "id": "55313edf898f972f8812ff2c3a389460",
+        "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
+        "url": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
+        "description": "Vapi says its enterprise business has grown 10-fold since early 2025 as companies shift customer support and sales calls to AI agents.",
+        "published": "Tue, 12 May 2026 11:30:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "d3b5b5ad95107e44d216d88b50cc9509",
         "title": "Thinking Machines wants to build an AI that actually listens while it talks",
@@ -1335,18 +1348,6 @@
         "url": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
         "description": "AI startup Pit is led by the co-founders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round.",
         "published": "Thu, 07 May 2026 21:02:11 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "78b9d253c0d2ad25d889f17eaa8d7748",
-        "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
-        "url": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
-        "description": "The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm.",
-        "published": "Thu, 07 May 2026 20:20:20 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
@@ -1571,8 +1572,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 84,
-        "comments": 24,
+        "points": 88,
+        "comments": 29,
         "is_new": false
       },
       {
