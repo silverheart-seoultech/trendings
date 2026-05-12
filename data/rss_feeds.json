@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T23:09:40.499446+00:00",
+  "last_updated": "2026-05-12T00:08:21.738052+00:00",
   "total_entries": 110,
   "new_entries": 8,
   "sources": [
@@ -768,20 +768,6 @@
       "is_new": false
     },
     {
-      "id": "48101969",
-      "title": "MemoryOS – AI agent memory with temporal knowledge graph and 78ms retrieval",
-      "url": "https://news.ycombinator.com/item?id=48101969",
-      "description": "",
-      "published": "2026-05-11T23:08:47Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 1,
-      "comments": 0,
-      "is_new": true
-    },
-    {
       "id": "48101738",
       "title": "Show HN: Origami – A simple workspace-oriented terminal manager",
       "url": "https://tryorigami.app",
@@ -805,8 +791,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 27,
-      "comments": 10,
+      "points": 38,
+      "comments": 14,
       "is_new": true
     },
     {
@@ -978,7 +964,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 4,
-      "comments": 3,
+      "comments": 4,
       "is_new": false
     },
     {
@@ -1163,7 +1149,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 1,
       "is_new": true
     },
     {
@@ -1241,7 +1227,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
+      "likes": 7,
       "is_new": false
     },
     {
@@ -1267,7 +1253,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -1285,17 +1271,31 @@
       "is_new": false
     },
     {
-      "id": "ca56d7a9763eb3c135d1c80df5076f4c",
-      "title": "Rethinking RL for LLM Reasoning: It's Sparse Policy Selection, Not Capability Learning",
-      "url": "https://huggingface.co/papers/2605.06241",
-      "description": "Reinforcement learning has become the standard for improving reasoning in large language models, yet evidence increasingly suggests that RL does not teach new strategies; it redistributes probability ",
+      "id": "48051931",
+      "title": "Show HN: Airlock – self-upgrading compiled AI agents",
+      "url": "https://github.com/airlockrun/airlock/",
+      "description": "",
+      "published": "2026-05-07T17:10:24Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 4,
+      "comments": 1,
+      "is_new": false
+    },
+    {
+      "id": "d9cbf433a7edd164d4b8c62f7b485de6",
+      "title": "PACEvolve++: Improving Test-time Learning for Evolutionary Search Agents",
+      "url": "https://huggingface.co/papers/2605.07039",
+      "description": "Large language models have become drivers of evolutionary search, but most systems rely on a fixed, prompt-elicited policy to sample next candidates. This limits adaptation in practical engineering an",
       "published": "2026-05-06T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
-      "is_new": false
+      "likes": 1,
+      "is_new": true
     }
   ],
   "by_category": {
@@ -1541,20 +1541,6 @@
         "is_new": false
       },
       {
-        "id": "48101969",
-        "title": "MemoryOS – AI agent memory with temporal knowledge graph and 78ms retrieval",
-        "url": "https://news.ycombinator.com/item?id=48101969",
-        "description": "",
-        "published": "2026-05-11T23:08:47Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 1,
-        "comments": 0,
-        "is_new": true
-      },
-      {
         "id": "48101738",
         "title": "Show HN: Origami – A simple workspace-oriented terminal manager",
         "url": "https://tryorigami.app",
@@ -1578,8 +1564,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 27,
-        "comments": 10,
+        "points": 38,
+        "comments": 14,
         "is_new": true
       },
       {
@@ -1672,6 +1658,18 @@
         "category": "news",
         "points": 2,
         "comments": 0,
+        "is_new": false
+      },
+      {
+        "id": "5b6afa769aecbff7e8fa4a322d765c1b",
+        "title": "Google stopped a zero-day hack that it says was developed with AI",
+        "url": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped",
+        "description": "For the first time, Google says it has spotted and stopped a zero-day exploit developed with AI. According to a report from Google Threat Intelligence Group (GTIG), \"prominent cyber crime threat actor",
+        "published": "2026-05-11T12:28:15-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
         "is_new": false
       }
     ],
