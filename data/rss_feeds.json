@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-12T12:13:29.985889+00:00",
+  "last_updated": "2026-05-12T14:37:46.127040+00:00",
   "total_entries": 110,
-  "new_entries": 5,
+  "new_entries": 14,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,6 +47,18 @@
     }
   ],
   "entries": [
+    {
+      "id": "ce3938d1553a98fecc55f76cca335abc",
+      "title": "Dessn raises $6M for its production focused design tool",
+      "url": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
+      "description": "A new startup called Dessn has raised $6M to build AI-powered design tools that work directly with production codebases.",
+      "published": "Tue, 12 May 2026 13:00:00 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "55313edf898f972f8812ff2c3a389460",
       "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
@@ -576,18 +588,6 @@
       "is_new": false
     },
     {
-      "id": "fd7638a89d317ab04353ffe8f77fc8cf",
-      "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
-      "url": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
-      "description": "AI startup Pit is led by the co-founders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round.",
-      "published": "Thu, 07 May 2026 21:02:11 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "8297c2208a183540463d8fa8d3101376",
       "title": "Get ready for the whisper-filled office of the future",
       "url": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
@@ -768,6 +768,48 @@
       "is_new": false
     },
     {
+      "id": "48108778",
+      "title": "Show HN: Statewright – Visual state machines that make AI agents reliable",
+      "url": "https://github.com/statewright/statewright",
+      "description": "",
+      "published": "2026-05-12T14:24:55Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "48108667",
+      "title": "Show HN: Matterbeam, a company-wide write-ahead log for your data",
+      "url": "https://matterbeam.com",
+      "description": "",
+      "published": "2026-05-12T14:17:47Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "48107155",
+      "title": "AI Agents Discovered a Reasoning Strategy That Cuts LLM Tokens by 70%",
+      "url": "https://firethering.com/autotts-ai-inference-test-time-scaling/",
+      "description": "",
+      "published": "2026-05-12T12:14:39Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "48102507",
       "title": "Graft – semantic memory for AI agents, without the LLM",
       "url": "https://github.com/AEndrix03/Graft",
@@ -805,7 +847,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 88,
+      "points": 91,
       "comments": 29,
       "is_new": false
     },
@@ -940,6 +982,45 @@
       "is_new": false
     },
     {
+      "id": "53b366cc5efd555f6a3440416f0ceac6",
+      "title": "Prompt-Activation Duality: Improving Activation Steering via Attention-Level Interventions",
+      "url": "https://huggingface.co/papers/2605.10664",
+      "description": "Activation steering controls language model behavior by adding directions to internal representations at inference time, but standard residual-stream steering can fail in stateful dialogue. We identif",
+      "published": "2026-05-10T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 5,
+      "is_new": true
+    },
+    {
+      "id": "5839e73779c4a3438661f955a50a0cd5",
+      "title": "Key-Value Means",
+      "url": "https://huggingface.co/papers/2605.09877",
+      "description": "We present Key-Value Means (\"KVM\"), a novel block-recurrence for attention that can accommodate either fixed-size or growing state. Equipping a strong transformer baseline with fixed-size KVM attentio",
+      "published": "2026-05-10T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 10,
+      "is_new": true
+    },
+    {
+      "id": "026999dbcea6892df5a613a0fec210cc",
+      "title": "ELF: Embedded Language Flows",
+      "url": "https://huggingface.co/papers/2605.10938",
+      "description": "Diffusion and flow-based models have become the de facto approaches for generating continuous data, e.g., in domains such as images and videos. Their success has attracted growing interest in applying",
+      "published": "2026-05-10T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
       "id": "ffec7a71da6d2b73ee58c5762ee3588a",
       "title": "Can Muon Fine-tune Adam-Pretrained Models?",
       "url": "https://huggingface.co/papers/2605.10468",
@@ -962,7 +1043,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 39,
+      "likes": 42,
       "is_new": false
     },
     {
@@ -1018,32 +1099,6 @@
       "is_new": false
     },
     {
-      "id": "68f0173541004d8df4a9f5f01b4db7d8",
-      "title": "The Alpha Blending Hypothesis: Compositing Shortcut in Deepfake Detection",
-      "url": "https://huggingface.co/papers/2605.10334",
-      "description": "Recent deepfake detection methods demonstrate improved cross-dataset generalization, yet the underlying mechanisms remain underexplored. We introduce the Alpha Blending Hypothesis, positing that state",
-      "published": "2026-05-10T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
-      "is_new": false
-    },
-    {
-      "id": "810d7c6ec769a1085cbee7f10def25a2",
-      "title": "PaperFit: Vision-in-the-Loop Typesetting Optimization for Scientific Documents",
-      "url": "https://huggingface.co/papers/2605.10341",
-      "description": "A LaTeX manuscript that compiles without error is not necessarily publication-ready. The resulting PDFs frequently suffer from misplaced floats, overflowing equations, inconsistent table scaling, wido",
-      "published": "2026-05-10T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 26,
-      "is_new": false
-    },
-    {
       "id": "48078195",
       "title": "Show HN: Sigma Guard – deterministic contradiction checks for graph memory",
       "url": "https://news.ycombinator.com/item?id=48078195",
@@ -1094,19 +1149,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "35c096f3fb6b947756a70243b721a06a",
-      "title": "Scratchpad Patching: Decoupling Compute from Patch Size in Byte-Level Language Models",
-      "url": "https://huggingface.co/papers/2605.09630",
-      "description": "Tokenizer-free language models eliminate the tokenizer step of the language modeling pipeline by operating directly on bytes; patch-based variants further aggregate contiguous byte spans into patches ",
-      "published": "2026-05-09T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
       "is_new": false
     },
     {
@@ -1175,32 +1217,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "eea75c55b0789362947dbf3e0925cfa2",
-      "title": "LLaVA-UHD v4: What Makes Efficient Visual Encoding in MLLMs?",
-      "url": "https://huggingface.co/papers/2605.08985",
-      "description": "Visual encoding constitutes a major computational bottleneck in Multimodal Large Language Models (MLLMs), especially for high-resolution image inputs. The prevailing practice typically adopts global e",
-      "published": "2026-05-08T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "3f2389da2b6b9dead01eeb09e42938c9",
-      "title": "SlimQwen: Exploring the Pruning and Distillation in Large MoE Model Pre-training",
-      "url": "https://huggingface.co/papers/2605.08738",
-      "description": "Structured pruning and knowledge distillation (KD) are typical techniques for compressing large language models, but it remains unclear how they should be applied at pretraining scale, especially to r",
-      "published": "2026-05-08T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 6,
       "is_new": false
     },
     {
@@ -1276,24 +1292,22 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
-    },
-    {
-      "id": "48057908",
-      "title": "Show HN: Loxai.tech and Neutboom – Gen AI's frontier of individuality",
-      "url": "https://www.neutboom.com",
-      "description": "",
-      "published": "2026-05-08T02:50:10Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 2,
-      "is_new": false
     }
   ],
   "by_category": {
     "news": [
+      {
+        "id": "ce3938d1553a98fecc55f76cca335abc",
+        "title": "Dessn raises $6M for its production focused design tool",
+        "url": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
+        "description": "A new startup called Dessn has raised $6M to build AI-powered design tools that work directly with production codebases.",
+        "published": "Tue, 12 May 2026 13:00:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "55313edf898f972f8812ff2c3a389460",
         "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
@@ -1336,18 +1350,6 @@
         "url": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
         "description": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms.",
         "published": "Thu, 07 May 2026 22:24:50 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "fd7638a89d317ab04353ffe8f77fc8cf",
-        "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
-        "url": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
-        "description": "AI startup Pit is led by the co-founders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round.",
-        "published": "Thu, 07 May 2026 21:02:11 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
@@ -1535,6 +1537,48 @@
         "is_new": false
       },
       {
+        "id": "48108778",
+        "title": "Show HN: Statewright – Visual state machines that make AI agents reliable",
+        "url": "https://github.com/statewright/statewright",
+        "description": "",
+        "published": "2026-05-12T14:24:55Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 1,
+        "comments": 0,
+        "is_new": true
+      },
+      {
+        "id": "48108667",
+        "title": "Show HN: Matterbeam, a company-wide write-ahead log for your data",
+        "url": "https://matterbeam.com",
+        "description": "",
+        "published": "2026-05-12T14:17:47Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 1,
+        "comments": 0,
+        "is_new": true
+      },
+      {
+        "id": "48107155",
+        "title": "AI Agents Discovered a Reasoning Strategy That Cuts LLM Tokens by 70%",
+        "url": "https://firethering.com/autotts-ai-inference-test-time-scaling/",
+        "description": "",
+        "published": "2026-05-12T12:14:39Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 1,
+        "comments": 0,
+        "is_new": true
+      },
+      {
         "id": "48102507",
         "title": "Graft – semantic memory for AI agents, without the LLM",
         "url": "https://github.com/AEndrix03/Graft",
@@ -1572,7 +1616,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 88,
+        "points": 91,
         "comments": 29,
         "is_new": false
       },
@@ -1618,48 +1662,6 @@
         "url": "https://github.com/uw-syfi/vibe-serve",
         "description": "",
         "published": "2026-05-11T15:48:41Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 2,
-        "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "48096408",
-        "title": "Ask HN: How to deal with everybody rushing to implement?",
-        "url": "https://news.ycombinator.com/item?id=48096408",
-        "description": "",
-        "published": "2026-05-11T15:35:46Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 3,
-        "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "48095392",
-        "title": "JetBrains Junie – an LLM-agnostic AI coding agent",
-        "url": "https://www.jetbrains.com/junie/",
-        "description": "",
-        "published": "2026-05-11T14:23:01Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 3,
-        "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "48094438",
-        "title": "AI Agents Show Long Context Gains with LCM, Specialized Applications Emerge",
-        "url": "https://presciente.com/edition/75",
-        "description": "",
-        "published": "2026-05-11T13:02:39Z",
         "source_id": "hn-ai",
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
