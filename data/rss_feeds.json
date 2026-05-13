@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-13T07:24:33.585295+00:00",
+  "last_updated": "2026-05-13T08:51:58.643108+00:00",
   "total_entries": 110,
-  "new_entries": 60,
+  "new_entries": 65,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -829,7 +829,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 46,
+      "points": 49,
       "comments": 19,
       "is_new": false
     },
@@ -843,7 +843,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 51,
+      "points": 52,
       "comments": 19,
       "is_new": false
     },
@@ -858,7 +858,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 91,
-      "comments": 32,
+      "comments": 33,
       "is_new": false
     },
     {
@@ -997,9 +997,48 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 101,
+      "points": 102,
       "comments": 30,
       "is_new": false
+    },
+    {
+      "id": "fca5885e35814ef1b9663ed99d7ba4b5",
+      "title": "Debiased Model-based Representations for Sample-efficient Continuous Control",
+      "url": "https://huggingface.co/papers/2605.11711",
+      "description": "Model-based representations recently stand out as a promising framework that embeds latent dynamics information into the representations for downstream off-policy actor-critic learning. It implicitly ",
+      "published": "2026-05-11T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
+      "id": "1af0099bf2b3ea5e75bae1dc34a27a9c",
+      "title": "WildRelight: A Real-World Benchmark and Physics-Guided Adaptation for Single-Image Relighting",
+      "url": "https://huggingface.co/papers/2605.11696",
+      "description": "Recent single-image relighting methods, powered by advanced generative models, have achieved impressive photorealism on synthetic benchmarks. However, their effectiveness in the complex visual landsca",
+      "published": "2026-05-11T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "b087d30222cd4b7a1e0205611f62fe1d",
+      "title": "A Causal Language Modeling Detour Improves Encoder Continued Pretraining",
+      "url": "https://huggingface.co/papers/2605.12438",
+      "description": "When adapting an encoder to a new domain, the standard approach is to continue training with Masked Language Modeling (MLM). We show that temporarily switching to Causal Language Modeling (CLM) follow",
+      "published": "2026-05-11T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
     },
     {
       "id": "e577b4f72bfdff4586fb52805f51d09d",
@@ -1011,7 +1050,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 1,
       "is_new": true
     },
     {
@@ -1024,7 +1063,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 9,
       "is_new": true
     },
     {
@@ -1037,7 +1076,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 12,
       "is_new": true
     },
     {
@@ -1050,7 +1089,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 32,
+      "likes": 33,
       "is_new": true
     },
     {
@@ -1063,7 +1102,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 18,
+      "likes": 20,
       "is_new": true
     },
     {
@@ -1102,34 +1141,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 17,
+      "likes": 22,
       "is_new": true
-    },
-    {
-      "id": "932d6213116c3dd945152707747956e7",
-      "title": "AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decompositional Verifiable Reward",
-      "url": "https://huggingface.co/papers/2605.12495",
-      "description": "In this paper, we propose AlphaGRPO, a novel framework that applies Group Relative Policy Optimization (GRPO) to AR-Diffusion Unified Multimodal Models (UMMs) to enhance multimodal generation capabili",
-      "published": "2026-05-11T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 8,
-      "is_new": true
-    },
-    {
-      "id": "133da0c64e8d8c28e0228eefd187a82d",
-      "title": "Geometric Factual Recall in Transformers",
-      "url": "https://huggingface.co/papers/2605.12426",
-      "description": "How do transformer language models memorize factual associations? A common view casts internal weight matrices as associative memories over pairs of embeddings, requiring parameter counts that scale l",
-      "published": "2026-05-11T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
-      "is_new": false
     },
     {
       "id": "671766d9e2f2a7493da8d58c64aff64b",
@@ -1208,7 +1221,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 12,
       "is_new": true
     },
     {
@@ -1223,32 +1236,6 @@
       "category": "research",
       "likes": 1,
       "is_new": true
-    },
-    {
-      "id": "08a7cd1ebe95316166041ad83eed4e77",
-      "title": "Continual Harness: Online Adaptation for Self-Improving Foundation Agents",
-      "url": "https://huggingface.co/papers/2605.09998",
-      "description": "Coding harnesses such as Claude Code and OpenHands wrap foundation models with tools, memory, and planning, but no equivalent exists for embodied agents' long-horizon partial-observability decision-ma",
-      "published": "2026-05-10T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 6,
-      "is_new": false
-    },
-    {
-      "id": "3adab72e1fc459c016aecd7143b692f6",
-      "title": "Agent-ValueBench: A Comprehensive Benchmark for Evaluating Agent Values",
-      "url": "https://huggingface.co/papers/2605.10365",
-      "description": "Autonomous agents have rapidly matured as task executors and seen widespread deployment via harnesses such as OpenClaw. Safety concerns have rightly drawn growing research attention, and beneath them ",
-      "published": "2026-05-10T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 6,
-      "is_new": false
     },
     {
       "id": "48078195",
@@ -1274,7 +1261,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 11,
       "is_new": true
     },
     {
@@ -1289,6 +1276,20 @@
       "category": "news",
       "points": 2,
       "comments": 2,
+      "is_new": false
+    },
+    {
+      "id": "48076137",
+      "title": "Show HN: My AI agents bully each other to prevent context drift",
+      "url": "https://wuphf.team",
+      "description": "",
+      "published": "2026-05-09T16:22:23Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 9,
+      "comments": 0,
       "is_new": false
     }
   ],
@@ -1596,7 +1597,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 46,
+        "points": 49,
         "comments": 19,
         "is_new": false
       },
@@ -1610,7 +1611,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 51,
+        "points": 52,
         "comments": 19,
         "is_new": false
       },
@@ -1625,7 +1626,7 @@
         "source_icon": "🟧",
         "category": "news",
         "points": 91,
-        "comments": 32,
+        "comments": 33,
         "is_new": false
       },
       {
