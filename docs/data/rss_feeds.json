@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-13T22:36:44.802648+00:00",
+  "last_updated": "2026-05-14T00:13:22.998368+00:00",
   "total_entries": 110,
-  "new_entries": 3,
+  "new_entries": 5,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -144,10 +144,10 @@
       "is_new": false
     },
     {
-      "id": "cca0dcac360041763ab92a9ac024fd3f",
-      "title": "WhatsApp adds an incognito mode in Meta AI chats",
-      "url": "https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/",
-      "description": "Meta said these incognito conversations are not saved, and messages will disappear by default once you close the chat.",
+      "id": "a1cf4478c84db74041839635018c1905",
+      "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
+      "url": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
+      "description": "A survey compiled from fintech firm Ramp’s clients’ expense data shows 34.4% of participating businesses are paying for Anthropic services, more than any other AI lab, while only 32.3% pay for OpenAI.",
       "published": "Wed, 13 May 2026 14:00:00 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
@@ -156,10 +156,10 @@
       "is_new": false
     },
     {
-      "id": "a1cf4478c84db74041839635018c1905",
-      "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
-      "url": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
-      "description": "A survey compiled from fintech firm Ramp’s clients’ expense data shows 34.4% of participating businesses are paying for Anthropic services, more than any other AI lab, while only 32.3% pay for OpenAI.",
+      "id": "cca0dcac360041763ab92a9ac024fd3f",
+      "title": "WhatsApp adds an incognito mode in Meta AI chats",
+      "url": "https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/",
+      "description": "Meta said these incognito conversations are not saved, and messages will disappear by default once you close the chat.",
       "published": "Wed, 13 May 2026 14:00:00 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
@@ -839,8 +839,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 25,
-      "comments": 1,
+      "points": 27,
+      "comments": 2,
       "is_new": false
     },
     {
@@ -958,7 +958,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 55,
-      "comments": 21,
+      "comments": 22,
       "is_new": false
     },
     {
@@ -1147,19 +1147,6 @@
       "is_new": false
     },
     {
-      "id": "39b77c288326f0f947670b3bf888fd55",
-      "title": "Pion: A Spectrum-Preserving Optimizer via Orthogonal Equivalence Transformation",
-      "url": "https://huggingface.co/papers/2605.12492",
-      "description": "We introduce Pion, a spectrum-preserving optimizer for large language model (LLM) training based on orthogonal equivalence transformation. Unlike additive optimizers such as Adam and Muon, Pion update",
-      "published": "2026-05-11T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
       "id": "48096598",
       "title": "VibeServe: Can AI Agents Build Bespoke LLM Serving Systems?",
       "url": "https://github.com/uw-syfi/vibe-serve",
@@ -1200,6 +1187,32 @@
       "points": 1,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "27a49d4b0808ed6c019d1155e581e46d",
+      "title": "EVOCHAMBER: Test-Time Co-evolution of Multi-Agent System at Individual, Team, and Population Scales",
+      "url": "https://huggingface.co/papers/2605.11136",
+      "description": "We argue that multi-agent test-time evolution is not single-agent evolution replicated N times. A single-agent learner can only evolve its own context and memory. A multi-agent system additionally evo",
+      "published": "2026-05-10T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "2be04022bd08e79deec154bd997db0d9",
+      "title": "SleepWalk: A Three-Tier Benchmark for Stress-Testing Instruction-Guided Vision-Language Navigation",
+      "url": "https://huggingface.co/papers/2605.10376",
+      "description": "Vision-Language Models (VLMs) have advanced rapidly in multimodal perception and language understanding, yet it remains unclear whether they can reliably ground language into spatially coherent, plaus",
+      "published": "2026-05-10T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
     },
     {
       "id": "00da3ea5cf8fd4f61bf0b517475cb806",
@@ -1278,20 +1291,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "48076443",
-      "title": "Ask HN: How do you give estimates in the age of Agentic coding",
-      "url": "https://news.ycombinator.com/item?id=48076443",
-      "description": "",
-      "published": "2026-05-09T17:04:38Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 2,
       "is_new": false
     }
   ],
@@ -1394,10 +1393,10 @@
         "is_new": false
       },
       {
-        "id": "cca0dcac360041763ab92a9ac024fd3f",
-        "title": "WhatsApp adds an incognito mode in Meta AI chats",
-        "url": "https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/",
-        "description": "Meta said these incognito conversations are not saved, and messages will disappear by default once you close the chat.",
+        "id": "a1cf4478c84db74041839635018c1905",
+        "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
+        "url": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
+        "description": "A survey compiled from fintech firm Ramp’s clients’ expense data shows 34.4% of participating businesses are paying for Anthropic services, more than any other AI lab, while only 32.3% pay for OpenAI.",
         "published": "Wed, 13 May 2026 14:00:00 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
@@ -1406,10 +1405,10 @@
         "is_new": false
       },
       {
-        "id": "a1cf4478c84db74041839635018c1905",
-        "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
-        "url": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
-        "description": "A survey compiled from fintech firm Ramp’s clients’ expense data shows 34.4% of participating businesses are paying for Anthropic services, more than any other AI lab, while only 32.3% pay for OpenAI.",
+        "id": "cca0dcac360041763ab92a9ac024fd3f",
+        "title": "WhatsApp adds an incognito mode in Meta AI chats",
+        "url": "https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/",
+        "description": "Meta said these incognito conversations are not saved, and messages will disappear by default once you close the chat.",
         "published": "Wed, 13 May 2026 14:00:00 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
@@ -1609,8 +1608,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 25,
-        "comments": 1,
+        "points": 27,
+        "comments": 2,
         "is_new": false
       },
       {
