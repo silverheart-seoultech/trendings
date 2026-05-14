@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-14T10:31:00.402193+00:00",
+  "last_updated": "2026-05-14T13:02:47.284608+00:00",
   "total_entries": 110,
-  "new_entries": 1,
+  "new_entries": 5,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -144,10 +144,10 @@
       "is_new": false
     },
     {
-      "id": "a1cf4478c84db74041839635018c1905",
-      "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
-      "url": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
-      "description": "A survey compiled from fintech firm Ramp’s clients’ expense data shows 34.4% of participating businesses are paying for Anthropic services, more than any other AI lab, while only 32.3% pay for OpenAI.",
+      "id": "cca0dcac360041763ab92a9ac024fd3f",
+      "title": "WhatsApp adds an incognito mode in Meta AI chats",
+      "url": "https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/",
+      "description": "Meta said these incognito conversations are not saved, and messages will disappear by default once you close the chat.",
       "published": "Wed, 13 May 2026 14:00:00 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
@@ -156,10 +156,10 @@
       "is_new": false
     },
     {
-      "id": "cca0dcac360041763ab92a9ac024fd3f",
-      "title": "WhatsApp adds an incognito mode in Meta AI chats",
-      "url": "https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/",
-      "description": "Meta said these incognito conversations are not saved, and messages will disappear by default once you close the chat.",
+      "id": "a1cf4478c84db74041839635018c1905",
+      "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
+      "url": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
+      "description": "A survey compiled from fintech firm Ramp’s clients’ expense data shows 34.4% of participating businesses are paying for Anthropic services, more than any other AI lab, while only 32.3% pay for OpenAI.",
       "published": "Wed, 13 May 2026 14:00:00 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
@@ -768,6 +768,18 @@
       "is_new": false
     },
     {
+      "id": "49eea13d30d514046f65bccd19fafcc5",
+      "title": "You can make an app for that",
+      "url": "https://www.theverge.com/tech/928905/vibe-code-personal-software-revolution",
+      "description": "The tyranny of software is almost over. Since the first computer programmers wrote the first computer programs, we, the users of that software, have been forced to live in the worlds those programs cr",
+      "published": "2026-05-14T07:57:27-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "48131506",
       "title": "Multi-LLM AI trading agent harness",
       "url": "https://github.com/achaljhawar/1rok",
@@ -867,7 +879,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 31,
+      "points": 33,
       "comments": 2,
       "is_new": false
     },
@@ -934,6 +946,19 @@
       "is_new": false
     },
     {
+      "id": "b51ada1e0f40acffe9c07bcad28edd20",
+      "title": "FeatCal: Feature Calibration for Post-Merging Models",
+      "url": "https://huggingface.co/papers/2605.13030",
+      "description": "Model merging combines task experts into one model and avoids joint training, retraining, or deploying many expert models, but the merged model often still underperforms task experts. We study this pe",
+      "published": "2026-05-12T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
       "id": "750aaf501ba3bc4f1017123d29f36939",
       "title": "RealICU: Do LLM Agents Understand Long-Context ICU Data? A Benchmark Beyond Behavior Imitation",
       "url": "https://huggingface.co/papers/2605.13542",
@@ -969,7 +994,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 18,
+      "likes": 19,
       "is_new": false
     },
     {
@@ -995,7 +1020,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 1,
       "is_new": false
     },
     {
@@ -1021,33 +1046,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 67,
-      "is_new": false
-    },
-    {
-      "id": "12865c3e03bbf13ad055d7cb1bdb6fda",
-      "title": "Many-Shot CoT-ICL: Making In-Context Learning Truly Learn",
-      "url": "https://huggingface.co/papers/2605.13511",
-      "description": "In-context learning (ICL) adapts large language models (LLMs) to new tasks by conditioning on demonstrations in the prompt without parameter updates. With long-context models, many-shot ICL can use do",
-      "published": "2026-05-12T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 18,
-      "is_new": false
-    },
-    {
-      "id": "0eb8560e4bf4ff406f43b34b43190276",
-      "title": "Qwen-Image-VAE-2.0 Technical Report",
-      "url": "https://huggingface.co/papers/2605.13565",
-      "description": "We present Qwen-Image-VAE-2.0, a suite of high-compression Variational Autoencoders (VAEs) that achieve significant advances in both reconstruction fidelity and diffusability. To address the reconstru",
-      "published": "2026-05-12T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 28,
+      "likes": 75,
       "is_new": false
     },
     {
@@ -1088,7 +1087,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 58,
+      "points": 59,
       "comments": 24,
       "is_new": false
     },
@@ -1102,7 +1101,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 55,
+      "points": 56,
       "comments": 22,
       "is_new": false
     },
@@ -1116,8 +1115,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 114,
-      "comments": 52,
+      "points": 115,
+      "comments": 53,
       "is_new": false
     },
     {
@@ -1126,18 +1125,6 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/928861/openai-sam-altman-elon-musk-damage",
       "description": "OpenAI CEO Sam Altman says Elon Musk did \"huge damage\" to the culture of the AI startup. During testimony as part of Musk's lawsuit against OpenAI, Altman said Musk required OpenAI president Greg Broc",
       "published": "2026-05-12T14:07:26-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "a35f27f13865d0c4e6561acdad643de2",
-      "title": "The 9 biggest new features in Android 17",
-      "url": "https://www.theverge.com/tech/928653/google-android-17-9-biggest-new-features-android-show-io",
-      "description": "Would it shock you to hear that Android 17 is filled with new AI-enabled features, like improved dictation and vibe-coded widgets? Fortunately, that's not all. The platform is getting non-AI updates t",
-      "published": "2026-05-12T13:00:59-04:00",
       "source_id": "theverge-ai",
       "source_name": "The Verge AI",
       "source_icon": "📰",
@@ -1223,7 +1210,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 39,
+      "likes": 42,
       "is_new": false
     },
     {
@@ -1236,7 +1223,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 25,
+      "likes": 27,
       "is_new": false
     },
     {
@@ -1249,20 +1236,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
-      "is_new": false
-    },
-    {
-      "id": "2777e7271184b6203ccadd06a869ab71",
-      "title": "ShapeCodeBench: A Renewable Benchmark for Perception-to-Program Reconstruction of Synthetic Shape Scenes",
-      "url": "https://huggingface.co/papers/2605.11680",
-      "description": "We introduce ShapeCodeBench, a synthetic benchmark for perception-to-program reconstruction: given a rendered raster image, a model must emit an executable drawing program that a deterministic evaluat",
-      "published": "2026-05-11T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
+      "likes": 6,
       "is_new": false
     },
     {
@@ -1292,6 +1266,33 @@
       "points": 3,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "48091975",
+      "title": "Show HN: AI agents who prevent context drift through gossip",
+      "url": "https://wuphf.team",
+      "description": "",
+      "published": "2026-05-11T07:16:59Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 0,
+      "is_new": false
+    },
+    {
+      "id": "9ac25323a77e8bca8a9454a0ed9fc022",
+      "title": "M2Retinexformer: Multi-Modal Retinexformer for Low-Light Image Enhancement",
+      "url": "https://huggingface.co/papers/2605.12556",
+      "description": "Low-light image enhancement is challenging due to complex degradations, including amplified noise, artifacts, and color distortion. While Retinex-based deep learning methods have achieved promising re",
+      "published": "2026-05-10T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
     }
   ],
   "by_category": {
@@ -1393,10 +1394,10 @@
         "is_new": false
       },
       {
-        "id": "a1cf4478c84db74041839635018c1905",
-        "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
-        "url": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
-        "description": "A survey compiled from fintech firm Ramp’s clients’ expense data shows 34.4% of participating businesses are paying for Anthropic services, more than any other AI lab, while only 32.3% pay for OpenAI.",
+        "id": "cca0dcac360041763ab92a9ac024fd3f",
+        "title": "WhatsApp adds an incognito mode in Meta AI chats",
+        "url": "https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/",
+        "description": "Meta said these incognito conversations are not saved, and messages will disappear by default once you close the chat.",
         "published": "Wed, 13 May 2026 14:00:00 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
@@ -1405,10 +1406,10 @@
         "is_new": false
       },
       {
-        "id": "cca0dcac360041763ab92a9ac024fd3f",
-        "title": "WhatsApp adds an incognito mode in Meta AI chats",
-        "url": "https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/",
-        "description": "Meta said these incognito conversations are not saved, and messages will disappear by default once you close the chat.",
+        "id": "a1cf4478c84db74041839635018c1905",
+        "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
+        "url": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
+        "description": "A survey compiled from fintech firm Ramp’s clients’ expense data shows 34.4% of participating businesses are paying for Anthropic services, more than any other AI lab, while only 32.3% pay for OpenAI.",
         "published": "Wed, 13 May 2026 14:00:00 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
@@ -1537,6 +1538,18 @@
         "is_new": false
       },
       {
+        "id": "49eea13d30d514046f65bccd19fafcc5",
+        "title": "You can make an app for that",
+        "url": "https://www.theverge.com/tech/928905/vibe-code-personal-software-revolution",
+        "description": "The tyranny of software is almost over. Since the first computer programmers wrote the first computer programs, we, the users of that software, have been forced to live in the worlds those programs cr",
+        "published": "2026-05-14T07:57:27-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "48131506",
         "title": "Multi-LLM AI trading agent harness",
         "url": "https://github.com/achaljhawar/1rok",
@@ -1636,7 +1649,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 31,
+        "points": 33,
         "comments": 2,
         "is_new": false
       },
@@ -1646,18 +1659,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/929457/amazon-announces-alexa-for-shopping-ai-assistant-rufus",
         "description": "Amazon is bringing Alexa Plus to Amazon.com, integrating its LLM-powered AI assistant directly into the company's shopping experience. Beginning today, when you type a query into Amazon, you'll be tal",
         "published": "2026-05-13T10:43:28-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "eed543b4bdb576ca577b23f19807f876",
-        "title": "Meta won’t let you block its AI account on Threads",
-        "url": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
-        "description": "Meta announced on Tuesday that it's testing a Threads feature that lets users tag a Meta AI account to get answers to questions or context about a conversation on the platform. If you've spent any tim",
-        "published": "2026-05-13T05:54:55-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
