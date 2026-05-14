@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-14T07:19:58.862501+00:00",
+  "last_updated": "2026-05-14T08:45:31.925833+00:00",
   "total_entries": 110,
-  "new_entries": 54,
+  "new_entries": 58,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -867,7 +867,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 29,
+      "points": 31,
       "comments": 2,
       "is_new": false
     },
@@ -934,6 +934,32 @@
       "is_new": false
     },
     {
+      "id": "74618f62192f1533a44afd743beef713",
+      "title": "PersonalAI 2.0: Enhancing knowledge graph traversal/retrieval with planning mechanism for Personalized LLM Agents",
+      "url": "https://huggingface.co/papers/2605.13481",
+      "description": "We introduce PersonalAI 2.0 (PAI-2), a novel framework, designed to enhance large language model (LLM) based systems through integration of external knowledge graphs (KG). The proposed approach addres",
+      "published": "2026-05-12T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "f0d8486b98edcdc8453e3abae4c46caf",
+      "title": "FrameSkip: Learning from Fewer but More Informative Frames in VLA Training",
+      "url": "https://huggingface.co/papers/2605.13757",
+      "description": "Vision-Language-Action (VLA) policies are commonly trained from dense robot demonstration trajectories, often collected through teleoperation, by sampling every recorded frame as if it provided equall",
+      "published": "2026-05-12T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 16,
+      "is_new": true
+    },
+    {
       "id": "e83ffc6c87b0e612054fdab58d1b66cd",
       "title": "Vividh-ASR: A Complexity-Tiered Benchmark and Optimization Dynamics for Robust Indic Speech Recognition",
       "url": "https://huggingface.co/papers/2605.13087",
@@ -982,7 +1008,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 60,
+      "likes": 64,
       "is_new": false
     },
     {
@@ -995,7 +1021,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 17,
+      "likes": 18,
       "is_new": false
     },
     {
@@ -1008,7 +1034,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 22,
+      "likes": 24,
       "is_new": false
     },
     {
@@ -1022,45 +1048,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 5,
-      "is_new": false
-    },
-    {
-      "id": "e291f5ba86bf9735a20ce0cb75012f22",
-      "title": "Training Long-Context Vision-Language Models Effectively with Generalization Beyond 128K Context",
-      "url": "https://huggingface.co/papers/2605.13831",
-      "description": "Long-context modeling is becoming a core capability of modern large vision-language models (LVLMs), enabling sustained context management across long-document understanding, video analysis, and multi-",
-      "published": "2026-05-12T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 20,
-      "is_new": false
-    },
-    {
-      "id": "fe7d1530abc9a3ba5f86af25271a9688",
-      "title": "AgentLens: Revealing The Lucky Pass Problem in SWE-Agent Evaluation",
-      "url": "https://huggingface.co/papers/2605.12925",
-      "description": "Evaluation of software engineering (SWE) agents is dominated by a binary signal: whether the final patch passes the tests. This outcome-only view treats a principled solution and a chaotic trial-and-e",
-      "published": "2026-05-12T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "0cd09cdb24d43c395eff1bee7539612d",
-      "title": "MAP: A Map-then-Act Paradigm for Long-Horizon Interactive Agent Reasoning",
-      "url": "https://huggingface.co/papers/2605.13037",
-      "description": "Current interactive LLM agents rely on goal-conditioned stepwise planning, where environmental understanding is acquired reactively during execution rather than established beforehand. This temporal i",
-      "published": "2026-05-12T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
       "is_new": false
     },
     {
@@ -1129,7 +1116,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 112,
+      "points": 113,
       "comments": 51,
       "is_new": false
     },
@@ -1223,7 +1210,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
+      "likes": 8,
       "is_new": true
     },
     {
@@ -1236,7 +1223,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
+      "likes": 29,
       "is_new": true
     },
     {
@@ -1249,7 +1236,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 23,
+      "likes": 25,
       "is_new": true
     },
     {
@@ -1279,16 +1266,31 @@
       "is_new": false
     },
     {
-      "id": "53fb4e1a356654a65fda39fc23a37c58",
-      "title": "Visual Aesthetic Benchmark: Can Frontier Models Judge Beauty?",
-      "url": "https://huggingface.co/papers/2605.12684",
-      "description": "Multimodal large language models (MLLMs) are now routinely deployed for visual understanding, generation, and curation. A substantial fraction of these applications require an explicit aesthetic judgm",
-      "published": "2026-05-11T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
+      "id": "48096598",
+      "title": "VibeServe: Can AI Agents Build Bespoke LLM Serving Systems?",
+      "url": "https://github.com/uw-syfi/vibe-serve",
+      "description": "",
+      "published": "2026-05-11T15:48:41Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": false
+    },
+    {
+      "id": "48095392",
+      "title": "JetBrains Junie – an LLM-agnostic AI coding agent",
+      "url": "https://www.jetbrains.com/junie/",
+      "description": "",
+      "published": "2026-05-11T14:23:01Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 3,
+      "comments": 0,
       "is_new": false
     }
   ],
@@ -1634,7 +1636,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 29,
+        "points": 31,
         "comments": 2,
         "is_new": false
       },
