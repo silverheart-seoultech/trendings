@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-15T13:03:21.856986+00:00",
+  "last_updated": "2026-05-15T14:21:40.787191+00:00",
   "total_entries": 110,
-  "new_entries": 6,
+  "new_entries": 9,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -101,18 +101,6 @@
       "url": "https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/",
       "description": "Origin Lab will serve as a marketplace where AI labs can buy high-quality licensed data, and video-game companies can sell it.",
       "published": "Wed, 13 May 2026 16:22:01 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "33994bb3261cb6a0117d514e822bf9aa",
-      "title": "Anthropic courts a new kind of customer: small business owners",
-      "url": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/",
-      "description": "For founders and investors, Anthropic's new offering signals that the AI platform wars are expanding downmarket and that the next major battleground for user acquisition isn't the Fortune 500; it's th",
-      "published": "Wed, 13 May 2026 16:00:00 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
@@ -274,6 +262,18 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "91ef357f0757fbac78c2ff239b897944",
+      "title": "Runway started by helping filmmakers. Now it wants to beat Google at AI.",
+      "url": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
+      "description": "AI video generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability.",
+      "published": "Fri, 15 May 2026 14:00:00 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "5d5f0482cd3958819dece96da169c7c6",
@@ -768,6 +768,30 @@
       "is_new": false
     },
     {
+      "id": "0a3c404dc0b592c3ca492097fa691fb3",
+      "title": "AI research papers are getting better, and it’s a big problem for scientists",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/930522/ai-research-papers-slop-peer-review-problem",
+      "description": "Last summer, Peter Degen's postdoctoral supervisor came to him with an unusual problem: One of his papers was being cited too much. Citations are the currency of academia, but there was something unus",
+      "published": "2026-05-15T09:58:26-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "2bf348b4ab6bb6fe1ac6caf3cdcd3d44",
+      "title": "The promises and pitfalls of personalized health",
+      "url": "https://www.theverge.com/column/931148/optimizer-pmos-pcos-personalized-health",
+      "description": "This is Optimizer, a weekly newsletter sent every Friday from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life",
+      "published": "2026-05-15T09:00:55-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "1d0c2f9f5af6ea933b20974d33fd0633",
       "title": "Closing time",
       "url": "https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis",
@@ -842,18 +866,6 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
-    },
-    {
-      "id": "0a3c404dc0b592c3ca492097fa691fb3",
-      "title": "AI research papers are getting better, and it’s a big problem for scientists",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/930522/ai-research-papers-slop-peer-review-problem",
-      "description": "Last summer, Peter Degen's postdoctoral supervisor came to him with an unusual problem: One of his papers was being cited too much. Citations are the currency of academia, but there was something unus",
-      "published": "2026-05-14T16:57:56-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": true
     },
     {
       "id": "aef6c5b4dd7b688fccc226d9b8516fb7",
@@ -969,7 +981,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": true
     },
     {
@@ -1060,32 +1072,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "30922181e1ed8d363da3b21d462ea24e",
-      "title": "Causal Forcing++: Scalable Few-Step Autoregressive Diffusion Distillation for Real-Time Interactive Video Generation",
-      "url": "https://huggingface.co/papers/2605.15141",
-      "description": "Real-time interactive video generation requires low-latency, streaming, and controllable rollout. Existing autoregressive (AR) diffusion distillation methods have achieved strong results in the chunk-",
-      "published": "2026-05-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 36,
-      "is_new": false
-    },
-    {
-      "id": "4e1c17be14ecc5ae3b8b916646541566",
-      "title": "Microsoft&#8217;s Edge Copilot update uses AI to pull information from across your tabs",
-      "url": "https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs",
-      "description": "Microsoft Edge is adding a new feature that will allow its Copilot AI chatbot to gather information from all of your open tabs. When you start a conversation with Copilot, you can ask the chatbot ques",
-      "published": "2026-05-13T18:04:28-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
+      "likes": 2,
       "is_new": false
     },
     {
@@ -1126,7 +1113,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": true
     },
     {
@@ -1165,7 +1152,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -1281,6 +1268,19 @@
       "is_new": false
     },
     {
+      "id": "f1cdb3ee0216219cb3e73eb817f0b4d7",
+      "title": "PreScam: A Benchmark for Predicting Scam Progression from Early Conversations",
+      "url": "https://huggingface.co/papers/2605.12243",
+      "description": "Conversational scams, such as romance and investment scams, are emerging as a major form of online fraud. Unlike one-shot scam lures such as fake lottery or unpaid toll messages, they unfold through m",
+      "published": "2026-05-11T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "806ae40b0688bfd2d574b61c8cfcdfbf",
       "title": "Learning to Communicate Locally for Large-Scale Multi-Agent Pathfinding",
       "url": "https://huggingface.co/papers/2605.07637",
@@ -1350,18 +1350,6 @@
         "url": "https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/",
         "description": "Origin Lab will serve as a marketplace where AI labs can buy high-quality licensed data, and video-game companies can sell it.",
         "published": "Wed, 13 May 2026 16:22:01 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "33994bb3261cb6a0117d514e822bf9aa",
-        "title": "Anthropic courts a new kind of customer: small business owners",
-        "url": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/",
-        "description": "For founders and investors, Anthropic's new offering signals that the AI platform wars are expanding downmarket and that the next major battleground for user acquisition isn't the Fortune 500; it's th",
-        "published": "Wed, 13 May 2026 16:00:00 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
@@ -1525,6 +1513,18 @@
         "is_new": false
       },
       {
+        "id": "91ef357f0757fbac78c2ff239b897944",
+        "title": "Runway started by helping filmmakers. Now it wants to beat Google at AI.",
+        "url": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
+        "description": "AI video generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability.",
+        "published": "Fri, 15 May 2026 14:00:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "5d5f0482cd3958819dece96da169c7c6",
         "title": "Osaurus brings both local and cloud AI models to your Mac",
         "url": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
@@ -1532,6 +1532,30 @@
         "published": "Fri, 15 May 2026 12:19:48 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "0a3c404dc0b592c3ca492097fa691fb3",
+        "title": "AI research papers are getting better, and it’s a big problem for scientists",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/930522/ai-research-papers-slop-peer-review-problem",
+        "description": "Last summer, Peter Degen's postdoctoral supervisor came to him with an unusual problem: One of his papers was being cited too much. Citations are the currency of academia, but there was something unus",
+        "published": "2026-05-15T09:58:26-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "2bf348b4ab6bb6fe1ac6caf3cdcd3d44",
+        "title": "The promises and pitfalls of personalized health",
+        "url": "https://www.theverge.com/column/931148/optimizer-pmos-pcos-personalized-health",
+        "description": "This is Optimizer, a weekly newsletter sent every Friday from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life",
+        "published": "2026-05-15T09:00:55-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
         "is_new": true
@@ -1613,18 +1637,6 @@
         "is_new": false
       },
       {
-        "id": "0a3c404dc0b592c3ca492097fa691fb3",
-        "title": "AI research papers are getting better, and it’s a big problem for scientists",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/930522/ai-research-papers-slop-peer-review-problem",
-        "description": "Last summer, Peter Degen's postdoctoral supervisor came to him with an unusual problem: One of his papers was being cited too much. Citations are the currency of academia, but there was something unus",
-        "published": "2026-05-14T16:57:56-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": true
-      },
-      {
         "id": "aef6c5b4dd7b688fccc226d9b8516fb7",
         "title": "OpenAI’s Codex is now in the ChatGPT mobile app",
         "url": "https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview",
@@ -1648,18 +1660,6 @@
         "category": "news",
         "points": 1,
         "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "826e85f4eccdd7e2345bda35688b0bb9",
-        "title": "Use this map to find the data centers in your backyard",
-        "url": "https://www.theverge.com/policy/930629/data-center-policy-map-interactive",
-        "description": "When Oregon resident Isabelle Reksopuro heard Google was gobbling up public land to fuel its data centers in her home state, she didn't initially know what to believe. \"There's a lot of misinformation",
-        "published": "2026-05-14T15:09:07-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
         "is_new": false
       }
     ],
