@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-15T19:52:31.628809+00:00",
+  "last_updated": "2026-05-15T21:17:06.477481+00:00",
   "total_entries": 110,
-  "new_entries": 0,
+  "new_entries": 5,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -243,7 +243,7 @@
       "id": "fbdbbdaad4a0bd0e71a4c1b613b19c2d",
       "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
       "url": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
-      "description": "Lake Tahoe, Silicon Valley's favorite ski spot, is about to get hit with higher energy prices as AI drives demand for electricity.",
+      "description": "Lake Tahoe, Silicon Valley's favorite vacation spot, is about to get hit with higher energy prices as AI drives demand for electricity.",
       "published": "Fri, 15 May 2026 18:14:44 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
@@ -768,6 +768,46 @@
       "is_new": false
     },
     {
+      "id": "48153575",
+      "title": "Show HN: MIT OSS LinkedIn DMs for Agents (CLI and Example TUI)",
+      "url": "https://allman.sh",
+      "description": "",
+      "published": "2026-05-15T20:45:58Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "48152558",
+      "title": "Show HN: Emergence World: World building as a way to evaluate LLMs",
+      "url": "https://world.emergence.ai/",
+      "description": "",
+      "published": "2026-05-15T19:07:22Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 3,
+      "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "00097bc0707bbb8c3d4dd778bc44f41d",
+      "title": "ArXiv will ban researchers who upload papers full of AI slop",
+      "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
+      "description": "ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a paper has \"incontrovertible evidence that the author",
+      "published": "2026-05-15T16:38:19-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "17910095770deb08b31611c0acc9ea7b",
       "title": "OpenAI keeps shuffling its executives in bid to win AI agent battle",
       "url": "https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle",
@@ -918,18 +958,6 @@
       "is_new": false
     },
     {
-      "id": "aef6c5b4dd7b688fccc226d9b8516fb7",
-      "title": "OpenAI’s Codex is now in the ChatGPT mobile app",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview",
-      "description": "OpenAI is going to let users access Codex, its desktop AI tool that can write code and use apps on your computer, from the ChatGPT app on your phone. Following the surge in popularity for Anthropic's",
-      "published": "2026-05-14T16:11:03-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "48136879",
       "title": "Show HN: 1-800-CODER, macOS app where you call an AI developer to edit your page",
       "url": "https://news.ycombinator.com/item?id=48136879",
@@ -984,6 +1012,19 @@
       "points": 2,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "621413283416eef230280cfb104af219",
+      "title": "Aligning Latent Geometry for Spherical Flow Matching in Image Generation",
+      "url": "https://huggingface.co/papers/2605.15193",
+      "description": "Latent flow matching for image generation usually transports Gaussian noise to variational autoencoder latents along linear paths. Both endpoints, however, concentrate in thin spherical shells, and a ",
+      "published": "2026-05-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
     },
     {
       "id": "c46c2a80156fbb891298067cff01a54b",
@@ -1060,7 +1101,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 13,
+      "likes": 14,
       "is_new": false
     },
     {
@@ -1099,7 +1140,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 58,
+      "points": 59,
       "comments": 4,
       "is_new": false
     },
@@ -1251,48 +1292,6 @@
       "category": "news",
       "points": 1,
       "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "48102507",
-      "title": "Graft – semantic memory for AI agents, without the LLM",
-      "url": "https://github.com/AEndrix03/Graft",
-      "description": "",
-      "published": "2026-05-12T00:14:09Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 4,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "48101738",
-      "title": "Show HN: Origami – A simple workspace-oriented terminal manager",
-      "url": "https://tryorigami.app",
-      "description": "",
-      "published": "2026-05-11T22:45:47Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "48100192",
-      "title": "Show HN: OpenGravity – A zero-install, BYOK vanilla JS clone of Antigravity",
-      "url": "https://github.com/ab-613/opengravity",
-      "description": "",
-      "published": "2026-05-11T20:23:25Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 105,
-      "comments": 30,
       "is_new": false
     }
   ],
@@ -1494,7 +1493,7 @@
         "id": "fbdbbdaad4a0bd0e71a4c1b613b19c2d",
         "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
         "url": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
-        "description": "Lake Tahoe, Silicon Valley's favorite ski spot, is about to get hit with higher energy prices as AI drives demand for electricity.",
+        "description": "Lake Tahoe, Silicon Valley's favorite vacation spot, is about to get hit with higher energy prices as AI drives demand for electricity.",
         "published": "Fri, 15 May 2026 18:14:44 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
@@ -1537,6 +1536,46 @@
         "source_icon": "📰",
         "category": "news",
         "is_new": false
+      },
+      {
+        "id": "48153575",
+        "title": "Show HN: MIT OSS LinkedIn DMs for Agents (CLI and Example TUI)",
+        "url": "https://allman.sh",
+        "description": "",
+        "published": "2026-05-15T20:45:58Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 1,
+        "comments": 0,
+        "is_new": true
+      },
+      {
+        "id": "48152558",
+        "title": "Show HN: Emergence World: World building as a way to evaluate LLMs",
+        "url": "https://world.emergence.ai/",
+        "description": "",
+        "published": "2026-05-15T19:07:22Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 3,
+        "comments": 0,
+        "is_new": true
+      },
+      {
+        "id": "00097bc0707bbb8c3d4dd778bc44f41d",
+        "title": "ArXiv will ban researchers who upload papers full of AI slop",
+        "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
+        "description": "ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a paper has \"incontrovertible evidence that the author",
+        "published": "2026-05-15T16:38:19-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
       },
       {
         "id": "17910095770deb08b31611c0acc9ea7b",
@@ -1618,42 +1657,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis",
         "description": "Today was closing arguments in the Musk v. Altman trial, and I almost feel bad writing about the unbelievable demolition derby I just witnessed. Steven Molo, Musk's lawyer, stumbled over his words. He",
         "published": "2026-05-15T11:56:05-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "0a3c404dc0b592c3ca492097fa691fb3",
-        "title": "AI research papers are getting better, and it’s a big problem for scientists",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/930522/ai-research-papers-slop-peer-review-problem",
-        "description": "Last summer, Peter Degen's postdoctoral supervisor came to him with an unusual problem: One of his papers was being cited too much. Citations are the currency of academia, but there was something unus",
-        "published": "2026-05-15T09:58:26-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "2bf348b4ab6bb6fe1ac6caf3cdcd3d44",
-        "title": "The promises and pitfalls of personalized health",
-        "url": "https://www.theverge.com/column/931148/optimizer-pmos-pcos-personalized-health",
-        "description": "This is Optimizer, a weekly newsletter sent every Friday from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life",
-        "published": "2026-05-15T09:00:55-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "cb95e9e2d62894f58cfdcc2f0ee15aa2",
-        "title": "OpenAI now wants ChatGPT to access your bank accounts",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/931122/openai-chatgpt-financial-accounts-plaid-connection",
-        "description": "Your trust in AI is about to be put to the test: OpenAI will soon let you give the chatbot direct access to your bank accounts. The new feature announced in preview today will allow users to \"securely",
-        "published": "2026-05-15T08:19:32-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
