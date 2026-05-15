@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-15T07:33:11.580609+00:00",
+  "last_updated": "2026-05-15T08:56:05.000115+00:00",
   "total_entries": 110,
-  "new_entries": 33,
+  "new_entries": 37,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -815,7 +815,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 12,
+      "points": 13,
       "comments": 1,
       "is_new": false
     },
@@ -920,6 +920,20 @@
       "is_new": false
     },
     {
+      "id": "48131141",
+      "title": "Tracing and tenant-isolation firewall for AI agents (Apache 2.0)",
+      "url": "https://github.com/amitbidlan/zistica-lumin",
+      "description": "",
+      "published": "2026-05-14T04:36:13Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 0,
+      "is_new": false
+    },
+    {
       "id": "48126836",
       "title": "Show HN: Arrivl – Analytics for AI agent traffic on your site",
       "url": "https://arrivl.ai",
@@ -932,6 +946,45 @@
       "points": 2,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "4781c9635333326e3d4aba56ba915f56",
+      "title": "BEAM: Binary Expert Activation Masking for Dynamic Routing in MoE",
+      "url": "https://huggingface.co/papers/2605.14438",
+      "description": "Mixture-of-Experts (MoE) architectures enhance the efficiency of large language models by activating only a subset of experts per token. However, standard MoE employs a fixed Top-K routing strategy, l",
+      "published": "2026-05-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "10018ec79773d5c86efee92f41d401fe",
+      "title": "LiSA: Lifelong Safety Adaptation via Conservative Policy Induction",
+      "url": "https://huggingface.co/papers/2605.14454",
+      "description": "As AI agents move from chat interfaces to systems that read private data, call tools, and execute multi-step workflows, guardrails become a last line of defense against concrete deployment harms. In t",
+      "published": "2026-05-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "517c055ea2403a76444716ffadd22d6a",
+      "title": "FrontierSmith: Synthesizing Open-Ended Coding Problems at Scale",
+      "url": "https://huggingface.co/papers/2605.14445",
+      "description": "Many real-world coding challenges are open-ended and admit no known optimal solution. Yet, recent progress in LLM coding has focused on well-defined tasks such as feature implementation, bug fixing, a",
+      "published": "2026-05-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 12,
+      "is_new": true
     },
     {
       "id": "23529dbe41fb5a3d9dcc9c497ad37aba",
@@ -1008,7 +1061,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 24,
+      "likes": 38,
       "is_new": false
     },
     {
@@ -1022,58 +1075,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 12,
-      "is_new": false
-    },
-    {
-      "id": "2fc5365c5aaf0f11b686a059ec0c37d8",
-      "title": "Does Synthetic Layered Design Data Benefit Layered Design Decomposition?",
-      "url": "https://huggingface.co/papers/2605.15167",
-      "description": "Recent advances in image generation have made it easy to produce high-quality images. However, these outputs are inherently flattened, entangling foreground elements, background, and text within a fix",
-      "published": "2026-05-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 6,
-      "is_new": false
-    },
-    {
-      "id": "6472d42ef163eba4018a9bcdf99b7ed0",
-      "title": "SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer",
-      "url": "https://huggingface.co/papers/2605.15178",
-      "description": "We introduce SANA-WM, an efficient 2.6B-parameter open-source world model natively trained for one-minute generation, synthesizing high-fidelity, 720p, minute-scale videos with precise camera control.",
-      "published": "2026-05-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 39,
-      "is_new": false
-    },
-    {
-      "id": "9df1b865d89647b958553c85275c5e80",
-      "title": "VGGT-Edit: Feed-forward Native 3D Scene Editing with Residual Field Prediction",
-      "url": "https://huggingface.co/papers/2605.15186",
-      "description": "High-quality 3D scene reconstruction has recently advanced toward generalizable feed-forward architectures, enabling the generation of complex environments in a single forward pass. However, despite t",
-      "published": "2026-05-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 12,
-      "is_new": false
-    },
-    {
-      "id": "9d2500ff751cd9479f73b4aa794c705d",
-      "title": "Darwin Family: MRI-Trust-Weighted Evolutionary Merging for Training-Free Scaling of Language-Model Reasoning",
-      "url": "https://huggingface.co/papers/2605.14386",
-      "description": "We present Darwin Family, a framework for training-free evolutionary merging of large language models via gradient-free weight-space recombination. We ask whether frontier-level reasoning performance ",
-      "published": "2026-05-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 31,
       "is_new": false
     },
     {
@@ -1129,6 +1130,19 @@
       "is_new": false
     },
     {
+      "id": "e0bd0df012a816cf4fc35f0b34eaf141",
+      "title": "CurveBench: A Benchmark for Exact Topological Reasoning over Nested Jordan Curves",
+      "url": "https://huggingface.co/papers/2605.14068",
+      "description": "We introduce CurveBench, a benchmark for hierarchical topological reasoning from visual input. CurveBench consists of 756 images of pairwise non-intersecting Jordan curves across easy, polygonal, topo",
+      "published": "2026-05-12T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "451fabfef0e6da446b36216be19bbc03",
       "title": "PanoWorld: Towards Spatial Supersensing in 360^circ Panorama World",
       "url": "https://huggingface.co/papers/2605.13169",
@@ -1138,7 +1152,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 5,
       "is_new": true
     },
     {
@@ -1178,7 +1192,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 59,
+      "points": 60,
       "comments": 24,
       "is_new": false
     },
@@ -1278,20 +1292,6 @@
       "category": "research",
       "likes": 3,
       "is_new": true
-    },
-    {
-      "id": "48096598",
-      "title": "VibeServe: Can AI Agents Build Bespoke LLM Serving Systems?",
-      "url": "https://github.com/uw-syfi/vibe-serve",
-      "description": "",
-      "published": "2026-05-11T15:48:41Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 0,
-      "is_new": false
     }
   ],
   "by_category": {
@@ -1584,7 +1584,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 12,
+        "points": 13,
         "comments": 1,
         "is_new": false
       },
