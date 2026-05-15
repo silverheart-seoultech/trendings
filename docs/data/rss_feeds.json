@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-15T14:21:40.787191+00:00",
+  "last_updated": "2026-05-15T15:27:38.169004+00:00",
   "total_entries": 110,
-  "new_entries": 9,
+  "new_entries": 2,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -273,7 +273,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "5d5f0482cd3958819dece96da169c7c6",
@@ -285,7 +285,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "a71bb99cb299a3a4d1970386c5c7580e",
@@ -768,6 +768,20 @@
       "is_new": false
     },
     {
+      "id": "48148868",
+      "title": "There's a $50B company hiding inside Salesforce",
+      "url": "https://news.ycombinator.com/item?id=48148868",
+      "description": "",
+      "published": "2026-05-15T14:13:29Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 1,
+      "is_new": true
+    },
+    {
       "id": "0a3c404dc0b592c3ca492097fa691fb3",
       "title": "AI research papers are getting better, and it’s a big problem for scientists",
       "url": "https://www.theverge.com/ai-artificial-intelligence/930522/ai-research-papers-slop-peer-review-problem",
@@ -777,7 +791,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "2bf348b4ab6bb6fe1ac6caf3cdcd3d44",
@@ -789,7 +803,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "1d0c2f9f5af6ea933b20974d33fd0633",
@@ -840,7 +854,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 13,
-      "comments": 1,
+      "comments": 2,
       "is_new": false
     },
     {
@@ -972,6 +986,19 @@
       "is_new": false
     },
     {
+      "id": "c46c2a80156fbb891298067cff01a54b",
+      "title": "Boosting Reinforcement Learning with Verifiable Rewards via Randomly Selected Few-Shot Guidance",
+      "url": "https://huggingface.co/papers/2605.15012",
+      "description": "Reinforcement Learning with Verifiable Rewards (RLVR) has achieved great success in developing Large Language Models (LLMs) with chain-of-thought rollouts for many tasks such as math and coding. Never",
+      "published": "2026-05-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "5a8bcc3c0569dca9bf8eb703d03b8ec4",
       "title": "Sat3DGen: Comprehensive Street-Level 3D Scene Generation from Single Satellite Image",
       "url": "https://huggingface.co/papers/2605.14984",
@@ -982,7 +1009,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "1a0a1db7514bf389c28b9d34705b3129",
@@ -994,8 +1021,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
-      "is_new": true
+      "likes": 10,
+      "is_new": false
     },
     {
       "id": "4781c9635333326e3d4aba56ba915f56",
@@ -1085,7 +1112,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 50,
+      "points": 51,
       "comments": 4,
       "is_new": false
     },
@@ -1114,7 +1141,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "e0bd0df012a816cf4fc35f0b34eaf141",
@@ -1266,32 +1293,6 @@
       "points": 105,
       "comments": 30,
       "is_new": false
-    },
-    {
-      "id": "f1cdb3ee0216219cb3e73eb817f0b4d7",
-      "title": "PreScam: A Benchmark for Predicting Scam Progression from Early Conversations",
-      "url": "https://huggingface.co/papers/2605.12243",
-      "description": "Conversational scams, such as romance and investment scams, are emerging as a major form of online fraud. Unlike one-shot scam lures such as fake lottery or unpaid toll messages, they unfold through m",
-      "published": "2026-05-11T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": true
-    },
-    {
-      "id": "806ae40b0688bfd2d574b61c8cfcdfbf",
-      "title": "Learning to Communicate Locally for Large-Scale Multi-Agent Pathfinding",
-      "url": "https://huggingface.co/papers/2605.07637",
-      "description": "Multi-agent pathfinding (MAPF) is a widely used abstraction for multi-robot trajectory planning problems, where multiple homogeneous agents move simultaneously within a shared environment. Although so",
-      "published": "2026-05-11T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 13,
-      "is_new": true
     }
   ],
   "by_category": {
@@ -1522,7 +1523,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "5d5f0482cd3958819dece96da169c7c6",
@@ -1534,6 +1535,20 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "48148868",
+        "title": "There's a $50B company hiding inside Salesforce",
+        "url": "https://news.ycombinator.com/item?id=48148868",
+        "description": "",
+        "published": "2026-05-15T14:13:29Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 1,
+        "comments": 1,
         "is_new": true
       },
       {
@@ -1546,7 +1561,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "2bf348b4ab6bb6fe1ac6caf3cdcd3d44",
@@ -1558,7 +1573,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "1d0c2f9f5af6ea933b20974d33fd0633",
@@ -1609,7 +1624,7 @@
         "source_icon": "🟧",
         "category": "news",
         "points": 13,
-        "comments": 1,
+        "comments": 2,
         "is_new": false
       },
       {
@@ -1646,20 +1661,6 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "48136879",
-        "title": "Show HN: 1-800-CODER, macOS app where you call an AI developer to edit your page",
-        "url": "https://news.ycombinator.com/item?id=48136879",
-        "description": "",
-        "published": "2026-05-14T15:29:26Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 1,
-        "comments": 0,
         "is_new": false
       }
     ],
