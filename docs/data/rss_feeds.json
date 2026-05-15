@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-15T04:15:09.711372+00:00",
+  "last_updated": "2026-05-15T07:33:11.580609+00:00",
   "total_entries": 110,
-  "new_entries": 20,
+  "new_entries": 33,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -815,7 +815,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 11,
+      "points": 12,
       "comments": 1,
       "is_new": false
     },
@@ -920,20 +920,6 @@
       "is_new": false
     },
     {
-      "id": "48131141",
-      "title": "Tracing and tenant-isolation firewall for AI agents (Apache 2.0)",
-      "url": "https://github.com/amitbidlan/zistica-lumin",
-      "description": "",
-      "published": "2026-05-14T04:36:13Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 1,
-      "comments": 0,
-      "is_new": false
-    },
-    {
       "id": "48126836",
       "title": "Show HN: Arrivl – Analytics for AI agent traffic on your site",
       "url": "https://arrivl.ai",
@@ -948,6 +934,58 @@
       "is_new": false
     },
     {
+      "id": "23529dbe41fb5a3d9dcc9c497ad37aba",
+      "title": "Overcoming Dynamics-Blindness: Training-Free Pace-and-Path Correction for VLA Models",
+      "url": "https://huggingface.co/papers/2605.11459",
+      "description": "Vision-Language-Action (VLA) models achieve remarkable flexibility and generalization beyond classical control paradigms. However, most prevailing VLAs are trained under a single-frame observation par",
+      "published": "2026-05-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "461ca914f0872424dc01bfe566f6573e",
+      "title": "Unlocking Complex Visual Generation via Closed-Loop Verified Reasoning",
+      "url": "https://huggingface.co/papers/2605.14876",
+      "description": "Despite rapid advancements, current text-to-image (T2I) models predominantly rely on a single-step generation paradigm, which struggles with complex semantics and faces diminishing returns from parame",
+      "published": "2026-05-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "d7cd6837900d318a7e3e1f80f25b94a0",
+      "title": "Dynamic Latent Routing",
+      "url": "https://huggingface.co/papers/2605.14323",
+      "description": "We investigate the temporal concatenation of sub-policies in Markov Decision Processes (MDP) with time-varying reward functions. We introduce General Dijkstra Search (GDS), and prove that globally opt",
+      "published": "2026-05-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "30922181e1ed8d363da3b21d462ea24e",
+      "title": "Causal Forcing++: Scalable Few-Step Autoregressive Diffusion Distillation for Real-Time Interactive Video Generation",
+      "url": "https://huggingface.co/papers/2605.15141",
+      "description": "Real-time interactive video generation requires low-latency, streaming, and controllable rollout. Existing autoregressive (AR) diffusion distillation methods have achieved strong results in the chunk-",
+      "published": "2026-05-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 34,
+      "is_new": true
+    },
+    {
       "id": "5343fa01e6bb37d87715ea53c3154c45",
       "title": "IntentVLA: Short-Horizon Intent Modeling for Aliased Robot Manipulation",
       "url": "https://huggingface.co/papers/2605.14712",
@@ -957,7 +995,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 13,
       "is_new": false
     },
     {
@@ -970,7 +1008,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
+      "likes": 24,
       "is_new": false
     },
     {
@@ -983,7 +1021,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
+      "likes": 12,
       "is_new": false
     },
     {
@@ -996,7 +1034,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 6,
       "is_new": false
     },
     {
@@ -1009,7 +1047,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 22,
+      "likes": 39,
       "is_new": false
     },
     {
@@ -1022,7 +1060,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
+      "likes": 12,
       "is_new": false
     },
     {
@@ -1035,111 +1073,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 16,
-      "is_new": false
-    },
-    {
-      "id": "888496c37e7840dd74d45a018b1510d9",
-      "title": "MemEye: A Visual-Centric Evaluation Framework for Multimodal Agent Memory",
-      "url": "https://huggingface.co/papers/2605.15128",
-      "description": "Long-term agent memory is increasingly multimodal, yet existing evaluations rarely test whether agents preserve the visual evidence needed for later reasoning. In prior work, many visually grounded qu",
-      "published": "2026-05-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 33,
-      "is_new": false
-    },
-    {
-      "id": "9f8a31c674a5ca166fa03be1b152daa0",
-      "title": "Orchard: An Open-Source Agentic Modeling Framework",
-      "url": "https://huggingface.co/papers/2605.15040",
-      "description": "Agentic modeling aims to transform LLMs into autonomous agents capable of solving complex tasks through planning, reasoning, tool use, and multi-turn interaction with environments. Despite major inves",
-      "published": "2026-05-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 8,
-      "is_new": false
-    },
-    {
-      "id": "84220c56182f0474a2c7dd7c10bf4a14",
-      "title": "Warp-as-History: Generalizable Camera-Controlled Video Generation from One Training Video",
-      "url": "https://huggingface.co/papers/2605.15182",
-      "description": "Camera-controlled video generation has made substantial progress, enabling generated videos to follow prescribed viewpoint trajectories. However, existing methods usually learn camera-specific conditi",
-      "published": "2026-05-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 22,
-      "is_new": false
-    },
-    {
-      "id": "083d22978410c1e633d9b2d03a8e91d7",
-      "title": "Nexus : An Agentic Framework for Time Series Forecasting",
-      "url": "https://huggingface.co/papers/2605.14389",
-      "description": "Time series forecasting is not just numerical extrapolation, but often requires reasoning with unstructured contextual data such as news or events. While specialized Time Series Foundation Models (TSF",
-      "published": "2026-05-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
-      "is_new": false
-    },
-    {
-      "id": "e61e3683fba7e15bc597237a64622998",
-      "title": "Learning to Build the Environment: Self-Evolving Reasoning RL via Verifiable Environment Synthesis",
-      "url": "https://huggingface.co/papers/2605.14392",
-      "description": "We pursue a vision for self-improving language models in which the model does not merely generate problems or traces to imitate, but constructs the environments that train it. In zero-data reasoning R",
-      "published": "2026-05-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
-      "is_new": false
-    },
-    {
-      "id": "65ae0697ee60a9dd2ad7a00eb1dc4629",
-      "title": "Self-Distilled Agentic Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2605.15155",
-      "description": "Reinforcement learning (RL) has emerged as a central paradigm for post-training LLM agents, yet its trajectory-level reward signal provides only coarse supervision for long-horizon interaction. On-Pol",
-      "published": "2026-05-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 30,
-      "is_new": false
-    },
-    {
-      "id": "c7d4c15f3a61c7367e3e1a4e500db95a",
-      "title": "Quantitative Video World Model Evaluation for Geometric-Consistency",
-      "url": "https://huggingface.co/papers/2605.15185",
-      "description": "Generative video models are increasingly studied as implicit world models, yet evaluating whether they produce physically plausible 3D structure and motion remains challenging. Most existing video eva",
-      "published": "2026-05-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
-      "is_new": false
-    },
-    {
-      "id": "d1456286664d54fd83fedc4934aa82b8",
-      "title": "LLM-based Detection of Manipulative Political Narratives",
-      "url": "https://huggingface.co/papers/2605.14354",
-      "description": "We present a new computational framework for detecting and structuring manipulative political narratives. A task that became more important due to the shift of political discussions to social media. O",
-      "published": "2026-05-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
+      "likes": 31,
       "is_new": false
     },
     {
@@ -1195,43 +1129,30 @@
       "is_new": false
     },
     {
-      "id": "7dcc755f56c95b9d3f09231401f7422b",
-      "title": "EvolveMem:Self-Evolving Memory Architecture via AutoResearch for LLM Agents",
-      "url": "https://huggingface.co/papers/2605.13941",
-      "description": "Long-term memory is essential for LLM agents that operate across multiple sessions, yet existing memory systems treat retrieval infrastructure as fixed: stored content evolves while scoring functions,",
+      "id": "451fabfef0e6da446b36216be19bbc03",
+      "title": "PanoWorld: Towards Spatial Supersensing in 360^circ Panorama World",
+      "url": "https://huggingface.co/papers/2605.13169",
+      "description": "Multimodal large laboratory models (MLLMs) still struggle with spatial understanding under the dominant perspective-image paradigm, which inherits the narrow field of view of human-like perception. Fo",
       "published": "2026-05-12T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
       "likes": 4,
-      "is_new": false
+      "is_new": true
     },
     {
-      "id": "1e02cd07e872d5ca32aadc28258c7342",
-      "title": "Achieving Gold-Medal-Level Olympiad Reasoning via Simple and Unified Scaling",
-      "url": "https://huggingface.co/papers/2605.13301",
-      "description": "Recent progress in reasoning models has substantially advanced long-horizon mathematical and scientific problem solving, with several systems now reaching gold-medal-level performance on International",
+      "id": "1348f9f8dbf667e308190d0541f7167b",
+      "title": "PRISM: Prior Rectification and Uncertainty-Aware Structure Modeling for Diffusion-Based Text Image Super-Resolution",
+      "url": "https://huggingface.co/papers/2605.13027",
+      "description": "Text image super-resolution (Text-SR) requires more than visually plausible detail synthesis: slight errors in stroke topology may alter character identity and break readability. Existing methods impr",
       "published": "2026-05-12T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 59,
-      "is_new": false
-    },
-    {
-      "id": "c6fea650970cda19af3f49db8813a7d0",
-      "title": "Topology-Preserving Neural Operator Learning via Hodge Decomposition",
-      "url": "https://huggingface.co/papers/2605.13834",
-      "description": "In this paper, we study solution operators of physical field equations on geometric meshes from a function-space perspective. We reveal that Hodge orthogonality fundamentally resolves spectral interfe",
-      "published": "2026-05-12T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
+      "likes": 1,
+      "is_new": true
     },
     {
       "id": "48111063",
@@ -1244,20 +1165,6 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 3,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "48110929",
-      "title": "Show HN: How we made MCP development feel good",
-      "url": "https://manufact.com/blog/mcp-testing",
-      "description": "",
-      "published": "2026-05-12T16:55:42Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 6,
       "comments": 0,
       "is_new": false
     },
@@ -1287,6 +1194,103 @@
       "category": "news",
       "points": 59,
       "comments": 22,
+      "is_new": false
+    },
+    {
+      "id": "48108778",
+      "title": "Show HN: Statewright – Visual state machines that make AI agents reliable",
+      "url": "https://github.com/statewright/statewright",
+      "description": "",
+      "published": "2026-05-12T14:24:55Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 122,
+      "comments": 54,
+      "is_new": false
+    },
+    {
+      "id": "48107155",
+      "title": "AI Agents Discovered a Reasoning Strategy That Cuts LLM Tokens by 70%",
+      "url": "https://firethering.com/autotts-ai-inference-test-time-scaling/",
+      "description": "",
+      "published": "2026-05-12T12:14:39Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 0,
+      "is_new": false
+    },
+    {
+      "id": "48102507",
+      "title": "Graft – semantic memory for AI agents, without the LLM",
+      "url": "https://github.com/AEndrix03/Graft",
+      "description": "",
+      "published": "2026-05-12T00:14:09Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 4,
+      "comments": 0,
+      "is_new": false
+    },
+    {
+      "id": "48101738",
+      "title": "Show HN: Origami – A simple workspace-oriented terminal manager",
+      "url": "https://tryorigami.app",
+      "description": "",
+      "published": "2026-05-11T22:45:47Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": false
+    },
+    {
+      "id": "48100192",
+      "title": "Show HN: OpenGravity – A zero-install, BYOK vanilla JS clone of Antigravity",
+      "url": "https://github.com/ab-613/opengravity",
+      "description": "",
+      "published": "2026-05-11T20:23:25Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 105,
+      "comments": 30,
+      "is_new": false
+    },
+    {
+      "id": "c4285a5c565c95ab24d7ad9ad7747028",
+      "title": "Adaptive Teacher Exposure for Self-Distillation in LLM Reasoning",
+      "url": "https://huggingface.co/papers/2605.11458",
+      "description": "On-policy self-distillation has become a strong recipe for LLM reasoning, where a privileged teacher supervises the student's own rollouts while conditioning on the reference solution. A design choice",
+      "published": "2026-05-11T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
+      "id": "48096598",
+      "title": "VibeServe: Can AI Agents Build Bespoke LLM Serving Systems?",
+      "url": "https://github.com/uw-syfi/vibe-serve",
+      "description": "",
+      "published": "2026-05-11T15:48:41Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
       "is_new": false
     }
   ],
@@ -1580,7 +1584,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 11,
+        "points": 12,
         "comments": 1,
         "is_new": false
       },
