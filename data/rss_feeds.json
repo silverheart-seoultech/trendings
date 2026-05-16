@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-16T18:05:44.771075+00:00",
+  "last_updated": "2026-05-16T19:14:15.337331+00:00",
   "total_entries": 90,
-  "new_entries": 2,
+  "new_entries": 3,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,18 +47,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "e4edfbe33d59952de03b0707d1c257da",
-      "title": "Notion just turned its workspace into a hub for AI agents",
-      "url": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
-      "description": "Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.",
-      "published": "Wed, 13 May 2026 21:45:09 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
     {
       "id": "17ff85e16a36ebb4aeeedef170ed05fd",
       "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
@@ -214,6 +202,18 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "f04b5b1c9763fee13a0cfcdda1968bd9",
+      "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
+      "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+      "description": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
+      "published": "Sat, 16 May 2026 18:54:28 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "85331331526c4eba99035405eae9f65a",
@@ -900,7 +900,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 65,
+      "points": 66,
       "comments": 4,
       "is_new": false
     },
@@ -914,7 +914,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 2,
+      "points": 3,
       "comments": 1,
       "is_new": false
     },
@@ -1184,24 +1184,12 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 19,
+      "likes": 20,
       "is_new": false
     }
   ],
   "by_category": {
     "news": [
-      {
-        "id": "e4edfbe33d59952de03b0707d1c257da",
-        "title": "Notion just turned its workspace into a hub for AI agents",
-        "url": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
-        "description": "Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.",
-        "published": "Wed, 13 May 2026 21:45:09 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
       {
         "id": "17ff85e16a36ebb4aeeedef170ed05fd",
         "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
@@ -1357,6 +1345,18 @@
         "source_icon": "📰",
         "category": "news",
         "is_new": false
+      },
+      {
+        "id": "f04b5b1c9763fee13a0cfcdda1968bd9",
+        "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
+        "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+        "description": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
+        "published": "Sat, 16 May 2026 18:54:28 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
       },
       {
         "id": "85331331526c4eba99035405eae9f65a",
