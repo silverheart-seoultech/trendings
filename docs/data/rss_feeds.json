@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-17T04:18:38.843502+00:00",
+  "last_updated": "2026-05-17T07:42:47.512840+00:00",
   "total_entries": 70,
-  "new_entries": 0,
+  "new_entries": 4,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -300,20 +300,6 @@
       "is_new": false
     },
     {
-      "id": "48153575",
-      "title": "Show HN: MIT OSS LinkedIn DMs for Agents (CLI and Example TUI)",
-      "url": "https://allman.sh",
-      "description": "",
-      "published": "2026-05-15T20:45:58Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 5,
-      "comments": 1,
-      "is_new": false
-    },
-    {
       "id": "48152558",
       "title": "Show HN: Emergence World: World building as a way to evaluate LLMs",
       "url": "https://world.emergence.ai/",
@@ -497,20 +483,6 @@
       "url": "https://github.com/achaljhawar/1rok",
       "description": "",
       "published": "2026-05-14T05:44:01Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 1,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "48131141",
-      "title": "Tracing and tenant-isolation firewall for AI agents (Apache 2.0)",
-      "url": "https://github.com/amitbidlan/zistica-lumin",
-      "description": "",
-      "published": "2026-05-14T04:36:13Z",
       "source_id": "hn-ai",
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
@@ -745,20 +717,6 @@
       "is_new": false
     },
     {
-      "id": "48110929",
-      "title": "Show HN: How we made MCP development feel good",
-      "url": "https://manufact.com/blog/mcp-testing",
-      "description": "",
-      "published": "2026-05-12T16:55:42Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 6,
-      "comments": 1,
-      "is_new": false
-    },
-    {
       "id": "48110593",
       "title": "Show HN: Gigacatalyst – Extend your SaaS with an embedded AI builder",
       "url": "https://news.ycombinator.com/item?id=48110593",
@@ -798,20 +756,6 @@
       "category": "news",
       "points": 124,
       "comments": 54,
-      "is_new": false
-    },
-    {
-      "id": "48108667",
-      "title": "Show HN: Matterbeam, a company-wide write-ahead log for your data",
-      "url": "https://matterbeam.com",
-      "description": "",
-      "published": "2026-05-12T14:17:47Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 1,
-      "comments": 0,
       "is_new": false
     },
     {
@@ -857,6 +801,20 @@
       "is_new": false
     },
     {
+      "id": "48100192",
+      "title": "Show HN: OpenGravity – A zero-install, BYOK vanilla JS clone of Antigravity",
+      "url": "https://github.com/ab-613/opengravity",
+      "description": "",
+      "published": "2026-05-11T20:23:25Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 105,
+      "comments": 30,
+      "is_new": true
+    },
+    {
       "id": "f1cdb3ee0216219cb3e73eb817f0b4d7",
       "title": "PreScam: A Benchmark for Predicting Scam Progression from Early Conversations",
       "url": "https://huggingface.co/papers/2605.12243",
@@ -896,6 +854,48 @@
       "is_new": false
     },
     {
+      "id": "48096598",
+      "title": "VibeServe: Can AI Agents Build Bespoke LLM Serving Systems?",
+      "url": "https://github.com/uw-syfi/vibe-serve",
+      "description": "",
+      "published": "2026-05-11T15:48:41Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "48095392",
+      "title": "JetBrains Junie – an LLM-agnostic AI coding agent",
+      "url": "https://www.jetbrains.com/junie/",
+      "description": "",
+      "published": "2026-05-11T14:23:01Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 3,
+      "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "48091975",
+      "title": "Show HN: AI agents who prevent context drift through gossip",
+      "url": "https://wuphf.team",
+      "description": "",
+      "published": "2026-05-11T07:16:59Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "451c4e7273f1296f093f939a89d80dcf",
       "title": "RewardHarness: Self-Evolving Agentic Post-Training",
       "url": "https://huggingface.co/papers/2605.08703",
@@ -918,7 +918,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 19,
+      "likes": 21,
       "is_new": false
     },
     {
@@ -944,7 +944,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 20,
+      "likes": 21,
       "is_new": false
     }
   ],
@@ -1203,20 +1203,6 @@
         "is_new": false
       },
       {
-        "id": "48153575",
-        "title": "Show HN: MIT OSS LinkedIn DMs for Agents (CLI and Example TUI)",
-        "url": "https://allman.sh",
-        "description": "",
-        "published": "2026-05-15T20:45:58Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 5,
-        "comments": 1,
-        "is_new": false
-      },
-      {
         "id": "48152558",
         "title": "Show HN: Emergence World: World building as a way to evaluate LLMs",
         "url": "https://world.emergence.ai/",
@@ -1310,6 +1296,18 @@
         "url": "https://www.theverge.com/tech/931416/google-ai-search-spam-policy",
         "description": "Google updated its spam policy to mark attempts to \"manipulate\" its AI model in search results as spam, including results in AI Overview or AI Mode in Search, as Search Engine Land reports: \"In the co",
         "published": "2026-05-15T12:42:59-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "0a3c404dc0b592c3ca492097fa691fb3",
+        "title": "AI research papers are getting better, and it’s a big problem for scientists",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/930522/ai-research-papers-slop-peer-review-problem",
+        "description": "Last summer, Peter Degen's postdoctoral supervisor came to him with an unusual problem: One of his papers was being cited too much. Citations are the currency of academia, but there was something unus",
+        "published": "2026-05-15T09:58:26-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
@@ -1549,7 +1547,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 19,
+        "likes": 21,
         "is_new": false
       },
       {
@@ -1575,7 +1573,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 20,
+        "likes": 21,
         "is_new": false
       }
     ]
