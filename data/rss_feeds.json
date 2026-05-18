@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-18T20:42:58.660818+00:00",
+  "last_updated": "2026-05-18T22:11:36.335899+00:00",
   "total_entries": 110,
-  "new_entries": 1,
+  "new_entries": 3,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -77,18 +77,6 @@
       "url": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
       "description": "The update gives users enhanced flexibility over how they can manage their workflows.",
       "published": "Thu, 14 May 2026 20:58:55 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "baafa407a6f861d18c998d82e769ad24",
-      "title": "What happens when AI starts building itself?",
-      "url": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
-      "description": "Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually ship products.",
-      "published": "Thu, 14 May 2026 19:57:20 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
@@ -178,6 +166,18 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "d8859cfa6328132ab539eff087a26d94",
+      "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+      "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+      "description": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.",
+      "published": "Mon, 18 May 2026 21:29:31 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "d023da2950a3e14fa36a22e06b9c23e3",
@@ -768,6 +768,44 @@
       "is_new": false
     },
     {
+      "id": "48185834",
+      "title": "Show HN: Tracecast – open-source generative data apps built on top of Marimo",
+      "url": "https://github.com/tracecast/open_data_apps",
+      "description": "",
+      "published": "2026-05-18T21:21:46Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "4f2f8f4da2b76fd8cb106dd9ff4b38ed",
+      "title": "Elon Musk loses his case against Sam Altman",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/932383/jury-verdict-musk-v-altman-openai-trial",
+      "description": "After around two hours of deliberation, the jury has reached a unanimous verdict in Musk v. Altman, the tech trial of the year. The group found that two claims were barred by the statute of limitation",
+      "published": "2026-05-18T17:32:06-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": false
+    },
+    {
+      "id": "3be90d994a82c7ab552e87a4ebda00c5",
+      "title": "Musk v. Altman proved that AI is led by the wrong people",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/932464/musk-v-altman-proved-that-ai-is-led-by-the-wrong-people",
+      "description": "The tech trial of the year, Musk v. Altman, was ultimately a fight for control. Elon Musk argued that Sam Altman, with whom he helped found the now-massive company OpenAI, shouldn't direct the future",
+      "published": "2026-05-18T17:26:49-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": false
+    },
+    {
       "id": "48182033",
       "title": "Smallcode – AI coding agent optimized for small LLMs",
       "url": "https://github.com/Doorman11991/smallcode",
@@ -791,32 +829,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 22,
-      "comments": 3,
-      "is_new": false
-    },
-    {
-      "id": "4f2f8f4da2b76fd8cb106dd9ff4b38ed",
-      "title": "Elon Musk loses his case against Sam Altman",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/932383/jury-verdict-musk-v-altman-openai-trial",
-      "description": "After around two hours of deliberation, the jury has reached a unanimous verdict in Musk v. Altman, the tech trial of the year. The group found that two claims were barred by the statute of limitation",
-      "published": "2026-05-18T15:17:23-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "3be90d994a82c7ab552e87a4ebda00c5",
-      "title": "Musk v. Altman proved that AI is led by the wrong people",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/932464/musk-v-altman-proved-that-ai-is-led-by-the-wrong-people",
-      "description": "The tech trial of the year, Musk v. Altman, was ultimately a fight for control. Elon Musk argued that Sam Altman, with whom he helped found the now-massive company OpenAI, shouldn't direct the future",
-      "published": "2026-05-18T15:03:26-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
+      "points": 25,
+      "comments": 5,
       "is_new": false
     },
     {
@@ -1025,7 +1039,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 5,
       "is_new": false
     },
     {
@@ -1266,7 +1280,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 153,
+      "likes": 161,
       "is_new": false
     },
     {
@@ -1281,20 +1295,6 @@
       "category": "news",
       "points": 3,
       "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "48110929",
-      "title": "Show HN: How we made MCP development feel good",
-      "url": "https://manufact.com/blog/mcp-testing",
-      "description": "",
-      "published": "2026-05-12T16:55:42Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 6,
-      "comments": 1,
       "is_new": false
     }
   ],
@@ -1330,18 +1330,6 @@
         "url": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
         "description": "The update gives users enhanced flexibility over how they can manage their workflows.",
         "published": "Thu, 14 May 2026 20:58:55 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "baafa407a6f861d18c998d82e769ad24",
-        "title": "What happens when AI starts building itself?",
-        "url": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
-        "description": "Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually ship products.",
-        "published": "Thu, 14 May 2026 19:57:20 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
@@ -1431,6 +1419,18 @@
         "source_icon": "📰",
         "category": "news",
         "is_new": false
+      },
+      {
+        "id": "d8859cfa6328132ab539eff087a26d94",
+        "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+        "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+        "description": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.",
+        "published": "Mon, 18 May 2026 21:29:31 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
       },
       {
         "id": "d023da2950a3e14fa36a22e06b9c23e3",
@@ -1541,6 +1541,44 @@
         "is_new": false
       },
       {
+        "id": "48185834",
+        "title": "Show HN: Tracecast – open-source generative data apps built on top of Marimo",
+        "url": "https://github.com/tracecast/open_data_apps",
+        "description": "",
+        "published": "2026-05-18T21:21:46Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 1,
+        "comments": 0,
+        "is_new": true
+      },
+      {
+        "id": "4f2f8f4da2b76fd8cb106dd9ff4b38ed",
+        "title": "Elon Musk loses his case against Sam Altman",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/932383/jury-verdict-musk-v-altman-openai-trial",
+        "description": "After around two hours of deliberation, the jury has reached a unanimous verdict in Musk v. Altman, the tech trial of the year. The group found that two claims were barred by the statute of limitation",
+        "published": "2026-05-18T17:32:06-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "3be90d994a82c7ab552e87a4ebda00c5",
+        "title": "Musk v. Altman proved that AI is led by the wrong people",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/932464/musk-v-altman-proved-that-ai-is-led-by-the-wrong-people",
+        "description": "The tech trial of the year, Musk v. Altman, was ultimately a fight for control. Elon Musk argued that Sam Altman, with whom he helped found the now-massive company OpenAI, shouldn't direct the future",
+        "published": "2026-05-18T17:26:49-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
         "id": "48182033",
         "title": "Smallcode – AI coding agent optimized for small LLMs",
         "url": "https://github.com/Doorman11991/smallcode",
@@ -1564,32 +1602,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 22,
-        "comments": 3,
-        "is_new": false
-      },
-      {
-        "id": "4f2f8f4da2b76fd8cb106dd9ff4b38ed",
-        "title": "Elon Musk loses his case against Sam Altman",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/932383/jury-verdict-musk-v-altman-openai-trial",
-        "description": "After around two hours of deliberation, the jury has reached a unanimous verdict in Musk v. Altman, the tech trial of the year. The group found that two claims were barred by the statute of limitation",
-        "published": "2026-05-18T15:17:23-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "3be90d994a82c7ab552e87a4ebda00c5",
-        "title": "Musk v. Altman proved that AI is led by the wrong people",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/932464/musk-v-altman-proved-that-ai-is-led-by-the-wrong-people",
-        "description": "The tech trial of the year, Musk v. Altman, was ultimately a fight for control. Elon Musk argued that Sam Altman, with whom he helped found the now-massive company OpenAI, shouldn't direct the future",
-        "published": "2026-05-18T15:03:26-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
+        "points": 25,
+        "comments": 5,
         "is_new": false
       },
       {
@@ -1650,18 +1664,6 @@
         "url": "https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant",
         "description": "After Sony drew some unwanted attention for a post demonstrating its AI Camera Assistant on the Xperia 1 XIII, it's trying to clarify how the feature works. The company says it doesn't edit photos, bu",
         "published": "2026-05-18T05:48:53-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "5c90a84245fe3736d35489360ef1c05f",
-        "title": "Revamped Siri will reportedly offer autodeleting chats",
-        "url": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
-        "description": "Apple is hoping that its record on privacy can be the differentiator on the AI front and maybe even buy it a little slack as it continues to lag behind the competition. According to Bloomberg's Mark G",
-        "published": "2026-05-18T05:25:53-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
