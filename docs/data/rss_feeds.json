@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-18T15:46:17.437189+00:00",
+  "last_updated": "2026-05-18T16:32:37.887672+00:00",
   "total_entries": 110,
-  "new_entries": 16,
+  "new_entries": 3,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -213,7 +213,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "ed128b31ae1c9421f3313eb5e961cea4",
@@ -225,7 +225,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "4599d96ab597bf3aeffa8d460ed2495a",
@@ -777,9 +777,9 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 2,
+      "points": 4,
       "comments": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "48180667",
@@ -793,6 +793,30 @@
       "category": "news",
       "points": 3,
       "comments": 0,
+      "is_new": false
+    },
+    {
+      "id": "74cdffe7e5df374389a7ff29cfba1c3a",
+      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "description": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni",
+      "published": "2026-05-18T12:30:06-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "bc1f08a7020e9a9435b89cc4e1406f4d",
+      "title": "Amazon Alexa Plus can now create AI-generated podcasts",
+      "url": "https://www.theverge.com/tech/932375/amazon-alexa-plus-ai-podcasts",
+      "description": "Alexa Plus, Amazon's upgraded AI assistant, can now generate podcasts on \"virtually any topic,\" according to an announcement on Monday. With the update, Amazon says you can give Alexa Plus a topic, an",
+      "published": "2026-05-18T12:09:12-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
       "is_new": true
     },
     {
@@ -807,7 +831,7 @@
       "category": "news",
       "points": 1,
       "comments": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "a667f385c15c0744eb28080648a80f47",
@@ -978,30 +1002,6 @@
       "is_new": false
     },
     {
-      "id": "9ee34535e61243faeda2ab7fd7a43e12",
-      "title": "Does Trump Mobile know how many stripes are on the American flag?",
-      "url": "https://www.theverge.com/gadgets/931347/trump-mobile-t1-phone-logo-flag-stars-stripes",
-      "description": "Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. This week, despite our best hopes, we still don't hav",
-      "published": "2026-05-15T12:47:16-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "1aedd077cf70bb1bfc8f5d29bc6b712e",
-      "title": "Google updates its spam rules to include attempts to ‘manipulate’ AI",
-      "url": "https://www.theverge.com/tech/931416/google-ai-search-spam-policy",
-      "description": "Google updated its spam policy to mark attempts to \"manipulate\" its AI model in search results as spam, including results in AI Overview or AI Mode in Search, as Search Engine Land reports: \"In the co",
-      "published": "2026-05-15T12:42:59-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "1810da0f3268e37f51d61f5ed3582afe",
       "title": "Efficient Image Synthesis with Sphere Latent Encoder",
       "url": "https://huggingface.co/papers/2605.15592",
@@ -1012,7 +1012,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "a3d937674991997118576e7822863394",
@@ -1025,7 +1025,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "2e3193e92cbb935cd3770948a902a487",
@@ -1038,19 +1038,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 8,
-      "is_new": true
-    },
-    {
-      "id": "d328453b73deea18e1571fd78d69103a",
-      "title": "Unlocking Dense Metric Depth Estimation in VLMs",
-      "url": "https://huggingface.co/papers/2605.15876",
-      "description": "Vision-Language Models (VLMs) excel at 2D tasks such as grounding and captioning, yet remain limited in 3D understanding. A key limitation is their text-only supervision paradigm, which under-constrai",
-      "published": "2026-05-14T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 7,
       "is_new": false
     },
     {
@@ -1134,7 +1121,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "6aeb94b0592b03359b34494af5b546fa",
@@ -1147,7 +1134,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "5eecca44c608da6efe50cc0e54e9f6da",
@@ -1160,7 +1147,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "2657d81d743ea589ca7a7db9f71e67d0",
@@ -1173,7 +1160,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "36d8a537d05dcd127dc567edb6282262",
@@ -1198,7 +1185,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 126,
+      "likes": 129,
       "is_new": false
     },
     {
@@ -1211,7 +1198,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
+      "likes": 9,
       "is_new": false
     },
     {
@@ -1224,7 +1211,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 72,
+      "points": 73,
       "comments": 4,
       "is_new": false
     },
@@ -1265,7 +1252,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 108,
+      "likes": 118,
       "is_new": false
     },
     {
@@ -1278,7 +1265,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 42,
+      "likes": 45,
       "is_new": false
     },
     {
@@ -1293,6 +1280,20 @@
       "category": "news",
       "points": 3,
       "comments": 0,
+      "is_new": false
+    },
+    {
+      "id": "48110929",
+      "title": "Show HN: How we made MCP development feel good",
+      "url": "https://manufact.com/blog/mcp-testing",
+      "description": "",
+      "published": "2026-05-12T16:55:42Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 6,
+      "comments": 1,
       "is_new": false
     }
   ],
@@ -1464,7 +1465,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "ed128b31ae1c9421f3313eb5e961cea4",
@@ -1476,7 +1477,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "f87ad16de1e1f4dff799745d43011631",
@@ -1548,9 +1549,9 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 2,
+        "points": 4,
         "comments": 0,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "48180667",
@@ -1564,6 +1565,30 @@
         "category": "news",
         "points": 3,
         "comments": 0,
+        "is_new": false
+      },
+      {
+        "id": "74cdffe7e5df374389a7ff29cfba1c3a",
+        "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+        "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+        "description": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni",
+        "published": "2026-05-18T12:30:06-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "bc1f08a7020e9a9435b89cc4e1406f4d",
+        "title": "Amazon Alexa Plus can now create AI-generated podcasts",
+        "url": "https://www.theverge.com/tech/932375/amazon-alexa-plus-ai-podcasts",
+        "description": "Alexa Plus, Amazon's upgraded AI assistant, can now generate podcasts on \"virtually any topic,\" according to an announcement on Monday. With the update, Amazon says you can give Alexa Plus a topic, an",
+        "published": "2026-05-18T12:09:12-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
         "is_new": true
       },
       {
@@ -1578,7 +1603,7 @@
         "category": "news",
         "points": 1,
         "comments": 0,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "a667f385c15c0744eb28080648a80f47",
@@ -1644,32 +1669,6 @@
         "category": "news",
         "points": 2,
         "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "73aa8f92605e333a05f1ce1be0506340",
-        "title": "University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement",
-        "description": "Former Google CEO Eric Schmidt delivered the commencement address at the University of Arizona on Friday. And, as his speech veered into talk of AI, he was repeatedly drowned out by boos. AI is alread",
-        "published": "2026-05-17T13:22:23-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "48153575",
-        "title": "Show HN: MIT OSS LinkedIn DMs for Agents (CLI and Example TUI)",
-        "url": "https://allman.sh",
-        "description": "",
-        "published": "2026-05-15T20:45:58Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 5,
-        "comments": 1,
         "is_new": false
       }
     ],
