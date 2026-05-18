@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-18T12:46:34.708539+00:00",
+  "last_updated": "2026-05-18T15:46:17.437189+00:00",
   "total_entries": 110,
-  "new_entries": 8,
+  "new_entries": 16,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -120,18 +120,6 @@
       "is_new": false
     },
     {
-      "id": "73e7f5e113964d7bed2583159fbd1556",
-      "title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
-      "url": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
-      "description": "A year ago, it looked like this day would never happen for Cerebras.",
-      "published": "Thu, 14 May 2026 16:30:02 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "5ffbcd2eae2ef6026bf5949e0141ffb1",
       "title": "Apple’s Siri revamp could include auto-deleting chats",
       "url": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
@@ -214,6 +202,18 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "3a9b0386203c7693e0b542121e8009b7",
+      "title": "Amazon’s new Alexa+ powered feature can generate podcast episodes",
+      "url": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
+      "description": "Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.",
+      "published": "Mon, 18 May 2026 14:56:47 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "ed128b31ae1c9421f3313eb5e961cea4",
@@ -768,6 +768,34 @@
       "is_new": false
     },
     {
+      "id": "48181342",
+      "title": "Show HN: InsForge – Open-source Heroku for AI coding agents",
+      "url": "https://github.com/InsForge/InsForge",
+      "description": "",
+      "published": "2026-05-18T15:40:42Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "48180667",
+      "title": "The Oats Protocol – Open Agent Tools for Local Coding Agents",
+      "url": "https://news.ycombinator.com/item?id=48180667",
+      "description": "",
+      "published": "2026-05-18T14:48:57Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 3,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "48178157",
       "title": "AI agent harnesses like OpenClaw are changing LLMs, inference, and CPUs",
       "url": "https://www.theregister.com/ai-ml/2026/05/17/how-ai-agent-harnesses-like-openclaw-are-changing-llms-inference-and-cpus/5241530",
@@ -983,7 +1011,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 3,
       "is_new": true
     },
     {
@@ -996,7 +1024,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 5,
       "is_new": true
     },
     {
@@ -1009,7 +1037,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 8,
       "is_new": true
     },
     {
@@ -1023,58 +1051,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 7,
-      "is_new": false
-    },
-    {
-      "id": "b1b64e02e1fbacde40d4af0e16244ddf",
-      "title": "FashionChameleon: Towards Real-Time and Interactive Human-Garment Video Customization",
-      "url": "https://huggingface.co/papers/2605.15824",
-      "description": "Human-centric video customization, particularly at the garment level, has shown significant commercial value. However, existing approaches cannot support low-latency and interactive garment control, w",
-      "published": "2026-05-14T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 49,
-      "is_new": false
-    },
-    {
-      "id": "12aa1d953df091827edb052d8b1af358",
-      "title": "DexJoCo: A Benchmark and Toolkit for Task-Oriented Dexterous Manipulation on MuJoCo",
-      "url": "https://huggingface.co/papers/2605.16257",
-      "description": "Achieving human-level manipulation requires dexterous robotic hands capable of complex object interactions. Advancing such capabilities further demands standardized benchmarks for systematic evaluatio",
-      "published": "2026-05-14T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 44,
-      "is_new": false
-    },
-    {
-      "id": "9beee817c07717d5f7e756109aecb0e2",
-      "title": "WorldAct: Activating Monolithic 3D Worlds into Interactive-Ready Object-Centric Scenes",
-      "url": "https://huggingface.co/papers/2605.15843",
-      "description": "Recent 3D world modeling systems based on generative scene synthesis, such as Marble, can create coherent and explorable 3D environments, yet their outputs are typically static monolithic assets with ",
-      "published": "2026-05-14T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "b4a41d0231bd142ee51488f8b446ef5f",
-      "title": "Nudging Beyond the Comfort Zone: Efficient Strategy-Guided Exploration for RLVR",
-      "url": "https://huggingface.co/papers/2605.15726",
-      "description": "Reinforcement learning with verifiable rewards (RLVR) has emerged as a scalable paradigm for improving the reasoning capabilities of large language models. However, its effectiveness is fundamentally ",
-      "published": "2026-05-14T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 23,
       "is_new": false
     },
     {
@@ -1148,6 +1124,45 @@
       "is_new": false
     },
     {
+      "id": "3824b00a408b3cbeedb67cc07dacb5b6",
+      "title": "AuralSAM2: Enabling SAM2 Hear Through Pyramid Audio-Visual Feature Prompting",
+      "url": "https://huggingface.co/papers/2506.01015",
+      "description": "Segment Anything Model 2 (SAM2) exhibits strong generalisation for promptable segmentation in video clips; however, its integration with the audio modality remains underexplored. Existing approaches e",
+      "published": "2026-05-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "6aeb94b0592b03359b34494af5b546fa",
+      "title": "Known By Their Actions: Fingerprinting LLM Browser Agents via UI Traces",
+      "url": "https://huggingface.co/papers/2605.14786",
+      "description": "As LLM-based agents increasingly browse the web on users' behalf, a natural question arises: can websites passively identify which underlying model powers an agent? Doing so would represent a signific",
+      "published": "2026-05-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "5eecca44c608da6efe50cc0e54e9f6da",
+      "title": "Forgetting That Sticks: Quantization-Permanent Unlearning via Circuit Attribution",
+      "url": "https://huggingface.co/papers/2605.15138",
+      "description": "Standard unlearning evaluations measure behavioral suppression in full precision, immediately after training, despite every deployed language model being quantized first. Recent work has shown that 4-",
+      "published": "2026-05-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "2657d81d743ea589ca7a7db9f71e67d0",
       "title": "ChangeFlow -- Latent Rectified Flow for Change Detection in Remote Sensing",
       "url": "https://huggingface.co/papers/2605.15375",
@@ -1170,7 +1185,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 1,
       "is_new": false
     },
     {
@@ -1183,7 +1198,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 110,
+      "likes": 126,
       "is_new": false
     },
     {
@@ -1196,20 +1211,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
-      "is_new": false
-    },
-    {
-      "id": "3fb495152ee8e4f81b525c3ec55df8b7",
-      "title": "Learning from Failures: Correction-Oriented Policy Optimization with Verifiable Rewards",
-      "url": "https://huggingface.co/papers/2605.14539",
-      "description": "Reinforcement Learning with Verifiable Rewards (RLVR) has emerged as an effective paradigm for improving the reasoning capabilities of large language models. However, RLVR training is often hindered b",
-      "published": "2026-05-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
+      "likes": 8,
       "is_new": false
     },
     {
@@ -1263,7 +1265,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 83,
+      "likes": 108,
       "is_new": false
     },
     {
@@ -1276,7 +1278,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 27,
+      "likes": 42,
       "is_new": false
     },
     {
@@ -1369,18 +1371,6 @@
         "is_new": false
       },
       {
-        "id": "73e7f5e113964d7bed2583159fbd1556",
-        "title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
-        "url": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
-        "description": "A year ago, it looked like this day would never happen for Cerebras.",
-        "published": "Thu, 14 May 2026 16:30:02 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
         "id": "5ffbcd2eae2ef6026bf5949e0141ffb1",
         "title": "Apple’s Siri revamp could include auto-deleting chats",
         "url": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
@@ -1465,6 +1455,18 @@
         "is_new": false
       },
       {
+        "id": "3a9b0386203c7693e0b542121e8009b7",
+        "title": "Amazon’s new Alexa+ powered feature can generate podcast episodes",
+        "url": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
+        "description": "Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.",
+        "published": "Mon, 18 May 2026 14:56:47 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "ed128b31ae1c9421f3313eb5e961cea4",
         "title": "South Korea’s LetinAR is building optics behind AI glasses",
         "url": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
@@ -1535,6 +1537,34 @@
         "source_icon": "📰",
         "category": "news",
         "is_new": false
+      },
+      {
+        "id": "48181342",
+        "title": "Show HN: InsForge – Open-source Heroku for AI coding agents",
+        "url": "https://github.com/InsForge/InsForge",
+        "description": "",
+        "published": "2026-05-18T15:40:42Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 2,
+        "comments": 0,
+        "is_new": true
+      },
+      {
+        "id": "48180667",
+        "title": "The Oats Protocol – Open Agent Tools for Local Coding Agents",
+        "url": "https://news.ycombinator.com/item?id=48180667",
+        "description": "",
+        "published": "2026-05-18T14:48:57Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 3,
+        "comments": 0,
+        "is_new": true
       },
       {
         "id": "48178157",
@@ -1640,32 +1670,6 @@
         "category": "news",
         "points": 5,
         "comments": 1,
-        "is_new": false
-      },
-      {
-        "id": "48152558",
-        "title": "Show HN: Emergence World: World building as a way to evaluate LLMs",
-        "url": "https://world.emergence.ai/",
-        "description": "",
-        "published": "2026-05-15T19:07:22Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 3,
-        "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "3ae6721de06ee69cfdfcaaf02244ac74",
-        "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
-        "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
-        "description": "YouTube is expanding its AI likeness detection program to all users over the age of 18 - meaning just about anyone can have the platform hunt for potential deepfakes of themselves. The likeness detect",
-        "published": "2026-05-15T18:21:33-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
         "is_new": false
       }
     ],
