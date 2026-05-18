@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-18T04:39:21.094275+00:00",
+  "last_updated": "2026-05-18T08:52:04.615526+00:00",
   "total_entries": 110,
-  "new_entries": 0,
+  "new_entries": 5,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -969,7 +969,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 5,
       "is_new": false
     },
     {
@@ -982,7 +982,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 19,
+      "likes": 38,
       "is_new": false
     },
     {
@@ -995,7 +995,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 22,
+      "likes": 39,
       "is_new": false
     },
     {
@@ -1008,7 +1008,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -1021,7 +1021,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 19,
+      "likes": 22,
       "is_new": false
     },
     {
@@ -1034,7 +1034,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
+      "likes": 7,
       "is_new": false
     },
     {
@@ -1060,7 +1060,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
+      "likes": 19,
       "is_new": false
     },
     {
@@ -1073,7 +1073,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -1147,6 +1147,32 @@
       "is_new": false
     },
     {
+      "id": "ab53f16a3e668e88a1fea43ddc708de4",
+      "title": "PhysBrain 1.0 Technical Report",
+      "url": "https://huggingface.co/papers/2605.15298",
+      "description": "Vision-language-action models have advanced rapidly, but robot trajectories alone provide limited coverage for learning broad physical understanding. PhysBrain 1.0 studies a complementary route: conve",
+      "published": "2026-05-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 44,
+      "is_new": true
+    },
+    {
+      "id": "9ecef763866c67486efefc3fd733a32e",
+      "title": "From Plans to Pixels: Learning to Plan and Orchestrate for Open-Ended Image Editing",
+      "url": "https://huggingface.co/papers/2605.15181",
+      "description": "Modern image editing models produce realistic results but struggle with abstract, multi step instructions (e.g., ``make this advertisement more vegetarian-friendly''). Prior agent based methods decomp",
+      "published": "2026-05-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 6,
+      "is_new": true
+    },
+    {
       "id": "3fb495152ee8e4f81b525c3ec55df8b7",
       "title": "Learning from Failures: Correction-Oriented Policy Optimization with Verifiable Rewards",
       "url": "https://huggingface.co/papers/2605.14539",
@@ -1156,7 +1182,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -1169,7 +1195,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 48,
+      "likes": 69,
       "is_new": false
     },
     {
@@ -1182,7 +1208,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -1195,7 +1221,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 11,
+      "likes": 12,
       "is_new": false
     },
     {
@@ -1208,33 +1234,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 20,
-      "is_new": false
-    },
-    {
-      "id": "03d800c92bd817d3b8093fac389e9dfc",
-      "title": "ReactiveGWM: Steering NPC in Reactive Game World Models",
-      "url": "https://huggingface.co/papers/2605.15256",
-      "description": "Current game world models simulate environments from a subjective, player-centric perspective. However, by treating the Non-Player Character (NPC) merely as background pixels, these models cannot capt",
-      "published": "2026-05-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 11,
-      "is_new": false
-    },
-    {
-      "id": "621413283416eef230280cfb104af219",
-      "title": "Aligning Latent Geometry for Spherical Flow Matching in Image Generation",
-      "url": "https://huggingface.co/papers/2605.15193",
-      "description": "Latent flow matching for image generation usually transports Gaussian noise to variational autoencoder latents along linear paths. Both endpoints, however, concentrate in thin spherical shells, and a ",
-      "published": "2026-05-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
+      "likes": 28,
       "is_new": false
     },
     {
@@ -1247,7 +1247,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 71,
+      "points": 72,
       "comments": 4,
       "is_new": false
     },
@@ -1266,31 +1266,30 @@
       "is_new": false
     },
     {
-      "id": "9f9501861f80e525b501ed85f0f1525a",
-      "title": "HodgeCover: Higher-Order Topological Coverage Drives Compression of Sparse Mixture-of-Experts",
-      "url": "https://huggingface.co/papers/2605.13997",
-      "description": "Sparse Mixture-of-Experts (MoE) layers route tokens through a handful of experts, and learning-free compression of these layers reduces inference cost without retraining. A subtle obstruction blocks e",
+      "id": "4a6b27158c9809a7f666fec5f69ec807",
+      "title": "CiteVQA: Benchmarking Evidence Attribution for Trustworthy Document Intelligence",
+      "url": "https://huggingface.co/papers/2605.12882",
+      "description": "Multimodal Large Language Models (MLLMs) have significantly advanced document understanding, yet current Doc-VQA evaluations score only the final answer and leave the supporting evidence unchecked. Th",
       "published": "2026-05-12T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
-      "is_new": false
+      "likes": 76,
+      "is_new": true
     },
     {
-      "id": "48111063",
-      "title": "Show HN: Vibe – Responsible AI Review for Cq (Stack Overflow for Agents)",
-      "url": "https://blog.mozilla.ai/first-line-of-defense-for-cq/",
-      "description": "",
-      "published": "2026-05-12T17:04:34Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 3,
-      "comments": 0,
-      "is_new": false
+      "id": "5b395f6b18cb6ce59852a981bf9e1d65",
+      "title": "Learning to Foresee: Unveiling the Unlocking Efficiency of On-Policy Distillation",
+      "url": "https://huggingface.co/papers/2605.11739",
+      "description": "On-policy distillation (OPD) has emerged as an efficient post-training paradigm for large language models. However, existing studies largely attribute this advantage to denser and more stable supervis",
+      "published": "2026-05-12T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 8,
+      "is_new": true
     }
   ],
   "by_category": {
