@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-19T04:22:28.833079+00:00",
+  "last_updated": "2026-05-19T08:37:27.296165+00:00",
   "total_entries": 110,
-  "new_entries": 1,
+  "new_entries": 17,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -777,7 +777,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 2,
+      "points": 4,
       "comments": 0,
       "is_new": false
     },
@@ -829,22 +829,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 38,
+      "points": 44,
       "comments": 6,
-      "is_new": false
-    },
-    {
-      "id": "48180667",
-      "title": "The Oats Protocol – Open Agent Tools for Local Coding Agents",
-      "url": "https://news.ycombinator.com/item?id=48180667",
-      "description": "",
-      "published": "2026-05-18T14:48:57Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 4,
-      "comments": 0,
       "is_new": false
     },
     {
@@ -910,6 +896,110 @@
       "is_new": false
     },
     {
+      "id": "bb1467d763d3515535375682ba4b837b",
+      "title": "Monitoring the Internal Monologue: Probe Trajectories Reveal Reasoning Dynamics",
+      "url": "https://huggingface.co/papers/2605.18549",
+      "description": "Large Reasoning Models (LRMs) introduce new opportunities for safety monitoring through their Chain of Thought (CoT) reasoning. However, CoT is not always faithful to the model's final output, undermi",
+      "published": "2026-05-17T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "40a8e0c13804cb5388f3cc890fe25cbc",
+      "title": "SkillsVote: Lifecycle Governance of Agent Skills from Collection, Recommendation to Evolution",
+      "url": "https://huggingface.co/papers/2605.18401",
+      "description": "Long-horizon LLM agents leave traces that could become reusable experience, but raw trajectories are noisy and hard to govern. We treat Agent Skills as an experience schema that couples executable scr",
+      "published": "2026-05-17T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 9,
+      "is_new": true
+    },
+    {
+      "id": "d72930451833fce3817b40b294a25d27",
+      "title": "Code-as-Room: Generating 3D Rooms from Top-Down View Images via Agentic Code Synthesis",
+      "url": "https://huggingface.co/papers/2605.18451",
+      "description": "Designing realistic and functional 3D indoor rooms is essential for a wide range of applications, including interior design, virtual reality, gaming, and embodied AI. While recent MLLM-based approache",
+      "published": "2026-05-17T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 22,
+      "is_new": true
+    },
+    {
+      "id": "9c29258eb19ae5684bad867a93ef9396",
+      "title": "StableVLA: Towards Robust Vision-Language-Action Models without Extra Data",
+      "url": "https://huggingface.co/papers/2605.18287",
+      "description": "It is infeasible to encompass all possible disturbances within the training dataset. This raises a critical question regarding the robustness of Vision-Language-Action (VLA) models when encountering u",
+      "published": "2026-05-17T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 10,
+      "is_new": true
+    },
+    {
+      "id": "97d55ad4b40eea4acb935adcd1d81789",
+      "title": "Incantation: Natural Language as the Action Interface for Multi-Entity Video World Models",
+      "url": "https://huggingface.co/papers/2605.18601",
+      "description": "Modern interactive video world models have achieved impressive visual fidelity, yet lack fine-grained multi-entity control and cross-entity, cross-world generalization. We trace this gap to the action",
+      "published": "2026-05-17T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "b50ca1dd835ed98044020d14583451d9",
+      "title": "AtlasVA: Self-Evolving Visual Skill Memory for Teacher-Free VLM Agents",
+      "url": "https://huggingface.co/papers/2605.17933",
+      "description": "Vision-language model (VLM) agents increasingly rely on memory-augmented reinforcement learning to reuse experience across long-horizon tasks, yet most existing frameworks store memory as text and dep",
+      "published": "2026-05-17T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "38b945f8d0630c4246677199adfaeec3",
+      "title": "Actionable World Representation",
+      "url": "https://huggingface.co/papers/2605.18743",
+      "description": "Inspired by the emergent behaviors in large language models that generalized human intelligence, the research community is pursuing similar emergent capabilities within world models, with a emphasis o",
+      "published": "2026-05-17T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "24a8ede82103788581680f33189e44ae",
+      "title": "Code as Agent Harness",
+      "url": "https://huggingface.co/papers/2605.18747",
+      "description": "Recent large language models (LLMs) have demonstrated strong capabilities in understanding and generating code, from competitive programming to repository-level software engineering. In emerging agent",
+      "published": "2026-05-17T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "644125d2b79a6a630dd70592c9d83b83",
       "title": "Lance: Unified Multimodal Modeling by Multi-Task Synergy",
       "url": "https://huggingface.co/papers/2605.18678",
@@ -919,7 +1009,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 14,
+      "likes": 51,
       "is_new": false
     },
     {
@@ -932,7 +1022,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 22,
       "is_new": false
     },
     {
@@ -945,33 +1035,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 26,
-      "is_new": false
-    },
-    {
-      "id": "8556974f74e65624392375038165833b",
-      "title": "AI for Auto-Research: Roadmap & User Guide",
-      "url": "https://huggingface.co/papers/2605.18661",
-      "description": "AI-assisted research is crossing a threshold: fully automated systems can now generate research papers for as little as $15, while long-horizon agents can execute experiments, draft manuscripts, and s",
-      "published": "2026-05-17T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 22,
-      "is_new": false
-    },
-    {
-      "id": "5d83c2e81b0944cab3eee22b4626db2a",
-      "title": "SNLP: Layer-Parallel Inference via Structured Newton Corrections",
-      "url": "https://huggingface.co/papers/2605.17842",
-      "description": "Autoregressive language models execute Transformer layers sequentially, creating a latency bottleneck that is not removed by conventional tensor or pipeline parallelism. We study whether this layerwis",
-      "published": "2026-05-17T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
+      "likes": 78,
       "is_new": false
     },
     {
@@ -1015,6 +1079,32 @@
       "is_new": false
     },
     {
+      "id": "c25dab4efbda74bfbe23f2106c446f19",
+      "title": "A2RBench: An Automatic Paradigm for Formally Verifiable Abstract Reasoning Benchmark Generation",
+      "url": "https://huggingface.co/papers/2605.17278",
+      "description": "Abstract reasoning ability reflects the intelligence and generalization capacity of LLMs to extract and apply abstract rules. However, accurately measuring this ability remains challenging: existing b",
+      "published": "2026-05-16T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "ce832261e35f0e6265b89e9370cacd3d",
+      "title": "From Runnable to Shippable: Multi-Agent Test-Driven Development for Generating Full-Stack Web Applications from Requirements",
+      "url": "https://huggingface.co/papers/2605.17242",
+      "description": "Coding agents can generate web applications from natural-language descriptions, yet a recent benchmark study shows that generated applications fail to meet functional requirements in over 70% of cases",
+      "published": "2026-05-16T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 7,
+      "is_new": true
+    },
+    {
       "id": "1caf3cd9b8a5ee5f5d25a5380a335d27",
       "title": "OProver: A Unified Framework for Agentic Formal Theorem Proving",
       "url": "https://huggingface.co/papers/2605.17283",
@@ -1024,7 +1114,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
+      "likes": 22,
       "is_new": false
     },
     {
@@ -1041,44 +1131,30 @@
       "is_new": false
     },
     {
-      "id": "c8617f2f4c3b5c2fca6007f8d8ab57d1",
-      "title": "Stop When Reasoning Converges: Semantic-Preserving Early Exit for Reasoning Models",
-      "url": "https://huggingface.co/papers/2605.17672",
-      "description": "Large Reasoning Models (LRMs) achieve strong performance by generating long chains of thought (CoT), but often overthink, continuing to reason after a solution has already stabilized and thereby wasti",
-      "published": "2026-05-16T20:00:00.000Z",
+      "id": "1a4a4433509dbd98ca5f59d022b89030",
+      "title": "MixSD: Mixed Contextual Self-Distillation for Knowledge Injection",
+      "url": "https://huggingface.co/papers/2605.16865",
+      "description": "Supervised fine-tuning (SFT) is widely used to inject new knowledge into language models, but it often degrades pretrained capabilities such as reasoning and general-domain performance. We argue this ",
+      "published": "2026-05-15T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
-      "is_new": false
+      "likes": 0,
+      "is_new": true
     },
     {
-      "id": "a36e29e777b36c56aecf6cb76038dee3",
-      "title": "LiteFrame: Efficient Vision Encoders Unlock Frame Scaling in Video LLMs",
-      "url": "https://huggingface.co/papers/2605.17260",
-      "description": "The fundamental challenge in scaling Video Large Language Models (Video LLMs) to long-form video lies in managing the explosion of visual-token context length. Existing strategies predominantly focus ",
-      "published": "2026-05-16T20:00:00.000Z",
+      "id": "2f10bd365c119f55876986d94482d260",
+      "title": "AgentKernelArena: Generalization-Aware Benchmarking of GPU Kernel Optimization Agents",
+      "url": "https://huggingface.co/papers/2605.16819",
+      "description": "GPU kernel optimization is increasingly critical for efficient deep learning systems, but writing high-performance kernels still requires substantial low-level expertise. Recent AI coding agents can i",
+      "published": "2026-05-15T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
-      "is_new": false
-    },
-    {
-      "id": "48153575",
-      "title": "Show HN: MIT OSS LinkedIn DMs for Agents (CLI and Example TUI)",
-      "url": "https://allman.sh",
-      "description": "",
-      "published": "2026-05-15T20:45:58Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 6,
-      "comments": 1,
-      "is_new": false
+      "likes": 0,
+      "is_new": true
     },
     {
       "id": "0a7b66017bce33ba3c41275d35704caa",
@@ -1090,21 +1166,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 8,
       "is_new": true
-    },
-    {
-      "id": "bdccf05ce6d486cef1773cdea4e02de7",
-      "title": "Geometric Phase Transition Enables Extreme Hippocampal Memory Capacity",
-      "url": "https://huggingface.co/papers/2605.17199",
-      "description": "Memory systems can store vastly different amounts of information despite similar hardware constraints. Here, we show that superior spatial memory emerges from a discrete stiffening of hippocampal popu",
-      "published": "2026-05-15T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
     },
     {
       "id": "48152558",
@@ -1159,17 +1222,17 @@
       "is_new": false
     },
     {
-      "id": "58ba864367ccfd05bfec01b5ad053c8e",
-      "title": "Measuring Maximum Activations in Open Large Language Models",
-      "url": "https://huggingface.co/papers/2605.15572",
-      "description": "The dynamic range of activations is a first-order constraint for low-bit quantization, activation scaling, and stable LLM inference. Prior work characterized outlier features and massive activations o",
+      "id": "2403d77ba55a78edf6baf9e0c60f5d8b",
+      "title": "GRASP: Learning to Ground Social Reasoning in Multi-Person Non-Verbal Interactions",
+      "url": "https://huggingface.co/papers/2605.15764",
+      "description": "Understanding social interactions requires reasoning over subtle non-verbal cues, yet current multimodal large language models (MLLMs) often fail to identify who interacts with whom in multi-person vi",
       "published": "2026-05-14T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
-      "is_new": false
+      "likes": 0,
+      "is_new": true
     },
     {
       "id": "48140228",
@@ -1225,72 +1288,6 @@
       "category": "news",
       "points": 1,
       "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "48126836",
-      "title": "Show HN: Arrivl – Analytics for AI agent traffic on your site",
-      "url": "https://arrivl.ai",
-      "description": "",
-      "published": "2026-05-13T20:11:00Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "561c97a02b739e4550d89b14b4356841",
-      "title": "KVPO: ODE-Native GRPO for Autoregressive Video Alignment via KV Semantic Exploration",
-      "url": "https://huggingface.co/papers/2605.14278",
-      "description": "Aligning streaming autoregressive (AR) video generators with human preferences is challenging. Existing reinforcement learning methods predominantly rely on noise-based exploration and SDE-based surro",
-      "published": "2026-05-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 23,
-      "is_new": false
-    },
-    {
-      "id": "d55777f7207174cff4995a3fa54fe7c2",
-      "title": "Where Should Diffusion Enter a Language Model? Geometry-Guided Hidden-State Replacement",
-      "url": "https://huggingface.co/papers/2605.14368",
-      "description": "Continuous diffusion language models lag behind autoregressive transformers, partly because diffusion is applied in spaces poorly suited to language denoising and token recovery. We propose DiHAL, a g",
-      "published": "2026-05-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 11,
-      "is_new": false
-    },
-    {
-      "id": "18ed2922da50634adcf1d33b0ed56065",
-      "title": "EndPrompt: Efficient Long-Context Extension via Terminal Anchoring",
-      "url": "https://huggingface.co/papers/2605.14589",
-      "description": "Extending the context window of large language models typically requires training on sequences at the target length, incurring quadratic memory and computational costs that make long-context adaptatio",
-      "published": "2026-05-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
-      "is_new": false
-    },
-    {
-      "id": "24290c37272e4d3e7023cf948be8e58a",
-      "title": "Auditing Agent Harness Safety",
-      "url": "https://huggingface.co/papers/2605.14271",
-      "description": "LLM agents increasingly run inside execution harnesses that dispatch tools, allocate resources, and route messages between specialized components. However, a harness can return a correct, benign answe",
-      "published": "2026-05-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 29,
       "is_new": false
     }
   ],
@@ -1908,7 +1905,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 2,
+        "points": 4,
         "comments": 0,
         "is_new": false
       },
@@ -1960,22 +1957,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 38,
+        "points": 44,
         "comments": 6,
-        "is_new": false
-      },
-      {
-        "id": "48180667",
-        "title": "The Oats Protocol – Open Agent Tools for Local Coding Agents",
-        "url": "https://news.ycombinator.com/item?id=48180667",
-        "description": "",
-        "published": "2026-05-18T14:48:57Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 4,
-        "comments": 0,
         "is_new": false
       },
       {
@@ -2022,6 +2005,18 @@
         "url": "https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant",
         "description": "After Sony drew some unwanted attention for a post demonstrating its AI Camera Assistant on the Xperia 1 XIII, it's trying to clarify how the feature works. The company says it doesn't edit photos, bu",
         "published": "2026-05-18T05:48:53-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "5c90a84245fe3736d35489360ef1c05f",
+        "title": "Revamped Siri will reportedly offer autodeleting chats",
+        "url": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
+        "description": "Apple is hoping that its record on privacy can be the differentiator on the AI front and maybe even buy it a little slack as it continues to lag behind the competition. According to Bloomberg's Mark G",
+        "published": "2026-05-18T05:25:53-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
