@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-19T08:37:27.296165+00:00",
+  "last_updated": "2026-05-19T09:57:10.712505+00:00",
   "total_entries": 110,
-  "new_entries": 17,
+  "new_entries": 21,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -829,7 +829,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 44,
+      "points": 45,
       "comments": 6,
       "is_new": false
     },
@@ -896,6 +896,19 @@
       "is_new": false
     },
     {
+      "id": "e18a2b48fb89890fb08894c64807c309",
+      "title": "SafeDiffusion-R1: Online Reward Steering for Safe Diffusion Post-Training",
+      "url": "https://huggingface.co/papers/2605.18719",
+      "description": "Diffusion models have been widely studied for removing unsafe content learned during pre-training. Existing methods require expensive supervised data, either unsafe-text paired with safe-image groundt",
+      "published": "2026-05-17T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
       "id": "bb1467d763d3515535375682ba4b837b",
       "title": "Monitoring the Internal Monologue: Probe Trajectories Reveal Reasoning Dynamics",
       "url": "https://huggingface.co/papers/2605.18549",
@@ -918,7 +931,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 30,
       "is_new": true
     },
     {
@@ -931,7 +944,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 22,
+      "likes": 27,
       "is_new": true
     },
     {
@@ -970,7 +983,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 4,
       "is_new": true
     },
     {
@@ -998,45 +1011,6 @@
       "category": "research",
       "likes": 1,
       "is_new": true
-    },
-    {
-      "id": "644125d2b79a6a630dd70592c9d83b83",
-      "title": "Lance: Unified Multimodal Modeling by Multi-Task Synergy",
-      "url": "https://huggingface.co/papers/2605.18678",
-      "description": "We present Lance, a lightweight native unified model supporting multimodal understanding, generation, and editing for both images and videos. Rather than relying on model capacity scaling or text-imag",
-      "published": "2026-05-17T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 51,
-      "is_new": false
-    },
-    {
-      "id": "c524478ae2f7ab51fde5ac9d2727fe94",
-      "title": "Post-Trained MoE Can Skip Half Experts via Self-Distillation",
-      "url": "https://huggingface.co/papers/2605.18643",
-      "description": "Mixture-of-Experts (MoE) scales language models efficiently through sparse expert activation, and its dynamic variant further reduces computation by adjusting the activated experts in an input-depende",
-      "published": "2026-05-17T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 22,
-      "is_new": false
-    },
-    {
-      "id": "ca26ae28d326b13045b79c71df14aaa7",
-      "title": "LongLive-2.0: An NVFP4 Parallel Infrastructure for Long Video Generation",
-      "url": "https://huggingface.co/papers/2605.18739",
-      "description": "We present LongLive-2.0, an NVFP4-based parallel infrastructure throughout the full training and inference workflow of long video generation, addressing speed and memory bottlenecks. For training, we ",
-      "published": "2026-05-17T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 78,
-      "is_new": false
     },
     {
       "id": "48169701",
@@ -1101,7 +1075,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
+      "likes": 8,
       "is_new": true
     },
     {
@@ -1114,7 +1088,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 22,
+      "likes": 26,
       "is_new": false
     },
     {
@@ -1129,6 +1103,32 @@
       "category": "research",
       "likes": 2,
       "is_new": false
+    },
+    {
+      "id": "a9e813a7acee817209f13bc1ac6079e6",
+      "title": "TOBench: A Task-Oriented Omni-Modal Benchmark for Real-World Tool-Using Agents",
+      "url": "https://huggingface.co/papers/2605.16909",
+      "description": "Tool-using agents are increasingly expected to operate across realistic professional workflows, where they must interpret multimodal inputs, coordinate external tools, inspect intermediate artifacts, ",
+      "published": "2026-05-15T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "ecc4d18aaf6b27036b2d3401ac720220",
+      "title": "NGM: A Plug-and-Play Training-Free Memory Module for LLMs",
+      "url": "https://huggingface.co/papers/2605.16893",
+      "description": "Recent studies introduce conditional memory modules that decouple knowledge storage from neural computation, enabling more direct knowledge access. Compared to MoE, which relies on dynamic computation",
+      "published": "2026-05-15T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
     },
     {
       "id": "1a4a4433509dbd98ca5f59d022b89030",
@@ -1166,7 +1166,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
+      "likes": 10,
       "is_new": true
     },
     {
@@ -1957,7 +1957,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 44,
+        "points": 45,
         "comments": 6,
         "is_new": false
       },
