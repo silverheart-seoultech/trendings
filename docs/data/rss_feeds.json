@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-19T19:16:21.866954+00:00",
+  "last_updated": "2026-05-19T19:58:37.085971+00:00",
   "total_entries": 110,
-  "new_entries": 35,
+  "new_entries": 39,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -51,7 +51,7 @@
       "id": "8f59029ef9e0cfc31f1e0b891e4db520",
       "title": "Google takes a page out of Meta’s book, announces new audio-powered smart glasses",
       "url": "https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses/",
-      "description": "Google is back in the glasses game with \"audio glasses\" out this fall.",
+      "description": "Google is calling the new devices \"audio glasses,\" in that users will be able to issue verbal commands to them and get things done via its ecosystem of apps and services, including Gemini.",
       "published": "Tue, 19 May 2026 19:15:31 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
@@ -168,18 +168,6 @@
       "is_new": true
     },
     {
-      "id": "3d5eb3ad5cd3750a86f9cec67dbf51b8",
-      "title": "Google’s new Universal Cart wants to follow you across the entire internet",
-      "url": "https://techcrunch.com/2026/05/19/googles-new-universal-cart-wants-to-follow-you-across-the-entire-internet/",
-      "description": "The tech giant says it's aware that most people shop across multiple devices, many retailers, and over the course of many days, which is why it's launching Universal Cart.",
-      "published": "Tue, 19 May 2026 17:45:00 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": true
-    },
-    {
       "id": "0dfb50207c610d006864f7bffed5dd2c",
       "title": "Google updates its Gemini app to take on ChatGPT and Claude",
       "url": "https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude/",
@@ -232,6 +220,18 @@
       "title": "Agentic app coding gets an upgrade with Google’s release of Android CLI",
       "url": "https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/",
       "description": "Google is embracing the rise of AI coding agents with new Android tools designed to work with platforms like Claude Code and OpenAI’s Codex, allowing developers — or their AI assistants — to build And",
+      "published": "Tue, 19 May 2026 17:45:00 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "3d5eb3ad5cd3750a86f9cec67dbf51b8",
+      "title": "Google’s new Universal Cart wants to follow you across the entire internet",
+      "url": "https://techcrunch.com/2026/05/19/googles-new-universal-cart-wants-to-follow-you-across-the-entire-internet/",
+      "description": "The tech giant says it's aware that most people shop across multiple devices, many retailers, and over the course of many days, which is why it's launching Universal Cart.",
       "published": "Tue, 19 May 2026 17:45:00 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
@@ -768,17 +768,31 @@
       "is_new": false
     },
     {
-      "id": "48196659",
-      "title": "Show HN: Bypassing the AWS Lambda 4KB limit to run polyglot AI agents",
-      "url": "https://brewhubphl.com/engineering/parity-contracts-for-polyglot-llm-commerce-a-case-study",
+      "id": "48198625",
+      "title": "Most AI agent papers stack one LLM with a vector store, we flipped it",
+      "url": "https://sbarron.com/writing/substrate-is-the-body",
       "description": "",
-      "published": "2026-05-19T17:50:01Z",
+      "published": "2026-05-19T19:57:32Z",
       "source_id": "hn-ai",
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
       "points": 1,
       "comments": 1,
+      "is_new": true
+    },
+    {
+      "id": "48198129",
+      "title": "Ask HN: Is there a good code intelligence MCP server yet?",
+      "url": "https://news.ycombinator.com/item?id=48198129",
+      "description": "",
+      "published": "2026-05-19T19:23:10Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
       "is_new": true
     },
     {
@@ -792,7 +806,31 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 2,
-      "comments": 1,
+      "comments": 2,
+      "is_new": true
+    },
+    {
+      "id": "5f9cbec01a39d63359f166cf49668be0",
+      "title": "Google is trying to make deepfake detection more accessible for everyone",
+      "url": "https://www.theverge.com/tech/933424/google-synthid-c2pa-content-credentials-expansion",
+      "description": "Google is expanding AI detection capabilities to Chrome and Search, with the aim of making it easier for people to identify deepfakes. The updates, announced at Google I/O today, cover not only SynthI",
+      "published": "2026-05-19T15:46:46-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "0b85bf4e9eb44734984d80d070cd0ddc",
+      "title": "Google wants to compete with Anthropic’s Mythos",
+      "url": "https://www.theverge.com/tech/933921/google-wants-to-compete-with-anthropics-mythos",
+      "description": "Google is making a big push into cybersecurity. At I/O, the company announced that it was inviting select groups of experts to test the API for CodeMender, an \"AI agent for code security\" it debuted l",
+      "published": "2026-05-19T15:32:09-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
       "is_new": true
     },
     {
@@ -800,7 +838,7 @@
       "title": "The 13 biggest announcements at Google I/O 2026",
       "url": "https://www.theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini",
       "description": "Google's I/O 2026 keynote today was once again full of AI-related announcements including a new family of Gemini 3.5 AI models, new features for Search and Gmail, and updates about its Project Aura sm",
-      "published": "2026-05-19T15:10:32-04:00",
+      "published": "2026-05-19T15:31:01-04:00",
       "source_id": "theverge-ai",
       "source_name": "The Verge AI",
       "source_icon": "📰",
@@ -849,30 +887,6 @@
       "url": "https://www.theverge.com/tech/932970/google-search-ai-update-io-2026",
       "description": "Google Search is entering the next phase of its AI evolution. During Google I/O 2026, the company showed off a reimagined search box that makes it easier to flow between AI Overviews, the AI-generated",
       "published": "2026-05-19T13:50:57-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": true
-    },
-    {
-      "id": "0b85bf4e9eb44734984d80d070cd0ddc",
-      "title": "Google wants to compete with Anthropic’s Mythos",
-      "url": "https://www.theverge.com/tech/933921/google-wants-to-compete-with-anthropics-mythos",
-      "description": "Google is making a big push into cybersecurity. At I/O, the company announced that it was inviting select groups of experts to test the API for CodeMender, an \"AI agent for code security\" it debuted l",
-      "published": "2026-05-19T13:48:22-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": true
-    },
-    {
-      "id": "5f9cbec01a39d63359f166cf49668be0",
-      "title": "Google is trying to make deepfake detection more accessible for everyone",
-      "url": "https://www.theverge.com/tech/933424/google-synthid-c2pa-content-credentials-expansion",
-      "description": "Google is expanding AI detection capabilities to Chrome and Search, with the aim of making it easier for people to identify deepfakes. The updates, announced at Google I/O today, cover not only SynthI",
-      "published": "2026-05-19T13:34:27-04:00",
       "source_id": "theverge-ai",
       "source_name": "The Verge AI",
       "source_icon": "📰",
@@ -981,7 +995,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 53,
+      "points": 54,
       "comments": 6,
       "is_new": false
     },
@@ -1012,6 +1026,45 @@
       "points": 1,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "9e19e533b12406765166c5c7ff4c8822",
+      "title": "OSCAR: Offline Spectral Covariance-Aware Rotation for 2-bit KV Cache Quantization",
+      "url": "https://huggingface.co/papers/2605.17757",
+      "description": "INT2 KV-cache quantization is attractive for long-context LLM serving, but it remains difficult to make both accurate and deployable. Simple rotations such as Hadamard transforms reduce outliers, but ",
+      "published": "2026-05-17T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "19bbfcb9b46f9d3f4adc56aa74ad4ded",
+      "title": "WavFlow: Audio Generation in Waveform Space",
+      "url": "https://huggingface.co/papers/2605.18749",
+      "description": "Modern audio generation predominantly relies on latent-space compression, introducing additional complexity and potential information loss. In this work, we challenge this paradigm with WavFlow, a fra",
+      "published": "2026-05-17T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 5,
+      "is_new": true
+    },
+    {
+      "id": "3686e093b1c795e96e8b1523dea9b865",
+      "title": "SCICONVBENCH: Benchmarking LLMs on Multi-Turn Clarification for Task Formulation in Computational Science",
+      "url": "https://huggingface.co/papers/2605.18630",
+      "description": "Large Language Models (LLMs) are increasingly deployed as scientific AI as- sistants, and a growing body of benchmarks evaluates their capabilities across knowledge retrieval, reasoning, code generati",
+      "published": "2026-05-17T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
     },
     {
       "id": "03d8cf2449b18b3271ccfa5d30b7dbc5",
@@ -1076,32 +1129,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "bb1467d763d3515535375682ba4b837b",
-      "title": "Monitoring the Internal Monologue: Probe Trajectories Reveal Reasoning Dynamics",
-      "url": "https://huggingface.co/papers/2605.18549",
-      "description": "Large Reasoning Models (LRMs) introduce new opportunities for safety monitoring through their Chain of Thought (CoT) reasoning. However, CoT is not always faithful to the model's final output, undermi",
-      "published": "2026-05-17T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
-      "is_new": false
-    },
-    {
-      "id": "40a8e0c13804cb5388f3cc890fe25cbc",
-      "title": "SkillsVote: Lifecycle Governance of Agent Skills from Collection, Recommendation to Evolution",
-      "url": "https://huggingface.co/papers/2605.18401",
-      "description": "Long-horizon LLM agents leave traces that could become reusable experience, but raw trajectories are noisy and hard to govern. We treat Agent Skills as an experience schema that couples executable scr",
-      "published": "2026-05-17T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 99,
       "is_new": false
     },
     {
@@ -1185,19 +1212,6 @@
       "is_new": false
     },
     {
-      "id": "1a4a4433509dbd98ca5f59d022b89030",
-      "title": "MixSD: Mixed Contextual Self-Distillation for Knowledge Injection",
-      "url": "https://huggingface.co/papers/2605.16865",
-      "description": "Supervised fine-tuning (SFT) is widely used to inject new knowledge into language models, but it often degrades pretrained capabilities such as reasoning and general-domain performance. We argue this ",
-      "published": "2026-05-15T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
-      "is_new": false
-    },
-    {
       "id": "48152558",
       "title": "Show HN: Emergence World: World building as a way to evaluate LLMs",
       "url": "https://world.emergence.ai/",
@@ -1276,20 +1290,6 @@
       "category": "research",
       "likes": 0,
       "is_new": false
-    },
-    {
-      "id": "48140228",
-      "title": "Ask HN: Will writing code by hand remain a part of work?",
-      "url": "https://news.ycombinator.com/item?id=48140228",
-      "description": "",
-      "published": "2026-05-14T19:43:15Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 1,
-      "comments": 2,
-      "is_new": false
     }
   ],
   "by_category": {
@@ -1298,7 +1298,7 @@
         "id": "8f59029ef9e0cfc31f1e0b891e4db520",
         "title": "Google takes a page out of Meta’s book, announces new audio-powered smart glasses",
         "url": "https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses/",
-        "description": "Google is back in the glasses game with \"audio glasses\" out this fall.",
+        "description": "Google is calling the new devices \"audio glasses,\" in that users will be able to issue verbal commands to them and get things done via its ecosystem of apps and services, including Gemini.",
         "published": "Tue, 19 May 2026 19:15:31 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
@@ -1415,18 +1415,6 @@
         "is_new": true
       },
       {
-        "id": "3d5eb3ad5cd3750a86f9cec67dbf51b8",
-        "title": "Google’s new Universal Cart wants to follow you across the entire internet",
-        "url": "https://techcrunch.com/2026/05/19/googles-new-universal-cart-wants-to-follow-you-across-the-entire-internet/",
-        "description": "The tech giant says it's aware that most people shop across multiple devices, many retailers, and over the course of many days, which is why it's launching Universal Cart.",
-        "published": "Tue, 19 May 2026 17:45:00 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": true
-      },
-      {
         "id": "0dfb50207c610d006864f7bffed5dd2c",
         "title": "Google updates its Gemini app to take on ChatGPT and Claude",
         "url": "https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude/",
@@ -1487,6 +1475,18 @@
         "is_new": true
       },
       {
+        "id": "3d5eb3ad5cd3750a86f9cec67dbf51b8",
+        "title": "Google’s new Universal Cart wants to follow you across the entire internet",
+        "url": "https://techcrunch.com/2026/05/19/googles-new-universal-cart-wants-to-follow-you-across-the-entire-internet/",
+        "description": "The tech giant says it's aware that most people shop across multiple devices, many retailers, and over the course of many days, which is why it's launching Universal Cart.",
+        "published": "Tue, 19 May 2026 17:45:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "a173121408daf48e0385e367e4f6e497",
         "title": "OpenAI co-founder Andrej Karpathy joins Anthropic’s pre-training team",
         "url": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
@@ -1535,17 +1535,31 @@
         "is_new": false
       },
       {
-        "id": "48196659",
-        "title": "Show HN: Bypassing the AWS Lambda 4KB limit to run polyglot AI agents",
-        "url": "https://brewhubphl.com/engineering/parity-contracts-for-polyglot-llm-commerce-a-case-study",
+        "id": "48198625",
+        "title": "Most AI agent papers stack one LLM with a vector store, we flipped it",
+        "url": "https://sbarron.com/writing/substrate-is-the-body",
         "description": "",
-        "published": "2026-05-19T17:50:01Z",
+        "published": "2026-05-19T19:57:32Z",
         "source_id": "hn-ai",
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
         "points": 1,
         "comments": 1,
+        "is_new": true
+      },
+      {
+        "id": "48198129",
+        "title": "Ask HN: Is there a good code intelligence MCP server yet?",
+        "url": "https://news.ycombinator.com/item?id=48198129",
+        "description": "",
+        "published": "2026-05-19T19:23:10Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 2,
+        "comments": 0,
         "is_new": true
       },
       {
@@ -1559,7 +1573,31 @@
         "source_icon": "🟧",
         "category": "news",
         "points": 2,
-        "comments": 1,
+        "comments": 2,
+        "is_new": true
+      },
+      {
+        "id": "5f9cbec01a39d63359f166cf49668be0",
+        "title": "Google is trying to make deepfake detection more accessible for everyone",
+        "url": "https://www.theverge.com/tech/933424/google-synthid-c2pa-content-credentials-expansion",
+        "description": "Google is expanding AI detection capabilities to Chrome and Search, with the aim of making it easier for people to identify deepfakes. The updates, announced at Google I/O today, cover not only SynthI",
+        "published": "2026-05-19T15:46:46-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "0b85bf4e9eb44734984d80d070cd0ddc",
+        "title": "Google wants to compete with Anthropic’s Mythos",
+        "url": "https://www.theverge.com/tech/933921/google-wants-to-compete-with-anthropics-mythos",
+        "description": "Google is making a big push into cybersecurity. At I/O, the company announced that it was inviting select groups of experts to test the API for CodeMender, an \"AI agent for code security\" it debuted l",
+        "published": "2026-05-19T15:32:09-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
         "is_new": true
       },
       {
@@ -1567,7 +1605,7 @@
         "title": "The 13 biggest announcements at Google I/O 2026",
         "url": "https://www.theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini",
         "description": "Google's I/O 2026 keynote today was once again full of AI-related announcements including a new family of Gemini 3.5 AI models, new features for Search and Gmail, and updates about its Project Aura sm",
-        "published": "2026-05-19T15:10:32-04:00",
+        "published": "2026-05-19T15:31:01-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
@@ -1621,44 +1659,6 @@
         "source_icon": "📰",
         "category": "news",
         "is_new": true
-      },
-      {
-        "id": "0b85bf4e9eb44734984d80d070cd0ddc",
-        "title": "Google wants to compete with Anthropic’s Mythos",
-        "url": "https://www.theverge.com/tech/933921/google-wants-to-compete-with-anthropics-mythos",
-        "description": "Google is making a big push into cybersecurity. At I/O, the company announced that it was inviting select groups of experts to test the API for CodeMender, an \"AI agent for code security\" it debuted l",
-        "published": "2026-05-19T13:48:22-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": true
-      },
-      {
-        "id": "5f9cbec01a39d63359f166cf49668be0",
-        "title": "Google is trying to make deepfake detection more accessible for everyone",
-        "url": "https://www.theverge.com/tech/933424/google-synthid-c2pa-content-credentials-expansion",
-        "description": "Google is expanding AI detection capabilities to Chrome and Search, with the aim of making it easier for people to identify deepfakes. The updates, announced at Google I/O today, cover not only SynthI",
-        "published": "2026-05-19T13:34:27-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": true
-      },
-      {
-        "id": "48192867",
-        "title": "Show HN: I built a linter for undocumented linter warnings. AI hates me now",
-        "url": "https://github.com/BKDDFS/shamefile",
-        "description": "",
-        "published": "2026-05-19T13:11:04Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 1,
-        "comments": 1,
-        "is_new": false
       }
     ],
     "research": [
