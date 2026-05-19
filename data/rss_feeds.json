@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-19T09:57:10.712505+00:00",
+  "last_updated": "2026-05-19T12:19:06.436835+00:00",
   "total_entries": 110,
-  "new_entries": 21,
+  "new_entries": 5,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -829,7 +829,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 45,
+      "points": 46,
       "comments": 6,
       "is_new": false
     },
@@ -872,6 +872,18 @@
       "is_new": false
     },
     {
+      "id": "4dd4fb8827258e78f95e8082272065da",
+      "title": "Gemini is in danger of going full Copilot",
+      "url": "https://www.theverge.com/tech/931752/google-io-2026-gemini-icon-docs-workspace",
+      "description": "Gemini has a creep problem. A few years ago, that little sparkle icon started showing up in all of our Google apps. Gemini in your inbox! Gemini in your Google Drive! It was slow at first, and easy en",
+      "published": "2026-05-18T09:37:49-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "a667f385c15c0744eb28080648a80f47",
       "title": "Sony tries to explain that its AI Camera Assistant doesn’t suck",
       "url": "https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant",
@@ -896,6 +908,19 @@
       "is_new": false
     },
     {
+      "id": "4626503e3b012bf18fe8ec67361c79d1",
+      "title": "MementoGUI: Learning Agentic Multimodal Memory Control for Long-Horizon GUI Agents",
+      "url": "https://huggingface.co/papers/2605.18652",
+      "description": "Recent GUI agents have made substantial progress in visual grounding and action prediction, yet they remain brittle in long-horizon tasks that require maintaining task state across many interface tran",
+      "published": "2026-05-17T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "e18a2b48fb89890fb08894c64807c309",
       "title": "SafeDiffusion-R1: Online Reward Steering for Safe Diffusion Post-Training",
       "url": "https://huggingface.co/papers/2605.18719",
@@ -906,7 +931,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "bb1467d763d3515535375682ba4b837b",
@@ -919,7 +944,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "40a8e0c13804cb5388f3cc890fe25cbc",
@@ -931,8 +956,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 30,
-      "is_new": true
+      "likes": 41,
+      "is_new": false
     },
     {
       "id": "d72930451833fce3817b40b294a25d27",
@@ -944,8 +969,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 27,
-      "is_new": true
+      "likes": 32,
+      "is_new": false
     },
     {
       "id": "9c29258eb19ae5684bad867a93ef9396",
@@ -957,8 +982,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 10,
-      "is_new": true
+      "likes": 11,
+      "is_new": false
     },
     {
       "id": "97d55ad4b40eea4acb935adcd1d81789",
@@ -971,7 +996,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "b50ca1dd835ed98044020d14583451d9",
@@ -984,7 +1009,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "38b945f8d0630c4246677199adfaeec3",
@@ -997,20 +1022,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
-    },
-    {
-      "id": "24a8ede82103788581680f33189e44ae",
-      "title": "Code as Agent Harness",
-      "url": "https://huggingface.co/papers/2605.18747",
-      "description": "Recent large language models (LLMs) have demonstrated strong capabilities in understanding and generating code, from competitive programming to repository-level software engineering. In emerging agent",
-      "published": "2026-05-17T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "48169701",
@@ -1062,8 +1074,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
-      "is_new": true
+      "likes": 2,
+      "is_new": false
     },
     {
       "id": "ce832261e35f0e6265b89e9370cacd3d",
@@ -1076,33 +1088,20 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 8,
+      "is_new": false
+    },
+    {
+      "id": "89c483ddbced8dc331503a1edff61ebd",
+      "title": "E-PMQ: Expert-Guided Post-Merge Quantization with Merged-Weight Anchoring",
+      "url": "https://huggingface.co/papers/2605.16882",
+      "description": "Low-resource deployment constraints have made model quantization essential for deploying neural networks while preserving performance. Meanwhile, model merging has become an increasingly practical low",
+      "published": "2026-05-15T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
       "is_new": true
-    },
-    {
-      "id": "1caf3cd9b8a5ee5f5d25a5380a335d27",
-      "title": "OProver: A Unified Framework for Agentic Formal Theorem Proving",
-      "url": "https://huggingface.co/papers/2605.17283",
-      "description": "Recent progress in formal theorem proving has benefited from large-scale proof generation and verifier-aware training, but agentic proving is rarely integrated into prover training, appearing only at ",
-      "published": "2026-05-16T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 26,
-      "is_new": false
-    },
-    {
-      "id": "628ad12b374e09a9d587ac1f297e8db9",
-      "title": "Agent Bazaar: Enabling Economic Alignment in Multi-Agent Marketplaces",
-      "url": "https://huggingface.co/papers/2605.17698",
-      "description": "The deployment of Large Language Models (LLMs) as autonomous economic agents introduces systemic risks that extend beyond individual capability failures. As agents transition to directly interacting w",
-      "published": "2026-05-16T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
     },
     {
       "id": "a9e813a7acee817209f13bc1ac6079e6",
@@ -1115,7 +1114,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "ecc4d18aaf6b27036b2d3401ac720220",
@@ -1128,7 +1127,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "1a4a4433509dbd98ca5f59d022b89030",
@@ -1141,7 +1140,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "2f10bd365c119f55876986d94482d260",
@@ -1154,20 +1153,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 0,
-      "is_new": true
-    },
-    {
-      "id": "0a7b66017bce33ba3c41275d35704caa",
-      "title": "CompactAttention: Accelerating Chunked Prefill with Block-Union KV Selection",
-      "url": "https://huggingface.co/papers/2605.16839",
-      "description": "Chunked prefill has become a widely adopted serving strategy for long-context large language models, but efficient attention computation in this regime remains challenging. Existing sparse attention m",
-      "published": "2026-05-15T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "48152558",
@@ -1196,18 +1182,6 @@
       "is_new": false
     },
     {
-      "id": "00097bc0707bbb8c3d4dd778bc44f41d",
-      "title": "ArXiv will ban researchers who upload papers full of AI slop",
-      "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
-      "description": "ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a paper has \"incontrovertible evidence that the author",
-      "published": "2026-05-15T16:38:19-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "48148868",
       "title": "There's a $50B company hiding inside Salesforce",
       "url": "https://news.ycombinator.com/item?id=48148868",
@@ -1222,6 +1196,32 @@
       "is_new": false
     },
     {
+      "id": "926d7764c51aad06715caf169aafee92",
+      "title": "CHI-Bench: Can AI Agents Automate End-to-End, Long-Horizon, Policy-Rich Healthcare Workflows?",
+      "url": "https://huggingface.co/papers/2605.16679",
+      "description": "End-to-end automation of realistic healthcare operations stresses three capabilities underrepresented in current benchmarks: policy density, decisions must be grounded in a large library of medical, i",
+      "published": "2026-05-14T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 9,
+      "is_new": true
+    },
+    {
+      "id": "6af3afbcdc95016f8b874bcf06403525",
+      "title": "VideoSeeker: Incentivizing Instance-level Video Understanding via Native Agentic Tool Invocation",
+      "url": "https://huggingface.co/papers/2605.16079",
+      "description": "Large Vision-Language Models (LVLMs) have shown significant progress in video understanding, yet they face substantial challenges in tasks requiring precise spatiotemporal localization at the instance",
+      "published": "2026-05-14T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "2403d77ba55a78edf6baf9e0c60f5d8b",
       "title": "GRASP: Learning to Ground Social Reasoning in Multi-Person Non-Verbal Interactions",
       "url": "https://huggingface.co/papers/2605.15764",
@@ -1232,7 +1232,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "48140228",
@@ -1957,7 +1957,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 45,
+        "points": 46,
         "comments": 6,
         "is_new": false
       },
@@ -2000,23 +2000,23 @@
         "is_new": false
       },
       {
+        "id": "4dd4fb8827258e78f95e8082272065da",
+        "title": "Gemini is in danger of going full Copilot",
+        "url": "https://www.theverge.com/tech/931752/google-io-2026-gemini-icon-docs-workspace",
+        "description": "Gemini has a creep problem. A few years ago, that little sparkle icon started showing up in all of our Google apps. Gemini in your inbox! Gemini in your Google Drive! It was slow at first, and easy en",
+        "published": "2026-05-18T09:37:49-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "a667f385c15c0744eb28080648a80f47",
         "title": "Sony tries to explain that its AI Camera Assistant doesn’t suck",
         "url": "https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant",
         "description": "After Sony drew some unwanted attention for a post demonstrating its AI Camera Assistant on the Xperia 1 XIII, it's trying to clarify how the feature works. The company says it doesn't edit photos, bu",
         "published": "2026-05-18T05:48:53-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "5c90a84245fe3736d35489360ef1c05f",
-        "title": "Revamped Siri will reportedly offer autodeleting chats",
-        "url": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
-        "description": "Apple is hoping that its record on privacy can be the differentiator on the AI front and maybe even buy it a little slack as it continues to lag behind the competition. According to Bloomberg's Mark G",
-        "published": "2026-05-18T05:25:53-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
