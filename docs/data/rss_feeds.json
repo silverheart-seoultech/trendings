@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-20T08:34:36.475779+00:00",
+  "last_updated": "2026-05-20T09:46:18.790185+00:00",
   "total_entries": 110,
-  "new_entries": 11,
+  "new_entries": 15,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -1056,6 +1056,32 @@
       "is_new": false
     },
     {
+      "id": "757c709fd8e6ae7c8c8d21cdac1b3dba",
+      "title": "TideGS: Scalable Training of Over One Billion 3D Gaussian Splatting Primitives via Out-of-Core Optimization",
+      "url": "https://huggingface.co/papers/2605.20150",
+      "description": "Training 3D Gaussian Splatting (3DGS) at billion-primitive scale is fundamentally memory-bound: each Gaussian primitive carries a large attribute vector, and the aggregate parameter table quickly exce",
+      "published": "2026-05-18T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "14a73b1f8dda011bf82918b0728e8fb0",
+      "title": "Where Does Authorship Signal Emerge in Encoder-Based Language Models?",
+      "url": "https://huggingface.co/papers/2605.19908",
+      "description": "Authorship attribution models fine-tuned with the same pretrained encoder, data, and loss can differ four-fold in performance depending only on their scoring mechanism. We use mechanistic interpretabi",
+      "published": "2026-05-18T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "1386f0385e77ed7f9bf067ab97cab415",
       "title": "PixVerve: Advancing Native UHR Image Generation to 100MP with a Large-Scale High-Quality Dataset",
       "url": "https://huggingface.co/papers/2605.20147",
@@ -1065,7 +1091,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 5,
       "is_new": true
     },
     {
@@ -1091,7 +1117,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 0,
       "is_new": true
     },
     {
@@ -1104,7 +1130,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 39,
+      "likes": 42,
       "is_new": false
     },
     {
@@ -1134,45 +1160,6 @@
       "is_new": false
     },
     {
-      "id": "2af3a9009b8240ba21e4b8f8bda95b7d",
-      "title": "SceneCode: Executable World Programs for Editable Indoor Scenes with Articulated Objects",
-      "url": "https://huggingface.co/papers/2605.19587",
-      "description": "Indoor scene synthesis underpins embodied AI, robotic manipulation, and simulation-based policy evaluation, where a useful scene must specify not only what the environment looks like, but also how its",
-      "published": "2026-05-18T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
-      "is_new": false
-    },
-    {
-      "id": "7c2ea623a9ff73e5c2498d2aa968133f",
-      "title": "OpenComputer: Verifiable Software Worlds for Computer-Use Agents",
-      "url": "https://huggingface.co/papers/2605.19769",
-      "description": "We present OpenComputer, a verifier-grounded framework for constructing verifiable software worlds for computer-use agents. OpenComputer integrates four components: (1) app-specific state verifiers th",
-      "published": "2026-05-18T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 43,
-      "is_new": false
-    },
-    {
-      "id": "8d0eef20a1ec967885a84dcc24b0621b",
-      "title": "AutoResearchClaw: Self-Reinforcing Autonomous Research with Human-AI Collaboration",
-      "url": "https://huggingface.co/papers/2605.20025",
-      "description": "Automating scientific discovery requires more than generating papers from ideas. Real research is iterative: hypotheses are challenged from multiple perspectives, experiments fail and inform the next ",
-      "published": "2026-05-18T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 35,
-      "is_new": false
-    },
-    {
       "id": "48182033",
       "title": "Smallcode – AI coding agent optimized for small LLMs",
       "url": "https://github.com/Doorman11991/smallcode",
@@ -1196,7 +1183,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 55,
+      "points": 56,
       "comments": 6,
       "is_new": false
     },
@@ -1227,6 +1214,19 @@
       "points": 1,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "d1dacbf778bc986420dbce0a174d172a",
+      "title": "Language-Switching Triggers Take a Latent Detour Through Language Models",
+      "url": "https://huggingface.co/papers/2605.18646",
+      "description": "Backdoor attacks on language models pose a growing security concern, yet the internal mechanisms by which a trigger sequence hijacks model computations remain poorly understood. We identify a circuit ",
+      "published": "2026-05-17T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
     },
     {
       "id": "757ecaef5aab8cc72dd9e5f5ff899615",
@@ -1277,7 +1277,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 34,
+      "likes": 36,
       "is_new": true
     },
     {
