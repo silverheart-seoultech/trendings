@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-20T15:38:09.926373+00:00",
+  "last_updated": "2026-05-20T15:53:08.509812+00:00",
   "total_entries": 110,
-  "new_entries": 14,
+  "new_entries": 1,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -57,7 +57,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "17cdb3afa6c1cf9df8f8b8feb4e96b74",
@@ -69,7 +69,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "2cbd3e3624d2d11f7b0a3c7d9e01688e",
@@ -81,7 +81,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "d2b7d6004c4a14dee4dff46b1cd54fe2",
@@ -93,7 +93,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "7fa0875ec0c9b04b126b1212bd03570e",
@@ -105,7 +105,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "4e96c9e7f7a4bd9222ad0f4d607f370c",
@@ -777,7 +777,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "e5dc1c5b720135fbece1bdb1d3337b8e",
@@ -789,7 +789,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "48205381",
@@ -803,7 +803,7 @@
       "category": "news",
       "points": 2,
       "comments": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "48201187",
@@ -843,7 +843,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 5,
+      "points": 6,
       "comments": 1,
       "is_new": false
     },
@@ -951,7 +951,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "48196435",
@@ -1080,7 +1080,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "f31f772242ef5cd89696474e6e6cd39d",
@@ -1093,7 +1093,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "5559bb6012f4561cab7643038c6db172",
@@ -1106,7 +1106,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "757c709fd8e6ae7c8c8d21cdac1b3dba",
@@ -1230,6 +1230,19 @@
       "is_new": false
     },
     {
+      "id": "88054ab51c8d44e9d343e71ab15e6949",
+      "title": "Harnessing LLM Agents with Skill Programs",
+      "url": "https://huggingface.co/papers/2605.17734",
+      "description": "Equipping LLM agents with reusable skills derived from past experience has become a popular and successful approach for tackling complex and long-horizon tasks. However, such lessons are often encoded",
+      "published": "2026-05-17T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
       "id": "d1dacbf778bc986420dbce0a174d172a",
       "title": "Language-Switching Triggers Take a Latent Detour Through Language Models",
       "url": "https://huggingface.co/papers/2605.18646",
@@ -1280,19 +1293,6 @@
       "category": "research",
       "likes": 3,
       "is_new": false
-    },
-    {
-      "id": "7c0fa0ee4156172fbb0feb29cd00e876",
-      "title": "EnvFactory: Scaling Tool-Use Agents via Executable Environments Synthesis and Robust RL",
-      "url": "https://huggingface.co/papers/2605.18703",
-      "description": "Equipping LLMs with tool-use capabilities via Agentic Reinforcement Learning (Agentic RL) is bottlenecked by two challenges: the lack of scalable, robust execution environments and the scarcity of rea",
-      "published": "2026-05-17T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 38,
-      "is_new": false
     }
   ],
   "by_category": {
@@ -1307,7 +1307,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "17cdb3afa6c1cf9df8f8b8feb4e96b74",
@@ -1319,7 +1319,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "2cbd3e3624d2d11f7b0a3c7d9e01688e",
@@ -1331,7 +1331,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "d2b7d6004c4a14dee4dff46b1cd54fe2",
@@ -1343,7 +1343,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "7fa0875ec0c9b04b126b1212bd03570e",
@@ -1355,7 +1355,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "849677abbb40b4ce7ea269f1d8bc4dd2",
@@ -1547,7 +1547,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "e5dc1c5b720135fbece1bdb1d3337b8e",
@@ -1559,7 +1559,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "48205381",
@@ -1573,7 +1573,7 @@
         "category": "news",
         "points": 2,
         "comments": 1,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "48201187",
@@ -1613,7 +1613,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 5,
+        "points": 6,
         "comments": 1,
         "is_new": false
       },
