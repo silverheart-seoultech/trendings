@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-21T20:01:08.820961+00:00",
+  "last_updated": "2026-05-21T20:57:32.916496+00:00",
   "total_entries": 110,
-  "new_entries": 11,
+  "new_entries": 2,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -153,7 +153,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "7d8088891c85f1e3890d84436ea38e73",
@@ -165,7 +165,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "90bacf183f612e68a9c785acb6ac5b6c",
@@ -173,18 +173,6 @@
       "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
       "description": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language.",
       "published": "Thu, 21 May 2026 17:30:45 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": true
-    },
-    {
-      "id": "2c78b51995394988bc086454a544f072",
-      "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
-      "url": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
-      "description": "Spotify is releasing new audiobook plans later this year",
-      "published": "Thu, 21 May 2026 15:27:00 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
@@ -208,6 +196,18 @@
       "title": "Spotify takes on Google’s NotebookLM with its new app",
       "url": "https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/",
       "description": "Spotify is releasing the new desktop app as a research preview in more than 20 markets.",
+      "published": "Thu, 21 May 2026 15:27:00 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": false
+    },
+    {
+      "id": "2c78b51995394988bc086454a544f072",
+      "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
+      "url": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
+      "description": "Spotify is releasing new audiobook plans later this year",
       "published": "Thu, 21 May 2026 15:27:00 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
@@ -777,21 +777,45 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 22,
-      "comments": 12,
-      "is_new": true
+      "points": 27,
+      "comments": 21,
+      "is_new": false
     },
     {
-      "id": "c9e9794d3616da735caf0fc640bd3b80",
-      "title": "The Endless AI guitar pedal lets you roll your own effects",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/935219/polyend-endless-ai-guitar-effects-pedal",
-      "description": "I'm not sure anyone was really asking for an AI guitar pedal. But it was inevitable that someone would build one. One of the first to take the plunge is Polyend, a well-respected music gear maker with",
-      "published": "2026-05-21T16:01:02-04:00",
+      "id": "74cdffe7e5df374389a7ff29cfba1c3a",
+      "title": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI",
+      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "description": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni",
+      "published": "2026-05-21T16:15:26-04:00",
       "source_id": "theverge-ai",
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
       "is_new": true
+    },
+    {
+      "id": "328bff72386862b90960e02aba44a04a",
+      "title": "Musk v. Altman: Much ado about nothing",
+      "url": "https://www.theverge.com/podcast/934869/elon-musk-sam-altman-openai-suit-loss-pointless",
+      "description": "Today I’m talking with Liz Lopatto, who spent the last month covering the Musk v. Altman trial in all its chaos. You’ll hear her describe the courthouse as a “zoo” and explain that there were protests",
+      "published": "2026-05-21T16:07:37-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": false
+    },
+    {
+      "id": "c9e9794d3616da735caf0fc640bd3b80",
+      "title": "This AI guitar pedal let me roll my own effects",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/935219/polyend-endless-ai-guitar-effects-pedal",
+      "description": "I'm not sure anyone was really asking for an AI guitar pedal. But it was inevitable that someone would build one. One of the first to take the plunge is Polyend, a well-respected music gear maker with",
+      "published": "2026-05-21T16:01:54-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": false
     },
     {
       "id": "32ece92680dffb607279cc3ecbd7ca06",
@@ -803,7 +827,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "48223870",
@@ -841,7 +865,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "5445f48aca4b11ddf39f96b360429c95",
@@ -853,7 +877,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "48221146",
@@ -887,30 +911,6 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/935056/google-vibe-coding-first-android-app-gemini-ai-studio",
       "description": "Yesterday, I built my first Android app. Then, I made two more - three in one afternoon. For one, I literally typed 148 words into my web browser and walked away. Ten minutes later, I had an entire ne",
       "published": "2026-05-21T10:18:10-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "328bff72386862b90960e02aba44a04a",
-      "title": "Musk v. Altman: Much ado about nothing",
-      "url": "https://www.theverge.com/podcast/934869/elon-musk-sam-altman-openai-suit-loss-pointless",
-      "description": "Today I’m talking with Liz Lopatto, who spent the last month covering the Musk v. Altman trial in all its chaos. You’ll hear her describe the courthouse as a “zoo” and explain that there were protests",
-      "published": "2026-05-21T10:14:30-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "11239c2459824d76ba2ba654613d6b8f",
-      "title": "In SpaceX’s IPO, Elon Musk is the risk factor",
-      "url": "https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor",
-      "description": "The SpaceX IPO is here, and it's more than just an historic public offering that could make Elon Musk the world's first trillionaire. It also reveals more ways in which Elon Musk's companies interact",
-      "published": "2026-05-21T10:13:33-04:00",
       "source_id": "theverge-ai",
       "source_name": "The Verge AI",
       "source_icon": "📰",
@@ -1079,7 +1079,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 38,
+      "likes": 40,
       "is_new": false
     },
     {
@@ -1105,7 +1105,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 38,
+      "likes": 40,
       "is_new": false
     },
     {
@@ -1147,7 +1147,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 4,
-      "comments": 6,
+      "comments": 8,
       "is_new": false
     },
     {
@@ -1241,7 +1241,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 5,
       "is_new": false
     },
     {
@@ -1406,7 +1406,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "7d8088891c85f1e3890d84436ea38e73",
@@ -1418,7 +1418,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "90bacf183f612e68a9c785acb6ac5b6c",
@@ -1426,18 +1426,6 @@
         "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
         "description": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language.",
         "published": "Thu, 21 May 2026 17:30:45 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": true
-      },
-      {
-        "id": "2c78b51995394988bc086454a544f072",
-        "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
-        "url": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
-        "description": "Spotify is releasing new audiobook plans later this year",
-        "published": "Thu, 21 May 2026 15:27:00 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
@@ -1461,6 +1449,18 @@
         "title": "Spotify takes on Google’s NotebookLM with its new app",
         "url": "https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/",
         "description": "Spotify is releasing the new desktop app as a research preview in more than 20 markets.",
+        "published": "Thu, 21 May 2026 15:27:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "2c78b51995394988bc086454a544f072",
+        "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
+        "url": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
+        "description": "Spotify is releasing new audiobook plans later this year",
         "published": "Thu, 21 May 2026 15:27:00 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
@@ -1550,21 +1550,45 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 22,
-        "comments": 12,
-        "is_new": true
+        "points": 27,
+        "comments": 21,
+        "is_new": false
       },
       {
-        "id": "c9e9794d3616da735caf0fc640bd3b80",
-        "title": "The Endless AI guitar pedal lets you roll your own effects",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/935219/polyend-endless-ai-guitar-effects-pedal",
-        "description": "I'm not sure anyone was really asking for an AI guitar pedal. But it was inevitable that someone would build one. One of the first to take the plunge is Polyend, a well-respected music gear maker with",
-        "published": "2026-05-21T16:01:02-04:00",
+        "id": "74cdffe7e5df374389a7ff29cfba1c3a",
+        "title": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI",
+        "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+        "description": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni",
+        "published": "2026-05-21T16:15:26-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
         "is_new": true
+      },
+      {
+        "id": "328bff72386862b90960e02aba44a04a",
+        "title": "Musk v. Altman: Much ado about nothing",
+        "url": "https://www.theverge.com/podcast/934869/elon-musk-sam-altman-openai-suit-loss-pointless",
+        "description": "Today I’m talking with Liz Lopatto, who spent the last month covering the Musk v. Altman trial in all its chaos. You’ll hear her describe the courthouse as a “zoo” and explain that there were protests",
+        "published": "2026-05-21T16:07:37-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "c9e9794d3616da735caf0fc640bd3b80",
+        "title": "This AI guitar pedal let me roll my own effects",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/935219/polyend-endless-ai-guitar-effects-pedal",
+        "description": "I'm not sure anyone was really asking for an AI guitar pedal. But it was inevitable that someone would build one. One of the first to take the plunge is Polyend, a well-respected music gear maker with",
+        "published": "2026-05-21T16:01:54-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
       },
       {
         "id": "32ece92680dffb607279cc3ecbd7ca06",
@@ -1576,7 +1600,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "48223870",
@@ -1614,7 +1638,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "5445f48aca4b11ddf39f96b360429c95",
@@ -1626,7 +1650,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "48221146",
@@ -1640,30 +1664,6 @@
         "category": "news",
         "points": 1,
         "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "58b3c6ce735885491838212b199038b3",
-        "title": "Anthropic is paying $15 billion a year for access to Elon Musk’s data centers",
-        "url": "https://www.theverge.com/science/935229/spacex-anthropic-ipo-ai-capacity-deal-colossus",
-        "description": "Earlier this month, SpaceX and Anthropic announced a new compute partnership that provides access to the rocket company's Colossus data centers in Memphis, TN. Now, with the release of SpaceX's IPO fi",
-        "published": "2026-05-21T11:50:40-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "2f7fd0836ba19098aec115a887f166a0",
-        "title": "I can’t believe how fast Google vibe coded my first Android app",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/935056/google-vibe-coding-first-android-app-gemini-ai-studio",
-        "description": "Yesterday, I built my first Android app. Then, I made two more - three in one afternoon. For one, I literally typed 148 words into my web browser and walked away. Ten minutes later, I had an entire ne",
-        "published": "2026-05-21T10:18:10-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
         "is_new": false
       }
     ],
