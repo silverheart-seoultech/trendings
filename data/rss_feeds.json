@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-21T20:57:32.916496+00:00",
+  "last_updated": "2026-05-21T22:38:55.573065+00:00",
   "total_entries": 110,
-  "new_entries": 2,
+  "new_entries": 4,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -169,7 +169,7 @@
     },
     {
       "id": "90bacf183f612e68a9c785acb6ac5b6c",
-      "title": "Trump delays AI security executive order: ‘I don’t want to get in the way of that leading’",
+      "title": "Trump delays AI security executive order, saying language ‘could have been a blocker’",
       "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
       "description": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language.",
       "published": "Thu, 21 May 2026 17:30:45 +0000",
@@ -777,8 +777,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 27,
-      "comments": 21,
+      "points": 39,
+      "comments": 46,
       "is_new": false
     },
     {
@@ -967,7 +967,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 22,
+      "points": 23,
       "comments": 7,
       "is_new": false
     },
@@ -1096,19 +1096,6 @@
       "is_new": false
     },
     {
-      "id": "7760a61d7de3335d842ee1f6d6828429",
-      "title": "IndusAgent: Reinforcing Open-Vocabulary Industrial Anomaly Detection with Agentic Tools",
-      "url": "https://huggingface.co/papers/2605.20682",
-      "description": "Multimodal large language models (MLLMs) have shown remarkable capability in bridging visual perception and textual reasoning, enabling zero-shot understanding across diverse industrial scenarios. How",
-      "published": "2026-05-19T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 40,
-      "is_new": false
-    },
-    {
       "id": "48198625",
       "title": "Most AI agent papers stack one LLM with a vector store, we flipped it",
       "url": "https://sbarron.com/writing/substrate-is-the-body",
@@ -1191,6 +1178,19 @@
       "points": 6,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "4c94469f15ab236d169b33e65bcd4f25",
+      "title": "TIDE: Efficient and Lossless MoE Diffusion LLM Inference with I/O-aware Expert Offload",
+      "url": "https://huggingface.co/papers/2605.20179",
+      "description": "Diffusion Large Language Models (dLLMs) have emerged as a competitive alternative to autoregressive (AR) models, offering better hardware utilization and bidirectional context through parallel block-l",
+      "published": "2026-05-18T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
     },
     {
       "id": "b0d8cf5aa90aeaefd0888ff117970fb3",
@@ -1422,7 +1422,7 @@
       },
       {
         "id": "90bacf183f612e68a9c785acb6ac5b6c",
-        "title": "Trump delays AI security executive order: ‘I don’t want to get in the way of that leading’",
+        "title": "Trump delays AI security executive order, saying language ‘could have been a blocker’",
         "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
         "description": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language.",
         "published": "Thu, 21 May 2026 17:30:45 +0000",
@@ -1550,8 +1550,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 27,
-        "comments": 21,
+        "points": 39,
+        "comments": 46,
         "is_new": false
       },
       {
