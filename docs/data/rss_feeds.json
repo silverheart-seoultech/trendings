@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-22T18:02:13.103757+00:00",
+  "last_updated": "2026-05-22T19:56:32.215985+00:00",
   "total_entries": 110,
-  "new_entries": 8,
+  "new_entries": 12,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -89,30 +89,6 @@
       "url": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/",
       "description": "Elon Musk's xAI said it will buy $2.8 billion worth of natural gas turbines over the next three years, according to SpaceX's IPO filing.",
       "published": "Wed, 20 May 2026 21:55:49 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "8ad8deb316081a848527e6a09ec0d5e2",
-      "title": "Anthropic will pay xAI $1.25B per month for compute",
-      "url": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
-      "description": "Elon Musk's xAI surprised the AI world when it made a deal to sell compute to Anthropic. Now we know how much it's worth.",
-      "published": "Wed, 20 May 2026 21:29:22 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "5e513af90e20f1c75ab5ea91673dec3c",
-      "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
-      "url": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
-      "description": "OpenAI claims its reasoning model disproved a geometry conjecture unsolved since 1946 — and this time, the mathematicians who exposed its last embarrassing claim are backing it up.",
-      "published": "Wed, 20 May 2026 20:28:27 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
@@ -264,6 +240,18 @@
       "is_new": false
     },
     {
+      "id": "daf1eb7380df31d2cb86f390fd6fd3cf",
+      "title": "Elon Musk can’t hear you over the sound of his $1.75 trillion IPO",
+      "url": "https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo/",
+      "description": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a $28 trillion total",
+      "published": "Fri, 22 May 2026 18:17:07 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "7e9de1698fc8e7e7ccb7ec1647b1e376",
       "title": "You can no longer Google the word ‘disregard’",
       "url": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
@@ -281,6 +269,18 @@
       "url": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
       "description": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view.",
       "published": "Fri, 22 May 2026 15:37:15 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "50ff72bb6a1d8d5d88590f2c74b21bbd",
+      "title": "SpaceX files to go public, and the math requires a little faith",
+      "url": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
+      "description": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a $28 trillion total",
+      "published": "Fri, 22 May 2026 14:30:00 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
@@ -863,8 +863,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 81,
-      "comments": 98,
+      "points": 84,
+      "comments": 99,
       "is_new": false
     },
     {
@@ -958,6 +958,19 @@
       "is_new": false
     },
     {
+      "id": "0a16050d65b6320f31562496b836ed68",
+      "title": "Live Music Diffusion Models: Efficient Fine-Tuning and Post-Training of Interactive Diffusion Music Generators",
+      "url": "https://huggingface.co/papers/2605.22717",
+      "description": "Interactive streaming music generation promises the use of generative models for live performance and co-creation that is impossible with offline models. However, SOTA models exist in the discrete-AR ",
+      "published": "2026-05-20T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "41924c3a49a0efd782a0167f48a370c2",
       "title": "Forecasting Scientific Progress with Artificial Intelligence",
       "url": "https://huggingface.co/papers/2605.22681",
@@ -967,7 +980,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 25,
+      "likes": 27,
       "is_new": true
     },
     {
@@ -1019,7 +1032,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 16,
+      "likes": 21,
       "is_new": false
     },
     {
@@ -1045,7 +1058,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 126,
+      "likes": 143,
       "is_new": false
     },
     {
@@ -1188,6 +1201,19 @@
       "is_new": false
     },
     {
+      "id": "8c7d2015657ba2277285f66ece80df47",
+      "title": "AutoRubric-T2I: Robust Rule-Based Reward Model for Text-to-Image Alignment",
+      "url": "https://huggingface.co/papers/2605.17602",
+      "description": "Aligning Text-to-Image (T2I) generation models with human preferences increasingly relies on image reward models that score or rank generated images according to prompt alignment and perceptual qualit",
+      "published": "2026-05-19T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
       "id": "cb4d0f745a6b95c2bcde5da404862aee",
       "title": "\"I didn't Make the Micro Decisions\": Measuring, Inducing, and Exposing Goal-Level AI Contributions in Collaboration",
       "url": "https://huggingface.co/papers/2605.21363",
@@ -1198,19 +1224,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "1642753afa943c9239000669e607a103",
-      "title": "GenEvolve: Self-Evolving Image Generation Agents via Tool-Orchestrated Visual Experience Distillation",
-      "url": "https://huggingface.co/papers/2605.21605",
-      "description": "Open-ended image generation is no longer a simple prompt-to-image problem. High-quality generation often requires an agent to combine a model's internal generative ability with external resources. As ",
-      "published": "2026-05-19T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 10,
       "is_new": false
     },
     {
@@ -1252,7 +1265,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 4,
-      "comments": 8,
+      "comments": 9,
       "is_new": false
     },
     {
@@ -1281,20 +1294,6 @@
       "category": "news",
       "points": 10,
       "comments": 6,
-      "is_new": false
-    },
-    {
-      "id": "48185834",
-      "title": "Show HN: Tracecast – open-source generative data apps built on top of Marimo",
-      "url": "https://github.com/tracecast/open_data_apps",
-      "description": "",
-      "published": "2026-05-18T21:21:46Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 6,
-      "comments": 0,
       "is_new": false
     }
   ],
@@ -1342,30 +1341,6 @@
         "url": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/",
         "description": "Elon Musk's xAI said it will buy $2.8 billion worth of natural gas turbines over the next three years, according to SpaceX's IPO filing.",
         "published": "Wed, 20 May 2026 21:55:49 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "8ad8deb316081a848527e6a09ec0d5e2",
-        "title": "Anthropic will pay xAI $1.25B per month for compute",
-        "url": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
-        "description": "Elon Musk's xAI surprised the AI world when it made a deal to sell compute to Anthropic. Now we know how much it's worth.",
-        "published": "Wed, 20 May 2026 21:29:22 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "5e513af90e20f1c75ab5ea91673dec3c",
-        "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
-        "url": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
-        "description": "OpenAI claims its reasoning model disproved a geometry conjecture unsolved since 1946 — and this time, the mathematicians who exposed its last embarrassing claim are backing it up.",
-        "published": "Wed, 20 May 2026 20:28:27 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
@@ -1517,6 +1492,18 @@
         "is_new": false
       },
       {
+        "id": "daf1eb7380df31d2cb86f390fd6fd3cf",
+        "title": "Elon Musk can’t hear you over the sound of his $1.75 trillion IPO",
+        "url": "https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo/",
+        "description": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a $28 trillion total",
+        "published": "Fri, 22 May 2026 18:17:07 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "7e9de1698fc8e7e7ccb7ec1647b1e376",
         "title": "You can no longer Google the word ‘disregard’",
         "url": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
@@ -1534,6 +1521,18 @@
         "url": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
         "description": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view.",
         "published": "Fri, 22 May 2026 15:37:15 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "50ff72bb6a1d8d5d88590f2c74b21bbd",
+        "title": "SpaceX files to go public, and the math requires a little faith",
+        "url": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
+        "description": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a $28 trillion total",
+        "published": "Fri, 22 May 2026 14:30:00 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
@@ -1636,8 +1635,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 81,
-        "comments": 98,
+        "points": 84,
+        "comments": 99,
         "is_new": false
       },
       {
