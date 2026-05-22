@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-22T11:54:31.516530+00:00",
+  "last_updated": "2026-05-22T14:50:53.325334+00:00",
   "total_entries": 110,
-  "new_entries": 2,
+  "new_entries": 12,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,6 +768,30 @@
       "is_new": false
     },
     {
+      "id": "d13076162bb5a794fd9a80bd1ebd1848",
+      "title": "Why would you disrespect your favorite artist with an AI remix?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/936072/spotify-umg-ai-music-remix-cover-superfan",
+      "description": "AI covers and remixes of songs are already a blight on the internet. Spotify, YouTube, TikTok, and Instagram are awash in flat reggae versions of \"Smells Like Teen Spirit,\" dinky country renditions of",
+      "published": "2026-05-22T10:24:53-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "bd47b267637e9bab714e34cac37cf2f1",
+      "title": "The literary world isn’t prepared for AI",
+      "url": "https://www.theverge.com/tech/936073/ai-writing-granta-commonwealth-prize",
+      "description": "Since 2012, the British literary magazine Granta has published the regional winners of the annual Commonwealth Short Story Prize. This year, however, there was something off about one of the selection",
+      "published": "2026-05-22T10:20:09-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "48233125",
       "title": "Show HN: I threw away my analytics dashboard and replaced it with 42 MCP tools",
       "url": "https://news.ycombinator.com/item?id=48233125",
@@ -777,8 +801,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 1,
-      "comments": 0,
+      "points": 3,
+      "comments": 4,
       "is_new": false
     },
     {
@@ -815,8 +839,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 77,
-      "comments": 93,
+      "points": 78,
+      "comments": 98,
       "is_new": false
     },
     {
@@ -920,30 +944,6 @@
       "is_new": false
     },
     {
-      "id": "58b3c6ce735885491838212b199038b3",
-      "title": "Anthropic is paying $15 billion a year for access to Elon Musk’s data centers",
-      "url": "https://www.theverge.com/science/935229/spacex-anthropic-ipo-ai-capacity-deal-colossus",
-      "description": "Earlier this month, SpaceX and Anthropic announced a new compute partnership that provides access to the rocket company's Colossus data centers in Memphis, TN. Now, with the release of SpaceX's IPO fi",
-      "published": "2026-05-21T11:50:40-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "2f7fd0836ba19098aec115a887f166a0",
-      "title": "I can’t believe how fast Google vibe coded my first Android app",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/935056/google-vibe-coding-first-android-app-gemini-ai-studio",
-      "description": "Yesterday, I built my first Android app. Then, I made two more - three in one afternoon. For one, I literally typed 148 words into my web browser and walked away. Ten minutes later, I had an entire ne",
-      "published": "2026-05-21T10:18:10-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "48219556",
       "title": "AI red teaming agents change how LLMs get tested",
       "url": "https://www.helpnetsecurity.com/2026/05/21/ai-red-teaming-agents-research/",
@@ -956,6 +956,45 @@
       "points": 2,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "4e4430de071d1b5b0e44af3d1c1436a1",
+      "title": "AnyMo: Geometry-Aware Setup-Agnostic Modeling of Human Motion in the Wild",
+      "url": "https://huggingface.co/papers/2605.22715",
+      "description": "As wearable and mobile devices become increasingly embedded in daily life, they offer a practical way to continuously sense human motion in the wild. But inertial signals are highly dependent on the s",
+      "published": "2026-05-20T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "231078d77a71a0f9a125953571e76dc2",
+      "title": "FashionLens: Toward Versatile Fashion Image Retrieval via Task-Adaptive Learning",
+      "url": "https://huggingface.co/papers/2605.22552",
+      "description": "Fashion image retrieval is a cornerstone of modern e-commerce systems. A unified framework that supports diverse query formats and search intentions is highly desired in practice. However, existing ap",
+      "published": "2026-05-20T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "c9bf0627bc509b06dbb22fa09d1029a9",
+      "title": "SEGA: Spectral-Energy Guided Attention for Resolution Extrapolation in Diffusion Transformers",
+      "url": "https://huggingface.co/papers/2605.22668",
+      "description": "Diffusion transformers (DiTs) have emerged as a dominant architecture for text-to-image generation, yet their performance drops when generating at resolutions beyond their training range. Existing tra",
+      "published": "2026-05-20T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 12,
+      "is_new": true
     },
     {
       "id": "9b7ba10bc7545a9655776b6592858123",
@@ -980,7 +1019,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 105,
+      "likes": 107,
       "is_new": false
     },
     {
@@ -1006,7 +1045,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 30,
+      "likes": 31,
       "is_new": false
     },
     {
@@ -1019,59 +1058,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 18,
-      "is_new": false
-    },
-    {
-      "id": "aebf8fbc3000ed2ecc1872e0660a7582",
-      "title": "One Sentence, One Drama: Personalized Short-Form Drama Generation via Multi-Agent Systems",
-      "url": "https://huggingface.co/papers/2605.22144",
-      "description": "Existing approaches for digital short-drama production typically rely on one-shot LLM generated scripts and loosely coupled pipelines, which fail to satisfy three key requirements of short-drama gener",
-      "published": "2026-05-20T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 7,
-      "is_new": false
-    },
-    {
-      "id": "687aef02ea188405a64a269acc92f785",
-      "title": "Segment Anything with Motion, Geometry, and Semantic Adaptation for Complex Nonlinear Visual Object Tracking",
-      "url": "https://huggingface.co/papers/2605.22538",
-      "description": "Traditional visual object tracking (VOT) methods typically rely on task-specific supervised training, limiting their generalization to unseen objects and challenging scenarios with distractors, occlus",
-      "published": "2026-05-20T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "cde0ab9f42db00b55f63a7e664d25fdd",
-      "title": "SceneAligner: 3D-Grounded Floorplan Localization in the Wild",
-      "url": "https://huggingface.co/papers/2605.22581",
-      "description": "Many public buildings provide floorplans with a \"you are here\" indicator to help visitors orient themselves. Floorplan localization seeks to computationally replicate this capability by determining wh",
-      "published": "2026-05-20T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "4758ca8a754fff577f020b06a198a7c7",
-      "title": "Maestro: Reinforcement Learning to Orchestrate Hierarchical Model-Skill Ensembles",
-      "url": "https://huggingface.co/papers/2605.22177",
-      "description": "The proliferation of large language models (LLMs) and modular skills has endowed autonomous agents with increasingly powerful capabilities. Existing frameworks typically rely on monolithic LLMs and fi",
-      "published": "2026-05-20T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 16,
+      "likes": 19,
       "is_new": false
     },
     {
@@ -1201,6 +1188,19 @@
       "is_new": false
     },
     {
+      "id": "cb4d0f745a6b95c2bcde5da404862aee",
+      "title": "\"I didn't Make the Micro Decisions\": Measuring, Inducing, and Exposing Goal-Level AI Contributions in Collaboration",
+      "url": "https://huggingface.co/papers/2605.21363",
+      "description": "As large language models (LLMs) increasingly shape how users form, refine, and extend their goals, attributing contributions in human-AI collaboration becomes critical for users calibrating their own ",
+      "published": "2026-05-19T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "1642753afa943c9239000669e607a103",
       "title": "GenEvolve: Self-Evolving Image Generation Agents via Tool-Orchestrated Visual Experience Distillation",
       "url": "https://huggingface.co/papers/2605.21605",
@@ -1210,7 +1210,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
+      "likes": 10,
       "is_new": false
     },
     {
@@ -1223,46 +1223,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 13,
-      "is_new": false
-    },
-    {
-      "id": "6826954f8596feddc3b57bcd8b45127b",
-      "title": "PhysX-Omni: Unified Simulation-Ready Physical 3D Generation for Rigid, Deformable, and Articulated Objects",
-      "url": "https://huggingface.co/papers/2605.21572",
-      "description": "Simulation-ready physical 3D assets have emerged as a promising direction owing to their broad applicability in downstream tasks. However, most existing 3D generation methods either neglect physical p",
-      "published": "2026-05-19T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 33,
-      "is_new": false
-    },
-    {
-      "id": "2bb4ddb5f8d3dc73f87ff74bf55881ab",
-      "title": "DelTA: Discriminative Token Credit Assignment for Reinforcement Learning from Verifiable Rewards",
-      "url": "https://huggingface.co/papers/2605.21467",
-      "description": "Reinforcement learning from verifiable rewards (RLVR) has emerged as a central technique for improving the reasoning capabilities of large language models. Despite its effectiveness, how response-leve",
-      "published": "2026-05-19T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 76,
-      "is_new": false
-    },
-    {
-      "id": "cfa6ebb4ce5efdeea54e38d2d65ddf20",
-      "title": "FlowLong: Inference-time Long Video Generation via Manifold-constrained Tweedie Matching",
-      "url": "https://huggingface.co/papers/2605.20910",
-      "description": "Extending the generation horizon of video diffusion models to long sequences remains a long-standing and important challenge. Existing training-free approaches fall into two categories: extensions of ",
-      "published": "2026-05-19T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 21,
+      "likes": 14,
       "is_new": false
     },
     {
@@ -1291,6 +1252,48 @@
       "category": "news",
       "points": 2,
       "comments": 1,
+      "is_new": false
+    },
+    {
+      "id": "48196435",
+      "title": "Ask HN: Are advances in AI going to push Linux to a micro-kernel?",
+      "url": "https://news.ycombinator.com/item?id=48196435",
+      "description": "",
+      "published": "2026-05-19T17:33:10Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 4,
+      "comments": 8,
+      "is_new": false
+    },
+    {
+      "id": "48192867",
+      "title": "Show HN: I built a linter for undocumented linter warnings. AI hates me now",
+      "url": "https://github.com/BKDDFS/shamefile",
+      "description": "",
+      "published": "2026-05-19T13:11:04Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 1,
+      "is_new": false
+    },
+    {
+      "id": "48192607",
+      "title": "Show HN: How to analyze your LLM output – A behavioural health monitor for LLMs",
+      "url": "https://splabs.io",
+      "description": "",
+      "published": "2026-05-19T12:48:32Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 10,
+      "comments": 6,
       "is_new": false
     }
   ],
@@ -1537,6 +1540,30 @@
         "is_new": false
       },
       {
+        "id": "d13076162bb5a794fd9a80bd1ebd1848",
+        "title": "Why would you disrespect your favorite artist with an AI remix?",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/936072/spotify-umg-ai-music-remix-cover-superfan",
+        "description": "AI covers and remixes of songs are already a blight on the internet. Spotify, YouTube, TikTok, and Instagram are awash in flat reggae versions of \"Smells Like Teen Spirit,\" dinky country renditions of",
+        "published": "2026-05-22T10:24:53-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "bd47b267637e9bab714e34cac37cf2f1",
+        "title": "The literary world isn’t prepared for AI",
+        "url": "https://www.theverge.com/tech/936073/ai-writing-granta-commonwealth-prize",
+        "description": "Since 2012, the British literary magazine Granta has published the regional winners of the annual Commonwealth Short Story Prize. This year, however, there was something off about one of the selection",
+        "published": "2026-05-22T10:20:09-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "48233125",
         "title": "Show HN: I threw away my analytics dashboard and replaced it with 42 MCP tools",
         "url": "https://news.ycombinator.com/item?id=48233125",
@@ -1546,8 +1573,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 1,
-        "comments": 0,
+        "points": 3,
+        "comments": 4,
         "is_new": false
       },
       {
@@ -1584,8 +1611,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 77,
-        "comments": 93,
+        "points": 78,
+        "comments": 98,
         "is_new": false
       },
       {
@@ -1636,30 +1663,6 @@
         "category": "news",
         "points": 2,
         "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "dc9bc51d8423f8b3656c2510a762908a",
-        "title": "AI video is moving beyond clip slop",
-        "url": "https://www.theverge.com/column/935310/ai-video-luma-hollywood",
-        "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Hollywood is cooked - or so a growi",
-        "published": "2026-05-21T12:19:36-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "7db89da1a3f330a9cb5f828e04c9d840",
-        "title": "Spotify is launching AI-generated remixes",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/935379/spotify-umg-ai-covers-remix",
-        "description": "Spotify and Universal Music Group (UMG) just announced a licensing deal that will allow users to prompt the creation of AI-generated remixes and covers for streaming songs. The tool will be a paid add",
-        "published": "2026-05-21T12:17:41-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
         "is_new": false
       }
     ],
