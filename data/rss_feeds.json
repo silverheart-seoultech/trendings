@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-26T20:16:57.804837+00:00",
+  "last_updated": "2026-05-26T21:56:52.965278+00:00",
   "total_entries": 110,
-  "new_entries": 8,
+  "new_entries": 1,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -57,7 +57,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "96f157c6ce9a525a7bc473174a3db57b",
@@ -69,7 +69,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "f2c5d9ca1e265d0178d929a464db4dc7",
@@ -779,7 +779,7 @@
       "category": "news",
       "points": 1,
       "comments": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "48283348",
@@ -793,7 +793,7 @@
       "category": "news",
       "points": 1,
       "comments": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "4cca4ffcd1e400cd848f8ab0e22d97f9",
@@ -935,7 +935,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 14,
+      "likes": 15,
       "is_new": false
     },
     {
@@ -948,7 +948,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 6,
       "is_new": false
     },
     {
@@ -1003,7 +1003,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "28d639c41940d78de349dfc0bb47fd3c",
@@ -1070,7 +1070,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "b01ec93d479b0e4be8a0bb71f5ab2e23",
@@ -1135,6 +1135,19 @@
       "is_new": false
     },
     {
+      "id": "5239a427658b59266e555a5dd9f8c7fa",
+      "title": "Towards Evaluation Engineering: An Empirical Study of ML Evaluation Harnesses in the Wild",
+      "url": "https://huggingface.co/papers/2605.24213",
+      "description": "Evaluation harnesses are software systems that orchestrate model evaluation by managing model invocation, data loading, metric computation, and result reporting. Despite their critical role in machine",
+      "published": "2026-05-21T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "062239884249180ed0a6cbfcaf37e27f",
       "title": "CoSPlay: Cooperative Self-Play at Test-Time with Self-Generated Code and Unit Test",
       "url": "https://huggingface.co/papers/2605.23491",
@@ -1197,19 +1210,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 0,
-      "is_new": false
-    },
-    {
-      "id": "23dec0758c424419a60708f0fc39e6f2",
-      "title": "SkillEvolBench: Benchmarking the Evolution from Episodic Experience to Procedural Skills",
-      "url": "https://huggingface.co/papers/2605.24117",
-      "description": "Large language model (LLM) agents accumulate rich episodic trajectories while solving real-world tasks, but it remains unclear whether such experience can be distilled into reusable procedural skills.",
-      "published": "2026-05-21T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 10,
       "is_new": false
     },
     {
@@ -1306,7 +1306,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "96f157c6ce9a525a7bc473174a3db57b",
@@ -1318,7 +1318,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "f2c5d9ca1e265d0178d929a464db4dc7",
@@ -1548,7 +1548,7 @@
         "category": "news",
         "points": 1,
         "comments": 0,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "48283348",
@@ -1562,7 +1562,7 @@
         "category": "news",
         "points": 1,
         "comments": 0,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "4cca4ffcd1e400cd848f8ab0e22d97f9",
