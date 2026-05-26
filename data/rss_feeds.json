@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-26T04:32:25.746633+00:00",
+  "last_updated": "2026-05-26T08:41:50.276140+00:00",
   "total_entries": 110,
-  "new_entries": 1,
+  "new_entries": 17,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,6 +768,20 @@
       "is_new": false
     },
     {
+      "id": "48275638",
+      "title": "Multi-Agent LLM Orchestration with Docker Compose and MCP",
+      "url": "https://github.com/PacktPublishing/Operational-AI-with-Docker",
+      "description": "",
+      "published": "2026-05-26T06:07:06Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "48274410",
       "title": "GitHub commit Verification logic flaw and bypass",
       "url": "https://news.ycombinator.com/item?id=48274410",
@@ -822,6 +836,58 @@
       "is_new": false
     },
     {
+      "id": "475733a7a4e0b3b159600c04350c1a75",
+      "title": "Anticipate and Learn: Unleashing Idle-Time Compute in Proactive Agents",
+      "url": "https://huggingface.co/papers/2605.25971",
+      "description": "While AI agents demonstrate remarkable capabilities in reasoning and tool use, they remain fundamentally reactive: they compute responses only after explicit user prompts. This paradigm ignores a crit",
+      "published": "2026-05-24T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 8,
+      "is_new": true
+    },
+    {
+      "id": "3fc45505ce45370d1c1ca556de714577",
+      "title": "InstructSAM: Segment Any Instance with Any Instructions",
+      "url": "https://huggingface.co/papers/2605.26102",
+      "description": "In this paper, we introduce InstructSAM, a unified and streamlined framework designed for multi-instance segmentation under arbitrary instructions. We formulates instruction-driven instance segmentati",
+      "published": "2026-05-24T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 7,
+      "is_new": true
+    },
+    {
+      "id": "2f32ad01bc1cedb424afa1238876ec11",
+      "title": "Pixel-Level Pavement Distress Assessment Using Instance Segmentation",
+      "url": "https://huggingface.co/papers/2605.26095",
+      "description": "Automated pavement distress assessment requires more than image-level classification or coarse bounding box detection, demanding precise localization of thin, branching, and irregular cracks to achiev",
+      "published": "2026-05-24T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "33db478f42425d42bf8b78ffa0c326c0",
+      "title": "Reinforcing Few-step Generators via Reward-Tilted Distribution Matching",
+      "url": "https://huggingface.co/papers/2605.26108",
+      "description": "Recent advances in few-step diffusion distillation have enabled efficient image generation, yet aligning these models with human preferences remains challenging. We propose Reward-Tilted Distribution ",
+      "published": "2026-05-24T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
       "id": "fc013d4251223005d89f77a7f7a98069",
       "title": "ControlLight: Towards Controllable, Consistent, and Generalizable Low-Light Enhancement",
       "url": "https://huggingface.co/papers/2605.25569",
@@ -831,7 +897,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 10,
       "is_new": true
     },
     {
@@ -844,7 +910,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -857,7 +923,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
+      "likes": 12,
       "is_new": false
     },
     {
@@ -870,111 +936,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "568d205780f0d0dfb63ee998597274bc",
-      "title": "TriSplat: Simulation-Ready Feed-Forward 3D Scene Reconstruction",
-      "url": "https://huggingface.co/papers/2605.26115",
-      "description": "Sparse-view 3D reconstruction is increasingly addressed with feed-forward splatting networks that predict explicit primitives directly from images. Yet most existing methods remain centered on Gaussia",
-      "published": "2026-05-24T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 12,
-      "is_new": false
-    },
-    {
-      "id": "f37df0e786640a9d4d8270e758e7705f",
-      "title": "WBench: A Comprehensive Multi-turn Benchmark for Interactive Video World Model Evaluation",
-      "url": "https://huggingface.co/papers/2605.25874",
-      "description": "Interactive world models are advancing rapidly, yet existing benchmarks cover only part of the required competencies, leaving no unified standard for systematic evaluation. To fill this gap, we introd",
-      "published": "2026-05-24T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 39,
-      "is_new": false
-    },
-    {
-      "id": "fcee63cb9e8fa54caa4aaef9138a85b2",
-      "title": "Claw-Anything: Benchmarking Always-On Personal Assistants with Broader Access to User's Digital World",
-      "url": "https://huggingface.co/papers/2605.26086",
-      "description": "Large language model agents are increasingly envisioned as always-on personal assistants with access to anything relevant in the user's digital world. Yet current systems operate over only narrow slic",
-      "published": "2026-05-24T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 8,
-      "is_new": false
-    },
-    {
-      "id": "fd681599725eaa4ba21cb91adefca47a",
-      "title": "SemBridge: Language Transfer in Sparse Encoders via Multilingual Semantic Bridges",
-      "url": "https://huggingface.co/papers/2605.26002",
-      "description": "Sparse encoders offer high-precision retrieval by representing term importance within a vocabulary space, yet their English-centric structures pose a critical impediment to language transfer for non-E",
-      "published": "2026-05-24T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "c730a349002b1c1b309739c7833907f7",
-      "title": "Toward Native Multimodal Modeling: A Roadmap",
-      "url": "https://huggingface.co/papers/2605.25343",
-      "description": "Multimodal modeling represents a vital step from modality-agnostic reasoning toward world modeling. While early approaches predominantly rely on late-fusion that assembles encoders and frozen language",
-      "published": "2026-05-24T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 10,
-      "is_new": false
-    },
-    {
-      "id": "5c44ca15996fb450a848a61ce5b7e863",
-      "title": "DVAO: Dynamic Variance-adaptive Advantage Optimization for Multi-reward Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2605.25604",
-      "description": "Reinforcement Learning has become a standard paradigm for aligning Large Language Models with human intent and task requirements. While Group Relative Policy Optimization offers an efficient, value-mo",
-      "published": "2026-05-24T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 41,
-      "is_new": false
-    },
-    {
-      "id": "2e7739df51f0f9e2086cdf159418d3f8",
-      "title": "Pantheon360: Taming Digital Twin Generation via 3D-Aware 360° Video Diffusion",
-      "url": "https://huggingface.co/papers/2605.25449",
-      "description": "Generating complete digital twins from videos requires precise camera control, global scene coverage, and strict spatial-temporal consistency constraints that remain challenging for perspective video ",
-      "published": "2026-05-24T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 12,
-      "is_new": false
-    },
-    {
-      "id": "6c20ae62e2fc9f04b282358ca0fd642b",
-      "title": "MetaphorVU: Towards Metaphorical Video Understanding",
-      "url": "https://huggingface.co/papers/2605.25461",
-      "description": "Metaphorical videos are prevalent across various real-world scenarios to convey complex ideas, and understanding them typically requires high-order cognitive capabilities. The lack of systematic studi",
-      "published": "2026-05-24T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
+      "likes": 5,
       "is_new": false
     },
     {
@@ -1006,56 +968,30 @@
       "is_new": false
     },
     {
-      "id": "6c295025a307cea3e3508b76fcd8bbc2",
-      "title": "ClaimDiff-RL: Fine-Grained Caption Reinforcement Learning through Visual Claim Comparison",
-      "url": "https://huggingface.co/papers/2605.20278",
-      "description": "Long-form image captioning exposes a reward granularity problem in RL: captions are judged as whole sequences, while the important errors occur at the level of individual visual claims. A good dense c",
+      "id": "1f7de898a30798ce1c33504748ebef73",
+      "title": "SimuWoB: Simulating Real-World Mobile Apps for Fast and Faithful GUI Agent Benchmarking",
+      "url": "https://huggingface.co/papers/2605.25160",
+      "description": "Mobile GUI agents powered by large language models have progressed rapidly, creating urgent needs for realistic and comprehensive evaluation. Existing benchmarks prioritize reproducibility but are oft",
       "published": "2026-05-23T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
-      "is_new": false
+      "likes": 1,
+      "is_new": true
     },
     {
-      "id": "bc9cda862f31fc987fc56773ba82caa7",
-      "title": "Macaron-A2UI: A Model for Generative UI in Personal Agents",
-      "url": "https://huggingface.co/papers/2605.24830",
-      "description": "As personal agents evolve to handle complex, user-centric tasks, static plain-text chat is rapidly becoming a bottleneck. Generative UI emerges as the necessary new interface layer, dynamically synthe",
+      "id": "a80a4d386ce08cd12766649e627a65ca",
+      "title": "Faithfulness Metrics Don't Measure Faithfulness: A Meta-Evaluation with Ground Truth",
+      "url": "https://huggingface.co/papers/2605.25052",
+      "description": "Chains of thought (CoTs) have become central in interpreting and auditing behaviors of large language models. Yet growing evidence suggests that these traces often fail to faithfully represent the com",
       "published": "2026-05-23T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 35,
-      "is_new": false
-    },
-    {
-      "id": "5ba3082e613d1e4ab13bd3b5f810f933",
-      "title": "Geometry-Aware Image Flow Matching",
-      "url": "https://huggingface.co/papers/2605.25294",
-      "description": "Recent advances in generative models highlight the power of geometry-aware modeling in manifold-constrained settings. Yet, for natural images, the field remains confined to Euclidean assumptions, fail",
-      "published": "2026-05-23T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 7,
-      "is_new": false
-    },
-    {
-      "id": "80389f4005a370effc26e80a062741bd",
-      "title": "Your Embedding Model is SMARTer Than You Think",
-      "url": "https://huggingface.co/papers/2605.24938",
-      "description": "Multimodal retrieval relies heavily on single-vector retrievers, which compress rich, sequential token sequences into one single global representation. While efficient, they discard fine-grained, loca",
-      "published": "2026-05-23T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 13,
-      "is_new": false
+      "likes": 2,
+      "is_new": true
     },
     {
       "id": "48248801",
@@ -1086,17 +1022,17 @@
       "is_new": false
     },
     {
-      "id": "e91ae08f8752e455a672158c13407697",
-      "title": "VaaWIT: Visual-Aware Adaptation of Large Language Models for Multilingual Web Image Translation",
-      "url": "https://huggingface.co/papers/2605.24675",
-      "description": "Translating text embedded in Web images is crucial for improving content accessibility and cross-lingual information retrieval, particularly within social media and e-commerce domains. Although Large ",
+      "id": "e5c796b46206e1f6a478f8d570db04b4",
+      "title": "SEAL: Synergistic Co-Evolution of Agents and Learning Environments",
+      "url": "https://huggingface.co/papers/2605.24426",
+      "description": "Large Language Model (LLM) agents are increasingly improved through interaction, yet most self-evolution methods adapt either the policy or the learning environment in isolation. We identify this stru",
       "published": "2026-05-22T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
-      "is_new": false
+      "likes": 2,
+      "is_new": true
     },
     {
       "id": "b01ec93d479b0e4be8a0bb71f5ab2e23",
@@ -1197,6 +1133,84 @@
       "is_new": false
     },
     {
+      "id": "67c3fe2246496386d57bc49edf15d9c4",
+      "title": "CRONOS: Benchmarking Counterfactual Physical Consistency in Video Models",
+      "url": "https://huggingface.co/papers/2605.23699",
+      "description": "Video prediction is increasingly viewed as a path toward generalizable world models, yet it remains unclear whether these systems learn underlying causal structure or merely exploit superficial visual",
+      "published": "2026-05-21T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "4d1b7c38d8614172d8bd6cb4cfab5bf8",
+      "title": "HorizonStream: Long-Horizon Attention for Streaming 3D Reconstruction",
+      "url": "https://huggingface.co/papers/2605.23889",
+      "description": "Online 3D reconstruction requires estimating camera pose and scene geometry under strict causal and bounded-memory constraints. Existing methods often suffer from drift, jitter, or collapse on long se",
+      "published": "2026-05-21T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "ef60547cc4fb42b9105f7175d06a7cb4",
+      "title": "Coloring the Noise: Adversarial Sobolev Alignment for Faithful Image Super Resolution",
+      "url": "https://huggingface.co/papers/2605.23264",
+      "description": "Generative priors in Image Super-Resolution (SR) often compromise faithful restoration, we attribute this limitation to a fundamental spectral misalignment between isotropic objectives and the intrins",
+      "published": "2026-05-21T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "8892e9ddc571b87d5ef897356d0e5140",
+      "title": "Decoding the Critique Mechanism in Large Reasoning Models",
+      "url": "https://huggingface.co/papers/2603.16331",
+      "description": "Large Reasoning Models (LRMs) exhibit backtracking and self-verification mechanisms that enable them to revise intermediate steps and reach correct solutions, yielding strong performance on complex lo",
+      "published": "2026-05-21T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "23dec0758c424419a60708f0fc39e6f2",
+      "title": "SkillEvolBench: Benchmarking the Evolution from Episodic Experience to Procedural Skills",
+      "url": "https://huggingface.co/papers/2605.24117",
+      "description": "Large language model (LLM) agents accumulate rich episodic trajectories while solving real-world tasks, but it remains unclear whether such experience can be distilled into reusable procedural skills.",
+      "published": "2026-05-21T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 10,
+      "is_new": true
+    },
+    {
+      "id": "9bf95239aa404173909b5d09887fdc95",
+      "title": "QUEST: Training Frontier Deep Research Agents with Fully Synthetic Tasks",
+      "url": "https://huggingface.co/papers/2605.24218",
+      "description": "Deep research agents extend the role of search engines from retrieving keyword-matched pages to synthesizing knowledge, fundamentally changing how humans interact with information. However, frontier s",
+      "published": "2026-05-21T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 18,
+      "is_new": true
+    },
+    {
       "id": "0e51924cfc84a274f04625853b6436ee",
       "title": "Foundation Protocol: A Coordination Layer for Agentic Society",
       "url": "https://huggingface.co/papers/2605.23218",
@@ -1206,20 +1220,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 15,
-      "is_new": false
-    },
-    {
-      "id": "2869ff99dd1f3faf6558f5662fb37f8c",
-      "title": "AutoResearch AI: Towards AI-Powered Research Automation for Scientific Discovery",
-      "url": "https://huggingface.co/papers/2605.23204",
-      "description": "Scientific research is being reshaped by AI systems that move beyond isolated assistance toward longer-horizon workflows spanning literature grounding, hypothesis generation, experimentation, validati",
-      "published": "2026-05-21T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 15,
+      "likes": 50,
       "is_new": false
     },
     {
@@ -1232,8 +1233,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 96,
-      "comments": 106,
+      "points": 97,
+      "comments": 107,
       "is_new": false
     },
     {
@@ -1894,6 +1895,20 @@
         "is_new": false
       },
       {
+        "id": "48275638",
+        "title": "Multi-Agent LLM Orchestration with Docker Compose and MCP",
+        "url": "https://github.com/PacktPublishing/Operational-AI-with-Docker",
+        "description": "",
+        "published": "2026-05-26T06:07:06Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 2,
+        "comments": 0,
+        "is_new": true
+      },
+      {
         "id": "48274410",
         "title": "GitHub commit Verification logic flaw and bypass",
         "url": "https://news.ycombinator.com/item?id=48274410",
@@ -2009,18 +2024,6 @@
         "url": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
         "description": "Last year I deepfaked my kid's stuffed animal to make it look like his plush deer was on vacation. It was an experiment to see if I could re-create the events depicted in a Gemini ad Google was runnin",
         "published": "2026-05-22T19:49:26-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "955ca9a5f55f1ce3cf222e3f07200b06",
-        "title": "Google&#8217;s AI search is so broken it can &#8216;disregard&#8217; what you&#8217;re looking for",
-        "url": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
-        "description": "Google's AI Overviews are running into an interesting problem right now. Earlier on Friday, if you searched for the term \"disregard,\" the AI Overview section would include a response like what you'd s",
-        "published": "2026-05-22T19:08:29-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
