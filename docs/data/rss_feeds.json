@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-26T21:56:52.965278+00:00",
+  "last_updated": "2026-05-26T23:21:13.949254+00:00",
   "total_entries": 110,
-  "new_entries": 1,
+  "new_entries": 4,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,6 +47,18 @@
     }
   ],
   "entries": [
+    {
+      "id": "1e2ebecf46ce42536e7ad3acebf10eef",
+      "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
+      "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+      "description": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way out.",
+      "published": "Tue, 26 May 2026 22:32:56 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "1ab37a271eb8379c8f747a9458125abe",
       "title": "OpenRouter more than doubles valuation to $1.3B in a year",
@@ -576,18 +588,6 @@
       "is_new": false
     },
     {
-      "id": "00d321dd1852239765eca2705a20b518",
-      "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
-      "url": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
-      "description": "Spotify is partnering with  Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a share of the revenue.",
-      "published": "Thu, 21 May 2026 19:45:00 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "a1acbef14ea22c9cc246a0a873845f28",
       "title": "Everyone is navigating AI security in real time — even Google",
       "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
@@ -598,6 +598,18 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "e723064f8654d7c85752ed4d07be5d28",
+      "title": "Xreal, Google’s smart glasses partner, thinks it has finally mastered this notoriously tricky industry",
+      "url": "https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/",
+      "description": "Chi Xu, the founder and CEO of Xreal, thinks the smart glasses business has finally reached a turning point.",
+      "published": "Sun, 24 May 2026 19:00:00 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "8907bc01316042624e01bea7e0d251ea",
@@ -749,18 +761,6 @@
       "url": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
       "description": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view.",
       "published": "Fri, 22 May 2026 15:37:15 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "50ff72bb6a1d8d5d88590f2c74b21bbd",
-      "title": "SpaceX files to go public, and the math requires a little faith",
-      "url": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
-      "description": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a $28 trillion total",
-      "published": "Fri, 22 May 2026 14:30:00 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
@@ -1200,19 +1200,6 @@
       "is_new": false
     },
     {
-      "id": "8892e9ddc571b87d5ef897356d0e5140",
-      "title": "Decoding the Critique Mechanism in Large Reasoning Models",
-      "url": "https://huggingface.co/papers/2603.16331",
-      "description": "Large Reasoning Models (LRMs) exhibit backtracking and self-verification mechanisms that enable them to revise intermediate steps and reach correct solutions, yielding strong performance on complex lo",
-      "published": "2026-05-21T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
-      "is_new": false
-    },
-    {
       "id": "48225596",
       "title": "Show HN: Agent.email – sign up via curl, claim with a human OTP",
       "url": "https://news.ycombinator.com/item?id=48225596",
@@ -1281,6 +1268,19 @@
       "is_new": false
     },
     {
+      "id": "c78096071af02fb0ce68303be569eb35",
+      "title": "MotiMotion: Motion-Controlled Video Generation with Visual Reasoning",
+      "url": "https://huggingface.co/papers/2605.22818",
+      "description": "Current motion-controlled image-to-video generation models rigidly follow user-provided trajectories that are often sparse, imprecise, and causally incomplete. Such reliance often yields unnatural or ",
+      "published": "2026-05-20T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "fad90319fc89044f07b1c7e34f187c17",
       "title": "Representation over Routing: Overcoming Surrogate Hacking in Multi-Timescale PPO",
       "url": "https://huggingface.co/papers/2604.13517",
@@ -1296,6 +1296,18 @@
   ],
   "by_category": {
     "news": [
+      {
+        "id": "1e2ebecf46ce42536e7ad3acebf10eef",
+        "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
+        "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+        "description": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way out.",
+        "published": "Tue, 26 May 2026 22:32:56 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "1ab37a271eb8379c8f747a9458125abe",
         "title": "OpenRouter more than doubles valuation to $1.3B in a year",
@@ -1345,18 +1357,6 @@
         "is_new": false
       },
       {
-        "id": "00d321dd1852239765eca2705a20b518",
-        "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
-        "url": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
-        "description": "Spotify is partnering with  Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a share of the revenue.",
-        "published": "Thu, 21 May 2026 19:45:00 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
         "id": "a1acbef14ea22c9cc246a0a873845f28",
         "title": "Everyone is navigating AI security in real time — even Google",
         "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
@@ -1367,6 +1367,18 @@
         "source_icon": "📰",
         "category": "news",
         "is_new": false
+      },
+      {
+        "id": "e723064f8654d7c85752ed4d07be5d28",
+        "title": "Xreal, Google’s smart glasses partner, thinks it has finally mastered this notoriously tricky industry",
+        "url": "https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/",
+        "description": "Chi Xu, the founder and CEO of Xreal, thinks the smart glasses business has finally reached a turning point.",
+        "published": "Sun, 24 May 2026 19:00:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
       },
       {
         "id": "8907bc01316042624e01bea7e0d251ea",
@@ -1518,18 +1530,6 @@
         "url": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
         "description": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view.",
         "published": "Fri, 22 May 2026 15:37:15 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "50ff72bb6a1d8d5d88590f2c74b21bbd",
-        "title": "SpaceX files to go public, and the math requires a little faith",
-        "url": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
-        "description": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a $28 trillion total",
-        "published": "Fri, 22 May 2026 14:30:00 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
