@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-28T10:14:14.059538+00:00",
+  "last_updated": "2026-05-28T12:43:34.746091+00:00",
   "total_entries": 110,
-  "new_entries": 19,
+  "new_entries": 4,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -192,10 +192,10 @@
       "is_new": false
     },
     {
-      "id": "595d59529625167c00f7a516948f447c",
-      "title": "Robinhood now lets your AI agents trade stocks",
-      "url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
-      "description": "While these agents would be able to read and analyze users' portfolios to come up with trading strategies and suggest investments, they'll only be able to access the pre-loaded balance in the dedicate",
+      "id": "d43d303538df77a831ab107671f0ba04",
+      "title": "Tech CEOs are apparently suffering from AI psychosis",
+      "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+      "description": "\"CEOs are uniquely prone to AI psychosis,\" Box CEO Aaron Levie opines. Maybe that explains the almost religious belief in AI productivity gains.",
       "published": "Wed, 27 May 2026 12:30:00 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
@@ -204,10 +204,10 @@
       "is_new": false
     },
     {
-      "id": "d43d303538df77a831ab107671f0ba04",
-      "title": "Tech CEOs are apparently suffering from AI psychosis",
-      "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
-      "description": "\"CEOs are uniquely prone to AI psychosis,\" Box CEO Aaron Levie opines. Maybe that explains the almost religious belief in AI productivity gains.",
+      "id": "595d59529625167c00f7a516948f447c",
+      "title": "Robinhood now lets your AI agents trade stocks",
+      "url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
+      "description": "While these agents would be able to read and analyze users' portfolios to come up with trading strategies and suggest investments, they'll only be able to access the pre-loaded balance in the dedicate",
       "published": "Wed, 27 May 2026 12:30:00 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
@@ -273,7 +273,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "efa51fc32d2a660331a872881d5fa01a",
@@ -768,6 +768,20 @@
       "is_new": false
     },
     {
+      "id": "48307438",
+      "title": "Show HN: Local Coding Agent with LLMs to Delegate Tool Calls to Small AI Models",
+      "url": "https://github.com/district-solutions/open-agent-tools-coder",
+      "description": "",
+      "published": "2026-05-28T11:25:20Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "1124afc5e505d785a6b8b484fd0ec54f",
       "title": "YouTube will let you ask AI to make a custom video feed",
       "url": "https://www.theverge.com/streaming/938759/youtube-custom-ai-feed-prompt-availability",
@@ -777,7 +791,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "48303937",
@@ -934,6 +948,19 @@
       "is_new": false
     },
     {
+      "id": "9f4334cbc91763b1018a412ee8d73940",
+      "title": "Efficient and Scalable Provenance Tracking for LLM-Generated Code Snippets",
+      "url": "https://huggingface.co/papers/2605.28510",
+      "description": "Large language models (LLMs) for code completion and generation are increasingly used in software development, yet they may reproduce training examples verbatim and without authorship attribution, rai",
+      "published": "2026-05-26T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "b40fdba08633071a093f6a080490e019",
       "title": "Revealing Algorithmic Deductive Circuits for Logical Reasoning",
       "url": "https://huggingface.co/papers/2605.27824",
@@ -944,7 +971,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "5cdc405709a40397502c9f9bce2b60fc",
@@ -957,7 +984,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "5f2e3002c7689b2f6c9f95bbc5412ed7",
@@ -970,7 +997,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3652469cd64dfbd0a11903c0be2d2b7c",
@@ -982,8 +1009,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 29,
-      "is_new": true
+      "likes": 30,
+      "is_new": false
     },
     {
       "id": "92931ca40918d969c9204d8b822449fb",
@@ -995,8 +1022,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
-      "is_new": true
+      "likes": 3,
+      "is_new": false
     },
     {
       "id": "2f96a40b416851baf58b45483829d121",
@@ -1008,8 +1035,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 69,
-      "is_new": true
+      "likes": 72,
+      "is_new": false
     },
     {
       "id": "7dbd5fdc84bfb5c581da0d2210bd01e6",
@@ -1021,8 +1048,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 15,
-      "is_new": true
+      "likes": 16,
+      "is_new": false
     },
     {
       "id": "ce0efa41fa42ad8afdee064afa16c1e7",
@@ -1035,32 +1062,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 32,
-      "is_new": true
-    },
-    {
-      "id": "1df9d807eee96892772738b15b79bd51",
-      "title": "GEM: Generative Supervision Helps Embodied Intelligence",
-      "url": "https://huggingface.co/papers/2605.28548",
-      "description": "Embodied Vision-Language Models (VLMs) have demonstrated impressive performance and generalization in robotics, particularly within Vision-Language-Action frameworks. However, a significant gap remain",
-      "published": "2026-05-26T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 27,
-      "is_new": false
-    },
-    {
-      "id": "4f8952992b7db09cc8cd3c42b7e4ad46",
-      "title": "Long Live The Balance: Information Bottleneck Driven Tree-based Policy Optimization",
-      "url": "https://huggingface.co/papers/2605.28109",
-      "description": "Recent advances in online reinforcement learning (RL) for large language models (LLMs) have demonstrated promising performance in complex reasoning tasks. However, they often exhibit an imbalanced exp",
-      "published": "2026-05-26T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 14,
       "is_new": false
     },
     {
@@ -1144,6 +1145,19 @@
       "is_new": false
     },
     {
+      "id": "7177bae24e5c0492540aa424150c1f67",
+      "title": "GradSentry: Gradient Spectral Entropy for Backdoor Sample Filtering in Large Language Model Fine-Tuning",
+      "url": "https://huggingface.co/papers/2605.26574",
+      "description": "Fine-tuning Large Language Models with untrusted data exposes models to backdoor attacks, where poisoned samples cause targeted misbehavior. Existing sample-filtering defenses rely on clustering, whic",
+      "published": "2026-05-25T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 6,
+      "is_new": true
+    },
+    {
       "id": "99834e89323e5e28d28b3d9f971a5531",
       "title": "GE-Sim 2.0: A Roadmap Towards Comprehensive Closed-loop Video World Simulators for Robotic Manipulation",
       "url": "https://huggingface.co/papers/2605.27491",
@@ -1153,8 +1167,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
-      "is_new": true
+      "likes": 12,
+      "is_new": false
     },
     {
       "id": "9e905bef977fae5e6e5a317b90e9996e",
@@ -1166,8 +1180,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
-      "is_new": true
+      "likes": 8,
+      "is_new": false
     },
     {
       "id": "c3ad9d905f124bc03db50a9d1b7963c0",
@@ -1180,7 +1194,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 11,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "009cf34c4a1c93f4b935c008143021e5",
@@ -1193,7 +1207,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "04089a07360ced8970c1dd2596647859",
@@ -1205,7 +1219,20 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 4,
+      "is_new": false
+    },
+    {
+      "id": "17ee5b51896cd277c876a810f26ccb00",
+      "title": "Everything at Every Scale: Scale-Invariant Diffusion with Continuous Super-Resolution",
+      "url": "https://huggingface.co/papers/2605.26032",
+      "description": "Creating images from noise is image generation; reconstructing fine details from coarse inputs is super-resolution. Despite their practical differences, both can be understood as reversing information",
+      "published": "2026-05-24T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
       "is_new": true
     },
     {
@@ -1218,8 +1245,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 15,
-      "is_new": true
+      "likes": 16,
+      "is_new": false
     },
     {
       "id": "422dbb9777034474433c258ff273c9b1",
@@ -1231,8 +1258,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 11,
-      "is_new": true
+      "likes": 14,
+      "is_new": false
     },
     {
       "id": "c929610fa47731860c240041116f59c5",
@@ -1245,19 +1272,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": true
-    },
-    {
-      "id": "6effd4561601ba0d0835ce4c12764315",
-      "title": "ScientistOne: Towards Human-Level Autonomous Research via Chain-of-Evidence",
-      "url": "https://huggingface.co/papers/2605.26340",
-      "description": "Autonomous research agents produce competitive solutions and professional-looking manuscripts, yet their outputs contain verifiability failures undetectable by surface-level evaluation: fabricated cit",
-      "published": "2026-05-24T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 21,
       "is_new": false
     },
     {
@@ -1272,20 +1286,6 @@
       "category": "news",
       "points": 1,
       "comments": 1,
-      "is_new": false
-    },
-    {
-      "id": "48256017",
-      "title": "Show HN: My first app, artisanally vibe-coded in 4 months",
-      "url": "https://mijn-travelly.nl/en/",
-      "description": "",
-      "published": "2026-05-24T10:07:13Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 3,
-      "comments": 4,
       "is_new": false
     }
   ],
@@ -1436,10 +1436,10 @@
         "is_new": false
       },
       {
-        "id": "595d59529625167c00f7a516948f447c",
-        "title": "Robinhood now lets your AI agents trade stocks",
-        "url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
-        "description": "While these agents would be able to read and analyze users' portfolios to come up with trading strategies and suggest investments, they'll only be able to access the pre-loaded balance in the dedicate",
+        "id": "d43d303538df77a831ab107671f0ba04",
+        "title": "Tech CEOs are apparently suffering from AI psychosis",
+        "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+        "description": "\"CEOs are uniquely prone to AI psychosis,\" Box CEO Aaron Levie opines. Maybe that explains the almost religious belief in AI productivity gains.",
         "published": "Wed, 27 May 2026 12:30:00 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
@@ -1448,10 +1448,10 @@
         "is_new": false
       },
       {
-        "id": "d43d303538df77a831ab107671f0ba04",
-        "title": "Tech CEOs are apparently suffering from AI psychosis",
-        "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
-        "description": "\"CEOs are uniquely prone to AI psychosis,\" Box CEO Aaron Levie opines. Maybe that explains the almost religious belief in AI productivity gains.",
+        "id": "595d59529625167c00f7a516948f447c",
+        "title": "Robinhood now lets your AI agents trade stocks",
+        "url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
+        "description": "While these agents would be able to read and analyze users' portfolios to come up with trading strategies and suggest investments, they'll only be able to access the pre-loaded balance in the dedicate",
         "published": "Wed, 27 May 2026 12:30:00 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
@@ -1517,7 +1517,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "efa51fc32d2a660331a872881d5fa01a",
@@ -1532,6 +1532,20 @@
         "is_new": false
       },
       {
+        "id": "48307438",
+        "title": "Show HN: Local Coding Agent with LLMs to Delegate Tool Calls to Small AI Models",
+        "url": "https://github.com/district-solutions/open-agent-tools-coder",
+        "description": "",
+        "published": "2026-05-28T11:25:20Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 2,
+        "comments": 0,
+        "is_new": true
+      },
+      {
         "id": "1124afc5e505d785a6b8b484fd0ec54f",
         "title": "YouTube will let you ask AI to make a custom video feed",
         "url": "https://www.theverge.com/streaming/938759/youtube-custom-ai-feed-prompt-availability",
@@ -1541,7 +1555,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "48303937",
@@ -1639,18 +1653,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/937933/pope-ai-encyclical-tech-industry-reactions",
         "description": "On Monday, Pope Leo XIV unveiled an encyclical letter addressing the societal implications of artificial intelligence. The letter, titled Magnifica Humanitas, warned that the \"use of AI is never a pur",
         "published": "2026-05-27T07:42:58-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "48cae240bbcd090ac7ff6e5e6692b5e3",
-        "title": "YouTube is putting AI labels where you’ll actually see them",
-        "url": "https://www.theverge.com/streaming/937915/youtube-ai-labels-shorts-automatic-identification-updates",
-        "description": "In the wake of Google expanding its AI verification efforts at I/O, YouTube is now finally going to start taking AI labeling seriously. YouTube has announced that it's relocating AI disclosures on Sho",
-        "published": "2026-05-27T06:13:41-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
