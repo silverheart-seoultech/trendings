@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-28T04:36:36.946085+00:00",
+  "last_updated": "2026-05-28T08:51:53.778782+00:00",
   "total_entries": 110,
-  "new_entries": 3,
+  "new_entries": 19,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -192,10 +192,10 @@
       "is_new": false
     },
     {
-      "id": "d43d303538df77a831ab107671f0ba04",
-      "title": "Tech CEOs are apparently suffering from AI psychosis",
-      "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
-      "description": "\"CEOs are uniquely prone to AI psychosis,\" Box CEO Aaron Levie opines. Maybe that explains the almost religious belief in AI productivity gains.",
+      "id": "595d59529625167c00f7a516948f447c",
+      "title": "Robinhood now lets your AI agents trade stocks",
+      "url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
+      "description": "While these agents would be able to read and analyze users' portfolios to come up with trading strategies and suggest investments, they'll only be able to access the pre-loaded balance in the dedicate",
       "published": "Wed, 27 May 2026 12:30:00 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
@@ -204,10 +204,10 @@
       "is_new": false
     },
     {
-      "id": "595d59529625167c00f7a516948f447c",
-      "title": "Robinhood now lets your AI agents trade stocks",
-      "url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
-      "description": "While these agents would be able to read and analyze users' portfolios to come up with trading strategies and suggest investments, they'll only be able to access the pre-loaded balance in the dedicate",
+      "id": "d43d303538df77a831ab107671f0ba04",
+      "title": "Tech CEOs are apparently suffering from AI psychosis",
+      "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+      "description": "\"CEOs are uniquely prone to AI psychosis,\" Box CEO Aaron Levie opines. Maybe that explains the almost religious belief in AI productivity gains.",
       "published": "Wed, 27 May 2026 12:30:00 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
@@ -264,16 +264,16 @@
       "is_new": false
     },
     {
-      "id": "bd0bc3af924133566fe4f75805029f39",
-      "title": "TechCrunch Disrupt 2026 Early Bird ticket rates end May 29",
-      "url": "https://techcrunch.com/2026/05/26/techcrunch-disrupt-2026-early-bird-ticket-rates-end-may-29/",
-      "description": "Save up to $410 on your TechCrunch Disrupt 2026 pass before prices increase on May 29 at 11:59 p.m. PT. Register here to join the tech epicenter in San Francisco.",
-      "published": "Tue, 26 May 2026 14:00:00 +0000",
+      "id": "b16689dc6815e82797fa0a7804d32aec",
+      "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
+      "url": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
+      "description": "Built on top of the open-source Hermes project, Vertu's new foldable combines AI-agent workflows, enterprise integrations, and ultra-premium luxury finishes.",
+      "published": "Thu, 28 May 2026 07:00:00 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "efa51fc32d2a660331a872881d5fa01a",
@@ -768,6 +768,18 @@
       "is_new": false
     },
     {
+      "id": "1124afc5e505d785a6b8b484fd0ec54f",
+      "title": "YouTube will let you ask AI to make a custom video feed",
+      "url": "https://www.theverge.com/streaming/938759/youtube-custom-ai-feed-prompt-availability",
+      "description": "YouTube is launching a new AI feature that creates a personalized video feed based on descriptions of what you want to watch. In its announcement, YouTube says custom content feeds can be built around",
+      "published": "2026-05-28T04:49:07-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "48303937",
       "title": "Popular LLM software hit by critical vulnerability in Python package Starlette",
       "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
@@ -922,6 +934,84 @@
       "is_new": false
     },
     {
+      "id": "b40fdba08633071a093f6a080490e019",
+      "title": "Revealing Algorithmic Deductive Circuits for Logical Reasoning",
+      "url": "https://huggingface.co/papers/2605.27824",
+      "description": "Recent studies have shown that Large Language Models (LLMs) can achieve strong reasoning performance by incorporating functional symbolic representations that abstractly describe graph traversal algor",
+      "published": "2026-05-26T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "5cdc405709a40397502c9f9bce2b60fc",
+      "title": "Clark Hash: Stateless Sparse Johnson-Lindenstrauss Quantization for Neural Embeddings",
+      "url": "https://huggingface.co/papers/2605.28034",
+      "description": "Clark Hash is a small method for storing neural embeddings in less space. It normalizes each database vector, applies a deterministic sparse signed Johnson-Lindenstrauss projection, clips the result, ",
+      "published": "2026-05-26T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "5f2e3002c7689b2f6c9f95bbc5412ed7",
+      "title": "ESC-Skills: Discovering and Self-Evolving Skills for Emotional Support Conversations",
+      "url": "https://huggingface.co/papers/2605.27908",
+      "description": "Existing emotional support conversation (ESC) systems mainly rely on end-to-end response generation or coarse strategy supervision, offering limited interpretability and little support for systematic ",
+      "published": "2026-05-26T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "3652469cd64dfbd0a11903c0be2d2b7c",
+      "title": "DenoiseRL: Bootstrapping Reasoning Models to Recover from Noisy Prefixes",
+      "url": "https://huggingface.co/papers/2605.28421",
+      "description": "Reinforcement learning has become a central paradigm for advancing reasoning in large language models, yet most existing methods still depend on stronger teacher models or heavily curated difficult da",
+      "published": "2026-05-26T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 23,
+      "is_new": true
+    },
+    {
+      "id": "92931ca40918d969c9204d8b822449fb",
+      "title": "PEFT-Arena: Understanding Parameter-Efficient Finetuning from a Stability-Plasticity Perspective",
+      "url": "https://huggingface.co/papers/2605.28819",
+      "description": "Parameter-efficient finetuning (PEFT) has become the standard approach for adapting large language models, yet evaluations largely emphasize downstream accuracy while overlooking the retention of pret",
+      "published": "2026-05-26T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "2f96a40b416851baf58b45483829d121",
+      "title": "ProRL: Effective Reinforcement Learning for Proactive Recommendation via Rectified Policy Gradient Estimation",
+      "url": "https://huggingface.co/papers/2605.28293",
+      "description": "Proactive Recommender Systems (PRSs) aim to guide user preference shift toward target items by generating paths of intermediate recommendations. Reinforcement learning (RL) provides a principled frame",
+      "published": "2026-05-26T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 65,
+      "is_new": true
+    },
+    {
       "id": "7dbd5fdc84bfb5c581da0d2210bd01e6",
       "title": "Rethinking Memory as Continuously Evolving Connectivity",
       "url": "https://huggingface.co/papers/2605.28773",
@@ -931,7 +1021,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 13,
       "is_new": true
     },
     {
@@ -944,7 +1034,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
+      "likes": 30,
       "is_new": true
     },
     {
@@ -957,7 +1047,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 22,
+      "likes": 26,
       "is_new": false
     },
     {
@@ -970,163 +1060,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "3f44534686ebe8f176ec39559f23a894",
-      "title": "OmniVerifier-M1: Multimodal Meta-Verifier with Explicit Structured Recalibration",
-      "url": "https://huggingface.co/papers/2605.28805",
-      "description": "Visual outcomes are increasingly central to multimodal large language models, making reliable and fine-grained verification essential for scaling generalist foundation models. In this work, we investi",
-      "published": "2026-05-26T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 7,
-      "is_new": false
-    },
-    {
-      "id": "6151a9018cc230284bd0959e87941070",
-      "title": "LiveBrowseComp: Are Search Agents Searching, or Just Verifying What They Already Know?",
-      "url": "https://huggingface.co/papers/2605.28721",
-      "description": "Are LLM-based search agents genuinely searching, or using the web to verify what they already know? We study this question on BrowseComp with three diagnostics. Our analysis reveals Intrinsic Knowledg",
-      "published": "2026-05-26T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 7,
-      "is_new": false
-    },
-    {
-      "id": "939d37f6caa6244c4780613135b4c260",
-      "title": "AI Research Agents Narrow Scientific Exploration",
-      "url": "https://huggingface.co/papers/2605.27905",
-      "description": "AI research agents can now generate research ideas, design experiments, run code, and draft papers, raising the possibility of large-scale AI-assisted scientific discovery. Many current agent framewor",
-      "published": "2026-05-26T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "6082a7f1f48b34bc452576cd434e8ea4",
-      "title": "Joint Training of Multi-Token Prediction in Reinforcement Learning via Optimal Coefficient Calibration",
-      "url": "https://huggingface.co/papers/2605.28184",
-      "description": "Reinforcement Learning from Verifiable Rewards (RLVR) has emerged as the standard paradigm for improving reasoning capability of large language models, while Multi-Token Prediction (MTP) has been a wi",
-      "published": "2026-05-26T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
-      "is_new": false
-    },
-    {
-      "id": "25b8df5f78499c5e06fa47f5759d465c",
-      "title": "Learn from Weaknesses: Automated Domain Specialization for Small Computer-Use Agents",
-      "url": "https://huggingface.co/papers/2605.28775",
-      "description": "Computer-use agents (CUAs) have recently made substantial progress, but deploying a separate large expert for each software domain remains expensive. Small open computer-use agents are more practical ",
-      "published": "2026-05-26T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 5,
-      "is_new": false
-    },
-    {
-      "id": "d5651f6308858f183fb725488b3d26b2",
-      "title": "VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild",
-      "url": "https://huggingface.co/papers/2605.27882",
-      "description": "LLM-based agents score well on search benchmarks, yet real users consistently find results unsatisfying, revealing a persistent evaluation-experience gap. We attribute this gap to existing benchmarks'",
-      "published": "2026-05-26T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 5,
-      "is_new": false
-    },
-    {
-      "id": "b8efbbc7fd4100927ef0dbe989eb5f78",
-      "title": "Agent Explorative Policy Optimization for Multimodal Agentic Reasoning",
-      "url": "https://huggingface.co/papers/2605.28774",
-      "description": "Vision-language models with extended reasoning succeed on complex problems, but many real-world problems require external tools that internal reasoning alone often cannot resolve. Agentic reasoning th",
-      "published": "2026-05-26T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 31,
-      "is_new": false
-    },
-    {
-      "id": "c648de7119eeb5897d748008d657a7bb",
-      "title": "Self-Improving Language Models with Bidirectional Evolutionary Search",
-      "url": "https://huggingface.co/papers/2605.28814",
-      "description": "Search has been proposed as an effective method for self-improving language models and agentic systems, both for post-training sample generation and for inference. However, widely used methods such as",
-      "published": "2026-05-26T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 24,
-      "is_new": false
-    },
-    {
-      "id": "38c244d8fa04d26c25998bf55de49875",
-      "title": "HRBench: Benchmarking and Understanding Thinking-Mode Switch Strategies in Hybrid-Reasoning LLMs",
-      "url": "https://huggingface.co/papers/2605.28398",
-      "description": "Hybrid-reasoning large language models (LLMs) expose explicit controls over reasoning effort, allowing users or systems to trade off answer quality against inference cost. However, existing methods fo",
-      "published": "2026-05-26T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 9,
-      "is_new": false
-    },
-    {
-      "id": "2e6bc7f3ded574dd6ed0701f881e8ebf",
-      "title": "Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players",
-      "url": "https://huggingface.co/papers/2605.28816",
-      "description": "World models for interactive video generation have largely focused on single-agent settings, where future observations are generated from a single control signal. However, many generated environments ",
-      "published": "2026-05-26T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 33,
-      "is_new": false
-    },
-    {
-      "id": "26a5323118061125350a809db7e29561",
-      "title": "AutoScientists: Self-Organizing Agent Teams for Long-Running Scientific Experimentation",
-      "url": "https://huggingface.co/papers/2605.28655",
-      "description": "Scientific research proceeds through iterative cycles of hypothesis generation, experiment design, execution, and revision. AI agents can automate parts of this process, but existing approaches typica",
-      "published": "2026-05-26T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "3d337b59013ce2972f2ba50e62a4f190",
-      "title": "CubePart: An Open-Vocabulary Part-Controllable 3D Generator",
-      "url": "https://huggingface.co/papers/2605.28763",
-      "description": "Interactive 3D assets used in games and simulation are typically decomposed into specific semantic parts to support animation, physics, and scripted behaviors, yet most generative 3D models produce ei",
-      "published": "2026-05-26T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
+      "likes": 14,
       "is_new": false
     },
     {
@@ -1182,18 +1116,6 @@
       "is_new": false
     },
     {
-      "id": "6621d7b948d3038b5c83ac5115b59700",
-      "title": "AI warfare is already here",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines",
-      "description": "The Convention on Certain Conventional Weapons, an international forum that focuses on lethal autonomous systems, is hosted twice a year at the United Nations in Geneva. When Branka Marijan attended i",
-      "published": "2026-05-26T09:29:02-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "48275638",
       "title": "Multi-Agent LLM Orchestration with Docker Compose and MCP",
       "url": "https://github.com/PacktPublishing/Operational-AI-with-Docker",
@@ -1222,30 +1144,95 @@
       "is_new": false
     },
     {
-      "id": "623a9089c923ec8697d76ddacf3a93d1",
-      "title": "PEAM: Parametric Embodied Agent Memory through Contrastive Internalization of Experience in Minecraft",
-      "url": "https://huggingface.co/papers/2605.27762",
-      "description": "We present PEAM, a Parametric Embodied Agent Memory framework in Minecraft that transforms agent memory from inference-time retrieval into parameter-resident skills internalized through experience. PE",
+      "id": "99834e89323e5e28d28b3d9f971a5531",
+      "title": "GE-Sim 2.0: A Roadmap Towards Comprehensive Closed-loop Video World Simulators for Robotic Manipulation",
+      "url": "https://huggingface.co/papers/2605.27491",
+      "description": "We introduce GE-Sim 2.0 (Genie Envisioner World Simulator 2.0), a closed-loop video world simulator for robotic manipulation. Building on the action-conditioned video generation framework of Genie Env",
       "published": "2026-05-25T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
-      "is_new": false
+      "likes": 1,
+      "is_new": true
     },
     {
-      "id": "d65ee64fb788b4370fdc8b1c787b87d8",
-      "title": "Verus-SpecGym: An Agentic Environment for Evaluating Specification Autoformalization",
-      "url": "https://huggingface.co/papers/2605.26457",
-      "description": "AI coding agents are increasingly used to write real-world software, but ensuring that their outputs are correct remains a fundamental challenge. Formal verification offers a promising path: an agent ",
+      "id": "9e905bef977fae5e6e5a317b90e9996e",
+      "title": "SkillGrad: Optimizing Agent Skills Like Gradient Descent",
+      "url": "https://huggingface.co/papers/2605.27760",
+      "description": "Agent skills provide a lightweight way to adapt LLM agents to specialized domains by storing reusable procedural knowledge in structured files. However, whether downloaded from third parties or self-g",
+      "published": "2026-05-25T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 7,
+      "is_new": true
+    },
+    {
+      "id": "c3ad9d905f124bc03db50a9d1b7963c0",
+      "title": "Guiding LLM Post-training Data Engineering with Model Internals from Sparse Autoencoders",
+      "url": "https://huggingface.co/papers/2605.27354",
+      "description": "Model internals encode rich information about how a large language model (LLM) processes its training data; however, post-training data engineering largely relies on external signals and ignores rich ",
+      "published": "2026-05-25T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 10,
+      "is_new": true
+    },
+    {
+      "id": "009cf34c4a1c93f4b935c008143021e5",
+      "title": "Lost in Sampling: Assessing Lexical Reachability in LLMs via the Word Coverage Score (WCS)",
+      "url": "https://huggingface.co/papers/2605.27268",
+      "description": "Modern Large Language Models (LLMs) are often criticized for producing repetitive and homogeneous text, despite possessing vast latent vocabularies. While previous research has focused on model knowle",
+      "published": "2026-05-25T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 7,
+      "is_new": true
+    },
+    {
+      "id": "04089a07360ced8970c1dd2596647859",
+      "title": "AgensFlow: A Coordination-Policy Substrate for Multi-Agent Systems",
+      "url": "https://huggingface.co/papers/2605.27466",
+      "description": "Multi-agent systems built on large language models (LLMs) require many coordination choices that are difficult to fix a priori: which skill protocol to invoke, which agent role should perform a subtas",
       "published": "2026-05-25T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "id": "7b7ed8c402efdcef6e39f7a9679d5266",
+      "title": "Triplet-Block Diffusion RWKV",
+      "url": "https://huggingface.co/papers/2605.25969",
+      "description": "Causal Transformer language models suffer from strictly sequential decoding and a quadratic per-step attention cost. While linear-time causal models and discrete diffusion models each address these we",
+      "published": "2026-05-24T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 15,
+      "is_new": true
+    },
+    {
+      "id": "422dbb9777034474433c258ff273c9b1",
+      "title": "Fast-dDrive: Efficient Block-Diffusion VLM for Autonomous Driving",
+      "url": "https://huggingface.co/papers/2605.23163",
+      "description": "End-to-end autonomous driving via Vision-Language-Action (VLA) models demands a precarious balance between high-fidelity trajectory planning and efficient inference. Existing paradigms typically fall ",
+      "published": "2026-05-24T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 11,
+      "is_new": true
     },
     {
       "id": "c929610fa47731860c240041116f59c5",
@@ -1257,7 +1244,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": true
     },
     {
@@ -1270,7 +1257,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
+      "likes": 21,
       "is_new": false
     },
     {
@@ -1285,6 +1272,20 @@
       "category": "news",
       "points": 1,
       "comments": 1,
+      "is_new": false
+    },
+    {
+      "id": "48256017",
+      "title": "Show HN: My first app, artisanally vibe-coded in 4 months",
+      "url": "https://mijn-travelly.nl/en/",
+      "description": "",
+      "published": "2026-05-24T10:07:13Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 3,
+      "comments": 4,
       "is_new": false
     }
   ],
@@ -1435,10 +1436,10 @@
         "is_new": false
       },
       {
-        "id": "d43d303538df77a831ab107671f0ba04",
-        "title": "Tech CEOs are apparently suffering from AI psychosis",
-        "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
-        "description": "\"CEOs are uniquely prone to AI psychosis,\" Box CEO Aaron Levie opines. Maybe that explains the almost religious belief in AI productivity gains.",
+        "id": "595d59529625167c00f7a516948f447c",
+        "title": "Robinhood now lets your AI agents trade stocks",
+        "url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
+        "description": "While these agents would be able to read and analyze users' portfolios to come up with trading strategies and suggest investments, they'll only be able to access the pre-loaded balance in the dedicate",
         "published": "Wed, 27 May 2026 12:30:00 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
@@ -1447,10 +1448,10 @@
         "is_new": false
       },
       {
-        "id": "595d59529625167c00f7a516948f447c",
-        "title": "Robinhood now lets your AI agents trade stocks",
-        "url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
-        "description": "While these agents would be able to read and analyze users' portfolios to come up with trading strategies and suggest investments, they'll only be able to access the pre-loaded balance in the dedicate",
+        "id": "d43d303538df77a831ab107671f0ba04",
+        "title": "Tech CEOs are apparently suffering from AI psychosis",
+        "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+        "description": "\"CEOs are uniquely prone to AI psychosis,\" Box CEO Aaron Levie opines. Maybe that explains the almost religious belief in AI productivity gains.",
         "published": "Wed, 27 May 2026 12:30:00 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
@@ -1507,16 +1508,16 @@
         "is_new": false
       },
       {
-        "id": "bd0bc3af924133566fe4f75805029f39",
-        "title": "TechCrunch Disrupt 2026 Early Bird ticket rates end May 29",
-        "url": "https://techcrunch.com/2026/05/26/techcrunch-disrupt-2026-early-bird-ticket-rates-end-may-29/",
-        "description": "Save up to $410 on your TechCrunch Disrupt 2026 pass before prices increase on May 29 at 11:59 p.m. PT. Register here to join the tech epicenter in San Francisco.",
-        "published": "Tue, 26 May 2026 14:00:00 +0000",
+        "id": "b16689dc6815e82797fa0a7804d32aec",
+        "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
+        "url": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
+        "description": "Built on top of the open-source Hermes project, Vertu's new foldable combines AI-agent workflows, enterprise integrations, and ultra-premium luxury finishes.",
+        "published": "Thu, 28 May 2026 07:00:00 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
+        "is_new": true
       },
       {
         "id": "efa51fc32d2a660331a872881d5fa01a",
@@ -1529,6 +1530,18 @@
         "source_icon": "📰",
         "category": "news",
         "is_new": false
+      },
+      {
+        "id": "1124afc5e505d785a6b8b484fd0ec54f",
+        "title": "YouTube will let you ask AI to make a custom video feed",
+        "url": "https://www.theverge.com/streaming/938759/youtube-custom-ai-feed-prompt-availability",
+        "description": "YouTube is launching a new AI feature that creates a personalized video feed based on descriptions of what you want to watch. In its announcement, YouTube says custom content feeds can be built around",
+        "published": "2026-05-28T04:49:07-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
       },
       {
         "id": "48303937",
@@ -1638,18 +1651,6 @@
         "url": "https://www.theverge.com/streaming/937915/youtube-ai-labels-shorts-automatic-identification-updates",
         "description": "In the wake of Google expanding its AI verification efforts at I/O, YouTube is now finally going to start taking AI labeling seriously. YouTube has announced that it's relocating AI disclosures on Sho",
         "published": "2026-05-27T06:13:41-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "82d8e009ac4aabc21d250fc805353b26",
-        "title": "Did the Pope use AI to write about the dangers of AI?",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
-        "description": "It's possible that AI was used to write parts of Pope Leo XIV's latest encyclical about AI's impact on humanity. An analysis by Linch Zhang posted on the forum LessWrong found certain paragraphs of Ma",
-        "published": "2026-05-27T05:55:09-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
