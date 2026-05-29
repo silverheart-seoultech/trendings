@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-29T08:50:33.078908+00:00",
+  "last_updated": "2026-05-29T10:04:22.542412+00:00",
   "total_entries": 110,
-  "new_entries": 19,
+  "new_entries": 23,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,6 +768,18 @@
       "is_new": false
     },
     {
+      "id": "e71b5c16b9fcbf9b1f490c56e7aec497",
+      "title": "Adobe’s conversational AI agent is a mediocre design intern",
+      "url": "https://www.theverge.com/tech/939686/adobes-conversational-ai-agent-is-a-mediocre-design-intern",
+      "description": "AI image tools rarely make me feel like I'm part of the creative process. They are, afterall, mostly designed so that people with no design experience can type in a few words and get back a usable res",
+      "published": "2026-05-29T04:56:45-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "b68701c5ea779f41a04b8bcf7f7b7f8b",
       "title": "Microsoft 365 Copilot gets a speed boost and cleaner design",
       "url": "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign",
@@ -815,8 +827,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 315,
-      "comments": 129,
+      "points": 325,
+      "comments": 133,
       "is_new": false
     },
     {
@@ -934,6 +946,19 @@
       "is_new": false
     },
     {
+      "id": "3e936205cc4ad03f61f9e2fd52e84d4d",
+      "title": "Towards Consistent Video Geometry Estimation",
+      "url": "https://huggingface.co/papers/2605.30060",
+      "description": "This work presents ViGeo, a feed-forward foundation model for recovering spatially dense and temporally consistent geometry from video sequences. Built upon a plain transformer architecture without ta",
+      "published": "2026-05-27T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "04bc3b8b442fbd26b159aba294b6252a",
       "title": "When Cloud Agents Meet Device Agents: Lessons from Hybrid Multi-Agent Systems",
       "url": "https://huggingface.co/papers/2605.30102",
@@ -943,7 +968,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 5,
       "is_new": true
     },
     {
@@ -995,7 +1020,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 11,
+      "likes": 17,
       "is_new": true
     },
     {
@@ -1060,7 +1085,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
+      "likes": 9,
       "is_new": true
     },
     {
@@ -1090,62 +1115,11 @@
       "is_new": true
     },
     {
-      "id": "db581e11cfa6848d8c48a8c39bb4df75",
-      "title": "YoCausal: How Far is Video Generation from World Model? A Causality Perspective",
-      "url": "https://huggingface.co/papers/2605.30346",
-      "description": "As video diffusion models (VDMs) advance toward world models, a key question arises: do they truly understand causality, or merely overfit to statistical temporal patterns? Existing benchmarks mostly ",
-      "published": "2026-05-27T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 20,
-      "is_new": false
-    },
-    {
-      "id": "22338820285ea614a398bda1e16b37f4",
-      "title": "PhoneWorld: Scaling Phone-Use Agent Environments",
-      "url": "https://huggingface.co/papers/2605.29486",
-      "description": "A central bottleneck for phone-use agents is that controllable, reproducible environments covering real mobile behavior are hard to build at scale. Existing mobile-agent benchmarks have made important",
-      "published": "2026-05-27T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
-      "is_new": false
-    },
-    {
-      "id": "513b9d1720323d7a78ce7d116adaad4e",
-      "title": "Why Larger Models Learn More: Effects of Capacity, Interference, and Rare-Task Retention",
-      "url": "https://huggingface.co/papers/2605.29548",
-      "description": "Larger models learn tasks smaller models do not. What drives this phenomenon? We develop a simple phenomenological argument that power-law scaling already suggests that a larger model will be able to ",
-      "published": "2026-05-27T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
       "id": "a0c082562cbcc6f3add50226f4801722",
       "title": "AI tried to bury this politician — now people have actually heard of him",
       "url": "https://www.theverge.com/policy/937650/ai-alex-bores-openai-anthropic-ny12",
       "description": "By the time that the Democratic primary for New York's 12th congressional district wraps up in June, Anthropic and OpenAI will have spent millions on their battle over the political future of AI: who",
       "published": "2026-05-27T11:39:34-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "2422c4a582566244111cde88705251d5",
-      "title": "Robinhood will let your AI agent trade stocks and make (or lose) lots of money",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/938095/robinhood-ai-agent-stock-trading",
-      "description": "Robinhood is opening its trading platform to AI agents. In an announcement on Wednesday, Robinhood says traders can now create a separate account for an AI agent and add a specific amount of money, al",
-      "published": "2026-05-27T10:52:37-04:00",
       "source_id": "theverge-ai",
       "source_name": "The Verge AI",
       "source_icon": "📰",
@@ -1179,6 +1153,19 @@
       "points": 3,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "2fd86b82f6dd415e1018bf6631658b56",
+      "title": "PRISM: A Multi-Dimensional Benchmark for Evaluating LLM Peer Reviewers",
+      "url": "https://huggingface.co/papers/2605.26730",
+      "description": "The rapid growth in submissions to machine learning venues has strained the scientific peer-review system and intensified interest in LLM-based automated peer reviewers. However, how good these system",
+      "published": "2026-05-26T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
     },
     {
       "id": "9bdeb3dee0267db778df695ceb95f53e",
@@ -1261,6 +1248,19 @@
       "points": 1,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "afeac5427a6851dcc5d02a54b4449128",
+      "title": "Alignment Tampering: How Reinforcement Learning from Human Feedback Is Exploited to Optimize Misaligned Biases",
+      "url": "https://huggingface.co/papers/2605.27355",
+      "description": "Reinforcement Learning from Human Feedback (RLHF) is the standard method to align Large Language Models (LLMs) with human preferences. In this work, we introduce alignment tampering, a potential vulne",
+      "published": "2026-05-25T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
     },
     {
       "id": "db9696e83168d105b403e0f2b2cbadb0",
@@ -1532,6 +1532,18 @@
         "is_new": false
       },
       {
+        "id": "e71b5c16b9fcbf9b1f490c56e7aec497",
+        "title": "Adobe’s conversational AI agent is a mediocre design intern",
+        "url": "https://www.theverge.com/tech/939686/adobes-conversational-ai-agent-is-a-mediocre-design-intern",
+        "description": "AI image tools rarely make me feel like I'm part of the creative process. They are, afterall, mostly designed so that people with no design experience can type in a few words and get back a usable res",
+        "published": "2026-05-29T04:56:45-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "b68701c5ea779f41a04b8bcf7f7b7f8b",
         "title": "Microsoft 365 Copilot gets a speed boost and cleaner design",
         "url": "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign",
@@ -1579,8 +1591,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 315,
-        "comments": 129,
+        "points": 325,
+        "comments": 133,
         "is_new": false
       },
       {
@@ -1641,18 +1653,6 @@
         "url": "https://www.theverge.com/tech/938915/ios-27-siri-renders-bloomberg",
         "description": "Apple's long-awaited Siri overhaul, expected to arrive in iOS 27, might look a lot like ChatGPT with a splash of Liquid Glass. Renders from Bloomberg offer a preview of iOS 27, including the new app a",
         "published": "2026-05-28T10:38:32-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "5a825b3a3410e168066c535afae64310",
-        "title": "Rivian’s software chief thinks you don&#8217;t need CarPlay or buttons",
-        "url": "https://www.theverge.com/podcast/929940/rivian-wassym-bensaid-software-volkswagen-carplay-assistant-ai",
-        "description": "Today, I’m talking with Wassym Bensaid, the chief software officer at Rivian, and the co-CEO of Rivian’s platform joint venture with Volkswagen, which everyone just calls RV Tech. That joint venture k",
-        "published": "2026-05-28T10:36:37-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
