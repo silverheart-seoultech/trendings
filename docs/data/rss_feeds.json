@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-01T05:13:00.516015+00:00",
+  "last_updated": "2026-06-01T10:30:54.908015+00:00",
   "total_entries": 110,
-  "new_entries": 1,
+  "new_entries": 13,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,6 +768,18 @@
       "is_new": false
     },
     {
+      "id": "ee28bd49df1a67bbcc57f805aef474f8",
+      "title": "I went looking for the AI weed vape that gives you Bitcoin for smoking",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape",
+      "description": "The crypto weed vape found me on 4/20, the high holiday of cannabis enthusiasts everywhere. It arrived over Slack with the thumbnail of a man exhaling a plume of vapor, the words \"every hit delivers B",
+      "published": "2026-06-01T04:49:08-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": false
+    },
+    {
       "id": "48352369",
       "title": "Ask HN: How do you solve AI's confused deputy problem?",
       "url": "https://news.ycombinator.com/item?id=48352369",
@@ -972,18 +984,6 @@
       "is_new": false
     },
     {
-      "id": "ee28bd49df1a67bbcc57f805aef474f8",
-      "title": "I went looking for the AI weed vape that gives you Bitcoin for smoking",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape",
-      "description": "The crypto weed vape found me on 4/20, the high holiday of cannabis enthusiasts everywhere. It arrived over Slack with the thumbnail of a man exhaling a plume of vapor, the words \"every hit delivers B",
-      "published": "2026-05-29T13:09:12-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "fa5e699062eed3daff6db456b7777d69",
       "title": "How one founder’s bet on ‘the old school web’ is paying off",
       "url": "https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai",
@@ -1032,6 +1032,71 @@
       "is_new": false
     },
     {
+      "id": "1f5ad86b60886cc594ee40b41c43efa4",
+      "title": "DecMem: Towards Minute-Long Consistent World Generation with Decoupled Memory",
+      "url": "https://huggingface.co/papers/2605.31336",
+      "description": "Recent advances in video generative models have promoted rapid progress in controllable world models. However, maintaining fine-grained spatio-temporal consistency under long-horizon reasoning remains",
+      "published": "2026-05-28T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
+      "id": "6dd3e150db94c4e70fdc6d9a6cf1682b",
+      "title": "Emergent Languages in Populations of Language Model Agents: From Token Efficiency to Oversight Evasion",
+      "url": "https://huggingface.co/papers/2605.31170",
+      "description": "Monitoring autonomous language model agents currently relies mostly on surface behavior. But what happens when agent populations invent new languages with the goal of avoiding human oversight. Here, w",
+      "published": "2026-05-28T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "ed9e78db3f93cab567ee7855c2f35aba",
+      "title": "PEEK: Picking Essential frames via Efficient Knowledge distillation",
+      "url": "https://huggingface.co/papers/2605.31029",
+      "description": "Video-language models can process only a limited number of frames, making frame selection a key bottleneck for efficient video captioning. Most captioning pipelines still rely on uniform sampling, whi",
+      "published": "2026-05-28T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 11,
+      "is_new": true
+    },
+    {
+      "id": "edfc57b5424a9be105bcd586c3767fed",
+      "title": "iVGR: Internalizing Visually Grounded Reasoning for MLLMs with Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2605.31096",
+      "description": "While visually grounded Chain-of-Thought (CoT) has emerged as a promising paradigm to enhance fine-grained perception in multimodal large language models (MLLMs), its efficacy during the inference pha",
+      "published": "2026-05-28T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "ccff582114f60a171cb8bd71935d1396",
+      "title": "DRIFT: Decoupled Rollouts and Importance-Weighted Fine-Tuning for Efficient Multi-Turn Optimization",
+      "url": "https://huggingface.co/papers/2605.31455",
+      "description": "Large language models are increasingly deployed in multi-turn interactive settings where users or environments can iteratively provide lightweight feedback. Unfortunately, optimizing such behavior pre",
+      "published": "2026-05-28T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "9865061f922e68875ec2b3ee37a8422d",
       "title": "SCOPE: Self-Play via Co-Evolving Policies for Open-Ended Tasks",
       "url": "https://huggingface.co/papers/2605.31433",
@@ -1041,7 +1106,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 10,
       "is_new": true
     },
     {
@@ -1054,7 +1119,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -1080,98 +1145,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 11,
-      "is_new": false
-    },
-    {
-      "id": "f589816ca092b9295d039d3c0edc78bc",
-      "title": "SwanVoice: Expressive Long-Form Zero-Shot Speech Synthesis for Both Monologue and Dialogue",
-      "url": "https://huggingface.co/papers/2605.30993",
-      "description": "Zero-shot text-to-speech (TTS) has improved substantially for single-speaker synthesis, yet expressive long-form multi-speaker dialogue remains difficult. A common workaround is to synthesize each tur",
-      "published": "2026-05-28T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 16,
-      "is_new": false
-    },
-    {
-      "id": "0d521a4cdbcaeddeb05c7129a25e257e",
-      "title": "COLLEAGUE.SKILL: Automated AI Skill Generation via Expert Knowledge Distillation",
-      "url": "https://huggingface.co/papers/2605.31264",
-      "description": "LLM agents are increasingly expected not only to complete isolated tasks, but also to carry bounded representations of human expertise, judgment, and interaction style. Building such person-grounded a",
-      "published": "2026-05-28T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 19,
-      "is_new": false
-    },
-    {
-      "id": "6689ee94841a000c87e3dcf8d6401d91",
-      "title": "Task-Focused Memorization for Multimodal Agents",
-      "url": "https://huggingface.co/papers/2605.31075",
-      "description": "Long-term memory is essential for multimodal agents to build coherent experience, accumulate world knowledge, and achieve continual learning. However, constructing effective memory goes beyond memory ",
-      "published": "2026-05-28T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 16,
-      "is_new": false
-    },
-    {
-      "id": "5a0892a3949615cf9000be9a77689e08",
-      "title": "dMoE: dLLMs with Learnable Block Experts",
-      "url": "https://huggingface.co/papers/2605.30876",
-      "description": "Diffusion Large Language Models (dLLMs) have recently emerged as a promising alternative to autoregressive models, offering competitive performance while naturally supporting parallel decoding. Howeve",
-      "published": "2026-05-28T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 9,
-      "is_new": false
-    },
-    {
-      "id": "bcff4e9d0628c19b3961665aae441c34",
-      "title": "GGT-100K: Generative Ground Truth for Generalizable Real-World Image Restoration",
-      "url": "https://huggingface.co/papers/2605.31039",
-      "description": "Real-world image restoration (IR) is bottlenecked by the scarcity of high-quality paired training data. Synthetic datasets are abundant but often fail to model real-world degradations, while real-worl",
-      "published": "2026-05-28T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 15,
-      "is_new": false
-    },
-    {
-      "id": "a4d294c63765c6b29911bb029efb06cd",
-      "title": "Linear Scaling Video VLMs for Long Video Understanding",
-      "url": "https://huggingface.co/papers/2605.31598",
-      "description": "Video vision-language models (VLMs) are increasingly used in long-horizon and streaming settings, yet most video encoders still rely on spatiotemporal self-attention, causing compute and latency to gr",
-      "published": "2026-05-28T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "95d15bc7502b72d07b50ae8a3900f250",
-      "title": "Light Interaction: Training-Free Inference Acceleration for Interactive Video World Models",
-      "url": "https://huggingface.co/papers/2605.31158",
-      "description": "Interactive video world models generate video chunk by chunk in response to user-controlled camera movements, enabling applications such as real-time game simulation, virtual scene navigation, and emb",
-      "published": "2026-05-28T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
+      "likes": 20,
       "is_new": false
     },
     {
@@ -1210,7 +1184,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 382,
+      "points": 384,
       "comments": 159,
       "is_new": false
     },
@@ -1269,30 +1243,56 @@
       "is_new": false
     },
     {
-      "id": "c53fa2a60216a7cc3de6493e164eedf5",
-      "title": "AnyMo: Scaling Any-Modality Conditional Motion Generation with Masked Modeling",
-      "url": "https://huggingface.co/papers/2605.29488",
-      "description": "Conditional human motion generation remains a fundamental challenge in computer vision and robotics. Despite significant progress, current methods are often constrained by fixed modality configuration",
+      "id": "a44d903c23eea48d770de2366df7dc3b",
+      "title": "SAAS: Self-Aware Reinforcement Learning for Over-Search Mitigation in Agentic Search",
+      "url": "https://huggingface.co/papers/2605.29796",
+      "description": "Agentic search enables LLMs to solve complex multi-hop questions through iterative reasoning and external search. Despite the effectiveness, these systems often suffer from a critical limitation in pr",
       "published": "2026-05-27T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
-      "is_new": false
+      "likes": 11,
+      "is_new": true
     },
     {
-      "id": "ef93ec05e8b9122337151be5f5feaf90",
-      "title": "The Good, the Bad, and the Ugly of Markov Boundary for Tabular Prediction",
-      "url": "https://huggingface.co/papers/2605.29411",
-      "description": "Under standard graphical assumptions, the Markov boundary of a target variable is the smallest set of features that renders every other feature redundant. Once the boundary is observed, the target is ",
+      "id": "aac37f043d2f8c1db83e1adb2c211dd6",
+      "title": "SoundnessBench: Can Your AI Scientist Really Tell Good Research Ideas from Bad Ones?",
+      "url": "https://huggingface.co/papers/2605.30329",
+      "description": "Autonomous AI research agents aim to accelerate scientific discovery by automating the research pipeline, from hypothesis generation to peer review. However, existing benchmarks rarely test a fundamen",
       "published": "2026-05-27T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "id": "8892164f51c8be5bb8a04db72ec664d7",
+      "title": "Recovering Policy-Induced Errors: Benchmarking and Trajectory Synthesis for Robust GUI Agents",
+      "url": "https://huggingface.co/papers/2605.29447",
+      "description": "While GUI agents have advanced rapidly, they often lack the robustness to recover from their own errors, hindering real-world deployment. To bridge this gap at both the evaluation and data levels, we ",
+      "published": "2026-05-27T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 14,
+      "is_new": true
+    },
+    {
+      "id": "c462845529d109e862271ed2b8029ec5",
+      "title": "Seeing Isn't Knowing: Do VLMs Know When Not to Answer Spatial Questions (and Why)?",
+      "url": "https://huggingface.co/papers/2605.30557",
+      "description": "Spatial reasoning is a fundamental capability for vision-language models (VLMs) deployed in real-world environments. However, visual observations are inherently limited representations of a 3D world: ",
+      "published": "2026-05-27T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
     }
   ],
   "by_category": {
@@ -1538,6 +1538,18 @@
         "is_new": false
       },
       {
+        "id": "ee28bd49df1a67bbcc57f805aef474f8",
+        "title": "I went looking for the AI weed vape that gives you Bitcoin for smoking",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape",
+        "description": "The crypto weed vape found me on 4/20, the high holiday of cannabis enthusiasts everywhere. It arrived over Slack with the thumbnail of a man exhaling a plume of vapor, the words \"every hit delivers B",
+        "published": "2026-06-01T04:49:08-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
         "id": "48352369",
         "title": "Ask HN: How do you solve AI's confused deputy problem?",
         "url": "https://news.ycombinator.com/item?id=48352369",
@@ -1659,20 +1671,6 @@
         "category": "news",
         "points": 4,
         "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "48336119",
-        "title": "Show HN: Jynx, a matchmaking app to find gaming teammates",
-        "url": "https://jynx.app/",
-        "description": "",
-        "published": "2026-05-30T13:45:34Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 5,
-        "comments": 4,
         "is_new": false
       }
     ],
