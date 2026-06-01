@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-01T10:30:54.908015+00:00",
+  "last_updated": "2026-06-01T11:47:20.465825+00:00",
   "total_entries": 110,
-  "new_entries": 13,
+  "new_entries": 16,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -1032,6 +1032,19 @@
       "is_new": false
     },
     {
+      "id": "5207e751e0678351d5d8faf78c10b2c4",
+      "title": "Trust-Region Behavior Blending for On-Policy Distillation",
+      "url": "https://huggingface.co/papers/2605.31159",
+      "description": "On-policy distillation (OPD) trains a student on prefixes sampled from its own policy while matching a stronger teacher. This addresses the prefix mismatch of offline distillation, but early student r",
+      "published": "2026-05-28T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 14,
+      "is_new": true
+    },
+    {
       "id": "1f5ad86b60886cc594ee40b41c43efa4",
       "title": "DecMem: Towards Minute-Long Consistent World Generation with Decoupled Memory",
       "url": "https://huggingface.co/papers/2605.31336",
@@ -1106,7 +1119,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 10,
+      "likes": 12,
       "is_new": true
     },
     {
@@ -1133,19 +1146,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "e4629ed7e13090ec312f0419b9333f7f",
-      "title": "Towards Streaming Synchronized Spatial Audio Generation via Autoregressive Diffusion Transformer",
-      "url": "https://huggingface.co/papers/2605.30940",
-      "description": "Real-time and accurate spatial audio generation is pivotal for delivering an immersive experience. However, existing spatial audio synthesis technologies are often encumbered by a tradeoff between gen",
-      "published": "2026-05-28T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 20,
       "is_new": false
     },
     {
@@ -1243,6 +1243,19 @@
       "is_new": false
     },
     {
+      "id": "e88b6e97f540b93876e0eac891c857e0",
+      "title": "GDSD: Reinforcement Learning as Guided Denoiser Self-Distillation for Diffusion Language Models",
+      "url": "https://huggingface.co/papers/2605.29398",
+      "description": "Reinforcement learning (RL) can be used to improve the policy (denoiser) of diffusion large language models (dLLMs), while being hindered by the intractability of the policy likelihood. A dominant and",
+      "published": "2026-05-27T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "a44d903c23eea48d770de2366df7dc3b",
       "title": "SAAS: Self-Aware Reinforcement Learning for Over-Search Mitigation in Agentic Search",
       "url": "https://huggingface.co/papers/2605.29796",
@@ -1252,7 +1265,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 11,
+      "likes": 12,
       "is_new": true
     },
     {
@@ -1279,19 +1292,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 14,
-      "is_new": true
-    },
-    {
-      "id": "c462845529d109e862271ed2b8029ec5",
-      "title": "Seeing Isn't Knowing: Do VLMs Know When Not to Answer Spatial Questions (and Why)?",
-      "url": "https://huggingface.co/papers/2605.30557",
-      "description": "Spatial reasoning is a fundamental capability for vision-language models (VLMs) deployed in real-world environments. However, visual observations are inherently limited representations of a 3D world: ",
-      "published": "2026-05-27T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
       "is_new": true
     }
   ],
