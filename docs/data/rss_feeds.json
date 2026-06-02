@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-01T23:07:44.007318+00:00",
+  "last_updated": "2026-06-02T01:35:09.073574+00:00",
   "total_entries": 110,
-  "new_entries": 1,
+  "new_entries": 3,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -145,9 +145,9 @@
     },
     {
       "id": "97fd2150ce7251e9086aadc78931195a",
-      "title": "Alphabet plans to raise $80 billion to pay for AI buildout",
+      "title": "Alphabet plans to raise $80B to pay for AI buildout",
       "url": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
-      "description": "The Google parent company plans to raise the funds by selling stock.",
+      "description": "\"The company is experiencing strong demand for its AI solutions and services from enterprises and consumers, at levels that are exceeding the company’s available supply,\" Alphabet said in its statemen",
       "published": "Mon, 01 Jun 2026 22:55:09 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
@@ -895,8 +895,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 62,
-      "comments": 14,
+      "points": 69,
+      "comments": 21,
       "is_new": false
     },
     {
@@ -1140,6 +1140,19 @@
       "is_new": false
     },
     {
+      "id": "93dc89c6e49f041a3f9cf3ea69d6cb23",
+      "title": "Speculative Pipeline Decoding: Higher-Accruacy and Zero-Bubble Speculation via Pipeline Parallelism",
+      "url": "https://huggingface.co/papers/2605.30852",
+      "description": "Speculative Decoding (SD) accelerates low-concurrency LLM inference by employing a draft-then-verify paradigm. However, mainstream methods typically rely on multi-token prediction, which introduces es",
+      "published": "2026-05-28T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "259055eb42344a704413997e83036930",
       "title": "SurGe: Improved Surface Geometry in Point Maps",
       "url": "https://huggingface.co/papers/2605.31577",
@@ -1149,7 +1162,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -1205,19 +1218,6 @@
       "is_new": false
     },
     {
-      "id": "5207e751e0678351d5d8faf78c10b2c4",
-      "title": "Trust-Region Behavior Blending for On-Policy Distillation",
-      "url": "https://huggingface.co/papers/2605.31159",
-      "description": "On-policy distillation (OPD) trains a student on prefixes sampled from its own policy while matching a stronger teacher. This addresses the prefix mismatch of offline distillation, but early student r",
-      "published": "2026-05-28T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 51,
-      "is_new": false
-    },
-    {
       "id": "48309501",
       "title": "Show HN: Search Router – retrieval-ready web search for AI agents",
       "url": "https://github.com/search-router/simple-search",
@@ -1246,6 +1246,19 @@
       "is_new": false
     },
     {
+      "id": "f5b7687430ce3a868ca8f7e6bbd9698a",
+      "title": "Linearizing Vision Transformer with Test-Time Training",
+      "url": "https://huggingface.co/papers/2605.02772",
+      "description": "While linear-complexity attention mechanisms offer a promising alternative to Softmax attention for overcoming the quadratic bottleneck, training such models from scratch remains prohibitively expensi",
+      "published": "2026-05-27T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
       "id": "6645694ef9a4b9b7e8b0876399736e92",
       "title": "Harness Updating Is Not Harness Benefit: Disentangling Evolution Capabilities in Self-Evolving LLM Agents",
       "url": "https://huggingface.co/papers/2605.30621",
@@ -1255,7 +1268,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 9,
       "is_new": false
     },
     {
@@ -1281,20 +1294,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "8a5a9500cc717c81e6f3f099d39e70ab",
-      "title": "One Click per Cell Type Suffices: Training-free Group Interaction for Cell Instance Segmentation",
-      "url": "https://huggingface.co/papers/2605.29429",
-      "description": "Cell instance segmentation models trained on cell-specific datasets suffer severe performance drops on out-of-distribution cell types, while interactive foundation models overcome this through per-ins",
-      "published": "2026-05-27T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
+      "likes": 3,
       "is_new": false
     }
   ],
@@ -1398,9 +1398,9 @@
       },
       {
         "id": "97fd2150ce7251e9086aadc78931195a",
-        "title": "Alphabet plans to raise $80 billion to pay for AI buildout",
+        "title": "Alphabet plans to raise $80B to pay for AI buildout",
         "url": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
-        "description": "The Google parent company plans to raise the funds by selling stock.",
+        "description": "\"The company is experiencing strong demand for its AI solutions and services from enterprises and consumers, at levels that are exceeding the company’s available supply,\" Alphabet said in its statemen",
         "published": "Mon, 01 Jun 2026 22:55:09 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
@@ -1668,8 +1668,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 62,
-        "comments": 14,
+        "points": 69,
+        "comments": 21,
         "is_new": false
       }
     ],
