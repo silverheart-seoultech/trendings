@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-02T06:54:21.723078+00:00",
+  "last_updated": "2026-06-02T10:46:29.844365+00:00",
   "total_entries": 110,
-  "new_entries": 7,
+  "new_entries": 17,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,6 +768,18 @@
       "is_new": false
     },
     {
+      "id": "2aaeca7d02053fc781d01ba788ddedff",
+      "title": "This could be Windows’ M1 moment — but expect it to cost a ton",
+      "url": "https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram",
+      "description": "Nvidia's announcement that it's getting into the consumer laptop chip space with RTX Spark is huge. Apple has proved for years that Arm-based chips can perform incredibly well while also delivering gr",
+      "published": "2026-06-02T05:49:50-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": false
+    },
+    {
       "id": "48360921",
       "title": "Starting a VM from a macOS sandbox for AI agents",
       "url": "https://brentfitzgerald.com/posts/lima-vms-from-a-sandboxed-agent/",
@@ -793,18 +805,6 @@
       "category": "news",
       "points": 3,
       "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "2aaeca7d02053fc781d01ba788ddedff",
-      "title": "This could be Windows’ M1 moment — but expect it to cost a ton",
-      "url": "https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram",
-      "description": "Nvidia's announcement that it's getting into the consumer laptop chip space with RTX Spark is huge. Apple has proved for years that Arm-based chips can perform incredibly well while also delivering gr",
-      "published": "2026-06-01T16:18:01-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
       "is_new": false
     },
     {
@@ -881,8 +881,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 77,
-      "comments": 23,
+      "points": 83,
+      "comments": 24,
       "is_new": false
     },
     {
@@ -976,6 +976,19 @@
       "is_new": false
     },
     {
+      "id": "c155c7a81940c557589e5917ba4d63da",
+      "title": "Geometric Latent Reasoning Induces Shorter Generations in LLMs",
+      "url": "https://huggingface.co/papers/2606.02248",
+      "description": "Large language models solve complex problems by generating lengthy chains of explicit reasoning tokens. While effective, this makes reasoning expensive, length-sensitive, and constrained to (discrete)",
+      "published": "2026-05-31T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "35eb3b52db42e101c505d13f95949983",
       "title": "LongLive-RAG: A General Retrieval-Augmented Framework for Long Video Generation",
       "url": "https://huggingface.co/papers/2606.02553",
@@ -985,7 +998,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 8,
       "is_new": true
     },
     {
@@ -998,7 +1011,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
+      "likes": 10,
       "is_new": true
     },
     {
@@ -1011,7 +1024,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 9,
       "is_new": true
     },
     {
@@ -1037,7 +1050,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 4,
       "is_new": true
     },
     {
@@ -1050,7 +1063,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -1063,59 +1076,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
-      "is_new": false
-    },
-    {
-      "id": "90bce39435cc56a2078522491dd9345a",
-      "title": "VLMs are Good Teachers for Video Reasoning via Adaptive Test-Time Optimization",
-      "url": "https://huggingface.co/papers/2606.02564",
-      "description": "The recent \"Reasoning with Video\" paradigm utilizes Video Generation Models (VGMs) to generate temporally coherent visual trajectories to complete reasoning tasks. Although state-of-the-art VGMs excel",
-      "published": "2026-05-31T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 12,
-      "is_new": false
-    },
-    {
-      "id": "f3668da32edd485481ab9c293a70c6d5",
-      "title": "K-BrowseComp: A Web Browsing Agent Benchmark Grounded in Korean Contexts",
-      "url": "https://huggingface.co/papers/2606.02404",
-      "description": "Frontier model evaluations are shifting from foundational capabilities (e.g., instruction following and reasoning) toward compositional, agentic ones, but Korean agentic benchmarks remain scarce. We i",
-      "published": "2026-05-31T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 34,
-      "is_new": false
-    },
-    {
-      "id": "33d81e59caf7bb768a695f0a8e5742ca",
-      "title": "On the Scaling of PEFT: Towards Million Personal Models of Trillion Parameters",
-      "url": "https://huggingface.co/papers/2606.02437",
-      "description": "Parameter-efficient fine-tuning (PEFT) is usually treated as a cheaper alternative to full fine-tuning. We study a broader role: small trainable adapters as persistent local state on top of strong sha",
-      "published": "2026-05-31T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 49,
-      "is_new": false
-    },
-    {
-      "id": "c0de721355a1ea85f37345b1070a3ebc",
-      "title": "RoboSemanticBench: Diagnosing Semantic Grounding in Action Prediction for VLA Models",
-      "url": "https://huggingface.co/papers/2606.02277",
-      "description": "Vision-language-action (VLA) models are built on the premise that semantic understanding from pretrained language or vision-language backbones should guide robot action prediction. Yet robot fine-tuni",
-      "published": "2026-05-31T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
+      "likes": 1,
       "is_new": false
     },
     {
@@ -1159,6 +1120,20 @@
       "is_new": false
     },
     {
+      "id": "48342441",
+      "title": "Ask HN: What are your worst war stories bringing agentic applications into prod",
+      "url": "https://news.ycombinator.com/item?id=48342441",
+      "description": "",
+      "published": "2026-05-31T02:07:38Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 11,
+      "comments": 7,
+      "is_new": false
+    },
+    {
       "id": "48341069",
       "title": "Show HN: Thaw – Git branch for a running LLM (fork agents, skip prefill)",
       "url": "https://github.com/thaw-ai/thaw",
@@ -1173,62 +1148,23 @@
       "is_new": false
     },
     {
+      "id": "ef43a99a774232ea1b3df44c4ba9409d",
+      "title": "ChartArena: Benchmarking Chart Parsing across Languages, Scenarios, and Formats",
+      "url": "https://huggingface.co/papers/2606.01348",
+      "description": "Charts are a primary medium for conveying quantitative and relational information, yet systematically evaluating chart parsing models remains difficult. Existing benchmarks focus on narrow chart types",
+      "published": "2026-05-30T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "3c7a604f7f0a2cae14bfcbe918d60d7d",
       "title": "3DCodeBench: Benchmarking Agentic Procedural 3D Modeling Via Code",
       "url": "https://huggingface.co/papers/2606.01057",
       "description": "Procedural 3D modeling through code is emerging as a versatile paradigm, offering deterministic, engine-ready, and precisely editable assets that neural 3D generators inherently lack. Authoring such p",
-      "published": "2026-05-30T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "c66f0e9a5e548b4208016e67078310d3",
-      "title": "LongAttnComp: Cross-Family Context Compression for Long-Context Reasoning",
-      "url": "https://huggingface.co/papers/2606.01336",
-      "description": "As real-world applications increasingly require processing inputs of 100k+ tokens, the gap between context length and inference efficiency has become a critical bottleneck. Context compression offers ",
-      "published": "2026-05-30T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "ed98b440752d779b9487e9f80acca84e",
-      "title": "Where to Look: Can Foundation Models Reach a Target Viewpoint Through Active Exploration?",
-      "url": "https://huggingface.co/papers/2606.01247",
-      "description": "Humans can reproduce the viewpoint specified by a target image through active head and body motion, yet spatial intelligence in foundation models has largely been studied as passive understanding of p",
-      "published": "2026-05-30T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 12,
-      "is_new": false
-    },
-    {
-      "id": "e99a82ae9275916a557efb70211ef5fd",
-      "title": "SkillAdaptor: Self-Adapting Skills for LLM Agents from Trajectories",
-      "url": "https://huggingface.co/papers/2606.01311",
-      "description": "Large language model (LLM) agents increasingly rely on reusable external skills to solve long-horizon interactive tasks. Existing training-free skill adaptation pipelines usually update skills from fu",
-      "published": "2026-05-30T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 16,
-      "is_new": false
-    },
-    {
-      "id": "f251d1d580acd60e5b3d66e078b6d7cf",
-      "title": "HakushoBench: A Japanese Chart and Table VQA Benchmark from Governmental White Papers",
-      "url": "https://huggingface.co/papers/2606.01132",
-      "description": "Understanding chart and table images is essential for applying vision-language models (VLMs) to real-world document understanding. While English benchmarks have advanced rapidly, non-English counterpa",
       "published": "2026-05-30T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
@@ -1248,7 +1184,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 4,
-      "comments": 1,
+      "comments": 2,
       "is_new": false
     },
     {
@@ -1280,6 +1216,32 @@
       "is_new": false
     },
     {
+      "id": "556b939d248a51356ebb9604a001ec90",
+      "title": "Confidence-Adaptive SwiGLU for Mixture-of-Experts",
+      "url": "https://huggingface.co/papers/2606.00761",
+      "description": "SwiGLU has become a standard gated activation in modern Transformer MLPs, yet its gate sharpness -- the smoothness and selectivity of the gating function -- is typically fixed throughout training. In ",
+      "published": "2026-05-29T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "6d5fd7701de5752df4d04e971f127333",
+      "title": "FineVerify: Scaling Test-Time Compute with Fine-Grained Self-Verification for Agentic Search",
+      "url": "https://huggingface.co/papers/2606.00660",
+      "description": "Agentic search requires language model agents to explore many sources and answer complex information-seeking questions. Scaling test-time compute is a promising way to improve these agents, but curren",
+      "published": "2026-05-29T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
       "id": "48326539",
       "title": "Show HN: Train Claude Code's replacement (ds4 and pi and aoe)",
       "url": "https://github.com/njbrake/dotpi/tree/main",
@@ -1292,6 +1254,45 @@
       "points": 3,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "48323417",
+      "title": "Show HN: Integuru – Integrate with platforms via the source code",
+      "url": "https://www.integuru.com",
+      "description": "",
+      "published": "2026-05-29T14:16:55Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 7,
+      "comments": 0,
+      "is_new": false
+    },
+    {
+      "id": "fa5e699062eed3daff6db456b7777d69",
+      "title": "How one founder’s bet on ‘the old school web’ is paying off",
+      "url": "https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai",
+      "description": "Craig Campbell walked away from the river of investor money flowing into AI to create, of all things, a website. Sure, Campbell probably could have started an AI company. He's a former engineer at Met",
+      "published": "2026-05-29T10:32:11-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": false
+    },
+    {
+      "id": "758e135691075e7c8a075699d658dfc1",
+      "title": "LVSA: Training-Free Sparse Attention for Long Video Diffusion",
+      "url": "https://huggingface.co/papers/2605.31057",
+      "description": "Dense self-attention is the compute and quality bottleneck of long-video diffusion inference: cost grows quadratically with the sequence length, and beyond the training horizon the model converges to ",
+      "published": "2026-05-28T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 12,
+      "is_new": true
     }
   ],
   "by_category": {
@@ -1899,6 +1900,18 @@
         "is_new": false
       },
       {
+        "id": "2aaeca7d02053fc781d01ba788ddedff",
+        "title": "This could be Windows’ M1 moment — but expect it to cost a ton",
+        "url": "https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram",
+        "description": "Nvidia's announcement that it's getting into the consumer laptop chip space with RTX Spark is huge. Apple has proved for years that Arm-based chips can perform incredibly well while also delivering gr",
+        "published": "2026-06-02T05:49:50-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
         "id": "48360921",
         "title": "Starting a VM from a macOS sandbox for AI agents",
         "url": "https://brentfitzgerald.com/posts/lima-vms-from-a-sandboxed-agent/",
@@ -1924,18 +1937,6 @@
         "category": "news",
         "points": 3,
         "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "2aaeca7d02053fc781d01ba788ddedff",
-        "title": "This could be Windows’ M1 moment — but expect it to cost a ton",
-        "url": "https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram",
-        "description": "Nvidia's announcement that it's getting into the consumer laptop chip space with RTX Spark is huge. Apple has proved for years that Arm-based chips can perform incredibly well while also delivering gr",
-        "published": "2026-06-01T16:18:01-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
         "is_new": false
       },
       {
@@ -2012,8 +2013,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 77,
-        "comments": 23,
+        "points": 83,
+        "comments": 24,
         "is_new": false
       },
       {
