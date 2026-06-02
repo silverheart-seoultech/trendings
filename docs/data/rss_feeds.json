@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-02T10:46:29.844365+00:00",
+  "last_updated": "2026-06-02T11:41:01.757728+00:00",
   "total_entries": 110,
-  "new_entries": 17,
+  "new_entries": 3,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -881,8 +881,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 83,
-      "comments": 24,
+      "points": 85,
+      "comments": 25,
       "is_new": false
     },
     {
@@ -986,7 +986,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "35eb3b52db42e101c505d13f95949983",
@@ -998,8 +998,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
-      "is_new": true
+      "likes": 9,
+      "is_new": false
     },
     {
       "id": "bc881591209006b14cfc14012e258c4b",
@@ -1012,7 +1012,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "8a834dacd9eb4a39d54d678241ec5883",
@@ -1025,7 +1025,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "1d876b61149a38c52a529e0b23b4ad46",
@@ -1038,7 +1038,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "bf3ceda1f85c6bff7c8ef9000d3ae77e",
@@ -1050,8 +1050,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
-      "is_new": true
+      "likes": 5,
+      "is_new": false
     },
     {
       "id": "c4d65f1e5f63fc2945a9ff8a657f079e",
@@ -1064,19 +1064,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "26986bf5bd893ba5aa532f8e8ef7ab1c",
-      "title": "Thinking in Blender: Staged Executable Inverse Graphics with Vision-Language Models",
-      "url": "https://huggingface.co/papers/2606.02580",
-      "description": "Inverse graphics is a longstanding and highly underconstrained problem that seeks to reconstruct images as editable 3D scenes which can be rendered, relit, and manipulated. In this work, we investigat",
-      "published": "2026-05-31T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
       "is_new": false
     },
     {
@@ -1148,6 +1135,19 @@
       "is_new": false
     },
     {
+      "id": "7342ca245519b576031a7e54918f18c7",
+      "title": "A Formally Verified Library of Mathematical Finance in Lean 4",
+      "url": "https://huggingface.co/papers/2606.01356",
+      "description": "We describe a library of mathematical finance built in the Lean 4 proof assistant, on top of Mathlib and the BrownianMotion package. It is broad: more than two hundred sorry-free theorems across eleve",
+      "published": "2026-05-30T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "ef43a99a774232ea1b3df44c4ba9409d",
       "title": "ChartArena: Benchmarking Chart Parsing across Languages, Scenarios, and Formats",
       "url": "https://huggingface.co/papers/2606.01348",
@@ -1158,19 +1158,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
-    },
-    {
-      "id": "3c7a604f7f0a2cae14bfcbe918d60d7d",
-      "title": "3DCodeBench: Benchmarking Agentic Procedural 3D Modeling Via Code",
-      "url": "https://huggingface.co/papers/2606.01057",
-      "description": "Procedural 3D modeling through code is emerging as a versatile paradigm, offering deterministic, engine-ready, and precisely editable assets that neural 3D generators inherently lack. Authoring such p",
-      "published": "2026-05-30T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
       "is_new": false
     },
     {
@@ -1226,7 +1213,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "6d5fd7701de5752df4d04e971f127333",
@@ -1238,8 +1225,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
-      "is_new": true
+      "likes": 4,
+      "is_new": false
     },
     {
       "id": "48326539",
@@ -1292,7 +1279,21 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 12,
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "id": "48309501",
+      "title": "Show HN: Search Router – retrieval-ready web search for AI agents",
+      "url": "https://github.com/search-router/simple-search",
+      "description": "",
+      "published": "2026-05-28T14:32:40Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 3,
+      "comments": 0,
+      "is_new": false
     }
   ],
   "by_category": {
@@ -2013,8 +2014,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 83,
-        "comments": 24,
+        "points": 85,
+        "comments": 25,
         "is_new": false
       },
       {
