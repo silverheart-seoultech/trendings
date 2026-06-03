@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-03T21:22:18.704917+00:00",
-  "total_entries": 110,
-  "new_entries": 6,
+  "last_updated": "2026-06-03T23:12:14.297958+00:00",
+  "total_entries": 90,
+  "new_entries": 1,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -48,6 +48,18 @@
   ],
   "entries": [
     {
+      "id": "1fe21f8da08e66ecb2c32dc07f5a500b",
+      "title": "Lovable signs multi-year deal with Google Cloud to up usage 5x, source says",
+      "url": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+      "description": "Lovable and Google signed an expanded multi-year deal athat involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
+      "published": "Wed, 03 Jun 2026 22:56:51 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "ea4455262cfd96d82438fd160a7bf8f0",
       "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
       "url": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
@@ -57,7 +69,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "51fe822e196e00e4861c24e12c6abce2",
@@ -69,7 +81,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "d0737aada843c983b871e8a233822956",
@@ -756,18 +768,6 @@
       "is_new": false
     },
     {
-      "id": "9a8e2382bcccfe3dd76c6606c4445a37",
-      "title": "Rocket engine startup Impulse raises $500 million to hire people, not AI",
-      "url": "https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/",
-      "description": "Engineering physical systems still depends on human talent, according to Impulse Space president Eric Romo.",
-      "published": "Tue, 02 Jun 2026 12:00:00 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "48390017",
       "title": "Show HN: Yoga for Agentic AI: Cognitive training practices from a yoga studio",
       "url": "https://github.com/stretchvancouver/stretch-ai-yoga",
@@ -779,7 +779,7 @@
       "category": "news",
       "points": 1,
       "comments": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "48386116",
@@ -805,7 +805,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "48383456",
@@ -972,97 +972,6 @@
       "is_new": false
     },
     {
-      "id": "4951087308af22be89a178d671d80f50",
-      "title": "Small RL Controller, Large Language Model: RL-Guided Adaptive Sampling for Test-Time Scaling",
-      "url": "https://huggingface.co/papers/2606.03102",
-      "description": "Test-time scaling improves the reasoning performance of large language models but incurs substantial cost in both total computation and latency. Existing adaptive sampling methods partially mitigate t",
-      "published": "2026-06-01T23:42:04.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 10,
-      "is_new": false
-    },
-    {
-      "id": "792af54e3ba6eca2c03d05fb807200c6",
-      "title": "Conditional Hypothesis Generation for LLM-Based Text Analysis with Researcher-Specified Covariates",
-      "url": "https://huggingface.co/papers/2606.03029",
-      "description": "A core goal of computational social science is to discover interpretable differences in how language varies across outcomes of interest, such as political affiliation or instructional quality. Recent ",
-      "published": "2026-06-01T22:07:46.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
-      "is_new": true
-    },
-    {
-      "id": "66d77128fe2a28e31507929c25408e2f",
-      "title": "Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models",
-      "url": "https://huggingface.co/papers/2606.03748",
-      "description": "Real-time vision demands models that are accurate, efficient, and simple to deploy across diverse hardware. The YOLO family has become widely deployed for this reason, yet most YOLO detectors still re",
-      "published": "2026-06-01T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "1b51eb18e2a53798020d46555c567693",
-      "title": "KVarN: Variance-Normalized KV-Cache Quantization Mitigates Error Accumulation in Reasoning Tasks",
-      "url": "https://huggingface.co/papers/2606.03458",
-      "description": "Test-time scaling is a powerful approach to obtain better reasoning in large language models, but it becomes memory-bottlenecked during long-horizon decoding, as the KV-cache grows. KV-cache quantizat",
-      "published": "2026-06-01T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 25,
-      "is_new": false
-    },
-    {
-      "id": "2e35fce1a6f3b5e5b3c12351839081bd",
-      "title": "Bootstrap Your Generator: Unpaired Visual Editing with Flow Matching",
-      "url": "https://huggingface.co/papers/2606.03911",
-      "description": "Modern generative models possess a deep understanding of visual content, yet training them for image editing typically requires massive datasets of paired examples. This limits scalability, especially",
-      "published": "2026-06-01T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 11,
-      "is_new": false
-    },
-    {
-      "id": "2835ffa548c0b3b060f6ad2784696fe5",
-      "title": "BA-T: An Iterative Transformer for Two-View Bundle Adjustment",
-      "url": "https://huggingface.co/papers/2606.03287",
-      "description": "Feed-forward models for 3D reconstruction have achieved strong performance using deep cross-view attention to exchange information across images. However, these approaches often depend on heavy decode",
-      "published": "2026-06-01T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "12d8c3362f9eb69030781acd061da9a0",
-      "title": "PaddleOCR-VL-1.6: Expanding the Frontier of Document Parsing with Under-Optimized Region Refinement and Progressive Post-Training",
-      "url": "https://huggingface.co/papers/2606.03264",
-      "description": "We introduce PaddleOCR-VL-1.6, an upgraded compact document parsing model built upon PaddleOCR-VL-1.5. Although PaddleOCR-VL-1.5 establishes a strong 0.9B baseline, its remaining errors concentrate in",
-      "published": "2026-06-01T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 7,
-      "is_new": false
-    },
-    {
       "id": "48361456",
       "title": "Agent Code – open-source Mac app for managing AI coding agents",
       "url": "https://github.com/a-streetcoder/agent-deck",
@@ -1105,19 +1014,6 @@
       "is_new": false
     },
     {
-      "id": "92e2f31b4387ccea81c2554bc5faca4e",
-      "title": "AURA: Action-Gated Memory for Robot Policies at Constant VRAM",
-      "url": "https://huggingface.co/papers/2606.02775",
-      "description": "The KV-cache is the right memory for datacenters but the wrong memory for robots. Datacenter inference batches many short requests and resets them, amortizing an attention cache across a crowd. Embodi",
-      "published": "2026-06-01T14:38:21.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
       "id": "48356768",
       "title": "Show HN: Voice control coding agents on your machine via smartwatch / CarPlay",
       "url": "https://dashvox.ai",
@@ -1155,7 +1051,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 98,
+      "points": 99,
       "comments": 26,
       "is_new": false
     },
@@ -1174,19 +1070,6 @@
       "is_new": false
     },
     {
-      "id": "886076bf6a1d1a8cb8258ad088bc68c0",
-      "title": "Adaptive Auto-Harness: Sustained Self-Improvement for Agentic System Deployment on Open-Ended Task Streams",
-      "url": "https://huggingface.co/papers/2606.01770",
-      "description": "Auto-harness systems such as A-Evolve, GEPA, and Meta-Harness improve LLM agents by optimizing prompts, skills, tools, memories, and supporting infrastructure from execution feedback, but they are typ",
-      "published": "2026-06-01T02:51:14.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 9,
-      "is_new": false
-    },
-    {
       "id": "48350800",
       "title": "New AI Agent Architecture to fix LLM deviations and token costs",
       "url": "https://github.com/botcircuits-ai/botcircuits-agent",
@@ -1201,19 +1084,6 @@
       "is_new": false
     },
     {
-      "id": "046b74490fb751b27384b506524e3f9e",
-      "title": "TRON: Targeted Rule-Verifiable Online Environments for Visual Reasoning RL",
-      "url": "https://huggingface.co/papers/2606.01599",
-      "description": "Reinforcement learning (RL) for visual reasoning needs scalable, verifiable, and controllable training signals. Existing visual RL post-training trains on static curated datasets, with fixed image-que",
-      "published": "2026-05-31T22:52:49.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 16,
-      "is_new": false
-    },
-    {
       "id": "48349275",
       "title": "Headroom compresses everything your AI agent reads before it reaches the LLM",
       "url": "https://pypi.org/project/headroom-ai/",
@@ -1225,19 +1095,6 @@
       "category": "news",
       "points": 3,
       "comments": 2,
-      "is_new": false
-    },
-    {
-      "id": "bc59a19b7465d186e1b1a384eb9a4822",
-      "title": "Mitigating Perceptual Judgment Bias in Multimodal LLM-as-a-Judge via Perceptual Perturbation and Reward Modeling",
-      "url": "https://huggingface.co/papers/2606.02578",
-      "description": "Recent multimodal large language models have demonstrated strong reasoning ability, yet their reliability as automated evaluators remains limited by a critical weakness: when visual evidence conflicts",
-      "published": "2026-05-31T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
       "is_new": false
     },
     {
@@ -1269,19 +1126,6 @@
       "is_new": false
     },
     {
-      "id": "7de9813f4ec9038f1bec86da8088b1b1",
-      "title": "Decoupled Residual Denoising Diffusion Models for Unified and Data Efficient Image-to-Image Translation",
-      "url": "https://huggingface.co/papers/2606.01048",
-      "description": "We propose Decoupled Residual Denoising Diffusion models (DRDD) for unified and data-efficient image-to-image (I2I) translation. While diffusion models have advanced I2I translation in terms of qualit",
-      "published": "2026-05-31T02:38:18.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 11,
-      "is_new": false
-    },
-    {
       "id": "48342441",
       "title": "Ask HN: What are your worst war stories bringing agentic applications into prod",
       "url": "https://news.ycombinator.com/item?id=48342441",
@@ -1294,10 +1138,50 @@
       "points": 12,
       "comments": 7,
       "is_new": false
+    },
+    {
+      "id": "48341069",
+      "title": "Show HN: Thaw – Git branch for a running LLM (fork agents, skip prefill)",
+      "url": "https://github.com/thaw-ai/thaw",
+      "description": "",
+      "published": "2026-05-30T22:07:26Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 3,
+      "comments": 0,
+      "is_new": false
+    },
+    {
+      "id": "48339824",
+      "title": "Show HN: AI Simulaionen Based on FEP",
+      "url": "https://aic-ai-lab.site/login",
+      "description": "",
+      "published": "2026-05-30T19:32:53Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 4,
+      "comments": 2,
+      "is_new": false
     }
   ],
   "by_category": {
     "news": [
+      {
+        "id": "1fe21f8da08e66ecb2c32dc07f5a500b",
+        "title": "Lovable signs multi-year deal with Google Cloud to up usage 5x, source says",
+        "url": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+        "description": "Lovable and Google signed an expanded multi-year deal athat involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
+        "published": "Wed, 03 Jun 2026 22:56:51 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "ea4455262cfd96d82438fd160a7bf8f0",
         "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
@@ -1308,7 +1192,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "51fe822e196e00e4861c24e12c6abce2",
@@ -1320,7 +1204,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "d0737aada843c983b871e8a233822956",
@@ -1527,18 +1411,6 @@
         "is_new": false
       },
       {
-        "id": "9a8e2382bcccfe3dd76c6606c4445a37",
-        "title": "Rocket engine startup Impulse raises $500 million to hire people, not AI",
-        "url": "https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/",
-        "description": "Engineering physical systems still depends on human talent, according to Impulse Space president Eric Romo.",
-        "published": "Tue, 02 Jun 2026 12:00:00 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
         "id": "48390017",
         "title": "Show HN: Yoga for Agentic AI: Cognitive training practices from a yoga studio",
         "url": "https://github.com/stretchvancouver/stretch-ai-yoga",
@@ -1550,7 +1422,7 @@
         "category": "news",
         "points": 1,
         "comments": 0,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "48386116",
@@ -1576,7 +1448,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "48383456",
