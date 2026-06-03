@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-02T23:06:57.597247+00:00",
+  "last_updated": "2026-06-03T01:45:02.906627+00:00",
   "total_entries": 110,
-  "new_entries": 2,
+  "new_entries": 4,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -995,7 +995,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 95,
+      "points": 96,
       "comments": 25,
       "is_new": false
     },
@@ -1272,6 +1272,19 @@
       "is_new": false
     },
     {
+      "id": "5bccced544c30d5110b535c3dfbfa142",
+      "title": "MindZero: Learning Online Mental Reasoning With Zero Annotations",
+      "url": "https://huggingface.co/papers/2606.00240",
+      "description": "Effective real-world assistance requires AI agents with robust Theory of Mind (ToM): inferring human mental states from their behavior. Despite recent advances, several key challenges remain, includin",
+      "published": "2026-05-28T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
       "id": "2b636e8fcd68f1b46f49bc7debfc6439",
       "title": "SVI-Bench: A Dynamic Microworld for Strategic Video Intelligence",
       "url": "https://huggingface.co/papers/2605.31529",
@@ -1281,20 +1294,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "d67108006b6b242a675838fc5e8909c1",
-      "title": "Model-Based Quality Assessment for Massively Multilingual Parallel Data",
-      "url": "https://huggingface.co/papers/2606.00285",
-      "description": "Large-scale multilingual bitext often contains two distinct problems: non-parallel sentence pairs and low-quality translations. We decompose model-based assessment for such data into two independent c",
-      "published": "2026-05-28T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
+      "likes": 4,
       "is_new": false
     }
   ],
