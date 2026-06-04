@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-04T10:05:00.204483+00:00",
+  "last_updated": "2026-06-04T10:44:01.358748+00:00",
   "total_entries": 110,
-  "new_entries": 23,
+  "new_entries": 1,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -779,7 +779,7 @@
       "category": "news",
       "points": 2,
       "comments": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "82fc23d8b0ef5ba8f4186e8a35ed713a",
@@ -791,7 +791,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "48390017",
@@ -920,7 +920,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "9bd2f3bceabba4adb42d68d91dc474b0",
@@ -932,8 +932,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 17,
-      "is_new": true
+      "likes": 20,
+      "is_new": false
     },
     {
       "id": "ab9b46784682410a941d36b185ed5f10",
@@ -946,7 +946,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "be3fef42c0852957dfd41aef9b25bcc6",
@@ -959,7 +959,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "984693720a1e525133bb5e1b2dfa15e0",
@@ -972,7 +972,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 22,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "89b20b067d156f63cefc438aba5c05c8",
@@ -985,7 +985,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "bd7ac8edab36d7f8c56b3cb88b3fd55f",
@@ -998,20 +998,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
-    },
-    {
-      "id": "6a2a7380a031e839fd0d0d588769fbcb",
-      "title": "Streaming Communication in Multi-Agent Reasoning",
-      "url": "https://huggingface.co/papers/2606.05158",
-      "description": "Multi-agent reasoning systems adopt a \"generate-then-transfer\" paradigm that forces end-to-end latency to scale linearly with pipeline depth. We introduce StreamMA, a multi-agent reasoning system that",
-      "published": "2026-06-02T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 14,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "48372560",
@@ -1100,7 +1087,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 19,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "dbd9cde4673bacfdc240b156e3f26ace",
@@ -1113,7 +1100,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "22986b48ed9f99cd74994383d767ac42",
@@ -1126,7 +1113,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 23,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "90de66c02d624d4f6051d686ab3a3562",
@@ -1139,7 +1126,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "151ccb29a3772eb3ed8aa9f75c29b90d",
@@ -1151,8 +1138,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 10,
-      "is_new": true
+      "likes": 11,
+      "is_new": false
     },
     {
       "id": "d7f99f5cf46dcdc8a8e4b919d61b89d7",
@@ -1165,7 +1152,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "48360921",
@@ -1248,7 +1235,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 12,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "48352369",
@@ -1290,6 +1277,19 @@
       "category": "news",
       "points": 3,
       "comments": 2,
+      "is_new": false
+    },
+    {
+      "id": "fc88b2a3ff42eeee215e0f7df6fec2bc",
+      "title": "Economy of Minds: Emerging Multi-Agent Intelligence with Economic Interactions",
+      "url": "https://huggingface.co/papers/2606.02859",
+      "description": "How can a population of agents self-orchestrate and self-adapt into stronger collective intelligence without centralized control? Inspired by Friedrich Hayek's economic theory of decentralized coordin",
+      "published": "2026-05-31T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
       "is_new": false
     }
   ],
@@ -1547,7 +1547,7 @@
         "category": "news",
         "points": 2,
         "comments": 0,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "82fc23d8b0ef5ba8f4186e8a35ed713a",
@@ -1559,7 +1559,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "48390017",
