@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-04T14:08:56.543254+00:00",
+  "last_updated": "2026-06-04T15:29:22.780558+00:00",
   "total_entries": 110,
-  "new_entries": 11,
+  "new_entries": 17,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,11 +768,11 @@
       "is_new": false
     },
     {
-      "id": "1dece77575dccacfc94a460961aaeff7",
-      "title": "Elon Musk is steamrolling Wall Street to become a trillionaire",
-      "url": "https://www.theverge.com/podcast/942586/elon-musk-spacex-ipo-x-xai-index-funds",
-      "description": "Today on Decoder, I’m talking to Ryan Mac, a technology reporter at The New York Times and coauthor of the excellent book Character Limit: How Elon Musk Destroyed Twitter, which came out in 2024. I ca",
-      "published": "2026-06-04T09:56:19-04:00",
+      "id": "d1918047860272e42f2809dd6819fe48",
+      "title": "Let us filter AI slop, you cowards",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok",
+      "description": "It's almost impossible to avoid seeing AI-generated content online, but it doesn't have to be this way. YouTube, Instagram, TikTok, and more have ramped up content authentication efforts over the last",
+      "published": "2026-06-04T10:54:38-04:00",
       "source_id": "theverge-ai",
       "source_name": "The Verge AI",
       "source_icon": "📰",
@@ -780,11 +780,23 @@
       "is_new": true
     },
     {
-      "id": "d1918047860272e42f2809dd6819fe48",
-      "title": "Let us filter AI slop, you cowards",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok",
-      "description": "It's almost impossible to avoid seeing AI-generated content online, but it doesn't have to be this way. YouTube, Instagram, TikTok, and more have ramped up content authentication efforts over the last",
-      "published": "2026-06-04T08:22:46-04:00",
+      "id": "efb64d681b1e72e1019567103db434c6",
+      "title": "TSMC struggles to keep up with AI demand: &#8216;We can only support so much&#8217;",
+      "url": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles",
+      "description": "Taiwan Semiconductor Manufacturing Co. - the world's biggest semiconductor-maker - is struggling to meet demands from American customers even with its factory buildout in the US, according to reports",
+      "published": "2026-06-04T10:15:44-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "1dece77575dccacfc94a460961aaeff7",
+      "title": "Elon Musk is steamrolling Wall Street to become a trillionaire",
+      "url": "https://www.theverge.com/podcast/942586/elon-musk-spacex-ipo-x-xai-index-funds",
+      "description": "Today on Decoder, I’m talking to Ryan Mac, a technology reporter at The New York Times and coauthor of the excellent book Character Limit: How Elon Musk Destroyed Twitter, which came out in 2024. I ca",
+      "published": "2026-06-04T09:56:19-04:00",
       "source_id": "theverge-ai",
       "source_name": "The Verge AI",
       "source_icon": "📰",
@@ -946,6 +958,32 @@
       "is_new": false
     },
     {
+      "id": "92b281cd52312ceeaa154ab19fb2e797",
+      "title": "ZipSplat: Fewer Gaussians, Better Splats",
+      "url": "https://huggingface.co/papers/2606.05102",
+      "description": "Feed-forward 3D Gaussian Splatting methods reconstruct a scene from posed or pose-free images in a single forward pass, yet current approaches predict one Gaussian per input pixel, tying the represent",
+      "published": "2026-06-02T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
+      "id": "d70b69c29904600d76f829cc19521fd8",
+      "title": "DAR: Deontic Reasoning with Agentic Harnesses",
+      "url": "https://huggingface.co/papers/2606.05009",
+      "description": "Deontic reasoning is the task of answering questions by applying explicit rules and policies to case-specific facts, for example computing tax liability under a statute or determining the outcome of a",
+      "published": "2026-06-02T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
       "id": "924f6ac650181fc5d1ba1e3ee8121238",
       "title": "Evaluating Large Language Models in Dynamic Clinical Decision-Making with Standardized Patient Cases",
       "url": "https://huggingface.co/papers/2606.05112",
@@ -981,33 +1019,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 31,
-      "is_new": false
-    },
-    {
-      "id": "ab9b46784682410a941d36b185ed5f10",
-      "title": "STRIDE: Training Data Attribution via Sparse Recovery from Subset Perturbations",
-      "url": "https://huggingface.co/papers/2606.05165",
-      "description": "Training Data Attribution (TDA) seeks to trace a model's predictions back to its training data. The gold standard for TDA relies on causal interventions, observing how a model changes when data is add",
-      "published": "2026-06-02T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "be3fef42c0852957dfd41aef9b25bcc6",
-      "title": "AutoLab: Can Frontier Models Solve Long-Horizon Auto Research and Engineering Tasks?",
-      "url": "https://huggingface.co/papers/2606.05080",
-      "description": "Scientific and engineering progress is fundamentally a long-horizon iterative process: proposing changes, running experiments, measuring outcomes, and continuously refining artifacts. Yet existing ben",
-      "published": "2026-06-02T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 7,
+      "likes": 33,
       "is_new": false
     },
     {
@@ -1025,18 +1037,6 @@
       "is_new": false
     },
     {
-      "id": "312f7282d6e49f3f31f0ce69891cc6dc",
-      "title": "Microsoft Build 2026: The 7 biggest announcements",
-      "url": "https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements",
-      "description": "Microsoft just kicked off Build 2026 with a keynote from CEO Satya Nadella and other company leaders. As expected, it was filled with announcements, ranging from new Surface hardware to an always-on p",
-      "published": "2026-06-02T16:17:22-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "48370360",
       "title": "Show HN: Circus Chief – Claude Code, Codex, and Gemini from Your Phone",
       "url": "https://github.com/ferrislucas/Circus-Chief",
@@ -1051,30 +1051,17 @@
       "is_new": false
     },
     {
-      "id": "fead1e5b02104a59cbd8b002ecfae74e",
-      "title": "ThoughtFold: Folding Reasoning Chains via Introspective Preference Learning",
-      "url": "https://huggingface.co/papers/2606.03503",
-      "description": "Large Reasoning Models (LRMs) have achieved remarkable progress thanks to Reinforcement Learning with Verifiable Rewards (RLVR) on Chain-of-Thoughts (CoTs). However, since long CoTs naturally contain ",
-      "published": "2026-06-02T07:21:27.000Z",
+      "id": "4af2a86c3882c8150109c125b7460010",
+      "title": "KletterMix: Climbing Toward High-Quality German Pretraining Data",
+      "url": "https://huggingface.co/papers/2606.03773",
+      "description": "High-quality pretraining data is a central ingredient in modern language models, but German-language resources remain far less developed than their English counterparts: they are often smaller, less c",
+      "published": "2026-06-02T11:28:15.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 23,
-      "is_new": false
-    },
-    {
-      "id": "dbd9cde4673bacfdc240b156e3f26ace",
-      "title": "WebRISE: Requirement-Induced State Evaluation for MLLM-Generated Web Artifacts",
-      "url": "https://huggingface.co/papers/2606.03220",
-      "description": "Existing benchmarks for MLLM-generated web artifacts assess interaction through local evidence and miss the requirement-induced states and transitions that determine whether a page works. We introduce",
-      "published": "2026-06-02T02:29:40.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 8,
-      "is_new": false
+      "likes": 4,
+      "is_new": true
     },
     {
       "id": "85583a6f78a4b2d729a65deda0919d54",
@@ -1086,7 +1073,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": true
     },
     {
@@ -1112,7 +1099,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 27,
+      "likes": 28,
       "is_new": false
     },
     {
@@ -1250,7 +1237,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -1263,7 +1250,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 10,
       "is_new": false
     },
     {
@@ -1291,6 +1278,20 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 1,
+      "comments": 0,
+      "is_new": false
+    },
+    {
+      "id": "48341069",
+      "title": "Show HN: Thaw – Git branch for a running LLM (fork agents, skip prefill)",
+      "url": "https://github.com/thaw-ai/thaw",
+      "description": "",
+      "published": "2026-05-30T22:07:26Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 3,
       "comments": 0,
       "is_new": false
     }
@@ -1538,11 +1539,11 @@
         "is_new": true
       },
       {
-        "id": "1dece77575dccacfc94a460961aaeff7",
-        "title": "Elon Musk is steamrolling Wall Street to become a trillionaire",
-        "url": "https://www.theverge.com/podcast/942586/elon-musk-spacex-ipo-x-xai-index-funds",
-        "description": "Today on Decoder, I’m talking to Ryan Mac, a technology reporter at The New York Times and coauthor of the excellent book Character Limit: How Elon Musk Destroyed Twitter, which came out in 2024. I ca",
-        "published": "2026-06-04T09:56:19-04:00",
+        "id": "d1918047860272e42f2809dd6819fe48",
+        "title": "Let us filter AI slop, you cowards",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok",
+        "description": "It's almost impossible to avoid seeing AI-generated content online, but it doesn't have to be this way. YouTube, Instagram, TikTok, and more have ramped up content authentication efforts over the last",
+        "published": "2026-06-04T10:54:38-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
@@ -1550,11 +1551,23 @@
         "is_new": true
       },
       {
-        "id": "d1918047860272e42f2809dd6819fe48",
-        "title": "Let us filter AI slop, you cowards",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok",
-        "description": "It's almost impossible to avoid seeing AI-generated content online, but it doesn't have to be this way. YouTube, Instagram, TikTok, and more have ramped up content authentication efforts over the last",
-        "published": "2026-06-04T08:22:46-04:00",
+        "id": "efb64d681b1e72e1019567103db434c6",
+        "title": "TSMC struggles to keep up with AI demand: &#8216;We can only support so much&#8217;",
+        "url": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles",
+        "description": "Taiwan Semiconductor Manufacturing Co. - the world's biggest semiconductor-maker - is struggling to meet demands from American customers even with its factory buildout in the US, according to reports",
+        "published": "2026-06-04T10:15:44-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "1dece77575dccacfc94a460961aaeff7",
+        "title": "Elon Musk is steamrolling Wall Street to become a trillionaire",
+        "url": "https://www.theverge.com/podcast/942586/elon-musk-spacex-ipo-x-xai-index-funds",
+        "description": "Today on Decoder, I’m talking to Ryan Mac, a technology reporter at The New York Times and coauthor of the excellent book Character Limit: How Elon Musk Destroyed Twitter, which came out in 2024. I ca",
+        "published": "2026-06-04T09:56:19-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
@@ -1651,18 +1664,6 @@
         "category": "news",
         "points": 2,
         "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "1d45b81d2a65d4ca9b31a05dc0d6f27a",
-        "title": "AI has a water problem — Google thinks it has a fix",
-        "url": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
-        "description": "In the face of widespread backlash to the AI data center buildout throughout the US, Google is touting its efforts to minimize the environmental impact by actually increasing water for local communiti",
-        "published": "2026-06-03T12:08:53-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
         "is_new": false
       }
     ],
