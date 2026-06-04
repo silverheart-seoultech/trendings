@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-04T06:54:04.256407+00:00",
+  "last_updated": "2026-06-04T10:05:00.204483+00:00",
   "total_entries": 110,
   "new_entries": 23,
   "sources": [
@@ -768,6 +768,32 @@
       "is_new": false
     },
     {
+      "id": "48395194",
+      "title": "Ask HN: What are your AI assistants doing?",
+      "url": "https://news.ycombinator.com/item?id=48395194",
+      "description": "",
+      "published": "2026-06-04T07:14:48Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "82fc23d8b0ef5ba8f4186e8a35ed713a",
+      "title": "Amazon develops a warehouse robot workers can speak to",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus",
+      "description": "Amazon has announced a new version of its fully autonomous warehouse robot, Proteus, that will can interact using language instead of code. The expanded capabilities come as part of a growing pivot to",
+      "published": "2026-06-04T05:55:50-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "48390017",
       "title": "Show HN: Yoga for Agentic AI: Cognitive training practices from a yoga studio",
       "url": "https://github.com/stretchvancouver/stretch-ai-yoga",
@@ -779,6 +805,20 @@
       "category": "news",
       "points": 2,
       "comments": 0,
+      "is_new": false
+    },
+    {
+      "id": "48386116",
+      "title": "Show HN: Agent-browser-shield – free extension to protect AI agents on the web",
+      "url": "https://github.com/pixiebrix/agent-browser-shield",
+      "description": "",
+      "published": "2026-06-03T16:23:24Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 7,
+      "comments": 2,
       "is_new": false
     },
     {
@@ -870,6 +910,32 @@
       "is_new": false
     },
     {
+      "id": "6306b328802dff349cb367cd910749e4",
+      "title": "Deep Embedded Multiplicative DMD for Algebra-Preserving Koopman Learning",
+      "url": "https://huggingface.co/papers/2606.05131",
+      "description": "Koopman theory turns nonlinear dynamics into a linear spectral problem. In computation, however, everything depends on a hard finite-dimensional choice: the observables must be expressive, nearly inva",
+      "published": "2026-06-02T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "9bd2f3bceabba4adb42d68d91dc474b0",
+      "title": "Reproducing, Analyzing, and Detecting Reward Hacking in Rubric-Based Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2606.04923",
+      "description": "Rubric-based reinforcement learning (RL) uses an LLM-as-a-Judge (LaaJ) to score model outputs according to rubrics as rewards. However, policy models may exploit latent biases in the judge, leading to",
+      "published": "2026-06-02T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 17,
+      "is_new": true
+    },
+    {
       "id": "ab9b46784682410a941d36b185ed5f10",
       "title": "STRIDE: Training Data Attribution via Sparse Recovery from Subset Perturbations",
       "url": "https://huggingface.co/papers/2606.05165",
@@ -879,7 +945,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": true
     },
     {
@@ -892,7 +958,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 5,
       "is_new": true
     },
     {
@@ -905,7 +971,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
+      "likes": 22,
       "is_new": true
     },
     {
@@ -918,7 +984,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
+      "likes": 9,
       "is_new": true
     },
     {
@@ -931,7 +997,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 1,
       "is_new": true
     },
     {
@@ -944,20 +1010,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
-      "is_new": true
-    },
-    {
-      "id": "b5b792b6542a1cd116565ad5b997ca35",
-      "title": "Audio Interaction Model",
-      "url": "https://huggingface.co/papers/2606.05121",
-      "description": "Audio is an inherently interactive modality, yet today's Large Audio Language Models (LALMs) are offline, and streaming audio models each handle only a single task such as streaming ASR or voice chatt",
-      "published": "2026-06-02T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
+      "likes": 14,
       "is_new": true
     },
     {
@@ -980,18 +1033,6 @@
       "url": "https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements",
       "description": "Microsoft just kicked off Build 2026 with a keynote from CEO Satya Nadella and other company leaders. As expected, it was filled with announcements, ranging from new Surface hardware to an always-on p",
       "published": "2026-06-02T16:17:22-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "a19c9d4810b106ac214fd86f68dd2857",
-      "title": "Google’s Phone app will tell you if a scammer is impersonating one of your contacts",
-      "url": "https://www.theverge.com/tech/941517/google-phone-scammer-ai-impersonation",
-      "description": "Google is launching a new feature for its Phone app that aims to protect you from AI impersonation scams. Now, when you receive a call from a scammer that appears to be coming from the same number as",
-      "published": "2026-06-02T14:45:37-04:00",
       "source_id": "theverge-ai",
       "source_name": "The Verge AI",
       "source_icon": "📰",
@@ -1058,7 +1099,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 17,
+      "likes": 19,
       "is_new": true
     },
     {
@@ -1071,7 +1112,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
+      "likes": 8,
       "is_new": true
     },
     {
@@ -1084,7 +1125,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 13,
+      "likes": 23,
       "is_new": true
     },
     {
@@ -1097,7 +1138,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": true
     },
     {
@@ -1110,7 +1151,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
+      "likes": 10,
       "is_new": true
     },
     {
@@ -1123,20 +1164,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
-      "is_new": true
-    },
-    {
-      "id": "9d5e314238d5b2ce585e1598eb34fb79",
-      "title": "BraveGuard: From Open-World Threats to Safer Computer-Use Agents",
-      "url": "https://huggingface.co/papers/2606.01166",
-      "description": "Computer-use agents extend language models from text generation to sustained interaction with files, terminals, browsers, and external tools. This shift creates safety risks that are difficult to dete",
-      "published": "2026-06-01T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
+      "likes": 6,
       "is_new": true
     },
     {
@@ -1219,7 +1247,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 12,
       "is_new": true
     },
     {
@@ -1263,32 +1291,6 @@
       "points": 3,
       "comments": 2,
       "is_new": false
-    },
-    {
-      "id": "5ffce9c830fd9004bccab2e1368f908e",
-      "title": "Filter, Then Reweight: Rethinking Optimization Granularity in On-Policy Distillation",
-      "url": "https://huggingface.co/papers/2606.02684",
-      "description": "On-Policy distillation (OPD) in large language models is shifting from full-trace KL supervision toward more selective training paradigms. Recent OPD methods increasingly focus on selecting which traj",
-      "published": "2026-05-31T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 7,
-      "is_new": true
-    },
-    {
-      "id": "86f7322795950eeb4dead7c93fd4b881",
-      "title": "Where Do Deep-Research Agents Go Wrong? Span-Level Error Localization in Agent Trajectories",
-      "url": "https://huggingface.co/papers/2606.02060",
-      "description": "Deep-research agents solve tasks through long trajectories of search, tool use, evidence inspection, and answer synthesis. Evaluation based on final answers shows whether an agent succeeds, but not wh",
-      "published": "2026-05-31T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 22,
-      "is_new": true
     }
   ],
   "by_category": {
@@ -1534,6 +1536,32 @@
         "is_new": false
       },
       {
+        "id": "48395194",
+        "title": "Ask HN: What are your AI assistants doing?",
+        "url": "https://news.ycombinator.com/item?id=48395194",
+        "description": "",
+        "published": "2026-06-04T07:14:48Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 2,
+        "comments": 0,
+        "is_new": true
+      },
+      {
+        "id": "82fc23d8b0ef5ba8f4186e8a35ed713a",
+        "title": "Amazon develops a warehouse robot workers can speak to",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus",
+        "description": "Amazon has announced a new version of its fully autonomous warehouse robot, Proteus, that will can interact using language instead of code. The expanded capabilities come as part of a growing pivot to",
+        "published": "2026-06-04T05:55:50-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "48390017",
         "title": "Show HN: Yoga for Agentic AI: Cognitive training practices from a yoga studio",
         "url": "https://github.com/stretchvancouver/stretch-ai-yoga",
@@ -1545,6 +1573,20 @@
         "category": "news",
         "points": 2,
         "comments": 0,
+        "is_new": false
+      },
+      {
+        "id": "48386116",
+        "title": "Show HN: Agent-browser-shield – free extension to protect AI agents on the web",
+        "url": "https://github.com/pixiebrix/agent-browser-shield",
+        "description": "",
+        "published": "2026-06-03T16:23:24Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 7,
+        "comments": 2,
         "is_new": false
       },
       {
@@ -1617,44 +1659,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition",
         "description": "At Microsoft's annual Build conference on Tuesday, the company announced a slew of new or expanded AI initiatives, including a super app, in-house reasoning models, a cybersecurity tool, and OpenClaw-",
         "published": "2026-06-03T10:14:26-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "fb64ca63075cd72c348cb8020eec4158",
-        "title": "Google must let publishers opt out of AI Search features, rules UK",
-        "url": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out",
-        "description": "Online publishers are getting more control over whether their websites appear in Google's AI Search features, thanks to a UK regulatory ruling. The new conduct rule imposed by the Competition and Mark",
-        "published": "2026-06-03T05:23:57-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "48372560",
-        "title": "How to evaluate models for production coding agents",
-        "url": "https://blaxel.ai/blog/llm-coding-benchmarks",
-        "description": "",
-        "published": "2026-06-02T16:35:52Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 3,
-        "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "312f7282d6e49f3f31f0ce69891cc6dc",
-        "title": "Microsoft Build 2026: The 7 biggest announcements",
-        "url": "https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements",
-        "description": "Microsoft just kicked off Build 2026 with a keynote from CEO Satya Nadella and other company leaders. As expected, it was filled with announcements, ranging from new Surface hardware to an always-on p",
-        "published": "2026-06-02T16:17:22-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
