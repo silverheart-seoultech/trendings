@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-05T05:46:24.704556+00:00",
+  "last_updated": "2026-06-05T10:02:10.116314+00:00",
   "total_entries": 110,
-  "new_entries": 5,
+  "new_entries": 11,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -777,8 +777,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 43,
-      "comments": 6,
+      "points": 45,
+      "comments": 11,
       "is_new": false
     },
     {
@@ -882,6 +882,32 @@
       "is_new": false
     },
     {
+      "id": "08d743b9c5b93383b115277f7963c1f5",
+      "title": "Towards One-to-Many Temporal Grounding",
+      "url": "https://huggingface.co/papers/2606.06294",
+      "description": "Temporal Grounding (TG) aims to localize video segments corresponding to a textual query. Prior research predominantly focuses on single-segment retrieval. Real-world scenarios, however, often require",
+      "published": "2026-06-03T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
+      "id": "9725123fcbc553dbf4d48898b0ca0fde",
+      "title": "LLMs Can Leak Training Data But Do They Want To? A Propensity-Aware Evaluation of Memorization in LLMs",
+      "url": "https://huggingface.co/papers/2606.06286",
+      "description": "Large language models can reproduce training data, but existing memorization evaluations mostly measure whether models can be forced to do so, rather than whether they do so under ordinary use. We int",
+      "published": "2026-06-03T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 6,
+      "is_new": true
+    },
+    {
       "id": "f29b60dc1214f08f23a2c00b4bacb70f",
       "title": "AdaPlanBench: Evaluating Adaptive Planning in Large Language Model Agents under World and User Constraints",
       "url": "https://huggingface.co/papers/2606.05622",
@@ -891,7 +917,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 11,
+      "likes": 24,
       "is_new": true
     },
     {
@@ -904,7 +930,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": true
     },
     {
@@ -917,7 +943,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 12,
       "is_new": true
     },
     {
@@ -930,7 +956,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 20,
+      "likes": 28,
       "is_new": false
     },
     {
@@ -943,59 +969,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 13,
-      "is_new": false
-    },
-    {
-      "id": "183bcbfa9196f8c0c972299259527d0a",
-      "title": "LoomVideo: Unifying Multimodal Inputs into Video Generation and Editing",
-      "url": "https://huggingface.co/papers/2606.06042",
-      "description": "Developing unified video generation and editing models capable of interpreting interleaved multimodal inputs is a promising yet challenging frontier field. Existing unified frameworks predominantly re",
-      "published": "2026-06-03T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 8,
-      "is_new": false
-    },
-    {
-      "id": "f4d803f8f5406f891dcf23e055a0afbb",
-      "title": "World-Language-Action Model for Unified World Modeling, Language Reasoning, and Action Synthesis",
-      "url": "https://huggingface.co/papers/2606.05979",
-      "description": "We propose world-language-action (WLA) models as a new class of embodied foundation models. WLA takes textual instructions, images, and robot states as inputs to jointly predict textual subtasks, subg",
-      "published": "2026-06-03T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "3badf06107d90cd81f5a08dcc62b3499",
-      "title": "Discrete-WAM: Unified Discrete Vision-Action Token Editing for World-Policy Learning",
-      "url": "https://huggingface.co/papers/2606.05645",
-      "description": "Autonomous driving requires reasoning about how ego actions shape the evolution of the surrounding world. However, most end-to-end methods rely on direct state-to-action mappings, capturing correlatio",
-      "published": "2026-06-03T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "28a20ff5c8ae9922e674999a7953ed81",
-      "title": "Latent Reasoning with Normalizing Flows",
-      "url": "https://huggingface.co/papers/2606.06447",
-      "description": "Large language models often improve reasoning by generating explicit chain-of-thought (CoT), demonstrating the importance of intermediate computation. However, textual CoT forces this computation thro",
-      "published": "2026-06-03T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
+      "likes": 19,
       "is_new": false
     },
     {
@@ -1098,7 +1072,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 30,
       "is_new": true
     },
     {
@@ -1111,7 +1085,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 1,
       "is_new": false
     },
     {
@@ -1124,20 +1098,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 13,
-      "is_new": false
-    },
-    {
-      "id": "8831cfe9d28daee8b46fa88bae3f5fe0",
-      "title": "Flash-WAM: Modality-Aware Distillation for World Action Models",
-      "url": "https://huggingface.co/papers/2606.05254",
-      "description": "World-action models (WAMs) jointly generate future video and robot actions through iterative diffusion, achieving strong performance on manipulation benchmarks but requiring tens of denoising steps, a",
-      "published": "2026-06-02T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
+      "likes": 15,
       "is_new": false
     },
     {
@@ -1169,6 +1130,19 @@
       "is_new": false
     },
     {
+      "id": "b2c833a01bfd14a03c37fcf14285c788",
+      "title": "SEAOTTER: Sensor Embedded Autoencoding with One-Time Transcode for Efficient Reconstruction",
+      "url": "https://huggingface.co/papers/2606.03940",
+      "description": "In robotics systems, vast amounts of visual data are easily captured at high resolution using low-cost, low-power hardware. Yet, limited bandwidth and on-device compute resources prevent full utilizat",
+      "published": "2026-06-01T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "827e2e123a319e0733930ac7a8c4e89b",
       "title": "RobotValues: Evaluating Household Robots When Human Values Conflict",
       "url": "https://huggingface.co/papers/2606.03312",
@@ -1178,7 +1152,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 16,
+      "likes": 18,
       "is_new": false
     },
     {
@@ -1192,19 +1166,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "42c6be835fdee6cf319bed7c9269d781",
-      "title": "The Shadow Price of Reasoning: Economic Perspective on Optimal Budget Allocation for LLMs",
-      "url": "https://huggingface.co/papers/2606.03092",
-      "description": "Inference-time scaling has emerged as a critical avenue for enhancing Large Language Models' performance, yet real-world deployment is constrained by strict computational budgets. In this work, we for",
-      "published": "2026-06-01T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
       "is_new": false
     },
     {
@@ -1273,7 +1234,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 99,
+      "points": 100,
       "comments": 26,
       "is_new": false
     },
@@ -1290,6 +1251,47 @@
       "points": 2,
       "comments": 1,
       "is_new": false
+    },
+    {
+      "id": "48350800",
+      "title": "New AI Agent Architecture to fix LLM deviations and token costs",
+      "url": "https://github.com/botcircuits-ai/botcircuits-agent",
+      "description": "",
+      "published": "2026-05-31T23:21:43Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": false
+    },
+    {
+      "id": "48349275",
+      "title": "Headroom compresses everything your AI agent reads before it reaches the LLM",
+      "url": "https://pypi.org/project/headroom-ai/",
+      "description": "",
+      "published": "2026-05-31T20:10:44Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 3,
+      "comments": 2,
+      "is_new": false
+    },
+    {
+      "id": "872f4242ee9142cde09e57ad37d6f75d",
+      "title": "AdaCodec: A Predictive Visual Code for Video MLLMs",
+      "url": "https://huggingface.co/papers/2606.02569",
+      "description": "Video is temporally redundant: adjacent frames usually share most objects, background, and layout. Yet existing video multimodal large language models (video MLLMs) usually encode each sampled frame a",
+      "published": "2026-05-31T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
     }
   ],
   "by_category": {
@@ -1544,8 +1546,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 43,
-        "comments": 6,
+        "points": 45,
+        "comments": 11,
         "is_new": false
       },
       {
