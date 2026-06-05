@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-04T22:42:48.850508+00:00",
-  "total_entries": 90,
-  "new_entries": 3,
+  "last_updated": "2026-06-05T00:18:33.843701+00:00",
+  "total_entries": 110,
+  "new_entries": 6,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -180,16 +180,16 @@
       "is_new": false
     },
     {
-      "id": "1a9290e008eb94f30dfc98b5d794c43b",
-      "title": "Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI",
-      "url": "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/",
-      "description": "The caveat is that one of the world's most famous living directors is using the tech solely for storyboarding.",
-      "published": "Tue, 02 Jun 2026 18:16:53 +0000",
+      "id": "9c7d6c037dae31d8ffc977e20833ae28",
+      "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+      "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+      "description": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory fa",
+      "published": "Thu, 04 Jun 2026 22:43:26 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "64d9b1101438f86f9546a4a79a8d9fd2",
@@ -777,8 +777,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 18,
-      "comments": 2,
+      "points": 31,
+      "comments": 5,
       "is_new": true
     },
     {
@@ -972,6 +972,58 @@
       "is_new": false
     },
     {
+      "id": "616ad36a624f6383ea72c62e8cfe1e73",
+      "title": "Probing Outcome-Level Resemblance and Mechanism-Level Alignment in LLM Risk Decisions: Evidence from the St. Petersburg Game",
+      "url": "https://huggingface.co/papers/2606.04978",
+      "description": "LLMs can appear cautious in risk decision-making tasks, yet cautious-looking outputs do not necessarily indicate alignment with human decision-making mechanisms. We investigate this distinction using ",
+      "published": "2026-06-02T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": false
+    },
+    {
+      "id": "92b281cd52312ceeaa154ab19fb2e797",
+      "title": "ZipSplat: Fewer Gaussians, Better Splats",
+      "url": "https://huggingface.co/papers/2606.05102",
+      "description": "Feed-forward 3D Gaussian Splatting methods reconstruct a scene from posed or pose-free images in a single forward pass, yet current approaches predict one Gaussian per input pixel, tying the represent",
+      "published": "2026-06-02T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 11,
+      "is_new": false
+    },
+    {
+      "id": "d70b69c29904600d76f829cc19521fd8",
+      "title": "DAR: Deontic Reasoning with Agentic Harnesses",
+      "url": "https://huggingface.co/papers/2606.05009",
+      "description": "Deontic reasoning is the task of answering questions by applying explicit rules and policies to case-specific facts, for example computing tax liability under a statute or determining the outcome of a",
+      "published": "2026-06-02T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": false
+    },
+    {
+      "id": "924f6ac650181fc5d1ba1e3ee8121238",
+      "title": "Evaluating Large Language Models in Dynamic Clinical Decision-Making with Standardized Patient Cases",
+      "url": "https://huggingface.co/papers/2606.05112",
+      "description": "Large language models (LLMs) are increasingly proposed as clinical agents, yet static, single-turn benchmarks cannot capture how a model dynamically delivers care across an encounter: gathering inform",
+      "published": "2026-06-02T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": false
+    },
+    {
       "id": "48372560",
       "title": "How to evaluate models for production coding agents",
       "url": "https://blaxel.ai/blog/llm-coding-benchmarks",
@@ -997,6 +1049,110 @@
       "category": "news",
       "points": 3,
       "comments": 0,
+      "is_new": false
+    },
+    {
+      "id": "4af2a86c3882c8150109c125b7460010",
+      "title": "KletterMix: Climbing Toward High-Quality German Pretraining Data",
+      "url": "https://huggingface.co/papers/2606.03773",
+      "description": "High-quality pretraining data is a central ingredient in modern language models, but German-language resources remain far less developed than their English counterparts: they are often smaller, less c",
+      "published": "2026-06-02T11:28:15.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 10,
+      "is_new": false
+    },
+    {
+      "id": "640fbde1914e0f6fae54f47cf635e39a",
+      "title": "Agentic Chain-of-Thought Steering for Efficient and Controllable LLM Reasoning",
+      "url": "https://huggingface.co/papers/2606.03965",
+      "description": "Large language models improve final-answer accuracy through extended chain-of-thought reasoning, but often spend tokens inefficiently and offer little inference-time control. Existing efficient reason",
+      "published": "2026-06-01T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "6a994f0b601ed8ddc98bfbf8f575ec82",
+      "title": "Large Language Models Hack Rewards, and Society",
+      "url": "https://huggingface.co/papers/2606.04075",
+      "description": "Reinforcement learning (RL) has become a dominant post-training paradigm, enabling large language models (LLMs) to learn from rewards. We observe that societal regulations are structurally similar to ",
+      "published": "2026-06-01T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": false
+    },
+    {
+      "id": "a11307fc1a6eebd63f541137091941a8",
+      "title": "Neural Networks Provably Learn Spectral Representations for Group Composition",
+      "url": "https://huggingface.co/papers/2606.02993",
+      "description": "Understanding how structured internal structure emerges during neural network training is central to the study of deep learning. We investigate this phenomenon through the group composition task, wher",
+      "published": "2026-06-01T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": false
+    },
+    {
+      "id": "de3359eb691ebeee368130f05c0d6741",
+      "title": "Token Budgets: An Empirical Catalog of 63 LLM-Agent Budget-Overrun Incidents, with an Affine-Typed Rust Mitigation as a Case Study",
+      "url": "https://huggingface.co/papers/2606.04056",
+      "description": "LLM-agent budget overruns are a documented production failure class: a single retry loop can spend thousands of dollars before an operator notices, and the in-process integrity properties that would p",
+      "published": "2026-06-01T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": false
+    },
+    {
+      "id": "a650b80343931c1106f0310bcd5a4a19",
+      "title": "When Graph Tokens Sink: A Mechanistic Analysis of Graph Language Models",
+      "url": "https://huggingface.co/papers/2606.03712",
+      "description": "Graph Language Models (GLMs) have become a promising direction for adapting Large Language Models (LLMs) to graph learning tasks. By transforming graph topology and node information into graph tokens,",
+      "published": "2026-06-01T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": false
+    },
+    {
+      "id": "85583a6f78a4b2d729a65deda0919d54",
+      "title": "Agent libOS: A Library-OS-Inspired Runtime for Long-Running, Capability-Controlled LLM Agents",
+      "url": "https://huggingface.co/papers/2606.03895",
+      "description": "Large language model (LLM) agents are evolving from request-response assistants into long-running software actors: they maintain state across model calls, fork subtasks, wait for external events, requ",
+      "published": "2026-06-01T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": false
+    },
+    {
+      "id": "1f4971a54d74261b11503505c3794b18",
+      "title": "Training-Free Multi-Concept LoRA Composition with Prompt-Aware Weighting",
+      "url": "https://huggingface.co/papers/2606.03792",
+      "description": "Low-Rank Adaptation (LoRA) successfully enables personalization in text-to-image generation by adapting pre-trained diffusion models to specific visual concepts and styles. However, extending such mod",
+      "published": "2026-06-01T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
       "is_new": false
     },
     {
@@ -1112,6 +1268,19 @@
       "is_new": false
     },
     {
+      "id": "a2743636b0ff4b25bad46e566e4445dd",
+      "title": "Scalable Inference-Time Annealing with Surrogate Likelihood Estimators",
+      "url": "https://huggingface.co/papers/2605.31498",
+      "description": "A long standing challenge in computational chemistry and biophysics is efficiently sampling the Boltzmann distribution of molecules. Advances in generative modeling have been proposed to address the l",
+      "published": "2026-05-31T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": false
+    },
+    {
       "id": "48346958",
       "title": "Show HN: Agents, run any coding agent on your subscription not API costs",
       "url": "https://agents-cli.sh",
@@ -1122,48 +1291,6 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 6,
-      "comments": 2,
-      "is_new": false
-    },
-    {
-      "id": "48344357",
-      "title": "Show HN: Egress WAF to limit AI agents and NPM malware based on mitmproxy",
-      "url": "https://github.com/esamattis/mitmwall",
-      "description": "",
-      "published": "2026-05-31T09:52:23Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 1,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "48341069",
-      "title": "Show HN: Thaw – Git branch for a running LLM (fork agents, skip prefill)",
-      "url": "https://github.com/thaw-ai/thaw",
-      "description": "",
-      "published": "2026-05-30T22:07:26Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 3,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "48339824",
-      "title": "Show HN: AI Simulaionen Based on FEP",
-      "url": "https://aic-ai-lab.site/login",
-      "description": "",
-      "published": "2026-05-30T19:32:53Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 4,
       "comments": 2,
       "is_new": false
     }
@@ -1303,16 +1430,16 @@
         "is_new": false
       },
       {
-        "id": "1a9290e008eb94f30dfc98b5d794c43b",
-        "title": "Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI",
-        "url": "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/",
-        "description": "The caveat is that one of the world's most famous living directors is using the tech solely for storyboarding.",
-        "published": "Tue, 02 Jun 2026 18:16:53 +0000",
+        "id": "9c7d6c037dae31d8ffc977e20833ae28",
+        "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+        "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+        "description": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory fa",
+        "published": "Thu, 04 Jun 2026 22:43:26 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
+        "is_new": true
       },
       {
         "id": "64d9b1101438f86f9546a4a79a8d9fd2",
@@ -1420,8 +1547,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 18,
-        "comments": 2,
+        "points": 31,
+        "comments": 5,
         "is_new": true
       },
       {
