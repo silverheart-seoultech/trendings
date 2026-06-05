@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-05T16:08:12.331754+00:00",
+  "last_updated": "2026-06-05T18:06:00.314969+00:00",
   "total_entries": 110,
-  "new_entries": 6,
+  "new_entries": 12,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -132,18 +132,6 @@
       "is_new": false
     },
     {
-      "id": "ad14f408dfde1d17d8aa4be5d8535ec7",
-      "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
-      "url": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
-      "description": "Coralogix is among a growing number of infrastructure firms betting that as AI systems move into production, demand will rise for tools that can monitor their behavior, troubleshoot failures, and prov",
-      "published": "Wed, 03 Jun 2026 13:02:51 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "9c7d6c037dae31d8ffc977e20833ae28",
       "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
       "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
@@ -250,6 +238,18 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "79cc28ab279bcc16417d1d9d02f795b5",
+      "title": "The most interesting startups right now want to get you off your phone",
+      "url": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
+      "description": "While the AI fundraising machine keeps breaking its own records, some founders are building in the other direction.  Mirror founder Brynn Putnam just raised money for Board, a startup focused on bring",
+      "published": "Fri, 05 Jun 2026 17:17:06 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "177fcfdc05d4ab4bab538bfcde7cebdd",
@@ -769,7 +769,7 @@
     },
     {
       "id": "48413629",
-      "title": "Ask HN: What is your (AI) dev tech stack / workflow? (June 2026)",
+      "title": "Ask HN: What is your (AI) dev tech stack / workflow?",
       "url": "https://news.ycombinator.com/item?id=48413629",
       "description": "",
       "published": "2026-06-05T15:13:54Z",
@@ -777,8 +777,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 15,
-      "comments": 18,
+      "points": 64,
+      "comments": 54,
       "is_new": false
     },
     {
@@ -800,7 +800,19 @@
       "title": "New York lawmakers pass one-year ban on new data centers",
       "url": "https://www.theverge.com/policy/944041/new-york-data-center-moratorium",
       "description": "The New York State legislature passed a one-year moratorium on new large data centers, the first statewide ban of its kind if Democratic Governor Kathy Hochul signs it into law. Lawmakers behind the b",
-      "published": "2026-06-05T12:01:08-04:00",
+      "published": "2026-06-05T12:48:45-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "7082779c41f8f9568703148ad86f9567",
+      "title": "This is your laptop… on AI",
+      "url": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
+      "description": "We're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change everything about how we do everything. Nvi",
+      "published": "2026-06-05T12:39:07-04:00",
       "source_id": "theverge-ai",
       "source_name": "The Verge AI",
       "source_icon": "📰",
@@ -842,7 +854,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 45,
-      "comments": 13,
+      "comments": 14,
       "is_new": false
     },
     {
@@ -956,7 +968,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 3,
       "is_new": true
     },
     {
@@ -969,7 +981,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 8,
       "is_new": true
     },
     {
@@ -1060,46 +1072,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
-      "is_new": false
-    },
-    {
-      "id": "f29b60dc1214f08f23a2c00b4bacb70f",
-      "title": "AdaPlanBench: Evaluating Adaptive Planning in Large Language Model Agents under World and User Constraints",
-      "url": "https://huggingface.co/papers/2606.05622",
-      "description": "Planning for real-world problems by language models often involves both world and user constraints, which may not be fully specified upfront and are progressively disclosed through interaction. Howeve",
-      "published": "2026-06-03T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 29,
-      "is_new": false
-    },
-    {
-      "id": "ef77b42207e1afba893ee08f54e3bcf3",
-      "title": "Towards Truly Multilingual ASR: Generalizing Code-Switching ASR to Unseen Language Pairs",
-      "url": "https://huggingface.co/papers/2606.05846",
-      "description": "Automatic Speech Recognition (ASR) has become a key technology for human--AI interaction. However, code-switching ASR (CS-ASR) remains particularly challenging due to the severe scarcity of multilingu",
-      "published": "2026-06-03T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "4d599b97e260ac29e3e393fb1260f717",
-      "title": "Complexity-Balanced Diffusion Splitting",
-      "url": "https://huggingface.co/papers/2606.06477",
-      "description": "Standard continuous-time generative models rely on monolithic architectures that must navigate vastly different signal regimes, from isotropic noise to intricate data distributions. While scaling mode",
-      "published": "2026-06-03T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 15,
+      "likes": 7,
       "is_new": false
     },
     {
@@ -1143,18 +1116,6 @@
       "is_new": false
     },
     {
-      "id": "581cb35474331e95db226d8631420e28",
-      "title": "Amazon&#8217;s search bar will invent AI-generated products you can&#8217;t buy",
-      "url": "https://www.theverge.com/tech/942547/amazon-search-bar-ai-images",
-      "description": "Amazon's updated search bar will now show you AI-generated images of products as you describe them. For now, the in-app feature only surfaces AI images of clothing and home goods, allowing you to tap",
-      "published": "2026-06-03T12:07:31-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "48382280",
       "title": "Which LLM Memory for AI Agents?",
       "url": "https://grigio.org/w/",
@@ -1166,19 +1127,6 @@
       "category": "news",
       "points": 2,
       "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "c7196732f3dd88445ce2acb33d7334a2",
-      "title": "TIDE: Proactive Multi-Problem Discovery via Template-Guided Iteration",
-      "url": "https://huggingface.co/papers/2606.04743",
-      "description": "Agents are widely deployed as assistants over documents, tools, and code. However, they typically act only on explicit user requests, which surface only the problems the user has noticed, while many o",
-      "published": "2026-06-02T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 34,
       "is_new": false
     },
     {
@@ -1210,6 +1158,19 @@
       "is_new": false
     },
     {
+      "id": "54b6390a1ae0e925913d9df16ef56429",
+      "title": "MAOAM: Unified Object and Material Selection with Vision-Language Models",
+      "url": "https://huggingface.co/papers/2606.04880",
+      "description": "Selection is a core operation in interactive image editing. To be practical, a user should be able to specify and disambiguate the desired selection region through either text or click-based interacti",
+      "published": "2026-06-01T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
       "id": "b2c833a01bfd14a03c37fcf14285c788",
       "title": "SEAOTTER: Sensor Embedded Autoencoding with One-Time Transcode for Efficient Reconstruction",
       "url": "https://huggingface.co/papers/2606.03940",
@@ -1219,7 +1180,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -1290,6 +1251,48 @@
       "category": "news",
       "points": 100,
       "comments": 27,
+      "is_new": false
+    },
+    {
+      "id": "48352369",
+      "title": "Ask HN: How do you solve AI's confused deputy problem?",
+      "url": "https://news.ycombinator.com/item?id=48352369",
+      "description": "",
+      "published": "2026-06-01T03:40:23Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 1,
+      "is_new": false
+    },
+    {
+      "id": "48350800",
+      "title": "New AI Agent Architecture to fix LLM deviations and token costs",
+      "url": "https://github.com/botcircuits-ai/botcircuits-agent",
+      "description": "",
+      "published": "2026-05-31T23:21:43Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": false
+    },
+    {
+      "id": "48349275",
+      "title": "Headroom compresses everything your AI agent reads before it reaches the LLM",
+      "url": "https://pypi.org/project/headroom-ai/",
+      "description": "",
+      "published": "2026-05-31T20:10:44Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 3,
+      "comments": 2,
       "is_new": false
     }
   ],
@@ -1373,18 +1376,6 @@
         "url": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
         "description": "WhatsApp will charge businesses for using its AI agent based on token usage.",
         "published": "Wed, 03 Jun 2026 13:40:00 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "ad14f408dfde1d17d8aa4be5d8535ec7",
-        "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
-        "url": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
-        "description": "Coralogix is among a growing number of infrastructure firms betting that as AI systems move into production, demand will rise for tools that can monitor their behavior, troubleshoot failures, and prov",
-        "published": "Wed, 03 Jun 2026 13:02:51 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
@@ -1500,6 +1491,18 @@
         "is_new": false
       },
       {
+        "id": "79cc28ab279bcc16417d1d9d02f795b5",
+        "title": "The most interesting startups right now want to get you off your phone",
+        "url": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
+        "description": "While the AI fundraising machine keeps breaking its own records, some founders are building in the other direction.  Mirror founder Brynn Putnam just raised money for Board, a startup focused on bring",
+        "published": "Fri, 05 Jun 2026 17:17:06 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "177fcfdc05d4ab4bab538bfcde7cebdd",
         "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
         "url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
@@ -1537,7 +1540,7 @@
       },
       {
         "id": "48413629",
-        "title": "Ask HN: What is your (AI) dev tech stack / workflow? (June 2026)",
+        "title": "Ask HN: What is your (AI) dev tech stack / workflow?",
         "url": "https://news.ycombinator.com/item?id=48413629",
         "description": "",
         "published": "2026-06-05T15:13:54Z",
@@ -1545,8 +1548,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 15,
-        "comments": 18,
+        "points": 64,
+        "comments": 54,
         "is_new": false
       },
       {
@@ -1568,7 +1571,19 @@
         "title": "New York lawmakers pass one-year ban on new data centers",
         "url": "https://www.theverge.com/policy/944041/new-york-data-center-moratorium",
         "description": "The New York State legislature passed a one-year moratorium on new large data centers, the first statewide ban of its kind if Democratic Governor Kathy Hochul signs it into law. Lawmakers behind the b",
-        "published": "2026-06-05T12:01:08-04:00",
+        "published": "2026-06-05T12:48:45-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "7082779c41f8f9568703148ad86f9567",
+        "title": "This is your laptop… on AI",
+        "url": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
+        "description": "We're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change everything about how we do everything. Nvi",
+        "published": "2026-06-05T12:39:07-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
@@ -1610,7 +1625,7 @@
         "source_icon": "🟧",
         "category": "news",
         "points": 45,
-        "comments": 13,
+        "comments": 14,
         "is_new": false
       },
       {
@@ -1643,18 +1658,6 @@
         "url": "https://www.theverge.com/podcast/942586/elon-musk-spacex-ipo-x-xai-index-funds",
         "description": "Today on Decoder, I’m talking to Ryan Mac, a technology reporter at The New York Times and coauthor of the excellent book Character Limit: How Elon Musk Destroyed Twitter, which came out in 2024. I ca",
         "published": "2026-06-04T09:56:19-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "bdaf3c1d9aba270b3c659166010e8110",
-        "title": "AI leaders call for tougher protections against AI-aided bioweapons",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/942956/ai-biological-weapons-open-letter-congress",
-        "description": "Some of the AI industry's biggest rivals have put their many, many grievances aside for a common cause: making it harder for people to use their technology to develop biological weapons. In an open le",
-        "published": "2026-06-04T08:12:12-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
