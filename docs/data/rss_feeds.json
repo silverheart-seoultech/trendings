@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-06T19:40:12.799545+00:00",
-  "total_entries": 70,
-  "new_entries": 6,
+  "last_updated": "2026-06-06T19:44:58.656957+00:00",
+  "total_entries": 90,
+  "new_entries": 20,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -177,7 +177,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "fc0aef7cf74aaa4ec415e3edc3962f05",
@@ -189,7 +189,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "ccfe51be44a803329ef4ec10991a2b6e",
@@ -201,7 +201,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "1f16d91e2c4d4b1c8f8490cd40f11c37",
@@ -539,7 +539,7 @@
       "category": "news",
       "points": 2,
       "comments": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "859e1a741ce4773995c37130aa41fdc5",
@@ -551,7 +551,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "48419065",
@@ -577,7 +577,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "48413629",
@@ -746,6 +746,136 @@
       "is_new": false
     },
     {
+      "id": "c6b46d5e35c83c6861d994dcf43d0cce",
+      "title": "Regret Minimization with Adaptive Opponents in Repeated Games",
+      "url": "https://huggingface.co/papers/2606.06486",
+      "description": "In this paper, we study regret minimization in repeated games with adaptive opponents who can respond based on histories of play. The standard metric of external regret in online learning is known to ",
+      "published": "2026-06-03T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "8f854049371136e4f5e7126e2a4f613c",
+      "title": "Learning Geometric Representations from Videos for Spatial Intelligent Multimodal Large Language Models",
+      "url": "https://huggingface.co/papers/2606.05833",
+      "description": "Multimodal Large Language Models (MLLMs) excel at 2D semantic understanding but lack intrinsic 3D awareness, resulting in representations that fail to maintain geometric and spatial consistency across",
+      "published": "2026-06-03T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
+      "id": "3c6971fbcc38bb45619e42f449c4e433",
+      "title": "AffordanceVLA: A Vision-Language-Action Model Empowering Action Generation through Affordance-Aware Understanding",
+      "url": "https://huggingface.co/papers/2606.06155",
+      "description": "Vision-Language-Action (VLA) models leverage the rich world knowledge of pretrained vision-language models (VLMs) to enable instruction-following robotic manipulation. However, the structural mismatch",
+      "published": "2026-06-03T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 6,
+      "is_new": true
+    },
+    {
+      "id": "265f5a3dad1da43f89532661ffcd5baf",
+      "title": "Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution",
+      "url": "https://huggingface.co/papers/2606.06492",
+      "description": "Code language models need repository-level context to resolve imports, APIs, and project conventions. Existing methods inject this knowledge as long inputs (retrieved through RAG or dependency analysi",
+      "published": "2026-06-03T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 62,
+      "is_new": true
+    },
+    {
+      "id": "30f8307003e160c1ce70312b756482aa",
+      "title": "AURA: Intent-Directed Probing for Implicit-Need Surfacing in Situated LLM Agents",
+      "url": "https://huggingface.co/papers/2606.05557",
+      "description": "A situated query like \"where is Lin Wei?\" often encodes more than its literal content: the user may also want to know whether Lin Wei is free, in a good mood, or worth interrupting now. Standard tool-",
+      "published": "2026-06-03T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "f049d54daf9f2f9992dfd7e46e110a7c",
+      "title": "Benchmark Everything Everywhere All at Once",
+      "url": "https://huggingface.co/papers/2606.06462",
+      "description": "Benchmarks are fundamental for evaluating and advancing LLMs and MLLMs by providing standardized and explicit measures of performance. However, their construction is labor-intensive and hard to reuse,",
+      "published": "2026-06-03T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "429226bea7628cd4c52ff017ceb1ed73",
+      "title": "Revising Context, Shifting Simulated Stance: Auditing LLM-Based Stance Simulation in Online Discussions",
+      "url": "https://huggingface.co/papers/2606.06443",
+      "description": "Large language models are increasingly used to simulate social media users and infer how individuals may respond to online discussions. However, it remains unclear whether these simulations reflect pr",
+      "published": "2026-06-03T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "b5efd2e74481b2faad7fb27abd471da8",
+      "title": "ForeSci: Evaluating LLM Agents for Forward-Looking AI Research Judgment",
+      "url": "https://huggingface.co/papers/2606.00644",
+      "description": "AI research often requires decisions before future evidence exists: which bottleneck to attack, which direction to pursue, or where a project should be positioned. We introduce ForeSci, a temporally c",
+      "published": "2026-06-03T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "c8df50df0b716042c8e4ea609861ec27",
+      "title": "Dream.exe: Can Video Generation Models Dream Executable Robot Manipulation?",
+      "url": "https://huggingface.co/papers/2606.04811",
+      "description": "Video generation models have made impressive strides in synthesizing visually compelling content, yet their outputs remain confined to the virtual domain. A natural question follows: how well do these",
+      "published": "2026-06-03T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 15,
+      "is_new": true
+    },
+    {
+      "id": "08d743b9c5b93383b115277f7963c1f5",
+      "title": "Towards One-to-Many Temporal Grounding",
+      "url": "https://huggingface.co/papers/2606.06294",
+      "description": "Temporal Grounding (TG) aims to localize video segments corresponding to a textual query. Prior research predominantly focuses on single-segment retrieval. Real-world scenarios, however, often require",
+      "published": "2026-06-03T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
+    },
+    {
       "id": "48383456",
       "title": "Show HN: Aura, an LLM coding harness that dogfooded itself",
       "url": "https://github.com/CarpseDeam/Aura-IDE",
@@ -774,6 +904,19 @@
       "is_new": false
     },
     {
+      "id": "945f698f13a4916074f377ae41239bb1",
+      "title": "BRepCLIP: Contrastive Multimodal Pretraining on BRep Primitives for CAD Understanding",
+      "url": "https://huggingface.co/papers/2606.05515",
+      "description": "Learning representations of CAD models is a largely open problem. While 3D representation learning has flourished around point clouds and meshes, the native format of CAD - boundary representations BR",
+      "published": "2026-06-02T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "48372560",
       "title": "How to evaluate models for production coding agents",
       "url": "https://blaxel.ai/blog/llm-coding-benchmarks",
@@ -800,6 +943,32 @@
       "points": 4,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "54b6390a1ae0e925913d9df16ef56429",
+      "title": "MAOAM: Unified Object and Material Selection with Vision-Language Models",
+      "url": "https://huggingface.co/papers/2606.04880",
+      "description": "Selection is a core operation in interactive image editing. To be practical, a user should be able to specify and disambiguate the desired selection region through either text or click-based interacti",
+      "published": "2026-06-01T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 8,
+      "is_new": true
+    },
+    {
+      "id": "b2c833a01bfd14a03c37fcf14285c788",
+      "title": "SEAOTTER: Sensor Embedded Autoencoding with One-Time Transcode for Efficient Reconstruction",
+      "url": "https://huggingface.co/papers/2606.03940",
+      "description": "In robotics systems, vast amounts of visual data are easily captured at high resolution using low-cost, low-power hardware. Yet, limited bandwidth and on-device compute resources prevent full utilizat",
+      "published": "2026-06-01T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
     },
     {
       "id": "48360921",
@@ -914,6 +1083,45 @@
       "is_new": false
     },
     {
+      "id": "e16a8a81f0d945df04ca94ff23de016c",
+      "title": "The Road Ahead in Autonomous Driving: The KITScenes Multimodal Dataset",
+      "url": "https://huggingface.co/papers/2606.02956",
+      "description": "Existing autonomous driving datasets have enabled major progress, but fall short in sensor fidelity, map completeness, or geographic diversity. We present KITScenes Multimodal, a European dataset buil",
+      "published": "2026-05-31T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 14,
+      "is_new": true
+    },
+    {
+      "id": "5d0e9d407d6979e85050e4c605936fc6",
+      "title": "LLM Anonymization Against Agentic Re-Identification",
+      "url": "https://huggingface.co/papers/2605.30848",
+      "description": "Agentic LLMs with web search change the threat model for text anonymization: weak contextual cues can become cross-referenceable evidence for re-identification, yet those same details also carry downs",
+      "published": "2026-05-31T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "7d9b9328c38762fcb05d3cf315fbff70",
+      "title": "Absorbing Complexity: An Interaction-Native Knowledge Harness for Financial LLM Agents",
+      "url": "https://huggingface.co/papers/2606.01886",
+      "description": "Financial AI agents often fail for a simple reason: they make users carry the complexity. A user must repeatedly restate goals, risk preferences, portfolio context, past judgments, and shifting market",
+      "published": "2026-05-31T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
       "id": "48346958",
       "title": "Show HN: Agents, run any coding agent on your subscription not API costs",
       "url": "https://agents-cli.sh",
@@ -926,6 +1134,58 @@
       "points": 6,
       "comments": 2,
       "is_new": false
+    },
+    {
+      "id": "b511bb99d10833a0c8cb215db8e97bfe",
+      "title": "SABER: Benchmarking Operational Safety of LLM Coding Agents in Stateful Project Workspaces",
+      "url": "https://huggingface.co/papers/2606.01317",
+      "description": "Large language models are increasingly deployed as coding agents, shifting safety from individual responses to action sequences. Existing benchmarks, however, primarily assess whether models refuse un",
+      "published": "2026-05-30T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "d590cd54557d0f023d2c33bc1a2ea960",
+      "title": "The Shape of Addition: Geometric Structures of Arithmetic in Large Language Models",
+      "url": "https://huggingface.co/papers/2606.03645",
+      "description": "Large Language Models exhibit paradoxical fragility in fundamental arithmetic, implying a disconnect between internal computation and discrete output. By analyzing the residual stream geometry during ",
+      "published": "2026-05-28T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
+      "id": "00079fd24e8636343cecd3a777b36a74",
+      "title": "MechVQA: Benchmarking and Enhancing Multimodal LLMs on Comprehensive Mechanical Drawing Understanding",
+      "url": "https://huggingface.co/papers/2605.30794",
+      "description": "Multimodal Large Language Models (MLLMs) have demonstrated significant achievements in general visual question answering (VQA) tasks. However, they remain brittle on mechanical engineering drawings, w",
+      "published": "2026-05-28T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
+      "id": "1222df8ca5991037e1313ee225901224",
+      "title": "Trust Region Q Adjoint Matching",
+      "url": "https://huggingface.co/papers/2605.27079",
+      "description": "Off-policy reinforcement learning of pretrained flow policies remains challenging due to the instability of optimization arising from the multi-step sampling process. Recently, Q-learning with Adjoint",
+      "published": "2026-05-25T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
     }
   ],
   "by_category": {
@@ -1060,7 +1320,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "fc0aef7cf74aaa4ec415e3edc3962f05",
@@ -1072,7 +1332,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "ccfe51be44a803329ef4ec10991a2b6e",
@@ -1084,7 +1344,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "5f705da3009f13d8b44777caa4da5081",
@@ -1182,7 +1442,7 @@
         "category": "news",
         "points": 2,
         "comments": 0,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "859e1a741ce4773995c37130aa41fdc5",
@@ -1194,7 +1454,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "48419065",
@@ -1220,7 +1480,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "48413629",
@@ -1539,6 +1799,136 @@
         "source_icon": "📄",
         "category": "research",
         "is_new": false
+      },
+      {
+        "id": "c6b46d5e35c83c6861d994dcf43d0cce",
+        "title": "Regret Minimization with Adaptive Opponents in Repeated Games",
+        "url": "https://huggingface.co/papers/2606.06486",
+        "description": "In this paper, we study regret minimization in repeated games with adaptive opponents who can respond based on histories of play. The standard metric of external regret in online learning is known to ",
+        "published": "2026-06-03T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 1,
+        "is_new": true
+      },
+      {
+        "id": "8f854049371136e4f5e7126e2a4f613c",
+        "title": "Learning Geometric Representations from Videos for Spatial Intelligent Multimodal Large Language Models",
+        "url": "https://huggingface.co/papers/2606.05833",
+        "description": "Multimodal Large Language Models (MLLMs) excel at 2D semantic understanding but lack intrinsic 3D awareness, resulting in representations that fail to maintain geometric and spatial consistency across",
+        "published": "2026-06-03T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 3,
+        "is_new": true
+      },
+      {
+        "id": "3c6971fbcc38bb45619e42f449c4e433",
+        "title": "AffordanceVLA: A Vision-Language-Action Model Empowering Action Generation through Affordance-Aware Understanding",
+        "url": "https://huggingface.co/papers/2606.06155",
+        "description": "Vision-Language-Action (VLA) models leverage the rich world knowledge of pretrained vision-language models (VLMs) to enable instruction-following robotic manipulation. However, the structural mismatch",
+        "published": "2026-06-03T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 6,
+        "is_new": true
+      },
+      {
+        "id": "265f5a3dad1da43f89532661ffcd5baf",
+        "title": "Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution",
+        "url": "https://huggingface.co/papers/2606.06492",
+        "description": "Code language models need repository-level context to resolve imports, APIs, and project conventions. Existing methods inject this knowledge as long inputs (retrieved through RAG or dependency analysi",
+        "published": "2026-06-03T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 62,
+        "is_new": true
+      },
+      {
+        "id": "30f8307003e160c1ce70312b756482aa",
+        "title": "AURA: Intent-Directed Probing for Implicit-Need Surfacing in Situated LLM Agents",
+        "url": "https://huggingface.co/papers/2606.05557",
+        "description": "A situated query like \"where is Lin Wei?\" often encodes more than its literal content: the user may also want to know whether Lin Wei is free, in a good mood, or worth interrupting now. Standard tool-",
+        "published": "2026-06-03T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 1,
+        "is_new": true
+      },
+      {
+        "id": "f049d54daf9f2f9992dfd7e46e110a7c",
+        "title": "Benchmark Everything Everywhere All at Once",
+        "url": "https://huggingface.co/papers/2606.06462",
+        "description": "Benchmarks are fundamental for evaluating and advancing LLMs and MLLMs by providing standardized and explicit measures of performance. However, their construction is labor-intensive and hard to reuse,",
+        "published": "2026-06-03T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 2,
+        "is_new": true
+      },
+      {
+        "id": "429226bea7628cd4c52ff017ceb1ed73",
+        "title": "Revising Context, Shifting Simulated Stance: Auditing LLM-Based Stance Simulation in Online Discussions",
+        "url": "https://huggingface.co/papers/2606.06443",
+        "description": "Large language models are increasingly used to simulate social media users and infer how individuals may respond to online discussions. However, it remains unclear whether these simulations reflect pr",
+        "published": "2026-06-03T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 2,
+        "is_new": true
+      },
+      {
+        "id": "b5efd2e74481b2faad7fb27abd471da8",
+        "title": "ForeSci: Evaluating LLM Agents for Forward-Looking AI Research Judgment",
+        "url": "https://huggingface.co/papers/2606.00644",
+        "description": "AI research often requires decisions before future evidence exists: which bottleneck to attack, which direction to pursue, or where a project should be positioned. We introduce ForeSci, a temporally c",
+        "published": "2026-06-03T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 0,
+        "is_new": true
+      },
+      {
+        "id": "c8df50df0b716042c8e4ea609861ec27",
+        "title": "Dream.exe: Can Video Generation Models Dream Executable Robot Manipulation?",
+        "url": "https://huggingface.co/papers/2606.04811",
+        "description": "Video generation models have made impressive strides in synthesizing visually compelling content, yet their outputs remain confined to the virtual domain. A natural question follows: how well do these",
+        "published": "2026-06-03T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 15,
+        "is_new": true
+      },
+      {
+        "id": "08d743b9c5b93383b115277f7963c1f5",
+        "title": "Towards One-to-Many Temporal Grounding",
+        "url": "https://huggingface.co/papers/2606.06294",
+        "description": "Temporal Grounding (TG) aims to localize video segments corresponding to a textual query. Prior research predominantly focuses on single-segment retrieval. Real-world scenarios, however, often require",
+        "published": "2026-06-03T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 4,
+        "is_new": true
       }
     ]
   }
