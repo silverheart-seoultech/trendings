@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-08T19:34:22.142763+00:00",
+  "last_updated": "2026-06-08T20:25:47.541701+00:00",
   "total_entries": 110,
-  "new_entries": 17,
+  "new_entries": 20,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -124,7 +124,7 @@
       "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
       "url": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
       "description": "Apple’s WWDC 2026 event kicked off this morning at 10 a.m. PT at Apple Park, starting a week full of expected announcements around Siri, iOS 27, Apple Intelligence and more, along with developer event",
-      "published": "Mon, 08 Jun 2026 19:14:11 +0000",
+      "published": "Mon, 08 Jun 2026 19:41:32 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
@@ -777,8 +777,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 1,
-      "comments": 1,
+      "points": 5,
+      "comments": 9,
       "is_new": true
     },
     {
@@ -805,8 +805,32 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 7,
-      "comments": 0,
+      "points": 9,
+      "comments": 1,
+      "is_new": true
+    },
+    {
+      "id": "d83456ffca102e61a938eba86d00a571",
+      "title": "Apple announces Siri AI and its next generation of Apple Intelligence",
+      "url": "https://www.theverge.com/tech/942416/apple-siri-ai-update-wwdc",
+      "description": "Two years after first revealing its plans for Apple Intelligence and a smarter Siri that never fully materialized, at WWDC, Apple just revealed a new set of AI features and a smarter, more personalize",
+      "published": "2026-06-08T14:56:58-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "d78d511bcce6621052827f6e57a35f46",
+      "title": "Amazon is launching AI-generated custom merch",
+      "url": "https://www.theverge.com/news/945905/amazon-alexa-shopping-ai-generated-custom-merch-design-printing",
+      "description": "Amazon is expanding its print-on-demand features to AI-generated designs created using Alexa for Shopping for products like T-shirts, water bottles, and hoodies. Shoppers can use text prompts to gener",
+      "published": "2026-06-08T13:52:51-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
       "is_new": true
     },
     {
@@ -911,7 +935,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 27,
+      "points": 29,
       "comments": 9,
       "is_new": false
     },
@@ -1022,35 +1046,11 @@
       "is_new": false
     },
     {
-      "id": "e1aa286110296dc5f6f74e67ccdc7e4f",
-      "title": "New York lawmakers pass one-year ban on new data centers",
-      "url": "https://www.theverge.com/policy/944041/new-york-data-center-moratorium",
-      "description": "The New York State legislature passed a one-year moratorium on new large data centers, the first statewide ban of its kind if Democratic Governor Kathy Hochul signs it into law. Lawmakers behind the b",
-      "published": "2026-06-05T12:48:45-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "7082779c41f8f9568703148ad86f9567",
       "title": "This is your laptop… on AI",
       "url": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
       "description": "We're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change everything about how we do everything. Nvi",
       "published": "2026-06-05T12:39:07-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "7de40954fb2f66368e9ab96d7bfd2872",
-      "title": "This AI startup says it can tell if a script will make a hit film",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood",
-      "description": "When Quilty hit the industry trades earlier this year, the AI startup promised that its tool could accurately predict a film's success just by reading the script. When people actually got a chance to",
-      "published": "2026-06-05T10:26:50-04:00",
       "source_id": "theverge-ai",
       "source_name": "The Verge AI",
       "source_icon": "📰",
@@ -1070,6 +1070,19 @@
       "points": 91,
       "comments": 21,
       "is_new": false
+    },
+    {
+      "id": "74a1263e4e84354211f334ac60d1d3b5",
+      "title": "ECI_{sem}: Semantic Residual Effective Contrastive Information for Evaluating Hard Negatives",
+      "url": "https://huggingface.co/papers/2603.20990",
+      "description": "Hard-negative source selection for dense retrieval is usually decided only after fine-tuning and downstream evaluation. We propose ECI_{sem}, a semantic residual variant of Effective Contrastive Infor",
+      "published": "2026-06-04T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
     },
     {
       "id": "b8fbdcecf1abb0ed06d90176b5141075",
@@ -1174,7 +1187,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 10,
+      "likes": 13,
       "is_new": true
     },
     {
@@ -1213,7 +1226,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 18,
+      "likes": 19,
       "is_new": false
     },
     {
@@ -1227,19 +1240,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 12,
-      "is_new": false
-    },
-    {
-      "id": "e96882c9362a79e56ebfa07f80b2bdaf",
-      "title": "SoCRATES: Towards Reliable Automated Evaluation of Proactive LLM Mediation across Domains and Socio-cognitive Variations",
-      "url": "https://huggingface.co/papers/2606.05563",
-      "description": "Evaluating LLM mediators remains challenging, as mediation unfolds as a real-time trajectory shaped by disputants' shifting emotions, intentions, and context. Existing testbeds rely on a few expert-au",
-      "published": "2026-06-03T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 42,
       "is_new": false
     },
     {
@@ -1377,7 +1377,7 @@
         "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
         "url": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
         "description": "Apple’s WWDC 2026 event kicked off this morning at 10 a.m. PT at Apple Park, starting a week full of expected announcements around Siri, iOS 27, Apple Intelligence and more, along with developer event",
-        "published": "Mon, 08 Jun 2026 19:14:11 +0000",
+        "published": "Mon, 08 Jun 2026 19:41:32 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
@@ -1550,8 +1550,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 1,
-        "comments": 1,
+        "points": 5,
+        "comments": 9,
         "is_new": true
       },
       {
@@ -1578,8 +1578,32 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 7,
-        "comments": 0,
+        "points": 9,
+        "comments": 1,
+        "is_new": true
+      },
+      {
+        "id": "d83456ffca102e61a938eba86d00a571",
+        "title": "Apple announces Siri AI and its next generation of Apple Intelligence",
+        "url": "https://www.theverge.com/tech/942416/apple-siri-ai-update-wwdc",
+        "description": "Two years after first revealing its plans for Apple Intelligence and a smarter Siri that never fully materialized, at WWDC, Apple just revealed a new set of AI features and a smarter, more personalize",
+        "published": "2026-06-08T14:56:58-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "d78d511bcce6621052827f6e57a35f46",
+        "title": "Amazon is launching AI-generated custom merch",
+        "url": "https://www.theverge.com/news/945905/amazon-alexa-shopping-ai-generated-custom-merch-design-printing",
+        "description": "Amazon is expanding its print-on-demand features to AI-generated designs created using Alexa for Shopping for products like T-shirts, water bottles, and hoodies. Shoppers can use text prompts to gener",
+        "published": "2026-06-08T13:52:51-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
         "is_new": true
       },
       {
@@ -1638,34 +1662,6 @@
         "url": "https://github.com/orion-arm-ai/tinytasktree",
         "description": "",
         "published": "2026-06-08T10:10:22Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 1,
-        "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "48443152",
-        "title": "Ask HN: What is the AI setup for an experienced dev starting on a new project?",
-        "url": "https://news.ycombinator.com/item?id=48443152",
-        "description": "",
-        "published": "2026-06-08T09:38:40Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 5,
-        "comments": 3,
-        "is_new": false
-      },
-      {
-        "id": "48442307",
-        "title": "Show HN: AI Boost – an MCP for accessing your everyday patterns",
-        "url": "https://www.ai-boost.io/",
-        "description": "",
-        "published": "2026-06-08T07:30:37Z",
         "source_id": "hn-ai",
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
