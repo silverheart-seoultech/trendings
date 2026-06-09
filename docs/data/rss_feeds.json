@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-09T21:06:47.812114+00:00",
+  "last_updated": "2026-06-09T22:46:31.868896+00:00",
   "total_entries": 110,
-  "new_entries": 6,
+  "new_entries": 9,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -49,7 +49,7 @@
   "entries": [
     {
       "id": "41d61a583cc52d19b7b9c60525fe8ed3",
-      "title": "Hey Siri, here’s what I actually want from AI",
+      "title": "Hey, Siri, here’s what I actually want from AI",
       "url": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
       "description": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?",
       "published": "Tue, 09 Jun 2026 20:50:17 +0000",
@@ -96,16 +96,16 @@
       "is_new": false
     },
     {
-      "id": "0d6f15e04d913ccf4c5a36be2f1f905f",
+      "id": "407d457f16b209198e24ebcff67f2066",
       "title": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
-      "url": "https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/",
+      "url": "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/",
       "description": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology.",
       "published": "Tue, 09 Jun 2026 17:00:00 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "da7fe1785fe9dcfed336ed1edf6af110",
@@ -869,7 +869,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 5,
+      "points": 6,
       "comments": 1,
       "is_new": false
     },
@@ -986,7 +986,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 10,
-      "comments": 35,
+      "comments": 36,
       "is_new": false
     },
     {
@@ -1112,6 +1112,19 @@
       "is_new": false
     },
     {
+      "id": "5e51945237318193e060f22ce98f287f",
+      "title": "Precision Is Not Faithfulness: Coverage-Aware Evaluation of Grounded Generation with a Complete Oracle",
+      "url": "https://huggingface.co/papers/2606.09376",
+      "description": "Reference-free faithfulness metrics verify each atomic claim a model makes against ground truth, and are increasingly used to evaluate grounded generation. We show they share a blind spot: they measur",
+      "published": "2026-06-07T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "48436024",
       "title": "Show HN: Help SourceLibrary.org Translate the Renaissance",
       "url": "https://sourcelibrary.org",
@@ -1123,19 +1136,6 @@
       "category": "news",
       "points": 8,
       "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "d2b940b1665a8c7c8e0cfcc7b3fa12e1",
-      "title": "OmniCap-IF: Benchmarking and Improving Instruction Following Abilities for Omni-Video Captioning",
-      "url": "https://huggingface.co/papers/2606.08572",
-      "description": "While Omni-modal Large Language Models (OLLMs) have demonstrated impressive capabilities in jointly processing audio and visual streams, their ability to strictly adhere to complex, multi-faceted user",
-      "published": "2026-06-06T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 9,
       "is_new": false
     },
     {
@@ -1268,7 +1268,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -1281,20 +1281,20 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 10,
+      "likes": 11,
       "is_new": false
     },
     {
-      "id": "14b3b15bf1b97969116074468b89b1c2",
-      "title": "SlimSearcher: Training Efficiency-Aware Web Agents via Adaptive Reward Gating",
-      "url": "https://huggingface.co/papers/2606.07074",
-      "description": "Deep research agents have demonstrated remarkable capabilities in complex information-seeking tasks, yet this power comes at a steep computational cost. Driven by accuracy-focused training paradigms, ",
-      "published": "2026-06-04T20:00:00.000Z",
+      "id": "62e192b4b17005d0e7c1065ba08c1476",
+      "title": "AsyncWebRL: Efficient Multi-Step RL for Visual Web Agents",
+      "url": "https://huggingface.co/papers/2606.05597",
+      "description": "Training vision-language web agents with multi-step RL is compute-intensive, with two dominant forms of inefficiency: idle GPUs in synchronous RL, and trajectories that use more steps and tokens than ",
+      "published": "2026-06-03T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
+      "likes": 2,
       "is_new": false
     }
   ],
@@ -1302,7 +1302,7 @@
     "news": [
       {
         "id": "41d61a583cc52d19b7b9c60525fe8ed3",
-        "title": "Hey Siri, here’s what I actually want from AI",
+        "title": "Hey, Siri, here’s what I actually want from AI",
         "url": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
         "description": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?",
         "published": "Tue, 09 Jun 2026 20:50:17 +0000",
@@ -1349,16 +1349,16 @@
         "is_new": false
       },
       {
-        "id": "0d6f15e04d913ccf4c5a36be2f1f905f",
+        "id": "407d457f16b209198e24ebcff67f2066",
         "title": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
-        "url": "https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/",
+        "url": "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/",
         "description": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology.",
         "published": "Tue, 09 Jun 2026 17:00:00 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
+        "is_new": true
       },
       {
         "id": "da7fe1785fe9dcfed336ed1edf6af110",
@@ -1642,7 +1642,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 5,
+        "points": 6,
         "comments": 1,
         "is_new": false
       },
