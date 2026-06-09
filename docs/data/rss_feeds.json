@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-09T04:21:38.967697+00:00",
+  "last_updated": "2026-06-09T08:39:33.829761+00:00",
   "total_entries": 110,
-  "new_entries": 2,
+  "new_entries": 21,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -769,7 +769,7 @@
     },
     {
       "id": "48456339",
-      "title": "Built an open-source local firewall for AI coding agents",
+      "title": "Show HN: Built an open-source local firewall for AI coding agents",
       "url": "https://news.ycombinator.com/item?id=48456339",
       "description": "",
       "published": "2026-06-09T04:19:12Z",
@@ -777,8 +777,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 1,
-      "comments": 0,
+      "points": 2,
+      "comments": 1,
       "is_new": true
     },
     {
@@ -791,8 +791,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 40,
-      "comments": 12,
+      "points": 49,
+      "comments": 21,
       "is_new": false
     },
     {
@@ -819,8 +819,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 7,
-      "comments": 25,
+      "points": 8,
+      "comments": 28,
       "is_new": false
     },
     {
@@ -869,7 +869,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 10,
+      "points": 11,
       "comments": 8,
       "is_new": false
     },
@@ -883,8 +883,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 17,
-      "comments": 4,
+      "points": 18,
+      "comments": 5,
       "is_new": false
     },
     {
@@ -909,8 +909,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 4,
-      "comments": 8,
+      "points": 5,
+      "comments": 9,
       "is_new": false
     },
     {
@@ -938,6 +938,19 @@
       "is_new": false
     },
     {
+      "id": "18ae1161126e06a04d9f0551c84a6d4b",
+      "title": "Optical Reasoning: Rethinking Images as an Expressive Reasoning Medium Beyond Text",
+      "url": "https://huggingface.co/papers/2606.09585",
+      "description": "Chain-of-Thought (CoT) improves the performance of Large Language Models (LLMs) and has been extended to Multimodal Large Language Models (MLLMs). More recent work further moves from text-based multim",
+      "published": "2026-06-08T10:58:59.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "31e4ddfc8c05318710ccdce8fea66e71",
       "title": "Microsoft’s AI chief says superintelligence is near, but won’t take your job",
       "url": "https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation",
@@ -959,7 +972,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 1,
+      "points": 2,
       "comments": 0,
       "is_new": false
     },
@@ -973,9 +986,35 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 5,
-      "comments": 3,
+      "points": 6,
+      "comments": 4,
       "is_new": false
+    },
+    {
+      "id": "032b3aa306a2e8adcfac0c48b916823b",
+      "title": "Reasoning Arena: Trace Tournaments When Verifiable Rewards Fall Short",
+      "url": "https://huggingface.co/papers/2606.09380",
+      "description": "Reinforcement learning with verifiable rewards (RLVR) has become a leading paradigm for improving the reasoning ability of large language models through outcome-based supervision. However, verifiable ",
+      "published": "2026-06-08T07:57:17.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
+      "id": "5f92534dd884f0a884c2ca8102431dc7",
+      "title": "Experience Makes Skillful: Enabling Generalizable Medical Agent Reasoning via Self-Evolving Skill Memory",
+      "url": "https://huggingface.co/papers/2606.09365",
+      "description": "Medical agent systems are increasingly expected to support interactive clinical decision making rather than only static question answering. In such settings, effective agents must reuse prior experien",
+      "published": "2026-06-08T07:37:01.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
     },
     {
       "id": "48442307",
@@ -987,9 +1026,22 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 1,
+      "points": 2,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "e79354025eff00ade42eff6f481c7794",
+      "title": "Hardening Agent Benchmarks with Adversarial Hacker-Fixer Loops",
+      "url": "https://huggingface.co/papers/2606.08960",
+      "description": "Agent benchmarks score submissions with outcome verifiers that are typically hand-written and brittle, leaving them open to reward hacking. We audit 1,968 tasks across five terminal-agent benchmarks a",
+      "published": "2026-06-07T23:00:56.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
     },
     {
       "id": "48438180",
@@ -1001,87 +1053,61 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 29,
+      "points": 31,
       "comments": 9,
       "is_new": false
     },
     {
-      "id": "0627f71eb2024ce5f44e7682963eeb38",
-      "title": "FlashMemory-DeepSeek-V4: Lightning Index Ultra-Long Context via Lookahead Sparse Attention",
-      "url": "https://huggingface.co/papers/2606.09079",
-      "description": "Conventional LLMs keep the full KV cache loaded during decoding, causing a severe GPU memory bottleneck for ultra-long context serving. In this report, we propose Lookahead Sparse Attention (LSA), a n",
+      "id": "ac1c23134827fb8df7532c52f433973a",
+      "title": "SwiftVR: Real-Time One-Step Generative Video Restoration",
+      "url": "https://huggingface.co/papers/2606.09516",
+      "description": "Real-time video restoration (VR) for live streams requires high-resolution outputs under strict per-frame latency constraints. Existing one-step diffusion-based VR models remain difficult to deploy on",
       "published": "2026-06-07T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
-      "is_new": false
+      "likes": 8,
+      "is_new": true
     },
     {
-      "id": "21ee16e5264e69a543080fa889c600b8",
-      "title": "Evaluation Cards: An Interpretive Layer for AI Evaluation Reporting",
-      "url": "https://huggingface.co/papers/2606.09809",
-      "description": "AI evaluation results are produced at scale but reported inconsistently across leaderboards, model cards, benchmark papers, and company blogs. The cost is interpretive: readers cannot reliably compare",
+      "id": "136cf1a10d5ca2cd4137e80022316184",
+      "title": "PBSD: Privileged Bayesian Self-Distillation for Long-Horizon Credit Assignment",
+      "url": "https://huggingface.co/papers/2606.09348",
+      "description": "Long-horizon agentic tasks pose a fundamental credit assignment challenge for outcome-base reinforcement learning: trajectory-level rewards verify final correctness but provide limited guidance on whi",
       "published": "2026-06-07T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": false
+      "is_new": true
     },
     {
-      "id": "999237d24ebe03735369e1fe74e140ad",
-      "title": "End-to-End Context Compression at Scale",
-      "url": "https://huggingface.co/papers/2606.09659",
-      "description": "Long-context language model inference is bottlenecked by memory, as the KV cache grows with context length. Recent techniques to compress the KV cache fall short: they either degrade model quality sub",
-      "published": "2026-06-07T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "f5146acb9006e6d9fa5a97fdf4453fc8",
-      "title": "Echo-Memory: A Controlled Study of Memory in Action World Models",
-      "url": "https://huggingface.co/papers/2606.09803",
-      "description": "We present Echo-Memory, a controlled study of memory mechanisms in action-conditioned world models. These models generate multi-segment videos from a first frame, text prompt, and camera-action sequen",
-      "published": "2026-06-07T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 15,
-      "is_new": false
-    },
-    {
-      "id": "f5411e5472d0cb46df43ac9a6c62c7c1",
-      "title": "Latent Spatial Memory for Video World Models",
-      "url": "https://huggingface.co/papers/2606.09828",
-      "description": "Video world models that maintain 3D spatial consistency across generated frames typically rely on explicit point cloud memory constructed in RGB space. This design is both computationally expensive, r",
-      "published": "2026-06-07T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 24,
-      "is_new": false
-    },
-    {
-      "id": "78ed555e2f83274bdf843c74aba030fa",
-      "title": "SpatialWorld: Benchmarking Interactive Spatial Reasoning of Multimodal Agents in Real-World Tasks",
-      "url": "https://huggingface.co/papers/2606.09669",
-      "description": "Spatial reasoning is a foundational capability for multimodal large language models (MLLMs) to perceive and operate within the physical world. However, existing benchmarks predominantly rely on passiv",
+      "id": "6cdc902af92c996cefbad09c1cf80241",
+      "title": "AHA-WAM:Asynchronous Horizon-Adaptive World-Action Modeling with Observation-Guided Context Routing",
+      "url": "https://huggingface.co/papers/2606.09811",
+      "description": "World-action models have emerged as a promising paradigm for robot manipulation, jointly modeling visual scene dynamics and actions to inject physical priors into policy learning. However, existing wo",
       "published": "2026-06-07T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
       "likes": 11,
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "id": "7be7efe686e278c64b87dc2c89d04b32",
+      "title": "OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics",
+      "url": "https://huggingface.co/papers/2606.09826",
+      "description": "Vision-language model (VLM) agents are increasingly deployed in interactive game environments. Yet game benchmarks for VLM agents typically report a single first-attempt score per (agent, game) pair, ",
+      "published": "2026-06-07T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 14,
+      "is_new": true
     },
     {
       "id": "48436024",
@@ -1098,43 +1124,17 @@
       "is_new": false
     },
     {
-      "id": "de10dde06424f44b5d2d9d14e74180fa",
-      "title": "Trajectory-Refined Distillation",
-      "url": "https://huggingface.co/papers/2606.08432",
-      "description": "On-policy distillation (OPD) has become a central post-training tool for large language models (LLMs), providing dense per-token teacher supervision along the student's own rollouts. In this work, we ",
+      "id": "d6b1f8dd4ea28bb5f3b3c02ffcb73820",
+      "title": "PIPE-Cypher: Automatic Enterprise Benchmark Generation for Text-to-Cypher Systems",
+      "url": "https://huggingface.co/papers/2606.08481",
+      "description": "Enterprise property graphs vary widely in schema structure, internal terminology, domain assumptions, governance constraints, and user interaction patterns. A deployment-relevant Text2Cypher benchmark",
       "published": "2026-06-06T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 0,
       "is_new": true
-    },
-    {
-      "id": "88d238e8627d042914ae0937f3ba7477",
-      "title": "OASIS: From Simulation Data Collection to Real-World Humanoid Loco-Manipulation",
-      "url": "https://huggingface.co/papers/2606.08548",
-      "description": "Recent progress in robot manipulation has been largely driven by learning from large-scale demonstrations. For humanoid robot loco-manipulation tasks, however, existing data sources force an unsatisfy",
-      "published": "2026-06-06T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "e33018bb0cc4aa09aa5de23fb7498bd5",
-      "title": "CoVEBench: Can Video Editing Models Handle Complex Instructions?",
-      "url": "https://huggingface.co/papers/2606.08415",
-      "description": "While recent text-guided video editing models excel at elementary tasks (e.g., style transfer, object insertion), real-world user requests are highly compositional. A single prompt often demands multi",
-      "published": "2026-06-06T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 8,
-      "is_new": false
     },
     {
       "id": "48427178",
@@ -1177,30 +1177,17 @@
       "is_new": false
     },
     {
-      "id": "99176a1b782bc0b8c336d3024a8498e6",
-      "title": "Bayesian-Agent: Posterior-Guided Skill Evolution for LLM Agent Harnesses",
-      "url": "https://huggingface.co/papers/2606.08348",
-      "description": "LLM agents increasingly rely on external inference conditions: prompts, tools, memory, SOPs, skills, and harness feedback. These assets can improve task execution without changing model weights, but t",
+      "id": "7509070d835a8a0ee0f17cbfc5d5d3aa",
+      "title": "Chiaroscuro Attention: Spending Compute in the Dark",
+      "url": "https://huggingface.co/papers/2606.08327",
+      "description": "Standard transformers apply self-attention uniformly at every layer and token, regardless of whether the input requires dynamic cross-token interaction. We propose CHIAR-Former (Chiaroscuro Attention)",
       "published": "2026-06-05T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
-      "is_new": false
-    },
-    {
-      "id": "e3005e3400f740d7aa5d8b8dfb96eeb8",
-      "title": "Set-Based Transformer for Atmospheric Compensation in Standoff LWIR Hyperspectral Imaging",
-      "url": "https://huggingface.co/papers/2606.08324",
-      "description": "Passive long-wave infrared (LWIR) hyperspectral imaging under a standoff geometry depends on atmospheric absorption and emission, as well as reflected radiance, thus making atmospheric compensation es",
-      "published": "2026-06-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
-      "is_new": false
+      "likes": 1,
+      "is_new": true
     },
     {
       "id": "d20c26243dcf5cbbdc67ffd536441f1d",
@@ -1224,7 +1211,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 162,
+      "points": 164,
       "comments": 133,
       "is_new": false
     },
@@ -1257,42 +1244,56 @@
       "is_new": false
     },
     {
-      "id": "233c4dabea19959e4fce8047a69f1857",
-      "title": "On the Geometry of On-Policy Distillation",
-      "url": "https://huggingface.co/papers/2606.07082",
-      "description": "On-policy distillation (OPD) is increasingly used to improve large language model reasoning, but its training dynamics remain poorly understood. We characterize the trajectory of OPD updates in parame",
+      "id": "251d3c63373671af9460314f7480533e",
+      "title": "DuMate-DeepResearch: An Auditable Multi-Agent System with Recursive Search and Rubric-Grounded Reasoning",
+      "url": "https://huggingface.co/papers/2606.07299",
+      "description": "Deep Research (DR) has emerged as a new agentic paradigm to tackle complex, open-ended research tasks, demanding systems that can iteratively frame problems, acquire evidence, verify sources, and synt",
       "published": "2026-06-04T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 39,
+      "likes": 3,
+      "is_new": true
+    },
+    {
+      "id": "9ed4c256d4164c675b3fbd75489fae71",
+      "title": "AI ‘content creators’ are getting harder to spot",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators",
+      "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI confusion, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM E",
+      "published": "2026-06-04T14:31:15-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
       "is_new": false
     },
     {
-      "id": "90a2959203ff9c8e6ed834d97207eafa",
-      "title": "SWE-Explore: Benchmarking How Coding Agents Explore Repositories",
-      "url": "https://huggingface.co/papers/2606.07297",
-      "description": "Repository-level coding benchmarks such as SWE-bench have driven a rapid surge in the capabilities of coding agents. Yet they usually treat coding tasks as a holistic, binary prediction problem (e.g.,",
-      "published": "2026-06-04T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 72,
+      "id": "48395648",
+      "title": "Show HN: Free animated icon library for Vue",
+      "url": "https://respeak-io.github.io/lucide-motion-vue/",
+      "description": "",
+      "published": "2026-06-04T08:07:21Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 63,
+      "comments": 18,
       "is_new": false
     },
     {
-      "id": "1681ccf7f782f9c8701ea58422f23338",
-      "title": "TBD-VLA: Temporal Block Diffusion Vision Language Action Model",
-      "url": "https://huggingface.co/papers/2606.07895",
-      "description": "Discrete Vision-Language-Action (VLA) models typically formulate action generation as next-token prediction over discretized action spaces, conditioning each token autoregressively on prior context. W",
-      "published": "2026-06-04T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
+      "id": "48395194",
+      "title": "Ask HN: What are your AI assistants doing?",
+      "url": "https://news.ycombinator.com/item?id=48395194",
+      "description": "",
+      "published": "2026-06-04T07:14:48Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
       "is_new": false
     }
   ],
@@ -1540,7 +1541,7 @@
       },
       {
         "id": "48456339",
-        "title": "Built an open-source local firewall for AI coding agents",
+        "title": "Show HN: Built an open-source local firewall for AI coding agents",
         "url": "https://news.ycombinator.com/item?id=48456339",
         "description": "",
         "published": "2026-06-09T04:19:12Z",
@@ -1548,8 +1549,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 1,
-        "comments": 0,
+        "points": 2,
+        "comments": 1,
         "is_new": true
       },
       {
@@ -1562,8 +1563,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 40,
-        "comments": 12,
+        "points": 49,
+        "comments": 21,
         "is_new": false
       },
       {
@@ -1590,8 +1591,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 7,
-        "comments": 25,
+        "points": 8,
+        "comments": 28,
         "is_new": false
       },
       {
@@ -1640,7 +1641,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 10,
+        "points": 11,
         "comments": 8,
         "is_new": false
       },
@@ -1654,8 +1655,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 17,
-        "comments": 4,
+        "points": 18,
+        "comments": 5,
         "is_new": false
       },
       {
