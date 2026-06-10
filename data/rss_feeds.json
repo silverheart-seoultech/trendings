@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10T06:40:33.048673+00:00",
+  "last_updated": "2026-06-10T10:13:17.839444+00:00",
   "total_entries": 110,
   "new_entries": 22,
   "sources": [
@@ -47,6 +47,18 @@
     }
   ],
   "entries": [
+    {
+      "id": "db7dea1c0ca67a20b1630e9c5888c98f",
+      "title": "Meta signs first AI data center deal in India with Reliance",
+      "url": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
+      "description": "The 168-megawatt facility will support Meta's global AI computing needs and can be expanded over time.",
+      "published": "Wed, 10 Jun 2026 07:05:26 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "f5f16b778aa511b12529d9bb647b0a71",
       "title": "Google just fired a warning shot in the AI subscription price wars",
@@ -756,16 +768,18 @@
       "is_new": false
     },
     {
-      "id": "a6f495cb508bb46ea833a7dc8b92fdff",
-      "title": "Apple will let you build workflows using AI in its new Shortcuts app",
-      "url": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/",
-      "description": "Shortcuts gets an AI upgrade, letting you describe the workflow you want in a prompt.",
-      "published": "Mon, 08 Jun 2026 18:45:12 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
+      "id": "48472867",
+      "title": "Show HN: Eatmydata.ai – Local-First Question-to-SQL-to-Dashboard AI",
+      "url": "https://eatmydata.ai/",
+      "description": "",
+      "published": "2026-06-10T07:43:21Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
       "category": "news",
-      "is_new": false
+      "points": 2,
+      "comments": 2,
+      "is_new": true
     },
     {
       "id": "48469039",
@@ -777,8 +791,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 25,
-      "comments": 4,
+      "points": 29,
+      "comments": 7,
       "is_new": false
     },
     {
@@ -909,7 +923,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 12,
+      "likes": 13,
       "is_new": true
     },
     {
@@ -922,7 +936,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 18,
+      "likes": 23,
       "is_new": true
     },
     {
@@ -983,7 +997,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 45,
+      "likes": 73,
       "is_new": true
     },
     {
@@ -997,32 +1011,6 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
-    },
-    {
-      "id": "ba1309d7b012d48aba8fcb1af3f315c2",
-      "title": "When the Chain of Thought Knows Better: Failure Modes in Multi-Turn Reasoning Models",
-      "url": "https://huggingface.co/papers/2606.10740",
-      "description": "Failures in multi-turn reasoning models are largely invisible to terminal-score evaluation. A model can lock onto an unsafe stance early in a long dialogue, yet its final-turn refusal rate may appear ",
-      "published": "2026-06-09T07:50:28.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": true
-    },
-    {
-      "id": "36fbf9becb703ad3856aedf154935524",
-      "title": "How Does Reasoning Flow? Tracing Attention-Induced Information Flow for Targeted RL in LLMs",
-      "url": "https://huggingface.co/papers/2606.10646",
-      "description": "Token-level credit assignment remains a key obstacle for reinforcement learning (RL) in large language models (LLMs), where RL recipes typically treat all tokens equally, failing to distinguish decisi",
-      "published": "2026-06-09T05:56:51.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 5,
-      "is_new": true
     },
     {
       "id": "005855fa2dd5dd8f3baf8166e0fb472c",
@@ -1061,7 +1049,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 60,
+      "points": 62,
       "comments": 30,
       "is_new": false
     },
@@ -1080,6 +1068,45 @@
       "is_new": false
     },
     {
+      "id": "c2ba01b932373e0c5dfccb843d402b44",
+      "title": "Kwai Keye-VL-2.0 Technical Report",
+      "url": "https://huggingface.co/papers/2606.10651",
+      "description": "We introduce Kwai Keye-VL-2.0-30B-A3B, an open-source Mixture-of-Experts (MoE) multimodal foundation model designed to advance long-video understanding and agentic intelligence. To address the challen",
+      "published": "2026-06-08T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 145,
+      "is_new": true
+    },
+    {
+      "id": "9ccf780afa961ddc2e9063e8483f1c0b",
+      "title": "UniPET: a universal network for high-quality PET image denoising across varied dose reduction factors",
+      "url": "https://huggingface.co/papers/2606.11131",
+      "description": "Most existing deep learning-based PET image denoising methods assume a fixed and known dose reduction factor (DRF) for low-dose PET images. However, these methods encounter significant performance deg",
+      "published": "2026-06-08T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
+    },
+    {
+      "id": "09c76a5e086440d8622462cf5f2081a1",
+      "title": "U-TTT: Towards Generalizable PET Image Denoising via Test-Time Training",
+      "url": "https://huggingface.co/papers/2606.11032",
+      "description": "Existing deep learning models for Positron Emission Tomography (PET) image denoising often suffer from severe performance degradation under distribution shifts, fundamentally restricting their robust ",
+      "published": "2026-06-08T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
+    },
+    {
       "id": "789a3847fe8d5fbc640c5cfae9864d0c",
       "title": "Flow-DPPO: Divergence Proximal Policy Optimization for Flow Matching Models",
       "url": "https://huggingface.co/papers/2606.11025",
@@ -1089,7 +1116,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 23,
+      "likes": 27,
       "is_new": true
     },
     {
@@ -1102,7 +1129,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 20,
+      "likes": 26,
       "is_new": true
     },
     {
@@ -1115,7 +1142,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 20,
+      "likes": 26,
       "is_new": true
     },
     {
@@ -1128,33 +1155,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
-      "is_new": true
-    },
-    {
-      "id": "a7fa50f77b885f7ec15508e92cbbb204",
-      "title": "ARM: An AutoRegressive Large Multimodal Model with Unified Discrete Representations",
-      "url": "https://huggingface.co/papers/2606.11188",
-      "description": "This paper introduces ARM, a discrete representation-based AutoRegressive Model that unifies image understanding, generation, and editing within a next-token prediction framework. ARM is built on thre",
-      "published": "2026-06-08T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": true
-    },
-    {
-      "id": "7beba2ce5852699513a68c2792978030",
-      "title": "Dynamic Linear Attention",
-      "url": "https://huggingface.co/papers/2606.10650",
-      "description": "The scalability of Large Language Models (LLMs) to long contexts is fundamentally constrained by the quadratic complexity of standard attention, motivating the adoption of linear attention mechanisms ",
-      "published": "2026-06-08T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
+      "likes": 12,
       "is_new": true
     },
     {
@@ -1168,7 +1169,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 10,
-      "comments": 37,
+      "comments": 38,
       "is_new": false
     },
     {
@@ -1198,6 +1199,33 @@
       "is_new": false
     },
     {
+      "id": "48447484",
+      "title": "Show HN: Startup sci-fi novel that took me 5 years to write",
+      "url": "https://www.blockchainednovel.com/",
+      "description": "",
+      "published": "2026-06-08T16:29:38Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 22,
+      "comments": 11,
+      "is_new": false
+    },
+    {
+      "id": "464897f3b597248dbe709b2c6a824dfd",
+      "title": "Interpreting and Steering a Text-to-Speech Language Model with Sparse Autoencoders",
+      "url": "https://huggingface.co/papers/2606.10029",
+      "description": "Language models increasingly serve as the backbone of text-to-speech (TTS) systems, yet we understand little about the representations they build when text and generated speech tokens share a single r",
+      "published": "2026-06-08T14:09:37.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 7,
+      "is_new": true
+    },
+    {
       "id": "48445024",
       "title": "Ask HN: What is the AI setup for an experienced dev starting on a new project?",
       "url": "https://news.ycombinator.com/item?id=48445024",
@@ -1210,6 +1238,32 @@
       "points": 5,
       "comments": 9,
       "is_new": false
+    },
+    {
+      "id": "b60292354eb2442bd5cf76a55629fe7a",
+      "title": "BrainSurgery: Reproducible and Reliable Declarative Weight Manipulations for Model Editing and Upcycling",
+      "url": "https://huggingface.co/papers/2606.09707",
+      "description": "As deep learning models scale, managing, inspecting, and modifying large checkpoints has become increasingly challenging. Researchers often need to alter model weights for layer restructuring, precisi",
+      "published": "2026-06-08T12:26:09.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
+      "id": "81a7f25bf73989d191ed08bec4f69064",
+      "title": "PsychoSafe: Eliciting Psychologically-Informed Refusals in Large Language Models",
+      "url": "https://huggingface.co/papers/2606.09697",
+      "description": "Large language models (LLMs) routinely face requests that should be refused, creating a trade-off between helpfulness and harm prevention. However, refusals themselves can be helpful. In high-risk int",
+      "published": "2026-06-08T12:19:18.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
     },
     {
       "id": "48443382",
@@ -1238,64 +1292,22 @@
       "points": 6,
       "comments": 5,
       "is_new": false
-    },
-    {
-      "id": "48442307",
-      "title": "Show HN: AI Boost – an MCP for accessing your everyday patterns",
-      "url": "https://www.ai-boost.io/",
-      "description": "",
-      "published": "2026-06-08T07:30:37Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "48438180",
-      "title": "Show HN: Nightwatch, The open-source, read-only AI SRE",
-      "url": "https://github.com/ninoxAI/nightwatch",
-      "description": "",
-      "published": "2026-06-07T20:24:36Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 33,
-      "comments": 9,
-      "is_new": false
-    },
-    {
-      "id": "d04debadab5ea8263719886da9e6fee8",
-      "title": "Late-Layer Fusion is Enough: Dual-Path Vision Token Routing for Multimodal Large Language Models under Visual Saturation",
-      "url": "https://huggingface.co/papers/2606.09131",
-      "description": "Multimodal large language models (MLLMs) commonly inherit the deep, symmetric Transformer backbone designed for unimodal text modeling, and apply the same computation uniformly to image and language t",
-      "published": "2026-06-07T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": true
-    },
-    {
-      "id": "ff3d293dbefdde163bf6bd935c792217",
-      "title": "Rethinking the Divergence Regularization in LLM RL",
-      "url": "https://huggingface.co/papers/2606.09821",
-      "description": "Reinforcement learning (RL) has become a key component of post-training large language models (LLMs). In practice, LLM RL is often off-policy because of training-inference mismatch and policy stalenes",
-      "published": "2026-06-07T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 21,
-      "is_new": true
     }
   ],
   "by_category": {
     "news": [
+      {
+        "id": "db7dea1c0ca67a20b1630e9c5888c98f",
+        "title": "Meta signs first AI data center deal in India with Reliance",
+        "url": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
+        "description": "The 168-megawatt facility will support Meta's global AI computing needs and can be expanded over time.",
+        "published": "Wed, 10 Jun 2026 07:05:26 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "f5f16b778aa511b12529d9bb647b0a71",
         "title": "Google just fired a warning shot in the AI subscription price wars",
@@ -1525,16 +1537,18 @@
         "is_new": false
       },
       {
-        "id": "a6f495cb508bb46ea833a7dc8b92fdff",
-        "title": "Apple will let you build workflows using AI in its new Shortcuts app",
-        "url": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/",
-        "description": "Shortcuts gets an AI upgrade, letting you describe the workflow you want in a prompt.",
-        "published": "Mon, 08 Jun 2026 18:45:12 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
+        "id": "48472867",
+        "title": "Show HN: Eatmydata.ai – Local-First Question-to-SQL-to-Dashboard AI",
+        "url": "https://eatmydata.ai/",
+        "description": "",
+        "published": "2026-06-10T07:43:21Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
         "category": "news",
-        "is_new": false
+        "points": 2,
+        "comments": 2,
+        "is_new": true
       },
       {
         "id": "48469039",
@@ -1546,8 +1560,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 25,
-        "comments": 4,
+        "points": 29,
+        "comments": 7,
         "is_new": false
       },
       {
@@ -1652,20 +1666,6 @@
         "category": "news",
         "points": 3,
         "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "48461287",
-        "title": "Show HN: Sandbox AI-app lifecycle, from build to run",
-        "url": "https://capakit.com/",
-        "description": "",
-        "published": "2026-06-09T14:02:32Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 6,
-        "comments": 1,
         "is_new": false
       }
     ],
