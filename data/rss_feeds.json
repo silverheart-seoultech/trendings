@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-09T22:46:31.868896+00:00",
+  "last_updated": "2026-06-10T01:29:13.204772+00:00",
   "total_entries": 110,
-  "new_entries": 9,
+  "new_entries": 13,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,6 +47,30 @@
     }
   ],
   "entries": [
+    {
+      "id": "f5f16b778aa511b12529d9bb647b0a71",
+      "title": "Google just fired a warning shot in the AI subscription price wars",
+      "url": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
+      "description": "Google just made it significantly cheaper to enjoy its budget AI subscription tier.",
+      "published": "Wed, 10 Jun 2026 00:26:10 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "e6f44b6ef7676ebe402d7d8f29a942fa",
+      "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
+      "url": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
+      "description": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX.",
+      "published": "Tue, 09 Jun 2026 23:17:51 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "41d61a583cc52d19b7b9c60525fe8ed3",
       "title": "Hey, Siri, here’s what I actually want from AI",
@@ -744,30 +768,6 @@
       "is_new": false
     },
     {
-      "id": "51afeca065de2a9ccfbd14a0a26a9d1c",
-      "title": "Apple’s Image Playground doesn’t suck anymore",
-      "url": "https://techcrunch.com/2026/06/08/apples-image-playground-doesnt-suck-anymore/",
-      "description": "Apple's AI image generator is getting a makeover that could make it more competitive.",
-      "published": "Mon, 08 Jun 2026 18:38:07 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "58daf599b0c7ec2de5be4311f7bb29bb",
-      "title": "Apple’s Photos app is getting new AI editing features",
-      "url": "https://techcrunch.com/2026/06/08/apples-photos-app-is-getting-new-ai-editing-features/",
-      "description": "A new spatial \"Reframe\" feature will let users use AI to adjust perspectives.",
-      "published": "Mon, 08 Jun 2026 18:36:04 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "48467471",
       "title": "Show HN: Messagevisor – Git-based internationalization and l10n management",
       "url": "https://messagevisor.com/",
@@ -777,7 +777,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 1,
+      "points": 2,
       "comments": 0,
       "is_new": true
     },
@@ -829,7 +829,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 5,
+      "points": 7,
       "comments": 0,
       "is_new": false
     },
@@ -957,7 +957,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 58,
+      "points": 59,
       "comments": 29,
       "is_new": false
     },
@@ -986,7 +986,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 10,
-      "comments": 36,
+      "comments": 37,
       "is_new": false
     },
     {
@@ -1259,6 +1259,19 @@
       "is_new": false
     },
     {
+      "id": "cd33bbc6c3ca4475036f276e09bb9451",
+      "title": "VoLo: A Physical Orchestrator for Open-Vocabulary Long-Horizon Manipulation",
+      "url": "https://huggingface.co/papers/2606.07723",
+      "description": "Open-vocabulary long-horizon manipulation requires robots to reason over flexible instructions and complex multi-object scenes while adaptively planning, executing, monitoring, and recovering from fai",
+      "published": "2026-06-04T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "76dfa7dd095ecc556366b9a13c0556a3",
       "title": "Robotic Policy Adaptation via Weight-Space Meta-Learning",
       "url": "https://huggingface.co/papers/2606.07217",
@@ -1272,19 +1285,6 @@
       "is_new": false
     },
     {
-      "id": "65049081b28fa0fc38f747b2ab260332",
-      "title": "Whisper Hallucination Detection and Mitigation via Hidden Representation Steering and Sparse AutoEncoders",
-      "url": "https://huggingface.co/papers/2606.07473",
-      "description": "Whisper, a widely adopted ASR model, is known to suffer from hallucinations - coherent transcriptions generated for non-speech audio entirely disconnected from the input. We investigate whether halluc",
-      "published": "2026-06-04T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 11,
-      "is_new": false
-    },
-    {
       "id": "62e192b4b17005d0e7c1065ba08c1476",
       "title": "AsyncWebRL: Efficient Multi-Step RL for Visual Web Agents",
       "url": "https://huggingface.co/papers/2606.05597",
@@ -1294,12 +1294,36 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": false
     }
   ],
   "by_category": {
     "news": [
+      {
+        "id": "f5f16b778aa511b12529d9bb647b0a71",
+        "title": "Google just fired a warning shot in the AI subscription price wars",
+        "url": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
+        "description": "Google just made it significantly cheaper to enjoy its budget AI subscription tier.",
+        "published": "Wed, 10 Jun 2026 00:26:10 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "e6f44b6ef7676ebe402d7d8f29a942fa",
+        "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
+        "url": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
+        "description": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX.",
+        "published": "Tue, 09 Jun 2026 23:17:51 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "41d61a583cc52d19b7b9c60525fe8ed3",
         "title": "Hey, Siri, here’s what I actually want from AI",
@@ -1517,30 +1541,6 @@
         "is_new": false
       },
       {
-        "id": "51afeca065de2a9ccfbd14a0a26a9d1c",
-        "title": "Apple’s Image Playground doesn’t suck anymore",
-        "url": "https://techcrunch.com/2026/06/08/apples-image-playground-doesnt-suck-anymore/",
-        "description": "Apple's AI image generator is getting a makeover that could make it more competitive.",
-        "published": "Mon, 08 Jun 2026 18:38:07 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "58daf599b0c7ec2de5be4311f7bb29bb",
-        "title": "Apple’s Photos app is getting new AI editing features",
-        "url": "https://techcrunch.com/2026/06/08/apples-photos-app-is-getting-new-ai-editing-features/",
-        "description": "A new spatial \"Reframe\" feature will let users use AI to adjust perspectives.",
-        "published": "Mon, 08 Jun 2026 18:36:04 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
         "id": "48467471",
         "title": "Show HN: Messagevisor – Git-based internationalization and l10n management",
         "url": "https://messagevisor.com/",
@@ -1550,7 +1550,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 1,
+        "points": 2,
         "comments": 0,
         "is_new": true
       },
@@ -1602,7 +1602,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 5,
+        "points": 7,
         "comments": 0,
         "is_new": false
       },
