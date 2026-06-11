@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-11T16:18:46.046249+00:00",
+  "last_updated": "2026-06-11T19:43:47.475823+00:00",
   "total_entries": 110,
-  "new_entries": 0,
+  "new_entries": 8,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -228,16 +228,16 @@
       "is_new": false
     },
     {
-      "id": "c47fbc8c5e7fcac1dae4a86afb211e64",
-      "title": "Can tech companies learn to love cheaper AI models?",
-      "url": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
-      "description": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI.",
-      "published": "Tue, 09 Jun 2026 18:56:09 +0000",
+      "id": "d008a461e5817c493730745ee82bf1a6",
+      "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
+      "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+      "description": "Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music.",
+      "published": "Thu, 11 Jun 2026 16:36:20 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "57f419fe4ff714126e8221e0d8690541",
@@ -768,6 +768,20 @@
       "is_new": false
     },
     {
+      "id": "48494234",
+      "title": "Show HN: Stillwind – High Resolution Electronic Component Search",
+      "url": "https://stillwind.ai",
+      "description": "",
+      "published": "2026-06-11T18:12:46Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 5,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "48492034",
       "title": "Show HN: Kikubot – Each AI agent is an inbox",
       "url": "https://github.com/mxaiorg/kikubot",
@@ -796,6 +810,18 @@
       "is_new": false
     },
     {
+      "id": "033ccf63529decc823ada95b3f475574",
+      "title": "Amazon&#8217;s data centers used 2.5 billion gallons of water last year",
+      "url": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use",
+      "description": "Just after Seattle enacted a one-year data center moratorium that some of Amazon's own employees pushed for, Amazon shared how much water its data centers use, reportedly for the first time. With conc",
+      "published": "2026-06-11T13:26:57-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "866072bf2988b16c817fc989da5ee1a2",
       "title": "Anthropic apologizes for invisible Claude Fable guardrails",
       "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
@@ -817,8 +843,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 5,
-      "comments": 2,
+      "points": 6,
+      "comments": 3,
       "is_new": false
     },
     {
@@ -871,8 +897,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 139,
-      "comments": 40,
+      "points": 141,
+      "comments": 42,
       "is_new": false
     },
     {
@@ -885,7 +911,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 15,
+      "points": 16,
       "comments": 21,
       "is_new": false
     },
@@ -1038,7 +1064,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -1056,6 +1082,19 @@
       "is_new": false
     },
     {
+      "id": "098a52241d78954211cad811dd89f530",
+      "title": "APEX: A Network-Native Time-Series Foundation Model for Forecasting and Anomaly Detection for Wireless Edge Operations",
+      "url": "https://huggingface.co/papers/2606.11553",
+      "description": "Generic time-series foundation models transfer poorly to wireless network telemetry whose signals are bursty, zero-inflated, and coupled across protocol layers. We present APEX, a network-native, deco",
+      "published": "2026-06-09T21:23:24.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "48467471",
       "title": "Show HN: Messagevisor – Git-based internationalization and l10n management",
       "url": "https://messagevisor.com/",
@@ -1070,6 +1109,19 @@
       "is_new": false
     },
     {
+      "id": "0e7c1c39a4175f9cbb71df62c4cb5168",
+      "title": "Which Models Are Our Models Built On? Auditing Invisible Dependencies in Modern LLMs",
+      "url": "https://huggingface.co/papers/2606.12385",
+      "description": "Modern LLM training pipelines increasingly rely on other models to generate data, filter corpora, judge outputs, and guide development decisions. These dependencies are recursive: a model may depend o",
+      "published": "2026-06-09T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "cfa67caaeb32fc1c67b51f245a6522dc",
       "title": "Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models",
       "url": "https://huggingface.co/papers/2606.12412",
@@ -1079,7 +1131,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 10,
+      "likes": 14,
       "is_new": false
     },
     {
@@ -1092,7 +1144,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -1105,7 +1157,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 16,
+      "likes": 17,
       "is_new": false
     },
     {
@@ -1118,71 +1170,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "f615fd350cdf00b8a6d90a55f81d12f9",
-      "title": "Reason, Then Re-reason: Cross-view Revisiting Improves Spatial Reasoning",
-      "url": "https://huggingface.co/papers/2606.11683",
-      "description": "Spatial reasoning from egocentric videos is inherently challenging because the observable evidence is constrained by the camera trajectory. Existing methods rely on single-turn inference, forcing mode",
-      "published": "2026-06-09T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 26,
-      "is_new": false
-    },
-    {
-      "id": "8022393c88712cf805746ba72f44205e",
-      "title": "Redesign Mixture-of-Experts Routers with Manifold Power Iteration",
-      "url": "https://huggingface.co/papers/2606.12397",
-      "description": "Router is the cornerstone component to the Mixture-of-Experts models. Serving as expert proxies, the rows of the router matrix compute their similarity to the MoE inputs to determine which subset of e",
-      "published": "2026-06-09T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 74,
-      "is_new": false
-    },
-    {
-      "id": "888f02cd362e1dd1d65946f176ad39cd",
-      "title": "Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks",
-      "url": "https://huggingface.co/papers/2606.12344",
-      "description": "General-purpose agents such as OpenClaw are increasingly used as autonomous tool users, but their coding ability is difficult to measure under SWE-bench: a generic agent does not by itself satisfy the",
-      "published": "2026-06-09T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 55,
-      "is_new": false
-    },
-    {
-      "id": "4f5231a4a0e30433aecfff3147a34abd",
-      "title": "Toward Generalist Autonomous Research via Hypothesis-Tree Refinement",
-      "url": "https://huggingface.co/papers/2606.11926",
-      "description": "Scientific progress depends on a repeated loop of exploration, experimentation, and abstraction. Researchers test candidate directions, interpret the evidence, and carry the resulting lessons into lat",
-      "published": "2026-06-09T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 64,
-      "is_new": false
-    },
-    {
-      "id": "421eda7b681b3b3ad39aedebf6770505",
-      "title": "GM thinks EVs can help offset AI’s energy suck with vehicle-to-grid tech",
-      "url": "https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion",
-      "description": "At an event in San Francisco today, General Motors made a series of announcements around EV batteries, energy storage, and grid resiliency in the face of growing electricity demand from AI data center",
-      "published": "2026-06-09T19:33:01-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
+      "likes": 3,
       "is_new": false
     },
     {
@@ -1251,8 +1239,21 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 14,
+      "likes": 15,
       "is_new": false
+    },
+    {
+      "id": "070529eb0e0986c48da232505f3d40b4",
+      "title": "Towards Diverse Scientific Hypothesis Search with Large Language Models",
+      "url": "https://huggingface.co/papers/2606.10587",
+      "description": "Large language models (LLMs) are on the rise for accelerating scientific discovery, most recently in advanced tasks such as generating valid scientific hypotheses. Yet in many discovery settings, the ",
+      "published": "2026-06-09T04:52:49.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
     },
     {
       "id": "48456339",
@@ -1480,16 +1481,16 @@
         "is_new": false
       },
       {
-        "id": "c47fbc8c5e7fcac1dae4a86afb211e64",
-        "title": "Can tech companies learn to love cheaper AI models?",
-        "url": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
-        "description": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI.",
-        "published": "Tue, 09 Jun 2026 18:56:09 +0000",
+        "id": "d008a461e5817c493730745ee82bf1a6",
+        "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
+        "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+        "description": "Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music.",
+        "published": "Thu, 11 Jun 2026 16:36:20 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
+        "is_new": true
       },
       {
         "id": "57f419fe4ff714126e8221e0d8690541",
@@ -1540,6 +1541,20 @@
         "is_new": false
       },
       {
+        "id": "48494234",
+        "title": "Show HN: Stillwind – High Resolution Electronic Component Search",
+        "url": "https://stillwind.ai",
+        "description": "",
+        "published": "2026-06-11T18:12:46Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 5,
+        "comments": 0,
+        "is_new": true
+      },
+      {
         "id": "48492034",
         "title": "Show HN: Kikubot – Each AI agent is an inbox",
         "url": "https://github.com/mxaiorg/kikubot",
@@ -1568,6 +1583,18 @@
         "is_new": false
       },
       {
+        "id": "033ccf63529decc823ada95b3f475574",
+        "title": "Amazon&#8217;s data centers used 2.5 billion gallons of water last year",
+        "url": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use",
+        "description": "Just after Seattle enacted a one-year data center moratorium that some of Amazon's own employees pushed for, Amazon shared how much water its data centers use, reportedly for the first time. With conc",
+        "published": "2026-06-11T13:26:57-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "866072bf2988b16c817fc989da5ee1a2",
         "title": "Anthropic apologizes for invisible Claude Fable guardrails",
         "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
@@ -1589,8 +1616,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 5,
-        "comments": 2,
+        "points": 6,
+        "comments": 3,
         "is_new": false
       },
       {
@@ -1643,34 +1670,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 139,
-        "comments": 40,
-        "is_new": false
-      },
-      {
-        "id": "48477708",
-        "title": "Show HN: Papermill Press – An AI-friendly markup language for PDF generation",
-        "url": "https://news.ycombinator.com/item?id=48477708",
-        "description": "",
-        "published": "2026-06-10T15:21:33Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 15,
-        "comments": 21,
-        "is_new": false
-      },
-      {
-        "id": "abe8d0503ec3495964db3acf7fd6bb8b",
-        "title": "Claude Fable won’t answer basic biology questions",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
-        "description": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biolo",
-        "published": "2026-06-10T15:02:08-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
+        "points": 141,
+        "comments": 42,
         "is_new": false
       }
     ],
