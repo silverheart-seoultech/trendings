@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-11T07:02:44.607768+00:00",
+  "last_updated": "2026-06-11T10:48:00.431580+00:00",
   "total_entries": 110,
-  "new_entries": 5,
+  "new_entries": 14,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -777,8 +777,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 4,
-      "comments": 0,
+      "points": 5,
+      "comments": 2,
       "is_new": true
     },
     {
@@ -794,6 +794,18 @@
       "points": 2,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "b8acadde21ce5c9102b837cc97bd2fe3",
+      "title": "Deezer launches an AI music detector for other streaming services",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
+      "description": "Deezer will now scan your playlists on other streaming platforms to detect AI-generated music. Deezer was the first of the big streaming services to start labeling AI-generated music. It even offered",
+      "published": "2026-06-10T19:42:48-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "48478778",
@@ -819,8 +831,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 114,
-      "comments": 33,
+      "points": 131,
+      "comments": 36,
       "is_new": false
     },
     {
@@ -833,7 +845,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 12,
+      "points": 15,
       "comments": 21,
       "is_new": false
     },
@@ -964,6 +976,19 @@
       "is_new": false
     },
     {
+      "id": "bdd99e3bb60a216a480b901cbd76de1f",
+      "title": "Fine-tuning Multi-modal LLMs with ART: Art-based Reinforcement Training",
+      "url": "https://huggingface.co/papers/2606.11854",
+      "description": "There are two main Parameter-Efficient Fine-Tuning (PEFT) techniques for Large Language Models (LLMs). While Low-Rank Adaptation (LoRA) introduces additional weights between the LLM layers, Soft Promp",
+      "published": "2026-06-10T05:30:37.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "48469039",
       "title": "Show HN: Nucleus – A security-hardened, Nix-native container runtime",
       "url": "https://github.com/sig-id/nucleus",
@@ -992,6 +1017,32 @@
       "is_new": false
     },
     {
+      "id": "5d32baa5f9fad256cea6e57a7066dd34",
+      "title": "Grammar-Constrained Decoding Can Jailbreak LLMs into Generating Malicious Code",
+      "url": "https://huggingface.co/papers/2606.11817",
+      "description": "Large Language Models (LLMs) are increasingly used for code generation, raising concerns that they may be misused to produce malicious code. Meanwhile, Grammar-Constrained Decoding (GCD) has been wide",
+      "published": "2026-06-09T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 10,
+      "is_new": true
+    },
+    {
+      "id": "1ad3e189f1757078b5c1a56bc7001c44",
+      "title": "Time-Series Foundation Model Embeddings for Remaining Useful Life Estimation",
+      "url": "https://huggingface.co/papers/2606.11990",
+      "description": "Remaining Useful Life (RUL) prediction is essential for industrial predictive maintenance, yet many learning-based approaches rely on extensive feature engineering or large labeled datasets to train t",
+      "published": "2026-06-09T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "f615fd350cdf00b8a6d90a55f81d12f9",
       "title": "Reason, Then Re-reason: Cross-view Revisiting Improves Spatial Reasoning",
       "url": "https://huggingface.co/papers/2606.11683",
@@ -1001,7 +1052,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 19,
+      "likes": 24,
       "is_new": true
     },
     {
@@ -1014,7 +1065,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 56,
+      "likes": 62,
       "is_new": true
     },
     {
@@ -1027,7 +1078,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 30,
       "is_new": false
     },
     {
@@ -1040,7 +1091,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 33,
+      "likes": 56,
       "is_new": false
     },
     {
@@ -1066,85 +1117,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 51,
-      "is_new": false
-    },
-    {
-      "id": "e496b86cfd882a4032715fa53b1d666e",
-      "title": "InternVideo3: Agentify Foundation Models with Multimodal Contextual Reasoning",
-      "url": "https://huggingface.co/papers/2606.12195",
-      "description": "Recent progress in foundation models has shifted toward agentic behavior involving multi-step reasoning and tool use. However, open-source efforts largely focus on text-dominant settings, leaving long",
-      "published": "2026-06-09T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 11,
-      "is_new": false
-    },
-    {
-      "id": "7e2c3f96b2bf8bee4cce3e74620bda52",
-      "title": "World Model Self-Distillation: Training World Models to Solve General Tasks",
-      "url": "https://huggingface.co/papers/2606.12072",
-      "description": "Pretrained video generators are promising visual world models that exhibit emergent task-solving abilities; however, their reliance on detailed textual descriptions limits their direct use for plannin",
-      "published": "2026-06-09T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
-      "is_new": false
-    },
-    {
-      "id": "a53d5cb87655ca1324c1881082cf8002",
-      "title": "Breaking Entropy Bounds: Accelerating RL Training via MTP with Rejection Sampling",
-      "url": "https://huggingface.co/papers/2606.12370",
-      "description": "Reinforcement learning (RL) has become a key component in modern large language models, yet the rollout stage remains the key bottleneck in RL training pipelines. Although Multi-Token Prediction (MTP)",
-      "published": "2026-06-09T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 7,
-      "is_new": false
-    },
-    {
-      "id": "5624f7026d1adca250264ea5e8f81e46",
-      "title": "World Pilot: Steering Vision-Language-Action Models with World-Action Priors",
-      "url": "https://huggingface.co/papers/2606.12403",
-      "description": "Vision-Language-Action (VLA) models inherit semantic grounding from large-scale pretraining and perform competently across in-distribution manipulation tasks. This grounding, however, is built on stat",
-      "published": "2026-06-09T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 17,
-      "is_new": false
-    },
-    {
-      "id": "0aca2832ea9fa929b5310e570fef6916",
-      "title": "Lius: Translation Model Based Instructional Lingustic Using Continual Instruction Tuning In Kupang Malay",
-      "url": "https://huggingface.co/papers/2606.11786",
-      "description": "Large Language Models (LLMs) offer new potential for translation tasks but often experience performance degradation when handling low-resource languages. To address this limitation, we propose an appr",
-      "published": "2026-06-09T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "ed96221256b1559bb7c2657c43ae6d6d",
-      "title": "ICA Lens: Interpreting Language Models Without Training Another Dictionary",
-      "url": "https://huggingface.co/papers/2606.11722",
-      "description": "Finding interpretable directions in language-model representations is critical for understanding and controlling model behavior. Sparse autoencoders (SAEs) have become the standard tool for this purpo",
-      "published": "2026-06-09T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 14,
+      "likes": 53,
       "is_new": false
     },
     {
@@ -1228,16 +1201,17 @@
       "is_new": false
     },
     {
-      "id": "4dcd25b9bff30d42663dec6748a3f00e",
-      "title": "Anthropic releases its first Mythos-class model Claude Fable",
-      "url": "https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos",
-      "description": "Anthropic just announced Claude Fable 5, a new AI model it said is the most powerful model it has ever made widely available. According to the company, Fable 5 \"shows exceptional performance in softwa",
-      "published": "2026-06-09T13:10:42-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
+      "id": "f71c8d8c1b095f1890e5638d87c92deb",
+      "title": "TRACE: A Unified Rollout Budget Allocation Framework for Efficient Agentic Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2606.11119",
+      "description": "Reinforcement learning with verifiable rewards (RLVR) is a promising approach for enhancing reasoning and agentic behavior in large language models. However, rollout-intensive policy optimization is o",
+      "published": "2026-06-09T13:16:03.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 10,
+      "is_new": true
     },
     {
       "id": "48456339",
@@ -1291,7 +1265,34 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 17,
+      "likes": 18,
+      "is_new": false
+    },
+    {
+      "id": "1061da0abcaa44c57ba781c16ddbe6fb",
+      "title": "Embodied-R1.5: Evolving Physical Intelligence via Embodied Foundation Models",
+      "url": "https://huggingface.co/papers/2606.11324",
+      "description": "We introduce Embodied-R1.5, a unified Embodied Foundation Model (EFM) that integrates comprehensive embodied reasoning capabilities, spanning embodied cognition, task planning, correction, and pointin",
+      "published": "2026-06-08T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 5,
+      "is_new": false
+    },
+    {
+      "id": "48450261",
+      "title": "Ask HN: Why won't you be replaced by AI?",
+      "url": "https://news.ycombinator.com/item?id=48450261",
+      "description": "",
+      "published": "2026-06-08T19:21:45Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 10,
+      "comments": 41,
       "is_new": false
     }
   ],
@@ -1547,8 +1548,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 4,
-        "comments": 0,
+        "points": 5,
+        "comments": 2,
         "is_new": true
       },
       {
@@ -1564,6 +1565,18 @@
         "points": 2,
         "comments": 0,
         "is_new": false
+      },
+      {
+        "id": "b8acadde21ce5c9102b837cc97bd2fe3",
+        "title": "Deezer launches an AI music detector for other streaming services",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
+        "description": "Deezer will now scan your playlists on other streaming platforms to detect AI-generated music. Deezer was the first of the big streaming services to start labeling AI-generated music. It even offered",
+        "published": "2026-06-10T19:42:48-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
       },
       {
         "id": "48478778",
@@ -1589,8 +1602,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 114,
-        "comments": 33,
+        "points": 131,
+        "comments": 36,
         "is_new": false
       },
       {
@@ -1603,7 +1616,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 12,
+        "points": 15,
         "comments": 21,
         "is_new": false
       },
@@ -1651,18 +1664,6 @@
         "url": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms",
         "description": "Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC. (If you're not a subscriber, you can get on board here.)",
         "published": "2026-06-10T14:01:20-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "97e73bfc89ed13aa5f8929c049259ef8",
-        "title": "I tried Siri AI, and so far it actually works",
-        "url": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
-        "description": "Parents want one thing, and one thing only, out of AI: to add a list of soccer games or \"spirit week\" theme days from an email or a poorly formatted flyer onto their calendar in one shot. And I have g",
-        "published": "2026-06-10T13:51:34-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
