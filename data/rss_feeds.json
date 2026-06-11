@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-10T22:56:28.771610+00:00",
+  "last_updated": "2026-06-11T01:36:37.989879+00:00",
   "total_entries": 110,
-  "new_entries": 1,
+  "new_entries": 4,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,6 +768,20 @@
       "is_new": false
     },
     {
+      "id": "48484306",
+      "title": "AI: Equalizer or Divider?",
+      "url": "https://news.ycombinator.com/item?id=48484306",
+      "description": "",
+      "published": "2026-06-10T23:37:32Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "48478778",
       "title": "Show HN: TKeeper – policy-governed, signed intents for autonomous systems",
       "url": "https://github.com/tkeeper-org/tkeeper",
@@ -791,8 +805,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 78,
-      "comments": 29,
+      "points": 89,
+      "comments": 30,
       "is_new": false
     },
     {
@@ -945,8 +959,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 34,
-      "comments": 12,
+      "points": 36,
+      "comments": 13,
       "is_new": false
     },
     {
@@ -962,6 +976,19 @@
       "points": 2,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "c2aa9fa918c0c9f3e193923839595623",
+      "title": "On the Limits of LLM-as-Judge for Scientific Novelty Assessment",
+      "url": "https://huggingface.co/papers/2606.12071",
+      "description": "LLMs are increasingly used to generate and judge scientific ideas. This makes novelty evaluation a central problem. Full idea evaluation is difficult because it often requires judging a method, its fe",
+      "published": "2026-06-09T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
     },
     {
       "id": "421eda7b681b3b3ad39aedebf6770505",
@@ -1093,7 +1120,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 65,
-      "comments": 30,
+      "comments": 32,
       "is_new": false
     },
     {
@@ -1109,6 +1136,19 @@
       "points": 3,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "df9a43ef383c5eb9d2bc7f7f53a7a7db",
+      "title": "Beyond Uniform Token-Level Trust Region in LLM Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2606.10968",
+      "description": "Reinforcement learning with verifiable rewards (RLVR) has become standard for improving LLM reasoning. However, existing PPO-style trust-region mechanisms remain position-agnostic by enforcing uniform",
+      "published": "2026-06-08T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 41,
+      "is_new": true
     },
     {
       "id": "609674a59529ca48e65d32009d4aec0d",
@@ -1172,7 +1212,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 166,
+      "likes": 169,
       "is_new": false
     },
     {
@@ -1254,46 +1294,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 9,
-      "is_new": false
-    },
-    {
-      "id": "48445024",
-      "title": "Ask HN: What is the AI setup for an experienced dev starting on a new project?",
-      "url": "https://news.ycombinator.com/item?id=48445024",
-      "description": "",
-      "published": "2026-06-08T13:22:26Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 5,
-      "comments": 10,
-      "is_new": false
-    },
-    {
-      "id": "b60292354eb2442bd5cf76a55629fe7a",
-      "title": "BrainSurgery: Reproducible and Reliable Declarative Weight Manipulations for Model Editing and Upcycling",
-      "url": "https://huggingface.co/papers/2606.09707",
-      "description": "As deep learning models scale, managing, inspecting, and modifying large checkpoints has become increasingly challenging. Researchers often need to alter model weights for layer restructuring, precisi",
-      "published": "2026-06-08T12:26:09.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 6,
-      "is_new": false
-    },
-    {
-      "id": "81a7f25bf73989d191ed08bec4f69064",
-      "title": "PsychoSafe: Eliciting Psychologically-Informed Refusals in Large Language Models",
-      "url": "https://huggingface.co/papers/2606.09697",
-      "description": "Large language models (LLMs) routinely face requests that should be refused, creating a trade-off between helpfulness and harm prevention. However, refusals themselves can be helpful. In high-risk int",
-      "published": "2026-06-08T12:19:18.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 5,
       "is_new": false
     }
   ],
@@ -1540,6 +1540,20 @@
         "is_new": false
       },
       {
+        "id": "48484306",
+        "title": "AI: Equalizer or Divider?",
+        "url": "https://news.ycombinator.com/item?id=48484306",
+        "description": "",
+        "published": "2026-06-10T23:37:32Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 2,
+        "comments": 0,
+        "is_new": true
+      },
+      {
         "id": "48478778",
         "title": "Show HN: TKeeper – policy-governed, signed intents for autonomous systems",
         "url": "https://github.com/tkeeper-org/tkeeper",
@@ -1563,8 +1577,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 78,
-        "comments": 29,
+        "points": 89,
+        "comments": 30,
         "is_new": false
       },
       {
@@ -1655,18 +1669,6 @@
         "category": "news",
         "points": 1,
         "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "648b542afa7993316e2cb5ce0afa6590",
-        "title": "Microsoft, like, totally gets why students are booing AI-pilled graduation speakers",
-        "url": "https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft",
-        "description": "New college graduates around the country have been booing and heckling commencement speakers who hype up AI. Microsoft would like everyone to talk it out. In a blog post running more than 3,100 words,",
-        "published": "2026-06-10T13:45:11-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
         "is_new": false
       }
     ],
