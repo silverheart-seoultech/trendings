@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-11T10:48:00.431580+00:00",
+  "last_updated": "2026-06-11T11:46:07.895741+00:00",
   "total_entries": 110,
-  "new_entries": 14,
+  "new_entries": 2,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,6 +768,18 @@
       "is_new": false
     },
     {
+      "id": "866072bf2988b16c817fc989da5ee1a2",
+      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+      "description": "Anthropic has apologized for stealthily throttling its new AI model, Claude Fable 5, with hidden guardrails that undermine both researchers and rivals using it to develop competing systems. The compan",
+      "published": "2026-06-11T07:40:43-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "48487147",
       "title": "Ask HN: Any Local LLM can I run without GPU for Local Agentic workflow AI?",
       "url": "https://news.ycombinator.com/item?id=48487147",
@@ -779,7 +791,7 @@
       "category": "news",
       "points": 5,
       "comments": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "48484306",
@@ -805,7 +817,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "48478778",
@@ -831,7 +843,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 131,
+      "points": 136,
       "comments": 36,
       "is_new": false
     },
@@ -938,6 +950,19 @@
       "is_new": false
     },
     {
+      "id": "eeec39cd1e018288f2389db1103e0813",
+      "title": "On Subquadratic Architectures: From Applications to Principles",
+      "url": "https://huggingface.co/papers/2606.12364",
+      "description": "Transformers dominate modern sequence modeling, but their quadratic attention incurs substantial computational cost. Subquadratic architectures offer a scalable alternative. However, it remains unclea",
+      "published": "2026-06-10T13:33:55.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 12,
+      "is_new": true
+    },
+    {
       "id": "fe94a21c98c678a256a4997ac5251424",
       "title": "Google won’t just admit it’s feeding YouTube creators to its music AI",
       "url": "https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube",
@@ -986,7 +1011,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "48469039",
@@ -1026,8 +1051,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 10,
-      "is_new": true
+      "likes": 13,
+      "is_new": false
     },
     {
       "id": "1ad3e189f1757078b5c1a56bc7001c44",
@@ -1040,7 +1065,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "f615fd350cdf00b8a6d90a55f81d12f9",
@@ -1052,8 +1077,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 24,
-      "is_new": true
+      "likes": 25,
+      "is_new": false
     },
     {
       "id": "8022393c88712cf805746ba72f44205e",
@@ -1065,8 +1090,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 62,
-      "is_new": true
+      "likes": 63,
+      "is_new": false
     },
     {
       "id": "888f02cd362e1dd1d65946f176ad39cd",
@@ -1078,7 +1103,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 30,
+      "likes": 39,
       "is_new": false
     },
     {
@@ -1091,7 +1116,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 56,
+      "likes": 57,
       "is_new": false
     },
     {
@@ -1147,18 +1172,6 @@
       "is_new": false
     },
     {
-      "id": "8a5852c59879b06452b8e8384321b3a0",
-      "title": "Microsoft AI head calls out Anthropic for acting like Claude is conscious",
-      "url": "https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious",
-      "description": "Microsoft AI CEO Mustafa Suleyman says it's \"really, really dangerous\" for Anthropic to speculate about Claude's consciousness inside its \"constitution,\" or the instructions that tell the model how to",
-      "published": "2026-06-09T16:29:52-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "48462909",
       "title": "Trump's new AI order – hallucinations aren't just for LLMs",
       "url": "https://www.computerworld.com/article/4182531/trumps-new-ai-order-hallucinations-arent-just-for-llms.html",
@@ -1210,8 +1223,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 10,
-      "is_new": true
+      "likes": 13,
+      "is_new": false
     },
     {
       "id": "48456339",
@@ -1266,19 +1279,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 18,
-      "is_new": false
-    },
-    {
-      "id": "1061da0abcaa44c57ba781c16ddbe6fb",
-      "title": "Embodied-R1.5: Evolving Physical Intelligence via Embodied Foundation Models",
-      "url": "https://huggingface.co/papers/2606.11324",
-      "description": "We introduce Embodied-R1.5, a unified Embodied Foundation Model (EFM) that integrates comprehensive embodied reasoning capabilities, spanning embodied cognition, task planning, correction, and pointin",
-      "published": "2026-06-08T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 5,
       "is_new": false
     },
     {
@@ -1539,6 +1539,18 @@
         "is_new": false
       },
       {
+        "id": "866072bf2988b16c817fc989da5ee1a2",
+        "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+        "description": "Anthropic has apologized for stealthily throttling its new AI model, Claude Fable 5, with hidden guardrails that undermine both researchers and rivals using it to develop competing systems. The compan",
+        "published": "2026-06-11T07:40:43-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "48487147",
         "title": "Ask HN: Any Local LLM can I run without GPU for Local Agentic workflow AI?",
         "url": "https://news.ycombinator.com/item?id=48487147",
@@ -1550,7 +1562,7 @@
         "category": "news",
         "points": 5,
         "comments": 2,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "48484306",
@@ -1576,7 +1588,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "48478778",
@@ -1602,7 +1614,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 131,
+        "points": 136,
         "comments": 36,
         "is_new": false
       },
@@ -1656,18 +1668,6 @@
         "category": "news",
         "points": 2,
         "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "4a554e6b3bf94e90fb24568718a826e9",
-        "title": "The future of AI regulation is courting the strangest, most anxious bedfellows",
-        "url": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms",
-        "description": "Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC. (If you're not a subscriber, you can get on board here.)",
-        "published": "2026-06-10T14:01:20-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
         "is_new": false
       }
     ],
