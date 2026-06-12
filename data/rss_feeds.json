@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-12T20:19:08.243208+00:00",
+  "last_updated": "2026-06-12T22:00:37.110496+00:00",
   "total_entries": 110,
-  "new_entries": 13,
+  "new_entries": 3,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -192,6 +192,18 @@
       "is_new": false
     },
     {
+      "id": "8e16264f67e55688652c6306dac995c6",
+      "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
+      "url": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+      "description": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
+      "published": "Fri, 12 Jun 2026 20:38:09 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "ead81c101920941c5a1fc1d26df72109",
       "title": "SpaceX IPO: Live updates on everything you need to know",
       "url": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
@@ -201,7 +213,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "ac49e7db99e37116a2cdeaf8fa01d6e0",
@@ -213,19 +225,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
-    },
-    {
-      "id": "241cb5277b74b4350bc3103394607f3a",
-      "title": "Google sues alleged Chinese cybercrime operation that used AI to send scam texts",
-      "url": "https://techcrunch.com/2026/06/12/google-sues-alleged-chinese-cybercrime-operation-that-used-ai-to-send-scam-texts/",
-      "description": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
-      "published": "Fri, 12 Jun 2026 17:26:08 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "aff183af0f1e57e58360d3542ce04b9b",
@@ -237,7 +237,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "244c1c844ed0b0b37d5424c92f76877b",
@@ -249,7 +249,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "302fed5dd219beadc025ae6ca950b008",
@@ -769,7 +769,7 @@
     },
     {
       "id": "48508143",
-      "title": "Cortex – Agent-Native Knowledge OS on Markdown (Karpathy's LLM Wiki, via MCP)",
+      "title": "Show HN: Cortex – Agent-native knowledge OS on Markdown (Karpathy's LLM Wiki)",
       "url": "https://github.com/synpulse8-opensource/pulse8-ai-cortex-knowledge-vault",
       "description": "",
       "published": "2026-06-12T19:02:13Z",
@@ -779,7 +779,7 @@
       "category": "news",
       "points": 2,
       "comments": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "48506545",
@@ -791,9 +791,9 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 21,
-      "comments": 8,
-      "is_new": true
+      "points": 29,
+      "comments": 15,
+      "is_new": false
     },
     {
       "id": "60d55ee8121f754d7545c44938d4b348",
@@ -831,7 +831,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "ae65ff682b916609ea20f792fbd52c79",
@@ -843,7 +843,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "2e1e6f85787cc485a2107c5b513e1ab5",
@@ -1002,7 +1002,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "f319d820c4917234d8ae56c839e98566",
@@ -1015,7 +1015,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "ba6cb9adc718fe1f6a9bd0e871bea6a3",
@@ -1041,19 +1041,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 23,
-      "is_new": false
-    },
-    {
-      "id": "4e739f11d0571cc093139b65a5d60a11",
-      "title": "MiniMax Sparse Attention",
-      "url": "https://huggingface.co/papers/2606.13392",
-      "description": "Ultra-long-context capability is becoming indispensable for frontier LLMs: agentic workflows, repository-scale code reasoning, and persistent memory all require the model to jointly attend over hundre",
-      "published": "2026-06-10T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 77,
       "is_new": false
     },
     {
@@ -1092,7 +1079,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 151,
+      "points": 152,
       "comments": 42,
       "is_new": false
     },
@@ -1177,6 +1164,19 @@
       "is_new": false
     },
     {
+      "id": "2031644fc0bcec840b3020d71262ded4",
+      "title": "Rethinking Psychometric Evaluation of LLMs: When and Why Self-Reports Predict Behavior",
+      "url": "https://huggingface.co/papers/2606.12730",
+      "description": "Anticipating LLM behavioral tendencies from low-cost psychometric probes is critical for safe deployment, but only if self-reports (SR) reliably predict behavior. Recent work documented substantial SR",
+      "published": "2026-06-09T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
       "id": "347e0fcf98b238a2e7a062f58179f414",
       "title": "A Stationary (and Therefore Compatible) Representation is All You Need",
       "url": "https://huggingface.co/papers/2606.12488",
@@ -1242,19 +1242,6 @@
       "is_new": false
     },
     {
-      "id": "496681b344bd30547381dd3337889b1b",
-      "title": "High-Fidelity Two-Step Image Generation via Teacher-Aligned End-to-End Distillation",
-      "url": "https://huggingface.co/papers/2606.12575",
-      "description": "Few-step diffusion distillation has become increasingly mature for 4-8-step generation, yet pushing further to 2 steps remains challenging. In this work, we introduce Z-Image Turbo++, a high-quality 2",
-      "published": "2026-06-09T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 7,
-      "is_new": false
-    },
-    {
       "id": "48464573",
       "title": "Show HN: Lore – LLM proxy for coding agent context and memory management",
       "url": "https://withlore.ai/",
@@ -1294,6 +1281,20 @@
       "category": "news",
       "points": 4,
       "comments": 0,
+      "is_new": false
+    },
+    {
+      "id": "48461287",
+      "title": "Show HN: Sandbox AI-app lifecycle, from build to run",
+      "url": "https://capakit.com/",
+      "description": "",
+      "published": "2026-06-09T14:02:32Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 6,
+      "comments": 1,
       "is_new": false
     }
   ],
@@ -1444,6 +1445,18 @@
         "is_new": false
       },
       {
+        "id": "8e16264f67e55688652c6306dac995c6",
+        "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
+        "url": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+        "description": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
+        "published": "Fri, 12 Jun 2026 20:38:09 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "ead81c101920941c5a1fc1d26df72109",
         "title": "SpaceX IPO: Live updates on everything you need to know",
         "url": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
@@ -1453,7 +1466,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "ac49e7db99e37116a2cdeaf8fa01d6e0",
@@ -1465,19 +1478,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
-      },
-      {
-        "id": "241cb5277b74b4350bc3103394607f3a",
-        "title": "Google sues alleged Chinese cybercrime operation that used AI to send scam texts",
-        "url": "https://techcrunch.com/2026/06/12/google-sues-alleged-chinese-cybercrime-operation-that-used-ai-to-send-scam-texts/",
-        "description": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
-        "published": "Fri, 12 Jun 2026 17:26:08 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "aff183af0f1e57e58360d3542ce04b9b",
@@ -1489,7 +1490,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "244c1c844ed0b0b37d5424c92f76877b",
@@ -1501,7 +1502,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "302fed5dd219beadc025ae6ca950b008",
@@ -1541,7 +1542,7 @@
       },
       {
         "id": "48508143",
-        "title": "Cortex – Agent-Native Knowledge OS on Markdown (Karpathy's LLM Wiki, via MCP)",
+        "title": "Show HN: Cortex – Agent-native knowledge OS on Markdown (Karpathy's LLM Wiki)",
         "url": "https://github.com/synpulse8-opensource/pulse8-ai-cortex-knowledge-vault",
         "description": "",
         "published": "2026-06-12T19:02:13Z",
@@ -1551,7 +1552,7 @@
         "category": "news",
         "points": 2,
         "comments": 0,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "48506545",
@@ -1563,9 +1564,9 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 21,
-        "comments": 8,
-        "is_new": true
+        "points": 29,
+        "comments": 15,
+        "is_new": false
       },
       {
         "id": "60d55ee8121f754d7545c44938d4b348",
@@ -1603,7 +1604,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "ae65ff682b916609ea20f792fbd52c79",
@@ -1615,7 +1616,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "2e1e6f85787cc485a2107c5b513e1ab5",
