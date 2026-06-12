@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-12T04:59:38.603955+00:00",
+  "last_updated": "2026-06-12T09:09:34.627567+00:00",
   "total_entries": 110,
-  "new_entries": 20,
+  "new_entries": 24,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -168,18 +168,6 @@
       "is_new": false
     },
     {
-      "id": "db7dea1c0ca67a20b1630e9c5888c98f",
-      "title": "Meta signs first AI data center deal in India with Reliance",
-      "url": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
-      "description": "The 168-megawatt facility will support Meta's global AI computing needs and can be expanded over time.",
-      "published": "Wed, 10 Jun 2026 07:05:26 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "32f44ef46f2c22167eea07b0c358c992",
       "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
       "url": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
@@ -262,6 +250,18 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "302fed5dd219beadc025ae6ca950b008",
+      "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
+      "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+      "description": "Avataar AI's distilled video model is priced at $0.005 for every second of generation",
+      "published": "Fri, 12 Jun 2026 04:30:00 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "857b01ba57340160fb4f7afdc440e1a7",
@@ -768,6 +768,18 @@
       "is_new": false
     },
     {
+      "id": "f1c8e5bce4abf4d347333b8e0517c964",
+      "title": "Siri won’t be your AI girlfriend",
+      "url": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
+      "description": "Our early testing has already shown that Siri AI knows when to shut up, and that's very much by design. In an interview with Mostly Human spotted by MacRumors, Craig Federighi said Apple's new Siri wo",
+      "published": "2026-06-12T04:50:19-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "48498158",
       "title": "Show HN: Deploy personal apps with your agent via Buildy",
       "url": "https://buildy.so/",
@@ -890,6 +902,32 @@
       "is_new": false
     },
     {
+      "id": "128b4c45c3b254e5eec4ba9fc01498a5",
+      "title": "HYDRA-X: Native Unified Multimodal Models with Holistic Visual Tokenizers",
+      "url": "https://huggingface.co/papers/2606.13289",
+      "description": "Holistic visual tokenizers are fundamental to unified multimodal models (UMMs) as they map diverse visual inputs into a unified representation space. In this paper, we present HYDRA-X, the first UMM t",
+      "published": "2026-06-10T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 7,
+      "is_new": true
+    },
+    {
+      "id": "4e739f11d0571cc093139b65a5d60a11",
+      "title": "MiniMax Sparse Attention",
+      "url": "https://huggingface.co/papers/2606.13392",
+      "description": "Ultra-long-context capability is becoming indispensable for frontier LLMs: agentic workflows, repository-scale code reasoning, and persistent memory all require the model to jointly attend over hundre",
+      "published": "2026-06-10T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 46,
+      "is_new": true
+    },
+    {
       "id": "bb776c823ff798c4ef6d3e7239451f54",
       "title": "EvoBrowseComp: Benchmarking Search Agents on Evolving Knowledge",
       "url": "https://huggingface.co/papers/2606.13120",
@@ -899,7 +937,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 3,
       "is_new": true
     },
     {
@@ -912,7 +950,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 42,
+      "likes": 86,
       "is_new": true
     },
     {
@@ -926,110 +964,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
-    },
-    {
-      "id": "3368695301a919f915fa885a9c812a97",
-      "title": "WEAVER, Better, Faster, Longer: An Effective World Model for Robotic Manipulation",
-      "url": "https://huggingface.co/papers/2606.13672",
-      "description": "The potential impacts of world models (WMs, i.e., learned simulators) on robotics are far-reaching -- policy evaluation, policy improvement, and test-time planning -- all with limited real-world inter",
-      "published": "2026-06-10T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
-      "is_new": true
-    },
-    {
-      "id": "276ce9b0d81f36426d9891c93b8eff74",
-      "title": "EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery",
-      "url": "https://huggingface.co/papers/2606.13662",
-      "description": "LLM-based agents have shown increasing potential in automating scientific discovery. Given an optimizable metric and an execution environment, they can propose, validate, and iterate scientific soluti",
-      "published": "2026-06-10T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": true
-    },
-    {
-      "id": "fb09f41215ea3890151783b5744b8813",
-      "title": "InterleaveThinker: Reinforcing Agentic Interleaved Generation",
-      "url": "https://huggingface.co/papers/2606.13679",
-      "description": "Recent image generators have demonstrated impressive photorealism and instruction-following capabilities in single-image generation and editing. However, constrained by their architectures, they canno",
-      "published": "2026-06-10T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 61,
-      "is_new": true
-    },
-    {
-      "id": "bebce54ca9ad0fbf839a0638607959dc",
-      "title": "MaxProof: Scaling Mathematical Proof with Generative-Verifier RL and Population-Level Test-Time Scaling",
-      "url": "https://huggingface.co/papers/2606.13473",
-      "description": "We present MaxProof, a population-level test-time scaling framework for competition-level mathematical proof in the MiniMax-M3 series. M3 first trains three proof-oriented capabilities -- proof genera",
-      "published": "2026-06-10T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 7,
-      "is_new": true
-    },
-    {
-      "id": "8264b00b0bbde4eeaf3711514a0fbfaa",
-      "title": "LabVLA: Grounding Vision-Language-Action Models in Scientific Laboratories",
-      "url": "https://huggingface.co/papers/2606.13578",
-      "description": "Scientific laboratories increasingly rely on AI systems to reason about experiments, but the physical act of doing science remains largely outside their reach. AI can help read literature, generate hy",
-      "published": "2026-06-10T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 28,
-      "is_new": true
-    },
-    {
-      "id": "ef71c4850ddc9d8c8c15b0d405de48f3",
-      "title": "VideoMDM: Towards 3D Human Motion Generation From 2D Supervision",
-      "url": "https://huggingface.co/papers/2606.13364",
-      "description": "We introduce VideoMDM, a diffusion-based framework that trains 3D human motion priors directly from accurate 2D poses extracted from monocular videos, without any 3D ground truth. A pretrained 2D-to-3",
-      "published": "2026-06-10T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": true
-    },
-    {
-      "id": "4433f0510adacf45875b93dde9a8896e",
-      "title": "Surflo: Consistent 3D Surface Flow Model with Global State",
-      "url": "https://huggingface.co/papers/2606.13644",
-      "description": "Geometry is invariant to viewpoint, which makes any collection of images a redundant encoding of a single 3D state. Existing feed-forward reconstruction models fail to exploit this: per-view methods e",
-      "published": "2026-06-10T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": true
-    },
-    {
-      "id": "48ee5fcd32a7e40dd570921380068fa5",
-      "title": "SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning",
-      "url": "https://huggingface.co/papers/2606.13673",
-      "description": "Spatial reasoning, the ability to determine where objects are, how they relate, and how they move in 3D, remains a fundamental challenge for vision-language models (VLMs). Tool-augmented agents attemp",
-      "published": "2026-06-10T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 46,
       "is_new": true
     },
     {
@@ -1068,7 +1002,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 148,
+      "points": 149,
       "comments": 42,
       "is_new": false
     },
@@ -1137,32 +1071,6 @@
       "is_new": false
     },
     {
-      "id": "97e73bfc89ed13aa5f8929c049259ef8",
-      "title": "I tried Siri AI, and so far it actually works",
-      "url": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
-      "description": "Parents want one thing, and one thing only, out of AI: to add a list of soccer games or \"spirit week\" theme days from an email or a poorly formatted flyer onto their calendar in one shot. And I have g",
-      "published": "2026-06-10T13:51:34-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "48476249",
-      "title": "Give AI a body – An isolated Linux environment for LLMs",
-      "url": "https://github.com/dotojr123/open-infro-agentc",
-      "description": "",
-      "published": "2026-06-10T13:48:50Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 1,
-      "comments": 0,
-      "is_new": false
-    },
-    {
       "id": "648b542afa7993316e2cb5ce0afa6590",
       "title": "Microsoft, like, totally gets why students are booing AI-pilled graduation speakers",
       "url": "https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft",
@@ -1208,22 +1116,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 6,
+      "points": 7,
       "comments": 2,
-      "is_new": false
-    },
-    {
-      "id": "48469039",
-      "title": "Show HN: Nucleus – A security-hardened, Nix-native container runtime",
-      "url": "https://github.com/sig-id/nucleus",
-      "description": "",
-      "published": "2026-06-09T23:03:40Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 39,
-      "comments": 13,
       "is_new": false
     },
     {
@@ -1241,6 +1135,71 @@
       "is_new": false
     },
     {
+      "id": "bf9305a846934cf7bdf7d1759f7cc582",
+      "title": "From 2D Grids to 1D Tokens: Reforming Shared Representations for Multimodal Image Fusion",
+      "url": "https://huggingface.co/papers/2606.12303",
+      "description": "Multimodal image fusion aims to integrate complementary information from different modalities into a fused image that preserves rich local details while maintaining globally consistent appearance. Exi",
+      "published": "2026-06-09T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 7,
+      "is_new": true
+    },
+    {
+      "id": "53a6be8f39a6baca663e8db336d7dbf7",
+      "title": "VIA-SD: Verification via Intra-Model Routing for Speculative Decoding",
+      "url": "https://huggingface.co/papers/2606.12243",
+      "description": "Speculative decoding (SD) addresses the high inference costs of LLMs by having lightweight drafters generate candidates for large verifiers to validate in parallel. Existing draft-verify methods use b",
+      "published": "2026-06-09T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 7,
+      "is_new": true
+    },
+    {
+      "id": "57dc6b4d00a24333d17154d13a1645ba",
+      "title": "TreeSeeker: Tree-Structured Trial, Error, and Return in Deep Search",
+      "url": "https://huggingface.co/papers/2606.11662",
+      "description": "Deep search requires agents to answer complex questions through multi-step web search, browsing, evidence comparison, and synthesis. A central challenge is deciding how to search when several directio",
+      "published": "2026-06-09T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
+    },
+    {
+      "id": "147b742fb84b7bb965de1607da6dd23a",
+      "title": "PianoKontext: Expressive Performance Rendering from Deadpan Context",
+      "url": "https://huggingface.co/papers/2606.12282",
+      "description": "Expressive performance rendering (EPR) aims to generate realistic performances constrained on sequences of notes. However, flow matching audio editing models manipulate only synchronized music samples",
+      "published": "2026-06-09T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "496681b344bd30547381dd3337889b1b",
+      "title": "High-Fidelity Two-Step Image Generation via Teacher-Aligned End-to-End Distillation",
+      "url": "https://huggingface.co/papers/2606.12575",
+      "description": "Few-step diffusion distillation has become increasingly mature for 4-8-step generation, yet pushing further to 2 steps remains challenging. In this work, we introduce Z-Image Turbo++, a high-quality 2",
+      "published": "2026-06-09T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 5,
+      "is_new": true
+    },
+    {
       "id": "5f62cc1cb23072424f9c3c4e5d4d0617",
       "title": "Evoflux: Inference-Time Evolution of Executable Tool Workflows for Compact Agents",
       "url": "https://huggingface.co/papers/2606.12674",
@@ -1251,19 +1210,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": true
-    },
-    {
-      "id": "347ae7e39a3a41189b5562bbb6a96113",
-      "title": "FORT-Searcher: Synthesizing Shortcut-Resistant Search Tasks for Training Deep Search Agents",
-      "url": "https://huggingface.co/papers/2606.12087",
-      "description": "Training deep search agents requires verifiable questions whose answers remain unavailable until sufficient evidence has been acquired through search. Existing synthesis methods often increase apparen",
-      "published": "2026-06-09T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 40,
       "is_new": true
     },
     {
@@ -1293,6 +1239,62 @@
       "points": 7,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "48462489",
+      "title": "Show HN: Local-first history, search, and analytics for Claude Code and Codex",
+      "url": "https://github.com/sudomichael/agentgraphed",
+      "description": "",
+      "published": "2026-06-09T15:35:07Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 4,
+      "comments": 0,
+      "is_new": false
+    },
+    {
+      "id": "48461287",
+      "title": "Show HN: Sandbox AI-app lifecycle, from build to run",
+      "url": "https://capakit.com/",
+      "description": "",
+      "published": "2026-06-09T14:02:32Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 6,
+      "comments": 1,
+      "is_new": false
+    },
+    {
+      "id": "48456339",
+      "title": "Show HN: Built an open-source local firewall for AI coding agents",
+      "url": "https://news.ycombinator.com/item?id=48456339",
+      "description": "",
+      "published": "2026-06-09T04:19:12Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 2,
+      "is_new": false
+    },
+    {
+      "id": "48453002",
+      "title": "Show HN: Command Center, the AI coding env for people who care about quality",
+      "url": "https://www.cc.dev/",
+      "description": "",
+      "published": "2026-06-08T22:10:18Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 67,
+      "comments": 32,
+      "is_new": true
     }
   ],
   "by_category": {
@@ -1418,18 +1420,6 @@
         "is_new": false
       },
       {
-        "id": "db7dea1c0ca67a20b1630e9c5888c98f",
-        "title": "Meta signs first AI data center deal in India with Reliance",
-        "url": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
-        "description": "The 168-megawatt facility will support Meta's global AI computing needs and can be expanded over time.",
-        "published": "Wed, 10 Jun 2026 07:05:26 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
         "id": "32f44ef46f2c22167eea07b0c358c992",
         "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
         "url": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
@@ -1514,6 +1504,18 @@
         "is_new": false
       },
       {
+        "id": "302fed5dd219beadc025ae6ca950b008",
+        "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
+        "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+        "description": "Avataar AI's distilled video model is priced at $0.005 for every second of generation",
+        "published": "Fri, 12 Jun 2026 04:30:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "857b01ba57340160fb4f7afdc440e1a7",
         "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
         "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
@@ -1536,6 +1538,18 @@
         "source_icon": "📰",
         "category": "news",
         "is_new": false
+      },
+      {
+        "id": "f1c8e5bce4abf4d347333b8e0517c964",
+        "title": "Siri won’t be your AI girlfriend",
+        "url": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
+        "description": "Our early testing has already shown that Siri AI knows when to shut up, and that's very much by design. In an interview with Mostly Human spotted by MacRumors, Craig Federighi said Apple's new Siri wo",
+        "published": "2026-06-12T04:50:19-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
       },
       {
         "id": "48498158",
@@ -1657,18 +1671,6 @@
         "category": "news",
         "points": 2,
         "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "b8acadde21ce5c9102b837cc97bd2fe3",
-        "title": "Deezer launches an AI music detector for other streaming services",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
-        "description": "Deezer will now scan your playlists on other streaming platforms to detect AI-generated music. Deezer was the first of the big streaming services to start labeling AI-generated music. It even offered",
-        "published": "2026-06-10T19:42:48-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
         "is_new": false
       }
     ],
