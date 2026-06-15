@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-15T18:45:28.780355+00:00",
+  "last_updated": "2026-06-15T21:10:38.015549+00:00",
   "total_entries": 110,
-  "new_entries": 32,
+  "new_entries": 33,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -171,7 +171,7 @@
       "id": "0a59211a2c978c48aa889293966aec35",
       "title": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
       "url": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
-      "description": "A group made up of dozens of cybersecurity experts urged the White House to remove export control restrictions on Anthropic’s models Fable and Mythos, arguing that the order is going to limit the abil",
+      "description": "A group made up of dozens of cybersecurity experts urged the White House to remove export-control restrictions on Anthropic’s Fable and Mythos models, arguing that the order is going to limit the abil",
       "published": "Mon, 15 Jun 2026 15:29:51 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
@@ -181,7 +181,7 @@
     },
     {
       "id": "f85f662961de832fb6799ccbb248c16b",
-      "title": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
+      "title": "Salesforce acquires AI customer service platform Fin for $3.6B",
       "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
       "description": "Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks.",
       "published": "Mon, 15 Jun 2026 14:34:45 +0000",
@@ -796,6 +796,30 @@
       "is_new": true
     },
     {
+      "id": "9b9348265e532f092dc1f3b44d7293ea",
+      "title": "All the news about Anthropic&#8217;s new AI fight with the White House",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
+      "description": "Anthropic was already navigating one dispute with the government in its standoff with the Pentagon, and then came an order on June 12th to block off foreign access to its most recently released AI mod",
+      "published": "2026-06-15T15:05:55-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "bc7fc883d0fee319ecf230c754c86b47",
+      "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
+      "description": "On Friday evening, the government ordered Anthropic to block access to Fable 5 and Mythos 5 for all foreign nations, both inside and outside the US, due to national security concerns. That order inclu",
+      "published": "2026-06-15T14:47:08-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": false
+    },
+    {
       "id": "5137bc88d485412a6130d7a2e8c69b10",
       "title": "Trump’s Anthropic shutdown just made the case for non-American AI",
       "url": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
@@ -954,18 +978,6 @@
       "is_new": false
     },
     {
-      "id": "bc7fc883d0fee319ecf230c754c86b47",
-      "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
-      "description": "On Friday evening, the government ordered Anthropic to block access to Fable 5 and Mythos 5 for all foreign nations, both inside and outside the US, due to national security concerns. That order inclu",
-      "published": "2026-06-13T08:57:08-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "48508143",
       "title": "Show HN: Cortex – Agent-native knowledge OS on Markdown (Karpathy's LLM Wiki)",
       "url": "https://github.com/synpulse8-opensource/pulse8-ai-cortex-knowledge-vault",
@@ -1030,18 +1042,6 @@
       "is_new": false
     },
     {
-      "id": "e6b759845198accac6f6678089083d66",
-      "title": "Siri is good now??",
-      "url": "https://www.theverge.com/podcast/949079/siri-ai-good-vergecast",
-      "description": "You'd be forgiven for thinking this day would never come. Siri has spent a decade and half somewhere between \"sort of useful at a few things\" and \"utterly disastrous, why did I even try, can it honest",
-      "published": "2026-06-12T13:17:04-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "48498158",
       "title": "Show HN: Deploy personal apps with your agent via Buildy",
       "url": "https://buildy.so/",
@@ -1054,6 +1054,19 @@
       "points": 4,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "7e9909cb0fd853161dcd48397f3bdcd5",
+      "title": "AFFORDANCE20Q: Evaluating Affordance Reasoning from Physical Properties",
+      "url": "https://huggingface.co/papers/2606.14240",
+      "description": "Affordance reasoning, the inference of an object's action possibilities from its physical properties (e.g., shape and material), is fundamental to human physical understanding and increasingly critica",
+      "published": "2026-06-11T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
     },
     {
       "id": "abc202ff2a0ddc2dece100af8f04f29f",
@@ -1146,8 +1159,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 19,
-      "comments": 6,
+      "points": 51,
+      "comments": 29,
       "is_new": false
     },
     {
@@ -1179,6 +1192,19 @@
       "is_new": false
     },
     {
+      "id": "78a2fe35522051aa0b12d716f431cc98",
+      "title": "No Hidden Prompts Needed! You Can Game AI Peer Review with Presentation-Only Revisions",
+      "url": "https://huggingface.co/papers/2606.13044",
+      "description": "As AI-generated reviews move from experimental tools into peer-review infrastructure, most robustness concerns have focused on explicit attacks such as hidden instructions and prompt injection. We stu",
+      "published": "2026-06-10T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 6,
+      "is_new": true
+    },
+    {
       "id": "e95eb4ea2478f2290985ea45130daf46",
       "title": "World Tracing: Generative Pixel-Aligned Geometry Beyond the Visible",
       "url": "https://huggingface.co/papers/2606.13652",
@@ -1189,19 +1215,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
-    },
-    {
-      "id": "b398b04822c4a67066f4bf4001c27514",
-      "title": "Rethinking RAG in Long Videos: What to Retrieve and How to Use It?",
-      "url": "https://huggingface.co/papers/2606.13141",
-      "description": "Retrieval-augmented generation is moving beyond text into long, egocentric video, where systems must select query-relevant chunks across multiple modalities and temporal granularities. Yet progress in",
-      "published": "2026-06-10T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 32,
       "is_new": true
     },
     {
@@ -1255,7 +1268,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 7,
       "is_new": true
     },
     {
@@ -1281,20 +1294,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 13,
-      "is_new": true
-    },
-    {
-      "id": "65487d0c63b8d07c359e1cd09d0bab58",
-      "title": "The Arbiter Agent: Continually Monitoring Multi-Agent Conversations to Detect Emergent Misalignment",
-      "url": "https://huggingface.co/papers/2606.10747",
-      "description": "As AI systems built from multiple language-model agents become more common, they are increasingly used to make decisions together: discussing, negotiating, and acting on shared tasks. While individual",
-      "published": "2026-06-08T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 6,
+      "likes": 15,
       "is_new": true
     }
   ],
@@ -1424,7 +1424,7 @@
         "id": "0a59211a2c978c48aa889293966aec35",
         "title": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
         "url": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
-        "description": "A group made up of dozens of cybersecurity experts urged the White House to remove export control restrictions on Anthropic’s models Fable and Mythos, arguing that the order is going to limit the abil",
+        "description": "A group made up of dozens of cybersecurity experts urged the White House to remove export-control restrictions on Anthropic’s Fable and Mythos models, arguing that the order is going to limit the abil",
         "published": "Mon, 15 Jun 2026 15:29:51 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
@@ -1434,7 +1434,7 @@
       },
       {
         "id": "f85f662961de832fb6799ccbb248c16b",
-        "title": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
+        "title": "Salesforce acquires AI customer service platform Fin for $3.6B",
         "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
         "description": "Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks.",
         "published": "Mon, 15 Jun 2026 14:34:45 +0000",
@@ -1569,6 +1569,30 @@
         "is_new": true
       },
       {
+        "id": "9b9348265e532f092dc1f3b44d7293ea",
+        "title": "All the news about Anthropic&#8217;s new AI fight with the White House",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
+        "description": "Anthropic was already navigating one dispute with the government in its standoff with the Pentagon, and then came an order on June 12th to block off foreign access to its most recently released AI mod",
+        "published": "2026-06-15T15:05:55-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "bc7fc883d0fee319ecf230c754c86b47",
+        "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
+        "description": "On Friday evening, the government ordered Anthropic to block access to Fable 5 and Mythos 5 for all foreign nations, both inside and outside the US, due to national security concerns. That order inclu",
+        "published": "2026-06-15T14:47:08-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
         "id": "5137bc88d485412a6130d7a2e8c69b10",
         "title": "Trump’s Anthropic shutdown just made the case for non-American AI",
         "url": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
@@ -1640,34 +1664,6 @@
         "category": "news",
         "points": 2,
         "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "48529257",
-        "title": "Show HN: Peek – A Figma like DB GUI",
-        "url": "https://getpeek.dev",
-        "description": "",
-        "published": "2026-06-14T16:35:20Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 6,
-        "comments": 1,
-        "is_new": false
-      },
-      {
-        "id": "48524937",
-        "title": "Hacking Salesforce Sites with an LLM Agent",
-        "url": "https://www.reco.ai/blog/hacking-salesforce-sites-with-an-llm-agent",
-        "description": "",
-        "published": "2026-06-14T07:17:21Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 3,
-        "comments": 1,
         "is_new": false
       }
     ],
