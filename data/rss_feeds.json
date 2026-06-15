@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-15T12:29:33.046999+00:00",
-  "total_entries": 90,
-  "new_entries": 1,
+  "last_updated": "2026-06-15T13:25:05.382581+00:00",
+  "total_entries": 110,
+  "new_entries": 22,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,30 +47,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "32f44ef46f2c22167eea07b0c358c992",
-      "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
-      "url": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
-      "description": "Wits its official share pricing announcement, SpaceX's IPO has begun.",
-      "published": "Thu, 11 Jun 2026 20:33:10 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "dc391d966a6de364aeabaa2a8c9609be",
-      "title": "SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
-      "url": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
-      "description": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the  risk of outright fraud.",
-      "published": "Thu, 11 Jun 2026 19:58:01 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
     {
       "id": "ba7f12545c7f20f769c1bb939ec71dca",
       "title": "As AI companies race to go public, who else is along for the ride?",
@@ -168,6 +144,30 @@
       "is_new": false
     },
     {
+      "id": "da4b5edf73d1134252a7504723ed332d",
+      "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
+      "url": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
+      "description": "NewCore argues the next challenge in enterprise security will be managing AI agents, not people.",
+      "published": "Mon, 15 Jun 2026 13:00:00 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "e3d090f143fcc8b24bf8fdaf9eff2a71",
+      "title": "A satellite just learned to find things on its own — here’s what that means",
+      "url": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/",
+      "description": "In April, for the first time ever, an Earth observation satellite found what it was looking for, all on its own.",
+      "published": "Mon, 15 Jun 2026 12:00:00 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "0340f2ccb5a1c2fea9794f708069d35d",
       "title": "The AI layoff wave is becoming a powder keg",
       "url": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
@@ -177,7 +177,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "e5bfd826a774787dca2d193796428bf6",
@@ -871,7 +871,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 8,
+      "points": 9,
       "comments": 3,
       "is_new": false
     },
@@ -1028,6 +1028,45 @@
       "is_new": false
     },
     {
+      "id": "ac5209b370b84ac3ddbb3b7850fbdac6",
+      "title": "AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization",
+      "url": "https://huggingface.co/papers/2606.14694",
+      "description": "Large reasoning models typically follow a read-then-think paradigm: they observe the complete input, reason over a static context, and then produce the answer. Yet many real-world scenarios are inhere",
+      "published": "2026-06-11T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "0fe3f0c2f9aa1fe76007b14ee653c6f0",
+      "title": "RepFusion: Leveraging Multimodal Priors for Denoising in Representation Space",
+      "url": "https://huggingface.co/papers/2606.14700",
+      "description": "Large language models (LLMs) are widely used in text-to-image (T2I) systems, but they are typically limited to text encoding, while denoising is handled by newly trained generative backbones. The emer",
+      "published": "2026-06-11T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 7,
+      "is_new": true
+    },
+    {
+      "id": "f3841f121437e9c30863a5bf06b1807e",
+      "title": "LLM Agents Can See Code Repositories",
+      "url": "https://huggingface.co/papers/2606.14061",
+      "description": "Coding agents powered by large language models have demonstrated strong performance on software engineering tasks. Yet most agents consume repositories almost entirely as text, which differs from how ",
+      "published": "2026-06-11T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 11,
+      "is_new": true
+    },
+    {
       "id": "48494234",
       "title": "Show HN: Stillwind – High Resolution Electronic Component Search",
       "url": "https://stillwind.ai",
@@ -1112,6 +1151,32 @@
       "is_new": false
     },
     {
+      "id": "b398b04822c4a67066f4bf4001c27514",
+      "title": "Rethinking RAG in Long Videos: What to Retrieve and How to Use It?",
+      "url": "https://huggingface.co/papers/2606.13141",
+      "description": "Retrieval-augmented generation is moving beyond text into long, egocentric video, where systems must select query-relevant chunks across multiple modalities and temporal granularities. Yet progress in",
+      "published": "2026-06-10T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 31,
+      "is_new": true
+    },
+    {
+      "id": "a5fdd3ae83d5cd1fe18948f8a7fc8151",
+      "title": "OmniDirector: General Multi-Shot Camera Cloning without Cross-Paired Data",
+      "url": "https://huggingface.co/papers/2606.13432",
+      "description": "Cloning camera motion from reference videos is an important task in video generation, as videos provide intuitive and precise control. Existing methods either directly use parametric representations t",
+      "published": "2026-06-10T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 89,
+      "is_new": true
+    },
+    {
       "id": "48478778",
       "title": "Show HN: TKeeper – policy-governed, signed intents for autonomous systems",
       "url": "https://github.com/tkeeper-org/tkeeper",
@@ -1166,34 +1231,75 @@
       "points": 2,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "1c27403e8df1c78d2aa74ca92e304d32",
+      "title": "APPO: Agentic Procedural Policy Optimization",
+      "url": "https://huggingface.co/papers/2606.12384",
+      "description": "Recent advances in agentic Reinforcement Learning (RL) have substantially improved the multi-turn tool-use capabilities of large language model agents. However, most existing methods assign credit ove",
+      "published": "2026-06-10T13:47:07.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 59,
+      "is_new": true
+    },
+    {
+      "id": "64af973670ea627fe254b1fecb27a6f8",
+      "title": "APT: Action Expert Pretraining Improves Instruction Generalization of Vision-Language-Action Policies",
+      "url": "https://huggingface.co/papers/2606.12366",
+      "description": "Vision-Language-Action (VLA) models that couple pretrained Vision-Language Models (VLMs) with continuous action experts have achieved strong manipulation performance, yet generalization to out-of-dist",
+      "published": "2026-06-09T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "179424f56dd1c3e2d5ef11916b24675a",
+      "title": "Measuring Epistemic Resilience of LLMs Under Misleading Medical Context",
+      "url": "https://huggingface.co/papers/2606.12291",
+      "description": "Large language models (LLMs) now reach expert-level scores on medical licensing exams, encouraging the assumption that high scores imply safe medical judgment while patients increasingly use them for ",
+      "published": "2026-06-09T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 12,
+      "is_new": true
+    },
+    {
+      "id": "2bfc7e2f438e91fc2750f103810b2e3e",
+      "title": "Benchmarking AI Agents for Addressing Scientific Challenges Across Scales",
+      "url": "https://huggingface.co/papers/2606.12736",
+      "description": "AI agents are increasingly being developed to accelerate scientific discovery, yet their practical capabilities in real research settings remain poorly understood. Existing benchmarks for AI agents ra",
+      "published": "2026-06-09T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "b7392be431e3446067a5fc059c642c08",
+      "title": "RedAct: Redacting Agent Capability Traces for Procedural Skill Protection",
+      "url": "https://huggingface.co/papers/2606.10813",
+      "description": "Users rely on execution traces to observe agent behavior, diagnose failures, and ensure accountability. These traces contain rich procedural detail, including tool invocations, intermediate decisions,",
+      "published": "2026-06-09T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 15,
+      "is_new": true
     }
   ],
   "by_category": {
     "news": [
-      {
-        "id": "32f44ef46f2c22167eea07b0c358c992",
-        "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
-        "url": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
-        "description": "Wits its official share pricing announcement, SpaceX's IPO has begun.",
-        "published": "Thu, 11 Jun 2026 20:33:10 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "dc391d966a6de364aeabaa2a8c9609be",
-        "title": "SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
-        "url": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
-        "description": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the  risk of outright fraud.",
-        "published": "Thu, 11 Jun 2026 19:58:01 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
       {
         "id": "ba7f12545c7f20f769c1bb939ec71dca",
         "title": "As AI companies race to go public, who else is along for the ride?",
@@ -1291,6 +1397,30 @@
         "is_new": false
       },
       {
+        "id": "da4b5edf73d1134252a7504723ed332d",
+        "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
+        "url": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
+        "description": "NewCore argues the next challenge in enterprise security will be managing AI agents, not people.",
+        "published": "Mon, 15 Jun 2026 13:00:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "e3d090f143fcc8b24bf8fdaf9eff2a71",
+        "title": "A satellite just learned to find things on its own — here’s what that means",
+        "url": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/",
+        "description": "In April, for the first time ever, an Earth observation satellite found what it was looking for, all on its own.",
+        "published": "Mon, 15 Jun 2026 12:00:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "0340f2ccb5a1c2fea9794f708069d35d",
         "title": "The AI layoff wave is becoming a powder keg",
         "url": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
@@ -1300,7 +1430,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "ead81c101920941c5a1fc1d26df72109",
@@ -1514,7 +1644,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 8,
+        "points": 9,
         "comments": 3,
         "is_new": false
       },
