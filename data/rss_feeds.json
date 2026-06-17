@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-17T10:01:35.775632+00:00",
+  "last_updated": "2026-06-17T11:07:40.676800+00:00",
   "total_entries": 110,
-  "new_entries": 5,
+  "new_entries": 7,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -1013,7 +1013,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 60,
+      "likes": 63,
       "is_new": false
     },
     {
@@ -1026,7 +1026,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 35,
+      "likes": 36,
       "is_new": false
     },
     {
@@ -1079,19 +1079,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "c8359bfb626a29494a0978b5c81a058a",
-      "title": "Unified Multimodal Autoregressive Modeling with Shared Context-Visual Tokenizer is Key to Unification",
-      "url": "https://huggingface.co/papers/2606.18249",
-      "description": "Unified Multimodal Modeling aims to integrate visual understanding and generation within a single system. However, existing approaches typically rely on two disparate visual tokenizers, which splits t",
-      "published": "2026-06-15T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
       "is_new": false
     },
     {
@@ -1171,6 +1158,19 @@
       "is_new": false
     },
     {
+      "id": "49ea466e1e56493f0532ab41f2bc5a75",
+      "title": "RepSelect: Robust LLM Unlearning via Representation Selectivity",
+      "url": "https://huggingface.co/papers/2606.17168",
+      "description": "Making large language models (LLMs) deeply forget specific knowledge and values without sacrificing general capabilities remains a central challenge in unlearning. However, current methods are easily ",
+      "published": "2026-06-14T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "e7b59f780a1d98876a16346e079e8c4b",
       "title": "Text-Vision Co-Instructed Image Editing",
       "url": "https://huggingface.co/papers/2606.16767",
@@ -1220,19 +1220,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 6,
-      "is_new": false
-    },
-    {
-      "id": "0b23f090b0276c1980287adfa6f8b49b",
-      "title": "LectūraAgents: A Multi-Agent Framework for Adaptive Personalized AI-Assisted Learning and Embodied Teaching",
-      "url": "https://huggingface.co/papers/2606.16428",
-      "description": "Effective personalized AI-assisted learning demands systems that can not only generate accurate learner-specific educational materials, but also dynamically adapt their instruction to diverse learners",
-      "published": "2026-06-14T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 27,
       "is_new": false
     },
     {
@@ -1289,6 +1276,20 @@
       "category": "news",
       "points": 3,
       "comments": 1,
+      "is_new": false
+    },
+    {
+      "id": "48520757",
+      "title": "Show HN: I am running 3 coding agents non-stop over the last 3 days. Here is how",
+      "url": "https://news.ycombinator.com/item?id=48520757",
+      "description": "",
+      "published": "2026-06-13T19:48:31Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 9,
+      "comments": 3,
       "is_new": false
     }
   ],
