@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-18T10:39:16.507599+00:00",
+  "last_updated": "2026-06-18T11:16:21.505937+00:00",
   "total_entries": 110,
-  "new_entries": 4,
+  "new_entries": 1,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -779,7 +779,7 @@
       "category": "news",
       "points": 1,
       "comments": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "48581817",
@@ -793,7 +793,7 @@
       "category": "news",
       "points": 1,
       "comments": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "6bb412ed386a706b9bf8cde81d0a647f",
@@ -859,7 +859,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 184,
+      "points": 187,
       "comments": 87,
       "is_new": false
     },
@@ -1028,6 +1028,19 @@
       "points": 1,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "4a6e912ca7fca42ccbb8ff904351682c",
+      "title": "EfficientRollout: System-Aware Self-Speculative Decoding for RL Rollouts",
+      "url": "https://huggingface.co/papers/2606.18967",
+      "description": "Reinforcement learning (RL) has become a representative post-training paradigm for LLMs, enabling strong reasoning and agentic capabilities. However, rollout generation remains a dominant latency bott",
+      "published": "2026-06-16T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 9,
+      "is_new": true
     },
     {
       "id": "293fc2dc4647c8d78395d4c23680d045",
@@ -1278,20 +1291,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 21,
-      "is_new": false
-    },
-    {
-      "id": "48544117",
-      "title": "Ask HN: Specialization to stay relevant in the age of AI",
-      "url": "https://news.ycombinator.com/item?id=48544117",
-      "description": "",
-      "published": "2026-06-15T17:02:18Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 0,
       "is_new": false
     }
   ],
@@ -1549,7 +1548,7 @@
         "category": "news",
         "points": 1,
         "comments": 0,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "48581817",
@@ -1563,7 +1562,7 @@
         "category": "news",
         "points": 1,
         "comments": 0,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "6bb412ed386a706b9bf8cde81d0a647f",
@@ -1629,7 +1628,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 184,
+        "points": 187,
         "comments": 87,
         "is_new": false
       },
