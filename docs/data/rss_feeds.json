@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-19T05:21:25.823386+00:00",
+  "last_updated": "2026-06-19T10:46:48.024266+00:00",
   "total_entries": 110,
-  "new_entries": 0,
+  "new_entries": 10,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -113,18 +113,6 @@
       "url": "https://techcrunch.com/2026/06/17/social-medias-next-evolution-user-controlled-algorithms/",
       "description": "Social media feeds are becoming more customizable as platforms like Threads, Instagram, and TikTok introduce tools that let users directly influence the algorithms powering their recommendations.",
       "published": "Wed, 17 Jun 2026 18:19:48 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "69f241dbd025c63cf5aa5a2204ea0622",
-      "title": "NEA’s Tiffany Luck on AI IPOs, personal agents, and the ROI reckoning",
-      "url": "https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/",
-      "description": "Tokenmaxxing was the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far as it would go. Then the bill came due. Uber reportedly blew through its",
-      "published": "Wed, 17 Jun 2026 18:00:00 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
@@ -274,6 +262,18 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "bd33e41be4e55b0e86a45408c93b7aee",
+      "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t",
+      "url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+      "description": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
+      "published": "Fri, 19 Jun 2026 07:59:12 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "f7db370cf36fed58abc1eb772e299147",
@@ -924,6 +924,71 @@
       "is_new": false
     },
     {
+      "id": "886d2376f15327343b094f988990623e",
+      "title": "Rethinking Shrinkage Bias in LLM FP4 Pretraining: Geometric Origin, Systemic Impact, and UFP4 Recipe",
+      "url": "https://huggingface.co/papers/2606.20381",
+      "description": "FP4 training promises substantial reductions in memory and computation cost for LLM pretraining, yet current FP4 hardware paths and recipes, including NVIDIA Blackwell/Rubin-class systems and AMD MI35",
+      "published": "2026-06-17T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "d653b2edf4955b446e2e808e19a73e8d",
+      "title": "Multi-LCB: Extending LiveCodeBench to Multiple Programming Languages",
+      "url": "https://huggingface.co/papers/2606.20517",
+      "description": "LiveCodeBench (LCB) has recently become a widely adopted benchmark for evaluating large language models (LLMs) on code-generation tasks. By curating competitive programming problems, constantly adding",
+      "published": "2026-06-17T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
+    },
+    {
+      "id": "8cee2e297add1ff51f08f29d56a478f1",
+      "title": "FlowBender: Feedback-Aware Training for Self-Correcting Conditional Flows",
+      "url": "https://huggingface.co/papers/2606.20404",
+      "description": "Conditional diffusion and flow models routinely fail to satisfy the very constraints that define their task. For instance, a depth-conditioned model often produces images whose re-extracted depth disa",
+      "published": "2026-06-17T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 7,
+      "is_new": true
+    },
+    {
+      "id": "f5bfe796bf97361e89bede4229266aa5",
+      "title": "HumanScale: Egocentric Human Video Can Outperform Real-Robot Data for Embodied Pretraining",
+      "url": "https://huggingface.co/papers/2606.20521",
+      "description": "Embodied foundation models are expected to benefit from data scaling like large language models, but face a much tighter data bottleneck. Teleoperated real-robot trajectories remain the dominant pretr",
+      "published": "2026-06-17T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
+      "id": "60daba1e78127234c88d56d6d8e33d82",
+      "title": "DF3DV-1K: A Large-Scale Dataset and Benchmark for Distractor-Free Novel View Synthesis",
+      "url": "https://huggingface.co/papers/2604.13416",
+      "description": "Advances in radiance fields have enabled photorealistic novel view synthesis. In several domains, large-scale real-world datasets have been developed to support comprehensive benchmarking and to facil",
+      "published": "2026-06-17T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
+    },
+    {
       "id": "8cd1a23f6aa95daaa0422dd808f8ee8c",
       "title": "S-Agent: Spatial Tool-Use Elicits Reasoning for Spatial Intelligence",
       "url": "https://huggingface.co/papers/2606.20515",
@@ -933,7 +998,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 16,
+      "likes": 22,
       "is_new": false
     },
     {
@@ -946,7 +1011,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
+      "likes": 11,
       "is_new": false
     },
     {
@@ -959,7 +1024,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 6,
       "is_new": false
     },
     {
@@ -972,7 +1037,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -985,7 +1050,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 10,
+      "likes": 14,
       "is_new": false
     },
     {
@@ -998,7 +1063,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 5,
       "is_new": false
     },
     {
@@ -1006,32 +1071,6 @@
       "title": "JAMER: Project-Level Code Framework Dataset and Benchmark on Professional Game Engines",
       "url": "https://huggingface.co/papers/2606.19830",
       "description": "Current AI-driven game development has made substantial progress in asset generation, gameplay design, and web-based game coding, yet project-level code engineering on professional game engines remain",
-      "published": "2026-06-17T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
-      "is_new": false
-    },
-    {
-      "id": "699a1393ec8c01e7db1e6587180279c6",
-      "title": "Beyond Static Leaderboards: Predictive Validity for the Evaluation of LLM Agents",
-      "url": "https://huggingface.co/papers/2606.19704",
-      "description": "Agent benchmarks are growing fast, but no single benchmark touches more than four or five of the dimensions that deployment exposes. This paper aggregates the largest coordinated deep-dive of one MCP-",
-      "published": "2026-06-17T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 17,
-      "is_new": false
-    },
-    {
-      "id": "a9724cb304d8af4db400a4db7843aabc",
-      "title": "Think Again or Think Longer? Selective Verification for Budget-Aware Reasoning",
-      "url": "https://huggingface.co/papers/2606.19808",
-      "description": "Test-time reasoning is increasingly used as a serving-time control knob, but extra reasoning is not uniformly valuable: it can repair failed attempts, waste compute on already-correct answers, or intr",
       "published": "2026-06-17T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
@@ -1078,7 +1117,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 207,
+      "points": 208,
       "comments": 97,
       "is_new": false
     },
@@ -1187,62 +1226,23 @@
       "is_new": false
     },
     {
+      "id": "6d9743edc026a2bfea4473c3e90b66ff",
+      "title": "Playful Agentic Robot Learning",
+      "url": "https://huggingface.co/papers/2606.19419",
+      "description": "Current agentic robot systems can write executable Code-as-Policy programs, observe feedback, and revise behavior across multiple attempts, but they remain largely task-driven: reusable skills are acq",
+      "published": "2026-06-16T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 29,
+      "is_new": true
+    },
+    {
       "id": "b9974ae358c91b74370375e29aa3337b",
       "title": "FAPO: Fully Autonomous Prompt Optimization of Multi-Step LLM Pipelines",
       "url": "https://huggingface.co/papers/2606.19605",
       "description": "Multi-step LLM pipelines fail through interactions among retrieval, reasoning, and formatting steps, so prompt-only optimization can miss bottlenecks in the chain. We present FAPO (Fully Autonomous Pr",
-      "published": "2026-06-16T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "6fbf0c02cc03c38b6c0cb23091198404",
-      "title": "ImageWAM: Do World Action Models Really Need Video Generation, or Just Image Editing?",
-      "url": "https://huggingface.co/papers/2606.19531",
-      "description": "World Action Models (WAMs) commonly rely on video generation to bridge visual world modeling and robot control. However, video-based WAMs face three coupled limitations: dense multi-frame future token",
-      "published": "2026-06-16T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "56da04dd2dd9f18a7e1034e73172839a",
-      "title": "Moebius: 0.2B Lightweight Image Inpainting Framework with 10B-Level Performance",
-      "url": "https://huggingface.co/papers/2606.19195",
-      "description": "While 10B-level industrial foundation models have pushed the boundaries of image inpainting, their prohibitive computational costs severely hinder practical deployment. Constructing a highly optimized",
-      "published": "2026-06-16T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 11,
-      "is_new": false
-    },
-    {
-      "id": "c33d3ebf89b596320294315c94b6fc77",
-      "title": "LooseControlVideo: Directorial Video Control using Spatial Blocking",
-      "url": "https://huggingface.co/papers/2606.19495",
-      "description": "Precise 3D spatial orchestration in text-to-video generation remains a significant challenge, particularly for multi-object scenes where semantic layout and temporal dynamics are often entangled. Whil",
-      "published": "2026-06-16T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
-      "is_new": false
-    },
-    {
-      "id": "a77ebf785524606a18b5107e65f9e332",
-      "title": "REVES: REvision and VErification--Augmented Training for Test-Time Scaling",
-      "url": "https://huggingface.co/papers/2606.18910",
-      "description": "Test-time scaling via sequential revision has emerged as a powerful paradigm for enhancing Large Language Model (LLM) reasoning. However, standard post-training methods primarily optimize single-shot ",
       "published": "2026-06-16T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
@@ -1362,18 +1362,6 @@
         "url": "https://techcrunch.com/2026/06/17/social-medias-next-evolution-user-controlled-algorithms/",
         "description": "Social media feeds are becoming more customizable as platforms like Threads, Instagram, and TikTok introduce tools that let users directly influence the algorithms powering their recommendations.",
         "published": "Wed, 17 Jun 2026 18:19:48 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "69f241dbd025c63cf5aa5a2204ea0622",
-        "title": "NEA’s Tiffany Luck on AI IPOs, personal agents, and the ROI reckoning",
-        "url": "https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/",
-        "description": "Tokenmaxxing was the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far as it would go. Then the bill came due. Uber reportedly blew through its",
-        "published": "Wed, 17 Jun 2026 18:00:00 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
@@ -1523,6 +1511,18 @@
         "source_icon": "📰",
         "category": "news",
         "is_new": false
+      },
+      {
+        "id": "bd33e41be4e55b0e86a45408c93b7aee",
+        "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t",
+        "url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+        "description": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
+        "published": "Fri, 19 Jun 2026 07:59:12 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
       },
       {
         "id": "f7db370cf36fed58abc1eb772e299147",
