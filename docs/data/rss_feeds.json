@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-19T14:19:46.564021+00:00",
+  "last_updated": "2026-06-19T15:32:39.477526+00:00",
   "total_entries": 110,
-  "new_entries": 4,
+  "new_entries": 10,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -89,18 +89,6 @@
       "url": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
       "description": "French President Macron and Indian PM Modi raised alarms at the G7 summit that the U.S. could cut off access to American AI overnight  — a fear the Anthropic blackout just made real.",
       "published": "Wed, 17 Jun 2026 19:01:19 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "1d907aaa2f0e6c751f8ab157f16956af",
-      "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
-      "url": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
-      "description": "Anthropic has joined the Frontier coalition, which received another $915M in pledges to fund carbon removal projects.",
-      "published": "Wed, 17 Jun 2026 18:30:56 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
@@ -250,6 +238,18 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "e35040ffdf0875935841ee41a82d4589",
+      "title": "Billionaire Ambani wants AI in every call, app, and home",
+      "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+      "description": "Reliance is weaving AI into telecom services used by more than 500 million people.",
+      "published": "Fri, 19 Jun 2026 15:23:28 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "076b29791c7a33db9ea2b30ec28e11b4",
@@ -950,6 +950,19 @@
       "is_new": false
     },
     {
+      "id": "028c689d933f064d3b9b64de0893cd4e",
+      "title": "The FID Lottery: Quantifying Hidden Randomness in Generative-Model Evaluation",
+      "url": "https://huggingface.co/papers/2606.20536",
+      "description": "The Frechet Inception Distance (FID) is the de facto arbiter of image generation, yet most papers report just a single number from a single trained model using a single sampling seed. How reproducible",
+      "published": "2026-06-17T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "886d2376f15327343b094f988990623e",
       "title": "Rethinking Shrinkage Bias in LLM FP4 Pretraining: Geometric Origin, Systemic Impact, and UFP4 Recipe",
       "url": "https://huggingface.co/papers/2606.20381",
@@ -1024,7 +1037,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 24,
+      "likes": 25,
       "is_new": false
     },
     {
@@ -1038,58 +1051,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 12,
-      "is_new": false
-    },
-    {
-      "id": "e524b644edf56aa437616913d9a87ec6",
-      "title": "ENPIRE: Agentic Robot Policy Self-Improvement in the Real World",
-      "url": "https://huggingface.co/papers/2606.19980",
-      "description": "Achieving dexterous robotic manipulation in the real world heavily relies on human supervision and algorithm engineering, which becomes a central bottleneck in the pursuit of general physical intellig",
-      "published": "2026-06-17T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 7,
-      "is_new": false
-    },
-    {
-      "id": "ea7e276fa4058c82c7a9b0e9f64c8ccb",
-      "title": "Holo-World: Unified Camera, Object and Weather Control for Video World Model",
-      "url": "https://huggingface.co/papers/2606.20083",
-      "description": "Video world models are moving toward preserving an observed world under controllable camera and object motion while allowing its environmental state to change. Yet these controls remain isolated, and ",
-      "published": "2026-06-17T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "a5aa8c1667f7fd56bb1589522ef19e24",
-      "title": "FreeStyle: Free Control of Style-Content Dual-Reference Generation from Community LoRA Mining",
-      "url": "https://huggingface.co/papers/2606.20506",
-      "description": "Style-content dual-reference generation aims to synthesize an image that preserves the structure and semantics of a content reference while adopting the style of a separate style reference.Despite rec",
-      "published": "2026-06-17T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 15,
-      "is_new": false
-    },
-    {
-      "id": "f41d8ddfd0ed0be9aa30fca0c69fb6f9",
-      "title": "Current World Models Lack a Persistent State Core",
-      "url": "https://huggingface.co/papers/2606.20545",
-      "description": "World models are increasingly regarded as a decisive step toward artificial general intelligence, yet modeling the physical world demands more than rendering convincing frames on demand: it requires a",
-      "published": "2026-06-17T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 6,
       "is_new": false
     },
     {
@@ -1227,6 +1188,19 @@
       "is_new": false
     },
     {
+      "id": "ec163d7029548f656b809b67feaf2be8",
+      "title": "Configurable Clinical Information Extraction with Agentic RAG: What Works, What Breaks, and Why",
+      "url": "https://huggingface.co/papers/2606.19602",
+      "description": "Patient contexts span hundreds of heterogeneous documents and thousands of structured data points, yet the document-level metadata that AI systems need for retrieval and triage is absent or incomplete",
+      "published": "2026-06-16T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "6d9743edc026a2bfea4473c3e90b66ff",
       "title": "Playful Agentic Robot Learning",
       "url": "https://huggingface.co/papers/2606.19419",
@@ -1293,6 +1267,34 @@
       "points": 2,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "48553760",
+      "title": "Show HN: Codify – Terraform for Dev Environments",
+      "url": "https://codifycli.com/",
+      "description": "",
+      "published": "2026-06-16T11:50:18Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": false
+    },
+    {
+      "id": "48552087",
+      "title": "Show HN: Ghostty in-browser with real client-side back end",
+      "url": "https://ghosttyplayground.com/",
+      "description": "",
+      "published": "2026-06-16T08:04:43Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": false
     }
   ],
   "by_category": {
@@ -1339,18 +1341,6 @@
         "url": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
         "description": "French President Macron and Indian PM Modi raised alarms at the G7 summit that the U.S. could cut off access to American AI overnight  — a fear the Anthropic blackout just made real.",
         "published": "Wed, 17 Jun 2026 19:01:19 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "1d907aaa2f0e6c751f8ab157f16956af",
-        "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
-        "url": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
-        "description": "Anthropic has joined the Frontier coalition, which received another $915M in pledges to fund carbon removal projects.",
-        "published": "Wed, 17 Jun 2026 18:30:56 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
@@ -1500,6 +1490,18 @@
         "source_icon": "📰",
         "category": "news",
         "is_new": false
+      },
+      {
+        "id": "e35040ffdf0875935841ee41a82d4589",
+        "title": "Billionaire Ambani wants AI in every call, app, and home",
+        "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+        "description": "Reliance is weaving AI into telecom services used by more than 500 million people.",
+        "published": "Fri, 19 Jun 2026 15:23:28 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
       },
       {
         "id": "076b29791c7a33db9ea2b30ec28e11b4",
