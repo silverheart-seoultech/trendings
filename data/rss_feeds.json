@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-21T23:42:42.936070+00:00",
+  "last_updated": "2026-06-22T05:04:09.857586+00:00",
   "total_entries": 70,
-  "new_entries": 1,
+  "new_entries": 5,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -614,7 +614,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 49,
+      "likes": 50,
       "is_new": false
     },
     {
@@ -640,46 +640,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
-      "is_new": false
-    },
-    {
-      "id": "60daba1e78127234c88d56d6d8e33d82",
-      "title": "DF3DV-1K: A Large-Scale Dataset and Benchmark for Distractor-Free Novel View Synthesis",
-      "url": "https://huggingface.co/papers/2604.13416",
-      "description": "Advances in radiance fields have enabled photorealistic novel view synthesis. In several domains, large-scale real-world datasets have been developed to support comprehensive benchmarking and to facil",
-      "published": "2026-06-17T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 29,
-      "is_new": false
-    },
-    {
-      "id": "8cd1a23f6aa95daaa0422dd808f8ee8c",
-      "title": "S-Agent: Spatial Tool-Use Elicits Reasoning for Spatial Intelligence",
-      "url": "https://huggingface.co/papers/2606.20515",
-      "description": "Real-world spatial intelligence requires reasoning over a continuous and evolving 3D world, yet existing VLMs and tool-augmented agents largely remain tied to static, stateless inference from isolated",
-      "published": "2026-06-17T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 35,
-      "is_new": false
-    },
-    {
-      "id": "d9fb2b07c36403f8601663e809f0ccc3",
-      "title": "JanusMesh: Fast and Zero-Shot 3D Visual Illusion Generation via Cross-Space Denoising",
-      "url": "https://huggingface.co/papers/2606.20563",
-      "description": "Creating 3D visual illusions, a single 3D mesh that reveals entirely different semantics from various viewing angles, is a fascinating but tough challenge. Existing optimization-based methods are slow",
-      "published": "2026-06-17T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 19,
+      "likes": 7,
       "is_new": false
     },
     {
@@ -805,6 +766,58 @@
       "is_new": false
     },
     {
+      "id": "1fc51923501ce074fda9cf261c5e51d9",
+      "title": "GateMem: Benchmarking Memory Governance in Multi-Principal Shared-Memory Agents",
+      "url": "https://huggingface.co/papers/2606.18829",
+      "description": "Memory benchmarks for LLM agents largely assume single-user settings, leaving shared assistants for hospitals, workplaces, campuses, and households understudied. In these deployments, multiple princip",
+      "published": "2026-06-16T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "0eecb270b948fa33bb244491a08b0b43",
+      "title": "BrainG3N: A Dual-Purpose Tokenizer for Controllable 3D Brain MRI Generation",
+      "url": "https://huggingface.co/papers/2606.19651",
+      "description": "Three-dimensional (3D) brain MRI is central to clinical neurology and neuro-oncology, where generative models could augment under-represented cohorts, simulate disease trajectories, and support privac",
+      "published": "2026-06-16T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "3f922ca742c9d16e1ba2f10c0bd854fe",
+      "title": "WorldLines: Benchmarking and Modeling Long-Horizon Stateful Embodied Agents",
+      "url": "https://huggingface.co/papers/2606.18847",
+      "description": "To assist humans over extended periods in real homes, embodied agents must remember user routines, world states, and past interactions. Existing long-term memory benchmarks mainly evaluate language-ce",
+      "published": "2026-06-16T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "f0e61bbfa62a2c49176499b0260b54bb",
+      "title": "PerceptionDLM: Parallel Region Perception with Multimodal Diffusion Language Models",
+      "url": "https://huggingface.co/papers/2606.19534",
+      "description": "Multimodal large language models (MLLMs) have achieved remarkable progress in visual understanding tasks. However, most existing MLLMs rely on autoregressive generation, which limits their efficiency ",
+      "published": "2026-06-16T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 31,
+      "is_new": true
+    },
+    {
       "id": "981f056141e99307b351f6a2ef741bd0",
       "title": "Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States",
       "url": "https://huggingface.co/papers/2606.19334",
@@ -831,19 +844,6 @@
       "is_new": false
     },
     {
-      "id": "6d9743edc026a2bfea4473c3e90b66ff",
-      "title": "Playful Agentic Robot Learning",
-      "url": "https://huggingface.co/papers/2606.19419",
-      "description": "Current agentic robot systems can write executable Code-as-Policy programs, observe feedback, and revise behavior across multiple attempts, but they remain largely task-driven: reusable skills are acq",
-      "published": "2026-06-16T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 43,
-      "is_new": false
-    },
-    {
       "id": "efbecf9ea71a3c2e33a23403f5d1b2dc",
       "title": "LegalHalluLens: Typed Hallucination Auditing and Calibrated Multi-Agent Debate for Trustworthy Legal AI",
       "url": "https://huggingface.co/papers/2606.18021",
@@ -866,7 +866,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 10,
+      "likes": 11,
       "is_new": false
     },
     {
@@ -931,7 +931,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 68,
+      "likes": 69,
       "is_new": false
     },
     {
@@ -1377,7 +1377,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 49,
+        "likes": 50,
         "is_new": false
       },
       {
@@ -1403,47 +1403,60 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 6,
+        "likes": 7,
         "is_new": false
       },
       {
-        "id": "60daba1e78127234c88d56d6d8e33d82",
-        "title": "DF3DV-1K: A Large-Scale Dataset and Benchmark for Distractor-Free Novel View Synthesis",
-        "url": "https://huggingface.co/papers/2604.13416",
-        "description": "Advances in radiance fields have enabled photorealistic novel view synthesis. In several domains, large-scale real-world datasets have been developed to support comprehensive benchmarking and to facil",
-        "published": "2026-06-17T20:00:00.000Z",
+        "id": "1fc51923501ce074fda9cf261c5e51d9",
+        "title": "GateMem: Benchmarking Memory Governance in Multi-Principal Shared-Memory Agents",
+        "url": "https://huggingface.co/papers/2606.18829",
+        "description": "Memory benchmarks for LLM agents largely assume single-user settings, leaving shared assistants for hospitals, workplaces, campuses, and households understudied. In these deployments, multiple princip",
+        "published": "2026-06-16T20:00:00.000Z",
         "source_id": "hf-papers",
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 29,
-        "is_new": false
+        "likes": 1,
+        "is_new": true
       },
       {
-        "id": "8cd1a23f6aa95daaa0422dd808f8ee8c",
-        "title": "S-Agent: Spatial Tool-Use Elicits Reasoning for Spatial Intelligence",
-        "url": "https://huggingface.co/papers/2606.20515",
-        "description": "Real-world spatial intelligence requires reasoning over a continuous and evolving 3D world, yet existing VLMs and tool-augmented agents largely remain tied to static, stateless inference from isolated",
-        "published": "2026-06-17T20:00:00.000Z",
+        "id": "0eecb270b948fa33bb244491a08b0b43",
+        "title": "BrainG3N: A Dual-Purpose Tokenizer for Controllable 3D Brain MRI Generation",
+        "url": "https://huggingface.co/papers/2606.19651",
+        "description": "Three-dimensional (3D) brain MRI is central to clinical neurology and neuro-oncology, where generative models could augment under-represented cohorts, simulate disease trajectories, and support privac",
+        "published": "2026-06-16T20:00:00.000Z",
         "source_id": "hf-papers",
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 35,
-        "is_new": false
+        "likes": 2,
+        "is_new": true
       },
       {
-        "id": "d9fb2b07c36403f8601663e809f0ccc3",
-        "title": "JanusMesh: Fast and Zero-Shot 3D Visual Illusion Generation via Cross-Space Denoising",
-        "url": "https://huggingface.co/papers/2606.20563",
-        "description": "Creating 3D visual illusions, a single 3D mesh that reveals entirely different semantics from various viewing angles, is a fascinating but tough challenge. Existing optimization-based methods are slow",
-        "published": "2026-06-17T20:00:00.000Z",
+        "id": "3f922ca742c9d16e1ba2f10c0bd854fe",
+        "title": "WorldLines: Benchmarking and Modeling Long-Horizon Stateful Embodied Agents",
+        "url": "https://huggingface.co/papers/2606.18847",
+        "description": "To assist humans over extended periods in real homes, embodied agents must remember user routines, world states, and past interactions. Existing long-term memory benchmarks mainly evaluate language-ce",
+        "published": "2026-06-16T20:00:00.000Z",
         "source_id": "hf-papers",
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 19,
-        "is_new": false
+        "likes": 2,
+        "is_new": true
+      },
+      {
+        "id": "f0e61bbfa62a2c49176499b0260b54bb",
+        "title": "PerceptionDLM: Parallel Region Perception with Multimodal Diffusion Language Models",
+        "url": "https://huggingface.co/papers/2606.19534",
+        "description": "Multimodal large language models (MLLMs) have achieved remarkable progress in visual understanding tasks. However, most existing MLLMs rely on autoregressive generation, which limits their efficiency ",
+        "published": "2026-06-16T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 31,
+        "is_new": true
       },
       {
         "id": "981f056141e99307b351f6a2ef741bd0",
@@ -1472,19 +1485,6 @@
         "is_new": false
       },
       {
-        "id": "6d9743edc026a2bfea4473c3e90b66ff",
-        "title": "Playful Agentic Robot Learning",
-        "url": "https://huggingface.co/papers/2606.19419",
-        "description": "Current agentic robot systems can write executable Code-as-Policy programs, observe feedback, and revise behavior across multiple attempts, but they remain largely task-driven: reusable skills are acq",
-        "published": "2026-06-16T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 43,
-        "is_new": false
-      },
-      {
         "id": "efbecf9ea71a3c2e33a23403f5d1b2dc",
         "title": "LegalHalluLens: Typed Hallucination Auditing and Calibrated Multi-Agent Debate for Trustworthy Legal AI",
         "url": "https://huggingface.co/papers/2606.18021",
@@ -1507,7 +1507,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 10,
+        "likes": 11,
         "is_new": false
       },
       {
@@ -1572,7 +1572,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 68,
+        "likes": 69,
         "is_new": false
       },
       {
