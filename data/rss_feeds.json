@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-23T18:11:05.052330+00:00",
+  "last_updated": "2026-06-23T20:13:13.194506+00:00",
   "total_entries": 110,
-  "new_entries": 11,
+  "new_entries": 14,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,6 +768,20 @@
       "is_new": false
     },
     {
+      "id": "48649137",
+      "title": "Show HN: RLM-based local debugger for AI agent traces",
+      "url": "https://github.com/context-labs/halo",
+      "description": "",
+      "published": "2026-06-23T18:21:52Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "48648085",
       "title": "Show HN: Compilr.dev, multi LLM AI workspace",
       "url": "https://compilr.dev/",
@@ -937,7 +951,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 19,
+      "points": 20,
       "comments": 2,
       "is_new": false
     },
@@ -1032,6 +1046,19 @@
       "is_new": false
     },
     {
+      "id": "5aa6e8ba0378fef5417fd81c667d1ecb",
+      "title": "ShotcreteDepth: A Bi-modal Dataset for Robust Robotic Depth Perception in Shotcrete Construction Environments",
+      "url": "https://huggingface.co/papers/2606.23152",
+      "description": "We introduce ShotcreteDepth, a bi-modal dataset from the construction domain that captures both an active shotcreting process and general construction environments. The dataset comprises stereo RGB im",
+      "published": "2026-06-21T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "04136d5018e8a41bb9092ee88b190458",
       "title": "When Agents Commit Too Soon: Diagnosing Premature Commitment in LLM Agents",
       "url": "https://huggingface.co/papers/2606.22936",
@@ -1054,7 +1081,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": true
     },
     {
@@ -1191,19 +1218,6 @@
       "is_new": false
     },
     {
-      "id": "07f0dccdb3538b3b1e6fef9b6c4a996e",
-      "title": "Deeper is Not Always Better: Mitigating the Alignment Tax via Confident Layer Decoding",
-      "url": "https://huggingface.co/papers/2606.21906",
-      "description": "Autoregressive generation in large language models (LLMs) conventionally decodes from the final layer, assuming that deeper representations yield more reliable next-token predictions. We revisit this ",
-      "published": "2026-06-19T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 12,
-      "is_new": false
-    },
-    {
       "id": "aca35cefe862eb736a86848d08fa616b",
       "title": "The film about Sam Altman has been dropped by Amazon MGM",
       "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
@@ -1278,20 +1292,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
-      "is_new": false
-    },
-    {
-      "id": "7edbfc9ed90e7583fcb38d0062b0269b",
-      "title": "Improving Text-to-Music Generation with Human Preference Rewards",
-      "url": "https://huggingface.co/papers/2606.21670",
-      "description": "We describe our entry to the efficiency track of the Academic Text-to-Music (ATTM) Grand Challenge at ICME 2026. Beyond the challenge protocol's FAD-CLAP and CLAP score, we add a learned human-prefere",
-      "published": "2026-06-18T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
+      "likes": 5,
       "is_new": false
     }
   ],
@@ -1538,6 +1539,20 @@
         "is_new": false
       },
       {
+        "id": "48649137",
+        "title": "Show HN: RLM-based local debugger for AI agent traces",
+        "url": "https://github.com/context-labs/halo",
+        "description": "",
+        "published": "2026-06-23T18:21:52Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 1,
+        "comments": 0,
+        "is_new": true
+      },
+      {
         "id": "48648085",
         "title": "Show HN: Compilr.dev, multi LLM AI workspace",
         "url": "https://compilr.dev/",
@@ -1658,20 +1673,6 @@
         "source_icon": "📰",
         "category": "news",
         "is_new": true
-      },
-      {
-        "id": "48643095",
-        "title": "Who Owns the Model of You?",
-        "url": "https://0set0set.github.io/articles/alma-a-self-model-for-ai-agents/",
-        "description": "",
-        "published": "2026-06-23T10:56:14Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 4,
-        "comments": 0,
-        "is_new": false
       }
     ],
     "research": [
