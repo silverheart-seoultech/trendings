@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-23T15:13:33.728547+00:00",
+  "last_updated": "2026-06-23T15:24:09.473024+00:00",
   "total_entries": 110,
-  "new_entries": 19,
+  "new_entries": 1,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -57,7 +57,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "6ad2703ed5c30093ae8e3e837517880b",
@@ -69,7 +69,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "44208f99c6187093ae0ff9c14077b53b",
@@ -779,7 +779,7 @@
       "category": "news",
       "points": 3,
       "comments": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "48645683",
@@ -793,7 +793,7 @@
       "category": "news",
       "points": 1,
       "comments": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "48645555",
@@ -807,7 +807,7 @@
       "category": "news",
       "points": 2,
       "comments": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "48644467",
@@ -821,7 +821,7 @@
       "category": "news",
       "points": 3,
       "comments": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "48644350",
@@ -835,7 +835,7 @@
       "category": "news",
       "points": 3,
       "comments": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "48643095",
@@ -849,7 +849,7 @@
       "category": "news",
       "points": 3,
       "comments": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "521723b5cf98a5ab4f28142c2311f5cc",
@@ -861,7 +861,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "8c12e35ce0672cfd7aeaa7a6a9d29ebf",
@@ -873,7 +873,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "48639840",
@@ -899,7 +899,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "9a78d8672dc2ec204b1a1fd593125c3a",
@@ -1002,7 +1002,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "0e78a4e3d3310a006d87b03af85c4fb7",
@@ -1015,7 +1015,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "0d092ec00908c4edac3a5f9f0e3e5cca",
@@ -1067,19 +1067,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 6,
-      "is_new": false
-    },
-    {
-      "id": "bc713aa29c1fc4534a0f2e9e87f7d6e0",
-      "title": "UniverSat: Resolution- and Modality-Agnostic Transformers for Earth Observation",
-      "url": "https://huggingface.co/papers/2606.23503",
-      "description": "Vision Transformers (ViT) dominate computer vision. However, their reliance on rigid patch projectors hinders transfer to Earth Observation (EO), where input modalities, scales, and resolutions vary w",
-      "published": "2026-06-21T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
       "is_new": false
     },
     {
@@ -1213,7 +1200,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "2f4d07c0610366d9bc11fa901b14524e",
@@ -1226,7 +1213,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3dce8716b5bd40bb4a5608cf761797e6",
@@ -1238,8 +1225,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
-      "is_new": true
+      "likes": 5,
+      "is_new": false
     },
     {
       "id": "103be6bf8dde7a97b2c412ac264eafdf",
@@ -1293,6 +1280,20 @@
       "points": 2,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "48587665",
+      "title": "Show HN: I built a reverse-engineering agent for the web",
+      "url": "https://github.com/StoneSteel27/AutomatiQ",
+      "description": "",
+      "published": "2026-06-18T16:15:19Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 3,
+      "comments": 0,
+      "is_new": false
     }
   ],
   "by_category": {
@@ -1307,7 +1308,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "6ad2703ed5c30093ae8e3e837517880b",
@@ -1319,7 +1320,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "44208f99c6187093ae0ff9c14077b53b",
@@ -1549,7 +1550,7 @@
         "category": "news",
         "points": 3,
         "comments": 0,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "48645683",
@@ -1563,7 +1564,7 @@
         "category": "news",
         "points": 1,
         "comments": 0,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "48645555",
@@ -1577,7 +1578,7 @@
         "category": "news",
         "points": 2,
         "comments": 0,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "48644467",
@@ -1591,7 +1592,7 @@
         "category": "news",
         "points": 3,
         "comments": 0,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "48644350",
@@ -1605,7 +1606,7 @@
         "category": "news",
         "points": 3,
         "comments": 0,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "48643095",
@@ -1619,7 +1620,7 @@
         "category": "news",
         "points": 3,
         "comments": 0,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "521723b5cf98a5ab4f28142c2311f5cc",
@@ -1631,7 +1632,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "8c12e35ce0672cfd7aeaa7a6a9d29ebf",
@@ -1643,7 +1644,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "48639840",
@@ -1669,7 +1670,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       }
     ],
     "research": [
