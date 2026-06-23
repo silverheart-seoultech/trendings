@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-23T20:20:30.584831+00:00",
-  "total_entries": 110,
-  "new_entries": 1,
+  "last_updated": "2026-06-23T22:21:44.342891+00:00",
+  "total_entries": 109,
+  "new_entries": 4,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -82,18 +82,6 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
-    },
-    {
-      "id": "8ad0996d4e61848155f6d9a8674965ba",
-      "title": "Kiwibit’s AI-powered bird feeder is my new backyard buddy",
-      "url": "https://techcrunch.com/2026/06/23/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/",
-      "description": "If you're looking for a fun way to connect with nature while collecting bird species on an app like Pokémon, give this smart feeder a try.",
-      "published": "Tue, 23 Jun 2026 12:30:00 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": true
     },
     {
       "id": "44208f99c6187093ae0ff9c14077b53b",
@@ -777,9 +765,21 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 1,
+      "points": 2,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "29e1e1e8767d4289318b333dd52556e8",
+      "title": "Hollywood is bending the knee to OpenAI",
+      "url": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
+      "description": "Netflix, A24, Focus Features, and Warner Bros.' Clockwork have all reportedly decided to pass on picking up Artificial - director Luca Guadagnino's new biographical drama about OpenAI cofounder / CEO",
+      "published": "2026-06-23T18:03:18-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "48648085",
@@ -808,6 +808,20 @@
       "points": 4,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "48646165",
+      "title": "Show HN: peerd – AI agent harness that runs entirely in your browser",
+      "url": "https://github.com/NotASithLord/peerd",
+      "description": "",
+      "published": "2026-06-23T15:05:00Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 0,
+      "is_new": true
     },
     {
       "id": "48646093",
@@ -952,7 +966,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 20,
-      "comments": 2,
+      "comments": 3,
       "is_new": false
     },
     {
@@ -1044,6 +1058,32 @@
       "points": 10,
       "comments": 1,
       "is_new": false
+    },
+    {
+      "id": "65384be004ed08eb1731c67764721970",
+      "title": "TROPT: An Open Framework for Unifying and Advancing Discrete Text Optimization",
+      "url": "https://huggingface.co/papers/2606.23496",
+      "description": "Discrete text-trigger optimization -- searching for text sequences that, when ingested by a model, steer it toward a specified objective -- underpins model red-teaming (e.g., LLM jailbreaks), as well ",
+      "published": "2026-06-21T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "325685ccbc38e9afe407023fe922f954",
+      "title": "Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild",
+      "url": "https://huggingface.co/papers/2606.23688",
+      "description": "Reconstructing dynamic non-rigid objects from monocular video requires integrating visual cues from direct observations with data-driven priors over geometry and appearance. Prior approaches either le",
+      "published": "2026-06-21T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
     },
     {
       "id": "5aa6e8ba0378fef5417fd81c667d1ecb",
@@ -1205,31 +1245,6 @@
       "is_new": false
     },
     {
-      "id": "2967c2c6231ade85d9ee9df6124f6c5b",
-      "title": "BioMatrix: Towards a Comprehensive Biological Foundation Model Spanning the Modality Matrix of Sequences, Structures, and Language",
-      "url": "https://huggingface.co/papers/2606.22138",
-      "description": "We present BioMatrix, the first multimodal foundation model that natively integrates sequences, structures, and natural language for both molecules and proteins within a single decoder-only architectu",
-      "published": "2026-06-19T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 19,
-      "is_new": false
-    },
-    {
-      "id": "aca35cefe862eb736a86848d08fa616b",
-      "title": "The film about Sam Altman has been dropped by Amazon MGM",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
-      "description": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning",
-      "published": "2026-06-19T10:58:45-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "48593979",
       "title": "Ask HN: Multi-LLM orchestration frameworks that collaborate?",
       "url": "https://news.ycombinator.com/item?id=48593979",
@@ -1279,20 +1294,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
-      "is_new": false
-    },
-    {
-      "id": "103be6bf8dde7a97b2c412ac264eafdf",
-      "title": "Counsel: A Meta-Evaluation Dataset for Agentic Tasks",
-      "url": "https://huggingface.co/papers/2606.21627",
-      "description": "As agentic systems tackle increasingly complex multi-step tasks, evaluating their trajectories presents a major bottleneck - human annotation of a single trajectory on popular agentic benchmarks can t",
-      "published": "2026-06-18T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 5,
+      "likes": 7,
       "is_new": false
     }
   ],
@@ -1333,18 +1335,6 @@
         "source_icon": "📰",
         "category": "news",
         "is_new": false
-      },
-      {
-        "id": "8ad0996d4e61848155f6d9a8674965ba",
-        "title": "Kiwibit’s AI-powered bird feeder is my new backyard buddy",
-        "url": "https://techcrunch.com/2026/06/23/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/",
-        "description": "If you're looking for a fun way to connect with nature while collecting bird species on an app like Pokémon, give this smart feeder a try.",
-        "published": "Tue, 23 Jun 2026 12:30:00 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": true
       },
       {
         "id": "44208f99c6187093ae0ff9c14077b53b",
@@ -1548,9 +1538,21 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 1,
+        "points": 2,
         "comments": 0,
         "is_new": false
+      },
+      {
+        "id": "29e1e1e8767d4289318b333dd52556e8",
+        "title": "Hollywood is bending the knee to OpenAI",
+        "url": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
+        "description": "Netflix, A24, Focus Features, and Warner Bros.' Clockwork have all reportedly decided to pass on picking up Artificial - director Luca Guadagnino's new biographical drama about OpenAI cofounder / CEO",
+        "published": "2026-06-23T18:03:18-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
       },
       {
         "id": "48648085",
@@ -1579,6 +1581,20 @@
         "points": 4,
         "comments": 0,
         "is_new": false
+      },
+      {
+        "id": "48646165",
+        "title": "Show HN: peerd – AI agent harness that runs entirely in your browser",
+        "url": "https://github.com/NotASithLord/peerd",
+        "description": "",
+        "published": "2026-06-23T15:05:00Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 1,
+        "comments": 0,
+        "is_new": true
       },
       {
         "id": "48646093",
@@ -1656,18 +1672,6 @@
         "url": "https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district",
         "description": "Hello and welcome to Regulator, the newsletter for Verge subscribers chronicling the misadventures of their favorite tech overlords and Washington swamp creatures. (\"Favorite\" is, of course, subjectiv",
         "published": "2026-06-23T12:53:43-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "2424a18111c20c92d9b376cbdb4e4638",
-        "title": "Something&#8217;s off with Midjourney’s pivot to body scanners",
-        "url": "https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence",
-        "description": "Last week, Midjourney, an AI startup best known for its image generator, made an unusual pivot: medical imaging. The company announced a futuristic ultrasound scanner that would dunk users into a vat",
-        "published": "2026-06-23T12:24:53-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
