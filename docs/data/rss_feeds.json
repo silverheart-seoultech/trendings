@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-23T05:13:22.630153+00:00",
+  "last_updated": "2026-06-23T08:37:39.561474+00:00",
   "total_entries": 110,
-  "new_entries": 49,
+  "new_entries": 58,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -61,9 +61,9 @@
     },
     {
       "id": "8bdf35b5ee9057313041fb983e0ea30e",
-      "title": "OpenAI launches new initiative to help find and patch open-source bugs",
+      "title": "OpenAI launches new initiative to help find and patch open source bugs",
       "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
-      "description": "OpenAI is attempting to tackle the security issues of the open source software community.",
+      "description": "OpenAI is using AI to help the open source community better protect itself.",
       "published": "Tue, 23 Jun 2026 00:11:31 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
@@ -777,7 +777,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 5,
+      "points": 9,
       "comments": 0,
       "is_new": false
     },
@@ -872,6 +872,58 @@
       "is_new": false
     },
     {
+      "id": "0d092ec00908c4edac3a5f9f0e3e5cca",
+      "title": "Foresight: Failure Detection for Long-Horizon Robotic Manipulation with Action-Conditioned World Model Latents",
+      "url": "https://huggingface.co/papers/2606.23085",
+      "description": "Long-horizon tasks are common in real-world robotic deployments, yet failure detection for such tasks remains underexplored. Detecting failures in long-horizon robotic tasks is particularly challengin",
+      "published": "2026-06-21T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 5,
+      "is_new": true
+    },
+    {
+      "id": "b49513d40b449391b5b996a43a6c9c1c",
+      "title": "MeshFlow: Mesh Generation with Equivariant Flow Matching",
+      "url": "https://huggingface.co/papers/2606.23489",
+      "description": "Meshes are among the most common 3D scene representations, but directly generating meshes is challenging because the representation contains important symmetries, including permutation invariance of f",
+      "published": "2026-06-21T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "448f41364b9657b177f77d9cc622475b",
+      "title": "HAKARI-Bench: A Lightweight Benchmark for Comparing Retrieval Architectures and Efficiency Settings under Unified Conditions",
+      "url": "https://huggingface.co/papers/2606.22778",
+      "description": "With the rapid spread of retrieval-augmented generation and semantic search, choosing the right embedding and retrieval configuration is increasingly hard. Large retrieval benchmarks are comprehensive",
+      "published": "2026-06-21T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "4f9d412094e5e1f0def447393012c9a1",
+      "title": "Tmax: A simple recipe for terminal agents",
+      "url": "https://huggingface.co/papers/2606.23321",
+      "description": "Terminal-using agents have quickly become the most popular downstream application of language models (LMs). Despite their prevalence, relatively little academic work has examined RL-based training of ",
+      "published": "2026-06-21T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
       "id": "bc713aa29c1fc4534a0f2e9e87f7d6e0",
       "title": "UniverSat: Resolution- and Modality-Agnostic Transformers for Earth Observation",
       "url": "https://huggingface.co/papers/2606.23503",
@@ -894,7 +946,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 1,
       "is_new": true
     },
     {
@@ -907,7 +959,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 5,
       "is_new": true
     },
     {
@@ -920,7 +972,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 12,
+      "likes": 20,
       "is_new": true
     },
     {
@@ -933,7 +985,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 3,
       "is_new": true
     },
     {
@@ -946,7 +998,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 6,
       "is_new": true
     },
     {
@@ -959,7 +1011,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": true
     },
     {
@@ -972,7 +1024,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -985,33 +1037,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 22,
-      "is_new": false
-    },
-    {
-      "id": "8d36c2dcdb2f836eec7333e3309e34e5",
-      "title": "Safe Few-Step Generation via Velocity Editing",
-      "url": "https://huggingface.co/papers/2606.23267",
-      "description": "Flow matching has recently emerged as a strong paradigm for state-of-the-art text-to-image (T2I) generation, enabling high-quality generation with a small number of sampling steps. As these models are",
-      "published": "2026-06-21T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "6d5575b1382c49e3e7506b08c68a91a2",
-      "title": "KaLM-Reranker-V1: Fast but Not Late Interaction for Compressed Document Reranking",
-      "url": "https://huggingface.co/papers/2606.22807",
-      "description": "As retrieval systems scale, high-quality reranking becomes increasingly important. However, most existing rerankers, whether encoder-based or decoder-based, jointly encode the query and passage, tight",
-      "published": "2026-06-21T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 25,
+      "likes": 45,
       "is_new": false
     },
     {
@@ -1026,32 +1052,6 @@
       "category": "news",
       "points": 6,
       "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "f3575a919e74ae904c069c850b4dae37",
-      "title": "PolicyTrim: Boosting Intrinsic Policy Efficiency of Vision-Language-Action Models",
-      "url": "https://huggingface.co/papers/2606.22540",
-      "description": "Vision-Language-Action (VLA) models provide a unified paradigm for robotic manipulation, yet their real-world deployment is often bottlenecked by execution efficiency. While existing efforts predomina",
-      "published": "2026-06-20T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "42e3d55a6a3845d605a7d72836d29da2",
-      "title": "PlanBench-XL: Evaluating Long-Horizon Planning of LLM Tool-Use Agents in Large-Scale Tool Ecosystems",
-      "url": "https://huggingface.co/papers/2606.22388",
-      "description": "LLM agents increasingly operate in large tool ecosystems, where real-world tasks require discovering relevant tools, inferring implicit sub-goals, and adapting to dynamic environments over long horizo",
-      "published": "2026-06-20T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 26,
       "is_new": false
     },
     {
@@ -1109,6 +1109,32 @@
       "is_new": false
     },
     {
+      "id": "2967c2c6231ade85d9ee9df6124f6c5b",
+      "title": "BioMatrix: Towards a Comprehensive Biological Foundation Model Spanning the Modality Matrix of Sequences, Structures, and Language",
+      "url": "https://huggingface.co/papers/2606.22138",
+      "description": "We present BioMatrix, the first multimodal foundation model that natively integrates sequences, structures, and natural language for both molecules and proteins within a single decoder-only architectu",
+      "published": "2026-06-19T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 8,
+      "is_new": true
+    },
+    {
+      "id": "07f0dccdb3538b3b1e6fef9b6c4a996e",
+      "title": "Deeper is Not Always Better: Mitigating the Alignment Tax via Confident Layer Decoding",
+      "url": "https://huggingface.co/papers/2606.21906",
+      "description": "Autoregressive generation in large language models (LLMs) conventionally decodes from the final layer, assuming that deeper representations yield more reliable next-token predictions. We revisit this ",
+      "published": "2026-06-19T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
+    },
+    {
       "id": "aca35cefe862eb736a86848d08fa616b",
       "title": "The film about Sam Altman has been dropped by Amazon MGM",
       "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
@@ -1135,6 +1161,32 @@
       "is_new": false
     },
     {
+      "id": "7edbfc9ed90e7583fcb38d0062b0269b",
+      "title": "Improving Text-to-Music Generation with Human Preference Rewards",
+      "url": "https://huggingface.co/papers/2606.21670",
+      "description": "We describe our entry to the efficiency track of the Academic Text-to-Music (ATTM) Grand Challenge at ICME 2026. Beyond the challenge protocol's FAD-CLAP and CLAP score, we add a learned human-prefere",
+      "published": "2026-06-18T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "03d1cc2d1cbca0289f46eda3cd4c83f8",
+      "title": "DataClaw0: Agentic Tailoring Multimodal Data from Raw Streams",
+      "url": "https://huggingface.co/papers/2606.21337",
+      "description": "Massive unstructured multimodal streams suffer from high \"data entropy,\" impeding both efficient human knowledge acquisition and high-quality AI post-training. Existing passive annotation paradigms, h",
+      "published": "2026-06-18T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 17,
+      "is_new": true
+    },
+    {
       "id": "e131162ffd9e9f198d1465668b4617fb",
       "title": "PoLAR: Factorizing Extent and Mode in Latent Actions for Robot Policy Learning",
       "url": "https://huggingface.co/papers/2606.21139",
@@ -1144,7 +1196,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 6,
       "is_new": true
     },
     {
@@ -1236,59 +1288,6 @@
       "points": 1,
       "comments": 0,
       "is_new": false
-    },
-    {
-      "id": "48581817",
-      "title": "Show HN: Automatiq - generate webscrapers/automations by browsing any website",
-      "url": "https://github.com/StoneSteel27/AutomatiQ",
-      "description": "",
-      "published": "2026-06-18T07:05:02Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 1,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "89b57833e4cf9c93c944161738d16e0b",
-      "title": "Connect the Dots: Training LLMs for Long-Lifecycle Agents with Cross-Domain Generalization Via Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2606.20002",
-      "description": "This work presents a general framework for training large language models (LLMs) to \"Connect the Dots\" (CoD), a meta-capability required by long-lifecycle agents: as an LLM-based AI agent gets deploye",
-      "published": "2026-06-17T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
-      "is_new": false
-    },
-    {
-      "id": "78e63369128f8b51a85722e169e1a50d",
-      "title": "World Action Models: A Survey",
-      "url": "https://huggingface.co/papers/2606.20781",
-      "description": "World Action Models (WAMs) are embodied predictive-action models that make a forecast of the future available to action. Recent WAMs repurpose large video generation models, and a parallel line relies",
-      "published": "2026-06-17T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 22,
-      "is_new": false
-    },
-    {
-      "id": "c3f1686037967076b0594d04dfd3f5dc",
-      "title": "HydraHead: From Head-Level Functional Heterogeneity to Specialized Attention Hybridization",
-      "url": "https://huggingface.co/papers/2606.20097",
-      "description": "The quadratic complexity of attention poses a critical bottleneck for long-context processing, spurring interest in hybrid attention designs. Most open-source hybrid models adopt a layer-wise strategy",
-      "published": "2026-06-17T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 13,
-      "is_new": false
     }
   ],
   "by_category": {
@@ -1307,9 +1306,9 @@
       },
       {
         "id": "8bdf35b5ee9057313041fb983e0ea30e",
-        "title": "OpenAI launches new initiative to help find and patch open-source bugs",
+        "title": "OpenAI launches new initiative to help find and patch open source bugs",
         "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
-        "description": "OpenAI is attempting to tackle the security issues of the open source software community.",
+        "description": "OpenAI is using AI to help the open source community better protect itself.",
         "published": "Tue, 23 Jun 2026 00:11:31 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
@@ -1543,7 +1542,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 5,
+        "points": 9,
         "comments": 0,
         "is_new": false
       },
