@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-25T20:20:40.439220+00:00",
+  "last_updated": "2026-06-25T22:43:31.027008+00:00",
   "total_entries": 110,
-  "new_entries": 1,
+  "new_entries": 4,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -181,9 +181,9 @@
     },
     {
       "id": "7f5ba665e4de15ce926df2d2a59da806",
-      "title": "Patronus AI lands $50M  to build ‘digital worlds’ that stress-test AI agents",
+      "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
       "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
-      "description": "Agent testing startup Patronus AI,  founded by former Meta AI researchers, is experienced nearly insatiable demand, its investor says.",
+      "description": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
       "published": "Thu, 25 Jun 2026 20:19:25 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
@@ -768,6 +768,32 @@
       "is_new": false
     },
     {
+      "id": "48677487",
+      "title": "My website gets more attacks than human visitors",
+      "url": "https://news.ycombinator.com/item?id=48677487",
+      "description": "",
+      "published": "2026-06-25T18:35:31Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 1,
+      "is_new": true
+    },
+    {
+      "id": "cfac8b7094d39600101474e75a9275b4",
+      "title": "OpenAI will delay GPT-5.6 after Trump administration request",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
+      "description": "The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6. The Information reported that OpenAI CEO",
+      "published": "2026-06-25T17:57:57-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "48675435",
       "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
       "url": "https://github.com/inkeep/open-knowledge",
@@ -777,8 +803,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 57,
-      "comments": 21,
+      "points": 147,
+      "comments": 67,
       "is_new": false
     },
     {
@@ -948,6 +974,19 @@
       "is_new": false
     },
     {
+      "id": "90579a0d74df9bed5b327855cb440004",
+      "title": "Physics Question Scene Graph: Fine-grained Evaluation of Physical Plausibility in Text-to-Video Generation",
+      "url": "https://huggingface.co/papers/2606.25306",
+      "description": "Video generation models are increasingly capable of producing realistic videos, but they still struggle to generate videos that follow basic physical laws. Compounding this is a lack of reliable granu",
+      "published": "2026-06-23T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "fae34fbf102eb7d5b1551c55d69c1ac3",
       "title": "Constraint Tax in Open-Weight LLMs: An Empirical Study of Tool Calling Suppression Under Structured Output Constraints",
       "url": "https://huggingface.co/papers/2606.25605",
@@ -983,7 +1022,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 36,
+      "likes": 37,
       "is_new": false
     },
     {
@@ -1123,18 +1162,6 @@
       "is_new": false
     },
     {
-      "id": "3eba7d9d34da94685067e84c491192d9",
-      "title": "Why corporate AI super PACs spent $27 million on a local election",
-      "url": "https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district",
-      "description": "Hello and welcome to Regulator, the newsletter for Verge subscribers chronicling the misadventures of their favorite tech overlords and Washington swamp creatures. (\"Favorite\" is, of course, subjectiv",
-      "published": "2026-06-23T12:53:43-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "48639840",
       "title": "GLM-5.2 is a step change for open agents",
       "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
@@ -1171,7 +1198,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -1198,19 +1225,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 4,
-      "is_new": false
-    },
-    {
-      "id": "242464f0d0aababd8d4c4244c20b2480",
-      "title": "Are We Ready For An Agent-Native Memory System?",
-      "url": "https://huggingface.co/papers/2606.24775",
-      "description": "Memory for large language model (LLM) agents has rapidly evolved from simple retrieval-augmented mechanisms into a data management system that supports persistent information storage, retrieval, updat",
-      "published": "2026-06-22T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 86,
       "is_new": false
     },
     {
@@ -1279,20 +1293,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 5,
-      "is_new": false
-    },
-    {
-      "id": "48620731",
-      "title": "Two AI judges scored our agent's answer 0.85, but it never opened the file",
-      "url": "https://tenureai.dev/writing/llm-as-judge-became-the-default-for-agent-evaluation/",
-      "description": "",
-      "published": "2026-06-21T17:23:57Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 6,
-      "comments": 0,
       "is_new": false
     }
   ],
@@ -1432,9 +1432,9 @@
       },
       {
         "id": "7f5ba665e4de15ce926df2d2a59da806",
-        "title": "Patronus AI lands $50M  to build ‘digital worlds’ that stress-test AI agents",
+        "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
         "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
-        "description": "Agent testing startup Patronus AI,  founded by former Meta AI researchers, is experienced nearly insatiable demand, its investor says.",
+        "description": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
         "published": "Thu, 25 Jun 2026 20:19:25 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
@@ -1539,6 +1539,32 @@
         "is_new": false
       },
       {
+        "id": "48677487",
+        "title": "My website gets more attacks than human visitors",
+        "url": "https://news.ycombinator.com/item?id=48677487",
+        "description": "",
+        "published": "2026-06-25T18:35:31Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 1,
+        "comments": 1,
+        "is_new": true
+      },
+      {
+        "id": "cfac8b7094d39600101474e75a9275b4",
+        "title": "OpenAI will delay GPT-5.6 after Trump administration request",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
+        "description": "The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6. The Information reported that OpenAI CEO",
+        "published": "2026-06-25T17:57:57-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "48675435",
         "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
         "url": "https://github.com/inkeep/open-knowledge",
@@ -1548,8 +1574,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 57,
-        "comments": 21,
+        "points": 147,
+        "comments": 67,
         "is_new": false
       },
       {
@@ -1640,32 +1666,6 @@
         "category": "news",
         "points": 4,
         "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "48659901",
-        "title": "Giskard: LLM esting platform for preventing hallucinations and security issues",
-        "url": "https://www.giskard.ai/knowledge/best-ai-agent-red-teaming-tools-in-2026-understanding-features-functions-and-solutions",
-        "description": "",
-        "published": "2026-06-24T13:55:48Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 3,
-        "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "cfd2abd6965bba1451e064a4bddec1d2",
-        "title": "Figma now has AI motion graphics and shader tools",
-        "url": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
-        "description": "Figma has revealed some new design and coding product updates at its annual Config conference that aim to help creatives \"push their ideas further\" and automate tedious tasks with AI. Part of this is",
-        "published": "2026-06-24T13:42:58-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
         "is_new": false
       }
     ],
