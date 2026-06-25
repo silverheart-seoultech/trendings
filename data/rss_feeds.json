@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-25T04:21:23.424531+00:00",
+  "last_updated": "2026-06-25T08:30:14.210814+00:00",
   "total_entries": 109,
-  "new_entries": 0,
+  "new_entries": 7,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -881,8 +881,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 7,
-      "comments": 2,
+      "points": 8,
+      "comments": 3,
       "is_new": false
     },
     {
@@ -898,6 +898,45 @@
       "is_new": false
     },
     {
+      "id": "e52660d1c26b5ce4df3dc7f637941ef7",
+      "title": "MVTrack4Gen: Multi-View Point Tracking as Geometric Supervision for 4D Video Generation",
+      "url": "https://huggingface.co/papers/2606.26087",
+      "description": "Synthesizing a novel-view video from a monocular reference video along a target camera trajectory requires both geometric consistency and motion fidelity with respect to the reference video. Existing ",
+      "published": "2026-06-23T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 16,
+      "is_new": true
+    },
+    {
+      "id": "12f7a53cfef22581d8a48af58357d9ce",
+      "title": "ShutterMuse: Capture-Time Photography Guidance with MLLMs",
+      "url": "https://huggingface.co/papers/2606.25763",
+      "description": "Real-world photography requires capture-time guidance for both camera framing and subject pose. Yet existing aesthetic cropping benchmarks mainly evaluate post-hoc crop prediction and overlook subject",
+      "published": "2026-06-23T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 32,
+      "is_new": true
+    },
+    {
+      "id": "03bf0e8329d5ba9472d29ac4ec541e43",
+      "title": "V-Zero: Answer-Label-Free On-Policy Distillation with Contrastive Evidence Gating for Fine-Grained Visual Reasoning",
+      "url": "https://huggingface.co/papers/2606.25319",
+      "description": "Fine-grained visual reasoning requires multimodal large language models (MLLMs) to identify task-relevant visual evidence and ground their reasoning in local image regions. Existing agentic methods ty",
+      "published": "2026-06-23T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 8,
+      "is_new": true
+    },
+    {
       "id": "7020572e53aeedd22e3b44ec69bf3317",
       "title": "TryOnCrafter: Unleashing Camera Trajectories for Realistic Video Virtual Try-on via a Renderable 4D Try-on Proxy",
       "url": "https://huggingface.co/papers/2606.26092",
@@ -907,7 +946,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 5,
       "is_new": false
     },
     {
@@ -920,7 +959,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 6,
       "is_new": false
     },
     {
@@ -933,7 +972,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 30,
+      "likes": 45,
       "is_new": false
     },
     {
@@ -946,7 +985,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 21,
       "is_new": false
     },
     {
@@ -959,7 +998,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 7,
       "is_new": false
     },
     {
@@ -1012,8 +1051,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 58,
-      "comments": 20,
+      "points": 59,
+      "comments": 21,
       "is_new": false
     },
     {
@@ -1118,9 +1157,22 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 157,
-      "comments": 92,
+      "points": 221,
+      "comments": 123,
       "is_new": false
+    },
+    {
+      "id": "ead9087a80860f61d6dec0116ed51565",
+      "title": "CAVEWOMAN: How Large Language Models Behave Under Linguistic Input and Output Compression",
+      "url": "https://huggingface.co/papers/2606.24083",
+      "description": "\"Talk short. Drop grammar. Save token.\" This caveman style is widely promoted as a way to cut inference cost, but whether it actually saves anything depends on which channel (the user's prompt or the ",
+      "published": "2026-06-22T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
     },
     {
       "id": "242464f0d0aababd8d4c4244c20b2480",
@@ -1132,7 +1184,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 25,
+      "likes": 52,
       "is_new": false
     },
     {
@@ -1145,7 +1197,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -1171,46 +1223,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "f1774921a89526ff826b450001ce963a",
-      "title": "Wan-Streamer v0.1: End-to-end Real-time Interactive Foundation Models",
-      "url": "https://huggingface.co/papers/2606.25041",
-      "description": "We present Wan-Streamer, a native-streaming, end-to-end interactive foundation model designed from the ground up for real-time, low-latency, full-duplex audio-visual interaction. Wan-Streamer seamless",
-      "published": "2026-06-22T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 18,
-      "is_new": false
-    },
-    {
-      "id": "3f374e61c42102269373356c8ba84a51",
-      "title": "MEMPROBE: Probing Long-Term Agent Memory via Hidden User-State Recovery",
-      "url": "https://huggingface.co/papers/2606.24595",
-      "description": "Long-term memory promises LLM agents that grow more capable across sessions, maintaining an accurate, evolving understanding of the user that interaction forms. In practice, however, this memory is ev",
-      "published": "2026-06-22T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "dd633f1f3929c986b86fd8c48fabcb93",
-      "title": "InSight: Self-Guided Skill Acquisition via Steerable VLAs",
-      "url": "https://huggingface.co/papers/2606.24884",
-      "description": "Vision-language-action (VLA) models can learn manipulation skills from demonstrations, but their capabilities are bounded by the skills in the training data. We present InSight, a framework that unloc",
-      "published": "2026-06-22T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
+      "likes": 6,
       "is_new": false
     },
     {
@@ -1265,33 +1278,21 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 6,
       "is_new": false
     },
     {
-      "id": "cacdf30be8e40ee6d75c772924bb2796",
-      "title": "VeriEvol: Scaling Multimodal Mathematical Reasoning via Verifiable Evol-Instruct",
-      "url": "https://huggingface.co/papers/2606.23543",
-      "description": "Scaling reinforcement learning for visual mathematical reasoning requires more than generating harder questions: as data volume grows, the reward labels themselves must remain reliable. Yet existing d",
-      "published": "2026-06-21T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "e7a02cd7eadbd43a03dc4948527cb9b7",
-      "title": "Critique of Agent Model",
-      "url": "https://huggingface.co/papers/2606.23991",
-      "description": "What is an agent? What constitutes agency? With the rise of Large Language Model (LLM) systems marketed as ``coding agents'', ``AI co-scientists'', and other ``agentic\" tools that promise to drive up ",
-      "published": "2026-06-21T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 12,
+      "id": "48620731",
+      "title": "Two AI judges scored our agent's answer 0.85, but it never opened the file",
+      "url": "https://tenureai.dev/writing/llm-as-judge-became-the-default-for-agent-evaluation/",
+      "description": "",
+      "published": "2026-06-21T17:23:57Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 6,
+      "comments": 0,
       "is_new": false
     }
   ],
@@ -1651,8 +1652,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 7,
-        "comments": 2,
+        "points": 8,
+        "comments": 3,
         "is_new": false
       },
       {
