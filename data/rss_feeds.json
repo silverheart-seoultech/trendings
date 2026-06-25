@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-25T17:21:32.253766+00:00",
+  "last_updated": "2026-06-25T20:09:42.191374+00:00",
   "total_entries": 110,
-  "new_entries": 7,
+  "new_entries": 10,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -192,16 +192,16 @@
       "is_new": false
     },
     {
-      "id": "492604e8457d7ea24fa41fdf2fb61064",
-      "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
-      "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
-      "description": "Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise",
-      "published": "Tue, 23 Jun 2026 17:00:00 +0000",
+      "id": "8778afccd777555aa384b733c187e2bb",
+      "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
+      "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+      "description": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
+      "published": "Thu, 25 Jun 2026 17:38:27 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "eb1c42e24d9cbae413f4120db8a85692",
@@ -219,7 +219,7 @@
       "id": "ba304cad7d5154a68dfb1a5f7b217427",
       "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
       "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
-      "description": "Un0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
+      "description": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
       "published": "Thu, 25 Jun 2026 16:48:11 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
@@ -768,6 +768,20 @@
       "is_new": false
     },
     {
+      "id": "48675435",
+      "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+      "url": "https://github.com/inkeep/open-knowledge",
+      "description": "",
+      "published": "2026-06-25T16:04:46Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 46,
+      "comments": 15,
+      "is_new": true
+    },
+    {
       "id": "101e1ff9a5c28f04d6bc7fbe515ad0a9",
       "title": "Facebook’s Creator Studio has been revived as an AI companion app",
       "url": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
@@ -956,7 +970,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 24,
+      "likes": 26,
       "is_new": false
     },
     {
@@ -1048,7 +1062,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 66,
+      "points": 67,
       "comments": 22,
       "is_new": false
     },
@@ -1130,9 +1144,22 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 343,
-      "comments": 197,
+      "points": 349,
+      "comments": 205,
       "is_new": false
+    },
+    {
+      "id": "aa2011c6ddd75f829ff7952cdf3b28e0",
+      "title": "Do Thinking Tokens Help with Safety?",
+      "url": "https://huggingface.co/papers/2606.25013",
+      "description": "Today's reasoning models use thinking tokens to attain stronger performance on benchmarks than their instruction-tuned counterparts. It is also generally believed that this more \"deliberative\" mode sh",
+      "published": "2026-06-22T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
     },
     {
       "id": "b9d4726f1f5d9ad5411de5a0b6882384",
@@ -1183,7 +1210,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 84,
+      "likes": 86,
       "is_new": false
     },
     {
@@ -1265,33 +1292,6 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 6,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "2d22db17dd67e827c9236841bfe1440a",
-      "title": "Look Light, Think Heavy: What Multimodal Chain-of-Thought Reasoning Can and Cannot Do",
-      "url": "https://huggingface.co/papers/2606.22565",
-      "description": "Chain-of-Thought (CoT) has become a standard method for improving reasoning capabilities in large language models (LLMs) by eliciting step-by-step thinking, but its effectiveness in multimodal tasks r",
-      "published": "2026-06-20T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 7,
-      "is_new": false
-    },
-    {
-      "id": "48611741",
-      "title": "Show HN: I built a middleware agent that turns PLC data into REST/gRPC APIs",
-      "url": "https://limenedge.com/docs/getting-started",
-      "description": "",
-      "published": "2026-06-20T18:39:59Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
       "comments": 0,
       "is_new": false
     }
@@ -1443,16 +1443,16 @@
         "is_new": false
       },
       {
-        "id": "492604e8457d7ea24fa41fdf2fb61064",
-        "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
-        "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
-        "description": "Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise",
-        "published": "Tue, 23 Jun 2026 17:00:00 +0000",
+        "id": "8778afccd777555aa384b733c187e2bb",
+        "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
+        "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+        "description": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
+        "published": "Thu, 25 Jun 2026 17:38:27 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
+        "is_new": true
       },
       {
         "id": "eb1c42e24d9cbae413f4120db8a85692",
@@ -1470,7 +1470,7 @@
         "id": "ba304cad7d5154a68dfb1a5f7b217427",
         "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
         "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
-        "description": "Un0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
+        "description": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
         "published": "Thu, 25 Jun 2026 16:48:11 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
@@ -1537,6 +1537,20 @@
         "source_icon": "📰",
         "category": "news",
         "is_new": false
+      },
+      {
+        "id": "48675435",
+        "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+        "url": "https://github.com/inkeep/open-knowledge",
+        "description": "",
+        "published": "2026-06-25T16:04:46Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 46,
+        "comments": 15,
+        "is_new": true
       },
       {
         "id": "101e1ff9a5c28f04d6bc7fbe515ad0a9",
@@ -1648,18 +1662,6 @@
         "url": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
         "description": "Figma has revealed some new design and coding product updates at its annual Config conference that aim to help creatives \"push their ideas further\" and automate tedious tasks with AI. Part of this is",
         "published": "2026-06-24T13:42:58-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "2420478b93bbdc69a87ad15dddb9b10a",
-        "title": "The $27 million Al proxy war over Alex Bores ends in a draw",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results",
-        "description": "The expensive, $27 million political proxy war between Anthropic and OpenAI came to a draw last night when Alex Bores, a New York state Assemblyman whose popularity surged after being targeted by a pr",
-        "published": "2026-06-24T13:20:32-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
