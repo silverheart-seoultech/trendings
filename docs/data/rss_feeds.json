@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-25T14:43:16.008668+00:00",
-  "total_entries": 109,
-  "new_entries": 8,
+  "last_updated": "2026-06-25T15:09:08.962784+00:00",
+  "total_entries": 110,
+  "new_entries": 2,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -228,6 +228,18 @@
       "is_new": false
     },
     {
+      "id": "50960b146d31b459d6cd0fba1d13e59c",
+      "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
+      "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
+      "description": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live.",
+      "published": "Thu, 25 Jun 2026 14:55:38 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "5a59abd386fe69332918acf08a33d100",
       "title": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
       "url": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/",
@@ -237,7 +249,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "1ef1bcd1b824c6857219f14156c1f234",
@@ -249,7 +261,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "c06892b974a07511668d300aba62dec4",
@@ -261,7 +273,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "0eaac807cea444e679f60c10804444bf",
@@ -777,7 +789,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3a7dd2fd1f04868f6195cbd1e8aa99a8",
@@ -1062,7 +1074,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 63,
+      "points": 65,
       "comments": 22,
       "is_new": false
     },
@@ -1144,9 +1156,22 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 300,
-      "comments": 180,
+      "points": 308,
+      "comments": 181,
       "is_new": false
+    },
+    {
+      "id": "b9d4726f1f5d9ad5411de5a0b6882384",
+      "title": "Lite Any Stereo V2: Faster and Stronger Efficient Zero-Shot Stereo Matching",
+      "url": "https://huggingface.co/papers/2606.24457",
+      "description": "Recent advances in stereo matching have achieved remarkable accuracy, but often rely on large models, heavy computation, or additional foundation-model priors, making them difficult to deploy on resou",
+      "published": "2026-06-22T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
     },
     {
       "id": "c5ac632553b96beafffe1e0e2618f814",
@@ -1159,7 +1184,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "ead9087a80860f61d6dec0116ed51565",
@@ -1184,20 +1209,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 82,
-      "is_new": false
-    },
-    {
-      "id": "96f20abfb217b67059f8c7e74706fe7b",
-      "title": "RoPE-Aware Bit Allocation for KV-Cache Quantization",
-      "url": "https://huggingface.co/papers/2606.24033",
-      "description": "Existing low-bit KV-cache quantizers often treat each cached key as a flat vector. Under RoPE, however, a key's contribution to a future attention logit decomposes into a position-dependent sum over t",
-      "published": "2026-06-22T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
+      "likes": 83,
       "is_new": false
     },
     {
@@ -1253,7 +1265,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "92bad41c8d1c7ef12d3018ec9fa6c1d0",
@@ -1265,7 +1277,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
+      "likes": 9,
       "is_new": false
     },
     {
@@ -1280,19 +1292,6 @@
       "category": "news",
       "points": 6,
       "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "2d22db17dd67e827c9236841bfe1440a",
-      "title": "Look Light, Think Heavy: What Multimodal Chain-of-Thought Reasoning Can and Cannot Do",
-      "url": "https://huggingface.co/papers/2606.22565",
-      "description": "Chain-of-Thought (CoT) has become a standard method for improving reasoning capabilities in large language models (LLMs) by eliciting step-by-step thinking, but its effectiveness in multimodal tasks r",
-      "published": "2026-06-20T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 7,
       "is_new": false
     }
   ],
@@ -1479,6 +1478,18 @@
         "is_new": false
       },
       {
+        "id": "50960b146d31b459d6cd0fba1d13e59c",
+        "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
+        "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
+        "description": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live.",
+        "published": "Thu, 25 Jun 2026 14:55:38 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "5a59abd386fe69332918acf08a33d100",
         "title": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
         "url": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/",
@@ -1488,7 +1499,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "1ef1bcd1b824c6857219f14156c1f234",
@@ -1500,7 +1511,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "c06892b974a07511668d300aba62dec4",
@@ -1512,7 +1523,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "0eaac807cea444e679f60c10804444bf",
@@ -1548,7 +1559,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "3a7dd2fd1f04868f6195cbd1e8aa99a8",
@@ -1648,18 +1659,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results",
         "description": "The expensive, $27 million political proxy war between Anthropic and OpenAI came to a draw last night when Alex Bores, a New York state Assemblyman whose popularity surged after being targeted by a pr",
         "published": "2026-06-24T13:20:32-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "6dc584c0ce9aace586a8b93945f50fd5",
-        "title": "OpenAI reveals its first AI processor: Jalapeño",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
-        "description": "OpenAI has just revealed a new \"intelligence processor\" chip for AI servers made in partnership with Broadcom. The chip, called Jalapeño, is designed to power current and future large language models,",
-        "published": "2026-06-24T10:36:47-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
