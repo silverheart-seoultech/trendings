@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-25T09:33:32.118293+00:00",
+  "last_updated": "2026-06-25T11:48:50.379357+00:00",
   "total_entries": 109,
-  "new_entries": 9,
+  "new_entries": 3,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -759,13 +759,13 @@
       "id": "101e1ff9a5c28f04d6bc7fbe515ad0a9",
       "title": "Facebook’s Creator Studio has been revived as an AI companion app",
       "url": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
-      "description": "Meta is bringing back the Facebook Creator Studio page manager, now \"reimagined\" as a standalone AI companion app. The new app aims to make it easier for creators to connect with their audiences, and",
-      "published": "2026-06-25T05:06:19-04:00",
+      "description": "Meta is bringing back the Facebook Creator Studio page manager, now \"reimagined\" as a standalone AI companion app. The new app aims to make it easier for creators to connect with their audiences and s",
+      "published": "2026-06-25T05:37:40-04:00",
       "source_id": "theverge-ai",
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3a7dd2fd1f04868f6195cbd1e8aa99a8",
@@ -920,7 +920,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "e52660d1c26b5ce4df3dc7f637941ef7",
@@ -932,8 +932,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 19,
-      "is_new": true
+      "likes": 20,
+      "is_new": false
     },
     {
       "id": "12f7a53cfef22581d8a48af58357d9ce",
@@ -945,8 +945,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 33,
-      "is_new": true
+      "likes": 34,
+      "is_new": false
     },
     {
       "id": "03bf0e8329d5ba9472d29ac4ec541e43",
@@ -958,8 +958,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 12,
-      "is_new": true
+      "likes": 15,
+      "is_new": false
     },
     {
       "id": "7020572e53aeedd22e3b44ec69bf3317",
@@ -971,7 +971,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 6,
       "is_new": false
     },
     {
@@ -997,7 +997,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 46,
+      "likes": 48,
       "is_new": false
     },
     {
@@ -1010,20 +1010,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 21,
-      "is_new": false
-    },
-    {
-      "id": "6c306e953f7035e72991fc91eb281ff0",
-      "title": "Causal-rCM: A Unified Teacher-Forcing and Self-Forcing Open Recipe for Autoregressive Diffusion Distillation in Streaming Video Generation and Interactive World Models",
-      "url": "https://huggingface.co/papers/2606.25473",
-      "description": "Autoregressive video diffusion with causal diffusion transformers has emerged as a major paradigm for real-time streaming video generation and action-conditioned interactive world models. In this work",
-      "published": "2026-06-23T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 7,
+      "likes": 23,
       "is_new": false
     },
     {
@@ -1076,7 +1063,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 60,
+      "points": 61,
       "comments": 22,
       "is_new": false
     },
@@ -1170,9 +1157,22 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 233,
-      "comments": 129,
+      "points": 252,
+      "comments": 150,
       "is_new": false
+    },
+    {
+      "id": "c5ac632553b96beafffe1e0e2618f814",
+      "title": "What Intermediate Layers Know: Detecting Jailbreaks from Entropy Dynamics",
+      "url": "https://huggingface.co/papers/2606.25182",
+      "description": "Jailbreak attacks reveal a persistent weakness in aligned Large Language Models: carefully crafted prompts can elicit policy-violating responses despite safety training. While most defenses operate at",
+      "published": "2026-06-22T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
     },
     {
       "id": "ead9087a80860f61d6dec0116ed51565",
@@ -1184,8 +1184,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
-      "is_new": true
+      "likes": 4,
+      "is_new": false
     },
     {
       "id": "242464f0d0aababd8d4c4244c20b2480",
@@ -1197,7 +1197,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 59,
+      "likes": 61,
       "is_new": false
     },
     {
@@ -1210,20 +1210,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "2b1e03e6c4604245ff74d728a1ab3055",
-      "title": "IV-CoT: Implicit Visual Chain-of-Thought for Structure-Aware Text-to-Image Generation",
-      "url": "https://huggingface.co/papers/2606.24849",
-      "description": "Unified multi-modal large language models (MLLMs) have achieved strong text-to-image generation quality, but still struggle with structure-aware prompt following, where object counts, spatial relation",
-      "published": "2026-06-22T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 13,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -1267,6 +1254,19 @@
       "points": 10,
       "comments": 1,
       "is_new": false
+    },
+    {
+      "id": "95dbd424bb34a63e15cf6d25f6b9dc45",
+      "title": "ReNIO: Reweighting Negative Trajectory Importance for LLM On-Policy Distillation",
+      "url": "https://huggingface.co/papers/2606.23104",
+      "description": "On-policy distillation (OPD) improves LLM reasoning by training a student model on its own generated outputs, but standard OPD treats all student-generated outputs (SGOs) equally regardless of their i",
+      "published": "2026-06-21T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 5,
+      "is_new": true
     },
     {
       "id": "92bad41c8d1c7ef12d3018ec9fa6c1d0",
@@ -1530,13 +1530,13 @@
         "id": "101e1ff9a5c28f04d6bc7fbe515ad0a9",
         "title": "Facebook’s Creator Studio has been revived as an AI companion app",
         "url": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
-        "description": "Meta is bringing back the Facebook Creator Studio page manager, now \"reimagined\" as a standalone AI companion app. The new app aims to make it easier for creators to connect with their audiences, and",
-        "published": "2026-06-25T05:06:19-04:00",
+        "description": "Meta is bringing back the Facebook Creator Studio page manager, now \"reimagined\" as a standalone AI companion app. The new app aims to make it easier for creators to connect with their audiences and s",
+        "published": "2026-06-25T05:37:40-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "3a7dd2fd1f04868f6195cbd1e8aa99a8",
