@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-26T05:20:46.130369+00:00",
+  "last_updated": "2026-06-26T09:38:20.165513+00:00",
   "total_entries": 110,
-  "new_entries": 3,
+  "new_entries": 7,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -171,7 +171,7 @@
       "id": "7d96e7dab5885b8f5d22d8396a86f831",
       "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
       "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
-      "description": "penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public. The reason: the Trump administration told it to.",
+      "description": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.",
       "published": "Thu, 25 Jun 2026 23:34:39 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
@@ -831,8 +831,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 236,
-      "comments": 112,
+      "points": 272,
+      "comments": 134,
       "is_new": false
     },
     {
@@ -846,6 +846,19 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "5c8cb776a8db5bcd90f5b2d2a3c02fb7",
+      "title": "JetSpec: Breaking the Scaling Ceiling of Speculative Decoding with Parallel Tree Drafting",
+      "url": "https://huggingface.co/papers/2606.18394",
+      "description": "Speculative decoding (SD) accelerates autoregressive Large Language Models (LLMs) by drafting multiple tokens and verifying them in parallel, but it faces a scaling limitation: increasing the draft bu",
+      "published": "2026-06-24T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 16,
+      "is_new": true
     },
     {
       "id": "d98fe79d04505f70246e15403ad0eb0f",
@@ -896,7 +909,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 25,
+      "likes": 34,
       "is_new": false
     },
     {
@@ -909,7 +922,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 19,
+      "likes": 25,
       "is_new": false
     },
     {
@@ -922,7 +935,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 16,
+      "likes": 26,
       "is_new": false
     },
     {
@@ -935,7 +948,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 33,
+      "likes": 42,
       "is_new": false
     },
     {
@@ -948,7 +961,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 1,
       "is_new": false
     },
     {
@@ -1115,7 +1128,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
+      "likes": 15,
       "is_new": true
     },
     {
@@ -1128,7 +1141,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 9,
       "is_new": false
     },
     {
@@ -1180,7 +1193,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 25,
+      "points": 26,
       "comments": 10,
       "is_new": false
     },
@@ -1220,7 +1233,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 68,
+      "points": 70,
       "comments": 22,
       "is_new": false
     },
@@ -1278,20 +1291,6 @@
       "category": "news",
       "points": 4,
       "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "48639840",
-      "title": "GLM-5.2 is a step change for open agents",
-      "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
-      "description": "",
-      "published": "2026-06-23T03:23:28Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 353,
-      "comments": 209,
       "is_new": false
     }
   ],
@@ -1421,7 +1420,7 @@
         "id": "7d96e7dab5885b8f5d22d8396a86f831",
         "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
         "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
-        "description": "penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public. The reason: the Trump administration told it to.",
+        "description": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.",
         "published": "Thu, 25 Jun 2026 23:34:39 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
@@ -1601,8 +1600,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 236,
-        "comments": 112,
+        "points": 272,
+        "comments": 134,
         "is_new": false
       },
       {
