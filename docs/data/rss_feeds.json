@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-26T15:30:21.932818+00:00",
+  "last_updated": "2026-06-26T18:02:11.136794+00:00",
   "total_entries": 110,
-  "new_entries": 3,
+  "new_entries": 11,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -113,42 +113,6 @@
       "url": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
       "description": "The tokenmaxxing era was brief. We now appear to be entering the era of token rationing.",
       "published": "Wed, 24 Jun 2026 20:09:45 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "e56119b650d57ff477efc872f8ae54c9",
-      "title": "Facebook rolls out an AI companion app for creators",
-      "url": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
-      "description": "The new app, which is currently being tested with select creators, will have Facebook's recently launched AI creator assistant built into it.",
-      "published": "Wed, 24 Jun 2026 17:16:24 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "97c642dd855a345080569e07eb79e4a8",
-      "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
-      "url": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
-      "description": "Agility Robotics, the humanoid robotics startup that spun out of Oregon State University in 2015, expects to generate $620 million in proceeds.",
-      "published": "Wed, 24 Jun 2026 16:48:43 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "b2d1e66efb72bea262d807ef40839c67",
-      "title": "Figma adds code layers, support for animations, more AI features in new update",
-      "url": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
-      "description": "Figma's update adds a new code layer, support for motion and shaders, and the ability to create custom plug-ins for various tasks using AI.",
-      "published": "Wed, 24 Jun 2026 16:15:00 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
@@ -274,6 +238,42 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "30ba8e524968ebe4aa63017834783137",
+      "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+      "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+      "description": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.   OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built wit",
+      "published": "Fri, 26 Jun 2026 17:43:22 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "d295ec6c7f14bc93cb58d85c28bbcc85",
+      "title": "It’s not about Anthropic vs. OpenAI anymore",
+      "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+      "description": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
+      "published": "Fri, 26 Jun 2026 16:24:47 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "b0101abc6db73f54d6f39a0048c191d1",
+      "title": "OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia",
+      "url": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
+      "description": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.   OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built wit",
+      "published": "Fri, 26 Jun 2026 14:00:00 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "fea00359a7e2199f201bc0ffaa93b0fb",
@@ -768,6 +768,48 @@
       "is_new": false
     },
     {
+      "id": "48689261",
+      "title": "Ask HN: Options for an independent AI researcher with strong results?",
+      "url": "https://news.ycombinator.com/item?id=48689261",
+      "description": "",
+      "published": "2026-06-26T17:23:42Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 1,
+      "is_new": true
+    },
+    {
+      "id": "48688700",
+      "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+      "url": "https://github.com/workweave/router",
+      "description": "",
+      "published": "2026-06-26T16:40:11Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 37,
+      "comments": 28,
+      "is_new": true
+    },
+    {
+      "id": "48688182",
+      "title": "Show HN: Lettered – a daily phrase puzzle game",
+      "url": "https://lettered.io",
+      "description": "",
+      "published": "2026-06-26T16:01:17Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "48687650",
       "title": "Show HN: BetterDB, MIT Valkey-native context layer for AI agents",
       "url": "https://github.com/BetterDB-inc/monitor/tree/master/packages",
@@ -777,7 +819,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 2,
+      "points": 3,
       "comments": 0,
       "is_new": true
     },
@@ -786,7 +828,19 @@
       "title": "Anthropic&#8217;s Mythos mess is only getting worse",
       "url": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
       "description": "It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration. The company sprang into action immediately, sending a barrage o",
-      "published": "2026-06-26T10:07:03-04:00",
+      "published": "2026-06-26T13:32:09-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "522a607f3975c5e212817859dbe0ea09",
+      "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
+      "description": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limit",
+      "published": "2026-06-26T13:01:03-04:00",
       "source_id": "theverge-ai",
       "source_name": "The Verge AI",
       "source_icon": "📰",
@@ -804,7 +858,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 5,
-      "comments": 2,
+      "comments": 4,
       "is_new": false
     },
     {
@@ -857,8 +911,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 325,
-      "comments": 155,
+      "points": 347,
+      "comments": 164,
       "is_new": false
     },
     {
@@ -872,6 +926,19 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "fe2d98d1aff0c4c180134eeb1b279f3f",
+      "title": "Information-Aware KV Cache Compression for Long Reasoning",
+      "url": "https://huggingface.co/papers/2606.26875",
+      "description": "Reasoning capability has advanced rapidly in large language models (LLMs), leading to an increasing size of key-value (KV) cache in both prefilling and decoding stages. Existing KV cache compression m",
+      "published": "2026-06-24T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
     },
     {
       "id": "e9ce620149e11fcb645131a8f42fa90c",
@@ -961,7 +1028,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 6,
       "is_new": false
     },
     {
@@ -1000,20 +1067,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 31,
-      "is_new": false
-    },
-    {
-      "id": "b24c3851b84920808aa080c684b01ba3",
-      "title": "Qwen-Image-Agent: Bridging the Context Gap in Real-World Image Generation",
-      "url": "https://huggingface.co/papers/2606.26907",
-      "description": "While text-to-image (T2I) models have achieved remarkable progress, they struggle with real-world requests that are often underspecified, implicit, or dependent on up-to-date knowledge. We identify th",
-      "published": "2026-06-24T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 31,
+      "likes": 32,
       "is_new": false
     },
     {
@@ -1159,18 +1213,6 @@
       "is_new": false
     },
     {
-      "id": "3b62ae7cf756670c26767ca20fd2ca73",
-      "title": "Google Home will soon get better at recognizing you",
-      "url": "https://www.theverge.com/tech/955385/google-home-familiar-faces-clothing",
-      "description": "A new update for Google Home could make it less likely your smart home cameras mistake you for someone else, just because you're facing away from the camera. Starting June 23rd, Google's expanding its",
-      "published": "2026-06-24T08:17:45-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "0aba95917389c38e037c90e1dc7d86d9",
       "title": "The Verification Horizon: No Silver Bullet for Coding Agent Rewards",
       "url": "https://huggingface.co/papers/2606.26300",
@@ -1180,7 +1222,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 24,
+      "likes": 30,
       "is_new": false
     },
     {
@@ -1206,7 +1248,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 10,
       "is_new": false
     },
     {
@@ -1242,48 +1284,6 @@
       "url": "https://compilr.dev/",
       "description": "",
       "published": "2026-06-23T17:11:51Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 1,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "48646165",
-      "title": "Show HN: peerd – AI agent harness that runs entirely in your browser",
-      "url": "https://github.com/NotASithLord/peerd",
-      "description": "",
-      "published": "2026-06-23T15:05:00Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 71,
-      "comments": 22,
-      "is_new": false
-    },
-    {
-      "id": "48646093",
-      "title": "Show HN: Videopython – local-first video processing, editing and AI workflows",
-      "url": "https://github.com/bartwojtowicz/videopython",
-      "description": "",
-      "published": "2026-06-23T15:00:58Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 4,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "48645683",
-      "title": "Show HN: AI Agents the Unix Way – built with bash, curl, and jq",
-      "url": "https://github.com/cloudkj/llayer",
-      "description": "",
-      "published": "2026-06-23T14:38:29Z",
       "source_id": "hn-ai",
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
@@ -1361,42 +1361,6 @@
         "url": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
         "description": "The tokenmaxxing era was brief. We now appear to be entering the era of token rationing.",
         "published": "Wed, 24 Jun 2026 20:09:45 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "e56119b650d57ff477efc872f8ae54c9",
-        "title": "Facebook rolls out an AI companion app for creators",
-        "url": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
-        "description": "The new app, which is currently being tested with select creators, will have Facebook's recently launched AI creator assistant built into it.",
-        "published": "Wed, 24 Jun 2026 17:16:24 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "97c642dd855a345080569e07eb79e4a8",
-        "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
-        "url": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
-        "description": "Agility Robotics, the humanoid robotics startup that spun out of Oregon State University in 2015, expects to generate $620 million in proceeds.",
-        "published": "Wed, 24 Jun 2026 16:48:43 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "b2d1e66efb72bea262d807ef40839c67",
-        "title": "Figma adds code layers, support for animations, more AI features in new update",
-        "url": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
-        "description": "Figma's update adds a new code layer, support for motion and shaders, and the ability to create custom plug-ins for various tasks using AI.",
-        "published": "Wed, 24 Jun 2026 16:15:00 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
@@ -1524,6 +1488,42 @@
         "is_new": false
       },
       {
+        "id": "30ba8e524968ebe4aa63017834783137",
+        "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+        "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+        "description": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.   OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built wit",
+        "published": "Fri, 26 Jun 2026 17:43:22 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "d295ec6c7f14bc93cb58d85c28bbcc85",
+        "title": "It’s not about Anthropic vs. OpenAI anymore",
+        "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+        "description": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
+        "published": "Fri, 26 Jun 2026 16:24:47 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "b0101abc6db73f54d6f39a0048c191d1",
+        "title": "OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia",
+        "url": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
+        "description": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.   OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built wit",
+        "published": "Fri, 26 Jun 2026 14:00:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "fea00359a7e2199f201bc0ffaa93b0fb",
         "title": "Early Bird pricing ends tonight for TechCrunch Founder Summit",
         "url": "https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/",
@@ -1536,6 +1536,48 @@
         "is_new": false
       },
       {
+        "id": "48689261",
+        "title": "Ask HN: Options for an independent AI researcher with strong results?",
+        "url": "https://news.ycombinator.com/item?id=48689261",
+        "description": "",
+        "published": "2026-06-26T17:23:42Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 2,
+        "comments": 1,
+        "is_new": true
+      },
+      {
+        "id": "48688700",
+        "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+        "url": "https://github.com/workweave/router",
+        "description": "",
+        "published": "2026-06-26T16:40:11Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 37,
+        "comments": 28,
+        "is_new": true
+      },
+      {
+        "id": "48688182",
+        "title": "Show HN: Lettered – a daily phrase puzzle game",
+        "url": "https://lettered.io",
+        "description": "",
+        "published": "2026-06-26T16:01:17Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 1,
+        "comments": 0,
+        "is_new": true
+      },
+      {
         "id": "48687650",
         "title": "Show HN: BetterDB, MIT Valkey-native context layer for AI agents",
         "url": "https://github.com/BetterDB-inc/monitor/tree/master/packages",
@@ -1545,7 +1587,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 2,
+        "points": 3,
         "comments": 0,
         "is_new": true
       },
@@ -1554,7 +1596,19 @@
         "title": "Anthropic&#8217;s Mythos mess is only getting worse",
         "url": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
         "description": "It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration. The company sprang into action immediately, sending a barrage o",
-        "published": "2026-06-26T10:07:03-04:00",
+        "published": "2026-06-26T13:32:09-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "522a607f3975c5e212817859dbe0ea09",
+        "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
+        "description": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limit",
+        "published": "2026-06-26T13:01:03-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
@@ -1572,7 +1626,7 @@
         "source_icon": "🟧",
         "category": "news",
         "points": 5,
-        "comments": 2,
+        "comments": 4,
         "is_new": false
       },
       {
@@ -1609,56 +1663,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
         "description": "The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6. The Information reported that OpenAI CEO",
         "published": "2026-06-25T17:57:57-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "48675435",
-        "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
-        "url": "https://github.com/inkeep/open-knowledge",
-        "description": "",
-        "published": "2026-06-25T16:04:46Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 325,
-        "comments": 155,
-        "is_new": false
-      },
-      {
-        "id": "101e1ff9a5c28f04d6bc7fbe515ad0a9",
-        "title": "Facebook’s Creator Studio has been revived as an AI companion app",
-        "url": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
-        "description": "Meta is bringing back the Facebook Creator Studio page manager, now \"reimagined\" as a standalone AI companion app. The new app aims to make it easier for creators to connect with their audiences and s",
-        "published": "2026-06-25T05:37:40-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "1d6d9742c4a6b7aca4c8d8bf494eccdd",
-        "title": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
-        "url": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
-        "description": "To celebrate its new status as No. 1 in JD Power's initial quality ranking among mainstream automakers, Ford is opening up about the challenges it has faced in recent years, especially around its reli",
-        "published": "2026-06-24T17:27:04-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "3a7dd2fd1f04868f6195cbd1e8aa99a8",
-        "title": "The Google Home Speaker sounds good and looks great — but it’s finicky",
-        "url": "https://www.theverge.com/gadgets/955537/google-home-smart-speaker-hands-on",
-        "description": "Right out of the box, the new Google Home Speaker passed a couple of important tests. Even with the volume at 100 percent and music blaring out of the speaker, it quickly ducked the audio and listened",
-        "published": "2026-06-24T17:15:49-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
