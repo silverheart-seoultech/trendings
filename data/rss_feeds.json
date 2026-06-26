@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-26T12:25:21.366372+00:00",
+  "last_updated": "2026-06-26T14:36:42.158553+00:00",
   "total_entries": 110,
-  "new_entries": 2,
+  "new_entries": 4,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -156,18 +156,6 @@
       "is_new": false
     },
     {
-      "id": "b2b283d1fdd44d7ce5130f89f6d6be81",
-      "title": "OpenAI unveils its first custom chip, built by Broadcom",
-      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "description": "Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI's inference systems.",
-      "published": "Wed, 24 Jun 2026 14:54:46 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "7d96e7dab5885b8f5d22d8396a86f831",
       "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
       "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
@@ -286,6 +274,18 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "fea00359a7e2199f201bc0ffaa93b0fb",
+      "title": "Early Bird pricing ends tonight for TechCrunch Founder Summit",
+      "url": "https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/",
+      "description": "Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early Bird pricing ends today, at 11:59 p.m. PT, after which rates increase. Register now.",
+      "published": "Fri, 26 Jun 2026 13:00:00 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "d8617eb90ee76ce3ecbc3c619a534f62",
@@ -777,8 +777,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 4,
-      "comments": 0,
+      "points": 5,
+      "comments": 1,
       "is_new": false
     },
     {
@@ -831,8 +831,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 293,
-      "comments": 148,
+      "points": 318,
+      "comments": 154,
       "is_new": false
     },
     {
@@ -848,6 +848,19 @@
       "is_new": false
     },
     {
+      "id": "d85ffa8e8f8e62e33f1ca45a9c70c1da",
+      "title": "LISA: Likelihood Score Alignment for Visual-condition Controllable Generation",
+      "url": "https://huggingface.co/papers/2606.27192",
+      "description": "The prevalent dual-branch paradigm, i.e., training a side network to encode visual conditions and fusing its intermediate-layer features to a frozen pretrained main network, has shown remarkable succe",
+      "published": "2026-06-24T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 6,
+      "is_new": true
+    },
+    {
       "id": "d7ba16378c4ef7ae9aa6e5a1f9bef6c9",
       "title": "Running the Gauntlet: Re-evaluating the Capabilities of Agents Beyond Familiar Environments",
       "url": "https://huggingface.co/papers/2606.14397",
@@ -857,7 +870,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
+      "likes": 9,
       "is_new": true
     },
     {
@@ -883,7 +896,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 18,
+      "likes": 19,
       "is_new": false
     },
     {
@@ -948,7 +961,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 27,
+      "likes": 31,
       "is_new": false
     },
     {
@@ -961,7 +974,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 29,
+      "likes": 31,
       "is_new": false
     },
     {
@@ -974,20 +987,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 49,
-      "is_new": false
-    },
-    {
-      "id": "7289d4f87861b0c84c4ea8718eb639ce",
-      "title": "PhysiFormer: Learning to Simulate Mechanics in World Space",
-      "url": "https://huggingface.co/papers/2606.27364",
-      "description": "We present PhysiFormer, a diffusion transformer for physically-plausible 3D object motion. Unlike video world models that operate in view-dependent pixel space, PhysiFormer represents objects as 3D me",
-      "published": "2026-06-24T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
+      "likes": 51,
       "is_new": false
     },
     {
@@ -1154,7 +1154,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 20,
+      "likes": 23,
       "is_new": false
     },
     {
@@ -1404,18 +1404,6 @@
         "is_new": false
       },
       {
-        "id": "b2b283d1fdd44d7ce5130f89f6d6be81",
-        "title": "OpenAI unveils its first custom chip, built by Broadcom",
-        "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-        "description": "Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI's inference systems.",
-        "published": "Wed, 24 Jun 2026 14:54:46 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
         "id": "7d96e7dab5885b8f5d22d8396a86f831",
         "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
         "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
@@ -1536,6 +1524,18 @@
         "is_new": false
       },
       {
+        "id": "fea00359a7e2199f201bc0ffaa93b0fb",
+        "title": "Early Bird pricing ends tonight for TechCrunch Founder Summit",
+        "url": "https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/",
+        "description": "Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early Bird pricing ends today, at 11:59 p.m. PT, after which rates increase. Register now.",
+        "published": "Fri, 26 Jun 2026 13:00:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "48682461",
         "title": "Show HN: Appaca – AI Workspace for Operators",
         "url": "https://www.appaca.ai/",
@@ -1545,8 +1545,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 4,
-        "comments": 0,
+        "points": 5,
+        "comments": 1,
         "is_new": false
       },
       {
@@ -1599,8 +1599,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 293,
-        "comments": 148,
+        "points": 318,
+        "comments": 154,
         "is_new": false
       },
       {
