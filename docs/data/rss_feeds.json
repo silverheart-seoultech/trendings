@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-26T09:49:38.635259+00:00",
+  "last_updated": "2026-06-26T12:25:21.366372+00:00",
   "total_entries": 110,
-  "new_entries": 0,
+  "new_entries": 2,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -791,7 +791,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 8,
+      "points": 9,
       "comments": 0,
       "is_new": false
     },
@@ -805,8 +805,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 3,
-      "comments": 2,
+      "points": 5,
+      "comments": 4,
       "is_new": false
     },
     {
@@ -831,8 +831,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 275,
-      "comments": 135,
+      "points": 293,
+      "comments": 148,
       "is_new": false
     },
     {
@@ -848,6 +848,32 @@
       "is_new": false
     },
     {
+      "id": "d7ba16378c4ef7ae9aa6e5a1f9bef6c9",
+      "title": "Running the Gauntlet: Re-evaluating the Capabilities of Agents Beyond Familiar Environments",
+      "url": "https://huggingface.co/papers/2606.14397",
+      "description": "As agentic systems continue to evolve and are widely deployed in real-world scenarios, there is a growing demand to faithfully evaluate their capabilities. However, current benchmarks are typically bu",
+      "published": "2026-06-24T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 8,
+      "is_new": true
+    },
+    {
+      "id": "38183006a67f2de51eb5b6f50b6f9d1a",
+      "title": "When Does Combining Language Models Help? A Co-Failure Ceiling on Routing, Voting, and Mixture-of-Agents Across 67 Frontier Models",
+      "url": "https://huggingface.co/papers/2606.27288",
+      "description": "Multi-model LLM systems such as routing, voting, cascades, fusion, and mixture-of-agents are used to beat single-model accuracy. We show that their gain is capped by a quantity the field rarely report",
+      "published": "2026-06-24T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "5c8cb776a8db5bcd90f5b2d2a3c02fb7",
       "title": "JetSpec: Breaking the Scaling Ceiling of Speculative Decoding with Parallel Tree Drafting",
       "url": "https://huggingface.co/papers/2606.18394",
@@ -857,7 +883,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 17,
+      "likes": 18,
       "is_new": false
     },
     {
@@ -870,7 +896,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 1,
       "is_new": false
     },
     {
@@ -883,7 +909,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 5,
       "is_new": false
     },
     {
@@ -896,7 +922,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 6,
       "is_new": false
     },
     {
@@ -922,7 +948,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 26,
+      "likes": 27,
       "is_new": false
     },
     {
@@ -935,7 +961,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 26,
+      "likes": 29,
       "is_new": false
     },
     {
@@ -948,7 +974,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 44,
+      "likes": 49,
       "is_new": false
     },
     {
@@ -961,7 +987,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -1128,7 +1154,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 17,
+      "likes": 20,
       "is_new": false
     },
     {
@@ -1154,7 +1180,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -1162,19 +1188,6 @@
       "title": "COrigami: An AI Pipeline for Co-Designing Flat-Foldable Visually Recognisable Origami",
       "url": "https://huggingface.co/papers/2606.26299",
       "description": "While generative AI has achieved remarkable success in solving problems with verifiable solutions, generating physical art that satisfies both strict geometric constraints and subjective visual aesthe",
-      "published": "2026-06-23T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
-      "is_new": false
-    },
-    {
-      "id": "90579a0d74df9bed5b327855cb440004",
-      "title": "Physics Question Scene Graph: Fine-grained Evaluation of Physical Plausibility in Text-to-Video Generation",
-      "url": "https://huggingface.co/papers/2606.25306",
-      "description": "Video generation models are increasingly capable of producing realistic videos, but they still struggle to generate videos that follow basic physical laws. Compounding this is a lack of reliable granu",
       "published": "2026-06-23T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
@@ -1193,7 +1206,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 26,
+      "points": 27,
       "comments": 10,
       "is_new": false
     },
@@ -1233,7 +1246,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 70,
+      "points": 71,
       "comments": 22,
       "is_new": false
     },
@@ -1276,20 +1289,6 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 2,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "48644467",
-      "title": "How good a detective is an AI? A Sherlock Holmes board game as an LLM-agent eval",
-      "url": "https://alexweil.github.io/sherlock-agent-eval/",
-      "description": "",
-      "published": "2026-06-23T13:11:47Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 4,
       "comments": 0,
       "is_new": false
     }
@@ -1560,7 +1559,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 8,
+        "points": 9,
         "comments": 0,
         "is_new": false
       },
@@ -1574,8 +1573,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 3,
-        "comments": 2,
+        "points": 5,
+        "comments": 4,
         "is_new": false
       },
       {
@@ -1600,8 +1599,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 275,
-        "comments": 135,
+        "points": 293,
+        "comments": 148,
         "is_new": false
       },
       {
