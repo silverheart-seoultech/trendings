@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-26T14:36:42.158553+00:00",
+  "last_updated": "2026-06-26T15:30:21.932818+00:00",
   "total_entries": 110,
-  "new_entries": 4,
+  "new_entries": 3,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -285,7 +285,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "d8617eb90ee76ce3ecbc3c619a534f62",
@@ -768,6 +768,32 @@
       "is_new": false
     },
     {
+      "id": "48687650",
+      "title": "Show HN: BetterDB, MIT Valkey-native context layer for AI agents",
+      "url": "https://github.com/BetterDB-inc/monitor/tree/master/packages",
+      "description": "",
+      "published": "2026-06-26T15:16:24Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "3f864cb93a389bdfa76e0e4ff09072d6",
+      "title": "Anthropic&#8217;s Mythos mess is only getting worse",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
+      "description": "It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration. The company sprang into action immediately, sending a barrage o",
+      "published": "2026-06-26T10:07:03-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "48682461",
       "title": "Show HN: Appaca – AI Workspace for Operators",
       "url": "https://www.appaca.ai/",
@@ -778,7 +804,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 5,
-      "comments": 1,
+      "comments": 2,
       "is_new": false
     },
     {
@@ -831,8 +857,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 318,
-      "comments": 154,
+      "points": 325,
+      "comments": 155,
       "is_new": false
     },
     {
@@ -848,6 +874,19 @@
       "is_new": false
     },
     {
+      "id": "e9ce620149e11fcb645131a8f42fa90c",
+      "title": "EO-WM: A Physically Informed World Model for Probabilistic Earth Observation Forecasting",
+      "url": "https://huggingface.co/papers/2606.27277",
+      "description": "Earth Observation (EO) forecasting aims to predict future Earth surface dynamics from satellite observations under changing meteorological conditions. In this paper, we view this task as a partially o",
+      "published": "2026-06-24T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "d85ffa8e8f8e62e33f1ca45a9c70c1da",
       "title": "LISA: Likelihood Score Alignment for Visual-condition Controllable Generation",
       "url": "https://huggingface.co/papers/2606.27192",
@@ -857,8 +896,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
-      "is_new": true
+      "likes": 8,
+      "is_new": false
     },
     {
       "id": "d7ba16378c4ef7ae9aa6e5a1f9bef6c9",
@@ -871,7 +910,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "38183006a67f2de51eb5b6f50b6f9d1a",
@@ -884,7 +923,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "5c8cb776a8db5bcd90f5b2d2a3c02fb7",
@@ -978,19 +1017,6 @@
       "is_new": false
     },
     {
-      "id": "f982655b6a6175b37b0fd83c090b03d0",
-      "title": "DanceOPD: On-Policy Generative Field Distillation",
-      "url": "https://huggingface.co/papers/2606.27377",
-      "description": "Modern image generation demands a single model that unifies diverse capabilities, including text-to-image (T2I), local editing, and global editing. However, these capabilities are rarely naturally ali",
-      "published": "2026-06-24T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 51,
-      "is_new": false
-    },
-    {
       "id": "1d6d9742c4a6b7aca4c8d8bf494eccdd",
       "title": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
       "url": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
@@ -1025,7 +1051,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 2,
-      "comments": 1,
+      "comments": 2,
       "is_new": false
     },
     {
@@ -1154,7 +1180,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 23,
+      "likes": 24,
       "is_new": false
     },
     {
@@ -1211,18 +1237,6 @@
       "is_new": false
     },
     {
-      "id": "29e1e1e8767d4289318b333dd52556e8",
-      "title": "Hollywood is bending the knee to OpenAI",
-      "url": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
-      "description": "Netflix, A24, Focus Features, and Warner Bros.' Clockwork have all reportedly decided to pass on picking up Artificial - director Luca Guadagnino's new biographical drama about OpenAI cofounder / CEO",
-      "published": "2026-06-23T18:03:18-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "48648085",
       "title": "Show HN: Compilr.dev, multi LLM AI workspace",
       "url": "https://compilr.dev/",
@@ -1275,20 +1289,6 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 1,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "48645555",
-      "title": "Show HN: Find and fix issues in your AI Agents (MIT, open source)",
-      "url": "https://github.com/latitude-dev/latitude-llm",
-      "description": "",
-      "published": "2026-06-23T14:30:54Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
       "comments": 0,
       "is_new": false
     }
@@ -1533,6 +1533,32 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "48687650",
+        "title": "Show HN: BetterDB, MIT Valkey-native context layer for AI agents",
+        "url": "https://github.com/BetterDB-inc/monitor/tree/master/packages",
+        "description": "",
+        "published": "2026-06-26T15:16:24Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 2,
+        "comments": 0,
+        "is_new": true
+      },
+      {
+        "id": "3f864cb93a389bdfa76e0e4ff09072d6",
+        "title": "Anthropic&#8217;s Mythos mess is only getting worse",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
+        "description": "It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration. The company sprang into action immediately, sending a barrage o",
+        "published": "2026-06-26T10:07:03-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
         "is_new": true
       },
       {
@@ -1546,7 +1572,7 @@
         "source_icon": "🟧",
         "category": "news",
         "points": 5,
-        "comments": 1,
+        "comments": 2,
         "is_new": false
       },
       {
@@ -1599,8 +1625,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 318,
-        "comments": 154,
+        "points": 325,
+        "comments": 155,
         "is_new": false
       },
       {
@@ -1633,32 +1659,6 @@
         "url": "https://www.theverge.com/gadgets/955537/google-home-smart-speaker-hands-on",
         "description": "Right out of the box, the new Google Home Speaker passed a couple of important tests. Even with the volume at 100 percent and music blaring out of the speaker, it quickly ducked the audio and listened",
         "published": "2026-06-24T17:15:49-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "48661860",
-        "title": "Ask HN: Best AI Gateway?",
-        "url": "https://news.ycombinator.com/item?id=48661860",
-        "description": "",
-        "published": "2026-06-24T15:59:03Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 2,
-        "comments": 1,
-        "is_new": false
-      },
-      {
-        "id": "618f67acd3fe66bfa29be58de121a677",
-        "title": "Congresswoman denies staff used AI to write defense funding amendment",
-        "url": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
-        "description": "Rep. Anna Paulina Luna (R-FL) says her staff used AI for \"spellcheck\" in an amendment summary for a major defense bill, but denies it was used for the bill text itself and says \"NO Legislation is ever",
-        "published": "2026-06-24T15:36:46-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
