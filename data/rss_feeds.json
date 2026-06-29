@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-29T17:46:49.444333+00:00",
+  "last_updated": "2026-06-29T20:06:45.796068+00:00",
   "total_entries": 110,
-  "new_entries": 9,
+  "new_entries": 16,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,30 +47,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "7d96e7dab5885b8f5d22d8396a86f831",
-      "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
-      "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
-      "description": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.",
-      "published": "Thu, 25 Jun 2026 23:34:39 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "7f5ba665e4de15ce926df2d2a59da806",
-      "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
-      "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
-      "description": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
-      "published": "Thu, 25 Jun 2026 20:19:25 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
     {
       "id": "66a122702bc0da743de66a9be358b7af",
       "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
@@ -156,6 +132,30 @@
       "is_new": false
     },
     {
+      "id": "a4fc79ea8f5a40efe7bbcb82fef36314",
+      "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+      "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+      "description": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.",
+      "published": "Mon, 29 Jun 2026 18:10:26 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "cb683670244266bd70a4e73b7ff3234f",
+      "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
+      "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+      "description": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.",
+      "published": "Mon, 29 Jun 2026 18:07:48 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "917b29e0a7c151052a2af0119774b387",
       "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
       "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
@@ -183,7 +183,7 @@
       "id": "8bd89edfd9962e1fefc98dc6e45c8ea6",
       "title": "TIDAL cracks down on AI music by cutting off monetization",
       "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
-      "description": "TIDAL's new policy will prevent AI-generated music from making money on its service.",
+      "description": "In addition, TIDAL will use automated tools to remove AI-generated music that attempts to impersonate an artist or a group, the company said.",
       "published": "Mon, 29 Jun 2026 16:29:04 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
@@ -768,17 +768,41 @@
       "is_new": false
     },
     {
-      "id": "48722488",
-      "title": "Show HN: Brocogni – MCP server that pre-computes Playwright selectors",
-      "url": "https://brocogni.vercel.app/",
+      "id": "48722802",
+      "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
+      "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
       "description": "",
-      "published": "2026-06-29T17:45:31Z",
+      "published": "2026-06-29T18:03:26Z",
       "source_id": "hn-ai",
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 1,
+      "points": 11,
       "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "6e0dbec31b286fba59c72659daf62ee4",
+      "title": "Tidal won’t pay royalties on AI-generated music but isn’t banning it outright",
+      "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
+      "description": "Tidal shared its new policies regarding AI-generated music today and how the platform plans to \"protect artists\" and \"inform listeners.\" Instead of banning it outright, starting on July 15th Tidal wil",
+      "published": "2026-06-29T15:47:35-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "d4377941c232e77e6c7064e4169179a2",
+      "title": "OpenAI is teasing new hardware… for Codex",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
+      "description": "OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th. In a video posted to X on Monday, OpenAI shows a square-shaped device with several buttons, alongsid",
+      "published": "2026-06-29T14:52:41-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
       "is_new": true
     },
     {
@@ -964,18 +988,6 @@
       "is_new": false
     },
     {
-      "id": "3f864cb93a389bdfa76e0e4ff09072d6",
-      "title": "Anthropic&#8217;s Mythos mess is only getting worse",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
-      "description": "It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration. The company sprang into action immediately, sending a barrage o",
-      "published": "2026-06-26T13:32:09-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "522a607f3975c5e212817859dbe0ea09",
       "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
       "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
@@ -1050,7 +1062,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 29,
+      "likes": 32,
       "is_new": false
     },
     {
@@ -1091,18 +1103,6 @@
       "category": "news",
       "points": 5,
       "comments": 5,
-      "is_new": false
-    },
-    {
-      "id": "cfac8b7094d39600101474e75a9275b4",
-      "title": "OpenAI will delay GPT-5.6 after Trump administration request",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
-      "description": "The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6. The Information reported that OpenAI CEO",
-      "published": "2026-06-25T17:57:57-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
       "is_new": false
     },
     {
@@ -1211,19 +1211,6 @@
       "is_new": false
     },
     {
-      "id": "6a2631e18691d2ca764f5ef62a92acb5",
-      "title": "Qwen-Image-2.0-RL Technical Report",
-      "url": "https://huggingface.co/papers/2606.27608",
-      "description": "We present Qwen-Image-2.0-RL, a post-training pipeline that applies reinforcement learning from human feedback (RLHF) and on-policy distillation (OPD) to improve both the visual quality and instructio",
-      "published": "2026-06-24T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 24,
-      "is_new": false
-    },
-    {
       "id": "48661860",
       "title": "Ask HN: Best AI Gateway?",
       "url": "https://news.ycombinator.com/item?id=48661860",
@@ -1292,34 +1279,23 @@
       "points": 8,
       "comments": 3,
       "is_new": false
+    },
+    {
+      "id": "e357325063eeff6804b4830d426b88a1",
+      "title": "The Galaxy's Guide to the Tokenizer: A Benchmark for Scientific Foundation Models",
+      "url": "https://huggingface.co/papers/2606.25610",
+      "description": "Tokenization is central to adapting scientific data for transformer-based foundation models, yet its impact on learned representations remains poorly understood. We compare four tokenization strategie",
+      "published": "2026-06-23T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
     }
   ],
   "by_category": {
     "news": [
-      {
-        "id": "7d96e7dab5885b8f5d22d8396a86f831",
-        "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
-        "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
-        "description": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.",
-        "published": "Thu, 25 Jun 2026 23:34:39 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "7f5ba665e4de15ce926df2d2a59da806",
-        "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
-        "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
-        "description": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
-        "published": "Thu, 25 Jun 2026 20:19:25 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
       {
         "id": "66a122702bc0da743de66a9be358b7af",
         "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
@@ -1405,6 +1381,30 @@
         "is_new": false
       },
       {
+        "id": "a4fc79ea8f5a40efe7bbcb82fef36314",
+        "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+        "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+        "description": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.",
+        "published": "Mon, 29 Jun 2026 18:10:26 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "cb683670244266bd70a4e73b7ff3234f",
+        "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
+        "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+        "description": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.",
+        "published": "Mon, 29 Jun 2026 18:07:48 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "917b29e0a7c151052a2af0119774b387",
         "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
         "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
@@ -1432,7 +1432,7 @@
         "id": "8bd89edfd9962e1fefc98dc6e45c8ea6",
         "title": "TIDAL cracks down on AI music by cutting off monetization",
         "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
-        "description": "TIDAL's new policy will prevent AI-generated music from making money on its service.",
+        "description": "In addition, TIDAL will use automated tools to remove AI-generated music that attempts to impersonate an artist or a group, the company said.",
         "published": "Mon, 29 Jun 2026 16:29:04 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
@@ -1537,17 +1537,41 @@
         "is_new": false
       },
       {
-        "id": "48722488",
-        "title": "Show HN: Brocogni – MCP server that pre-computes Playwright selectors",
-        "url": "https://brocogni.vercel.app/",
+        "id": "48722802",
+        "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
+        "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
         "description": "",
-        "published": "2026-06-29T17:45:31Z",
+        "published": "2026-06-29T18:03:26Z",
         "source_id": "hn-ai",
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 1,
+        "points": 11,
         "comments": 0,
+        "is_new": true
+      },
+      {
+        "id": "6e0dbec31b286fba59c72659daf62ee4",
+        "title": "Tidal won’t pay royalties on AI-generated music but isn’t banning it outright",
+        "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
+        "description": "Tidal shared its new policies regarding AI-generated music today and how the platform plans to \"protect artists\" and \"inform listeners.\" Instead of banning it outright, starting on July 15th Tidal wil",
+        "published": "2026-06-29T15:47:35-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "d4377941c232e77e6c7064e4169179a2",
+        "title": "OpenAI is teasing new hardware… for Codex",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
+        "description": "OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th. In a video posted to X on Monday, OpenAI shows a square-shaped device with several buttons, alongsid",
+        "published": "2026-06-29T14:52:41-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
         "is_new": true
       },
       {
@@ -1636,32 +1660,6 @@
         "category": "news",
         "points": 7,
         "comments": 5,
-        "is_new": false
-      },
-      {
-        "id": "6e7f4c864b7c5f7eb119128087c353e0",
-        "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
-        "description": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to locati",
-        "published": "2026-06-28T10:12:06-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "48703260",
-        "title": "Show HN: Moumantai – self-hosted, agent-driven apps you can use on any device",
-        "url": "https://github.com/xiang-deng/moumantai",
-        "description": "",
-        "published": "2026-06-28T00:47:13Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 2,
-        "comments": 0,
         "is_new": false
       }
     ],
