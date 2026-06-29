@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-29T04:57:11.299039+00:00",
+  "last_updated": "2026-06-29T09:56:50.582117+00:00",
   "total_entries": 110,
-  "new_entries": 0,
+  "new_entries": 4,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -905,7 +905,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 210,
+      "points": 212,
       "comments": 111,
       "is_new": false
     },
@@ -962,6 +962,19 @@
       "is_new": false
     },
     {
+      "id": "df158c26d79625a3593076845d89fc6f",
+      "title": "GBC: Gradient-Based Connections for Optimizing Multi-Agent Systems",
+      "url": "https://huggingface.co/papers/2606.28187",
+      "description": "Multi-agent systems (MAS) built on large language models (LLMs) provide a promising framework for solving complex tasks through role specialization and structured interaction. However, their performan",
+      "published": "2026-06-25T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
       "id": "54499fd76292543aeb1edbb6fb3fbe6a",
       "title": "Translation as a Bridging Action: Transferring Manipulation Skills from Humans to Robots",
       "url": "https://huggingface.co/papers/2606.28133",
@@ -971,7 +984,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 12,
+      "likes": 24,
       "is_new": false
     },
     {
@@ -984,7 +997,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
+      "likes": 7,
       "is_new": false
     },
     {
@@ -1010,7 +1023,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 1,
       "is_new": false
     },
     {
@@ -1023,7 +1036,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 5,
       "is_new": false
     },
     {
@@ -1036,7 +1049,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 14,
+      "likes": 28,
       "is_new": false
     },
     {
@@ -1080,6 +1093,19 @@
       "is_new": false
     },
     {
+      "id": "2d43118c51db6a978f070b6ba07e1f08",
+      "title": "Learning to Fold: prizewinning solution at LeHome Challenge 2026 (1st place online, 2nd offline)",
+      "url": "https://huggingface.co/papers/2606.27163",
+      "description": "I describe my solution to the LeHome Challenge 2026, an ICRA 2026 competition on bimanual garment folding. The system placed 1st of 62 teams in the online (simulation) round and 2nd in the real-world ",
+      "published": "2026-06-24T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
+    },
+    {
       "id": "0db3f28469ef47f5cf0589d1af1310b7",
       "title": "Boundary-Aware Context Grounding for A Low-Channel EEG Agent",
       "url": "https://huggingface.co/papers/2606.26519",
@@ -1102,7 +1128,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -1115,7 +1141,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
+      "likes": 16,
       "is_new": false
     },
     {
@@ -1128,7 +1154,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 10,
       "is_new": false
     },
     {
@@ -1155,32 +1181,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 13,
-      "is_new": false
-    },
-    {
-      "id": "d7ba16378c4ef7ae9aa6e5a1f9bef6c9",
-      "title": "Running the Gauntlet: Re-evaluating the Capabilities of Agents Beyond Familiar Environments",
-      "url": "https://huggingface.co/papers/2606.14397",
-      "description": "As agentic systems continue to evolve and are widely deployed in real-world scenarios, there is a growing demand to faithfully evaluate their capabilities. However, current benchmarks are typically bu",
-      "published": "2026-06-24T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 17,
-      "is_new": false
-    },
-    {
-      "id": "38183006a67f2de51eb5b6f50b6f9d1a",
-      "title": "When Does Combining Language Models Help? A Co-Failure Ceiling on Routing, Voting, and Mixture-of-Agents Across 67 Frontier Models",
-      "url": "https://huggingface.co/papers/2606.27288",
-      "description": "Multi-model LLM systems such as routing, voting, cascades, fusion, and mixture-of-agents are used to beat single-model accuracy. We show that their gain is capped by a quantity the field rarely report",
-      "published": "2026-06-24T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
       "is_new": false
     },
     {
