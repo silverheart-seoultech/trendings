@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-30T09:58:23.740284+00:00",
+  "last_updated": "2026-06-30T12:22:33.978688+00:00",
   "total_entries": 110,
-  "new_entries": 0,
+  "new_entries": 4,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -836,6 +836,18 @@
       "is_new": false
     },
     {
+      "id": "c6680161de8088d0fb060077393ee6d8",
+      "title": "Meet the lawyer who beat Elon Musk — twice",
+      "url": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
+      "description": "Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist about his AI failures - was a bit like watching a to",
+      "published": "2026-06-29T20:26:38-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "48722802",
       "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
       "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
@@ -845,7 +857,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 71,
+      "points": 72,
       "comments": 20,
       "is_new": false
     },
@@ -912,6 +924,32 @@
       "is_new": false
     },
     {
+      "id": "9c304227e3c28d10e3e26e4914d98a23",
+      "title": "Illuminating Unified Multimodal Model for Free-form Interleaved Text-Image Generation",
+      "url": "https://huggingface.co/papers/2606.30054",
+      "description": "The advancement of generative AI models capable of producing text and image marks a critical step forward in the realm of multimodal intelligence, particularly for tasks involving the interleaving of ",
+      "published": "2026-06-28T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "cf0d5e0120b321be5824bdaeca7903ed",
+      "title": "Beyond IID: How General Are Tabular Foundation Models, Really?",
+      "url": "https://huggingface.co/papers/2606.30410",
+      "description": "Foundation models for predictive machine learning on tabular data have recently gained significant traction in academia and industry. Research communities across disciplines are increasingly evaluatin",
+      "published": "2026-06-28T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 28,
+      "is_new": true
+    },
+    {
       "id": "548e9fd0bbf95f7495e9739ee2f2e1c4",
       "title": "Beyond Drug Discovery: The Nanotechnology Molecular Optimization (NMO) Benchmark",
       "url": "https://huggingface.co/papers/2606.30170",
@@ -921,7 +959,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -947,7 +985,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 6,
       "is_new": false
     },
     {
@@ -961,45 +999,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 4,
-      "is_new": false
-    },
-    {
-      "id": "c7e9e345bbf44825dfb485254a62367a",
-      "title": "SafePyramid: A Hierarchical Benchmark for In-context Policy Guardrailing",
-      "url": "https://huggingface.co/papers/2606.29887",
-      "description": "In real-world applications, guardrails are often expected to identify unsafe user-model interactions according to application-specific safety policies, rather than relying on predefined risk taxonomie",
-      "published": "2026-06-28T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "7f90cd026252d8afaad888c803bc6692",
-      "title": "One Forward Beats Two: InnerZoom for Accurate and Efficient GUI Grounding",
-      "url": "https://huggingface.co/papers/2606.30084",
-      "description": "MLLM-based GUI grounding methods commonly formulate target localization as autoregressive coordinate generation, enabling models to leverage the strong instruction-following and semantic understanding",
-      "published": "2026-06-28T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "512e51b38623905e83336b4473989271",
-      "title": "PoseShield: Neural Collision Fields for Human Self-Collision Resolution",
-      "url": "https://huggingface.co/papers/2606.29686",
-      "description": "Self-collision remains a persistent challenge in SMPL-based human pose estimation and motion generation. Under extreme articulations or stochastic motion synthesis, generated meshes frequently exhibit",
-      "published": "2026-06-28T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
       "is_new": false
     },
     {
@@ -1102,7 +1101,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
+      "likes": 8,
       "is_new": false
     },
     {
@@ -1141,7 +1140,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 58,
       "is_new": false
     },
     {
@@ -1187,18 +1186,6 @@
       "is_new": false
     },
     {
-      "id": "522a607f3975c5e212817859dbe0ea09",
-      "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
-      "description": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limit",
-      "published": "2026-06-26T13:01:03-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "48682461",
       "title": "Show HN: Appaca – AI Workspace for Operators",
       "url": "https://www.appaca.ai/",
@@ -1235,7 +1222,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 22,
+      "likes": 23,
       "is_new": false
     },
     {
@@ -1248,7 +1235,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 35,
+      "likes": 37,
       "is_new": false
     },
     {
@@ -1289,7 +1276,20 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 6,
+      "is_new": false
+    },
+    {
+      "id": "1af6fa823acc4046ce6563a292e9810b",
+      "title": "Large-Scale Tunnel Air-Ground Collaboration With FLISP: Fast LiDAR-IMU Synchronized Path Planner",
+      "url": "https://huggingface.co/papers/2606.25393",
+      "description": "Hydropower tunnel inspection is critical for infrastructure integrity yet remains inefficient and hazardous using manual methods. We propose FLISP (Fast LiDAR-IMU Synchronized Path Planner), a mapless",
+      "published": "2026-06-24T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
       "is_new": false
     }
   ],
@@ -1604,6 +1604,18 @@
         "is_new": false
       },
       {
+        "id": "c6680161de8088d0fb060077393ee6d8",
+        "title": "Meet the lawyer who beat Elon Musk — twice",
+        "url": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
+        "description": "Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist about his AI failures - was a bit like watching a to",
+        "published": "2026-06-29T20:26:38-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "48722802",
         "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
         "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
@@ -1613,7 +1625,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 71,
+        "points": 72,
         "comments": 20,
         "is_new": false
       },
@@ -1649,18 +1661,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
         "description": "A new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an AI chatbot like ChatGPT or Claude. In the coming weeks, Sena",
         "published": "2026-06-29T12:07:14-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "299a59cd3d9083bc121fe275c34b0837",
-        "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
-        "description": "Margaret Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these",
-        "published": "2026-06-29T11:32:28-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
