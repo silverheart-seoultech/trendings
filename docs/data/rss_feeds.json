@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-30T05:16:19.653174+00:00",
+  "last_updated": "2026-06-30T09:51:25.497269+00:00",
   "total_entries": 110,
-  "new_entries": 0,
+  "new_entries": 11,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,6 +47,18 @@
     }
   ],
   "entries": [
+    {
+      "id": "b5ec53d600c14aab497a6eb00c371146",
+      "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
+      "url": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
+      "description": "OKX is bringing together payments, identity and reputation into a marketplace for AI agents.",
+      "published": "Tue, 30 Jun 2026 09:00:00 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "e2142c8f103223d299e191b677482d41",
       "title": "The AI jobs debate just got messier",
@@ -756,16 +768,30 @@
       "is_new": false
     },
     {
-      "id": "30ba8e524968ebe4aa63017834783137",
-      "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
-      "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
-      "description": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.   OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built wit",
-      "published": "Fri, 26 Jun 2026 17:43:22 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
+      "id": "6e0dbec31b286fba59c72659daf62ee4",
+      "title": "Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright",
+      "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
+      "description": "Tidal shared its new policies regarding AI-generated music today and how the platform plans to \"protect artists\" and \"inform listeners.\" Instead of banning it outright, starting on July 15th Tidal wil",
+      "published": "2026-06-30T05:27:43-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "48728744",
+      "title": "I have open-sourced gojaja, a CLI for local multi-agent collaboration",
+      "url": "https://news.ycombinator.com/item?id=48728744",
+      "description": "",
+      "published": "2026-06-30T05:17:52Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": true
     },
     {
       "id": "48727140",
@@ -777,7 +803,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 3,
+      "points": 5,
       "comments": 0,
       "is_new": false
     },
@@ -805,7 +831,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 4,
+      "points": 5,
       "comments": 0,
       "is_new": false
     },
@@ -819,20 +845,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 64,
-      "comments": 19,
-      "is_new": false
-    },
-    {
-      "id": "6e0dbec31b286fba59c72659daf62ee4",
-      "title": "Tidal won’t pay royalties on AI-generated music but isn’t banning it outright",
-      "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
-      "description": "Tidal shared its new policies regarding AI-generated music today and how the platform plans to \"protect artists\" and \"inform listeners.\" Instead of banning it outright, starting on July 15th Tidal wil",
-      "published": "2026-06-29T15:47:35-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
+      "points": 71,
+      "comments": 20,
       "is_new": false
     },
     {
@@ -898,6 +912,32 @@
       "is_new": false
     },
     {
+      "id": "548e9fd0bbf95f7495e9739ee2f2e1c4",
+      "title": "Beyond Drug Discovery: The Nanotechnology Molecular Optimization (NMO) Benchmark",
+      "url": "https://huggingface.co/papers/2606.30170",
+      "description": "Generative molecular design is shaped by simple proxy benchmarks for drug-like properties and models pretrained on large pharmaceutical datasets. This combination yields strong benchmark metrics but l",
+      "published": "2026-06-28T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "0c7d0bc9ec0b09e8d09548eaf2a16230",
+      "title": "The Surprising Effectiveness of Video Diffusion Models for Hand Motion Reconstruction",
+      "url": "https://huggingface.co/papers/2606.30308",
+      "description": "4D hand motion reconstruction from egocentric video is bottlenecked by clear limitations of existing methods: image-based pipelines depend on a detector that fails under heavy occlusion, while video-b",
+      "published": "2026-06-28T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
       "id": "e995fc2d4a1ca6ffb67748a45809dae6",
       "title": "DreamForge-World 0.1 Preview: A Low-Compute Real-Time Controllable World Model",
       "url": "https://huggingface.co/papers/2606.30292",
@@ -907,7 +947,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -920,7 +960,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -960,71 +1000,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "a6e732d86d462dc13540cdcb0b9c17ec",
-      "title": "Orca: The World is in Your Mind",
-      "url": "https://huggingface.co/papers/2606.30534",
-      "description": "We introduce Orca, an initial instantiation of a general world foundation model. Orca learns a unified world latent space from multimodal world signals and exposes it through multimodal readout interf",
-      "published": "2026-06-28T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 11,
-      "is_new": false
-    },
-    {
-      "id": "141707ea199a1db2da4c8441f9976b8d",
-      "title": "Monte Carlo Energy Aggregation for Mobile 3D Gaussian Splatting",
-      "url": "https://huggingface.co/papers/2606.30017",
-      "description": "Recent advances in 3D Gaussian Splatting have demonstrated unprecedented success in novel view synthesis. However, the substantial inference and storage overhead driven by high-order Spherical Harmoni",
-      "published": "2026-06-28T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 7,
-      "is_new": false
-    },
-    {
-      "id": "938804b6da80c51153a96b9f9d4c1d6d",
-      "title": "Nemotron-Labs-Diffusion-Image: Advancing Masked Discrete Diffusion for High-Resolution Image Synthesis",
-      "url": "https://huggingface.co/papers/2606.29814",
-      "description": "We propose Nemotron-Labs-Diffusion-Image, a state-of-the-art masked discrete diffusion model (MDM) for high-resolution text-to-image synthesis. Compared with prior work on masked image generation, Nem",
-      "published": "2026-06-28T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
-      "is_new": false
-    },
-    {
-      "id": "cefc0cb52229b32acd9d5b14a7ef4462",
-      "title": "TACO: Tool-Augmented Credit Optimization for Agentic Tool Use",
-      "url": "https://huggingface.co/papers/2606.30251",
-      "description": "Agentic multimodal models perform diverse operations on an image via code and reason over the returned view, an effective paradigm for fine-grained visual question answering. However, code operations ",
-      "published": "2026-06-28T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 11,
-      "is_new": false
-    },
-    {
-      "id": "7933158db21e00e81aa2e6bf8e6302b2",
-      "title": "Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent",
-      "url": "https://huggingface.co/papers/2606.30616",
-      "description": "We introduce Agents-A1, a 35B Mixture-of-Experts Agentic Model that reaches trillion-parameter-level performance by scaling the agent horizon. We investigate agent-horizon scaling from two perspective",
-      "published": "2026-06-28T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 33,
       "is_new": false
     },
     {
@@ -1092,6 +1067,19 @@
       "is_new": false
     },
     {
+      "id": "aa1cdc40700f279b4c340af0f841a458",
+      "title": "Learning Transferable Dynamics Priors from Action to World Modeling",
+      "url": "https://huggingface.co/papers/2606.29501",
+      "description": "We study action-conditioned world modeling as a scalable way to learn transferable dynamics priors for robot learning. By pretraining a model to predict how actions drive visual scene evolution, the r",
+      "published": "2026-06-27T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "320c2328b93bfc0d5ed4808c46648f77",
       "title": "Geometric Stability of Neural Population Codes: Regional Variation, Behavioral Relevance, and Circuit Dependence",
       "url": "https://huggingface.co/papers/2606.29655",
@@ -1114,20 +1102,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "f1d7323a61dffca05dae7d80c7c051d5",
-      "title": "PolicyGuard: A Dialogue-Grounded Sub-Agent Verifier for Policy Adherence in LLM Agents",
-      "url": "https://huggingface.co/papers/2606.29225",
-      "description": "LLM agents handle user requests on behalf of organizations through tool calls and must follow the company policies stated in their system prompts. Prior work approaches this as a safeguarding problem ",
-      "published": "2026-06-27T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
+      "likes": 7,
       "is_new": false
     },
     {
@@ -1155,6 +1130,19 @@
       "points": 4,
       "comments": 2,
       "is_new": false
+    },
+    {
+      "id": "4c4de66ad8de2e492e87b5c2cabb1858",
+      "title": "Agentic Abstention: Do Agents Know When to Stop Instead of Act?",
+      "url": "https://huggingface.co/papers/2606.28733",
+      "description": "LLM agents are expected to act over multiple turns, using search, browsing interfaces, and terminal tools to complete user goals. Yet not every goal is well specified or achievable in the available en",
+      "published": "2026-06-26T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
     },
     {
       "id": "48689261",
@@ -1225,6 +1213,32 @@
       "is_new": false
     },
     {
+      "id": "f45bad58ec7db131ee74c5e8f659ad24",
+      "title": "ZooClaw-FashionSigLIP2: Distilled Fine-tuning for Robust Fashion Retrieval",
+      "url": "https://huggingface.co/papers/2606.27708",
+      "description": "Adapting a foundation vision-language encoder to a specialized retrieval task creates a fundamental tradeoff: gains on the target distribution come at the cost of the foundation model's broad generali",
+      "published": "2026-06-25T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
+      "id": "ad00f38b9e54e306cce27097b50926ec",
+      "title": "Video-MME-Logical: A Controlled Diagnostic Benchmark for Video Temporal-Logical Reasoning",
+      "url": "https://huggingface.co/papers/2606.27828",
+      "description": "Recent interest in multimodal large language models (MLLMs) raises a central question: can they reason over dynamic visual evidence rather than merely recognize objects or events in individual frames?",
+      "published": "2026-06-25T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 21,
+      "is_new": true
+    },
+    {
       "id": "f009ef5462afbf574db2c683809acbc0",
       "title": "TUA-Bench: A Benchmark for General-Purpose Terminal-Use Agents",
       "url": "https://huggingface.co/papers/2606.28480",
@@ -1234,20 +1248,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "77f1e5df5d0f821c429e5e9df2ae83d4",
-      "title": "ReFreeKV: Towards Threshold-Free KV Cache Compression",
-      "url": "https://huggingface.co/papers/2502.16886",
-      "description": "To reduce memory consumption during LLM inference, a handful of methods have been proposed for KV cache pruning. While these techniques can accomplish lossless memory reduction on many datasets, they ",
-      "published": "2026-06-25T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 18,
+      "likes": 35,
       "is_new": false
     },
     {
@@ -1275,25 +1276,37 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 376,
-      "comments": 172,
+      "comments": 173,
       "is_new": false
     },
     {
-      "id": "73269782ebd2f9672c3d3207ada28d4e",
-      "title": "LiveEdit: Towards Real-Time Diffusion-Based Streaming Video Editing",
-      "url": "https://huggingface.co/papers/2606.26740",
-      "description": "Streaming video editing has made rapid progress, yet practical deployment is still limited by two core issues: maintaining stable backgrounds and non-edited regions over time, and achieving the low la",
+      "id": "d442553988fcb80ca1b5dee880bc9c20",
+      "title": "How Good Can Linear Models Be for Time-Series Forecasting?",
+      "url": "https://huggingface.co/papers/2606.27282",
+      "description": "Time-series forecasting research has been moving steadily toward larger architectures, from specialized transformers to general-purpose foundation models, on the assumption that capacity is what unloc",
       "published": "2026-06-24T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 21,
+      "likes": 4,
       "is_new": false
     }
   ],
   "by_category": {
     "news": [
+      {
+        "id": "b5ec53d600c14aab497a6eb00c371146",
+        "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
+        "url": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
+        "description": "OKX is bringing together payments, identity and reputation into a marketplace for AI agents.",
+        "published": "Tue, 30 Jun 2026 09:00:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "e2142c8f103223d299e191b677482d41",
         "title": "The AI jobs debate just got messier",
@@ -1523,16 +1536,30 @@
         "is_new": false
       },
       {
-        "id": "30ba8e524968ebe4aa63017834783137",
-        "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
-        "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
-        "description": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.   OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built wit",
-        "published": "Fri, 26 Jun 2026 17:43:22 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
+        "id": "6e0dbec31b286fba59c72659daf62ee4",
+        "title": "Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright",
+        "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
+        "description": "Tidal shared its new policies regarding AI-generated music today and how the platform plans to \"protect artists\" and \"inform listeners.\" Instead of banning it outright, starting on July 15th Tidal wil",
+        "published": "2026-06-30T05:27:43-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
         "is_new": false
+      },
+      {
+        "id": "48728744",
+        "title": "I have open-sourced gojaja, a CLI for local multi-agent collaboration",
+        "url": "https://news.ycombinator.com/item?id=48728744",
+        "description": "",
+        "published": "2026-06-30T05:17:52Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 2,
+        "comments": 0,
+        "is_new": true
       },
       {
         "id": "48727140",
@@ -1544,7 +1571,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 3,
+        "points": 5,
         "comments": 0,
         "is_new": false
       },
@@ -1572,7 +1599,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 4,
+        "points": 5,
         "comments": 0,
         "is_new": false
       },
@@ -1586,20 +1613,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 64,
-        "comments": 19,
-        "is_new": false
-      },
-      {
-        "id": "6e0dbec31b286fba59c72659daf62ee4",
-        "title": "Tidal won’t pay royalties on AI-generated music but isn’t banning it outright",
-        "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
-        "description": "Tidal shared its new policies regarding AI-generated music today and how the platform plans to \"protect artists\" and \"inform listeners.\" Instead of banning it outright, starting on July 15th Tidal wil",
-        "published": "2026-06-29T15:47:35-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
+        "points": 71,
+        "comments": 20,
         "is_new": false
       },
       {
@@ -1646,18 +1661,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
         "description": "Margaret Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these",
         "published": "2026-06-29T11:32:28-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "59859df9563eeb792f249320e2f6039e",
-        "title": "Anthropic&#8217;s Mythos 5 is back",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
-        "description": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organi",
-        "published": "2026-06-29T08:13:00-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
