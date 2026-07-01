@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-01T05:52:48.266184+00:00",
+  "last_updated": "2026-07-01T10:00:15.881877+00:00",
   "total_entries": 110,
-  "new_entries": 3,
+  "new_entries": 11,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,6 +768,32 @@
       "is_new": false
     },
     {
+      "id": "48744381",
+      "title": "AI Agent vs. Cron",
+      "url": "https://news.ycombinator.com/item?id=48744381",
+      "description": "",
+      "published": "2026-07-01T09:45:55Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "b13e4677f11359b95a94ed6ab8f884fd",
+      "title": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+      "description": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access W",
+      "published": "2026-07-01T05:39:23-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": false
+    },
+    {
       "id": "48741558",
       "title": "Show HN: Sibyl – self-hosted cross-agent memory for AI coding agents",
       "url": "https://github.com/hyperb1iss/sibyl",
@@ -779,18 +805,6 @@
       "category": "news",
       "points": 2,
       "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "b13e4677f11359b95a94ed6ab8f884fd",
-      "title": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
-      "description": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access W",
-      "published": "2026-07-01T00:46:05-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
       "is_new": false
     },
     {
@@ -966,6 +980,45 @@
       "is_new": false
     },
     {
+      "id": "69906201ea26c5e948e5b8e88763f075",
+      "title": "DataEvolver: Self-Evolving Multi-Agent Data Construction for Text-Rich Image Generation",
+      "url": "https://huggingface.co/papers/2606.31537",
+      "description": "Text-rich image generation is one of the most challenging settings in image generation, since models must simultaneously produce visually realistic images and render legible, semantically aligned, and",
+      "published": "2026-06-29T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 7,
+      "is_new": true
+    },
+    {
+      "id": "5607347e08b13d5fa1972cbfa35bd182",
+      "title": "MuSViT: A Foundation Vision Model for Sheet Music Representation",
+      "url": "https://huggingface.co/papers/2606.31811",
+      "description": "Foundation models have transformed vision and language processing by providing rich, reusable representations that transfer across diverse tasks. Sheet music, as a visual encoding of musical language,",
+      "published": "2026-06-29T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "3c0243edf35167dd16e76902f673e65c",
+      "title": "GEAR: Guided End-to-End AutoRegression for Image Synthesis",
+      "url": "https://huggingface.co/papers/2606.32039",
+      "description": "Visual generative models are typically trained in two stages. A tokenizer is first trained for reconstruction and then frozen, after which a generator is trained on its discrete indices or continuous ",
+      "published": "2026-06-29T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 21,
+      "is_new": true
+    },
+    {
       "id": "7eb12a602d964c4739eec21b899147b3",
       "title": "Multi-Block Diffusion Language Models",
       "url": "https://huggingface.co/papers/2606.29215",
@@ -975,7 +1028,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 16,
       "is_new": true
     },
     {
@@ -988,7 +1041,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 6,
       "is_new": true
     },
     {
@@ -1014,7 +1067,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 50,
+      "likes": 64,
       "is_new": false
     },
     {
@@ -1027,7 +1080,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 5,
       "is_new": false
     },
     {
@@ -1040,7 +1093,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 15,
+      "likes": 16,
       "is_new": false
     },
     {
@@ -1053,7 +1106,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 78,
+      "points": 79,
       "comments": 21,
       "is_new": false
     },
@@ -1096,6 +1149,19 @@
       "is_new": false
     },
     {
+      "id": "77de62675fc4819cf24756ed3189adf1",
+      "title": "Little Brains, Big Feats: Exploring Compact Language Models",
+      "url": "https://huggingface.co/papers/2606.30062",
+      "description": "While large language models have been dominating the research landscape recently, small language models remain highly relevant across various domains; yet, they receive far less attention. In this stu",
+      "published": "2026-06-28T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 7,
+      "is_new": true
+    },
+    {
       "id": "eded95f77d507794cd2bc82f851b2a07",
       "title": "PhotoQuilt: Training-Free Arbitrary-Resolution Photomosaics via Bootstrapped Tiled Denoising",
       "url": "https://huggingface.co/papers/2606.30968",
@@ -1118,7 +1184,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -1131,7 +1197,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 86,
+      "likes": 161,
       "is_new": false
     },
     {
@@ -1157,20 +1223,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 35,
-      "is_new": false
-    },
-    {
-      "id": "0cd278778d410719211f80e9ae2b56ed",
-      "title": "LUMOS: A Semantic Operating-System Layer for Accessibility-Grounded AI Agents",
-      "url": "https://huggingface.co/papers/2606.30697",
-      "description": "Current operating systems expose interfaces optimized for human users but not for AI agents. Humans benefit from pixels, icons, windows, visual grouping, mouse movement, and keyboard shortcuts; AI age",
-      "published": "2026-06-28T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
+      "likes": 61,
       "is_new": false
     },
     {
@@ -1237,60 +1290,6 @@
       "category": "news",
       "points": 2,
       "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "63139a8b1220cf5897256722a42dc3a1",
-      "title": "MirrorPPR: Exemplar-Based Portrait Photo Retouching",
-      "url": "https://huggingface.co/papers/2606.29308",
-      "description": "While text-guided image editing has made remarkable progress, it remains limited in structural portrait retouching. Textual descriptions struggle to convey fine-grained changes to facial features and ",
-      "published": "2026-06-27T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "48691461",
-      "title": "Show HN: Statey – the database your AI shares across every chat, over MCP",
-      "url": "https://www.statey.ai",
-      "description": "",
-      "published": "2026-06-26T20:18:33Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 4,
-      "comments": 2,
-      "is_new": false
-    },
-    {
-      "id": "c6e0a4859e6d0c754613395e3738ba3d",
-      "title": "Evolution Fine-Tuning: Learning to Discover Across 371 Optimization Tasks",
-      "url": "https://huggingface.co/papers/2606.29082",
-      "description": "Would experience designing faster GPU kernels also help close in on a long-standing open mathematical conjecture? Large Language Models (LLMs) integrated into evolutionary search have recently produce",
-      "published": "2026-06-26T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 13,
-      "is_new": false
-    },
-    {
-      "id": "48689261",
-      "title": "Ask HN: Options for an independent AI researcher with strong results?",
-      "url": "https://news.ycombinator.com/item?id=48689261",
-      "description": "",
-      "published": "2026-06-26T17:23:42Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 3,
       "is_new": false
     }
   ],
@@ -1537,6 +1536,32 @@
         "is_new": false
       },
       {
+        "id": "48744381",
+        "title": "AI Agent vs. Cron",
+        "url": "https://news.ycombinator.com/item?id=48744381",
+        "description": "",
+        "published": "2026-07-01T09:45:55Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 1,
+        "comments": 0,
+        "is_new": true
+      },
+      {
+        "id": "b13e4677f11359b95a94ed6ab8f884fd",
+        "title": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+        "description": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access W",
+        "published": "2026-07-01T05:39:23-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
         "id": "48741558",
         "title": "Show HN: Sibyl – self-hosted cross-agent memory for AI coding agents",
         "url": "https://github.com/hyperb1iss/sibyl",
@@ -1548,18 +1573,6 @@
         "category": "news",
         "points": 2,
         "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "b13e4677f11359b95a94ed6ab8f884fd",
-        "title": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
-        "description": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access W",
-        "published": "2026-07-01T00:46:05-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
         "is_new": false
       },
       {
@@ -1654,18 +1667,6 @@
         "category": "news",
         "points": 2,
         "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "c6680161de8088d0fb060077393ee6d8",
-        "title": "Meet the lawyer who beat Elon Musk — twice",
-        "url": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
-        "description": "Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist about his AI failures - was a bit like watching a to",
-        "published": "2026-06-30T08:59:20-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
         "is_new": false
       }
     ],
