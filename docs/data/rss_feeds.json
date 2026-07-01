@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-01T15:48:34.304667+00:00",
+  "last_updated": "2026-07-01T18:14:01.209468+00:00",
   "total_entries": 110,
-  "new_entries": 3,
+  "new_entries": 9,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,6 +47,18 @@
     }
   ],
   "entries": [
+    {
+      "id": "af371092847a9aad96672ed0d11b29d3",
+      "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
+      "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+      "description": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites.",
+      "published": "Wed, 01 Jul 2026 17:48:37 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "01aa0951977394b56b5c4cc8efec06ab",
       "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
@@ -756,16 +768,18 @@
       "is_new": false
     },
     {
-      "id": "e2142c8f103223d299e191b677482d41",
-      "title": "The AI jobs debate just got messier",
-      "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
-      "description": "A new report finds \"high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs.",
-      "published": "Tue, 30 Jun 2026 04:01:00 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
+      "id": "48748977",
+      "title": "Stealing 50 Years of Database Ideas for AI Agents",
+      "url": "https://onewill.ai/blog/2026/stealing-50-years-of-database-ideas-for-ai-agents/",
+      "description": "",
+      "published": "2026-07-01T15:59:20Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
       "category": "news",
-      "is_new": false
+      "points": 8,
+      "comments": 0,
+      "is_new": true
     },
     {
       "id": "48747838",
@@ -791,7 +805,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 3,
+      "points": 5,
       "comments": 0,
       "is_new": false
     },
@@ -805,8 +819,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 21,
-      "comments": 11,
+      "points": 33,
+      "comments": 29,
       "is_new": false
     },
     {
@@ -1108,7 +1122,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 26,
+      "likes": 28,
       "is_new": false
     },
     {
@@ -1121,33 +1135,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 20,
-      "is_new": false
-    },
-    {
-      "id": "b99919dc0c27d2958af320cfedb259fb",
-      "title": "Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs",
-      "url": "https://huggingface.co/papers/2606.32032",
-      "description": "Metacognition is a critical component of intelligence that describes the ability to monitor and regulate one's own cognitive processes. Yet LLMs exhibit systemic deficiencies in key metacognitive facu",
-      "published": "2026-06-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 11,
-      "is_new": false
-    },
-    {
-      "id": "23478b67f3929e1aae72bfe4ef1c41e3",
-      "title": "TerraDiT-Ω: Unified Spatial Control for Satellite Image Synthesis with Any Geospatial Primitive",
-      "url": "https://huggingface.co/papers/2606.31029",
-      "description": "Generative models have achieved remarkable progress, yet applying them to satellite imagery remains challenging. Unlike natural imagery, satellite scenes are structured by spatially complex and semant",
-      "published": "2026-06-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
+      "likes": 21,
       "is_new": false
     },
     {
@@ -1161,7 +1149,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 79,
-      "comments": 21,
+      "comments": 22,
       "is_new": false
     },
     {
@@ -1203,6 +1191,32 @@
       "is_new": false
     },
     {
+      "id": "6465adfbdbc93fecbcd1c2bb3d29d5b9",
+      "title": "SWE-INTERACT: Reimagining SWE Benchmarks as User-Driven Long-Horizon Coding Sessions",
+      "url": "https://huggingface.co/papers/2606.30573",
+      "description": "We introduce SWE-Interact, a new testbed for evaluating coding agents on multi-turn, interactive, user-driven software engineering tasks. Existing frontier SWE benchmarks typically provide complete re",
+      "published": "2026-06-28T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "5c6fa61912627234a385dd1f921265e0",
+      "title": "Are We Measuring Strategy or Phrasing? The Gap Between Surface- and Approach-Level Diversity in LLM Math Reasoning",
+      "url": "https://huggingface.co/papers/2606.29985",
+      "description": "Diversity in LLM mathematical reasoning is critical for exploration, but common diversity metrics mostly capture surface-level variation rather than differences in how a problem is solved. We address ",
+      "published": "2026-06-28T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 9,
+      "is_new": true
+    },
+    {
       "id": "4492e12f1bc667833217e85fb184a093",
       "title": "MOPD: Multi-Teacher On-Policy Distillation for Capability Integration in LLM Post-Training",
       "url": "https://huggingface.co/papers/2606.30406",
@@ -1212,7 +1226,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -1242,32 +1256,6 @@
       "is_new": false
     },
     {
-      "id": "eded95f77d507794cd2bc82f851b2a07",
-      "title": "PhotoQuilt: Training-Free Arbitrary-Resolution Photomosaics via Bootstrapped Tiled Denoising",
-      "url": "https://huggingface.co/papers/2606.30968",
-      "description": "Photomosaics are large images whose local regions are seen as independent tiles while their overall arrangement forms a coherent scene. Generating them at high resolution, with every tile convincing i",
-      "published": "2026-06-28T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "b4395e3319cf7863a4ed2f30c9adc59b",
-      "title": "BrainJanus: A Unified Model for Understanding and Generation across Brain, Vision, and Language",
-      "url": "https://huggingface.co/papers/2606.30319",
-      "description": "Modeling the bidirectional correspondence between external sensory stimuli and internal neural activity has emerged as a critical frontier in neuroscience. However, existing approaches predominantly t",
-      "published": "2026-06-28T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 5,
-      "is_new": false
-    },
-    {
       "id": "4cd6d8f79d5e6b0be68fd203a25cd133",
       "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
       "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
@@ -1292,10 +1280,36 @@
       "points": 7,
       "comments": 5,
       "is_new": false
+    },
+    {
+      "id": "48706181",
+      "title": "Show HN: role-model, a router for hybrid local/cloud AI",
+      "url": "https://github.com/try-works/role-model",
+      "description": "",
+      "published": "2026-06-28T10:46:08Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 2,
+      "is_new": false
     }
   ],
   "by_category": {
     "news": [
+      {
+        "id": "af371092847a9aad96672ed0d11b29d3",
+        "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
+        "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+        "description": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites.",
+        "published": "Wed, 01 Jul 2026 17:48:37 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "01aa0951977394b56b5c4cc8efec06ab",
         "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
@@ -1525,16 +1539,18 @@
         "is_new": false
       },
       {
-        "id": "e2142c8f103223d299e191b677482d41",
-        "title": "The AI jobs debate just got messier",
-        "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
-        "description": "A new report finds \"high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs.",
-        "published": "Tue, 30 Jun 2026 04:01:00 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
+        "id": "48748977",
+        "title": "Stealing 50 Years of Database Ideas for AI Agents",
+        "url": "https://onewill.ai/blog/2026/stealing-50-years-of-database-ideas-for-ai-agents/",
+        "description": "",
+        "published": "2026-07-01T15:59:20Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
         "category": "news",
-        "is_new": false
+        "points": 8,
+        "comments": 0,
+        "is_new": true
       },
       {
         "id": "48747838",
@@ -1560,7 +1576,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 3,
+        "points": 5,
         "comments": 0,
         "is_new": false
       },
@@ -1574,8 +1590,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 21,
-        "comments": 11,
+        "points": 33,
+        "comments": 29,
         "is_new": false
       },
       {
@@ -1655,20 +1671,6 @@
         "source_icon": "🟧",
         "category": "news",
         "points": 2,
-        "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "48735301",
-        "title": "Show HN: fenic – LLMs as dataframe operators, query meaning and structure",
-        "url": "https://github.com/typedef-ai/fenic",
-        "description": "",
-        "published": "2026-06-30T16:39:40Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 3,
         "comments": 0,
         "is_new": false
       }
