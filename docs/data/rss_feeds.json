@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-01T14:48:21.893950+00:00",
+  "last_updated": "2026-07-01T15:48:34.304667+00:00",
   "total_entries": 110,
-  "new_entries": 13,
+  "new_entries": 3,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -57,7 +57,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "5d5a6e1dac13a57c09a2279e31226ced",
@@ -69,7 +69,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "482350f7f2a125b0818197b89cfc8a0a",
@@ -81,7 +81,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "d01b2b5aa529ea55265a68e6ebb4fed3",
@@ -93,7 +93,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "df664273bb94e4bd5ec21398f31a7937",
@@ -768,6 +768,20 @@
       "is_new": false
     },
     {
+      "id": "48747838",
+      "title": "Show HN: Multi-User Agent Workspace",
+      "url": "https://github.com/fred-terzi/totem-llm",
+      "description": "",
+      "published": "2026-07-01T14:52:41Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "48746983",
       "title": "Discovering Concept-Editing Algorithms with LLM Agents",
       "url": "https://dmodel.ai/concept-erasure/",
@@ -779,7 +793,7 @@
       "category": "news",
       "points": 3,
       "comments": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "48746752",
@@ -791,9 +805,9 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 13,
-      "comments": 4,
-      "is_new": true
+      "points": 21,
+      "comments": 11,
+      "is_new": false
     },
     {
       "id": "48744381",
@@ -831,7 +845,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "48741558",
@@ -1030,7 +1044,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3e8b1976331fe9adeeda7a943025c447",
@@ -1043,7 +1057,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "33785cb06c581aab0ef1c64f51bfa7fa",
@@ -1056,7 +1070,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "69906201ea26c5e948e5b8e88763f075",
@@ -1137,32 +1151,6 @@
       "is_new": false
     },
     {
-      "id": "c301f134b015cfe6e9bc79cecb8489fb",
-      "title": "BlockPilot: Instance-Adaptive Policy Learning for Diffusion-based Speculative Decoding",
-      "url": "https://huggingface.co/papers/2606.31315",
-      "description": "Speculative decoding accelerates inference by using a lightweight draft model to generate candidate tokens in parallel, and are then verified by the target model, enabling lossless acceleration. Recen",
-      "published": "2026-06-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 66,
-      "is_new": false
-    },
-    {
-      "id": "24a1650e7798e125ddc2407ab08861c5",
-      "title": "Xiaomi-GUI-0 Technical Report",
-      "url": "https://huggingface.co/papers/2606.31410",
-      "description": "Graphical user interface (GUI) agents build on vision-language models to complete user tasks end-to-end in real applications through interface actions such as tapping, swiping, text entry, and navigat",
-      "published": "2026-06-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 7,
-      "is_new": false
-    },
-    {
       "id": "48722802",
       "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
       "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
@@ -1225,7 +1213,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "207731a2a2497f1a3ebecfe393283f42",
@@ -1238,7 +1226,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "77de62675fc4819cf24756ed3189adf1",
@@ -1290,6 +1278,20 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "48706317",
+      "title": "Show HN: AgentWatch – Prevent runaway AI agents with runtime budget enforcement",
+      "url": "https://agent-watch.dev/",
+      "description": "",
+      "published": "2026-06-28T11:09:20Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 7,
+      "comments": 5,
+      "is_new": false
     }
   ],
   "by_category": {
@@ -1304,7 +1306,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "5d5a6e1dac13a57c09a2279e31226ced",
@@ -1316,7 +1318,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "482350f7f2a125b0818197b89cfc8a0a",
@@ -1328,7 +1330,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "d01b2b5aa529ea55265a68e6ebb4fed3",
@@ -1340,7 +1342,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "df664273bb94e4bd5ec21398f31a7937",
@@ -1535,6 +1537,20 @@
         "is_new": false
       },
       {
+        "id": "48747838",
+        "title": "Show HN: Multi-User Agent Workspace",
+        "url": "https://github.com/fred-terzi/totem-llm",
+        "description": "",
+        "published": "2026-07-01T14:52:41Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 2,
+        "comments": 0,
+        "is_new": true
+      },
+      {
         "id": "48746983",
         "title": "Discovering Concept-Editing Algorithms with LLM Agents",
         "url": "https://dmodel.ai/concept-erasure/",
@@ -1546,7 +1562,7 @@
         "category": "news",
         "points": 3,
         "comments": 0,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "48746752",
@@ -1558,9 +1574,9 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 13,
-        "comments": 4,
-        "is_new": true
+        "points": 21,
+        "comments": 11,
+        "is_new": false
       },
       {
         "id": "48744381",
@@ -1598,7 +1614,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "48741558",
@@ -1654,18 +1670,6 @@
         "category": "news",
         "points": 3,
         "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "ee6c50661691a546b074d44a4051b2b0",
-        "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
-        "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
-        "description": "Google's NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultra and Pro subscribers, allowing NotebookLM to generate 60-sec",
-        "published": "2026-06-30T15:24:51-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
         "is_new": false
       }
     ],
