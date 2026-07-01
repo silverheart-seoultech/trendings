@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-01T10:09:33.299604+00:00",
+  "last_updated": "2026-07-01T12:45:43.873071+00:00",
   "total_entries": 110,
-  "new_entries": 1,
+  "new_entries": 4,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -782,6 +782,30 @@
       "is_new": false
     },
     {
+      "id": "474d4e312b75529049cc8349e26140e7",
+      "title": "Google built a great smart speaker, but Gemini isn’t ready for it",
+      "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
+      "description": "Smart speakers have spent the past few years searching for a compelling second act. Beyond music, timers, and controlling your lights, they've struggled to justify taking up space on the kitchen count",
+      "published": "2026-07-01T08:05:58-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "b13e4677f11359b95a94ed6ab8f884fd",
+      "title": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+      "description": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access W",
+      "published": "2026-07-01T05:39:23-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": false
+    },
+    {
       "id": "48741558",
       "title": "Show HN: Sibyl – self-hosted cross-agent memory for AI coding agents",
       "url": "https://github.com/hyperb1iss/sibyl",
@@ -791,7 +815,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 2,
+      "points": 3,
       "comments": 0,
       "is_new": false
     },
@@ -968,6 +992,32 @@
       "is_new": false
     },
     {
+      "id": "3e8b1976331fe9adeeda7a943025c447",
+      "title": "QVal: Cheaply Evaluating Dense Supervision Signals for Long-Horizon LLM Agents",
+      "url": "https://huggingface.co/papers/2606.32034",
+      "description": "LLM agents increasingly act over long horizons, where a single trajectory can contain hundreds or thousands of actions. In these settings, outcome-only rewards provide too sparse guidance, failing to ",
+      "published": "2026-06-29T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
+      "id": "33785cb06c581aab0ef1c64f51bfa7fa",
+      "title": "FlexiSLM: A Dynamic and Controllable Frame Rate Spoken Language Model",
+      "url": "https://huggingface.co/papers/2606.31247",
+      "description": "Spoken language models (SLMs) extend LLMs to speech input and output. Existing SLMs represent speech at fixed frame rates (e.g., 25 or 12.5 Hz), ignoring the time-varying information density of speech",
+      "published": "2026-06-29T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "69906201ea26c5e948e5b8e88763f075",
       "title": "DataEvolver: Self-Evolving Multi-Agent Data Construction for Text-Rich Image Generation",
       "url": "https://huggingface.co/papers/2606.31537",
@@ -977,7 +1027,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
+      "likes": 9,
       "is_new": false
     },
     {
@@ -990,7 +1040,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 1,
       "is_new": false
     },
     {
@@ -1003,7 +1053,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 21,
+      "likes": 25,
       "is_new": false
     },
     {
@@ -1016,7 +1066,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 16,
+      "likes": 19,
       "is_new": false
     },
     {
@@ -1029,7 +1079,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
+      "likes": 7,
       "is_new": false
     },
     {
@@ -1055,7 +1105,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 64,
+      "likes": 65,
       "is_new": false
     },
     {
@@ -1068,7 +1118,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 6,
       "is_new": false
     },
     {
@@ -1146,7 +1196,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
+      "likes": 9,
       "is_new": false
     },
     {
@@ -1172,7 +1222,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -1185,33 +1235,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 161,
-      "is_new": false
-    },
-    {
-      "id": "f2c25c5815010f99a4157fe494c0cb82",
-      "title": "AVTok: 1D Unified Tokenization for Holistic Audio-Video Generation",
-      "url": "https://huggingface.co/papers/2606.30811",
-      "description": "Audio-video generation has recently gained unprecedented research attention, aiming to synthesize high-quality sounding video content with fine-grained synchronization and semantic alignment between t",
-      "published": "2026-06-28T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "e1a201dc6b8fddbd0a661f439314bb79",
-      "title": "DOPD: Dual On-policy Distillation",
-      "url": "https://huggingface.co/papers/2606.30626",
-      "description": "On-policy distillation (OPD) offers superior capacity transfer by supervising student-sampled trajectories with dense token-level signals. To furnish high-quality supervision sources and thereby eleva",
-      "published": "2026-06-28T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 61,
+      "likes": 165,
       "is_new": false
     },
     {
@@ -1220,18 +1244,6 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
       "description": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from",
       "published": "2026-06-28T17:42:51-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "863beb6b5eb1e3302857636b01246122",
-      "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
-      "description": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for independent artists t",
-      "published": "2026-06-28T16:27:36-04:00",
       "source_id": "theverge-ai",
       "source_name": "The Verge AI",
       "source_icon": "📰",
@@ -1265,18 +1277,6 @@
       "points": 2,
       "comments": 2,
       "is_new": false
-    },
-    {
-      "id": "6e7f4c864b7c5f7eb119128087c353e0",
-      "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
-      "description": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to locati",
-      "published": "2026-06-28T10:12:06-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": true
     },
     {
       "id": "48703260",
@@ -1550,6 +1550,30 @@
         "is_new": false
       },
       {
+        "id": "474d4e312b75529049cc8349e26140e7",
+        "title": "Google built a great smart speaker, but Gemini isn’t ready for it",
+        "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
+        "description": "Smart speakers have spent the past few years searching for a compelling second act. Beyond music, timers, and controlling your lights, they've struggled to justify taking up space on the kitchen count",
+        "published": "2026-07-01T08:05:58-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "b13e4677f11359b95a94ed6ab8f884fd",
+        "title": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+        "description": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access W",
+        "published": "2026-07-01T05:39:23-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
         "id": "48741558",
         "title": "Show HN: Sibyl – self-hosted cross-agent memory for AI coding agents",
         "url": "https://github.com/hyperb1iss/sibyl",
@@ -1559,7 +1583,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 2,
+        "points": 3,
         "comments": 0,
         "is_new": false
       },
@@ -1637,32 +1661,6 @@
         "url": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
         "description": "A new teaser trailer confirmed that Wonka's The Golden Ticket will premiere on Netflix on September 23rd, following its Squid Game reality show in the trend of creating real competitions based on fict",
         "published": "2026-06-30T13:24:34-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "48732413",
-        "title": "Show HN: SUNWÆE – your life's AI OS",
-        "url": "https://news.ycombinator.com/item?id=48732413",
-        "description": "",
-        "published": "2026-06-30T13:21:31Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 2,
-        "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "c6680161de8088d0fb060077393ee6d8",
-        "title": "Meet the lawyer who beat Elon Musk — twice",
-        "url": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
-        "description": "Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist about his AI failures - was a bit like watching a to",
-        "published": "2026-06-30T08:59:20-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
