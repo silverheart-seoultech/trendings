@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-02T20:36:19.502433+00:00",
+  "last_updated": "2026-07-02T22:17:04.651207+00:00",
   "total_entries": 110,
-  "new_entries": 7,
+  "new_entries": 8,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -207,7 +207,7 @@
       "id": "f4b4508296004a842e3deb7086bba681",
       "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
       "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
-      "description": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But low and behold.",
+      "description": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.",
       "published": "Thu, 02 Jul 2026 20:11:59 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
@@ -857,7 +857,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 6,
+      "points": 7,
       "comments": 0,
       "is_new": false
     },
@@ -1020,19 +1020,6 @@
       "is_new": false
     },
     {
-      "id": "9ded360f47b305e4b98a55ca3a36e482",
-      "title": "The State-Prediction Separation Hypothesis",
-      "url": "https://huggingface.co/papers/2607.01218",
-      "description": "Transformers use the same forward computation stream to both predict the next token and store useful state for future token predictions. We formulate the state-prediction separation hypothesis: disent",
-      "published": "2026-06-30T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 7,
-      "is_new": false
-    },
-    {
       "id": "48735742",
       "title": "Show HN: Trajeckt, a Firewall for AI Agents",
       "url": "https://github.com/beebeeVB/trajeckt/",
@@ -1191,6 +1178,19 @@
       "is_new": false
     },
     {
+      "id": "997e2c1b70d0745c91a92b2f62314eef",
+      "title": "GRPO, Dr. GRPO, and DAPO Are Three Operations on One Number: The Group-Standard-Deviation Identity",
+      "url": "https://huggingface.co/papers/2607.00152",
+      "description": "Three of the most popular methods for training language models to reason look like three different tricks. They are not. All three adjust a single number: standard deviation, reflecting how much a pro",
+      "published": "2026-06-29T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "cf1b14260a9de2dda1c425571591ddf5",
       "title": "HealthAgentBench: A Unified Benchmark Suite of Realistic Agentic Healthcare Environments for Challenging Frontier AI Agents",
       "url": "https://huggingface.co/papers/2606.31179",
@@ -1200,7 +1200,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": true
     },
     {
@@ -1226,7 +1226,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 15,
+      "likes": 16,
       "is_new": false
     },
     {
@@ -1239,20 +1239,21 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 11,
+      "likes": 12,
       "is_new": false
     },
     {
-      "id": "12db252c3cc0e88f0771879eda9e0514",
-      "title": "When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors",
-      "url": "https://huggingface.co/papers/2606.32029",
-      "description": "While large language models (LLMs) perform well on table tasks, they still make data referencing errors (DREs), i.e., incorrectly citing or omitting table values, despite understanding the table struc",
-      "published": "2026-06-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
+      "id": "48722802",
+      "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
+      "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
+      "description": "",
+      "published": "2026-06-29T18:03:26Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 80,
+      "comments": 22,
       "is_new": false
     },
     {
@@ -1456,7 +1457,7 @@
         "id": "f4b4508296004a842e3deb7086bba681",
         "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
         "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
-        "description": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But low and behold.",
+        "description": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.",
         "published": "Thu, 02 Jul 2026 20:11:59 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
@@ -1626,7 +1627,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 6,
+        "points": 7,
         "comments": 0,
         "is_new": false
       },
