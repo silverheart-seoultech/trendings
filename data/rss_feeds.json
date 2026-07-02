@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-02T04:19:00.970098+00:00",
+  "last_updated": "2026-07-02T08:23:14.363153+00:00",
   "total_entries": 110,
-  "new_entries": 1,
+  "new_entries": 11,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -276,16 +276,16 @@
       "is_new": false
     },
     {
-      "id": "ba1797ae41939664eefbac4f5be4111a",
-      "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
-      "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
-      "description": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency.",
-      "published": "Tue, 30 Jun 2026 15:00:00 +0000",
+      "id": "f23d1aa63f1a4526ff965951ee346fa1",
+      "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+      "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+      "description": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office, Google Apps with AI.",
+      "published": "Thu, 02 Jul 2026 05:30:00 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "6b43ceed436198121b1967222cfc6021",
@@ -768,6 +768,20 @@
       "is_new": false
     },
     {
+      "id": "48756596",
+      "title": "Show HN: Margarita - Programming language for Agents using Markdown-ish syntax",
+      "url": "https://www.margarita.run",
+      "description": "",
+      "published": "2026-07-02T04:31:51Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 3,
+      "comments": 1,
+      "is_new": true
+    },
+    {
       "id": "48751798",
       "title": "0/6 major aerospace documentation portals are AI Agent-ready",
       "url": "https://news.ycombinator.com/item?id=48751798",
@@ -791,7 +805,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 8,
+      "points": 9,
       "comments": 0,
       "is_new": false
     },
@@ -845,8 +859,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 50,
-      "comments": 46,
+      "points": 51,
+      "comments": 50,
       "is_new": false
     },
     {
@@ -918,6 +932,71 @@
       "is_new": false
     },
     {
+      "id": "5ee0d705bbd3bf77582aa16af405116d",
+      "title": "Personalization as Inverse Planning: Learning Latent Design Intents for Agentic Slide Generation via Structural Denoising",
+      "url": "https://huggingface.co/papers/2607.00407",
+      "description": "Slide design requires personalizing both deck themes and page layouts. Yet, current AI agent-based methods struggle with fine-grained, page-level design. Solely relying on prespecified templates or us",
+      "published": "2026-06-30T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "ffb324a3d03faa07f7720ce0f1cd5153",
+      "title": "NoPA: Non-Parametric Online 3D Scene Graph Generation",
+      "url": "https://huggingface.co/papers/2607.00529",
+      "description": "Classic 3D scene graph generation approaches fail to work in real-time due to the heavy computational cost of environment mapping and the need to generate intermediate point-cloud representations. To ",
+      "published": "2026-06-30T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "6d2fc1742a04503f059eb54f5936236d",
+      "title": "Multimodal Continuous Reasoning via Asymmetric Mutual Variational Learning",
+      "url": "https://huggingface.co/papers/2607.00461",
+      "description": "Multimodal Large Language Models (MLLMs) are often constrained by a language-space bottleneck, forcing complex visual reasoning into discrete tokens which can lose perceptual nuance. A promising alter",
+      "published": "2026-06-30T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 11,
+      "is_new": true
+    },
+    {
+      "id": "e9106f8c7e6e4ab2a6e80af3c6890ea5",
+      "title": "ELDR: Expert-Locality-Aware Decode Routing for PD-Disaggregated MoE Serving",
+      "url": "https://huggingface.co/papers/2607.00466",
+      "description": "In prefill-decode (PD) disaggregated LLM serving, each request is assigned to a decode worker after prefill. Existing decode routers balance only load; for mixture-of-experts (MoE) models this is inco",
+      "published": "2026-06-30T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 16,
+      "is_new": true
+    },
+    {
+      "id": "88b780cf35dcd951723348dd3022d426",
+      "title": "MemSyco-Bench: Benchmarking Sycophancy in Agent Memory",
+      "url": "https://huggingface.co/papers/2607.01071",
+      "description": "Memory has emerged as a cornerstone of modern LLM-based agents, supporting their evolution from single-turn assistants to long-term collaborators. However, memory is not always beneficial: retrieved m",
+      "published": "2026-06-30T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 17,
+      "is_new": true
+    },
+    {
       "id": "9ded360f47b305e4b98a55ca3a36e482",
       "title": "The State-Prediction Separation Hypothesis",
       "url": "https://huggingface.co/papers/2607.01218",
@@ -940,7 +1019,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 9,
       "is_new": false
     },
     {
@@ -953,7 +1032,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
+      "likes": 9,
       "is_new": false
     },
     {
@@ -966,7 +1045,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 11,
+      "likes": 15,
       "is_new": false
     },
     {
@@ -979,7 +1058,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -992,7 +1071,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -1005,33 +1084,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "169cba9cbf9d4cd4b98df8619e3fd533",
-      "title": "VideoSearch-R1: Iterative Video Retrieval and Reasoning via Soft Query Refinement",
-      "url": "https://huggingface.co/papers/2607.00446",
-      "description": "As video corpora continue to expand in both scale and task complexity, there is increasing demand for approaches that retrieve relevant videos from large-scale corpora (inter-video reasoning) and subs",
-      "published": "2026-06-30T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 9,
-      "is_new": false
-    },
-    {
-      "id": "cfdd801e088c9a165a5ca253450a5378",
-      "title": "RepoRescue: An Empirical Study of LLM Agents on Whole-Repository Compatibility Rescue",
-      "url": "https://huggingface.co/papers/2607.01213",
-      "description": "Open-source libraries and tools are widely reused, but compatibility maintenance is expensive. Once maintainers leave, useful repositories can stop working as runtimes and dependencies evolve. We stud",
-      "published": "2026-06-30T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -1193,6 +1246,32 @@
       "is_new": false
     },
     {
+      "id": "870665adec961de1fdc9d809f1cb1c8c",
+      "title": "Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity",
+      "url": "https://huggingface.co/papers/2607.00248",
+      "description": "We present Seed2.0, a model series that takes a meaningful step toward solving complex, real-world tasks. Our approach begins with identifying users' genuine needs and constructing a reliable, forward",
+      "published": "2026-06-29T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
+    },
+    {
+      "id": "b63591eeefd343bbc503ddf0e3195262",
+      "title": "ASPIRE: Agentic /Skills Discovery for Robotics",
+      "url": "https://huggingface.co/papers/2607.00272",
+      "description": "Traditional robot programming is challenging: it requires orchestrating multimodal perception, managing physical contact dynamics, and handling diverse configurations and execution failures. We introd",
+      "published": "2026-06-29T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 7,
+      "is_new": true
+    },
+    {
       "id": "12db252c3cc0e88f0771879eda9e0514",
       "title": "When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors",
       "url": "https://huggingface.co/papers/2606.32029",
@@ -1202,7 +1281,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": true
     },
     {
@@ -1215,86 +1294,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "19a23aa65b1ffb6511bd7454226da889",
-      "title": "AtomiMed: Hierarchical Atomic Fact-Checking for Universal Clinical-Aware Medical Report Evaluation",
-      "url": "https://huggingface.co/papers/2606.31292",
-      "description": "Traditional metrics for Medical Report Generation (MRG) predominantly rely on surface-level n-gram overlap, which fails to capture clinical factual accuracy and often overlooks catastrophic diagnostic",
-      "published": "2026-06-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "18364012eb8af2d8eefbac68ca26cf5d",
-      "title": "SpheRoPE: Zero-Shot Optimization-Free 360 Panorama Generation with Spherical RoPE",
-      "url": "https://huggingface.co/papers/2606.32033",
-      "description": "We present a zero-shot, training-free and optimization-free framework for generating 360 panoramic images and videos by directly injecting spherical priors into pre-trained diffusion transformers. Exi",
-      "published": "2026-06-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "a462dae191b0a50b84280eff6e7b12e2",
-      "title": "TRIAGE: Role-Typed Credit Assignment for Agentic Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2606.32017",
-      "description": "Agentic reinforcement learning requires assigning credit to environment-facing actions such as searches, clicks, edits, navigation commands, and object interactions. Standard GRPO uses the final verif",
-      "published": "2026-06-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 6,
-      "is_new": false
-    },
-    {
-      "id": "48722802",
-      "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
-      "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
-      "description": "",
-      "published": "2026-06-29T18:03:26Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 79,
-      "comments": 22,
-      "is_new": false
-    },
-    {
-      "id": "d4377941c232e77e6c7064e4169179a2",
-      "title": "OpenAI is teasing new hardware… for Codex",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
-      "description": "OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th. In a video posted to X on Monday, OpenAI shows a square-shaped device with several buttons, alongsid",
-      "published": "2026-06-29T14:52:41-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "48719453",
-      "title": "Show HN: Hail.so – Send and receive emails, calls, SMS via a single MCP/API/CLI",
-      "url": "https://hail.so/",
-      "description": "",
-      "published": "2026-06-29T14:05:34Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 1,
-      "comments": 0,
+      "likes": 3,
       "is_new": false
     }
   ],
@@ -1529,16 +1529,30 @@
         "is_new": false
       },
       {
-        "id": "ba1797ae41939664eefbac4f5be4111a",
-        "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
-        "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
-        "description": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency.",
-        "published": "Tue, 30 Jun 2026 15:00:00 +0000",
+        "id": "f23d1aa63f1a4526ff965951ee346fa1",
+        "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+        "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+        "description": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office, Google Apps with AI.",
+        "published": "Thu, 02 Jul 2026 05:30:00 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
+        "is_new": true
+      },
+      {
+        "id": "48756596",
+        "title": "Show HN: Margarita - Programming language for Agents using Markdown-ish syntax",
+        "url": "https://www.margarita.run",
+        "description": "",
+        "published": "2026-07-02T04:31:51Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 3,
+        "comments": 1,
+        "is_new": true
       },
       {
         "id": "48751798",
@@ -1564,7 +1578,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 8,
+        "points": 9,
         "comments": 0,
         "is_new": false
       },
@@ -1618,8 +1632,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 50,
-        "comments": 46,
+        "points": 51,
+        "comments": 50,
         "is_new": false
       },
       {
@@ -1660,20 +1674,6 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "48741558",
-        "title": "Show HN: Sibyl – self-hosted cross-agent memory for AI coding agents",
-        "url": "https://github.com/hyperb1iss/sibyl",
-        "description": "",
-        "published": "2026-07-01T02:03:01Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 3,
-        "comments": 0,
         "is_new": false
       }
     ],
