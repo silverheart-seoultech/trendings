@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-02T11:41:50.359927+00:00",
+  "last_updated": "2026-07-02T14:16:46.893361+00:00",
   "total_entries": 110,
-  "new_entries": 3,
+  "new_entries": 7,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -252,34 +252,34 @@
       "is_new": false
     },
     {
-      "id": "fdb4e43bcfbf8de26fa22719e9b0c409",
-      "title": "X now offers an MCP server to make its platform easier for AI tools to use",
-      "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
-      "description": "X has launched a hosted MCP server, making it easier for developers to connect AI applications with the company’s API.",
-      "published": "Tue, 30 Jun 2026 15:08:42 +0000",
+      "id": "86d262543960e8925c54a41e313bb2a7",
+      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+      "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+      "description": "Microsoft follows Amazon, OpenAI and Anthropic with its new AI deployment group.",
+      "published": "Thu, 02 Jul 2026 13:53:00 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": false
+      "is_new": true
     },
     {
-      "id": "2919bc4057bf1d8c0cb18e6e1bf768c0",
-      "title": "Podcasting platform Riverside enters the newsletter publishing game",
-      "url": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/",
-      "description": "Users will be able use AI to create newsletters based on their recordings.",
-      "published": "Tue, 30 Jun 2026 15:00:00 +0000",
+      "id": "cdac07352f7ef01a6b3bf67e725b6987",
+      "title": "Yep, we’re using OpenClaw to date now",
+      "url": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
+      "description": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials.",
+      "published": "Thu, 02 Jul 2026 12:00:00 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "f23d1aa63f1a4526ff965951ee346fa1",
       "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
       "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
-      "description": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office, Google Apps with AI.",
+      "description": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office and Google Apps with AI.",
       "published": "Thu, 02 Jul 2026 05:30:00 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
@@ -789,8 +789,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 5,
-      "comments": 1,
+      "points": 6,
+      "comments": 3,
       "is_new": false
     },
     {
@@ -817,7 +817,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 9,
+      "points": 10,
       "comments": 0,
       "is_new": false
     },
@@ -871,8 +871,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 52,
-      "comments": 50,
+      "points": 53,
+      "comments": 54,
       "is_new": false
     },
     {
@@ -953,7 +953,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": true
     },
     {
@@ -966,7 +966,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -1005,7 +1005,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 12,
+      "likes": 14,
       "is_new": false
     },
     {
@@ -1018,7 +1018,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 16,
+      "likes": 17,
       "is_new": false
     },
     {
@@ -1044,7 +1044,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 7,
       "is_new": false
     },
     {
@@ -1070,33 +1070,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 11,
-      "is_new": false
-    },
-    {
-      "id": "3a7be9de820e0ad7cdd95cbc38a98937",
-      "title": "Domain Arithmetic: One-Shot VLA Adaptation under Environmental Shifts",
-      "url": "https://huggingface.co/papers/2607.00666",
-      "description": "Vision-Language-Action (VLA) models often fail to perform the same learned tasks under environmental shifts, such as changes in camera pose and shifts to a different but similar robot (e.g., from Pand",
-      "published": "2026-06-30T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 15,
-      "is_new": false
-    },
-    {
-      "id": "d1a32d3b713a279b975688873af1c9d3",
-      "title": "ABot-M0.5: Unified Mobility-and-Manipulation World Action Model",
-      "url": "https://huggingface.co/papers/2607.00678",
-      "description": "Mobile manipulation is a key capability for general-purpose robots, yet remains challenging for current embodied learning methods. VLA policies are typically reactive and lack explicit world modeling,",
-      "published": "2026-06-30T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 8,
+      "likes": 12,
       "is_new": false
     },
     {
@@ -1280,7 +1254,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
+      "likes": 9,
       "is_new": false
     },
     {
@@ -1293,7 +1267,33 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
+      "likes": 8,
+      "is_new": false
+    },
+    {
+      "id": "12db252c3cc0e88f0771879eda9e0514",
+      "title": "When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors",
+      "url": "https://huggingface.co/papers/2606.32029",
+      "description": "While large language models (LLMs) perform well on table tasks, they still make data referencing errors (DREs), i.e., incorrectly citing or omitting table values, despite understanding the table struc",
+      "published": "2026-06-29T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": false
+    },
+    {
+      "id": "7509128315138a8fd5a07cc9989c7761",
+      "title": "AutoTrainess: Teaching Language Models to Improve Language Models Autonomously",
+      "url": "https://huggingface.co/papers/2606.31551",
+      "description": "Training language models (LMs) remains a highly human-intensive process, even as frontier language model agents become increasingly capable at software engineering and other long-horizon tasks. A cent",
+      "published": "2026-06-29T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 6,
       "is_new": false
     }
   ],
@@ -1504,34 +1504,34 @@
         "is_new": false
       },
       {
-        "id": "fdb4e43bcfbf8de26fa22719e9b0c409",
-        "title": "X now offers an MCP server to make its platform easier for AI tools to use",
-        "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
-        "description": "X has launched a hosted MCP server, making it easier for developers to connect AI applications with the company’s API.",
-        "published": "Tue, 30 Jun 2026 15:08:42 +0000",
+        "id": "86d262543960e8925c54a41e313bb2a7",
+        "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+        "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+        "description": "Microsoft follows Amazon, OpenAI and Anthropic with its new AI deployment group.",
+        "published": "Thu, 02 Jul 2026 13:53:00 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
+        "is_new": true
       },
       {
-        "id": "2919bc4057bf1d8c0cb18e6e1bf768c0",
-        "title": "Podcasting platform Riverside enters the newsletter publishing game",
-        "url": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/",
-        "description": "Users will be able use AI to create newsletters based on their recordings.",
-        "published": "Tue, 30 Jun 2026 15:00:00 +0000",
+        "id": "cdac07352f7ef01a6b3bf67e725b6987",
+        "title": "Yep, we’re using OpenClaw to date now",
+        "url": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
+        "description": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials.",
+        "published": "Thu, 02 Jul 2026 12:00:00 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
+        "is_new": true
       },
       {
         "id": "f23d1aa63f1a4526ff965951ee346fa1",
         "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
         "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
-        "description": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office, Google Apps with AI.",
+        "description": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office and Google Apps with AI.",
         "published": "Thu, 02 Jul 2026 05:30:00 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
@@ -1561,8 +1561,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 5,
-        "comments": 1,
+        "points": 6,
+        "comments": 3,
         "is_new": false
       },
       {
@@ -1589,7 +1589,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 9,
+        "points": 10,
         "comments": 0,
         "is_new": false
       },
@@ -1643,8 +1643,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 52,
-        "comments": 50,
+        "points": 53,
+        "comments": 54,
         "is_new": false
       },
       {
