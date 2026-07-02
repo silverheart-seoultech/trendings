@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-02T09:23:14.255073+00:00",
+  "last_updated": "2026-07-02T11:41:50.359927+00:00",
   "total_entries": 110,
-  "new_entries": 13,
+  "new_entries": 3,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -285,7 +285,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "6b43ceed436198121b1967222cfc6021",
@@ -768,6 +768,18 @@
       "is_new": false
     },
     {
+      "id": "3afaca491ac0206acc39c27e6dc1eb27",
+      "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
+      "description": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Fin",
+      "published": "2026-07-02T06:23:27-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "48756596",
       "title": "Show HN: Margarita - Programming language for Agents using Markdown-ish syntax",
       "url": "https://www.margarita.run",
@@ -777,9 +789,9 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 3,
+      "points": 5,
       "comments": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "48751798",
@@ -859,7 +871,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 51,
+      "points": 52,
       "comments": 50,
       "is_new": false
     },
@@ -932,6 +944,19 @@
       "is_new": false
     },
     {
+      "id": "a6477ea7b30f1a7af8fbd34552aac43b",
+      "title": "Graph-Native Reinforcement Learning Enables Traceable Scientific Hypothesis Generation through Conceptual Recombination",
+      "url": "https://huggingface.co/papers/2607.00924",
+      "description": "Accelerating materials discovery requires AI systems that can generate scientifically valid hypotheses through multi-step, domain-grounded reasoning. Standard large language models often produce fluen",
+      "published": "2026-06-30T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
       "id": "c09a6c82948d2d898abad3d1938101a1",
       "title": "Cross-Domain Generalization Failure in Lightweight Intrusion Detection Models for IIoT Networks",
       "url": "https://huggingface.co/papers/2607.00553",
@@ -942,7 +967,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "5ee0d705bbd3bf77582aa16af405116d",
@@ -955,7 +980,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "ffb324a3d03faa07f7720ce0f1cd5153",
@@ -968,7 +993,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "6d2fc1742a04503f059eb54f5936236d",
@@ -980,8 +1005,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 11,
-      "is_new": true
+      "likes": 12,
+      "is_new": false
     },
     {
       "id": "e9106f8c7e6e4ab2a6e80af3c6890ea5",
@@ -994,7 +1019,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 16,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "88b780cf35dcd951723348dd3022d426",
@@ -1007,7 +1032,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 17,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "9ded360f47b305e4b98a55ca3a36e482",
@@ -1019,7 +1044,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 5,
       "is_new": false
     },
     {
@@ -1045,7 +1070,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 11,
       "is_new": false
     },
     {
@@ -1071,33 +1096,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
-      "is_new": false
-    },
-    {
-      "id": "80ba1ffb865457bf46f26ee3f1209be3",
-      "title": "Valdi: Value Diffusion World Models",
-      "url": "https://huggingface.co/papers/2607.00917",
-      "description": "World models can enable Model Predictive Control (MPC), but this requires dynamics prediction that is both fast enough for online use and expressive enough to represent uncertain futures. Diffusion mo",
-      "published": "2026-06-30T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "4a7f35d5b50d63acfc5629ab4fa2109a",
-      "title": "Autonomous Scientific Discovery via Iterative Meta-Reflection",
-      "url": "https://huggingface.co/papers/2607.01131",
-      "description": "Autonomous scientific discovery systems offer the potential to accelerate research by automating the process of hypothesis generation and validation. However, current systems operate within constraine",
-      "published": "2026-06-30T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
+      "likes": 8,
       "is_new": false
     },
     {
@@ -1259,6 +1258,19 @@
       "is_new": false
     },
     {
+      "id": "a660904c093c3782cd9d637d56d907df",
+      "title": "PixelEyes: Decoupling Perception and Reasoning for Pinpoint Visual Evidence Seeking",
+      "url": "https://huggingface.co/papers/2607.00115",
+      "description": "This paper explores multi-turn visual reasoning and observes that MLLMs repeatedly fail to localize the target, leading to long, redundant trajectories. We attribute this failure to the entanglement o",
+      "published": "2026-06-29T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "870665adec961de1fdc9d809f1cb1c8c",
       "title": "Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity",
       "url": "https://huggingface.co/papers/2607.00248",
@@ -1268,8 +1280,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
-      "is_new": true
+      "likes": 6,
+      "is_new": false
     },
     {
       "id": "b63591eeefd343bbc503ddf0e3195262",
@@ -1282,20 +1294,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 7,
-      "is_new": true
-    },
-    {
-      "id": "12db252c3cc0e88f0771879eda9e0514",
-      "title": "When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors",
-      "url": "https://huggingface.co/papers/2606.32029",
-      "description": "While large language models (LLMs) perform well on table tasks, they still make data referencing errors (DREs), i.e., incorrectly citing or omitting table values, despite understanding the table struc",
-      "published": "2026-06-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": true
+      "is_new": false
     }
   ],
   "by_category": {
@@ -1538,6 +1537,18 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "3afaca491ac0206acc39c27e6dc1eb27",
+        "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
+        "description": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Fin",
+        "published": "2026-07-02T06:23:27-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
         "is_new": true
       },
       {
@@ -1550,9 +1561,9 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 3,
+        "points": 5,
         "comments": 1,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "48751798",
@@ -1632,7 +1643,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 51,
+        "points": 52,
         "comments": 50,
         "is_new": false
       },
@@ -1662,18 +1673,6 @@
         "category": "news",
         "points": 1,
         "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "b13e4677f11359b95a94ed6ab8f884fd",
-        "title": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
-        "description": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access W",
-        "published": "2026-07-01T09:11:31-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
         "is_new": false
       }
     ],
