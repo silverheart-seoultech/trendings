@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-02T19:40:39.186447+00:00",
+  "last_updated": "2026-07-02T20:36:19.502433+00:00",
   "total_entries": 110,
-  "new_entries": 6,
+  "new_entries": 7,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -204,16 +204,16 @@
       "is_new": false
     },
     {
-      "id": "ffde7cf4c1120cdc960288ae02e8c65e",
-      "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
-      "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
-      "description": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip.",
-      "published": "Tue, 30 Jun 2026 18:13:02 +0000",
+      "id": "f4b4508296004a842e3deb7086bba681",
+      "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
+      "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+      "description": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But low and behold.",
+      "published": "Thu, 02 Jul 2026 20:11:59 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "a37f0922b8675590dd8a2da4c133b2c2",
@@ -225,7 +225,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "bb53a1477cfbc1f89072eb19e1ddcd17",
@@ -237,7 +237,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "638b856bf5e432b0b80af86a6529f99f",
@@ -249,7 +249,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "86d262543960e8925c54a41e313bb2a7",
@@ -777,9 +777,9 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 7,
+      "points": 8,
       "comments": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3afaca491ac0206acc39c27e6dc1eb27",
@@ -818,20 +818,6 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 2,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "48748977",
-      "title": "Stealing 50 Years of Database Ideas for AI Agents",
-      "url": "https://onewill.ai/blog/2026/stealing-50-years-of-database-ideas-for-ai-agents/",
-      "description": "",
-      "published": "2026-07-01T15:59:20Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 10,
       "comments": 0,
       "is_new": false
     },
@@ -885,22 +871,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 53,
+      "points": 54,
       "comments": 54,
-      "is_new": false
-    },
-    {
-      "id": "48745156",
-      "title": "Show HN: Afair – Self-organizing memory shared across your AI tools",
-      "url": "https://github.com/afairai/afair",
-      "description": "",
-      "published": "2026-07-01T11:40:57Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 1,
-      "comments": 0,
       "is_new": false
     },
     {
@@ -944,20 +916,6 @@
       "is_new": false
     },
     {
-      "id": "48739468",
-      "title": "Show HN: Mimir – local-first encrypted memory for AI agents (single Rust binary)",
-      "url": "https://github.com/Perseus-Computing-LLC/mimir",
-      "description": "",
-      "published": "2026-06-30T21:29:21Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 2,
-      "is_new": false
-    },
-    {
       "id": "5c35fd561a54e0876f6efea1b6cf4c6a",
       "title": "Are Performance-Optimization Benchmarks Reliably Measuring Coding Agents?",
       "url": "https://huggingface.co/papers/2607.01211",
@@ -967,8 +925,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
-      "is_new": true
+      "likes": 4,
+      "is_new": false
     },
     {
       "id": "a6477ea7b30f1a7af8fbd34552aac43b",
@@ -1072,19 +1030,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 7,
-      "is_new": false
-    },
-    {
-      "id": "8a8e89ac13a0dbd41cbabd551003fc7f",
-      "title": "Perceive-to-Reason: Decoupling Perception and Reasoning for Fine-Grained Visual Reasoning",
-      "url": "https://huggingface.co/papers/2607.01191",
-      "description": "Fine-grained visual reasoning remains challenging for vision-language models, especially when small but critical visual cues are buried in high-resolution images. Existing approaches rely on repeated ",
-      "published": "2026-06-30T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 11,
       "is_new": false
     },
     {
@@ -1246,6 +1191,19 @@
       "is_new": false
     },
     {
+      "id": "cf1b14260a9de2dda1c425571591ddf5",
+      "title": "HealthAgentBench: A Unified Benchmark Suite of Realistic Agentic Healthcare Environments for Challenging Frontier AI Agents",
+      "url": "https://huggingface.co/papers/2606.31179",
+      "description": "As AI agents become increasingly capable of complex, long-horizon reasoning, rigorous and holistic evaluation is essential for measuring progress toward real-world healthcare applications. We introduc",
+      "published": "2026-06-29T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "a660904c093c3782cd9d637d56d907df",
       "title": "PixelEyes: Decoupling Perception and Reasoning for Pinpoint Visual Evidence Seeking",
       "url": "https://huggingface.co/papers/2607.00115",
@@ -1268,7 +1226,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 14,
+      "likes": 15,
       "is_new": false
     },
     {
@@ -1295,6 +1253,44 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 4,
+      "is_new": false
+    },
+    {
+      "id": "d4377941c232e77e6c7064e4169179a2",
+      "title": "OpenAI is teasing new hardware… for Codex",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
+      "description": "OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th. In a video posted to X on Monday, OpenAI shows a square-shaped device with several buttons, alongsid",
+      "published": "2026-06-29T14:52:41-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": false
+    },
+    {
+      "id": "48719453",
+      "title": "Show HN: Hail.so – Send and receive emails, calls, SMS via a single MCP/API/CLI",
+      "url": "https://hail.so/",
+      "description": "",
+      "published": "2026-06-29T14:05:34Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 0,
+      "is_new": false
+    },
+    {
+      "id": "bc0bf62a89e2a0b617cb9252f62cbc31",
+      "title": "Lawmakers want to ban AI companies from selling your health data",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
+      "description": "A new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an AI chatbot like ChatGPT or Claude. In the coming weeks, Sena",
+      "published": "2026-06-29T12:07:14-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
       "is_new": false
     }
   ],
@@ -1457,16 +1453,16 @@
         "is_new": false
       },
       {
-        "id": "ffde7cf4c1120cdc960288ae02e8c65e",
-        "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
-        "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
-        "description": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip.",
-        "published": "Tue, 30 Jun 2026 18:13:02 +0000",
+        "id": "f4b4508296004a842e3deb7086bba681",
+        "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
+        "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+        "description": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But low and behold.",
+        "published": "Thu, 02 Jul 2026 20:11:59 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
+        "is_new": true
       },
       {
         "id": "a37f0922b8675590dd8a2da4c133b2c2",
@@ -1478,7 +1474,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "bb53a1477cfbc1f89072eb19e1ddcd17",
@@ -1490,7 +1486,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "638b856bf5e432b0b80af86a6529f99f",
@@ -1502,7 +1498,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "86d262543960e8925c54a41e313bb2a7",
@@ -1550,9 +1546,9 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 7,
+        "points": 8,
         "comments": 2,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "3afaca491ac0206acc39c27e6dc1eb27",
@@ -1591,20 +1587,6 @@
         "source_icon": "🟧",
         "category": "news",
         "points": 2,
-        "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "48748977",
-        "title": "Stealing 50 Years of Database Ideas for AI Agents",
-        "url": "https://onewill.ai/blog/2026/stealing-50-years-of-database-ideas-for-ai-agents/",
-        "description": "",
-        "published": "2026-07-01T15:59:20Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 10,
         "comments": 0,
         "is_new": false
       },
@@ -1658,22 +1640,34 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 53,
+        "points": 54,
         "comments": 54,
         "is_new": false
       },
       {
-        "id": "48745156",
-        "title": "Show HN: Afair – Self-organizing memory shared across your AI tools",
-        "url": "https://github.com/afairai/afair",
+        "id": "48744381",
+        "title": "AI Agent vs. Cron",
+        "url": "https://news.ycombinator.com/item?id=48744381",
         "description": "",
-        "published": "2026-07-01T11:40:57Z",
+        "published": "2026-07-01T09:45:55Z",
         "source_id": "hn-ai",
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
         "points": 1,
         "comments": 0,
+        "is_new": false
+      },
+      {
+        "id": "b13e4677f11359b95a94ed6ab8f884fd",
+        "title": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+        "description": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access W",
+        "published": "2026-07-01T09:11:31-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
         "is_new": false
       }
     ],
