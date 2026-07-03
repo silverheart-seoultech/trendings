@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-03T04:54:24.814097+00:00",
+  "last_updated": "2026-07-03T08:25:36.622015+00:00",
   "total_entries": 110,
-  "new_entries": 42,
+  "new_entries": 46,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -808,6 +808,19 @@
       "is_new": false
     },
     {
+      "id": "9022d529c05f13996309aa1a350fe64f",
+      "title": "EvoPolicyGym: Evaluating Autonomous Policy Evolution in Interactive Environments",
+      "url": "https://huggingface.co/papers/2607.02440",
+      "description": "Autonomous agents are increasingly expected to improve executable policies through feedback, yet existing evaluations often collapse this process into a final score or confound it with open-ended soft",
+      "published": "2026-07-01T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 27,
+      "is_new": true
+    },
+    {
       "id": "d002cc16f16d297c0f206375dd8f81bd",
       "title": "AgenticSTS: A Bounded-Memory Testbed for Long-Horizon LLM Agents",
       "url": "https://huggingface.co/papers/2607.02255",
@@ -817,7 +830,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 12,
+      "likes": 27,
       "is_new": true
     },
     {
@@ -830,7 +843,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 7,
       "is_new": true
     },
     {
@@ -843,7 +856,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 5,
       "is_new": false
     },
     {
@@ -856,7 +869,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 1,
       "is_new": false
     },
     {
@@ -869,7 +882,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -882,7 +895,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 1,
       "is_new": false
     },
     {
@@ -895,7 +908,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 11,
+      "likes": 13,
       "is_new": false
     },
     {
@@ -908,7 +921,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 11,
       "is_new": false
     },
     {
@@ -921,7 +934,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -934,7 +947,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 5,
       "is_new": false
     },
     {
@@ -947,7 +960,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 23,
+      "likes": 33,
       "is_new": false
     },
     {
@@ -960,7 +973,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
+      "likes": 10,
       "is_new": false
     },
     {
@@ -973,7 +986,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 11,
+      "likes": 17,
       "is_new": false
     },
     {
@@ -1040,7 +1053,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 54,
+      "points": 55,
       "comments": 54,
       "is_new": false
     },
@@ -1094,7 +1107,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -1256,44 +1269,30 @@
       "is_new": false
     },
     {
-      "id": "4ef3027f15bfccffd02b3b0c69417b02",
-      "title": "Seeing Is Not Sharing: Some Vision-Language Models Overestimate Common Ground in Asymmetric Dialogue",
-      "url": "https://huggingface.co/papers/2606.31719",
-      "description": "In collaborative dialogue, shared perception does not guarantee shared interpretation. Mutual understanding must be established through interaction. We investigate whether vision-language models (VLMs",
+      "id": "4d39a790caf3fb674a150b553648229f",
+      "title": "InstanceControl: Controllable Complex Image Generation without Instance Labeling",
+      "url": "https://huggingface.co/papers/2606.31924",
+      "description": "Controllable image generation methods, such as ControlNet, have demonstrated a remarkable capacity to introduce visual conditions(e.g., depth maps) to guide image generation. However, these methods of",
       "published": "2026-06-29T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": false
+      "is_new": true
     },
     {
-      "id": "997e2c1b70d0745c91a92b2f62314eef",
-      "title": "GRPO, Dr. GRPO, and DAPO Are Three Operations on One Number: The Group-Standard-Deviation Identity",
-      "url": "https://huggingface.co/papers/2607.00152",
-      "description": "Three of the most popular methods for training language models to reason look like three different tricks. They are not. All three adjust a single number: standard deviation, reflecting how much a pro",
+      "id": "98e98f4db96fac0420ee8e07142bac61",
+      "title": "Breaking Failure Cascades: Step-Aware Reinforcement Learning for Medical Multimodal Reasoning",
+      "url": "https://huggingface.co/papers/2606.31825",
+      "description": "Recent multimodal large language models have shown great promise in clinical image reasoning, but existing post-training pipelines remain predominantly outcome-centric, relying on final answer correct",
       "published": "2026-06-29T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "48722802",
-      "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
-      "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
-      "description": "",
-      "published": "2026-06-29T18:03:26Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 80,
-      "comments": 22,
-      "is_new": false
+      "likes": 7,
+      "is_new": true
     }
   ],
   "by_category": {
@@ -1642,7 +1641,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 54,
+        "points": 55,
         "comments": 54,
         "is_new": false
       },
