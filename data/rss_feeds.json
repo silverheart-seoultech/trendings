@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-03T14:29:50.891236+00:00",
+  "last_updated": "2026-07-03T16:43:39.417899+00:00",
   "total_entries": 110,
-  "new_entries": 0,
+  "new_entries": 3,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -860,6 +860,19 @@
       "is_new": false
     },
     {
+      "id": "8cde69b9b6b803929fe7f13dac386205",
+      "title": "WARP: Weight-Space Analysis for Recovering Training Data Portfolios",
+      "url": "https://huggingface.co/papers/2607.01686",
+      "description": "Foundation models are routinely released to the public, yet the data recipes used to train them -- such as domain mixture weights that determine how different sources are sampled -- are rarely disclos",
+      "published": "2026-07-01T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
       "id": "6eb59d302eabce43622df7ad1e3ae913",
       "title": "AGVBench: A Reliability-Oriented Benchmark of Data Augmentation for Vein Recognition",
       "url": "https://huggingface.co/papers/2607.02271",
@@ -882,7 +895,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 36,
+      "likes": 39,
       "is_new": false
     },
     {
@@ -921,7 +934,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 11,
       "is_new": false
     },
     {
@@ -934,7 +947,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -960,7 +973,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -973,7 +986,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 17,
+      "likes": 19,
       "is_new": false
     },
     {
@@ -986,46 +999,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 15,
-      "is_new": false
-    },
-    {
-      "id": "46400c7ca3c1d40764241e4e05dea031",
-      "title": "Denser neq Better: Limits of On-Policy Self-Distillation for Continual Post-Training",
-      "url": "https://huggingface.co/papers/2607.01763",
-      "description": "Continual post-training enables foundation models to acquire new knowledge while preserving existing capabilities. Recent work suggests that on-policy learning can mitigate forgetting, with on-policy ",
-      "published": "2026-07-01T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
-      "is_new": false
-    },
-    {
-      "id": "b68fa6b54505aec02776274bb90b8f80",
-      "title": "AnyGroundBench: A Specialized-Domain Benchmark for Video Grounding in Vision-Language Models",
-      "url": "https://huggingface.co/papers/2607.02269",
-      "description": "Vision-Language Models (VLMs) have demonstrated immense promise in Spatio-Temporal Video Grounding (STVG). However, current evaluation protocols are largely confined to zero-shot assessments on genera",
-      "published": "2026-07-01T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 7,
-      "is_new": false
-    },
-    {
-      "id": "a288a80ebd1c5270a79b069ace4e1e1a",
-      "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
-      "url": "https://huggingface.co/papers/2607.02512",
-      "description": "Many everyday programming tasks resist clean rule-based implementation, such as alerting on important log lines, repairing malformed JSON, or ranking search results by intent, and are increasingly out",
-      "published": "2026-07-01T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 39,
+      "likes": 16,
       "is_new": false
     },
     {
@@ -1137,6 +1111,19 @@
       "is_new": false
     },
     {
+      "id": "b8d6460116d3216cbc332980c7c3a766",
+      "title": "AutoMem: Automated Learning of Memory as a Cognitive Skill",
+      "url": "https://huggingface.co/papers/2607.01224",
+      "description": "Memory expertise is a learned skill: knowing what to encode, when to retrieve, and how to organize knowledge--a capacity known in cognitive science as metamemory. We bring this perspective to LLMs by ",
+      "published": "2026-06-30T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
       "id": "2d161eedd58a24b6efb3c2073ea8ebd9",
       "title": "Logit-Contribution Scoring Identifies Non-Literal Retrieval Heads",
       "url": "https://huggingface.co/papers/2607.01002",
@@ -1146,7 +1133,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
+      "likes": 10,
       "is_new": false
     },
     {
@@ -1290,6 +1277,20 @@
       "category": "news",
       "points": 2,
       "comments": 0,
+      "is_new": false
+    },
+    {
+      "id": "48727140",
+      "title": "Show HN: AMA2, messenger built for AI agent",
+      "url": "https://ama2.me/",
+      "description": "",
+      "published": "2026-06-30T00:32:54Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 5,
+      "comments": 1,
       "is_new": false
     }
   ],
