@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-03T11:40:23.786910+00:00",
+  "last_updated": "2026-07-03T14:21:35.854290+00:00",
   "total_entries": 110,
-  "new_entries": 2,
+  "new_entries": 6,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,6 +768,32 @@
       "is_new": false
     },
     {
+      "id": "48774713",
+      "title": "Simulating Tradeoffs in AI Organisation",
+      "url": "https://news.ycombinator.com/item?id=48774713",
+      "description": "",
+      "published": "2026-07-03T13:20:35Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "a77a7282a377a687a69adca3a5ae8275",
+      "title": "Anthropic wants to develop its own drugs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+      "description": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, an",
+      "published": "2026-07-03T09:56:52-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "48772872",
       "title": "A B2B marketing agency grew to $1.5M ARR in 6 months by betting on AI",
       "url": "https://news.ycombinator.com/item?id=48772872",
@@ -782,6 +808,18 @@
       "is_new": true
     },
     {
+      "id": "f3bac651121fecaf564513a0b395adcf",
+      "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
+      "description": "Midjourney has shown more of its futuristic medical scanner. It still hasn't shown much proof it works. The AI startup, best known for generating images, released a behind-the-scenes video of its dunk",
+      "published": "2026-07-03T07:49:10-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "48762592",
       "title": "Show HN: Enola-A deterministic architecture graph for developers and AI agents",
       "url": "https://github.com/enola-labs/enola/tree/main",
@@ -791,7 +829,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 9,
+      "points": 10,
       "comments": 4,
       "is_new": false
     },
@@ -831,7 +869,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
+      "likes": 9,
       "is_new": true
     },
     {
@@ -844,7 +882,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 35,
+      "likes": 36,
       "is_new": false
     },
     {
@@ -857,7 +895,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 35,
+      "likes": 38,
       "is_new": false
     },
     {
@@ -870,7 +908,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
+      "likes": 9,
       "is_new": false
     },
     {
@@ -883,7 +921,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
+      "likes": 9,
       "is_new": false
     },
     {
@@ -922,7 +960,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -935,7 +973,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 15,
+      "likes": 17,
       "is_new": false
     },
     {
@@ -948,7 +986,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 13,
+      "likes": 15,
       "is_new": false
     },
     {
@@ -961,7 +999,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -987,20 +1025,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 37,
-      "is_new": false
-    },
-    {
-      "id": "54fa70988150f5ee0119b075299d936c",
-      "title": "Optimizing Visual Generative Models via Distribution-wise Rewards",
-      "url": "https://huggingface.co/papers/2607.02291",
-      "description": "Conventional reinforcement learning strategies for visual generation typically employ sample-wise reward functions, yet this practice frequently results in reward hacking that degrades image diversity",
-      "published": "2026-07-01T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 10,
+      "likes": 39,
       "is_new": false
     },
     {
@@ -1110,6 +1135,19 @@
       "points": 3,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "2d161eedd58a24b6efb3c2073ea8ebd9",
+      "title": "Logit-Contribution Scoring Identifies Non-Literal Retrieval Heads",
+      "url": "https://huggingface.co/papers/2607.01002",
+      "description": "In long-context use, large language models frequently synthesize answers from the meaning of a relevant context span rather than literally copy-pasting them. Identifying which attention heads perform ",
+      "published": "2026-06-30T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 8,
+      "is_new": true
     },
     {
       "id": "2b6a5a51994cce5dad9f24461d8c4411",
@@ -1252,47 +1290,6 @@
       "category": "news",
       "points": 2,
       "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "48727140",
-      "title": "Show HN: AMA2, messenger built for AI agent",
-      "url": "https://ama2.me/",
-      "description": "",
-      "published": "2026-06-30T00:32:54Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 5,
-      "comments": 1,
-      "is_new": false
-    },
-    {
-      "id": "48726867",
-      "title": "Show HN: A Firewall for AI agents with auditing",
-      "url": "https://github.com/beebeeVB/trajeckt/",
-      "description": "",
-      "published": "2026-06-29T23:52:48Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 4,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "4d39a790caf3fb674a150b553648229f",
-      "title": "InstanceControl: Controllable Complex Image Generation without Instance Labeling",
-      "url": "https://huggingface.co/papers/2606.31924",
-      "description": "Controllable image generation methods, such as ControlNet, have demonstrated a remarkable capacity to introduce visual conditions(e.g., depth maps) to guide image generation. However, these methods of",
-      "published": "2026-06-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
       "is_new": false
     }
   ],
@@ -1539,6 +1536,32 @@
         "is_new": false
       },
       {
+        "id": "48774713",
+        "title": "Simulating Tradeoffs in AI Organisation",
+        "url": "https://news.ycombinator.com/item?id=48774713",
+        "description": "",
+        "published": "2026-07-03T13:20:35Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 1,
+        "comments": 0,
+        "is_new": true
+      },
+      {
+        "id": "a77a7282a377a687a69adca3a5ae8275",
+        "title": "Anthropic wants to develop its own drugs",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+        "description": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, an",
+        "published": "2026-07-03T09:56:52-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "48772872",
         "title": "A B2B marketing agency grew to $1.5M ARR in 6 months by betting on AI",
         "url": "https://news.ycombinator.com/item?id=48772872",
@@ -1553,6 +1576,18 @@
         "is_new": true
       },
       {
+        "id": "f3bac651121fecaf564513a0b395adcf",
+        "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
+        "description": "Midjourney has shown more of its futuristic medical scanner. It still hasn't shown much proof it works. The AI startup, best known for generating images, released a behind-the-scenes video of its dunk",
+        "published": "2026-07-03T07:49:10-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "48762592",
         "title": "Show HN: Enola-A deterministic architecture graph for developers and AI agents",
         "url": "https://github.com/enola-labs/enola/tree/main",
@@ -1562,7 +1597,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 9,
+        "points": 10,
         "comments": 4,
         "is_new": false
       },
@@ -1630,48 +1665,6 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "48746983",
-        "title": "Discovering Concept-Editing Algorithms with LLM Agents",
-        "url": "https://dmodel.ai/concept-erasure/",
-        "description": "",
-        "published": "2026-07-01T14:02:53Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 7,
-        "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "48746752",
-        "title": "Launch HN: Parsewise (YC P25) – Reason Across Documents with an API",
-        "url": "https://news.ycombinator.com/item?id=48746752",
-        "description": "",
-        "published": "2026-07-01T13:48:44Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 55,
-        "comments": 54,
-        "is_new": false
-      },
-      {
-        "id": "48744381",
-        "title": "AI Agent vs. Cron",
-        "url": "https://news.ycombinator.com/item?id=48744381",
-        "description": "",
-        "published": "2026-07-01T09:45:55Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 1,
-        "comments": 0,
         "is_new": false
       }
     ],
