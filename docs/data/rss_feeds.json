@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-06T04:36:10.904780+00:00",
+  "last_updated": "2026-07-06T09:08:44.861156+00:00",
   "total_entries": 70,
-  "new_entries": 1,
+  "new_entries": 7,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -288,6 +288,34 @@
       "is_new": false
     },
     {
+      "id": "48801959",
+      "title": "Compressor V2: three compression layers for a 50% LLM agent cost cut",
+      "url": "https://www.edgee.ai/blog/posts/introducing-compressor-v2-three-compression-layers-measured-end-to-end-for-a-50-cost-reduction",
+      "description": "",
+      "published": "2026-07-06T08:13:45Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 5,
+      "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "48801260",
+      "title": "Chinese LLMs Doubao, Qwen to shut down personalized AI agents on July 15",
+      "url": "https://www.globaltimes.cn/page/202607/1365159.shtml",
+      "description": "",
+      "published": "2026-07-06T06:23:39Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "48799719",
       "title": "Show HN: An unmetered LLM API–$6/month, no token tracking, no limits",
       "url": "https://yolo-auto.com/",
@@ -297,8 +325,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 4,
-      "comments": 0,
+      "points": 5,
+      "comments": 1,
       "is_new": false
     },
     {
@@ -337,8 +365,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 9,
-      "comments": 1,
+      "points": 19,
+      "comments": 4,
       "is_new": false
     },
     {
@@ -514,6 +542,45 @@
       "is_new": false
     },
     {
+      "id": "e59ac0050a287ad9a52d5e837b0e1494",
+      "title": "Interpretation-Oriented Cloud Removal via Observation-Anchored Residual Flow with Geo-Contextual Alignment",
+      "url": "https://huggingface.co/papers/2607.02471",
+      "description": "Cloud removal (CR) is essential for optical remote sensing, serving as a prerequisite for reliable downstream interpretation, such as semantic segmentation and change detection. However, existing CR a",
+      "published": "2026-07-01T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "f99bc3894f5fd7c8bddb017650ef4fb7",
+      "title": "OrbitQuant: Data-Agnostic Quantization for Image and Video Diffusion Transformers",
+      "url": "https://huggingface.co/papers/2607.02461",
+      "description": "Diffusion transformers (DiTs) achieve state-of-the-art image and video generation, but their multi-step sampling and growing parameter count make inference expensive. Post-training quantization (PTQ) ",
+      "published": "2026-07-01T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 10,
+      "is_new": true
+    },
+    {
+      "id": "fe1d4f8b4399855ff2dacb130b7b3dba",
+      "title": "VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon",
+      "url": "https://huggingface.co/papers/2607.01804",
+      "description": "Vision-Language-Action (VLA) foundation models have recently achieved strong progress in embodied intelligence. To reduce policy-call frequency while preserving temporal coherence, most generative pol",
+      "published": "2026-07-01T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 17,
+      "is_new": true
+    },
+    {
       "id": "457fd0eff24d2950b82b024b85e8f7b5",
       "title": "Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots",
       "url": "https://huggingface.co/papers/2607.02501",
@@ -523,7 +590,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 12,
       "is_new": false
     },
     {
@@ -549,7 +616,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 13,
+      "likes": 14,
       "is_new": false
     },
     {
@@ -562,7 +629,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 43,
+      "likes": 44,
       "is_new": false
     },
     {
@@ -575,33 +642,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 51,
-      "is_new": false
-    },
-    {
-      "id": "de92e9936b464427a7a7e1c51fbf0660",
-      "title": "From SRA to Self-Flow: Data Augmentation or Self-Supervision?",
-      "url": "https://huggingface.co/papers/2607.02508",
-      "description": "Representation alignment has become an effective way to accelerate diffusion transformer training and improve generation quality. Recent self-alignment methods, such as SRA and Self-Flow, further remo",
-      "published": "2026-07-01T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 10,
-      "is_new": false
-    },
-    {
-      "id": "2f0601aa0302b9cba4760616288e13a2",
-      "title": "SkillCoach: Self-Evolving Rubrics for Evaluating and Enhancing Agentic Skill-Use",
-      "url": "https://huggingface.co/papers/2607.01874",
-      "description": "Skills are becoming a reusable operational layer for LLM agents, encoding SOPs, domain rules, tool workflows, scripts, and validation routines. In realistic skill repositories, overlapping skills make",
-      "published": "2026-07-01T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 16,
+      "likes": 53,
       "is_new": false
     },
     {
@@ -713,6 +754,19 @@
       "is_new": false
     },
     {
+      "id": "f7c86b27d7c410055f6b79b2e53a36e5",
+      "title": "MultAttnAttrib: Training-Free Multimodal Attribution in Long Document Question Answering",
+      "url": "https://huggingface.co/papers/2607.01420",
+      "description": "As grounded QA systems are increasingly deployed in AI assistants, accurately attributing generated answers to evidence is critical for user trust and model safety. While unimodal attributions have be",
+      "published": "2026-06-30T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "8df6178dd3dd76b5fdb2daa5972eb161",
       "title": "Scaling Laws for Grid-Based Approximate Nearest Neighbor Search in High Dimensions",
       "url": "https://huggingface.co/papers/2607.01283",
@@ -735,7 +789,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 16,
+      "likes": 17,
       "is_new": false
     },
     {
@@ -748,20 +802,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 15,
-      "is_new": false
-    },
-    {
-      "id": "2b6a5a51994cce5dad9f24461d8c4411",
-      "title": "Discrete Diffusion Language Models for Interactive Radiology Report Drafting",
-      "url": "https://huggingface.co/papers/2607.01436",
-      "description": "Diffusion language models, which generate text by denoising a token canvas bidirectionally instead of emitting tokens left to right, have become competitive with autoregressive (AR) generation. Medica",
-      "published": "2026-06-30T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
+      "likes": 16,
       "is_new": false
     },
     {
@@ -779,20 +820,6 @@
       "is_new": false
     },
     {
-      "id": "48735301",
-      "title": "Show HN: fenic – LLMs as dataframe operators, query meaning and structure",
-      "url": "https://github.com/typedef-ai/fenic",
-      "description": "",
-      "published": "2026-06-30T16:39:40Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 3,
-      "comments": 0,
-      "is_new": false
-    },
-    {
       "id": "ee6c50661691a546b074d44a4051b2b0",
       "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
       "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
@@ -802,20 +829,6 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "48732702",
-      "title": "Show HN: Valmis, an OpenClaw alternative built for work, with security in mind",
-      "url": "https://github.com/valmishq/valmis",
-      "description": "",
-      "published": "2026-06-30T13:46:01Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 3,
-      "comments": 0,
       "is_new": false
     },
     {
@@ -840,7 +853,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 5,
       "is_new": true
     },
     {
@@ -853,7 +866,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -866,7 +879,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
+      "likes": 10,
       "is_new": false
     },
     {
@@ -892,7 +905,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
+      "likes": 8,
       "is_new": false
     },
     {
@@ -905,7 +918,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 29,
       "is_new": false
     },
     {
@@ -918,7 +931,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -931,20 +944,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "cc0446731e9770f1cffb736bbd12fa8f",
-      "title": "When Search Agents Should Ask: DiscoBench for Clarification-Aware Deep Search",
-      "url": "https://huggingface.co/papers/2606.27669",
-      "description": "Search agents powered by large language models (LLMs) are increasingly used to solve complex information-seeking tasks, requiring multi-step retrieval and reasoning to fulfill user goals. However, exi",
-      "published": "2026-06-25T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 10,
+      "likes": 4,
       "is_new": false
     }
   ],
@@ -1191,6 +1191,34 @@
         "is_new": false
       },
       {
+        "id": "48801959",
+        "title": "Compressor V2: three compression layers for a 50% LLM agent cost cut",
+        "url": "https://www.edgee.ai/blog/posts/introducing-compressor-v2-three-compression-layers-measured-end-to-end-for-a-50-cost-reduction",
+        "description": "",
+        "published": "2026-07-06T08:13:45Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 5,
+        "comments": 0,
+        "is_new": true
+      },
+      {
+        "id": "48801260",
+        "title": "Chinese LLMs Doubao, Qwen to shut down personalized AI agents on July 15",
+        "url": "https://www.globaltimes.cn/page/202607/1365159.shtml",
+        "description": "",
+        "published": "2026-07-06T06:23:39Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 1,
+        "comments": 0,
+        "is_new": true
+      },
+      {
         "id": "48799719",
         "title": "Show HN: An unmetered LLM API–$6/month, no token tracking, no limits",
         "url": "https://yolo-auto.com/",
@@ -1200,8 +1228,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 4,
-        "comments": 0,
+        "points": 5,
+        "comments": 1,
         "is_new": false
       },
       {
@@ -1240,8 +1268,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 9,
-        "comments": 1,
+        "points": 19,
+        "comments": 4,
         "is_new": false
       },
       {
@@ -1297,35 +1325,48 @@
         "points": 1,
         "comments": 0,
         "is_new": false
-      },
-      {
-        "id": "48774713",
-        "title": "Simulating Tradeoffs in AI Organisation",
-        "url": "https://news.ycombinator.com/item?id=48774713",
-        "description": "",
-        "published": "2026-07-03T13:20:35Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 1,
-        "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "a77a7282a377a687a69adca3a5ae8275",
-        "title": "Anthropic wants to develop its own drugs",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
-        "description": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, an",
-        "published": "2026-07-03T09:56:52-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
       }
     ],
     "research": [
+      {
+        "id": "e59ac0050a287ad9a52d5e837b0e1494",
+        "title": "Interpretation-Oriented Cloud Removal via Observation-Anchored Residual Flow with Geo-Contextual Alignment",
+        "url": "https://huggingface.co/papers/2607.02471",
+        "description": "Cloud removal (CR) is essential for optical remote sensing, serving as a prerequisite for reliable downstream interpretation, such as semantic segmentation and change detection. However, existing CR a",
+        "published": "2026-07-01T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 1,
+        "is_new": true
+      },
+      {
+        "id": "f99bc3894f5fd7c8bddb017650ef4fb7",
+        "title": "OrbitQuant: Data-Agnostic Quantization for Image and Video Diffusion Transformers",
+        "url": "https://huggingface.co/papers/2607.02461",
+        "description": "Diffusion transformers (DiTs) achieve state-of-the-art image and video generation, but their multi-step sampling and growing parameter count make inference expensive. Post-training quantization (PTQ) ",
+        "published": "2026-07-01T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 10,
+        "is_new": true
+      },
+      {
+        "id": "fe1d4f8b4399855ff2dacb130b7b3dba",
+        "title": "VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon",
+        "url": "https://huggingface.co/papers/2607.01804",
+        "description": "Vision-Language-Action (VLA) foundation models have recently achieved strong progress in embodied intelligence. To reduce policy-call frequency while preserving temporal coherence, most generative pol",
+        "published": "2026-07-01T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 17,
+        "is_new": true
+      },
       {
         "id": "457fd0eff24d2950b82b024b85e8f7b5",
         "title": "Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots",
@@ -1336,7 +1377,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 1,
+        "likes": 12,
         "is_new": false
       },
       {
@@ -1362,7 +1403,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 13,
+        "likes": 14,
         "is_new": false
       },
       {
@@ -1375,7 +1416,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 43,
+        "likes": 44,
         "is_new": false
       },
       {
@@ -1388,34 +1429,21 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 51,
+        "likes": 53,
         "is_new": false
       },
       {
-        "id": "de92e9936b464427a7a7e1c51fbf0660",
-        "title": "From SRA to Self-Flow: Data Augmentation or Self-Supervision?",
-        "url": "https://huggingface.co/papers/2607.02508",
-        "description": "Representation alignment has become an effective way to accelerate diffusion transformer training and improve generation quality. Recent self-alignment methods, such as SRA and Self-Flow, further remo",
-        "published": "2026-07-01T20:00:00.000Z",
+        "id": "f7c86b27d7c410055f6b79b2e53a36e5",
+        "title": "MultAttnAttrib: Training-Free Multimodal Attribution in Long Document Question Answering",
+        "url": "https://huggingface.co/papers/2607.01420",
+        "description": "As grounded QA systems are increasingly deployed in AI assistants, accurately attributing generated answers to evidence is critical for user trust and model safety. While unimodal attributions have be",
+        "published": "2026-06-30T20:00:00.000Z",
         "source_id": "hf-papers",
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 10,
-        "is_new": false
-      },
-      {
-        "id": "2f0601aa0302b9cba4760616288e13a2",
-        "title": "SkillCoach: Self-Evolving Rubrics for Evaluating and Enhancing Agentic Skill-Use",
-        "url": "https://huggingface.co/papers/2607.01874",
-        "description": "Skills are becoming a reusable operational layer for LLM agents, encoding SOPs, domain rules, tool workflows, scripts, and validation routines. In realistic skill repositories, overlapping skills make",
-        "published": "2026-07-01T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 16,
-        "is_new": false
+        "likes": 1,
+        "is_new": true
       },
       {
         "id": "8df6178dd3dd76b5fdb2daa5972eb161",
@@ -1440,7 +1468,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 16,
+        "likes": 17,
         "is_new": false
       },
       {
@@ -1453,20 +1481,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 15,
-        "is_new": false
-      },
-      {
-        "id": "2b6a5a51994cce5dad9f24461d8c4411",
-        "title": "Discrete Diffusion Language Models for Interactive Radiology Report Drafting",
-        "url": "https://huggingface.co/papers/2607.01436",
-        "description": "Diffusion language models, which generate text by denoising a token canvas bidirectionally instead of emitting tokens left to right, have become competitive with autoregressive (AR) generation. Medica",
-        "published": "2026-06-30T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 4,
+        "likes": 16,
         "is_new": false
       },
       {
@@ -1479,7 +1494,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 1,
+        "likes": 5,
         "is_new": true
       },
       {
@@ -1492,7 +1507,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 1,
+        "likes": 3,
         "is_new": false
       },
       {
@@ -1505,7 +1520,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 8,
+        "likes": 10,
         "is_new": false
       },
       {
@@ -1531,7 +1546,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 7,
+        "likes": 8,
         "is_new": false
       },
       {
@@ -1544,7 +1559,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 4,
+        "likes": 29,
         "is_new": false
       },
       {
@@ -1557,7 +1572,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 3,
+        "likes": 4,
         "is_new": false
       },
       {
@@ -1570,20 +1585,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 3,
-        "is_new": false
-      },
-      {
-        "id": "cc0446731e9770f1cffb736bbd12fa8f",
-        "title": "When Search Agents Should Ask: DiscoBench for Clarification-Aware Deep Search",
-        "url": "https://huggingface.co/papers/2606.27669",
-        "description": "Search agents powered by large language models (LLMs) are increasingly used to solve complex information-seeking tasks, requiring multi-step retrieval and reasoning to fulfill user goals. However, exi",
-        "published": "2026-06-25T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 10,
+        "likes": 4,
         "is_new": false
       }
     ]
