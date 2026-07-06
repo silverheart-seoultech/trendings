@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-06T04:06:36.427803+00:00",
+  "last_updated": "2026-07-06T04:36:10.904780+00:00",
   "total_entries": 70,
-  "new_entries": 6,
+  "new_entries": 1,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -299,7 +299,7 @@
       "category": "news",
       "points": 4,
       "comments": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "48799386",
@@ -313,7 +313,7 @@
       "category": "news",
       "points": 2,
       "comments": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "f4dfdde345c5d1a522d128b44a1515eb",
@@ -325,7 +325,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "48795930",
@@ -524,7 +524,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "8cde69b9b6b803929fe7f13dac386205",
@@ -602,19 +602,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 16,
-      "is_new": false
-    },
-    {
-      "id": "4b9e7d43575422989af92912fc6e3025",
-      "title": "PACE: A Proxy for Agentic Capability Evaluation",
-      "url": "https://huggingface.co/papers/2607.02032",
-      "description": "Evaluating LLM agents on benchmarks like SWE-Bench and GAIA can be expensive, time-consuming, and requires complex infrastructure. A single evaluation can cost thousands of dollars and take days to co",
-      "published": "2026-07-01T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 7,
       "is_new": false
     },
     {
@@ -844,6 +831,19 @@
       "is_new": false
     },
     {
+      "id": "cd1d5677e76c7bffefdc0130300cc91c",
+      "title": "Securing the AI Agent: A Unified Framework for Multi-Layer Agent Red Teaming",
+      "url": "https://huggingface.co/papers/2606.31227",
+      "description": "The fast growth of open-source AI infrastructure, from model serving engines and agent platforms to the Model Context Protocol (MCP) ecosystem and the language models themselves, has outpaced the secu",
+      "published": "2026-06-29T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "c7d14b855604a74528938202735a6a91",
       "title": "AGE: Adaptive-masking for Graph Embedding in Graph Retrieval-Augmented Generation",
       "url": "https://huggingface.co/papers/2607.00052",
@@ -854,7 +854,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "4d39a790caf3fb674a150b553648229f",
@@ -906,7 +906,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "c1a65c010ff6beef349e14f36c4fd243",
@@ -1202,7 +1202,7 @@
         "category": "news",
         "points": 4,
         "comments": 0,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "48799386",
@@ -1216,7 +1216,7 @@
         "category": "news",
         "points": 2,
         "comments": 0,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "f4dfdde345c5d1a522d128b44a1515eb",
@@ -1228,7 +1228,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "48795930",
@@ -1337,7 +1337,7 @@
         "source_icon": "🤗",
         "category": "research",
         "likes": 1,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "8cde69b9b6b803929fe7f13dac386205",
@@ -1418,19 +1418,6 @@
         "is_new": false
       },
       {
-        "id": "4b9e7d43575422989af92912fc6e3025",
-        "title": "PACE: A Proxy for Agentic Capability Evaluation",
-        "url": "https://huggingface.co/papers/2607.02032",
-        "description": "Evaluating LLM agents on benchmarks like SWE-Bench and GAIA can be expensive, time-consuming, and requires complex infrastructure. A single evaluation can cost thousands of dollars and take days to co",
-        "published": "2026-07-01T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 7,
-        "is_new": false
-      },
-      {
         "id": "8df6178dd3dd76b5fdb2daa5972eb161",
         "title": "Scaling Laws for Grid-Based Approximate Nearest Neighbor Search in High Dimensions",
         "url": "https://huggingface.co/papers/2607.01283",
@@ -1483,6 +1470,19 @@
         "is_new": false
       },
       {
+        "id": "cd1d5677e76c7bffefdc0130300cc91c",
+        "title": "Securing the AI Agent: A Unified Framework for Multi-Layer Agent Red Teaming",
+        "url": "https://huggingface.co/papers/2606.31227",
+        "description": "The fast growth of open-source AI infrastructure, from model serving engines and agent platforms to the Model Context Protocol (MCP) ecosystem and the language models themselves, has outpaced the secu",
+        "published": "2026-06-29T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 1,
+        "is_new": true
+      },
+      {
         "id": "c7d14b855604a74528938202735a6a91",
         "title": "AGE: Adaptive-masking for Graph Embedding in Graph Retrieval-Augmented Generation",
         "url": "https://huggingface.co/papers/2607.00052",
@@ -1493,7 +1493,7 @@
         "source_icon": "🤗",
         "category": "research",
         "likes": 1,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "4d39a790caf3fb674a150b553648229f",
@@ -1545,7 +1545,7 @@
         "source_icon": "🤗",
         "category": "research",
         "likes": 4,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "c1a65c010ff6beef349e14f36c4fd243",
