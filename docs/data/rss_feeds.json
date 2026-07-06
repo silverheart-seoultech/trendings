@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-06T15:46:17.130978+00:00",
+  "last_updated": "2026-07-06T16:28:48.175953+00:00",
   "total_entries": 70,
-  "new_entries": 5,
+  "new_entries": 2,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -249,7 +249,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "6f235eb6d9b85fed20aab8fecc1b507d",
@@ -261,7 +261,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "eeb0f69b3cf9f1b86a6b14e70444304a",
@@ -299,6 +299,18 @@
       "category": "news",
       "points": 2,
       "comments": 0,
+      "is_new": false
+    },
+    {
+      "id": "6f224168a338690e594141ef80e28c14",
+      "title": "I spy",
+      "url": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
+      "description": "I've long argued that Hollywood has simultaneously set and ruined our expectations for smart glasses. But after binge-watching two seasons of Netflix's A Man on the Inside, this is perhaps the first t",
+      "published": "2026-07-06T11:36:19-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
       "is_new": true
     },
     {
@@ -325,7 +337,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "48801959",
@@ -604,7 +616,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 15,
+      "likes": 18,
       "is_new": false
     },
     {
@@ -630,7 +642,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 33,
+      "likes": 34,
       "is_new": false
     },
     {
@@ -806,18 +818,6 @@
       "is_new": false
     },
     {
-      "id": "ee6c50661691a546b074d44a4051b2b0",
-      "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
-      "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
-      "description": "Google's NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultra and Pro subscribers, allowing NotebookLM to generate 60-sec",
-      "published": "2026-06-30T15:24:51-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "30839027724c9e5ffc17ff2bdf93488e",
       "title": "AnyBokeh: Physics-Guided Any-to-Any Bokeh Editing with Optical Fingerprint Transfer",
       "url": "https://huggingface.co/papers/2606.31959",
@@ -828,6 +828,19 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
+      "is_new": false
+    },
+    {
+      "id": "08de688260b5a00b84e2da5f35398058",
+      "title": "Generated Contents Enrichment",
+      "url": "https://huggingface.co/papers/2405.03650",
+      "description": "We study Generated Contents Enrichment (GCE), a conditional image-generation task in which a sparse scene description is first enriched through an explicit scene representation and then rendered into ",
+      "published": "2026-06-29T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
       "is_new": true
     },
     {
@@ -840,7 +853,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
+      "likes": 8,
       "is_new": false
     },
     {
@@ -870,19 +883,6 @@
       "is_new": false
     },
     {
-      "id": "98e98f4db96fac0420ee8e07142bac61",
-      "title": "Breaking Failure Cascades: Step-Aware Reinforcement Learning for Medical Multimodal Reasoning",
-      "url": "https://huggingface.co/papers/2606.31825",
-      "description": "Recent multimodal large language models have shown great promise in clinical image reasoning, but existing post-training pipelines remain predominantly outcome-centric, relying on final answer correct",
-      "published": "2026-06-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 20,
-      "is_new": false
-    },
-    {
       "id": "9786eb1e355aad3a63aeb19fa057537a",
       "title": "DuoMem: Towards Capable On-Device Memory Agents via Dual-Space Distillation",
       "url": "https://huggingface.co/papers/2606.29961",
@@ -905,7 +905,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 87,
+      "likes": 96,
       "is_new": false
     },
     {
@@ -931,7 +931,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 10,
+      "likes": 11,
       "is_new": false
     },
     {
@@ -1152,7 +1152,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "6f235eb6d9b85fed20aab8fecc1b507d",
@@ -1164,7 +1164,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "eeb0f69b3cf9f1b86a6b14e70444304a",
@@ -1202,6 +1202,18 @@
         "category": "news",
         "points": 2,
         "comments": 0,
+        "is_new": false
+      },
+      {
+        "id": "6f224168a338690e594141ef80e28c14",
+        "title": "I spy",
+        "url": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
+        "description": "I've long argued that Hollywood has simultaneously set and ruined our expectations for smart glasses. But after binge-watching two seasons of Netflix's A Man on the Inside, this is perhaps the first t",
+        "published": "2026-07-06T11:36:19-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
         "is_new": true
       },
       {
@@ -1228,7 +1240,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "48801959",
@@ -1309,20 +1321,6 @@
         "points": 2,
         "comments": 0,
         "is_new": false
-      },
-      {
-        "id": "48795930",
-        "title": "Show HN: I hated how much my 12-year-old played Roblox, so we built our own FPS",
-        "url": "https://cooked.house",
-        "description": "",
-        "published": "2026-07-05T17:14:45Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 23,
-        "comments": 7,
-        "is_new": false
       }
     ],
     "research": [
@@ -1349,7 +1347,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 15,
+        "likes": 18,
         "is_new": false
       },
       {
@@ -1375,7 +1373,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 33,
+        "likes": 34,
         "is_new": false
       },
       {
@@ -1467,6 +1465,19 @@
         "source_icon": "🤗",
         "category": "research",
         "likes": 2,
+        "is_new": false
+      },
+      {
+        "id": "08de688260b5a00b84e2da5f35398058",
+        "title": "Generated Contents Enrichment",
+        "url": "https://huggingface.co/papers/2405.03650",
+        "description": "We study Generated Contents Enrichment (GCE), a conditional image-generation task in which a sparse scene description is first enriched through an explicit scene representation and then rendered into ",
+        "published": "2026-06-29T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 1,
         "is_new": true
       },
       {
@@ -1479,7 +1490,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 7,
+        "likes": 8,
         "is_new": false
       },
       {
@@ -1509,19 +1520,6 @@
         "is_new": false
       },
       {
-        "id": "98e98f4db96fac0420ee8e07142bac61",
-        "title": "Breaking Failure Cascades: Step-Aware Reinforcement Learning for Medical Multimodal Reasoning",
-        "url": "https://huggingface.co/papers/2606.31825",
-        "description": "Recent multimodal large language models have shown great promise in clinical image reasoning, but existing post-training pipelines remain predominantly outcome-centric, relying on final answer correct",
-        "published": "2026-06-29T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 20,
-        "is_new": false
-      },
-      {
         "id": "9786eb1e355aad3a63aeb19fa057537a",
         "title": "DuoMem: Towards Capable On-Device Memory Agents via Dual-Space Distillation",
         "url": "https://huggingface.co/papers/2606.29961",
@@ -1544,7 +1542,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 87,
+        "likes": 96,
         "is_new": false
       },
       {
@@ -1570,7 +1568,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 10,
+        "likes": 11,
         "is_new": false
       },
       {
