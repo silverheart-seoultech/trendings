@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-06T20:06:03.054904+00:00",
+  "last_updated": "2026-07-06T20:58:45.275085+00:00",
   "total_entries": 70,
-  "new_entries": 8,
+  "new_entries": 1,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -189,7 +189,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "0f64c66e0db770c6ffabf342b43d35a7",
@@ -201,7 +201,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "1fae758ade9415537892c703a15b7e56",
@@ -213,7 +213,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "88a9e7b8458758c042ff6618452dbfcd",
@@ -225,7 +225,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "507388fe73ce7c625c0e6a515bdde7b9",
@@ -249,7 +249,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "6f235eb6d9b85fed20aab8fecc1b507d",
@@ -288,18 +288,6 @@
       "is_new": false
     },
     {
-      "id": "6f224168a338690e594141ef80e28c14",
-      "title": "I spy",
-      "url": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
-      "description": "I've long argued that Hollywood has simultaneously set and ruined our expectations for smart glasses. But after binge-watching two seasons of Netflix's A Man on the Inside, this is perhaps the first t",
-      "published": "2026-07-06T16:02:22-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": true
-    },
-    {
       "id": "48804797",
       "title": "Show HN: Orchestrate parallel Claude Code and Codex agents on a live map",
       "url": "https://github.com/Latand/live-log-viewer-next",
@@ -311,6 +299,18 @@
       "category": "news",
       "points": 2,
       "comments": 0,
+      "is_new": false
+    },
+    {
+      "id": "6f224168a338690e594141ef80e28c14",
+      "title": "I spy",
+      "url": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
+      "description": "I've long argued that Hollywood has simultaneously set and ruined our expectations for smart glasses. But after binge-watching two seasons of Netflix's A Man on the Inside, this is perhaps the first t",
+      "published": "2026-07-06T12:30:55-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
       "is_new": false
     },
     {
@@ -401,7 +401,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 7,
+      "points": 8,
       "comments": 2,
       "is_new": false
     },
@@ -616,7 +616,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 23,
+      "likes": 25,
       "is_new": false
     },
     {
@@ -776,7 +776,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "f7c86b27d7c410055f6b79b2e53a36e5",
@@ -844,6 +844,19 @@
       "is_new": false
     },
     {
+      "id": "e2a4e8c5218cd43308b2815b2be61ebb",
+      "title": "Teaching LLMs to Recommend and Defer in Underrepresented Epilepsy Care",
+      "url": "https://huggingface.co/papers/2606.31036",
+      "description": "Specialist epilepsy expertise is scarce in resource-constrained settings, making LLM-based decision support attractive for frontline clinicians managing longitudinal treatment. Such systems must adapt",
+      "published": "2026-06-29T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "08de688260b5a00b84e2da5f35398058",
       "title": "Generated Contents Enrichment",
       "url": "https://huggingface.co/papers/2405.03650",
@@ -854,7 +867,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "cd1d5677e76c7bffefdc0130300cc91c",
@@ -905,20 +918,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 128,
-      "is_new": false
-    },
-    {
-      "id": "c1a65c010ff6beef349e14f36c4fd243",
-      "title": "Transferability for General Reasoning: An Automated Curriculum for Multi-Domain RLVR",
-      "url": "https://huggingface.co/papers/2606.25178",
-      "description": "Reinforcement learning with verifiable rewards (RLVR) has been extended from single-domain training to multi-domain reasoning suites spanning mathematics, programming, and science. However, the traini",
-      "published": "2026-06-26T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 5,
+      "likes": 138,
       "is_new": false
     },
     {
@@ -1092,7 +1092,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "0f64c66e0db770c6ffabf342b43d35a7",
@@ -1104,7 +1104,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "1fae758ade9415537892c703a15b7e56",
@@ -1116,7 +1116,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "88a9e7b8458758c042ff6618452dbfcd",
@@ -1128,7 +1128,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "507388fe73ce7c625c0e6a515bdde7b9",
@@ -1152,7 +1152,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "6f235eb6d9b85fed20aab8fecc1b507d",
@@ -1191,18 +1191,6 @@
         "is_new": false
       },
       {
-        "id": "6f224168a338690e594141ef80e28c14",
-        "title": "I spy",
-        "url": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
-        "description": "I've long argued that Hollywood has simultaneously set and ruined our expectations for smart glasses. But after binge-watching two seasons of Netflix's A Man on the Inside, this is perhaps the first t",
-        "published": "2026-07-06T16:02:22-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": true
-      },
-      {
         "id": "48804797",
         "title": "Show HN: Orchestrate parallel Claude Code and Codex agents on a live map",
         "url": "https://github.com/Latand/live-log-viewer-next",
@@ -1214,6 +1202,18 @@
         "category": "news",
         "points": 2,
         "comments": 0,
+        "is_new": false
+      },
+      {
+        "id": "6f224168a338690e594141ef80e28c14",
+        "title": "I spy",
+        "url": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
+        "description": "I've long argued that Hollywood has simultaneously set and ruined our expectations for smart glasses. But after binge-watching two seasons of Netflix's A Man on the Inside, this is perhaps the first t",
+        "published": "2026-07-06T12:30:55-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
         "is_new": false
       },
       {
@@ -1304,7 +1304,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 7,
+        "points": 8,
         "comments": 2,
         "is_new": false
       },
@@ -1347,7 +1347,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 23,
+        "likes": 25,
         "is_new": false
       },
       {
@@ -1413,7 +1413,7 @@
         "source_icon": "🤗",
         "category": "research",
         "likes": 2,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "f7c86b27d7c410055f6b79b2e53a36e5",
@@ -1481,6 +1481,19 @@
         "is_new": false
       },
       {
+        "id": "e2a4e8c5218cd43308b2815b2be61ebb",
+        "title": "Teaching LLMs to Recommend and Defer in Underrepresented Epilepsy Care",
+        "url": "https://huggingface.co/papers/2606.31036",
+        "description": "Specialist epilepsy expertise is scarce in resource-constrained settings, making LLM-based decision support attractive for frontline clinicians managing longitudinal treatment. Such systems must adapt",
+        "published": "2026-06-29T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 1,
+        "is_new": true
+      },
+      {
         "id": "08de688260b5a00b84e2da5f35398058",
         "title": "Generated Contents Enrichment",
         "url": "https://huggingface.co/papers/2405.03650",
@@ -1491,7 +1504,7 @@
         "source_icon": "🤗",
         "category": "research",
         "likes": 1,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "cd1d5677e76c7bffefdc0130300cc91c",
@@ -1542,20 +1555,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 128,
-        "is_new": false
-      },
-      {
-        "id": "c1a65c010ff6beef349e14f36c4fd243",
-        "title": "Transferability for General Reasoning: An Automated Curriculum for Multi-Domain RLVR",
-        "url": "https://huggingface.co/papers/2606.25178",
-        "description": "Reinforcement learning with verifiable rewards (RLVR) has been extended from single-domain training to multi-domain reasoning suites spanning mathematics, programming, and science. However, the traini",
-        "published": "2026-06-26T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 5,
+        "likes": 138,
         "is_new": false
       },
       {
