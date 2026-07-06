@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-05T23:15:39.643431+00:00",
+  "last_updated": "2026-07-06T04:06:36.427803+00:00",
   "total_entries": 70,
-  "new_entries": 1,
+  "new_entries": 6,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -288,6 +288,34 @@
       "is_new": false
     },
     {
+      "id": "48799719",
+      "title": "Show HN: An unmetered LLM API–$6/month, no token tracking, no limits",
+      "url": "https://yolo-auto.com/",
+      "description": "",
+      "published": "2026-07-06T01:22:10Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 4,
+      "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "48799386",
+      "title": "LLM Big Bang: I gave AI agents a social network. One is running for president",
+      "url": "https://noozra.com/articles/the-llm-big-bang",
+      "description": "",
+      "published": "2026-07-06T00:25:37Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "f4dfdde345c5d1a522d128b44a1515eb",
       "title": "Some of the nation’s rich are letting AI teach their kids",
       "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
@@ -309,8 +337,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 5,
-      "comments": 0,
+      "points": 9,
+      "comments": 1,
       "is_new": false
     },
     {
@@ -486,6 +514,19 @@
       "is_new": false
     },
     {
+      "id": "457fd0eff24d2950b82b024b85e8f7b5",
+      "title": "Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots",
+      "url": "https://huggingface.co/papers/2607.02501",
+      "description": "Embodied AI models now span vision-language-action (VLA) models and world-action models (WAMs), but practical deployment remains fragmented across model-specific Python stacks, backend assumptions, an",
+      "published": "2026-07-01T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "8cde69b9b6b803929fe7f13dac386205",
       "title": "WARP: Weight-Space Analysis for Recovering Training Data Portfolios",
       "url": "https://huggingface.co/papers/2607.01686",
@@ -534,7 +575,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 47,
+      "likes": 51,
       "is_new": false
     },
     {
@@ -560,7 +601,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 15,
+      "likes": 16,
       "is_new": false
     },
     {
@@ -574,32 +615,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 7,
-      "is_new": false
-    },
-    {
-      "id": "6f88d605eef60111cbb217c64c225248",
-      "title": "Representation Distribution Matching for One-Step Visual Generation",
-      "url": "https://huggingface.co/papers/2607.02375",
-      "description": "We elucidate the design space of Representation Distribution Matching (RDM), our name for the paradigm that trains a one-step image generator by matching generated and reference feature distributions ",
-      "published": "2026-07-01T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
-      "is_new": false
-    },
-    {
-      "id": "6433fdce8e038d9d0f0d64e8aba541d4",
-      "title": "Learning to Move Before Learning to Do: Task-Agnostic pretraining for VLAs",
-      "url": "https://huggingface.co/papers/2607.02466",
-      "description": "Vision-Language-Action (VLA) models are fundamentally bottlenecked by the scarcity of expert demonstrations -- triplets of observations, instructions, and actions that are costly to collect at scale. ",
-      "published": "2026-07-01T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 5,
       "is_new": false
     },
     {
@@ -733,7 +748,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 14,
+      "likes": 16,
       "is_new": false
     },
     {
@@ -829,32 +844,17 @@
       "is_new": false
     },
     {
-      "id": "48732413",
-      "title": "Show HN: SUNWÆE – your life's AI OS",
-      "url": "https://news.ycombinator.com/item?id=48732413",
-      "description": "",
-      "published": "2026-06-30T13:21:31Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "48728744",
-      "title": "I have open-sourced gojaja, a CLI for local multi-agent collaboration",
-      "url": "https://news.ycombinator.com/item?id=48728744",
-      "description": "",
-      "published": "2026-06-30T05:17:52Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 0,
-      "is_new": false
+      "id": "c7d14b855604a74528938202735a6a91",
+      "title": "AGE: Adaptive-masking for Graph Embedding in Graph Retrieval-Augmented Generation",
+      "url": "https://huggingface.co/papers/2607.00052",
+      "description": "GraphRAG is an extension of retrieval-augmented generation (RAG) that supports large language models (LLMs) by referring to graph-structured data as external knowledge. While this technique ideally ca",
+      "published": "2026-06-29T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
     },
     {
       "id": "4d39a790caf3fb674a150b553648229f",
@@ -879,7 +879,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 19,
+      "likes": 20,
       "is_new": false
     },
     {
@@ -892,21 +892,21 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
+      "likes": 7,
       "is_new": false
     },
     {
-      "id": "aca99c8cda8e0d79d99749147ac9ddbc",
-      "title": "Morphing into Hybrid Attention Models",
-      "url": "https://huggingface.co/papers/2606.30562",
-      "description": "Hybrid attention models improve long-context efficiency by retaining only a subset of full-attention layers and replacing the remaining layers with linear attention. However, the effectiveness of Tran",
-      "published": "2026-06-28T20:00:00.000Z",
+      "id": "8cca1617854b032822fb1121ea4934b9",
+      "title": "The Mirage of Optimizing Training Policies: Monotonic Inference Policies as the Real Objective for LLM Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2606.29526",
+      "description": "Reinforcement learning (RL) has gained growing attention in large language model (LLM) post-training, yet RL training remains fragile and can suffer from instability or collapse. One vital cause is tr",
+      "published": "2026-06-27T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 39,
-      "is_new": false
+      "likes": 4,
+      "is_new": true
     },
     {
       "id": "c1a65c010ff6beef349e14f36c4fd243",
@@ -944,7 +944,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 10,
       "is_new": false
     }
   ],
@@ -1191,6 +1191,34 @@
         "is_new": false
       },
       {
+        "id": "48799719",
+        "title": "Show HN: An unmetered LLM API–$6/month, no token tracking, no limits",
+        "url": "https://yolo-auto.com/",
+        "description": "",
+        "published": "2026-07-06T01:22:10Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 4,
+        "comments": 0,
+        "is_new": true
+      },
+      {
+        "id": "48799386",
+        "title": "LLM Big Bang: I gave AI agents a social network. One is running for president",
+        "url": "https://noozra.com/articles/the-llm-big-bang",
+        "description": "",
+        "published": "2026-07-06T00:25:37Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 2,
+        "comments": 0,
+        "is_new": true
+      },
+      {
         "id": "f4dfdde345c5d1a522d128b44a1515eb",
         "title": "Some of the nation’s rich are letting AI teach their kids",
         "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
@@ -1212,8 +1240,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 5,
-        "comments": 0,
+        "points": 9,
+        "comments": 1,
         "is_new": false
       },
       {
@@ -1295,35 +1323,22 @@
         "source_icon": "📰",
         "category": "news",
         "is_new": false
-      },
-      {
-        "id": "48772872",
-        "title": "A B2B marketing agency grew to $1.5M ARR in 6 months by betting on AI",
-        "url": "https://news.ycombinator.com/item?id=48772872",
-        "description": "",
-        "published": "2026-07-03T09:24:59Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 1,
-        "comments": 2,
-        "is_new": false
-      },
-      {
-        "id": "f3bac651121fecaf564513a0b395adcf",
-        "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
-        "description": "Midjourney has shown more of its futuristic medical scanner. It still hasn't shown much proof it works. The AI startup, best known for generating images, released a behind-the-scenes video of its dunk",
-        "published": "2026-07-03T07:49:10-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
       }
     ],
     "research": [
+      {
+        "id": "457fd0eff24d2950b82b024b85e8f7b5",
+        "title": "Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots",
+        "url": "https://huggingface.co/papers/2607.02501",
+        "description": "Embodied AI models now span vision-language-action (VLA) models and world-action models (WAMs), but practical deployment remains fragmented across model-specific Python stacks, backend assumptions, an",
+        "published": "2026-07-01T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 1,
+        "is_new": true
+      },
       {
         "id": "8cde69b9b6b803929fe7f13dac386205",
         "title": "WARP: Weight-Space Analysis for Recovering Training Data Portfolios",
@@ -1373,7 +1388,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 47,
+        "likes": 51,
         "is_new": false
       },
       {
@@ -1399,7 +1414,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 15,
+        "likes": 16,
         "is_new": false
       },
       {
@@ -1413,32 +1428,6 @@
         "source_icon": "🤗",
         "category": "research",
         "likes": 7,
-        "is_new": false
-      },
-      {
-        "id": "6f88d605eef60111cbb217c64c225248",
-        "title": "Representation Distribution Matching for One-Step Visual Generation",
-        "url": "https://huggingface.co/papers/2607.02375",
-        "description": "We elucidate the design space of Representation Distribution Matching (RDM), our name for the paradigm that trains a one-step image generator by matching generated and reference feature distributions ",
-        "published": "2026-07-01T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 4,
-        "is_new": false
-      },
-      {
-        "id": "6433fdce8e038d9d0f0d64e8aba541d4",
-        "title": "Learning to Move Before Learning to Do: Task-Agnostic pretraining for VLAs",
-        "url": "https://huggingface.co/papers/2607.02466",
-        "description": "Vision-Language-Action (VLA) models are fundamentally bottlenecked by the scarcity of expert demonstrations -- triplets of observations, instructions, and actions that are costly to collect at scale. ",
-        "published": "2026-07-01T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 5,
         "is_new": false
       },
       {
@@ -1464,7 +1453,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 14,
+        "likes": 16,
         "is_new": false
       },
       {
@@ -1494,6 +1483,19 @@
         "is_new": false
       },
       {
+        "id": "c7d14b855604a74528938202735a6a91",
+        "title": "AGE: Adaptive-masking for Graph Embedding in Graph Retrieval-Augmented Generation",
+        "url": "https://huggingface.co/papers/2607.00052",
+        "description": "GraphRAG is an extension of retrieval-augmented generation (RAG) that supports large language models (LLMs) by referring to graph-structured data as external knowledge. While this technique ideally ca",
+        "published": "2026-06-29T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 1,
+        "is_new": true
+      },
+      {
         "id": "4d39a790caf3fb674a150b553648229f",
         "title": "InstanceControl: Controllable Complex Image Generation without Instance Labeling",
         "url": "https://huggingface.co/papers/2606.31924",
@@ -1516,7 +1518,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 19,
+        "likes": 20,
         "is_new": false
       },
       {
@@ -1529,21 +1531,21 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 6,
+        "likes": 7,
         "is_new": false
       },
       {
-        "id": "aca99c8cda8e0d79d99749147ac9ddbc",
-        "title": "Morphing into Hybrid Attention Models",
-        "url": "https://huggingface.co/papers/2606.30562",
-        "description": "Hybrid attention models improve long-context efficiency by retaining only a subset of full-attention layers and replacing the remaining layers with linear attention. However, the effectiveness of Tran",
-        "published": "2026-06-28T20:00:00.000Z",
+        "id": "8cca1617854b032822fb1121ea4934b9",
+        "title": "The Mirage of Optimizing Training Policies: Monotonic Inference Policies as the Real Objective for LLM Reinforcement Learning",
+        "url": "https://huggingface.co/papers/2606.29526",
+        "description": "Reinforcement learning (RL) has gained growing attention in large language model (LLM) post-training, yet RL training remains fragile and can suffer from instability or collapse. One vital cause is tr",
+        "published": "2026-06-27T20:00:00.000Z",
         "source_id": "hf-papers",
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 39,
-        "is_new": false
+        "likes": 4,
+        "is_new": true
       },
       {
         "id": "c1a65c010ff6beef349e14f36c4fd243",
@@ -1581,7 +1583,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 9,
+        "likes": 10,
         "is_new": false
       }
     ]
