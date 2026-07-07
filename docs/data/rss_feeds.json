@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-07T21:38:43.727337+00:00",
+  "last_updated": "2026-07-07T23:13:10.096277+00:00",
   "total_entries": 110,
-  "new_entries": 3,
+  "new_entries": 4,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,6 +47,18 @@
     }
   ],
   "entries": [
+    {
+      "id": "43c24424eacf387e2d13cad2cf1a6d2c",
+      "title": "Meta rolls out Muse, a new AI image generator",
+      "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+      "description": "The new image-generating model has numerous use cases, including advertising, decorating and creator-based opportunities.",
+      "published": "Tue, 07 Jul 2026 22:18:10 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "ac26af5ade469fc1f17aa3141f1b7992",
       "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
@@ -648,18 +660,6 @@
       "is_new": false
     },
     {
-      "id": "a00e4ef278625b986a9fcbd765e84ef4",
-      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-      "description": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
-      "published": "Sat, 04 Jul 2026 15:51:32 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "bd206ca68985755ccb9bcc41a95c67cb",
       "title": "The ‘first’ AI-run ransomware attack still needed a human",
       "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
@@ -791,7 +791,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 2,
+      "points": 3,
       "comments": 0,
       "is_new": false
     },
@@ -859,8 +859,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 41,
-      "comments": 12,
+      "points": 66,
+      "comments": 22,
       "is_new": false
     },
     {
@@ -1244,7 +1244,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 31,
+      "likes": 32,
       "is_new": false
     },
     {
@@ -1301,6 +1301,18 @@
   ],
   "by_category": {
     "news": [
+      {
+        "id": "43c24424eacf387e2d13cad2cf1a6d2c",
+        "title": "Meta rolls out Muse, a new AI image generator",
+        "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+        "description": "The new image-generating model has numerous use cases, including advertising, decorating and creator-based opportunities.",
+        "published": "Tue, 07 Jul 2026 22:18:10 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "ac26af5ade469fc1f17aa3141f1b7992",
         "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
@@ -1415,18 +1427,6 @@
         "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
         "description": "Alibaba has reportedly classified Claude Code as high-risk software.",
         "published": "Sat, 04 Jul 2026 16:32:08 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "a00e4ef278625b986a9fcbd765e84ef4",
-        "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-        "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-        "description": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
-        "published": "Sat, 04 Jul 2026 15:51:32 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
@@ -1565,7 +1565,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 2,
+        "points": 3,
         "comments": 0,
         "is_new": false
       },
@@ -1633,8 +1633,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 41,
-        "comments": 12,
+        "points": 66,
+        "comments": 22,
         "is_new": false
       },
       {
