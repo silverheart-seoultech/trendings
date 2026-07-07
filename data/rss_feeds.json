@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-07T05:04:43.834656+00:00",
+  "last_updated": "2026-07-07T08:37:33.861192+00:00",
   "total_entries": 110,
-  "new_entries": 49,
+  "new_entries": 54,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -857,7 +857,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 8,
+      "points": 9,
       "comments": 0,
       "is_new": false
     },
@@ -909,7 +909,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 9,
+      "points": 10,
       "comments": 7,
       "is_new": false
     },
@@ -928,6 +928,19 @@
       "is_new": false
     },
     {
+      "id": "03e8773d87118ff649631a904dac7c9c",
+      "title": "Do All Visual Tokens Matter Equally? Object-Evidence Preserving Token Merging for Vision-Language Retrieval",
+      "url": "https://huggingface.co/papers/2607.04605",
+      "description": "Multi-vector vision-language retrieval preserves fine-grained visual evidence through maximum-similarity late interaction, but dense image-side tokens make storage and scoring expensive. Existing toke",
+      "published": "2026-07-05T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 7,
+      "is_new": true
+    },
+    {
       "id": "fda9330334918402f4016559c800674f",
       "title": "InternVLA-A1.5: Unifying Understanding, Latent Foresight, and Action for Compositional Generalization",
       "url": "https://huggingface.co/papers/2607.04988",
@@ -937,7 +950,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 13,
       "is_new": true
     },
     {
@@ -950,7 +963,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 4,
       "is_new": true
     },
     {
@@ -963,7 +976,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 5,
       "is_new": true
     },
     {
@@ -976,7 +989,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 3,
       "is_new": true
     },
     {
@@ -1002,7 +1015,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 29,
       "is_new": true
     },
     {
@@ -1015,7 +1028,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 14,
       "is_new": false
     },
     {
@@ -1061,6 +1074,19 @@
       "is_new": false
     },
     {
+      "id": "d35cd01702496f3d45f07ed79c8a2b86",
+      "title": "dOPSD: On-Policy Self-Distillation for Diffusion Language Models",
+      "url": "https://huggingface.co/papers/2607.04428",
+      "description": "Diffusion large language models (dLLMs) generate text by iteratively denoising a masked sequence, offering a parallel alternative to autoregressive models, but eliciting strong reasoning through post-",
+      "published": "2026-07-04T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 9,
+      "is_new": true
+    },
+    {
       "id": "e347aeb979b60b40251524b258e128e3",
       "title": "UI-MOPD: Multi-Platform On-Policy Distillation for Continual GUI Agent Learning",
       "url": "https://huggingface.co/papers/2607.04425",
@@ -1070,7 +1096,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
+      "likes": 38,
       "is_new": false
     },
     {
@@ -1096,33 +1122,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 21,
-      "is_new": false
-    },
-    {
-      "id": "6aa92942350768c2871ceea7683d97fa",
-      "title": "Wan-Streamer v0.2: Higher Resolution, Same Latency",
-      "url": "https://huggingface.co/papers/2607.04443",
-      "description": "We present Wan-Streamer v0.2, a latency-preserving upgrade of the native-streaming, end-to-end audio-visual interaction model. v0.2 keeps the v0.1 modeling formulation, but raises the interactive outp",
-      "published": "2026-07-04T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 14,
-      "is_new": false
-    },
-    {
-      "id": "f3374d859e88c8141f0129e596e2a733",
-      "title": "ResearchStudio-Idea: An Evidence-Grounded Research-Ideation Skill Suite from ML Conference Outcomes",
-      "url": "https://huggingface.co/papers/2607.04439",
-      "description": "Large language models have made research ideation increasingly accessible, yet effective idea development requires more than generating candidate directions. Researchers must ground a problem in curre",
-      "published": "2026-07-04T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 20,
+      "likes": 35,
       "is_new": false
     },
     {
@@ -1140,17 +1140,17 @@
       "is_new": false
     },
     {
-      "id": "e6bf67fc9e9ca94ba0e5b7c7dfe52617",
-      "title": "Safety Testing LLM Agents at Scale: From Risk Discovery to Evidence-Grounded Verification",
-      "url": "https://huggingface.co/papers/2607.01793",
-      "description": "LLM agents increasingly perform autonomous actions through external tools, leading to complex and evolving safety risks. However, existing safety testing targets expert-designed safety violations, and",
+      "id": "b5e4b0eb18e371231c9af0dd49947eea",
+      "title": "OmniOpt: Taxonomy, Geometry, and Benchmarking of Modern Optimizers",
+      "url": "https://huggingface.co/papers/2607.04033",
+      "description": "Optimizer selection for large-scale model training has become a system-level design decision constrained jointly by compute, memory, tuning budget, and task diversity, yet the landscape of over one hu",
       "published": "2026-07-03T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
-      "is_new": false
+      "likes": 26,
+      "is_new": true
     },
     {
       "id": "48774713",
@@ -1217,6 +1217,32 @@
       "is_new": false
     },
     {
+      "id": "09f1d5b0485710514d618948c3bee22c",
+      "title": "CONFLUX: A Latent Diusion Model for 3D Chest-CT Synthesis with RL Post-Training",
+      "url": "https://huggingface.co/papers/2607.02998",
+      "description": "Controllable generative models of 3D medical images can synthesize volumes with specified clinical attributes, but this demands samples that are simultaneously high-fidelity, natively 3D, and faithful",
+      "published": "2026-07-02T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "537a9a414cb6eb2dd2d822db854ae65f",
+      "title": "Perceptual Flow Matching for Few-Step Generative Modeling",
+      "url": "https://huggingface.co/papers/2607.03524",
+      "description": "We propose Perceptual Flow Matching (PFM), a simple yet effective framework for few-step generation in flow-matching models. Rather than performing velocity regression in the conventional VAE latent s",
+      "published": "2026-07-02T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 6,
+      "is_new": true
+    },
+    {
       "id": "f7b16c97a838afc86a03c8c224598abe",
       "title": "PixCon: Clean-Positive Contrastive Learning for Foundation-Model Semi-Supervised Segmentation",
       "url": "https://huggingface.co/papers/2607.03068",
@@ -1239,7 +1265,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -1267,32 +1293,6 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 10,
-      "comments": 4,
-      "is_new": false
-    },
-    {
-      "id": "3afaca491ac0206acc39c27e6dc1eb27",
-      "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
-      "description": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Fin",
-      "published": "2026-07-02T06:23:27-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "48756596",
-      "title": "Show HN: Margarita - Programming language for Agents using Markdown-ish syntax",
-      "url": "https://www.margarita.run",
-      "description": "",
-      "published": "2026-07-02T04:31:51Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 7,
       "comments": 4,
       "is_new": false
     }
@@ -1991,7 +1991,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 8,
+        "points": 9,
         "comments": 0,
         "is_new": false
       },
