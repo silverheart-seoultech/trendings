@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-07T00:18:23.630932+00:00",
+  "last_updated": "2026-07-07T03:57:31.226086+00:00",
   "total_entries": 70,
-  "new_entries": 4,
+  "new_entries": 15,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -288,6 +288,20 @@
       "is_new": false
     },
     {
+      "id": "48812900",
+      "title": "Show HN: Foundation – A Tale of Tokens and Psychosis",
+      "url": "https://github.com/nmxmxh/foundation",
+      "description": "",
+      "published": "2026-07-07T02:09:21Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "48810859",
       "title": "Attribute Knowledge RAG Pattern for Governed AI Agents",
       "url": "https://superml.dev/attribute-knowledge-rag-pattern-llm-governed-attributes",
@@ -335,7 +349,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 3,
+      "points": 4,
       "comments": 0,
       "is_new": false
     },
@@ -415,8 +429,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 8,
-      "comments": 3,
+      "points": 9,
+      "comments": 7,
       "is_new": false
     },
     {
@@ -432,6 +446,19 @@
       "points": 2,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "ae382e3508cd5fec2444dfe70da880b7",
+      "title": "Vision Pretraining for Dense Spatial Perception",
+      "url": "https://huggingface.co/papers/2607.05247",
+      "description": "Dense spatial perception is essential for physical intelligence, where visual systems are expected to recover structured, metric, and actionable representations from pixel observations. Modern visual ",
+      "published": "2026-07-05T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
     },
     {
       "id": "48795930",
@@ -476,6 +503,71 @@
       "is_new": false
     },
     {
+      "id": "e347aeb979b60b40251524b258e128e3",
+      "title": "UI-MOPD: Multi-Platform On-Policy Distillation for Continual GUI Agent Learning",
+      "url": "https://huggingface.co/papers/2607.04425",
+      "description": "Recent advances in multimodal foundation models and agent systems have driven GUI agents from single-platform task execution toward cross-platform interaction. However, building multi-platform GUI age",
+      "published": "2026-07-04T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 5,
+      "is_new": true
+    },
+    {
+      "id": "b796e6570c3bbac2a16cb6a6085743af",
+      "title": "Speaker-Disentangled Chunk-Wise Regression for Syllabic Tokenization",
+      "url": "https://huggingface.co/papers/2607.04064",
+      "description": "Unsupervised syllabic tokenization aims to learn discrete syllabic tokens that capture latent linguistic content-related structure from raw speech. Recent syllabic tokenization methods employ teacher-",
+      "published": "2026-07-04T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "01e4e02a90cfcb12dacf3ca6c80b80ab",
+      "title": "ResearchStudio-Reel: Automate the Last Mile of Research from Paper to Poster, Video, and Blog",
+      "url": "https://huggingface.co/papers/2607.04438",
+      "description": "Research dissemination, turning a paper into a poster, a talk video, and a blog post, is still a manual last mile. Prior automation treats each artifact in isolation that each re-extract the paper fro",
+      "published": "2026-07-04T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 18,
+      "is_new": true
+    },
+    {
+      "id": "6aa92942350768c2871ceea7683d97fa",
+      "title": "Wan-Streamer v0.2: Higher Resolution, Same Latency",
+      "url": "https://huggingface.co/papers/2607.04443",
+      "description": "We present Wan-Streamer v0.2, a latency-preserving upgrade of the native-streaming, end-to-end audio-visual interaction model. v0.2 keeps the v0.1 modeling formulation, but raises the interactive outp",
+      "published": "2026-07-04T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 9,
+      "is_new": true
+    },
+    {
+      "id": "f3374d859e88c8141f0129e596e2a733",
+      "title": "ResearchStudio-Idea: An Evidence-Grounded Research-Ideation Skill Suite from ML Conference Outcomes",
+      "url": "https://huggingface.co/papers/2607.04439",
+      "description": "Large language models have made research ideation increasingly accessible, yet effective idea development requires more than generating candidate directions. Researchers must ground a problem in curre",
+      "published": "2026-07-04T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 16,
+      "is_new": true
+    },
+    {
       "id": "48785299",
       "title": "Show HN: Mycelium – AI agent plugin guiding you from purpose to market",
       "url": "https://github.com/haabe/mycelium",
@@ -488,6 +580,19 @@
       "points": 1,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "e6bf67fc9e9ca94ba0e5b7c7dfe52617",
+      "title": "Safety Testing LLM Agents at Scale: From Risk Discovery to Evidence-Grounded Verification",
+      "url": "https://huggingface.co/papers/2607.01793",
+      "description": "LLM agents increasingly perform autonomous actions through external tools, leading to complex and evolving safety risks. However, existing safety testing targets expert-designed safety violations, and",
+      "published": "2026-07-03T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
     },
     {
       "id": "48774713",
@@ -554,6 +659,19 @@
       "is_new": false
     },
     {
+      "id": "73c2026a358318ed459f83b663f3e0b3",
+      "title": "PraMem: Practice-derived Experiential Memory for Long-horizon Behavior Prediction",
+      "url": "https://huggingface.co/papers/2607.02881",
+      "description": "Long-horizon behavior prediction aims to infer a user's next action based on a lengthy historical sequence, playing a crucial role in artificial intelligence field. The rise of large language models (",
+      "published": "2026-07-02T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "48766320",
       "title": "Show HN: EEBench – AI agents design real circuits, graded by physics simulation",
       "url": "https://www.eebench.org/",
@@ -608,6 +726,32 @@
       "is_new": false
     },
     {
+      "id": "6a77671f17e1178999f32a3171c2d873",
+      "title": "GigaWorld-1: A Roadmap to Build World Models for Robot Policy Evaluation",
+      "url": "https://huggingface.co/papers/2607.02642",
+      "description": "Evaluating embodied robot foundation models remains a critical bottleneck; unlike large language models efficiently assessed via digital benchmarks, robotic policies require slow, costly real-world ro",
+      "published": "2026-07-01T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 16,
+      "is_new": true
+    },
+    {
+      "id": "53271d50c450d2eb1e9231c86f2809cb",
+      "title": "Mastermind: Strategy-grounded Learning for Repository-Scale Vulnerability Reproduction",
+      "url": "https://huggingface.co/papers/2607.01764",
+      "description": "Repository-level vulnerability reproduction is a demanding software engineering (SE) task: an agent must inspect a codebase, infer the input grammar that reaches a vulnerable path, construct a proof-o",
+      "published": "2026-07-01T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "e59ac0050a287ad9a52d5e837b0e1494",
       "title": "Interpretation-Oriented Cloud Removal via Observation-Anchored Residual Flow with Geo-Contextual Alignment",
       "url": "https://huggingface.co/papers/2607.02471",
@@ -630,7 +774,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 27,
+      "likes": 29,
       "is_new": false
     },
     {
@@ -644,45 +788,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 23,
-      "is_new": false
-    },
-    {
-      "id": "457fd0eff24d2950b82b024b85e8f7b5",
-      "title": "Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots",
-      "url": "https://huggingface.co/papers/2607.02501",
-      "description": "Embodied AI models now span vision-language-action (VLA) models and world-action models (WAMs), but practical deployment remains fragmented across model-specific Python stacks, backend assumptions, an",
-      "published": "2026-07-01T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 36,
-      "is_new": false
-    },
-    {
-      "id": "8cde69b9b6b803929fe7f13dac386205",
-      "title": "WARP: Weight-Space Analysis for Recovering Training Data Portfolios",
-      "url": "https://huggingface.co/papers/2607.01686",
-      "description": "Foundation models are routinely released to the public, yet the data recipes used to train them -- such as domain mixture weights that determine how different sources are sampled -- are rarely disclos",
-      "published": "2026-07-01T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 7,
-      "is_new": false
-    },
-    {
-      "id": "6eb59d302eabce43622df7ad1e3ae913",
-      "title": "AGVBench: A Reliability-Oriented Benchmark of Data Augmentation for Vein Recognition",
-      "url": "https://huggingface.co/papers/2607.02271",
-      "description": "Vein recognition is a secure biometric technology often constrained by limited annotated data and imaging variations. While data augmentation mitigates this, strategies designed for natural images may",
-      "published": "2026-07-01T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 15,
       "is_new": false
     },
     {
@@ -740,20 +845,6 @@
       "is_new": false
     },
     {
-      "id": "48746752",
-      "title": "Launch HN: Parsewise (YC P25) – Reason Across Documents with an API",
-      "url": "https://news.ycombinator.com/item?id=48746752",
-      "description": "",
-      "published": "2026-07-01T13:48:44Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 56,
-      "comments": 54,
-      "is_new": false
-    },
-    {
       "id": "b13e4677f11359b95a94ed6ab8f884fd",
       "title": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
       "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
@@ -775,7 +866,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 6,
       "is_new": false
     },
     {
@@ -792,45 +883,6 @@
       "is_new": false
     },
     {
-      "id": "8df6178dd3dd76b5fdb2daa5972eb161",
-      "title": "Scaling Laws for Grid-Based Approximate Nearest Neighbor Search in High Dimensions",
-      "url": "https://huggingface.co/papers/2607.01283",
-      "description": "Grid-based approaches to approximate nearest neighbor (ANN) search have been absent from modern scaling analyses. We present a systematic characterization of a multiprobe grid algorithm with respect t",
-      "published": "2026-06-30T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "b8d6460116d3216cbc332980c7c3a766",
-      "title": "AutoMem: Automated Learning of Memory as a Cognitive Skill",
-      "url": "https://huggingface.co/papers/2607.01224",
-      "description": "Memory expertise is a learned skill: knowing what to encode, when to retrieve, and how to organize knowledge--a capacity known in cognitive science as metamemory. We bring this perspective to LLMs by ",
-      "published": "2026-06-30T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 17,
-      "is_new": false
-    },
-    {
-      "id": "2d161eedd58a24b6efb3c2073ea8ebd9",
-      "title": "Logit-Contribution Scoring Identifies Non-Literal Retrieval Heads",
-      "url": "https://huggingface.co/papers/2607.01002",
-      "description": "In long-context use, large language models frequently synthesize answers from the meaning of a relevant context span rather than literally copy-pasting them. Identifying which attention heads perform ",
-      "published": "2026-06-30T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 17,
-      "is_new": false
-    },
-    {
       "id": "30839027724c9e5ffc17ff2bdf93488e",
       "title": "AnyBokeh: Physics-Guided Any-to-Any Bokeh Editing with Optical Fingerprint Transfer",
       "url": "https://huggingface.co/papers/2606.31959",
@@ -840,7 +892,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -879,46 +931,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
-      "is_new": false
-    },
-    {
-      "id": "c7d14b855604a74528938202735a6a91",
-      "title": "AGE: Adaptive-masking for Graph Embedding in Graph Retrieval-Augmented Generation",
-      "url": "https://huggingface.co/papers/2607.00052",
-      "description": "GraphRAG is an extension of retrieval-augmented generation (RAG) that supports large language models (LLMs) by referring to graph-structured data as external knowledge. While this technique ideally ca",
-      "published": "2026-06-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "9786eb1e355aad3a63aeb19fa057537a",
-      "title": "DuoMem: Towards Capable On-Device Memory Agents via Dual-Space Distillation",
-      "url": "https://huggingface.co/papers/2606.29961",
-      "description": "Large Language Model (LLM)-based agents can solve complex procedural tasks by interacting with environments over multiple turns, but this ability typically depends on large models, long contexts, and ",
-      "published": "2026-06-28T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
       "likes": 9,
-      "is_new": false
-    },
-    {
-      "id": "8cca1617854b032822fb1121ea4934b9",
-      "title": "The Mirage of Optimizing Training Policies: Monotonic Inference Policies as the Real Objective for LLM Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2606.29526",
-      "description": "Reinforcement learning (RL) has gained growing attention in large language model (LLM) post-training, yet RL training remains fragile and can suffer from instability or collapse. One vital cause is tr",
-      "published": "2026-06-27T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 141,
       "is_new": false
     },
     {
@@ -931,20 +944,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 19,
-      "is_new": false
-    },
-    {
-      "id": "7e374bdcf8286b752deac4c4ccc053e8",
-      "title": "Parameter-Efficient Quantum-Inspired Fast Weight Programmers for Traffic-Matrix Forecasting",
-      "url": "https://huggingface.co/papers/2606.27821",
-      "description": "Traffic matrices (TMs) capture network-wide origin-destination demand and are central to traffic engineering, yet accurate whole-matrix forecasting remains challenging when prediction must be performe",
-      "published": "2026-06-25T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
+      "likes": 23,
       "is_new": false
     }
   ],
@@ -1191,6 +1191,20 @@
         "is_new": false
       },
       {
+        "id": "48812900",
+        "title": "Show HN: Foundation – A Tale of Tokens and Psychosis",
+        "url": "https://github.com/nmxmxh/foundation",
+        "description": "",
+        "published": "2026-07-07T02:09:21Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 2,
+        "comments": 0,
+        "is_new": true
+      },
+      {
         "id": "48810859",
         "title": "Attribute Knowledge RAG Pattern for Governed AI Agents",
         "url": "https://superml.dev/attribute-knowledge-rag-pattern-llm-governed-attributes",
@@ -1238,7 +1252,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 3,
+        "points": 4,
         "comments": 0,
         "is_new": false
       },
@@ -1307,23 +1321,139 @@
         "source_icon": "📰",
         "category": "news",
         "is_new": false
-      },
-      {
-        "id": "48799719",
-        "title": "Show HN: An unmetered LLM API–$6/month, no token tracking, no limits",
-        "url": "https://yolo-auto.com/",
-        "description": "",
-        "published": "2026-07-06T01:22:10Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 8,
-        "comments": 3,
-        "is_new": false
       }
     ],
     "research": [
+      {
+        "id": "ae382e3508cd5fec2444dfe70da880b7",
+        "title": "Vision Pretraining for Dense Spatial Perception",
+        "url": "https://huggingface.co/papers/2607.05247",
+        "description": "Dense spatial perception is essential for physical intelligence, where visual systems are expected to recover structured, metric, and actionable representations from pixel observations. Modern visual ",
+        "published": "2026-07-05T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 2,
+        "is_new": true
+      },
+      {
+        "id": "e347aeb979b60b40251524b258e128e3",
+        "title": "UI-MOPD: Multi-Platform On-Policy Distillation for Continual GUI Agent Learning",
+        "url": "https://huggingface.co/papers/2607.04425",
+        "description": "Recent advances in multimodal foundation models and agent systems have driven GUI agents from single-platform task execution toward cross-platform interaction. However, building multi-platform GUI age",
+        "published": "2026-07-04T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 5,
+        "is_new": true
+      },
+      {
+        "id": "b796e6570c3bbac2a16cb6a6085743af",
+        "title": "Speaker-Disentangled Chunk-Wise Regression for Syllabic Tokenization",
+        "url": "https://huggingface.co/papers/2607.04064",
+        "description": "Unsupervised syllabic tokenization aims to learn discrete syllabic tokens that capture latent linguistic content-related structure from raw speech. Recent syllabic tokenization methods employ teacher-",
+        "published": "2026-07-04T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 0,
+        "is_new": true
+      },
+      {
+        "id": "01e4e02a90cfcb12dacf3ca6c80b80ab",
+        "title": "ResearchStudio-Reel: Automate the Last Mile of Research from Paper to Poster, Video, and Blog",
+        "url": "https://huggingface.co/papers/2607.04438",
+        "description": "Research dissemination, turning a paper into a poster, a talk video, and a blog post, is still a manual last mile. Prior automation treats each artifact in isolation that each re-extract the paper fro",
+        "published": "2026-07-04T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 18,
+        "is_new": true
+      },
+      {
+        "id": "6aa92942350768c2871ceea7683d97fa",
+        "title": "Wan-Streamer v0.2: Higher Resolution, Same Latency",
+        "url": "https://huggingface.co/papers/2607.04443",
+        "description": "We present Wan-Streamer v0.2, a latency-preserving upgrade of the native-streaming, end-to-end audio-visual interaction model. v0.2 keeps the v0.1 modeling formulation, but raises the interactive outp",
+        "published": "2026-07-04T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 9,
+        "is_new": true
+      },
+      {
+        "id": "f3374d859e88c8141f0129e596e2a733",
+        "title": "ResearchStudio-Idea: An Evidence-Grounded Research-Ideation Skill Suite from ML Conference Outcomes",
+        "url": "https://huggingface.co/papers/2607.04439",
+        "description": "Large language models have made research ideation increasingly accessible, yet effective idea development requires more than generating candidate directions. Researchers must ground a problem in curre",
+        "published": "2026-07-04T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 16,
+        "is_new": true
+      },
+      {
+        "id": "e6bf67fc9e9ca94ba0e5b7c7dfe52617",
+        "title": "Safety Testing LLM Agents at Scale: From Risk Discovery to Evidence-Grounded Verification",
+        "url": "https://huggingface.co/papers/2607.01793",
+        "description": "LLM agents increasingly perform autonomous actions through external tools, leading to complex and evolving safety risks. However, existing safety testing targets expert-designed safety violations, and",
+        "published": "2026-07-03T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 1,
+        "is_new": true
+      },
+      {
+        "id": "73c2026a358318ed459f83b663f3e0b3",
+        "title": "PraMem: Practice-derived Experiential Memory for Long-horizon Behavior Prediction",
+        "url": "https://huggingface.co/papers/2607.02881",
+        "description": "Long-horizon behavior prediction aims to infer a user's next action based on a lengthy historical sequence, playing a crucial role in artificial intelligence field. The rise of large language models (",
+        "published": "2026-07-02T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 1,
+        "is_new": true
+      },
+      {
+        "id": "6a77671f17e1178999f32a3171c2d873",
+        "title": "GigaWorld-1: A Roadmap to Build World Models for Robot Policy Evaluation",
+        "url": "https://huggingface.co/papers/2607.02642",
+        "description": "Evaluating embodied robot foundation models remains a critical bottleneck; unlike large language models efficiently assessed via digital benchmarks, robotic policies require slow, costly real-world ro",
+        "published": "2026-07-01T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 16,
+        "is_new": true
+      },
+      {
+        "id": "53271d50c450d2eb1e9231c86f2809cb",
+        "title": "Mastermind: Strategy-grounded Learning for Repository-Scale Vulnerability Reproduction",
+        "url": "https://huggingface.co/papers/2607.01764",
+        "description": "Repository-level vulnerability reproduction is a demanding software engineering (SE) task: an agent must inspect a codebase, infer the input grammar that reaches a vulnerable path, construct a proof-o",
+        "published": "2026-07-01T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 1,
+        "is_new": true
+      },
       {
         "id": "e59ac0050a287ad9a52d5e837b0e1494",
         "title": "Interpretation-Oriented Cloud Removal via Observation-Anchored Residual Flow with Geo-Contextual Alignment",
@@ -1347,7 +1477,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 27,
+        "likes": 29,
         "is_new": false
       },
       {
@@ -1364,45 +1494,6 @@
         "is_new": false
       },
       {
-        "id": "457fd0eff24d2950b82b024b85e8f7b5",
-        "title": "Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots",
-        "url": "https://huggingface.co/papers/2607.02501",
-        "description": "Embodied AI models now span vision-language-action (VLA) models and world-action models (WAMs), but practical deployment remains fragmented across model-specific Python stacks, backend assumptions, an",
-        "published": "2026-07-01T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 36,
-        "is_new": false
-      },
-      {
-        "id": "8cde69b9b6b803929fe7f13dac386205",
-        "title": "WARP: Weight-Space Analysis for Recovering Training Data Portfolios",
-        "url": "https://huggingface.co/papers/2607.01686",
-        "description": "Foundation models are routinely released to the public, yet the data recipes used to train them -- such as domain mixture weights that determine how different sources are sampled -- are rarely disclos",
-        "published": "2026-07-01T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 7,
-        "is_new": false
-      },
-      {
-        "id": "6eb59d302eabce43622df7ad1e3ae913",
-        "title": "AGVBench: A Reliability-Oriented Benchmark of Data Augmentation for Vein Recognition",
-        "url": "https://huggingface.co/papers/2607.02271",
-        "description": "Vein recognition is a secure biometric technology often constrained by limited annotated data and imaging variations. While data augmentation mitigates this, strategies designed for natural images may",
-        "published": "2026-07-01T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 15,
-        "is_new": false
-      },
-      {
         "id": "63c0fc8be679c146f0246e2de069752f",
         "title": "Measuring the Gap Between Human and LLM Research Ideas",
         "url": "https://huggingface.co/papers/2607.01233",
@@ -1412,7 +1503,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 5,
+        "likes": 6,
         "is_new": false
       },
       {
@@ -1429,45 +1520,6 @@
         "is_new": false
       },
       {
-        "id": "8df6178dd3dd76b5fdb2daa5972eb161",
-        "title": "Scaling Laws for Grid-Based Approximate Nearest Neighbor Search in High Dimensions",
-        "url": "https://huggingface.co/papers/2607.01283",
-        "description": "Grid-based approaches to approximate nearest neighbor (ANN) search have been absent from modern scaling analyses. We present a systematic characterization of a multiprobe grid algorithm with respect t",
-        "published": "2026-06-30T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 2,
-        "is_new": false
-      },
-      {
-        "id": "b8d6460116d3216cbc332980c7c3a766",
-        "title": "AutoMem: Automated Learning of Memory as a Cognitive Skill",
-        "url": "https://huggingface.co/papers/2607.01224",
-        "description": "Memory expertise is a learned skill: knowing what to encode, when to retrieve, and how to organize knowledge--a capacity known in cognitive science as metamemory. We bring this perspective to LLMs by ",
-        "published": "2026-06-30T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 17,
-        "is_new": false
-      },
-      {
-        "id": "2d161eedd58a24b6efb3c2073ea8ebd9",
-        "title": "Logit-Contribution Scoring Identifies Non-Literal Retrieval Heads",
-        "url": "https://huggingface.co/papers/2607.01002",
-        "description": "In long-context use, large language models frequently synthesize answers from the meaning of a relevant context span rather than literally copy-pasting them. Identifying which attention heads perform ",
-        "published": "2026-06-30T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 17,
-        "is_new": false
-      },
-      {
         "id": "30839027724c9e5ffc17ff2bdf93488e",
         "title": "AnyBokeh: Physics-Guided Any-to-Any Bokeh Editing with Optical Fingerprint Transfer",
         "url": "https://huggingface.co/papers/2606.31959",
@@ -1477,7 +1529,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 2,
+        "likes": 3,
         "is_new": false
       },
       {
@@ -1516,46 +1568,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 8,
-        "is_new": false
-      },
-      {
-        "id": "c7d14b855604a74528938202735a6a91",
-        "title": "AGE: Adaptive-masking for Graph Embedding in Graph Retrieval-Augmented Generation",
-        "url": "https://huggingface.co/papers/2607.00052",
-        "description": "GraphRAG is an extension of retrieval-augmented generation (RAG) that supports large language models (LLMs) by referring to graph-structured data as external knowledge. While this technique ideally ca",
-        "published": "2026-06-29T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 3,
-        "is_new": false
-      },
-      {
-        "id": "9786eb1e355aad3a63aeb19fa057537a",
-        "title": "DuoMem: Towards Capable On-Device Memory Agents via Dual-Space Distillation",
-        "url": "https://huggingface.co/papers/2606.29961",
-        "description": "Large Language Model (LLM)-based agents can solve complex procedural tasks by interacting with environments over multiple turns, but this ability typically depends on large models, long contexts, and ",
-        "published": "2026-06-28T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
         "likes": 9,
-        "is_new": false
-      },
-      {
-        "id": "8cca1617854b032822fb1121ea4934b9",
-        "title": "The Mirage of Optimizing Training Policies: Monotonic Inference Policies as the Real Objective for LLM Reinforcement Learning",
-        "url": "https://huggingface.co/papers/2606.29526",
-        "description": "Reinforcement learning (RL) has gained growing attention in large language model (LLM) post-training, yet RL training remains fragile and can suffer from instability or collapse. One vital cause is tr",
-        "published": "2026-06-27T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 141,
         "is_new": false
       },
       {
@@ -1568,20 +1581,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 19,
-        "is_new": false
-      },
-      {
-        "id": "7e374bdcf8286b752deac4c4ccc053e8",
-        "title": "Parameter-Efficient Quantum-Inspired Fast Weight Programmers for Traffic-Matrix Forecasting",
-        "url": "https://huggingface.co/papers/2606.27821",
-        "description": "Traffic matrices (TMs) capture network-wide origin-destination demand and are central to traffic engineering, yet accurate whole-matrix forecasting remains challenging when prediction must be performe",
-        "published": "2026-06-25T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 4,
+        "likes": 23,
         "is_new": false
       }
     ]
