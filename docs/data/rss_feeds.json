@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-07T12:08:17.445380+00:00",
+  "last_updated": "2026-07-07T14:50:06.237089+00:00",
   "total_entries": 110,
-  "new_entries": 5,
+  "new_entries": 9,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -48,10 +48,22 @@
   ],
   "entries": [
     {
+      "id": "e2c62726c5816c6c5f05434eae5e7f2f",
+      "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
+      "url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
+      "description": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday.",
+      "published": "Tue, 07 Jul 2026 12:00:00 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "a88205ef5d4e9a5ef2bbc7367145edac",
       "title": "The first American autonomous ground vehicles are fighting in Ukraine",
       "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
-      "description": "Forterra has deployed more than 100",
+      "description": "Forterra has deployed more than 100 of its self-driving ATVs in conflict zones in Ukraine.",
       "published": "Tue, 07 Jul 2026 09:00:00 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
@@ -564,18 +576,6 @@
       "is_new": false
     },
     {
-      "id": "a37f0922b8675590dd8a2da4c133b2c2",
-      "title": "Meta quietly launches vibe-coded gaming app Pocket",
-      "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
-      "description": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
-      "published": "Thu, 02 Jul 2026 18:44:02 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "0600934a901094d4f2be883f67c19585",
       "title": "Amazon will stop accepting new customers for Mechanical Turk",
       "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
@@ -923,8 +923,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 10,
-      "comments": 8,
+      "points": 11,
+      "comments": 12,
       "is_new": false
     },
     {
@@ -942,6 +942,32 @@
       "is_new": false
     },
     {
+      "id": "842cf49a4dca015f8db73f19c46a03be",
+      "title": "SynCity 3000: Bootstrapping Scene-Scale 3D Diffusion",
+      "url": "https://huggingface.co/papers/2607.05392",
+      "description": "We present SynCity 3000, a framework for generating 3D scenes that are globally coherent while enabling fine-grained layout control. Building on the ability of current image-to-3D generators to produc",
+      "published": "2026-07-05T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "205c711c6ec53451f40b72191d32d357",
+      "title": "Unified Audio Intelligence Without Regressing on Text Intelligence",
+      "url": "https://huggingface.co/papers/2607.05196",
+      "description": "Audio intelligence involves understanding, reasoning about, and generating both audio and speech. In this work, we introduce Nemotron-Labs-Audex-30B-A3B (Audex), a unified audio-text LLM built on Nemo",
+      "published": "2026-07-05T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
+    },
+    {
       "id": "348da81578a1f2237ffd885733cadfb3",
       "title": "KVpop -- Key-Value Cache Compression with Predictive Online Pruning",
       "url": "https://huggingface.co/papers/2607.05061",
@@ -951,7 +977,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 11,
+      "likes": 12,
       "is_new": false
     },
     {
@@ -964,7 +990,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -977,7 +1003,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 11,
+      "likes": 13,
       "is_new": false
     },
     {
@@ -1003,7 +1029,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 6,
       "is_new": false
     },
     {
@@ -1016,33 +1042,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
-      "is_new": false
-    },
-    {
-      "id": "dfe60acad2c8b5896802ab95ef65b9ae",
-      "title": "Multiplayer Interactive World Models with Representation Autoencoders",
-      "url": "https://huggingface.co/papers/2607.05352",
-      "description": "We introduce the first multiplayer world model for highly dynamic environments governed by complex physical interactions. Whereas single-player world models treat the other agents as part of the envir",
-      "published": "2026-07-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 5,
-      "is_new": false
-    },
-    {
-      "id": "b4afda49f0eea33ce13dd3a77e68d2e5",
-      "title": "Deform360: A Massive Multi-view Visuotactile Dataset for Deformable World Models",
-      "url": "https://huggingface.co/papers/2607.05390",
-      "description": "Predicting object dynamics (i.e., world modeling) is a fundamental challenge for robotic manipulation, and modeling deformable objects presents a particularly difficult case due to their high-dimensio",
-      "published": "2026-07-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
+      "likes": 6,
       "is_new": false
     },
     {
@@ -1110,7 +1110,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 10,
       "is_new": false
     },
     {
@@ -1137,7 +1137,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 13,
       "is_new": true
     },
     {
@@ -1150,7 +1150,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 31,
+      "likes": 32,
       "is_new": false
     },
     {
@@ -1218,6 +1218,19 @@
       "is_new": false
     },
     {
+      "id": "e469e2c8f827eabc2b04d5695cbbd4a1",
+      "title": "Speaker-Aware Temporal Aggregation Strategies on Segment Representations for Depression Detection in Dyadic Interaction: A Benchmark Study",
+      "url": "https://huggingface.co/papers/2607.02904",
+      "description": "Speech-based depression detection compresses features from short audio segments into one speaker-level decision, a step called temporal aggregation rarely studied on its own. Most benchmarks fix a sin",
+      "published": "2026-07-02T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "95ce97b2f776d5db824087510350dbed",
       "title": "Taste-aware music retrieval from audio embeddings",
       "url": "https://huggingface.co/papers/2607.03296",
@@ -1257,19 +1270,6 @@
       "is_new": false
     },
     {
-      "id": "f7b16c97a838afc86a03c8c224598abe",
-      "title": "PixCon: Clean-Positive Contrastive Learning for Foundation-Model Semi-Supervised Segmentation",
-      "url": "https://huggingface.co/papers/2607.03068",
-      "description": "Semi-supervised semantic segmentation (SSSS) has long turned on one question, which pseudo-labels to trust, and answered it with ever more careful confidence filtering. Foundation backbones change the",
-      "published": "2026-07-02T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
-      "is_new": false
-    },
-    {
       "id": "48766320",
       "title": "Show HN: EEBench – AI agents design real circuits, graded by physics simulation",
       "url": "https://www.eebench.org/",
@@ -1301,10 +1301,22 @@
   "by_category": {
     "news": [
       {
+        "id": "e2c62726c5816c6c5f05434eae5e7f2f",
+        "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
+        "url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
+        "description": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday.",
+        "published": "Tue, 07 Jul 2026 12:00:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "a88205ef5d4e9a5ef2bbc7367145edac",
         "title": "The first American autonomous ground vehicles are fighting in Ukraine",
         "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
-        "description": "Forterra has deployed more than 100",
+        "description": "Forterra has deployed more than 100 of its self-driving ATVs in conflict zones in Ukraine.",
         "published": "Tue, 07 Jul 2026 09:00:00 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
@@ -1330,18 +1342,6 @@
         "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
         "description": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.",
         "published": "Thu, 02 Jul 2026 20:11:59 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "a37f0922b8675590dd8a2da4c133b2c2",
-        "title": "Meta quietly launches vibe-coded gaming app Pocket",
-        "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
-        "description": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
-        "published": "Thu, 02 Jul 2026 18:44:02 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
