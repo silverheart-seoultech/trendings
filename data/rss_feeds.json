@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-07T15:10:10.911269+00:00",
+  "last_updated": "2026-07-07T17:24:51.272891+00:00",
   "total_entries": 110,
-  "new_entries": 1,
+  "new_entries": 6,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,6 +47,18 @@
     }
   ],
   "entries": [
+    {
+      "id": "ffc63549d918790eecbe14cbcdcae955",
+      "title": "Claude Cowork expands to mobile and web",
+      "url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+      "description": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed.",
+      "published": "Tue, 07 Jul 2026 16:27:18 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "e2c62726c5816c6c5f05434eae5e7f2f",
       "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
@@ -564,18 +576,6 @@
       "is_new": false
     },
     {
-      "id": "f4b4508296004a842e3deb7086bba681",
-      "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
-      "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
-      "description": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.",
-      "published": "Thu, 02 Jul 2026 20:11:59 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "0600934a901094d4f2be883f67c19585",
       "title": "Amazon will stop accepting new customers for Mechanical Turk",
       "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
@@ -768,6 +768,20 @@
       "is_new": false
     },
     {
+      "id": "48819808",
+      "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "description": "",
+      "published": "2026-07-07T16:10:44Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 6,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "48815458",
       "title": "Show HN: Graphenium – Local Trust Layer for AI Agents (Rust, Datalog, Salsa)",
       "url": "https://github.com/lambda-alpha-labs/Graphenium",
@@ -846,18 +860,6 @@
       "points": 4,
       "comments": 0,
       "is_new": false
-    },
-    {
-      "id": "c4d5624322a56b55294322e2aea1a206",
-      "title": "Solos debuts an even lighter version of its camera-less smart glasses",
-      "url": "https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy",
-      "description": "Solos announced a new version of its AirGo smart glasses, one that forgoes cameras for a sleeker design and an AI assistant that relies on voice interactions. Last year's AirGo A5 weighed 36 to 40 gra",
-      "published": "2026-07-06T13:18:51-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": true
     },
     {
       "id": "48802741",
@@ -989,7 +991,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 12,
+      "likes": 13,
       "is_new": false
     },
     {
@@ -1002,7 +1004,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 5,
       "is_new": false
     },
     {
@@ -1015,46 +1017,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 13,
-      "is_new": false
-    },
-    {
-      "id": "fda9330334918402f4016559c800674f",
-      "title": "InternVLA-A1.5: Unifying Understanding, Latent Foresight, and Action for Compositional Generalization",
-      "url": "https://huggingface.co/papers/2607.04988",
-      "description": "Unified models for robot manipulation aim to equip one policy with both the semantic priors of pretrained VLMs and the physical dynamics learned through future prediction. In practice, existing design",
-      "published": "2026-07-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 16,
-      "is_new": false
-    },
-    {
-      "id": "401997d28a1f5276538da4a2a4f9db6d",
-      "title": "EdgeBench: Unveiling Scaling Laws of Learning from Real-World Environments",
-      "url": "https://huggingface.co/papers/2607.05155",
-      "description": "Pretraining scaling laws reveal that model capability improves predictably with data and compute. But learning from real world environments after deployment remains far less understood. Analyzing roug",
-      "published": "2026-07-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 6,
-      "is_new": false
-    },
-    {
-      "id": "f029841b5b2453820539647a80f9ec50",
-      "title": "LLM-as-a-Verifier: A General-Purpose Verification Framework",
-      "url": "https://huggingface.co/papers/2607.05391",
-      "description": "Scaling pre-training, post-training, and test-time compute have become the central paradigms for improving the capabilities of LLMs. In this work, we identify verification, the ability to determine th",
-      "published": "2026-07-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 6,
+      "likes": 14,
       "is_new": false
     },
     {
@@ -1109,7 +1072,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 1,
       "is_new": false
     },
     {
@@ -1122,7 +1085,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 10,
+      "likes": 12,
       "is_new": false
     },
     {
@@ -1140,6 +1103,32 @@
       "is_new": false
     },
     {
+      "id": "145bdacf1029aede833b7e995b4d09bb",
+      "title": "Look Before You Leap: Distilling Tree Search into Action Evaluation for Frozen VLA Models",
+      "url": "https://huggingface.co/papers/2607.03751",
+      "description": "Vision-Language-Action (VLA) models acquire broad embodied capabilities through large-scale pretraining, yet their generalization remains far more fragile than that of LLMs and VLMs. The prevailing re",
+      "published": "2026-07-03T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "aeb31d505b430afdeeca5ca4bc0ba07f",
+      "title": "Bridging Interleaved Multi-Modal Reasoning as a Unified Decision Process",
+      "url": "https://huggingface.co/papers/2607.03748",
+      "description": "Unified multi-modal models (UMMs) have shown promising interleaved text-image reasoning capabilities, yet effectively optimizing such multi-turn generation via reinforcement learning (RL) remains an o",
+      "published": "2026-07-03T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
       "id": "32c6a3969c2c3107f736bb993971c3f0",
       "title": "MANCE: Manifold Aware Concept Erasure",
       "url": "https://huggingface.co/papers/2607.03973",
@@ -1149,7 +1138,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 18,
+      "likes": 23,
       "is_new": false
     },
     {
@@ -1162,7 +1151,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 33,
+      "likes": 58,
       "is_new": false
     },
     {
@@ -1239,7 +1228,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 1,
       "is_new": false
     },
     {
@@ -1252,7 +1241,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -1265,7 +1254,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -1278,7 +1267,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
+      "likes": 9,
       "is_new": false
     },
     {
@@ -1294,10 +1283,36 @@
       "points": 1,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "48762592",
+      "title": "Show HN: Enola-A deterministic architecture graph for developers and AI agents",
+      "url": "https://github.com/enola-labs/enola/tree/main",
+      "description": "",
+      "published": "2026-07-02T14:53:27Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 10,
+      "comments": 4,
+      "is_new": false
     }
   ],
   "by_category": {
     "news": [
+      {
+        "id": "ffc63549d918790eecbe14cbcdcae955",
+        "title": "Claude Cowork expands to mobile and web",
+        "url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+        "description": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed.",
+        "published": "Tue, 07 Jul 2026 16:27:18 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "e2c62726c5816c6c5f05434eae5e7f2f",
         "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
@@ -1328,18 +1343,6 @@
         "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
         "description": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
         "published": "Thu, 02 Jul 2026 23:38:10 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "f4b4508296004a842e3deb7086bba681",
-        "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
-        "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
-        "description": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.",
-        "published": "Thu, 02 Jul 2026 20:11:59 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
@@ -1539,6 +1542,20 @@
         "is_new": false
       },
       {
+        "id": "48819808",
+        "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+        "url": "https://github.com/rowboatlabs/rowboat",
+        "description": "",
+        "published": "2026-07-07T16:10:44Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 6,
+        "comments": 0,
+        "is_new": true
+      },
+      {
         "id": "48815458",
         "title": "Show HN: Graphenium – Local Trust Layer for AI Agents (Rust, Datalog, Salsa)",
         "url": "https://github.com/lambda-alpha-labs/Graphenium",
@@ -1617,18 +1634,6 @@
         "points": 4,
         "comments": 0,
         "is_new": false
-      },
-      {
-        "id": "c4d5624322a56b55294322e2aea1a206",
-        "title": "Solos debuts an even lighter version of its camera-less smart glasses",
-        "url": "https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy",
-        "description": "Solos announced a new version of its AirGo smart glasses, one that forgoes cameras for a sleeker design and an AI assistant that relies on voice interactions. Last year's AirGo A5 weighed 36 to 40 gra",
-        "published": "2026-07-06T13:18:51-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": true
       },
       {
         "id": "48802741",
