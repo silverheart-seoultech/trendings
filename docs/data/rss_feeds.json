@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-07T14:50:06.237089+00:00",
+  "last_updated": "2026-07-07T15:10:10.911269+00:00",
   "total_entries": 110,
-  "new_entries": 9,
+  "new_entries": 1,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -57,7 +57,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "a88205ef5d4e9a5ef2bbc7367145edac",
@@ -848,6 +848,18 @@
       "is_new": false
     },
     {
+      "id": "c4d5624322a56b55294322e2aea1a206",
+      "title": "Solos debuts an even lighter version of its camera-less smart glasses",
+      "url": "https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy",
+      "description": "Solos announced a new version of its AirGo smart glasses, one that forgoes cameras for a sleeker design and an AI assistant that relies on voice interactions. Last year's AirGo A5 weighed 36 to 40 gra",
+      "published": "2026-07-06T13:18:51-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "48802741",
       "title": "Show HN: PAI, a Linux-y personal-assistant for Mac",
       "url": "https://www.whitematterlabs.ai/",
@@ -952,7 +964,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "205c711c6ec53451f40b72191d32d357",
@@ -965,7 +977,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "348da81578a1f2237ffd885733cadfb3",
@@ -1098,7 +1110,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "d35cd01702496f3d45f07ed79c8a2b86",
@@ -1137,8 +1149,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 13,
-      "is_new": true
+      "likes": 18,
+      "is_new": false
     },
     {
       "id": "b5e4b0eb18e371231c9af0dd49947eea",
@@ -1150,7 +1162,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 32,
+      "likes": 33,
       "is_new": false
     },
     {
@@ -1228,7 +1240,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "95ce97b2f776d5db824087510350dbed",
@@ -1241,7 +1253,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "09f1d5b0485710514d618948c3bee22c",
@@ -1282,20 +1294,6 @@
       "points": 1,
       "comments": 0,
       "is_new": false
-    },
-    {
-      "id": "48762592",
-      "title": "Show HN: Enola-A deterministic architecture graph for developers and AI agents",
-      "url": "https://github.com/enola-labs/enola/tree/main",
-      "description": "",
-      "published": "2026-07-02T14:53:27Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 10,
-      "comments": 4,
-      "is_new": false
     }
   ],
   "by_category": {
@@ -1310,7 +1308,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "a88205ef5d4e9a5ef2bbc7367145edac",
@@ -1621,6 +1619,18 @@
         "is_new": false
       },
       {
+        "id": "c4d5624322a56b55294322e2aea1a206",
+        "title": "Solos debuts an even lighter version of its camera-less smart glasses",
+        "url": "https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy",
+        "description": "Solos announced a new version of its AirGo smart glasses, one that forgoes cameras for a sleeker design and an AI assistant that relies on voice interactions. Last year's AirGo A5 weighed 36 to 40 gra",
+        "published": "2026-07-06T13:18:51-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "48802741",
         "title": "Show HN: PAI, a Linux-y personal-assistant for Mac",
         "url": "https://www.whitematterlabs.ai/",
@@ -1660,18 +1670,6 @@
         "category": "news",
         "points": 3,
         "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "c597736af88d2090bd3e25e61afaf5e6",
-        "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
-        "description": "\"Group project, but make it 1776.\" That's how a new commercial for Google Workspace opens. And things only get cringier from there. The clip imagines what it would be like if the founding fathers turn",
-        "published": "2026-07-06T05:43:17-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
         "is_new": false
       }
     ],
