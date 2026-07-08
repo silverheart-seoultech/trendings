@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-08T00:10:29.231650+00:00",
+  "last_updated": "2026-07-08T03:23:59.228433+00:00",
   "total_entries": 110,
-  "new_entries": 4,
+  "new_entries": 16,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -49,7 +49,7 @@
   "entries": [
     {
       "id": "43c24424eacf387e2d13cad2cf1a6d2c",
-      "title": "Meta rolls out Muse, a new AI image generator",
+      "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
       "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
       "description": "The new image-generating model has numerous use cases, including advertising, decorating and creator-based opportunities.",
       "published": "Tue, 07 Jul 2026 22:18:10 +0000",
@@ -819,7 +819,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 2,
+      "points": 3,
       "comments": 1,
       "is_new": false
     },
@@ -859,8 +859,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 76,
-      "comments": 23,
+      "points": 109,
+      "comments": 27,
       "is_new": false
     },
     {
@@ -916,6 +916,84 @@
       "points": 2,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "5e64516270707e4a02052ed09bdc4906",
+      "title": "Quantifying and Expanding the Theoretical Capacity of Late-Interaction Retrieval Models",
+      "url": "https://huggingface.co/papers/2607.05803",
+      "description": "Late-interaction retrieval models that use the MaxSim similarity function have shown strong empirical performance, often outperforming single-vector dense and sparse retrieval models. Despite these em",
+      "published": "2026-07-06T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "fa4811e4098f7f6baa938301b4a5bff9",
+      "title": "SIEVE: Structure-Aware Data Selection for Imitation Learning with VLA Models",
+      "url": "https://huggingface.co/papers/2607.06442",
+      "description": "Vision-Language-Action (VLA) models are typically trained by imitation learning on large-scale robot demonstration datasets, but more data does not necessarily yield better policies due to redundancy,",
+      "published": "2026-07-06T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "344cdcd72a1ca059d6ab01cc028180b9",
+      "title": "AlayaWorld: Long-Horizon and Playable Video World Generation",
+      "url": "https://huggingface.co/papers/2607.06291",
+      "description": "Game worlds have traditionally been built through labor-intensive production pipelines, making them costly to develop, difficult to customization, and expensive to modify after deployment. Recent adva",
+      "published": "2026-07-06T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 32,
+      "is_new": true
+    },
+    {
+      "id": "0ed11675e025ffe8b69248a407fd6545",
+      "title": "Nemotron-Labs-Diffusion: A Tri-Mode Language Model Unifying Autoregressive, Diffusion, and Self-Speculation Decoding",
+      "url": "https://huggingface.co/papers/2607.05722",
+      "description": "We introduce Nemotron-Labs-Diffusion, a tri-mode language model (LM) that unifies AR, diffusion, and self-speculation decoding within a single architecture. Trained with a joint AR-diffusion objective",
+      "published": "2026-07-06T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "5eaec37519899a89b70263b42ce2765c",
+      "title": "RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation",
+      "url": "https://huggingface.co/papers/2607.06558",
+      "description": "Scaling robot learning requires massive, diverse trajectory data, yet collection is currently bottlenecked by physical teleoperation, where every demonstration binds operator time to specific hardware",
+      "published": "2026-07-06T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "b23ffdfa37d66375642c0c77dab76270",
+      "title": "RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation",
+      "url": "https://huggingface.co/papers/2607.06559",
+      "description": "Robotic manipulation in the open world requires not only recognizing what a scene looks like, but also anticipating how its 3D structure moves under interaction. We argue that synchronized RGB, depth,",
+      "published": "2026-07-06T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
     },
     {
       "id": "888e231d9b414d6300032200fa3003db",
@@ -1062,6 +1140,32 @@
       "is_new": false
     },
     {
+      "id": "1bf8022ddd4e5bcb0e5c4d6c4495a619",
+      "title": "TREK: Distill to Explore, Reinforce to Refine",
+      "url": "https://huggingface.co/papers/2607.05339",
+      "description": "Group Relative Policy Optimization (GRPO) is effective when the current policy already samples useful reasoning trajectories, but it stalls on hard prompts whose correct solution modes lie outside the",
+      "published": "2026-07-05T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 6,
+      "is_new": true
+    },
+    {
+      "id": "dc56cb52df1d368027a68326d25c177e",
+      "title": "Light-Omni: Reflex over Reasoning in Agentic Video Understanding with Long-Term Memory",
+      "url": "https://huggingface.co/papers/2607.05511",
+      "description": "Agentic video understanding equips models with long-term memory to autonomously process and respond to continuous, long-horizon multimodal streams. However, advanced video agents often rely on ``detec",
+      "published": "2026-07-05T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 12,
+      "is_new": true
+    },
+    {
       "id": "56b84798020d0375489e31788feaf3cf",
       "title": "GaP: A Graph-as-Policy Multi-Agent Self-Learning Harness For Variational Automation Tasks",
       "url": "https://huggingface.co/papers/2607.05369",
@@ -1071,7 +1175,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -1085,58 +1189,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "205c711c6ec53451f40b72191d32d357",
-      "title": "Unified Audio Intelligence Without Regressing on Text Intelligence",
-      "url": "https://huggingface.co/papers/2607.05196",
-      "description": "Audio intelligence involves understanding, reasoning about, and generating both audio and speech. In this work, we introduce Nemotron-Labs-Audex-30B-A3B (Audex), a unified audio-text LLM built on Nemo",
-      "published": "2026-07-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 7,
-      "is_new": false
-    },
-    {
-      "id": "348da81578a1f2237ffd885733cadfb3",
-      "title": "KVpop -- Key-Value Cache Compression with Predictive Online Pruning",
-      "url": "https://huggingface.co/papers/2607.05061",
-      "description": "Key-value (KV) cache growth is a major bottleneck in autoregressive decoding, as memory and bandwidth scale linearly with context length. Existing KV eviction methods often rely on static heuristics o",
-      "published": "2026-07-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 16,
-      "is_new": false
-    },
-    {
-      "id": "f160659291e00f092dab7176d096a269",
-      "title": "MV-Forcing: Long Multi-View Video Generation via 4D-Grounded Spatio-Temporal Self-Forcing",
-      "url": "https://huggingface.co/papers/2607.05376",
-      "description": "Recent advances in video diffusion models have enabled either long single-view generation through temporal autoregression, or short multi-view synthesis through bidirectional attention. However, gener",
-      "published": "2026-07-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 7,
-      "is_new": false
-    },
-    {
-      "id": "03e8773d87118ff649631a904dac7c9c",
-      "title": "Do All Visual Tokens Matter Equally? Object-Evidence Preserving Token Merging for Vision-Language Retrieval",
-      "url": "https://huggingface.co/papers/2607.04605",
-      "description": "Multi-vector vision-language retrieval preserves fine-grained visual evidence through maximum-similarity late interaction, but dense image-side tokens make storage and scoring expensive. Existing toke",
-      "published": "2026-07-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 15,
       "is_new": false
     },
     {
@@ -1182,19 +1234,6 @@
       "is_new": false
     },
     {
-      "id": "2a99f6ae1130059289cd661b12d1a784",
-      "title": "AI Wizards at EXIST 2026: Hierarchical Soft-Label Learning for Multimodal Sexism Identification in Memes",
-      "url": "https://huggingface.co/papers/2607.04410",
-      "description": "We present the AI Wizards submission to EXIST 2026 for multimodal sexism identification in memes. The task is composed of three, increasingly harder subtasks. We model them hierarchically as condition",
-      "published": "2026-07-04T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
       "id": "48785299",
       "title": "Show HN: Mycelium – AI agent plugin guiding you from purpose to market",
       "url": "https://github.com/haabe/mycelium",
@@ -1231,33 +1270,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
-      "is_new": false
-    },
-    {
-      "id": "32c6a3969c2c3107f736bb993971c3f0",
-      "title": "MANCE: Manifold Aware Concept Erasure",
-      "url": "https://huggingface.co/papers/2607.03973",
-      "description": "Concept erasure aims to remove a target concept from a representation while preserving the other information encoded in it. This is difficult because representations encode many concepts that are ofte",
-      "published": "2026-07-03T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 32,
-      "is_new": false
-    },
-    {
-      "id": "b5e4b0eb18e371231c9af0dd49947eea",
-      "title": "OmniOpt: Taxonomy, Geometry, and Benchmarking of Modern Optimizers",
-      "url": "https://huggingface.co/papers/2607.04033",
-      "description": "Optimizer selection for large-scale model training has become a system-level design decision constrained jointly by compute, memory, tuning budget, and task diversity, yet the landscape of over one hu",
-      "published": "2026-07-03T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 64,
+      "likes": 5,
       "is_new": false
     },
     {
@@ -1285,25 +1298,13 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
-    },
-    {
-      "id": "f3bac651121fecaf564513a0b395adcf",
-      "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
-      "description": "Midjourney has shown more of its futuristic medical scanner. It still hasn't shown much proof it works. The AI startup, best known for generating images, released a behind-the-scenes video of its dunk",
-      "published": "2026-07-03T07:49:10-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
     }
   ],
   "by_category": {
     "news": [
       {
         "id": "43c24424eacf387e2d13cad2cf1a6d2c",
-        "title": "Meta rolls out Muse, a new AI image generator",
+        "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
         "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
         "description": "The new image-generating model has numerous use cases, including advertising, decorating and creator-based opportunities.",
         "published": "Tue, 07 Jul 2026 22:18:10 +0000",
@@ -1593,7 +1594,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 2,
+        "points": 3,
         "comments": 1,
         "is_new": false
       },
@@ -1633,8 +1634,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 76,
-        "comments": 23,
+        "points": 109,
+        "comments": 27,
         "is_new": false
       },
       {
