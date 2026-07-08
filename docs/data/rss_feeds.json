@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-08T03:23:59.228433+00:00",
+  "last_updated": "2026-07-08T03:40:32.011207+00:00",
   "total_entries": 110,
-  "new_entries": 16,
+  "new_entries": 1,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -57,7 +57,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "ac26af5ade469fc1f17aa3141f1b7992",
@@ -69,7 +69,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "6d46c33e5722d2bc948097935a7c7af6",
@@ -779,7 +779,7 @@
       "category": "news",
       "points": 1,
       "comments": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "48822750",
@@ -847,7 +847,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "48819808",
@@ -859,7 +859,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 109,
+      "points": 112,
       "comments": 27,
       "is_new": false
     },
@@ -928,7 +928,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "fa4811e4098f7f6baa938301b4a5bff9",
@@ -941,7 +941,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "344cdcd72a1ca059d6ab01cc028180b9",
@@ -954,7 +954,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 32,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "0ed11675e025ffe8b69248a407fd6545",
@@ -967,7 +967,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "5eaec37519899a89b70263b42ce2765c",
@@ -980,7 +980,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "b23ffdfa37d66375642c0c77dab76270",
@@ -993,7 +993,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "888e231d9b414d6300032200fa3003db",
@@ -1140,6 +1140,19 @@
       "is_new": false
     },
     {
+      "id": "819cfc2a3729ebd073096ce7a8565fbd",
+      "title": "DSpark: Confidence-Scheduled Speculative Decoding with Semi-Autoregressive Generation",
+      "url": "https://huggingface.co/papers/2607.05147",
+      "description": "Speculative decoding accelerates Large Language Model (LLM) inference by decoupling draft generation from target verification. While recent parallel drafters efficiently propose long token sequences i",
+      "published": "2026-07-05T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
       "id": "1bf8022ddd4e5bcb0e5c4d6c4495a619",
       "title": "TREK: Distill to Explore, Reinforce to Refine",
       "url": "https://huggingface.co/papers/2607.05339",
@@ -1150,7 +1163,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "dc56cb52df1d368027a68326d25c177e",
@@ -1163,7 +1176,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 12,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "56b84798020d0375489e31788feaf3cf",
@@ -1176,19 +1189,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "842cf49a4dca015f8db73f19c46a03be",
-      "title": "SynCity 3000: Bootstrapping Scene-Scale 3D Diffusion",
-      "url": "https://huggingface.co/papers/2607.05392",
-      "description": "We present SynCity 3000, a framework for generating 3D scenes that are globally coherent while enabling fine-grained layout control. Building on the ability of current image-to-3D generators to produc",
-      "published": "2026-07-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
       "is_new": false
     },
     {
@@ -1215,7 +1215,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 4,
+      "points": 5,
       "comments": 1,
       "is_new": false
     },
@@ -1312,7 +1312,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "ac26af5ade469fc1f17aa3141f1b7992",
@@ -1324,7 +1324,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "6d46c33e5722d2bc948097935a7c7af6",
@@ -1554,7 +1554,7 @@
         "category": "news",
         "points": 1,
         "comments": 0,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "48822750",
@@ -1622,7 +1622,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "48819808",
@@ -1634,7 +1634,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 109,
+        "points": 112,
         "comments": 27,
         "is_new": false
       },
