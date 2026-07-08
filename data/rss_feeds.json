@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-08T11:55:51.912584+00:00",
+  "last_updated": "2026-07-08T14:28:06.541494+00:00",
   "total_entries": 110,
-  "new_entries": 2,
+  "new_entries": 8,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,6 +47,18 @@
     }
   ],
   "entries": [
+    {
+      "id": "045708e1dc8bf03f1c39d131f0f72fc4",
+      "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
+      "url": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
+      "description": "Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley.",
+      "published": "Wed, 08 Jul 2026 12:00:00 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "03bb7eb85c2e7a7044045237664acf73",
       "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
@@ -648,18 +660,6 @@
       "is_new": false
     },
     {
-      "id": "4aeb7d2c2c2424535911a393be0f1bfb",
-      "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
-      "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
-      "description": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
-      "published": "Sat, 04 Jul 2026 20:55:25 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "bd206ca68985755ccb9bcc41a95c67cb",
       "title": "The ‘first’ AI-run ransomware attack still needed a human",
       "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
@@ -768,6 +768,20 @@
       "is_new": false
     },
     {
+      "id": "48830828",
+      "title": "Show HN: CodeRadius, map and govern multi repo architectures",
+      "url": "https://coderadius.ai",
+      "description": "",
+      "published": "2026-07-08T12:04:19Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "041d3e03c54a3d86cb670ca93d75b1d9",
       "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
       "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
@@ -859,8 +873,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 168,
-      "comments": 53,
+      "points": 191,
+      "comments": 73,
       "is_new": false
     },
     {
@@ -927,7 +941,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
+      "likes": 10,
       "is_new": false
     },
     {
@@ -953,7 +967,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -966,7 +980,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
+      "likes": 9,
       "is_new": false
     },
     {
@@ -979,20 +993,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 23,
-      "is_new": false
-    },
-    {
-      "id": "5e64516270707e4a02052ed09bdc4906",
-      "title": "Quantifying and Expanding the Theoretical Capacity of Late-Interaction Retrieval Models",
-      "url": "https://huggingface.co/papers/2607.05803",
-      "description": "Late-interaction retrieval models that use the MaxSim similarity function have shown strong empirical performance, often outperforming single-vector dense and sparse retrieval models. Despite these em",
-      "published": "2026-07-06T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
+      "likes": 28,
       "is_new": false
     },
     {
@@ -1140,6 +1141,32 @@
       "is_new": false
     },
     {
+      "id": "3b26c19d6816e7b596ce32de58dc3f34",
+      "title": "HunyuanOCR-1.5: Making Lightweight OCR VLMs Faster and Better",
+      "url": "https://huggingface.co/papers/2607.04884",
+      "description": "We present HunyuanOCR-1.5, a lightweight end-to-end OCR-specialized vision-language model. HunyuanOCR unifies document parsing, text spotting, information extraction, text-image translation, and multi",
+      "published": "2026-07-05T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "f980d0ae232581eb819716f07eb4cb70",
+      "title": "Where to cut, how deep: BPE and Unigram-LM on chemistry SMILES",
+      "url": "https://huggingface.co/papers/2607.05691",
+      "description": "Every chemical language model reading SMILES begins with a tokenizer, yet the field has inherited byte-pair encoding (BPE) from natural language with little scrutiny. In natural language, BPE's princi",
+      "published": "2026-07-05T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "9fc4fb9af5585e00fbb7068e1ef92e4d",
       "title": "CanvasAgent: Enabling Complex Image Creation and Editing via Visual Tool Orchestration",
       "url": "https://huggingface.co/papers/2607.05465",
@@ -1149,7 +1176,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
+      "likes": 8,
       "is_new": true
     },
     {
@@ -1162,7 +1189,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 11,
+      "likes": 13,
       "is_new": false
     },
     {
@@ -1222,6 +1249,19 @@
       "is_new": false
     },
     {
+      "id": "fa9fb9f5ca0e0984ecc905d52fb88119",
+      "title": "SiamJEPA: On the Role of Siamese Student Encoders in JEPA",
+      "url": "https://huggingface.co/papers/2607.04044",
+      "description": "Recently, Joint Embedding Predictive Architectures (JEPAs) have attracted significant attention in the computer vision and machine learning communities as a promising framework for self-supervised rep",
+      "published": "2026-07-03T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "fb298210e2155e77862940a2b363f442",
       "title": "CGGS: Consistency-Augmented Geometric Gaussian Splatting for Ego-centric 3D Scene Generation",
       "url": "https://huggingface.co/papers/2607.03819",
@@ -1231,21 +1271,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "48774713",
-      "title": "Simulating Tradeoffs in AI Organisation",
-      "url": "https://news.ycombinator.com/item?id=48774713",
-      "description": "",
-      "published": "2026-07-03T13:20:35Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 1,
-      "comments": 0,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -1271,35 +1297,22 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
-    },
-    {
-      "id": "f87cfe76151d6d28d3b19b0060f0c3e5",
-      "title": "The fanfiction community is at war with AI — and itself",
-      "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
-      "description": "Over the past week, a new fanworks movement has kicked off, with the aim to root out authors using generative AI. But the detection methods being implemented are questionable, and any fanfic writer co",
-      "published": "2026-07-03T04:42:57-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "a7028c5ec914a4cf8519050b52a0b0f4",
-      "title": "Bibby AI: An Editor-Native Agentic Platform for Academic Research, Writing, and Publishing",
-      "url": "https://huggingface.co/papers/2607.05435",
-      "description": "Academic output is produced across a fragmented toolchain: literature discovery in one application, reference management in another, writing in a LaTeX editor, formatting against venue templates by ha",
-      "published": "2026-07-02T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
-      "is_new": true
     }
   ],
   "by_category": {
     "news": [
+      {
+        "id": "045708e1dc8bf03f1c39d131f0f72fc4",
+        "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
+        "url": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
+        "description": "Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley.",
+        "published": "Wed, 08 Jul 2026 12:00:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "03bb7eb85c2e7a7044045237664acf73",
         "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
@@ -1421,18 +1434,6 @@
         "is_new": false
       },
       {
-        "id": "4aeb7d2c2c2424535911a393be0f1bfb",
-        "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
-        "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
-        "description": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
-        "published": "Sat, 04 Jul 2026 20:55:25 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
         "id": "bd206ca68985755ccb9bcc41a95c67cb",
         "title": "The ‘first’ AI-run ransomware attack still needed a human",
         "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
@@ -1541,6 +1542,20 @@
         "is_new": false
       },
       {
+        "id": "48830828",
+        "title": "Show HN: CodeRadius, map and govern multi repo architectures",
+        "url": "https://coderadius.ai",
+        "description": "",
+        "published": "2026-07-08T12:04:19Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 1,
+        "comments": 0,
+        "is_new": true
+      },
+      {
         "id": "041d3e03c54a3d86cb670ca93d75b1d9",
         "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
         "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
@@ -1632,8 +1647,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 168,
-        "comments": 53,
+        "points": 191,
+        "comments": 73,
         "is_new": false
       },
       {
@@ -1659,20 +1674,6 @@
         "source_icon": "🟧",
         "category": "news",
         "points": 1,
-        "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "48812900",
-        "title": "Show HN: Foundation – A Tale of Tokens and Psychosis",
-        "url": "https://github.com/nmxmxh/foundation",
-        "description": "",
-        "published": "2026-07-07T02:09:21Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 2,
         "comments": 0,
         "is_new": false
       }
