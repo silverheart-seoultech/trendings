@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-08T20:35:52.444608+00:00",
+  "last_updated": "2026-07-08T22:15:21.496851+00:00",
   "total_entries": 110,
-  "new_entries": 1,
+  "new_entries": 4,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,6 +47,18 @@
     }
   ],
   "entries": [
+    {
+      "id": "16f0c7d55a20c5dd905027e41b7ad6bd",
+      "title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
+      "url": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+      "description": "Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake.",
+      "published": "Wed, 08 Jul 2026 20:37:03 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "e265f51e2cb78ffe1a88c87869577fab",
       "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
@@ -756,16 +768,18 @@
       "is_new": false
     },
     {
-      "id": "bd206ca68985755ccb9bcc41a95c67cb",
-      "title": "The ‘first’ AI-run ransomware attack still needed a human",
-      "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
-      "description": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied",
-      "published": "Mon, 06 Jul 2026 23:56:14 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
+      "id": "48837666",
+      "title": "Show HN: Runtime security enforcement and capability scoping for agents",
+      "url": "https://www.clayseal.com",
+      "description": "",
+      "published": "2026-07-08T21:27:04Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
       "category": "news",
-      "is_new": false
+      "points": 2,
+      "comments": 0,
+      "is_new": true
     },
     {
       "id": "48834961",
@@ -777,7 +791,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 68,
+      "points": 75,
       "comments": 47,
       "is_new": false
     },
@@ -791,8 +805,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 101,
-      "comments": 42,
+      "points": 132,
+      "comments": 58,
       "is_new": false
     },
     {
@@ -885,7 +899,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 4,
+      "points": 5,
       "comments": 0,
       "is_new": false
     },
@@ -927,7 +941,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 210,
+      "points": 211,
       "comments": 91,
       "is_new": false
     },
@@ -1234,18 +1248,17 @@
       "is_new": false
     },
     {
-      "id": "48794698",
-      "title": "Show HN: microide, a 100% vibecoded IDE that LLM agents can drive",
-      "url": "https://pablojimenezmateo.github.io/microide/",
-      "description": "",
-      "published": "2026-07-05T14:49:19Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 5,
-      "comments": 1,
-      "is_new": false
+      "id": "3777744e8b54e469210837274c960fb5",
+      "title": "LLM-as-a-Tutor: Policy-Aware Prompt Adaptation for Non-Verifiable RL",
+      "url": "https://huggingface.co/papers/2607.04412",
+      "description": "Reinforcement learning (RL) for non-verifiable instruction following increasingly relies on LLM judges with prompt-specific rubrics as reward signals. While recent methods adapt these rubrics to the e",
+      "published": "2026-07-04T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
     },
     {
       "id": "1281c8a8b8030fc1954ce8c94e315997",
@@ -1285,22 +1298,22 @@
       "category": "research",
       "likes": 0,
       "is_new": false
-    },
-    {
-      "id": "a77a7282a377a687a69adca3a5ae8275",
-      "title": "Anthropic wants to develop its own drugs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
-      "description": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, an",
-      "published": "2026-07-03T09:56:52-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
     }
   ],
   "by_category": {
     "news": [
+      {
+        "id": "16f0c7d55a20c5dd905027e41b7ad6bd",
+        "title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
+        "url": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+        "description": "Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake.",
+        "published": "Wed, 08 Jul 2026 20:37:03 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "e265f51e2cb78ffe1a88c87869577fab",
         "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
@@ -1530,16 +1543,18 @@
         "is_new": false
       },
       {
-        "id": "bd206ca68985755ccb9bcc41a95c67cb",
-        "title": "The ‘first’ AI-run ransomware attack still needed a human",
-        "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
-        "description": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied",
-        "published": "Mon, 06 Jul 2026 23:56:14 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
+        "id": "48837666",
+        "title": "Show HN: Runtime security enforcement and capability scoping for agents",
+        "url": "https://www.clayseal.com",
+        "description": "",
+        "published": "2026-07-08T21:27:04Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
         "category": "news",
-        "is_new": false
+        "points": 2,
+        "comments": 0,
+        "is_new": true
       },
       {
         "id": "48834961",
@@ -1551,7 +1566,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 68,
+        "points": 75,
         "comments": 47,
         "is_new": false
       },
@@ -1565,8 +1580,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 101,
-        "comments": 42,
+        "points": 132,
+        "comments": 58,
         "is_new": false
       },
       {
@@ -1659,22 +1674,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 4,
-        "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "48821493",
-        "title": "Show HN: Scan any website for AI design patterns",
-        "url": "https://slopcop.adriankrebs.ch",
-        "description": "",
-        "published": "2026-07-07T18:18:26Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
         "points": 5,
-        "comments": 1,
+        "comments": 0,
         "is_new": false
       }
     ],
