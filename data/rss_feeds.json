@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-09T00:19:12.159365+00:00",
+  "last_updated": "2026-07-09T03:51:23.234751+00:00",
   "total_entries": 110,
-  "new_entries": 5,
+  "new_entries": 13,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -315,7 +315,7 @@
       "id": "478eed46a6f4e413355179b172202dc1",
       "title": "ArtisanCAD: An Industrial-Level CAD Agent with Expert-Grounded Knowledge Distillation",
       "url": "https://arxiv.org/abs/2607.05750",
-      "description": "arXiv:2607.05750v1 Announce Type: new \nAbstract: Computer-aided design (CAD) for industrial components requires long-horizon procedural modeling, robust feature dependencies, editable parametric geome",
+      "description": "arXiv:2607.05750v2 Announce Type: new \nAbstract: Computer-aided design (CAD) for industrial components requires long-horizon procedural modeling, robust feature dependencies, editable parametric geome",
       "published": "Wed, 08 Jul 2026 00:00:00 -0400",
       "source_id": "arxiv-ai",
       "source_name": "arXiv AI",
@@ -768,6 +768,20 @@
       "is_new": false
     },
     {
+      "id": "48840103",
+      "title": "Auto compiles recorded LLM-agent behavior into verified WASM binaries",
+      "url": "https://github.com/RightNow-AI/auto",
+      "description": "",
+      "published": "2026-07-09T02:12:01Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "48837666",
       "title": "Show HN: Runtime security enforcement and capability scoping for agents",
       "url": "https://www.clayseal.com",
@@ -791,8 +805,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 79,
-      "comments": 49,
+      "points": 81,
+      "comments": 52,
       "is_new": false
     },
     {
@@ -805,8 +819,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 171,
-      "comments": 71,
+      "points": 225,
+      "comments": 83,
       "is_new": false
     },
     {
@@ -890,6 +904,45 @@
       "is_new": false
     },
     {
+      "id": "82b0c9c1567a0a77c79520f6687842fa",
+      "title": "Dual Latent Memory in Vision-Language-Action Models for Robotic Manipulation",
+      "url": "https://huggingface.co/papers/2607.07608",
+      "description": "Mainstream Vision-Language-Action (VLA) models predict actions primarily from the current observation under a Markovian assumption, thus struggling with long-horizon, temporally dependent tasks. Exist",
+      "published": "2026-07-07T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 10,
+      "is_new": true
+    },
+    {
+      "id": "c19a1f30759cae080d5efe3bc2688248",
+      "title": "Infinite Worlds with Versatile Interactions",
+      "url": "https://huggingface.co/papers/2607.07534",
+      "description": "We present LingBot-World 2.0 (also known as LingBot-World-Infinity), an advanced iteration of LingBot-World featuring four distinct upgrades. (1) Our model achieves an unbounded interaction horizon wh",
+      "published": "2026-07-07T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
+      "id": "d361f5c3b4cc150df64dc05989a2065b",
+      "title": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
+      "url": "https://huggingface.co/papers/2607.07675",
+      "description": "Despite the recent promise in robot control, video generative models suffer from a domain mismatch due to their primary focus on content creation. For example, their design inherently prioritizes visu",
+      "published": "2026-07-07T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 15,
+      "is_new": true
+    },
+    {
       "id": "48822750",
       "title": "Show HN: CLRK, an open-source agent runtime with gVisor and MitM guardrails",
       "url": "https://github.com/apoxy-dev/clrk",
@@ -941,7 +994,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 212,
+      "points": 213,
       "comments": 91,
       "is_new": false
     },
@@ -986,6 +1039,32 @@
       "is_new": false
     },
     {
+      "id": "79c5e82a29bada01971f8866142c482e",
+      "title": "RoboDojo: A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies",
+      "url": "https://huggingface.co/papers/2607.04434",
+      "description": "Generalist robot manipulation policies have advanced rapidly, yet existing benchmarks remain limited in systematically evaluating their capabilities. Many rely on simple, short-horizon, or skill-narro",
+      "published": "2026-07-06T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "3072155b97f3c106bbbc52bc8600757f",
+      "title": "WildCity: A Real-World City-Scale Testbed for Rendering, Simulation, and Spatial Intelligence",
+      "url": "https://huggingface.co/papers/2607.06838",
+      "description": "Humans can navigate an unfamiliar city and gradually form a coherent spatial mental map spanning tens of square kilometers. Can AI build spatial representations at a comparable scale? Although recent ",
+      "published": "2026-07-06T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "4e0a05de32d9c3190a559c8b5da06de6",
       "title": "SWE-Review: Closing the Loop on Issue Resolution with Agentic Code Review",
       "url": "https://huggingface.co/papers/2607.06065",
@@ -996,58 +1075,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "99ade8a44367a0ad77d8fee6d10ca861",
-      "title": "From Foundation to Application: Improving VLA Models in Practice",
-      "url": "https://huggingface.co/papers/2607.06403",
-      "description": "Despite recent progress of VLA foundation models, the disparity between laboratory conditions and real-world applications continues to impede their practical implementation. To bridge this gap, we pre",
-      "published": "2026-07-06T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 11,
-      "is_new": false
-    },
-    {
-      "id": "004c6d1efdc8a81db0cefc4aa1c8960d",
-      "title": "Image2Sim: Scaling Embodied Navigation via Generative Neural Simulator",
-      "url": "https://huggingface.co/papers/2607.05765",
-      "description": "Embodied navigation aims to build agents that interpret multimodal goals, reason in 3D space, and reach target destinations reliably in the real world. However, progress remains constrained by the lac",
-      "published": "2026-07-06T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
-      "is_new": false
-    },
-    {
-      "id": "66601877f40f7290c6be4ce170ffe5c3",
-      "title": "PluraMath: Extending Mathematical Reasoning Evaluation Beyond High-Resource Languages",
-      "url": "https://huggingface.co/papers/2607.05992",
-      "description": "Mathematical reasoning has become a central task for evaluating and tuning reasoning Large Language Models (LLMs), yet existing benchmarks remain heavily biased toward high-resource languages, with En",
-      "published": "2026-07-06T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 5,
-      "is_new": false
-    },
-    {
-      "id": "c5a4da80297cee6b058dd3137b5253a6",
-      "title": "TurnOPD: Making On-Policy Distillation Turn-Aware for Efficient Long-Horizon Agent Training",
-      "url": "https://huggingface.co/papers/2607.05804",
-      "description": "On-policy distillation (OPD) trains a student policy by matching a stronger teacher on the student's own trajectories, offering a promising framework for language agent training. However, its applicat",
-      "published": "2026-07-06T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 10,
       "is_new": false
     },
     {
@@ -1230,21 +1257,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
-      "is_new": false
-    },
-    {
-      "id": "48795930",
-      "title": "Show HN: I hated how much my 12-year-old played Roblox, so we built our own FPS",
-      "url": "https://cooked.house",
-      "description": "",
-      "published": "2026-07-05T17:14:45Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 23,
-      "comments": 7,
+      "likes": 9,
       "is_new": false
     },
     {
@@ -1257,7 +1270,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 17,
       "is_new": true
     },
     {
@@ -1270,7 +1283,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -1284,19 +1297,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 4,
-      "is_new": false
-    },
-    {
-      "id": "fa9fb9f5ca0e0984ecc905d52fb88119",
-      "title": "SiamJEPA: On the Role of Siamese Student Encoders in JEPA",
-      "url": "https://huggingface.co/papers/2607.04044",
-      "description": "Recently, Joint Embedding Predictive Architectures (JEPAs) have attracted significant attention in the computer vision and machine learning communities as a promising framework for self-supervised rep",
-      "published": "2026-07-03T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
       "is_new": false
     }
   ],
@@ -1543,6 +1543,20 @@
         "is_new": false
       },
       {
+        "id": "48840103",
+        "title": "Auto compiles recorded LLM-agent behavior into verified WASM binaries",
+        "url": "https://github.com/RightNow-AI/auto",
+        "description": "",
+        "published": "2026-07-09T02:12:01Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 1,
+        "comments": 0,
+        "is_new": true
+      },
+      {
         "id": "48837666",
         "title": "Show HN: Runtime security enforcement and capability scoping for agents",
         "url": "https://www.clayseal.com",
@@ -1566,8 +1580,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 79,
-        "comments": 49,
+        "points": 81,
+        "comments": 52,
         "is_new": false
       },
       {
@@ -1580,8 +1594,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 171,
-        "comments": 71,
+        "points": 225,
+        "comments": 83,
         "is_new": false
       },
       {
@@ -1661,20 +1675,6 @@
         "source_icon": "🟧",
         "category": "news",
         "points": 1,
-        "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "48822750",
-        "title": "Show HN: CLRK, an open-source agent runtime with gVisor and MitM guardrails",
-        "url": "https://github.com/apoxy-dev/clrk",
-        "description": "",
-        "published": "2026-07-07T19:45:15Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 5,
         "comments": 0,
         "is_new": false
       }
@@ -1780,7 +1780,7 @@
         "id": "478eed46a6f4e413355179b172202dc1",
         "title": "ArtisanCAD: An Industrial-Level CAD Agent with Expert-Grounded Knowledge Distillation",
         "url": "https://arxiv.org/abs/2607.05750",
-        "description": "arXiv:2607.05750v1 Announce Type: new \nAbstract: Computer-aided design (CAD) for industrial components requires long-horizon procedural modeling, robust feature dependencies, editable parametric geome",
+        "description": "arXiv:2607.05750v2 Announce Type: new \nAbstract: Computer-aided design (CAD) for industrial components requires long-horizon procedural modeling, robust feature dependencies, editable parametric geome",
         "published": "Wed, 08 Jul 2026 00:00:00 -0400",
         "source_id": "arxiv-ai",
         "source_name": "arXiv AI",
