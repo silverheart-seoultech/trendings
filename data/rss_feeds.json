@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-10T04:10:30.746783+00:00",
+  "last_updated": "2026-07-10T07:49:36.835762+00:00",
   "total_entries": 110,
-  "new_entries": 21,
+  "new_entries": 27,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -827,8 +827,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 25,
-      "comments": 4,
+      "points": 27,
+      "comments": 5,
       "is_new": false
     },
     {
@@ -867,8 +867,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 29,
-      "comments": 7,
+      "points": 33,
+      "comments": 10,
       "is_new": false
     },
     {
@@ -907,7 +907,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 8,
+      "points": 9,
       "comments": 7,
       "is_new": false
     },
@@ -1014,6 +1014,58 @@
       "is_new": false
     },
     {
+      "id": "08b031d9c569fa30ad2a484a7d22ebc4",
+      "title": "LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models",
+      "url": "https://huggingface.co/papers/2607.08770",
+      "description": "Recovering high-quality video from sparse event streams is a challenging task. Regression methods often blur textures, while existing generative models struggle with long-term stability. We propose Lo",
+      "published": "2026-07-08T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 12,
+      "is_new": true
+    },
+    {
+      "id": "5b3acbb6d3eebce93d480fe0c5b263d2",
+      "title": "Enhancing In-context Panoramic Generation via Geometric-aware Pretraining",
+      "url": "https://huggingface.co/papers/2607.08765",
+      "description": "In this work, we present Canvas360, a two-stage framework for in-context panoramic generation that combines geometry-aware pretraining with downstream task-specific fine-tuning. To address the lack of",
+      "published": "2026-07-08T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "18bbefe9bf5741d686b6937f6f754ac2",
+      "title": "A Quantized Native Runtime for On-Device Semantic Audio Generation",
+      "url": "https://huggingface.co/papers/2607.08526",
+      "description": "Semantic audio applications increasingly require controllable generation on commodity and embedded hardware rather than through framework-heavy datacenter stacks. We present aria, a dependency-free na",
+      "published": "2026-07-08T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "928f338f6bd58500cb89599106e33617",
+      "title": "UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks",
+      "url": "https://huggingface.co/papers/2607.08768",
+      "description": "The rapid development of large language models and multimodal large language models has accelerated the emergence of proactive agents capable of operating everyday tools and assisting users in real-wo",
+      "published": "2026-07-08T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 13,
+      "is_new": true
+    },
+    {
       "id": "b8535eceb20c89634808e9c0144b704e",
       "title": "CausalDS: Benchmarking Causal Reasoning in Data-Science Agents",
       "url": "https://huggingface.co/papers/2607.08093",
@@ -1049,7 +1101,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 10,
+      "likes": 17,
       "is_new": false
     },
     {
@@ -1062,7 +1114,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 6,
       "is_new": false
     },
     {
@@ -1075,7 +1127,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -1088,7 +1140,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 87,
+      "points": 88,
       "comments": 54,
       "is_new": false
     },
@@ -1102,8 +1154,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 340,
-      "comments": 133,
+      "points": 342,
+      "comments": 134,
       "is_new": false
     },
     {
@@ -1189,32 +1241,6 @@
       "is_new": false
     },
     {
-      "id": "a06f7a31eb801485262ce893ae324dd0",
-      "title": "Single-Rollout Asynchronous Optimization for Agentic Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2607.07508",
-      "description": "Reinforcement learning (RL) is becoming increasingly important for post-training large language models (LLMs). Previous RL pipelines for LLMs were mostly synchronous and batch-interleaved, which is in",
-      "published": "2026-07-07T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 8,
-      "is_new": false
-    },
-    {
-      "id": "10573d91fd4714d0de69824268ccddba",
-      "title": "Sparse Delta Memory: Scaling the State of Linear RNNs through Sparsity",
-      "url": "https://huggingface.co/papers/2607.07386",
-      "description": "Linear attention models allow a fixed state size and a fixed amount of compute per token. However, due to their limited state size, linear attention models fall behind in long-context recall compared ",
-      "published": "2026-07-07T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 5,
-      "is_new": false
-    },
-    {
       "id": "48822750",
       "title": "Show HN: CLRK, an open-source agent runtime with gVisor and MitM guardrails",
       "url": "https://github.com/apoxy-dev/clrk",
@@ -1268,33 +1294,6 @@
       "category": "news",
       "points": 216,
       "comments": 94,
-      "is_new": false
-    },
-    {
-      "id": "48812900",
-      "title": "Show HN: Foundation – A Tale of Tokens and Psychosis",
-      "url": "https://github.com/nmxmxh/foundation",
-      "description": "",
-      "published": "2026-07-07T02:09:21Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "2f8b927bd687342b0fda1ce7c6178b9c",
-      "title": "PhyMRI-SR: Toward Physics-Aware MRI Image Super-Resolution",
-      "url": "https://huggingface.co/papers/2607.06238",
-      "description": "Magnetic resonance imaging (MRI) super-resolution is vital for improving diagnostic accessibility, yet most methods treat it as a deterministic mapping from a fixed low-resolution input to a high-reso",
-      "published": "2026-07-06T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
       "is_new": false
     }
   ],
@@ -1600,8 +1599,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 25,
-        "comments": 4,
+        "points": 27,
+        "comments": 5,
         "is_new": false
       },
       {
@@ -1640,8 +1639,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 29,
-        "comments": 7,
+        "points": 33,
+        "comments": 10,
         "is_new": false
       },
       {
