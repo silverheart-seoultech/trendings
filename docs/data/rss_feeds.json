@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-10T07:49:36.835762+00:00",
+  "last_updated": "2026-07-10T09:45:49.161390+00:00",
   "total_entries": 110,
-  "new_entries": 27,
+  "new_entries": 29,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,6 +768,18 @@
       "is_new": true
     },
     {
+      "id": "a7a2619d071e3dab63ad8b624cbe704b",
+      "title": "Character.AI wants a piece of the microdrama pie",
+      "url": "https://www.theverge.com/entertainment/962897/character-ai-series-microdrama-vertical-video",
+      "description": "Character.AI's plan to become more than just an LLM-powered chatbot platform is going beyond interactive books, comics, and audio dramas. Today, the company announced the debut of c.ai Series - short-",
+      "published": "2026-07-10T05:08:15-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": false
+    },
+    {
       "id": "b34ecec603e33a953cef5d83f647c428",
       "title": "Microsoft’s carbon emissions went up 25 percent last year",
       "url": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
@@ -827,7 +839,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 27,
+      "points": 29,
       "comments": 5,
       "is_new": false
     },
@@ -868,7 +880,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 33,
-      "comments": 10,
+      "comments": 12,
       "is_new": false
     },
     {
@@ -907,8 +919,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 9,
-      "comments": 7,
+      "points": 10,
+      "comments": 8,
       "is_new": false
     },
     {
@@ -933,8 +945,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 3,
-      "comments": 8,
+      "points": 4,
+      "comments": 9,
       "is_new": false
     },
     {
@@ -974,18 +986,6 @@
       "is_new": false
     },
     {
-      "id": "a7a2619d071e3dab63ad8b624cbe704b",
-      "title": "Character.AI wants a piece of the microdrama pie",
-      "url": "https://www.theverge.com/entertainment/962897/character-ai-series-microdrama-vertical-video",
-      "description": "Character.AI's plan to become more than just an LLM-powered chatbot platform is going beyond interactive books, comics, and audio dramas. Today, the company announced the debut of c.ai Series - short-",
-      "published": "2026-07-09T09:11:53-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "48840103",
       "title": "Auto compiles recorded LLM-agent behavior into verified WASM binaries",
       "url": "https://github.com/RightNow-AI/auto",
@@ -1014,6 +1014,19 @@
       "is_new": false
     },
     {
+      "id": "2987c73b65ae6ea58619b2455f076c81",
+      "title": "DrugGen 2: A disease-aware language model for enhancing drug discovery",
+      "url": "https://huggingface.co/papers/2607.08404",
+      "description": "Current computational approaches for drug design typically focus on generating molecules conditioned on specific targets or general molecular properties, often neglecting the influence of disease cont",
+      "published": "2026-07-08T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "08b031d9c569fa30ad2a484a7d22ebc4",
       "title": "LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models",
       "url": "https://huggingface.co/papers/2607.08770",
@@ -1023,7 +1036,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 12,
+      "likes": 15,
       "is_new": true
     },
     {
@@ -1036,7 +1049,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 14,
       "is_new": true
     },
     {
@@ -1062,7 +1075,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 13,
+      "likes": 20,
       "is_new": true
     },
     {
@@ -1101,7 +1114,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 17,
+      "likes": 19,
       "is_new": false
     },
     {
@@ -1215,6 +1228,19 @@
       "is_new": false
     },
     {
+      "id": "5df7ab3da7b8028812c390141b4d3e7c",
+      "title": "Linear Attention Architectures: Mechanisms, Trade-offs, and Cross-Layer Routing",
+      "url": "https://huggingface.co/papers/2607.07953",
+      "description": "Self-attention lets each token retrieve information from the full context, but its quadratic cost in sequence length limits training and inference at long context. This paper presents a comparative st",
+      "published": "2026-07-07T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
       "id": "eecafbdf1bd021cfe997aea538d410c4",
       "title": "UP: Unbounded Positive Asymmetric Optimization for Breaking the Exploration-Stability Dilemma",
       "url": "https://huggingface.co/papers/2607.06987",
@@ -1266,34 +1292,6 @@
       "category": "news",
       "points": 5,
       "comments": 1,
-      "is_new": false
-    },
-    {
-      "id": "48821285",
-      "title": "Show HN: An agentic CRM, built for AI agents to drive over plain HTTP",
-      "url": "https://github.com/crmkit/crmkit",
-      "description": "",
-      "published": "2026-07-07T18:00:38Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 1,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "48819808",
-      "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
-      "url": "https://github.com/rowboatlabs/rowboat",
-      "description": "",
-      "published": "2026-07-07T16:10:44Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 216,
-      "comments": 94,
       "is_new": false
     }
   ],
@@ -1540,6 +1538,18 @@
         "is_new": false
       },
       {
+        "id": "a7a2619d071e3dab63ad8b624cbe704b",
+        "title": "Character.AI wants a piece of the microdrama pie",
+        "url": "https://www.theverge.com/entertainment/962897/character-ai-series-microdrama-vertical-video",
+        "description": "Character.AI's plan to become more than just an LLM-powered chatbot platform is going beyond interactive books, comics, and audio dramas. Today, the company announced the debut of c.ai Series - short-",
+        "published": "2026-07-10T05:08:15-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
         "id": "b34ecec603e33a953cef5d83f647c428",
         "title": "Microsoft’s carbon emissions went up 25 percent last year",
         "url": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
@@ -1599,7 +1609,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 27,
+        "points": 29,
         "comments": 5,
         "is_new": false
       },
@@ -1640,7 +1650,7 @@
         "source_icon": "🟧",
         "category": "news",
         "points": 33,
-        "comments": 10,
+        "comments": 12,
         "is_new": false
       },
       {
@@ -1655,18 +1665,6 @@
         "category": "news",
         "points": 12,
         "comments": 1,
-        "is_new": false
-      },
-      {
-        "id": "7f68bb355a3f8281c3a2bb9aaa547267",
-        "title": "OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
-        "description": "About two weeks after OpenAI's GPT-5.6 was caught up in regulatory drama - rolled out only to government-approved organizations during a \"limited preview\" period - the company has received the Trump a",
-        "published": "2026-07-09T13:32:30-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
         "is_new": false
       }
     ],
