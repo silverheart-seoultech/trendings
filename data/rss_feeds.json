@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-10T17:05:13.739531+00:00",
+  "last_updated": "2026-07-10T18:42:42.409669+00:00",
   "total_entries": 110,
-  "new_entries": 1,
+  "new_entries": 5,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -252,30 +252,6 @@
       "is_new": false
     },
     {
-      "id": "8d5144af9315bb6915378e5323f1aced",
-      "title": "Character.AI enters the microdrama arena with its own productions, but there’s a twist",
-      "url": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
-      "description": "In an interesting twist that takes advantage of the company's core product, users can chat with these shows' characters, ask them questions, and even roleplay different storylines.",
-      "published": "Thu, 09 Jul 2026 13:00:00 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "a9ef8ec98447cd1bc4c263a25e29da26",
-      "title": "Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund",
-      "url": "https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/",
-      "description": "Nilekani remains Fundamentum's anchor investor as the firm expands its leadership team and targets AI and fintech startups in India.",
-      "published": "Thu, 09 Jul 2026 12:00:00 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "721bf340dd0029216f0a0c88d661be03",
       "title": "Learning social norms enhances compatibility in dynamic human-AI coordination",
       "url": "https://arxiv.org/abs/2607.07021",
@@ -406,6 +382,30 @@
       "source_icon": "📄",
       "category": "research",
       "is_new": false
+    },
+    {
+      "id": "2e6f798b14e7b8c519656e2ce4f32ce4",
+      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+      "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+      "description": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
+      "published": "Fri, 10 Jul 2026 17:17:12 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "c4ac912fdc8dc6303c033744bb6562de",
+      "title": "Hugging Face’s CEO on why companies are done renting their AI",
+      "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+      "description": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models",
+      "published": "Fri, 10 Jul 2026 14:00:00 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "9ac461d004e9fe390374f89bd8356ab8",
@@ -878,7 +878,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 32,
-      "comments": 7,
+      "comments": 8,
       "is_new": false
     },
     {
@@ -905,8 +905,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 35,
-      "comments": 17,
+      "points": 48,
+      "comments": 20,
       "is_new": false
     },
     {
@@ -945,7 +945,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 15,
+      "points": 16,
       "comments": 12,
       "is_new": false
     },
@@ -1028,6 +1028,19 @@
       "is_new": false
     },
     {
+      "id": "fa12fd1654cd1689c7df10cd3c313b21",
+      "title": "Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents",
+      "url": "https://huggingface.co/papers/2607.08716",
+      "description": "In long-horizon tasks, decision-relevant state is often scattered across an expanding trajectory, while the action agent must surface it and act. As trajectories grow, task requirements, environment f",
+      "published": "2026-07-08T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "5679461211a30065e5e6f8149f630503",
       "title": "SAM-MT: Real-Time Interactive Multi-Target Video Segmentation",
       "url": "https://huggingface.co/papers/2607.08688",
@@ -1050,7 +1063,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 12,
       "is_new": false
     },
     {
@@ -1132,19 +1145,6 @@
       "is_new": false
     },
     {
-      "id": "0df950ccd98f93207f43db4464084aa0",
-      "title": "Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation",
-      "url": "https://huggingface.co/papers/2607.08758",
-      "description": "Scientific ideas rarely start from a blank page. They inherit mechanisms, repair known limitations, and recombine pieces of earlier work, much like biological genomes. Current benchmarks still say lit",
-      "published": "2026-07-08T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 20,
-      "is_new": false
-    },
-    {
       "id": "48834961",
       "title": "Ask HN: Another \"Hacker News\" with less AI and more human-focused hacking news?",
       "url": "https://news.ycombinator.com/item?id=48834961",
@@ -1168,7 +1168,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 343,
+      "points": 344,
       "comments": 135,
       "is_new": false
     },
@@ -1268,19 +1268,6 @@
       "is_new": false
     },
     {
-      "id": "dd8d4a45101d6aeab86063f0449ecde3",
-      "title": "Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE",
-      "url": "https://huggingface.co/papers/2607.07740",
-      "description": "Modern LLMs are increasingly deployed in long-context applications such as retrieval-augmented generation, repository-level coding, and agentic workflows whose accumulated reasoning and tool traces ro",
-      "published": "2026-07-07T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 7,
-      "is_new": false
-    },
-    {
       "id": "48822750",
       "title": "Show HN: CLRK, an open-source agent runtime with gVisor and MitM guardrails",
       "url": "https://github.com/apoxy-dev/clrk",
@@ -1292,6 +1279,20 @@
       "category": "news",
       "points": 5,
       "comments": 0,
+      "is_new": false
+    },
+    {
+      "id": "48821493",
+      "title": "Show HN: Scan any website for AI design patterns",
+      "url": "https://slopcop.adriankrebs.ch",
+      "description": "",
+      "published": "2026-07-07T18:18:26Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 5,
+      "comments": 1,
       "is_new": false
     }
   ],
@@ -1502,28 +1503,28 @@
         "is_new": false
       },
       {
-        "id": "8d5144af9315bb6915378e5323f1aced",
-        "title": "Character.AI enters the microdrama arena with its own productions, but there’s a twist",
-        "url": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
-        "description": "In an interesting twist that takes advantage of the company's core product, users can chat with these shows' characters, ask them questions, and even roleplay different storylines.",
-        "published": "Thu, 09 Jul 2026 13:00:00 +0000",
+        "id": "2e6f798b14e7b8c519656e2ce4f32ce4",
+        "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+        "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+        "description": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
+        "published": "Fri, 10 Jul 2026 17:17:12 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
+        "is_new": true
       },
       {
-        "id": "a9ef8ec98447cd1bc4c263a25e29da26",
-        "title": "Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund",
-        "url": "https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/",
-        "description": "Nilekani remains Fundamentum's anchor investor as the firm expands its leadership team and targets AI and fintech startups in India.",
-        "published": "Thu, 09 Jul 2026 12:00:00 +0000",
+        "id": "c4ac912fdc8dc6303c033744bb6562de",
+        "title": "Hugging Face’s CEO on why companies are done renting their AI",
+        "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+        "description": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models",
+        "published": "Fri, 10 Jul 2026 14:00:00 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
+        "is_new": true
       },
       {
         "id": "9ac461d004e9fe390374f89bd8356ab8",
@@ -1648,7 +1649,7 @@
         "source_icon": "🟧",
         "category": "news",
         "points": 32,
-        "comments": 7,
+        "comments": 8,
         "is_new": false
       },
       {
