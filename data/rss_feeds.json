@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-13T00:08:13.301409+00:00",
+  "last_updated": "2026-07-13T03:33:23.140242+00:00",
   "total_entries": 70,
-  "new_entries": 2,
+  "new_entries": 12,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -324,7 +324,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 14,
-      "comments": 17,
+      "comments": 19,
       "is_new": false
     },
     {
@@ -468,6 +468,84 @@
       "is_new": false
     },
     {
+      "id": "d5c6ab32a1e37d33ddd042fd2dfbe2c7",
+      "title": "Phone Segmentation and Recognition through Phonological Activation Mapping",
+      "url": "https://huggingface.co/papers/2607.09020",
+      "description": "Phone segmentation and recognition are inherently related tasks, yet modern approaches typically model them separately. We argue that phonetic structure is already latent in the representations of sel",
+      "published": "2026-07-09T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "cbdf21c2da73e19472a3449c1b9e14cf",
+      "title": "PanoWorld: Real-World Panoramic Generation",
+      "url": "https://huggingface.co/papers/2607.09661",
+      "description": "In this work, we aim to address the challenge of long-range memory in panoramic world models by exploiting the rotation-equivariant property of omnidirectional representations, where rotation can be t",
+      "published": "2026-07-09T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
+      "id": "6639a771d9eac06ce59059cbb3439abc",
+      "title": "Self-Guided Test-Time Training for Long-Context LLMs",
+      "url": "https://huggingface.co/papers/2607.09415",
+      "description": "Long-context processing has become increasingly important for large language models (LLMs), but simply extending the context window does not guarantee effective utilization of long inputs. As input le",
+      "published": "2026-07-09T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "d36b4bc251f575ba785327e9b89bf4bb",
+      "title": "Video Generation Models are General-Purpose Vision Learners",
+      "url": "https://huggingface.co/papers/2607.09024",
+      "description": "Driven by next-token prediction, NLP shifted from task-specific models into powerful generalist foundation models. What, then, is the equivalent catalyst needed to achieve a general-purpose model in c",
+      "published": "2026-07-09T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 5,
+      "is_new": true
+    },
+    {
+      "id": "a7db6eea71079f1a283118172e6b5850",
+      "title": "A Sovereign, Open-Source Foundation Model for German and English",
+      "url": "https://huggingface.co/papers/2607.09424",
+      "description": "We present Soofi S 30B-A3B, a sovereign, open-source Mixture-of-Experts (MoE) hybrid Mamba Transformer foundation model for German and English. Its hybrid design activates only 3B of 30B parameters pe",
+      "published": "2026-07-09T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "108da48893ada767af37779e6c307785",
+      "title": "Scalable Visual Pretraining for Language Intelligence",
+      "url": "https://huggingface.co/papers/2607.09657",
+      "description": "The rapid progress of large foundation models has been driven predominantly by pretraining on large-scale text corpora. However, many forms of knowledge are conveyed through visual representations, wh",
+      "published": "2026-07-09T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 9,
+      "is_new": true
+    },
+    {
       "id": "aa665a1ba2a05a74b2e653b3c8981fb1",
       "title": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
       "url": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
@@ -590,6 +668,19 @@
       "is_new": false
     },
     {
+      "id": "8ee73b59ca6494ef72b7636343a83161",
+      "title": "Towards Mechanistically Understanding Why Memorized Knowledge Fails to Generalize in Large Language Model Finetuning",
+      "url": "https://huggingface.co/papers/2607.08393",
+      "description": "Fine-tuning LLMs to inject new knowledge faces a critical challenge: LLMs can quickly memorize new facts, yet fail to use them for downstream reasoning tasks. We formalize this failure as the \\textbf{",
+      "published": "2026-07-09T08:17:28.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "48840103",
       "title": "Auto compiles recorded LLM-agent behavior into verified WASM binaries",
       "url": "https://github.com/RightNow-AI/auto",
@@ -616,6 +707,32 @@
       "points": 3,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "5161efe3fc467165ab7cbdda60c07a2a",
+      "title": "Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading",
+      "url": "https://huggingface.co/papers/2607.08964",
+      "description": "AI agents have become capable of autonomously completing short, well-specified tasks. However, existing terminal benchmarks largely focus on simple problems that finish within minutes and are evaluate",
+      "published": "2026-07-08T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
+      "id": "bed497afdd6be6e9e48e7d5f215a7f4c",
+      "title": "From RGB Generation to Dense Field Readout: Pixel-Space Dense Prediction with Text-to-Image Models",
+      "url": "https://huggingface.co/papers/2607.06553",
+      "description": "Large-scale text-to-image models are attractive backbones for dense prediction because RGB generation pretraining learns rich semantic, structural, and geometric priors. Existing generative and editin",
+      "published": "2026-07-08T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
     },
     {
       "id": "fa12fd1654cd1689c7df10cd3c313b21",
@@ -653,7 +770,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 16,
+      "likes": 17,
       "is_new": false
     },
     {
@@ -666,7 +783,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 27,
+      "likes": 28,
       "is_new": false
     },
     {
@@ -679,7 +796,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 17,
+      "likes": 19,
       "is_new": false
     },
     {
@@ -693,45 +810,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "928f338f6bd58500cb89599106e33617",
-      "title": "UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks",
-      "url": "https://huggingface.co/papers/2607.08768",
-      "description": "The rapid development of large language models and multimodal large language models has accelerated the emergence of proactive agents capable of operating everyday tools and assisting users in real-wo",
-      "published": "2026-07-08T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 27,
-      "is_new": false
-    },
-    {
-      "id": "b8535eceb20c89634808e9c0144b704e",
-      "title": "CausalDS: Benchmarking Causal Reasoning in Data-Science Agents",
-      "url": "https://huggingface.co/papers/2607.08093",
-      "description": "Large language models (LLMs) increasingly act as integrated data-science agents, combining abstract reasoning with advanced tool use. Yet the relevant benchmark landscape largely divides into symbolic",
-      "published": "2026-07-08T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "9668a777cd045c092518bdf46c63d275",
-      "title": "ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation",
-      "url": "https://huggingface.co/papers/2607.08741",
-      "description": "Generating realistic 3D human motions in real-time within interactive applications is key for animation, simulation, and humanoid robotics. While recent offline motion generation approaches offer prec",
-      "published": "2026-07-08T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 6,
       "is_new": false
     },
     {
@@ -831,30 +909,17 @@
       "is_new": false
     },
     {
-      "id": "eecafbdf1bd021cfe997aea538d410c4",
-      "title": "UP: Unbounded Positive Asymmetric Optimization for Breaking the Exploration-Stability Dilemma",
-      "url": "https://huggingface.co/papers/2607.06987",
-      "description": "Reinforcement learning (RL) has become the standard paradigm for enhancing the complex reasoning capabilities of large language models (LLMs). To achieve sample efficiency, modern RL frameworks rely o",
-      "published": "2026-07-07T20:00:00.000Z",
+      "id": "f8628e825621d162b2ea2bfab25a62d4",
+      "title": "Trust Region Policy Distillation",
+      "url": "https://huggingface.co/papers/2607.04751",
+      "description": "Big goals are hard to achieve all at once; breaking them into small steps is wiser. We present Trust Region Policy Distillation (TOP-D), which transforms the notoriously unstable, high-variance On-Pol",
+      "published": "2026-07-05T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
-      "is_new": false
-    },
-    {
-      "id": "2f8b927bd687342b0fda1ce7c6178b9c",
-      "title": "PhyMRI-SR: Toward Physics-Aware MRI Image Super-Resolution",
-      "url": "https://huggingface.co/papers/2607.06238",
-      "description": "Magnetic resonance imaging (MRI) super-resolution is vital for improving diagnostic accessibility, yet most methods treat it as a deterministic mapping from a fixed low-resolution input to a high-reso",
-      "published": "2026-07-06T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
-      "is_new": false
+      "likes": 3,
+      "is_new": true
     },
     {
       "id": "ebafa91238fd561b1130658d178ec776",
@@ -870,58 +935,6 @@
       "is_new": false
     },
     {
-      "id": "e7278691bfbc4cd14096478046f0766f",
-      "title": "Flash-BoN: Instant Drafts for Inference-Time Scaling in Diffusion Models",
-      "url": "https://huggingface.co/papers/2607.04461",
-      "description": "Inference-time scaling for text-to-image generation has progressed from simple Best-of-N (BoN) sampling to guided search methods that verify and steer candidate trajectories at intermediate denoising ",
-      "published": "2026-07-04T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
-      "is_new": false
-    },
-    {
-      "id": "bbaad22129344170f95465f5d6625d53",
-      "title": "Can Dialects Be Steered Like Languages? Sparse Neurons and Distributed Directions in Arabic LLMs",
-      "url": "https://huggingface.co/papers/2607.03936",
-      "description": "A key challenge in Arabic NLP is the scarcity of dialectal data relative to Modern Standard Arabic (MSA), causing LLMs to overproduce MSA and struggle with dialectally accurate generation. From an int",
-      "published": "2026-07-03T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "383a058f72d8082b489bc18b9705a74e",
-      "title": "CineMobile: On-Device Image-to-Video Diffusion for Cinematic Camera Motion Generation",
-      "url": "https://huggingface.co/papers/2607.03803",
-      "description": "The growing demand for image-to-video creation on mobile devices has increasingly focused on cinematic motion effects like bullet time, dolly zoom, slow motion, etc. While Diffusion Transformers (DiTs",
-      "published": "2026-07-03T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 12,
-      "is_new": false
-    },
-    {
-      "id": "aad3320c5b906921e47d9789662a8e99",
-      "title": "Vidu S1: A Real-Time Interactive Video Generation Model",
-      "url": "https://huggingface.co/papers/2607.03118",
-      "description": "We introduce Vidu S1, a real-time interactive video generation model supporting voice control of digital characters. Users can control video generation content at any moment through voice instructions",
-      "published": "2026-07-02T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 122,
-      "is_new": false
-    },
-    {
       "id": "bb09df31465e353df564a1bfa450153a",
       "title": "Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition",
       "url": "https://huggingface.co/papers/2601.16211",
@@ -932,19 +945,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 48,
-      "is_new": false
-    },
-    {
-      "id": "f99ce3946b5229526eaffc841380822d",
-      "title": "Video-Oasis: Rethinking Evaluation of Video Understanding",
-      "url": "https://huggingface.co/papers/2603.29616",
-      "description": "The inherent complexity of video understanding makes it difficult to determine whether Video-LLM benchmark performance stems from visual perception, linguistic reasoning, or knowledge priors. While ma",
-      "published": "2026-07-01T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 54,
       "is_new": false
     }
   ],
@@ -1227,7 +1227,7 @@
         "source_icon": "🟧",
         "category": "news",
         "points": 14,
-        "comments": 17,
+        "comments": 19,
         "is_new": false
       },
       {
@@ -1325,6 +1325,123 @@
     ],
     "research": [
       {
+        "id": "d5c6ab32a1e37d33ddd042fd2dfbe2c7",
+        "title": "Phone Segmentation and Recognition through Phonological Activation Mapping",
+        "url": "https://huggingface.co/papers/2607.09020",
+        "description": "Phone segmentation and recognition are inherently related tasks, yet modern approaches typically model them separately. We argue that phonetic structure is already latent in the representations of sel",
+        "published": "2026-07-09T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 1,
+        "is_new": true
+      },
+      {
+        "id": "cbdf21c2da73e19472a3449c1b9e14cf",
+        "title": "PanoWorld: Real-World Panoramic Generation",
+        "url": "https://huggingface.co/papers/2607.09661",
+        "description": "In this work, we aim to address the challenge of long-range memory in panoramic world models by exploiting the rotation-equivariant property of omnidirectional representations, where rotation can be t",
+        "published": "2026-07-09T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 3,
+        "is_new": true
+      },
+      {
+        "id": "6639a771d9eac06ce59059cbb3439abc",
+        "title": "Self-Guided Test-Time Training for Long-Context LLMs",
+        "url": "https://huggingface.co/papers/2607.09415",
+        "description": "Long-context processing has become increasingly important for large language models (LLMs), but simply extending the context window does not guarantee effective utilization of long inputs. As input le",
+        "published": "2026-07-09T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 0,
+        "is_new": true
+      },
+      {
+        "id": "d36b4bc251f575ba785327e9b89bf4bb",
+        "title": "Video Generation Models are General-Purpose Vision Learners",
+        "url": "https://huggingface.co/papers/2607.09024",
+        "description": "Driven by next-token prediction, NLP shifted from task-specific models into powerful generalist foundation models. What, then, is the equivalent catalyst needed to achieve a general-purpose model in c",
+        "published": "2026-07-09T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 5,
+        "is_new": true
+      },
+      {
+        "id": "a7db6eea71079f1a283118172e6b5850",
+        "title": "A Sovereign, Open-Source Foundation Model for German and English",
+        "url": "https://huggingface.co/papers/2607.09424",
+        "description": "We present Soofi S 30B-A3B, a sovereign, open-source Mixture-of-Experts (MoE) hybrid Mamba Transformer foundation model for German and English. Its hybrid design activates only 3B of 30B parameters pe",
+        "published": "2026-07-09T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 0,
+        "is_new": true
+      },
+      {
+        "id": "108da48893ada767af37779e6c307785",
+        "title": "Scalable Visual Pretraining for Language Intelligence",
+        "url": "https://huggingface.co/papers/2607.09657",
+        "description": "The rapid progress of large foundation models has been driven predominantly by pretraining on large-scale text corpora. However, many forms of knowledge are conveyed through visual representations, wh",
+        "published": "2026-07-09T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 9,
+        "is_new": true
+      },
+      {
+        "id": "8ee73b59ca6494ef72b7636343a83161",
+        "title": "Towards Mechanistically Understanding Why Memorized Knowledge Fails to Generalize in Large Language Model Finetuning",
+        "url": "https://huggingface.co/papers/2607.08393",
+        "description": "Fine-tuning LLMs to inject new knowledge faces a critical challenge: LLMs can quickly memorize new facts, yet fail to use them for downstream reasoning tasks. We formalize this failure as the \\textbf{",
+        "published": "2026-07-09T08:17:28.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 1,
+        "is_new": true
+      },
+      {
+        "id": "5161efe3fc467165ab7cbdda60c07a2a",
+        "title": "Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading",
+        "url": "https://huggingface.co/papers/2607.08964",
+        "description": "AI agents have become capable of autonomously completing short, well-specified tasks. However, existing terminal benchmarks largely focus on simple problems that finish within minutes and are evaluate",
+        "published": "2026-07-08T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 3,
+        "is_new": true
+      },
+      {
+        "id": "bed497afdd6be6e9e48e7d5f215a7f4c",
+        "title": "From RGB Generation to Dense Field Readout: Pixel-Space Dense Prediction with Text-to-Image Models",
+        "url": "https://huggingface.co/papers/2607.06553",
+        "description": "Large-scale text-to-image models are attractive backbones for dense prediction because RGB generation pretraining learns rich semantic, structural, and geometric priors. Existing generative and editin",
+        "published": "2026-07-08T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 4,
+        "is_new": true
+      },
+      {
         "id": "fa12fd1654cd1689c7df10cd3c313b21",
         "title": "Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents",
         "url": "https://huggingface.co/papers/2607.08716",
@@ -1360,7 +1477,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 16,
+        "likes": 17,
         "is_new": false
       },
       {
@@ -1373,7 +1490,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 27,
+        "likes": 28,
         "is_new": false
       },
       {
@@ -1386,7 +1503,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 17,
+        "likes": 19,
         "is_new": false
       },
       {
@@ -1400,45 +1517,6 @@
         "source_icon": "🤗",
         "category": "research",
         "likes": 3,
-        "is_new": false
-      },
-      {
-        "id": "928f338f6bd58500cb89599106e33617",
-        "title": "UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks",
-        "url": "https://huggingface.co/papers/2607.08768",
-        "description": "The rapid development of large language models and multimodal large language models has accelerated the emergence of proactive agents capable of operating everyday tools and assisting users in real-wo",
-        "published": "2026-07-08T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 27,
-        "is_new": false
-      },
-      {
-        "id": "b8535eceb20c89634808e9c0144b704e",
-        "title": "CausalDS: Benchmarking Causal Reasoning in Data-Science Agents",
-        "url": "https://huggingface.co/papers/2607.08093",
-        "description": "Large language models (LLMs) increasingly act as integrated data-science agents, combining abstract reasoning with advanced tool use. Yet the relevant benchmark landscape largely divides into symbolic",
-        "published": "2026-07-08T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 3,
-        "is_new": false
-      },
-      {
-        "id": "9668a777cd045c092518bdf46c63d275",
-        "title": "ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation",
-        "url": "https://huggingface.co/papers/2607.08741",
-        "description": "Generating realistic 3D human motions in real-time within interactive applications is key for animation, simulation, and humanoid robotics. While recent offline motion generation approaches offer prec",
-        "published": "2026-07-08T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 6,
         "is_new": false
       },
       {
@@ -1468,30 +1546,17 @@
         "is_new": false
       },
       {
-        "id": "eecafbdf1bd021cfe997aea538d410c4",
-        "title": "UP: Unbounded Positive Asymmetric Optimization for Breaking the Exploration-Stability Dilemma",
-        "url": "https://huggingface.co/papers/2607.06987",
-        "description": "Reinforcement learning (RL) has become the standard paradigm for enhancing the complex reasoning capabilities of large language models (LLMs). To achieve sample efficiency, modern RL frameworks rely o",
-        "published": "2026-07-07T20:00:00.000Z",
+        "id": "f8628e825621d162b2ea2bfab25a62d4",
+        "title": "Trust Region Policy Distillation",
+        "url": "https://huggingface.co/papers/2607.04751",
+        "description": "Big goals are hard to achieve all at once; breaking them into small steps is wiser. We present Trust Region Policy Distillation (TOP-D), which transforms the notoriously unstable, high-variance On-Pol",
+        "published": "2026-07-05T20:00:00.000Z",
         "source_id": "hf-papers",
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 7,
-        "is_new": false
-      },
-      {
-        "id": "2f8b927bd687342b0fda1ce7c6178b9c",
-        "title": "PhyMRI-SR: Toward Physics-Aware MRI Image Super-Resolution",
-        "url": "https://huggingface.co/papers/2607.06238",
-        "description": "Magnetic resonance imaging (MRI) super-resolution is vital for improving diagnostic accessibility, yet most methods treat it as a deterministic mapping from a fixed low-resolution input to a high-reso",
-        "published": "2026-07-06T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 4,
-        "is_new": false
+        "likes": 3,
+        "is_new": true
       },
       {
         "id": "ebafa91238fd561b1130658d178ec776",
@@ -1507,58 +1572,6 @@
         "is_new": false
       },
       {
-        "id": "e7278691bfbc4cd14096478046f0766f",
-        "title": "Flash-BoN: Instant Drafts for Inference-Time Scaling in Diffusion Models",
-        "url": "https://huggingface.co/papers/2607.04461",
-        "description": "Inference-time scaling for text-to-image generation has progressed from simple Best-of-N (BoN) sampling to guided search methods that verify and steer candidate trajectories at intermediate denoising ",
-        "published": "2026-07-04T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 4,
-        "is_new": false
-      },
-      {
-        "id": "bbaad22129344170f95465f5d6625d53",
-        "title": "Can Dialects Be Steered Like Languages? Sparse Neurons and Distributed Directions in Arabic LLMs",
-        "url": "https://huggingface.co/papers/2607.03936",
-        "description": "A key challenge in Arabic NLP is the scarcity of dialectal data relative to Modern Standard Arabic (MSA), causing LLMs to overproduce MSA and struggle with dialectally accurate generation. From an int",
-        "published": "2026-07-03T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 3,
-        "is_new": false
-      },
-      {
-        "id": "383a058f72d8082b489bc18b9705a74e",
-        "title": "CineMobile: On-Device Image-to-Video Diffusion for Cinematic Camera Motion Generation",
-        "url": "https://huggingface.co/papers/2607.03803",
-        "description": "The growing demand for image-to-video creation on mobile devices has increasingly focused on cinematic motion effects like bullet time, dolly zoom, slow motion, etc. While Diffusion Transformers (DiTs",
-        "published": "2026-07-03T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 12,
-        "is_new": false
-      },
-      {
-        "id": "aad3320c5b906921e47d9789662a8e99",
-        "title": "Vidu S1: A Real-Time Interactive Video Generation Model",
-        "url": "https://huggingface.co/papers/2607.03118",
-        "description": "We introduce Vidu S1, a real-time interactive video generation model supporting voice control of digital characters. Users can control video generation content at any moment through voice instructions",
-        "published": "2026-07-02T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 122,
-        "is_new": false
-      },
-      {
         "id": "bb09df31465e353df564a1bfa450153a",
         "title": "Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition",
         "url": "https://huggingface.co/papers/2601.16211",
@@ -1569,19 +1582,6 @@
         "source_icon": "🤗",
         "category": "research",
         "likes": 48,
-        "is_new": false
-      },
-      {
-        "id": "f99ce3946b5229526eaffc841380822d",
-        "title": "Video-Oasis: Rethinking Evaluation of Video Understanding",
-        "url": "https://huggingface.co/papers/2603.29616",
-        "description": "The inherent complexity of video understanding makes it difficult to determine whether Video-LLM benchmark performance stems from visual perception, linguistic reasoning, or knowledge priors. While ma",
-        "published": "2026-07-01T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 54,
         "is_new": false
       }
     ]
