@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-14T02:54:50.456213+00:00",
+  "last_updated": "2026-07-14T03:29:21.287451+00:00",
   "total_entries": 110,
-  "new_entries": 9,
+  "new_entries": 5,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -57,7 +57,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "71ee9ef92d3c90b247c4637221cf9e88",
@@ -69,7 +69,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "4bee902986585ed6f5704846326ecfbe",
@@ -81,7 +81,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "ee3f32770183596f79ec2f0cf56585ef",
@@ -141,7 +141,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3917d3b170f3e32332a29240354abb2e",
@@ -153,7 +153,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "25a33f9e528154aa222fdbe82f6155f1",
@@ -255,7 +255,7 @@
       "id": "8284a77466758d401b1340e6ad627d99",
       "title": "Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading",
       "url": "https://arxiv.org/abs/2607.08964",
-      "description": "arXiv:2607.08964v1 Announce Type: new \nAbstract: AI agents have become capable of autonomously completing short, well-specified tasks. However, existing terminal benchmarks largely focus on simple pro",
+      "description": "arXiv:2607.08964v2 Announce Type: new \nAbstract: AI agents have become capable of autonomously completing short, well-specified tasks. However, existing terminal benchmarks largely focus on simple pro",
       "published": "Mon, 13 Jul 2026 00:00:00 -0400",
       "source_id": "arxiv-ai",
       "source_name": "arXiv AI",
@@ -375,7 +375,7 @@
       "id": "ee855d48a0a677059f89447b6e6364e1",
       "title": "LongMedBench: Benchmarking Medical Agents for Long-Horizon Clinical Decision-Making",
       "url": "https://arxiv.org/abs/2607.09322",
-      "description": "arXiv:2607.09322v1 Announce Type: new \nAbstract: In this work, we introduce LongMedBench, a real-world EHR-based benchmark for long-horizon clinical decision-making. Prior evaluations of LLM-based med",
+      "description": "arXiv:2607.09322v2 Announce Type: new \nAbstract: In this work, we introduce LongMedBench, a real-world EHR-based benchmark for long-horizon clinical decision-making. Prior evaluations of LLM-based med",
       "published": "Mon, 13 Jul 2026 00:00:00 -0400",
       "source_id": "arxiv-ai",
       "source_name": "arXiv AI",
@@ -531,7 +531,7 @@
       "id": "76648271bf2bb7a2057f7feb58f64119",
       "title": "LieBN: Batch Normalization over Lie Groups",
       "url": "https://arxiv.org/abs/2607.08783",
-      "description": "arXiv:2607.08783v1 Announce Type: new \nAbstract: Manifold-valued measurements are prevalent in various machine learning tasks. Recent advances have extended Deep Neural Networks (DNNs) to operate on m",
+      "description": "arXiv:2607.08783v2 Announce Type: new \nAbstract: Manifold-valued measurements are prevalent in various machine learning tasks. Recent advances have extended Deep Neural Networks (DNNs) to operate on m",
       "published": "Mon, 13 Jul 2026 00:00:00 -0400",
       "source_id": "arxiv-ml",
       "source_name": "arXiv ML",
@@ -779,7 +779,7 @@
       "category": "news",
       "points": 2,
       "comments": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "48896257",
@@ -807,7 +807,7 @@
       "category": "news",
       "points": 2,
       "comments": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "795b5c34bb1b38880d3684750c22aa19",
@@ -819,7 +819,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "48894572",
@@ -922,6 +922,32 @@
       "is_new": false
     },
     {
+      "id": "e5faadc037328a868d10b35b8d98c37d",
+      "title": "AdvancedMathBench: A Benchmark Suite for Advanced Mathematical Proof Generation and Verification",
+      "url": "https://huggingface.co/papers/2607.11849",
+      "description": "Large language models (LLMs) have achieved remarkable performance on high-school and olympiad-style mathematics, yet their capabilities on advanced mathematics remain poorly understood. Existing bench",
+      "published": "2026-07-12T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 5,
+      "is_new": true
+    },
+    {
+      "id": "762d48d171fb4a1b33dc9f3ee718d433",
+      "title": "LightMem-Ego: Your AI Memory for Everyday Life",
+      "url": "https://huggingface.co/papers/2607.11487",
+      "description": "Personal AI assistants on mobile and wearable devices continuously perceive users' daily lives through visual and audio streams. However, answering queries about past experiences requires lightweight ",
+      "published": "2026-07-12T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 12,
+      "is_new": true
+    },
+    {
       "id": "48883305",
       "title": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
       "url": "https://github.com/juggler-ai/juggler",
@@ -933,7 +959,7 @@
       "category": "news",
       "points": 1,
       "comments": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "48881112",
@@ -1004,6 +1030,32 @@
       "points": 2,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "12fa5fce47e86243c8e9d2f0614de33e",
+      "title": "ABot-AgentOS: A General Robotic Agent OS with Lifelong Multi-modal Memory",
+      "url": "https://huggingface.co/papers/2607.10350",
+      "description": "Recent VLM and VLA systems have improved robotic perception and action prediction, yet long-horizon embodied agents still require a general runtime layer for reasoning, memory, tool use, verification,",
+      "published": "2026-07-10T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 12,
+      "is_new": true
+    },
+    {
+      "id": "a70d9ebc5254789ded96e2bac5bf82ac",
+      "title": "ABot-N1: Toward a General Visual Language Navigation Foundation Model",
+      "url": "https://huggingface.co/papers/2607.10383",
+      "description": "Visual Language Navigation foundation models aim to unify deep reasoning for grounded spatial decisions with broad versatility for diverse embodied tasks. Current approaches typically achieve this int",
+      "published": "2026-07-10T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 12,
+      "is_new": true
     },
     {
       "id": "82c4cd2669986e2117724f157ec40438",
@@ -1116,7 +1168,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 43,
+      "likes": 44,
       "is_new": false
     },
     {
@@ -1243,59 +1295,6 @@
       "points": 2,
       "comments": 0,
       "is_new": false
-    },
-    {
-      "id": "48837666",
-      "title": "Show HN: Runtime security enforcement and capability scoping for agents",
-      "url": "https://www.clayseal.com",
-      "description": "",
-      "published": "2026-07-08T21:27:04Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 3,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "5161efe3fc467165ab7cbdda60c07a2a",
-      "title": "Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading",
-      "url": "https://huggingface.co/papers/2607.08964",
-      "description": "AI agents have become capable of autonomously completing short, well-specified tasks. However, existing terminal benchmarks largely focus on simple problems that finish within minutes and are evaluate",
-      "published": "2026-07-08T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 49,
-      "is_new": false
-    },
-    {
-      "id": "bed497afdd6be6e9e48e7d5f215a7f4c",
-      "title": "From RGB Generation to Dense Field Readout: Pixel-Space Dense Prediction with Text-to-Image Models",
-      "url": "https://huggingface.co/papers/2607.06553",
-      "description": "Large-scale text-to-image models are attractive backbones for dense prediction because RGB generation pretraining learns rich semantic, structural, and geometric priors. Existing generative and editin",
-      "published": "2026-07-08T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 10,
-      "is_new": false
-    },
-    {
-      "id": "fa12fd1654cd1689c7df10cd3c313b21",
-      "title": "Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents",
-      "url": "https://huggingface.co/papers/2607.08716",
-      "description": "In long-horizon tasks, decision-relevant state is often scattered across an expanding trajectory, while the action agent must surface it and act. As trajectories grow, task requirements, environment f",
-      "published": "2026-07-08T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 10,
-      "is_new": false
     }
   ],
   "by_category": {
@@ -1310,7 +1309,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "71ee9ef92d3c90b247c4637221cf9e88",
@@ -1322,7 +1321,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "4bee902986585ed6f5704846326ecfbe",
@@ -1334,7 +1333,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "ee3f32770183596f79ec2f0cf56585ef",
@@ -1394,7 +1393,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "3917d3b170f3e32332a29240354abb2e",
@@ -1406,7 +1405,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "25a33f9e528154aa222fdbe82f6155f1",
@@ -1552,7 +1551,7 @@
         "category": "news",
         "points": 2,
         "comments": 0,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "48896257",
@@ -1580,7 +1579,7 @@
         "category": "news",
         "points": 2,
         "comments": 0,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "795b5c34bb1b38880d3684750c22aa19",
@@ -1592,7 +1591,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "48894572",
@@ -1712,7 +1711,7 @@
         "id": "8284a77466758d401b1340e6ad627d99",
         "title": "Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading",
         "url": "https://arxiv.org/abs/2607.08964",
-        "description": "arXiv:2607.08964v1 Announce Type: new \nAbstract: AI agents have become capable of autonomously completing short, well-specified tasks. However, existing terminal benchmarks largely focus on simple pro",
+        "description": "arXiv:2607.08964v2 Announce Type: new \nAbstract: AI agents have become capable of autonomously completing short, well-specified tasks. However, existing terminal benchmarks largely focus on simple pro",
         "published": "Mon, 13 Jul 2026 00:00:00 -0400",
         "source_id": "arxiv-ai",
         "source_name": "arXiv AI",
@@ -1832,7 +1831,7 @@
         "id": "ee855d48a0a677059f89447b6e6364e1",
         "title": "LongMedBench: Benchmarking Medical Agents for Long-Horizon Clinical Decision-Making",
         "url": "https://arxiv.org/abs/2607.09322",
-        "description": "arXiv:2607.09322v1 Announce Type: new \nAbstract: In this work, we introduce LongMedBench, a real-world EHR-based benchmark for long-horizon clinical decision-making. Prior evaluations of LLM-based med",
+        "description": "arXiv:2607.09322v2 Announce Type: new \nAbstract: In this work, we introduce LongMedBench, a real-world EHR-based benchmark for long-horizon clinical decision-making. Prior evaluations of LLM-based med",
         "published": "Mon, 13 Jul 2026 00:00:00 -0400",
         "source_id": "arxiv-ai",
         "source_name": "arXiv AI",
@@ -1988,7 +1987,7 @@
         "id": "76648271bf2bb7a2057f7feb58f64119",
         "title": "LieBN: Batch Normalization over Lie Groups",
         "url": "https://arxiv.org/abs/2607.08783",
-        "description": "arXiv:2607.08783v1 Announce Type: new \nAbstract: Manifold-valued measurements are prevalent in various machine learning tasks. Recent advances have extended Deep Neural Networks (DNNs) to operate on m",
+        "description": "arXiv:2607.08783v2 Announce Type: new \nAbstract: Manifold-valued measurements are prevalent in various machine learning tasks. Recent advances have extended Deep Neural Networks (DNNs) to operate on m",
         "published": "Mon, 13 Jul 2026 00:00:00 -0400",
         "source_id": "arxiv-ml",
         "source_name": "arXiv ML",
