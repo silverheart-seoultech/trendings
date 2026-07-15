@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-15T14:06:34.935981+00:00",
+  "last_updated": "2026-07-15T15:46:04.750956+00:00",
   "total_entries": 110,
-  "new_entries": 0,
+  "new_entries": 6,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -48,8 +48,20 @@
   ],
   "entries": [
     {
+      "id": "d3f280f3600627db5a30fff013ece9af",
+      "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
+      "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "description": "Apple Intelligence is headed to China after regulators approved Apple’s AI services through a partnership with Alibaba. The long-rumored deal will bring Alibaba’s Qwen AI models to Apple’s operating s",
+      "published": "Wed, 15 Jul 2026 15:29:33 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "53c42ac5532ad2e7c1f21b45751780f3",
-      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models",
+      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
       "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
       "description": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.",
       "published": "Wed, 15 Jul 2026 13:10:47 +0000",
@@ -516,18 +528,6 @@
       "is_new": false
     },
     {
-      "id": "93a0e8b76044cde52293df9f0ad9b225",
-      "title": "The real AI race may no longer be at the frontier",
-      "url": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
-      "description": "Hugging Face CEO Clem Delangue says enterprises increasingly want open models, due to cost, accessibility, and ownership. Do frontier models still matter if most production AI ends up running on open",
-      "published": "Tue, 14 Jul 2026 14:24:53 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "c3adaaaa75d7364f0c52598b9d91395a",
       "title": "From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation",
       "url": "https://arxiv.org/abs/2607.09664",
@@ -768,6 +768,20 @@
       "is_new": false
     },
     {
+      "id": "48922039",
+      "title": "Agent runtime reduces LLM turns by 80% with a higher success rate in DeepSWE",
+      "url": "https://github.com/Tura-AI/tura",
+      "description": "",
+      "published": "2026-07-15T15:10:14Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 1,
+      "is_new": true
+    },
+    {
       "id": "48919626",
       "title": "Aliens: Explaining LLMs and AI agents to my children",
       "url": "https://archive.org/details/aliens_202607",
@@ -843,7 +857,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 81,
+      "points": 82,
       "comments": 44,
       "is_new": false
     },
@@ -1018,6 +1032,19 @@
       "is_new": false
     },
     {
+      "id": "72658b315bb57d0bb1c693586ead5cd0",
+      "title": "Let RGB Be the Language of Vision",
+      "url": "https://huggingface.co/papers/2607.12450",
+      "description": "This work introduces a unified formulation for vision models, where diverse forms of visual information beyond natural images, such as masks, depth maps, and other structured visual signals, are all r",
+      "published": "2026-07-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
       "id": "48896257",
       "title": "Show HN: Finterm.ai Bloomberg terminal for Claude Code",
       "url": "https://finterm.ai/",
@@ -1146,20 +1173,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
-      "is_new": false
-    },
-    {
-      "id": "955f253b3e52d174907dae4b8603e201",
-      "title": "Motion4Motion: Motion Transfer Across Subjects at Inference",
-      "url": "https://huggingface.co/papers/2607.11644",
-      "description": "This work explores the motion transfer from one video to another, which is crucial in animation for diverse characters. Previously, video motion transfer has been largely explored between human and hu",
-      "published": "2026-07-13T10:58:57.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 5,
+      "likes": 7,
       "is_new": false
     },
     {
@@ -1174,6 +1188,19 @@
       "category": "research",
       "likes": 30,
       "is_new": false
+    },
+    {
+      "id": "8dc58adf729a7c71ba8bf8241a75e10d",
+      "title": "MonkeyOCRv2: A Visual-Text Foundation Model for Document AI",
+      "url": "https://huggingface.co/papers/2607.11562",
+      "description": "Mainstream visual encoders are pretrained on natural images and cannot be effectively applied to document images without document-oriented adaptation, as dense text and fine-grained character strokes ",
+      "published": "2026-07-13T09:43:39.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
     },
     {
       "id": "5a1fce6e4a458a70e3a097ad24fbd316",
@@ -1225,7 +1252,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 26,
+      "likes": 28,
       "is_new": false
     },
     {
@@ -1251,7 +1278,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 265,
+      "points": 266,
       "comments": 113,
       "is_new": false
     },
@@ -1268,40 +1295,25 @@
       "points": 18,
       "comments": 32,
       "is_new": false
-    },
-    {
-      "id": "48879908",
-      "title": "Show HN: Sanbox, batteries included sandboxes for AI agents",
-      "url": "https://sanbox.cloud",
-      "description": "",
-      "published": "2026-07-12T10:16:21Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 5,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "f2573e36d4e170b206ac3366605feef4",
-      "title": "LATO.2: Factorized 3D Mesh Generation with Vertex and Topology Flow",
-      "url": "https://huggingface.co/papers/2607.10623",
-      "description": "Flow matching over carefully designed latent representations has recently emerged as a powerful paradigm for topology-aware mesh generation. Existing approaches, however, model vertices and connectivi",
-      "published": "2026-07-12T03:38:06.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
     }
   ],
   "by_category": {
     "news": [
       {
+        "id": "d3f280f3600627db5a30fff013ece9af",
+        "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
+        "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+        "description": "Apple Intelligence is headed to China after regulators approved Apple’s AI services through a partnership with Alibaba. The long-rumored deal will bring Alibaba’s Qwen AI models to Apple’s operating s",
+        "published": "Wed, 15 Jul 2026 15:29:33 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "53c42ac5532ad2e7c1f21b45751780f3",
-        "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models",
+        "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
         "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
         "description": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.",
         "published": "Wed, 15 Jul 2026 13:10:47 +0000",
@@ -1528,16 +1540,18 @@
         "is_new": false
       },
       {
-        "id": "93a0e8b76044cde52293df9f0ad9b225",
-        "title": "The real AI race may no longer be at the frontier",
-        "url": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
-        "description": "Hugging Face CEO Clem Delangue says enterprises increasingly want open models, due to cost, accessibility, and ownership. Do frontier models still matter if most production AI ends up running on open",
-        "published": "Tue, 14 Jul 2026 14:24:53 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
+        "id": "48922039",
+        "title": "Agent runtime reduces LLM turns by 80% with a higher success rate in DeepSWE",
+        "url": "https://github.com/Tura-AI/tura",
+        "description": "",
+        "published": "2026-07-15T15:10:14Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
         "category": "news",
-        "is_new": false
+        "points": 1,
+        "comments": 1,
+        "is_new": true
       },
       {
         "id": "48919626",
@@ -1615,7 +1629,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 81,
+        "points": 82,
         "comments": 44,
         "is_new": false
       },
@@ -1657,20 +1671,6 @@
         "category": "news",
         "points": 2,
         "comments": 2,
-        "is_new": false
-      },
-      {
-        "id": "48907464",
-        "title": "Show HN: Cruxible – Terraform-like ontology config to governed state for agents",
-        "url": "https://github.com/cruxible-ai/cruxible",
-        "description": "",
-        "published": "2026-07-14T14:26:49Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 1,
-        "comments": 1,
         "is_new": false
       }
     ],
