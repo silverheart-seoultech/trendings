@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-15T22:11:37.192093+00:00",
+  "last_updated": "2026-07-15T23:10:27.427563+00:00",
   "total_entries": 110,
-  "new_entries": 4,
+  "new_entries": 10,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -832,20 +832,6 @@
       "is_new": false
     },
     {
-      "id": "48919147",
-      "title": "Show HN: Update on my media editor in browser no back end",
-      "url": "https://www.masterselects.com",
-      "description": "",
-      "published": "2026-07-15T11:21:35Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 4,
-      "comments": 0,
-      "is_new": false
-    },
-    {
       "id": "ff658b1af0b4e572b4648bed01513511",
       "title": "OpenAI finally launches hardware… for Codex",
       "url": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
@@ -919,7 +905,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 30,
+      "points": 31,
       "comments": 12,
       "is_new": false
     },
@@ -990,20 +976,6 @@
       "is_new": false
     },
     {
-      "id": "48904900",
-      "title": "X just gave us an interface that AI agents can use. I pointed it at my own posts",
-      "url": "https://lemire.me/blog/2026/07/11/x-just-gave-us-an-interface-that-ai-agents-can-use-i-pointed-it-at-my-own-posts/",
-      "description": "",
-      "published": "2026-07-14T11:04:56Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 0,
-      "is_new": false
-    },
-    {
       "id": "87a25276763137980404d9225ef92a8d",
       "title": "Sam Altman didn’t need another lawsuit",
       "url": "https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo",
@@ -1013,34 +985,6 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "48903287",
-      "title": "Autoresearch doubled GLM-5.2 throughput. Production traffic broke it",
-      "url": "https://fparisio.substack.com/p/an-ai-agent-cold-tuned-our-glm-52",
-      "description": "",
-      "published": "2026-07-14T07:22:44Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 4,
-      "comments": 1,
-      "is_new": false
-    },
-    {
-      "id": "48899674",
-      "title": "Ask HN: AI Agent and harness containerization/security recommendations",
-      "url": "https://news.ycombinator.com/item?id=48899674",
-      "description": "",
-      "published": "2026-07-13T22:19:31Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 5,
-      "comments": 2,
       "is_new": false
     },
     {
@@ -1054,6 +998,19 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "2347cb8b54ee7496c8904d599973dcc6",
+      "title": "Function-Aware Fill-in-the-Middle as Mid-Training for Coding Agent Foundation Models",
+      "url": "https://huggingface.co/papers/2607.12463",
+      "description": "Coding agents must integrate external tool returns into ongoing reasoning - a capability that standard left-to-right pretraining on code exposes only in its forward direction. We observe that the acti",
+      "published": "2026-07-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 11,
+      "is_new": true
     },
     {
       "id": "72658b315bb57d0bb1c693586ead5cd0",
@@ -1094,20 +1051,6 @@
       "category": "news",
       "points": 2,
       "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "48894572",
-      "title": "Show HN: HTML, CSS and JavaScript in the Terminal",
-      "url": "https://duetbrowser.com/krnl-ss-redirect?k2vh",
-      "description": "",
-      "published": "2026-07-13T15:52:54Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 9,
-      "comments": 8,
       "is_new": false
     },
     {
@@ -1225,7 +1168,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 27,
+      "points": 28,
       "comments": 11,
       "is_new": false
     },
@@ -1239,7 +1182,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 40,
+      "likes": 42,
       "is_new": false
     },
     {
@@ -1296,6 +1239,61 @@
       "points": 5,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "48875749",
+      "title": "Bitemporal provenance in agent memory: What did we believe, when, and why",
+      "url": "https://news.ycombinator.com/item?id=48875749",
+      "description": "",
+      "published": "2026-07-11T20:52:15Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "dfcc3b0d9fe94e9da34c7338a841eb13",
+      "title": "Towards Autonomous and Auditable Medical Imaging Model Development",
+      "url": "https://huggingface.co/papers/2607.10522",
+      "description": "Large language model (LLM) agents are beginning to automate machine learning engineering (MLE) by coupling planning, code execution, debugging, and empirical feedback. Translating this capability to m",
+      "published": "2026-07-11T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": false
+    },
+    {
+      "id": "48875259",
+      "title": "I built a free tool to evaluate AI agent outputs (human labels and LLM judges)",
+      "url": "https://github.com/AntoineF23/verdict",
+      "description": "",
+      "published": "2026-07-11T19:55:44Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "48865825",
+      "title": "Show HN: An MCP server that lets AI agents request disability insurance quotes",
+      "url": "https://github.com/seaworthy-io/seaworthy-mcp",
+      "description": "",
+      "published": "2026-07-10T21:56:00Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": true
     }
   ],
   "by_category": {
@@ -1605,20 +1603,6 @@
         "is_new": false
       },
       {
-        "id": "48919147",
-        "title": "Show HN: Update on my media editor in browser no back end",
-        "url": "https://www.masterselects.com",
-        "description": "",
-        "published": "2026-07-15T11:21:35Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 4,
-        "comments": 0,
-        "is_new": false
-      },
-      {
         "id": "ff658b1af0b4e572b4648bed01513511",
         "title": "OpenAI finally launches hardware… for Codex",
         "url": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
@@ -1668,6 +1652,18 @@
         "category": "news",
         "points": 84,
         "comments": 48,
+        "is_new": false
+      },
+      {
+        "id": "9dc0222d45c19f1cc7e86b09d61ffca0",
+        "title": "SpaceXAI&#8217;s Grok programming tool was uploading its users&#8217; entire codebase to cloud storage",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
+        "description": "SpaceXAI's Grok Build AI coding tool was spotted uploading users' entire codebases to Google Cloud before it was reported, and the company turned it off. The Register reports that Cereblab published f",
+        "published": "2026-07-14T15:25:00-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
         "is_new": false
       }
     ],
