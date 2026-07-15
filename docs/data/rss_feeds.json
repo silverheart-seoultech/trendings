@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-15T19:33:46.528309+00:00",
+  "last_updated": "2026-07-15T21:12:53.273883+00:00",
   "total_entries": 110,
-  "new_entries": 0,
+  "new_entries": 3,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -48,16 +48,28 @@
   ],
   "entries": [
     {
-      "id": "330de95c2bbe7f0c1a21842396446325",
-      "title": "SpaceX slips below its $135 IPO price ahead of Starship launch",
-      "url": "https://techcrunch.com/2026/07/15/spacex-slips-below-its-135-ipo-price-ahead-of-starship-launch/",
+      "id": "c9ca9bb827ce5a05b0c0c57bfb86b28a",
+      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+      "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+      "description": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
+      "published": "Wed, 15 Jul 2026 19:41:38 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "d1802f967e8d5168a0e42fa661e72b29",
+      "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
+      "url": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
       "description": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
       "published": "Wed, 15 Jul 2026 18:06:05 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "be5f4e7765aab446fbc05f8db6a59632",
@@ -516,18 +528,6 @@
       "is_new": false
     },
     {
-      "id": "41138521bbab1050a0b5f401359e6027",
-      "title": "The founder of Hinge raised $18M to build a new AI dating service, Overtone",
-      "url": "https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/",
-      "description": "Overtone describes itself as \"a voice- and audio-forward service, enabled by AI, that provides highly curated introductions.\"",
-      "published": "Tue, 14 Jul 2026 19:39:39 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "c3adaaaa75d7364f0c52598b9d91395a",
       "title": "From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation",
       "url": "https://arxiv.org/abs/2607.09664",
@@ -768,6 +768,18 @@
       "is_new": false
     },
     {
+      "id": "84272a721d1ba5ef0d9bbc529ba309ed",
+      "title": "AI slop movies are the new direct-to-video cash grabs",
+      "url": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
+      "description": "This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey. It's on track to rake in anywhere between $80-$10",
+      "published": "2026-07-15T15:55:15-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "48922039",
       "title": "Agent runtime reduces LLM turns by 80% with a higher success rate in DeepSWE",
       "url": "https://github.com/Tura-AI/tura",
@@ -848,18 +860,6 @@
       "is_new": false
     },
     {
-      "id": "c0711504ceecaeefccfb92bc93f71410",
-      "title": "New York becomes the first state to enact a data center moratorium",
-      "url": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium",
-      "description": "New hyperscale data centers can't set up shop in New York for up to a year now that Governor Kathy Hochul (D) has signed the nation's first statewide moratorium. But a bill passed by the state legisla",
-      "published": "2026-07-14T17:45:11-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "ac05241f6ebb33febfd8b077230bc2aa",
       "title": "OpenAI may announce a ChatGPT smart speaker this year",
       "url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
@@ -882,7 +882,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 83,
-      "comments": 46,
+      "comments": 47,
       "is_new": false
     },
     {
@@ -1212,7 +1212,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
+      "likes": 8,
       "is_new": false
     },
     {
@@ -1265,8 +1265,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 270,
-      "comments": 113,
+      "points": 271,
+      "comments": 117,
       "is_new": false
     },
     {
@@ -1301,16 +1301,28 @@
   "by_category": {
     "news": [
       {
-        "id": "330de95c2bbe7f0c1a21842396446325",
-        "title": "SpaceX slips below its $135 IPO price ahead of Starship launch",
-        "url": "https://techcrunch.com/2026/07/15/spacex-slips-below-its-135-ipo-price-ahead-of-starship-launch/",
+        "id": "c9ca9bb827ce5a05b0c0c57bfb86b28a",
+        "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+        "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+        "description": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
+        "published": "Wed, 15 Jul 2026 19:41:38 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "d1802f967e8d5168a0e42fa661e72b29",
+        "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
+        "url": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
         "description": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
         "published": "Wed, 15 Jul 2026 18:06:05 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
+        "is_new": true
       },
       {
         "id": "be5f4e7765aab446fbc05f8db6a59632",
@@ -1529,16 +1541,16 @@
         "is_new": false
       },
       {
-        "id": "41138521bbab1050a0b5f401359e6027",
-        "title": "The founder of Hinge raised $18M to build a new AI dating service, Overtone",
-        "url": "https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/",
-        "description": "Overtone describes itself as \"a voice- and audio-forward service, enabled by AI, that provides highly curated introductions.\"",
-        "published": "Tue, 14 Jul 2026 19:39:39 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
+        "id": "84272a721d1ba5ef0d9bbc529ba309ed",
+        "title": "AI slop movies are the new direct-to-video cash grabs",
+        "url": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
+        "description": "This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey. It's on track to rake in anywhere between $80-$10",
+        "published": "2026-07-15T15:55:15-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
+        "is_new": true
       },
       {
         "id": "48922039",
@@ -1621,18 +1633,6 @@
         "is_new": false
       },
       {
-        "id": "c0711504ceecaeefccfb92bc93f71410",
-        "title": "New York becomes the first state to enact a data center moratorium",
-        "url": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium",
-        "description": "New hyperscale data centers can't set up shop in New York for up to a year now that Governor Kathy Hochul (D) has signed the nation's first statewide moratorium. But a bill passed by the state legisla",
-        "published": "2026-07-14T17:45:11-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
         "id": "ac05241f6ebb33febfd8b077230bc2aa",
         "title": "OpenAI may announce a ChatGPT smart speaker this year",
         "url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
@@ -1655,7 +1655,7 @@
         "source_icon": "🟧",
         "category": "news",
         "points": 83,
-        "comments": 46,
+        "comments": 47,
         "is_new": false
       },
       {
