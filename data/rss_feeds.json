@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-16T21:13:41.223477+00:00",
+  "last_updated": "2026-07-16T22:14:14.230837+00:00",
   "total_entries": 108,
-  "new_entries": 1,
+  "new_entries": 3,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -744,6 +744,20 @@
       "is_new": false
     },
     {
+      "id": "48939710",
+      "title": "Show HN: Libretto PR agents – Automatically fix failing playwright scripts",
+      "url": "https://libretto.sh/debug-agents",
+      "description": "",
+      "published": "2026-07-16T20:21:27Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 8,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "48939662",
       "title": "LM Studio Bionic: the AI agent for open models",
       "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
@@ -753,8 +767,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 20,
-      "comments": 0,
+      "points": 66,
+      "comments": 22,
       "is_new": true
     },
     {
@@ -843,7 +857,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 2,
+      "points": 3,
       "comments": 0,
       "is_new": false
     },
@@ -869,7 +883,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 1,
+      "points": 2,
       "comments": 1,
       "is_new": false
     },
@@ -962,6 +976,19 @@
       "points": 4,
       "comments": 10,
       "is_new": false
+    },
+    {
+      "id": "f597caff05deae74bb33d4b3c7eef047",
+      "title": "Generative Compilation: On-the-Fly Compiler Feedback as AI Generates Code",
+      "url": "https://huggingface.co/papers/2607.13921",
+      "description": "Languages with rich static semantics, such as Rust, provide stronger guarantees for AI-generated code, but their strictness makes generation more difficult. Off-the-shelf compilers can provide useful ",
+      "published": "2026-07-14T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
     },
     {
       "id": "426d509c38f915c9e5c6900a88723cb0",
@@ -1147,7 +1174,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -1160,7 +1187,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 12,
+      "likes": 13,
       "is_new": false
     },
     {
@@ -1216,19 +1243,6 @@
       "is_new": false
     },
     {
-      "id": "af1f71b203a4da5f22f88b90ce3e1882",
-      "title": "Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning",
-      "url": "https://huggingface.co/papers/2607.12395",
-      "description": "Reinforcement learning with verifiable rewards without human-annotated data, often referred to as zero RL, has emerged as a powerful paradigm for eliciting chain-of-thought reasoning. However, due to ",
-      "published": "2026-07-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 78,
-      "is_new": false
-    },
-    {
       "id": "48896257",
       "title": "Show HN: Finterm.ai Bloomberg terminal for Claude Code",
       "url": "https://finterm.ai/",
@@ -1281,20 +1295,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 9,
-      "is_new": false
-    },
-    {
-      "id": "48887276",
-      "title": "Show HN: Self-hosted voice AI agent for Asterisk/FreePBX",
-      "url": "https://github.com/hkjarral/AVA-AI-Voice-Agent-for-Asterisk",
-      "description": "",
-      "published": "2026-07-13T02:51:34Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 30,
-      "comments": 11,
       "is_new": false
     }
   ],
@@ -1517,6 +1517,20 @@
         "is_new": false
       },
       {
+        "id": "48939710",
+        "title": "Show HN: Libretto PR agents – Automatically fix failing playwright scripts",
+        "url": "https://libretto.sh/debug-agents",
+        "description": "",
+        "published": "2026-07-16T20:21:27Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 8,
+        "comments": 0,
+        "is_new": true
+      },
+      {
         "id": "48939662",
         "title": "LM Studio Bionic: the AI agent for open models",
         "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
@@ -1526,8 +1540,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 20,
-        "comments": 0,
+        "points": 66,
+        "comments": 22,
         "is_new": true
       },
       {
@@ -1616,7 +1630,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 2,
+        "points": 3,
         "comments": 0,
         "is_new": false
       },
@@ -1642,7 +1656,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 1,
+        "points": 2,
         "comments": 1,
         "is_new": false
       },
@@ -1652,18 +1666,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
         "description": "The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material (CSAM). In a lawsuit reported earlier by Reuters, xAI cla",
         "published": "2026-07-15T17:33:20-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "84272a721d1ba5ef0d9bbc529ba309ed",
-        "title": "AI slop movies are the new direct-to-video cash grabs",
-        "url": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
-        "description": "This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey. It's on track to rake in anywhere between $80-$10",
-        "published": "2026-07-15T15:55:15-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
