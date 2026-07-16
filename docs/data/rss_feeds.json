@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-16T16:39:10.145625+00:00",
+  "last_updated": "2026-07-16T18:17:27.770652+00:00",
   "total_entries": 108,
-  "new_entries": 10,
+  "new_entries": 13,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -753,8 +753,20 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 1,
+      "points": 2,
       "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "ce2196ba2ede0853a6ea4a5237869955",
+      "title": "New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
+      "description": "New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. During an interview with Bloomberg's Odd Lot",
+      "published": "2026-07-16T13:58:37-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
       "is_new": true
     },
     {
@@ -960,7 +972,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
+      "likes": 7,
       "is_new": false
     },
     {
@@ -999,7 +1011,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 43,
+      "likes": 44,
       "is_new": false
     },
     {
@@ -1026,18 +1038,6 @@
       "category": "news",
       "points": 84,
       "comments": 48,
-      "is_new": false
-    },
-    {
-      "id": "9dc0222d45c19f1cc7e86b09d61ffca0",
-      "title": "SpaceXAI&#8217;s Grok programming tool was uploading its users&#8217; entire codebase to cloud storage",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
-      "description": "SpaceXAI's Grok Build AI coding tool was spotted uploading users' entire codebases to Google Cloud before it was reported, and the company turned it off. The Register reports that Cereblab published f",
-      "published": "2026-07-14T15:25:00-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
       "is_new": false
     },
     {
@@ -1097,6 +1097,20 @@
       "is_new": false
     },
     {
+      "id": "48899674",
+      "title": "Ask HN: AI Agent and harness containerization/security recommendations",
+      "url": "https://news.ycombinator.com/item?id=48899674",
+      "description": "",
+      "published": "2026-07-13T22:19:31Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 5,
+      "comments": 3,
+      "is_new": true
+    },
+    {
       "id": "426c146b8039468683e0b4ee381807f7",
       "title": "Self in Space: Benchmarking Self-Awareness and Spatial Cognition in UAV Embodied Intelligence",
       "url": "https://huggingface.co/papers/2607.12477",
@@ -1132,7 +1146,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -1145,7 +1159,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
+      "likes": 9,
       "is_new": false
     },
     {
@@ -1158,7 +1172,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -1214,19 +1228,6 @@
       "is_new": false
     },
     {
-      "id": "71a8357fa0b23442a657a2ca3b639995",
-      "title": "Harness Handbook: Making Evolving Agent Harnesses Readable,Navigable, and Editable",
-      "url": "https://huggingface.co/papers/2607.13285",
-      "description": "The capability of a modern AI agent depends not only on its foundation model but also on its harness, which constructs prompts, manages state, invokes tools, and coordinates execution. As models, APIs",
-      "published": "2026-07-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 157,
-      "is_new": false
-    },
-    {
       "id": "48896257",
       "title": "Show HN: Finterm.ai Bloomberg terminal for Claude Code",
       "url": "https://finterm.ai/",
@@ -1278,7 +1279,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
+      "likes": 8,
       "is_new": false
     },
     {
@@ -1524,8 +1525,20 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 1,
+        "points": 2,
         "comments": 0,
+        "is_new": true
+      },
+      {
+        "id": "ce2196ba2ede0853a6ea4a5237869955",
+        "title": "New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
+        "description": "New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. During an interview with Bloomberg's Odd Lot",
+        "published": "2026-07-16T13:58:37-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
         "is_new": true
       },
       {
@@ -1654,18 +1667,6 @@
         "category": "news",
         "points": 2,
         "comments": 1,
-        "is_new": false
-      },
-      {
-        "id": "615f90691be9a1957651aa06d36f9b2e",
-        "title": "Suno snatched millions of songs from YouTube, Genius, and Deezer",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
-        "description": "Suno data obtained in a hacking incident has exposed that the AI music generator was trained by scraping millions of songs and lyrics from online audio platforms, including YouTube Music, Deezer, and",
-        "published": "2026-07-15T13:54:54-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
         "is_new": false
       }
     ],
