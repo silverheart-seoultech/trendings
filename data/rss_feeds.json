@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-16T06:29:17.714641+00:00",
-  "total_entries": 110,
-  "new_entries": 47,
+  "last_updated": "2026-07-16T08:23:19.267634+00:00",
+  "total_entries": 90,
+  "new_entries": 42,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,6 +768,20 @@
       "is_new": true
     },
     {
+      "id": "48931713",
+      "title": "The Missed Reality: Code Review Wasn't Built for the AI Era",
+      "url": "https://news.ycombinator.com/item?id=48931713",
+      "description": "",
+      "published": "2026-07-16T08:22:39Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "9b81d6e21d71821521d901bdf98af7a6",
       "title": "xAI sues a man for using Grok to generate CSAM &#8216;deepfakes&#8217;",
       "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
@@ -855,58 +869,6 @@
       "category": "news",
       "points": 4,
       "comments": 9,
-      "is_new": false
-    },
-    {
-      "id": "b2e141ac0b1ef08099e7067adfeaaa9d",
-      "title": "Hallo4D: Multi-Modal Hallucination Mitigation for Consistent Spatio-Temporal Generation",
-      "url": "https://huggingface.co/papers/2607.12752",
-      "description": "While recent advances in 3D generation have enabled impressive visual synthesis, existing methods often rely on 2D diffusion supervision without explicit mechanisms for geometric consistency, leading ",
-      "published": "2026-07-14T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 8,
-      "is_new": true
-    },
-    {
-      "id": "91f0a73e1d685b96225c992e23eab0ae",
-      "title": "GigaWorld-Policy-0.5: A Faster and Stronger WAM Empowered by AutoResearch",
-      "url": "https://huggingface.co/papers/2607.13960",
-      "description": "World Action Models (WAMs) improve robot policy learning by jointly modeling actions and future visual observations, using future scene evolution as dense supervision for physically grounded action ge",
-      "published": "2026-07-14T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 18,
-      "is_new": false
-    },
-    {
-      "id": "ca0295d2f59e86ec8bde142e3e17febf",
-      "title": "KnowAct-GUIClaw: Know Deeply, Act Perfectly, Personal GUI Assistant with Self-Evolving Memory and Skill",
-      "url": "https://huggingface.co/papers/2607.12625",
-      "description": "OpenClaw has emerged as a leading agent framework for complex task automation, yet it faces insufficient cross-platform GUI interaction support and a well-built self-evolution mechanism. These flaws l",
-      "published": "2026-07-14T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 33,
-      "is_new": false
-    },
-    {
-      "id": "c05468af2e4d1f177e850af3e5ea46af",
-      "title": "OvisOCR2 Technical Report",
-      "url": "https://huggingface.co/papers/2607.13639",
-      "description": "We introduce OvisOCR2, a 0.8B document parsing model. OvisOCR2 is designed as an end-to-end parser: given a document page image, it generates a Markdown representation in natural reading order, coveri",
-      "published": "2026-07-14T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 36,
       "is_new": false
     },
     {
@@ -1052,97 +1014,6 @@
       "is_new": false
     },
     {
-      "id": "05159501ef211108f2d88b9406f312f6",
-      "title": "Boogu-Image-0.1: Boosting Open-Source Unified Multimodal Understanding and Generation",
-      "url": "https://huggingface.co/papers/2607.13125",
-      "description": "We introduce Boogu-Image-0.1, an open-source unified multimodal understanding and generation model family, comprising Base, Turbo, Edit, and Edit-Turbo variants. It delivers competitive performance in",
-      "published": "2026-07-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 38,
-      "is_new": true
-    },
-    {
-      "id": "c0352d05263fe30f5d16a1b64f4514e8",
-      "title": "Tracing Agentic Failure from the Flow of Success",
-      "url": "https://huggingface.co/papers/2607.12747",
-      "description": "Failure attribution for LLM-based agentic systems, i.e., identifying which steps in a failure trajectory caused the task to fail, is critical for debugging and improving these systems. Existing approa",
-      "published": "2026-07-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": true
-    },
-    {
-      "id": "aa73075388e53acaa5d8dba44ae77240",
-      "title": "ShortOPD: Recovering Pruned LLMs with Short-to-Long On-Policy Distillation",
-      "url": "https://huggingface.co/papers/2607.13124",
-      "description": "Structured pruning is a hardware-friendly way to compress LLMs, but it is mostly validated on multiple-choice recognition tasks, while the same compressed checkpoints can collapse on the free-form gen",
-      "published": "2026-07-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 7,
-      "is_new": false
-    },
-    {
-      "id": "af1f71b203a4da5f22f88b90ce3e1882",
-      "title": "Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning",
-      "url": "https://huggingface.co/papers/2607.12395",
-      "description": "Reinforcement learning with verifiable rewards without human-annotated data, often referred to as zero RL, has emerged as a powerful paradigm for eliciting chain-of-thought reasoning. However, due to ",
-      "published": "2026-07-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 55,
-      "is_new": false
-    },
-    {
-      "id": "71a8357fa0b23442a657a2ca3b639995",
-      "title": "Harness Handbook: Making Evolving Agent Harnesses Readable,Navigable, and Editable",
-      "url": "https://huggingface.co/papers/2607.13285",
-      "description": "The capability of a modern AI agent depends not only on its foundation model but also on its harness, which constructs prompts, manages state, invokes tools, and coordinates execution. As models, APIs",
-      "published": "2026-07-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 31,
-      "is_new": false
-    },
-    {
-      "id": "9e0676a1398d1fe2c1da188191156101",
-      "title": "Navigating the Mirage: A Dual-Path Agentic Framework for Robust Misleading Chart Question Answering",
-      "url": "https://huggingface.co/papers/2603.28583",
-      "description": "Despite the success of Vision-Language Models (VLMs), misleading charts remain a significant challenge due to their deceptive visual structures and distorted data representations. We present ChartCyni",
-      "published": "2026-07-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "2347cb8b54ee7496c8904d599973dcc6",
-      "title": "Function-Aware Fill-in-the-Middle as Mid-Training for Coding Agent Foundation Models",
-      "url": "https://huggingface.co/papers/2607.12463",
-      "description": "Coding agents must integrate external tool returns into ongoing reasoning - a capability that standard left-to-right pretraining on code exposes only in its forward direction. We observe that the acti",
-      "published": "2026-07-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 23,
-      "is_new": false
-    },
-    {
       "id": "48896257",
       "title": "Show HN: Finterm.ai Bloomberg terminal for Claude Code",
       "url": "https://finterm.ai/",
@@ -1185,19 +1056,6 @@
       "is_new": false
     },
     {
-      "id": "60c6875b89964d0a43bb55e34380edc2",
-      "title": "Vinci2: Providing Proactive Assistance in Continuous Egocentric Videos",
-      "url": "https://huggingface.co/papers/2607.11523",
-      "description": "When should an intelligent assistant speak up without being asked? Continuous egocentric video offers rich, evolving context that enables a new form of assistance: one that is proactive rather than me",
-      "published": "2026-07-13T09:09:45.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": true
-    },
-    {
       "id": "48887276",
       "title": "Show HN: Self-hosted voice AI agent for Asterisk/FreePBX",
       "url": "https://github.com/hkjarral/AVA-AI-Voice-Agent-for-Asterisk",
@@ -1212,45 +1070,6 @@
       "is_new": false
     },
     {
-      "id": "8484067ecad5410c285b93f4ae85d695",
-      "title": "MetaView: Monocular Novel View Synthesis with Scale-Aware Implicit Geometry Priors",
-      "url": "https://huggingface.co/papers/2607.12000",
-      "description": "Current visual generation models are capable of producing high-quality content, yet they lack a coherent perception of the spatial structure. Existing generative novel view synthesis methods typically",
-      "published": "2026-07-12T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 17,
-      "is_new": true
-    },
-    {
-      "id": "acfdcb7f3c8b7cf4317a6a9f28492e56",
-      "title": "MAGIC: Transition-Aware Generation of Navigable Multi-Scene Game Worlds with Large Language Models",
-      "url": "https://huggingface.co/papers/2607.11594",
-      "description": "Multi-scene navigation (clearing an objective in one bounded space and then crossing a portal into the next) is a defining feature of contemporary 3D games, but authoring it is laborious: every portal",
-      "published": "2026-07-12T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "2ebc0406b4dd7257b16718cf495779a5",
-      "title": "Are LLMs Ready for Scientific Discovery? A Capability-Oriented Benchmark for AI Scientists",
-      "url": "https://huggingface.co/papers/2607.11079",
-      "description": "Existing benchmarks for scientific data analysis evaluate LLMs primarily on code execution or workflow completion, overlooking that scientific analysis serves to support distinct types of scientific c",
-      "published": "2026-07-12T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
       "id": "48883305",
       "title": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
       "url": "https://github.com/juggler-ai/juggler",
@@ -1261,7 +1080,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 274,
-      "comments": 117,
+      "comments": 118,
       "is_new": false
     },
     {
@@ -1289,6 +1108,62 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 5,
+      "comments": 0,
+      "is_new": false
+    },
+    {
+      "id": "48875749",
+      "title": "Bitemporal provenance in agent memory: What did we believe, when, and why",
+      "url": "https://news.ycombinator.com/item?id=48875749",
+      "description": "",
+      "published": "2026-07-11T20:52:15Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": false
+    },
+    {
+      "id": "48875259",
+      "title": "I built a free tool to evaluate AI agent outputs (human labels and LLM judges)",
+      "url": "https://github.com/AntoineF23/verdict",
+      "description": "",
+      "published": "2026-07-11T19:55:44Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 0,
+      "is_new": false
+    },
+    {
+      "id": "48865825",
+      "title": "Show HN: An MCP server that lets AI agents request disability insurance quotes",
+      "url": "https://github.com/seaworthy-io/seaworthy-mcp",
+      "description": "",
+      "published": "2026-07-10T21:56:00Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": false
+    },
+    {
+      "id": "48851086",
+      "title": "Show HN: Spice 2.0 – Real-Time Analytical Query on Operational Data, Without ETL",
+      "url": "https://spice.ai/blog/spice-2-0-is-now-available",
+      "description": "",
+      "published": "2026-07-09T19:21:19Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 4,
       "comments": 0,
       "is_new": false
     }
@@ -1536,6 +1411,20 @@
         "is_new": true
       },
       {
+        "id": "48931713",
+        "title": "The Missed Reality: Code Review Wasn't Built for the AI Era",
+        "url": "https://news.ycombinator.com/item?id=48931713",
+        "description": "",
+        "published": "2026-07-16T08:22:39Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 1,
+        "comments": 0,
+        "is_new": true
+      },
+      {
         "id": "9b81d6e21d71821521d901bdf98af7a6",
         "title": "xAI sues a man for using Grok to generate CSAM &#8216;deepfakes&#8217;",
         "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
@@ -1649,18 +1538,6 @@
         "category": "news",
         "points": 84,
         "comments": 48,
-        "is_new": false
-      },
-      {
-        "id": "9dc0222d45c19f1cc7e86b09d61ffca0",
-        "title": "SpaceXAI&#8217;s Grok programming tool was uploading its users&#8217; entire codebase to cloud storage",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
-        "description": "SpaceXAI's Grok Build AI coding tool was spotted uploading users' entire codebases to Google Cloud before it was reported, and the company turned it off. The Register reports that Cereblab published f",
-        "published": "2026-07-14T15:25:00-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
         "is_new": false
       }
     ],
