@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-17T13:59:44.683494+00:00",
+  "last_updated": "2026-07-17T15:35:58.799407+00:00",
   "total_entries": 108,
-  "new_entries": 0,
+  "new_entries": 2,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -113,18 +113,6 @@
       "url": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
       "description": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and dis",
       "published": "Wed, 15 Jul 2026 17:00:00 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "ec46a9e5474560ffa941c13a10696d81",
-      "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
-      "url": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
-      "description": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI.",
-      "published": "Wed, 15 Jul 2026 16:20:18 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
@@ -250,6 +238,18 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "a90acdd50b34149685fea53d473a8353",
+      "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
+      "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+      "description": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relyin",
+      "published": "Fri, 17 Jul 2026 15:21:17 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "96ead98cb5258035e987cd9ade32a100",
@@ -781,8 +781,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 287,
-      "comments": 104,
+      "points": 300,
+      "comments": 108,
       "is_new": false
     },
     {
@@ -924,7 +924,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 32,
+      "likes": 34,
       "is_new": false
     },
     {
@@ -937,7 +937,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 6,
       "is_new": false
     },
     {
@@ -963,7 +963,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 103,
+      "likes": 104,
       "is_new": false
     },
     {
@@ -976,7 +976,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
+      "likes": 8,
       "is_new": false
     },
     {
@@ -989,7 +989,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 45,
+      "likes": 47,
       "is_new": false
     },
     {
@@ -1002,7 +1002,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 32,
+      "likes": 36,
       "is_new": false
     },
     {
@@ -1015,7 +1015,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
+      "likes": 8,
       "is_new": false
     },
     {
@@ -1132,7 +1132,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 19,
+      "likes": 22,
       "is_new": false
     },
     {
@@ -1145,7 +1145,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 5,
       "is_new": false
     },
     {
@@ -1158,7 +1158,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 28,
+      "likes": 29,
       "is_new": false
     },
     {
@@ -1184,20 +1184,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 12,
-      "is_new": false
-    },
-    {
-      "id": "5fd7ad8c0b8a33f3809823ed4bc19845",
-      "title": "Smarter and Cheaper at Once: Byte-Exact KV-Cache Grafting Turns a Frozen Small Model into a Verified-Knowledge Flywheel",
-      "url": "https://huggingface.co/papers/2607.14431",
-      "description": "We report a way to make a frozen small language model both more capable and dramatically cheaper at once, without changing any weights. Verified knowledge is deposited once as a byte-exact key-value (",
-      "published": "2026-07-14T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
+      "likes": 13,
       "is_new": false
     },
     {
@@ -1295,6 +1282,19 @@
       "points": 6,
       "comments": 3,
       "is_new": false
+    },
+    {
+      "id": "1c3fdda21e831a6747c01e9c79ca0073",
+      "title": "UniVR: Thinking in Visual Space for Unified Visual Reasoning",
+      "url": "https://huggingface.co/papers/2607.12800",
+      "description": "Learning broad world knowledge directly from raw visual data is a fundamental capability of intelligence. We introduce UniVR, the first investigation into simultaneously learning complex reasoning, fi",
+      "published": "2026-07-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 20,
+      "is_new": false
     }
   ],
   "by_category": {
@@ -1365,18 +1365,6 @@
         "url": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
         "description": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and dis",
         "published": "Wed, 15 Jul 2026 17:00:00 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "ec46a9e5474560ffa941c13a10696d81",
-        "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
-        "url": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
-        "description": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI.",
-        "published": "Wed, 15 Jul 2026 16:20:18 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
@@ -1504,6 +1492,18 @@
         "is_new": false
       },
       {
+        "id": "a90acdd50b34149685fea53d473a8353",
+        "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
+        "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+        "description": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relyin",
+        "published": "Fri, 17 Jul 2026 15:21:17 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "96ead98cb5258035e987cd9ade32a100",
         "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
         "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
@@ -1553,8 +1553,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 287,
-        "comments": 104,
+        "points": 300,
+        "comments": 108,
         "is_new": false
       },
       {
