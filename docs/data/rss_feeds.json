@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-17T21:06:05.963184+00:00",
+  "last_updated": "2026-07-17T22:04:26.591595+00:00",
   "total_entries": 108,
-  "new_entries": 3,
+  "new_entries": 4,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -53,18 +53,6 @@
       "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
       "description": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
       "published": "Wed, 15 Jul 2026 23:59:44 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "c9ca9bb827ce5a05b0c0c57bfb86b28a",
-      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
-      "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
-      "description": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
-      "published": "Wed, 15 Jul 2026 19:41:38 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
@@ -190,6 +178,18 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "b590373eb5917666ad07d4ec4df5567c",
+      "title": "The Zoom hack that says, ‘Don’t record me’",
+      "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
+      "description": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?",
+      "published": "Fri, 17 Jul 2026 21:20:47 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "5814ee1085b0a3fa6d7a9c4016bd2191",
@@ -833,7 +833,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 314,
+      "points": 315,
       "comments": 121,
       "is_new": false
     },
@@ -989,7 +989,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 39,
+      "likes": 40,
       "is_new": false
     },
     {
@@ -1028,7 +1028,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 107,
+      "likes": 108,
       "is_new": false
     },
     {
@@ -1146,7 +1146,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 1,
       "is_new": false
     },
     {
@@ -1313,18 +1313,6 @@
         "is_new": false
       },
       {
-        "id": "c9ca9bb827ce5a05b0c0c57bfb86b28a",
-        "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
-        "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
-        "description": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
-        "published": "Wed, 15 Jul 2026 19:41:38 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
         "id": "c27a3acd5bed64de18f969e219f14ef4",
         "title": "Google Vids now lets you star in your own AI videos",
         "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
@@ -1443,6 +1431,18 @@
         "source_icon": "📰",
         "category": "news",
         "is_new": false
+      },
+      {
+        "id": "b590373eb5917666ad07d4ec4df5567c",
+        "title": "The Zoom hack that says, ‘Don’t record me’",
+        "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
+        "description": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?",
+        "published": "Fri, 17 Jul 2026 21:20:47 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
       },
       {
         "id": "5814ee1085b0a3fa6d7a9c4016bd2191",
@@ -1606,7 +1606,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 314,
+        "points": 315,
         "comments": 121,
         "is_new": false
       },
