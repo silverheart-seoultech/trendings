@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-17T11:37:59.307966+00:00",
+  "last_updated": "2026-07-17T13:50:13.458280+00:00",
   "total_entries": 108,
-  "new_entries": 2,
+  "new_entries": 5,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -132,18 +132,6 @@
       "is_new": false
     },
     {
-      "id": "abe5db5218728094a144b2eb18984aa3",
-      "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
-      "url": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
-      "description": "Can a handful of engineers really do the work of an army of consultants? That’s the bet behind Ode with Anthropic — the joint venture dedicated to embedding forward-deployed engineers in enterprise fi",
-      "published": "Wed, 15 Jul 2026 15:00:00 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "c27a3acd5bed64de18f969e219f14ef4",
       "title": "Google Vids now lets you star in your own AI videos",
       "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
@@ -262,6 +250,18 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "96ead98cb5258035e987cd9ade32a100",
+      "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+      "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+      "description": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
+      "published": "Fri, 17 Jul 2026 12:00:00 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "3d8b425b2bd1e0fc7fc7bf3136add9ac",
@@ -781,8 +781,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 267,
-      "comments": 96,
+      "points": 286,
+      "comments": 103,
       "is_new": false
     },
     {
@@ -902,6 +902,19 @@
       "is_new": false
     },
     {
+      "id": "d85698b7406a7725b16bb0798153db8e",
+      "title": "SUFLECA: Scaling Up Feature Learning for CAD-to-image Alignment",
+      "url": "https://huggingface.co/papers/2607.15058",
+      "description": "CAD-to-image alignment aims to estimate an object's 9D pose (rotation, translation, and anisotropic scale) from a single RGB image, enabling applications in robotics and augmented reality. Recent zero",
+      "published": "2026-07-15T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
       "id": "644c2b20d3861234cfc0d9f4ae3a853b",
       "title": "LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget",
       "url": "https://huggingface.co/papers/2607.14952",
@@ -911,7 +924,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 22,
+      "likes": 32,
       "is_new": true
     },
     {
@@ -924,7 +937,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 5,
       "is_new": false
     },
     {
@@ -937,7 +950,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -950,7 +963,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 80,
+      "likes": 103,
       "is_new": false
     },
     {
@@ -963,7 +976,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 7,
       "is_new": false
     },
     {
@@ -976,7 +989,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 43,
+      "likes": 45,
       "is_new": false
     },
     {
@@ -989,7 +1002,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 29,
+      "likes": 32,
       "is_new": false
     },
     {
@@ -1002,20 +1015,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "625c9f93b6aa21b4a9b38ba812f46995",
-      "title": "SEED: Self-Evolving On-Policy Distillation for Agentic Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2607.14777",
-      "description": "Large language models are increasingly trained as interactive agents for long-horizon tasks involving multi-turn interaction, tool use, and environment feedback. Outcome-based reinforcement learning (",
-      "published": "2026-07-15T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 55,
+      "likes": 7,
       "is_new": false
     },
     {
@@ -1083,6 +1083,20 @@
       "is_new": false
     },
     {
+      "id": "48919147",
+      "title": "Show HN: Update on my media editor in browser no back end",
+      "url": "https://www.masterselects.com",
+      "description": "",
+      "published": "2026-07-15T11:21:35Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 4,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "ff658b1af0b4e572b4648bed01513511",
       "title": "OpenAI finally launches hardware… for Codex",
       "url": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
@@ -1118,7 +1132,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 18,
+      "likes": 19,
       "is_new": false
     },
     {
@@ -1131,7 +1145,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -1144,7 +1158,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 26,
+      "likes": 28,
       "is_new": false
     },
     {
@@ -1157,7 +1171,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 29,
+      "likes": 30,
       "is_new": false
     },
     {
@@ -1170,7 +1184,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 11,
+      "likes": 12,
       "is_new": false
     },
     {
@@ -1183,7 +1197,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -1209,7 +1223,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 85,
-      "comments": 48,
+      "comments": 49,
       "is_new": false
     },
     {
@@ -1280,19 +1294,6 @@
       "category": "news",
       "points": 6,
       "comments": 3,
-      "is_new": false
-    },
-    {
-      "id": "1c3fdda21e831a6747c01e9c79ca0073",
-      "title": "UniVR: Thinking in Visual Space for Unified Visual Reasoning",
-      "url": "https://huggingface.co/papers/2607.12800",
-      "description": "Learning broad world knowledge directly from raw visual data is a fundamental capability of intelligence. We introduce UniVR, the first investigation into simultaneously learning complex reasoning, fi",
-      "published": "2026-07-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 18,
       "is_new": false
     }
   ],
@@ -1376,18 +1377,6 @@
         "url": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
         "description": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI.",
         "published": "Wed, 15 Jul 2026 16:20:18 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "abe5db5218728094a144b2eb18984aa3",
-        "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
-        "url": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
-        "description": "Can a handful of engineers really do the work of an army of consultants? That’s the bet behind Ode with Anthropic — the joint venture dedicated to embedding forward-deployed engineers in enterprise fi",
-        "published": "Wed, 15 Jul 2026 15:00:00 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
@@ -1515,6 +1504,18 @@
         "is_new": false
       },
       {
+        "id": "96ead98cb5258035e987cd9ade32a100",
+        "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+        "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+        "description": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
+        "published": "Fri, 17 Jul 2026 12:00:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "48941358",
         "title": "Show HN: Moltshit.com – An Imageboard for AI Agents",
         "url": "https://moltshit.com",
@@ -1552,8 +1553,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 267,
-        "comments": 96,
+        "points": 286,
+        "comments": 103,
         "is_new": false
       },
       {
