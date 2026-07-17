@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-17T03:17:52.825625+00:00",
+  "last_updated": "2026-07-17T03:33:19.550343+00:00",
   "total_entries": 108,
-  "new_entries": 14,
+  "new_entries": 2,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -755,7 +755,7 @@
       "category": "news",
       "points": 3,
       "comments": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "48939710",
@@ -769,7 +769,7 @@
       "category": "news",
       "points": 17,
       "comments": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "48939662",
@@ -781,9 +781,9 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 176,
+      "points": 180,
       "comments": 67,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "48934803",
@@ -898,7 +898,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 2,
-      "comments": 1,
+      "comments": 2,
       "is_new": false
     },
     {
@@ -912,7 +912,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "bb24cb4cbf35c2462dbd6ee807e3e0e4",
@@ -925,7 +925,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3f7cf0aaf8b82a288ef8b91a46a38ccd",
@@ -937,8 +937,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
-      "is_new": true
+      "likes": 11,
+      "is_new": false
     },
     {
       "id": "9013f12890e92a151111c57c6a638ec9",
@@ -951,7 +951,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "625c9f93b6aa21b4a9b38ba812f46995",
@@ -963,8 +963,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 16,
-      "is_new": true
+      "likes": 18,
+      "is_new": false
     },
     {
       "id": "9f406a5b750729f3c27c18a51e81e6c5",
@@ -976,8 +976,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
-      "is_new": true
+      "likes": 3,
+      "is_new": false
     },
     {
       "id": "e07e71fba1204e7fee98e6b0152f1248",
@@ -990,7 +990,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "9b81d6e21d71821521d901bdf98af7a6",
@@ -1083,6 +1083,32 @@
       "is_new": false
     },
     {
+      "id": "a429952c71843026f27581bb4689fe2d",
+      "title": "MultiRef-Compass: Towards Comprehensive Evaluation of Multi-Reference-to-Audio-Video Generation",
+      "url": "https://huggingface.co/papers/2607.14189",
+      "description": "Multi-reference-to-audio-video (MR2AV) generation aims to generate coherent audio-video content conditioned on multiple references and textual instructions. Existing benchmarks mainly focus on text-dr",
+      "published": "2026-07-14T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
+    },
+    {
+      "id": "15036fbc134245c796634b785cd56c0b",
+      "title": "KeyFrame-Compass: Towards Comprehensive Evaluation of Keyframe-Conditioned Video Generation",
+      "url": "https://huggingface.co/papers/2607.14202",
+      "description": "Video generation increasingly relies on keyframe-based workflows, where creators specify a sequence of reference images to guide generation. Although recent models support multi-keyframe conditioning,",
+      "published": "2026-07-14T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 6,
+      "is_new": true
+    },
+    {
       "id": "d24392b6f2f49cc4ebc2a51677f6294d",
       "title": "Demystifying On-Policy Distillation: Roles, Pathologies, and Regulations",
       "url": "https://huggingface.co/papers/2607.13399",
@@ -1093,7 +1119,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "5fd7ad8c0b8a33f3809823ed4bc19845",
@@ -1106,7 +1132,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "f597caff05deae74bb33d4b3c7eef047",
@@ -1119,7 +1145,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "426d509c38f915c9e5c6900a88723cb0",
@@ -1241,7 +1267,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "426c146b8039468683e0b4ee381807f7",
@@ -1267,32 +1293,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "a98224a08888a7c76021e8afc23f3e9d",
-      "title": "From Controlled to the Wild: Evaluation of Pentesting Agents for the Real-World",
-      "url": "https://huggingface.co/papers/2605.10834",
-      "description": "AI pentesting agents are increasingly credible as offensive security systems, but current benchmarks still provide limited guidance on which will perform best in real-world targets. Existing evaluatio",
-      "published": "2026-07-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "7f6d404c59f042bdca0d86146af5ebee",
-      "title": "Self-Improvements in Modern Agentic Systems: A Survey",
-      "url": "https://huggingface.co/papers/2607.13104",
-      "description": "Self-improving autonomous agents are moving from research prototypes to deployed systems. The primary goal is controllable evolution, or adaptation, from experience with minimal or even no human input",
-      "published": "2026-07-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 14,
       "is_new": false
     }
   ],
@@ -1526,7 +1526,7 @@
         "category": "news",
         "points": 3,
         "comments": 0,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "48939710",
@@ -1540,7 +1540,7 @@
         "category": "news",
         "points": 17,
         "comments": 2,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "48939662",
@@ -1552,9 +1552,9 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 176,
+        "points": 180,
         "comments": 67,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "48934803",
@@ -1669,7 +1669,7 @@
         "source_icon": "🟧",
         "category": "news",
         "points": 2,
-        "comments": 1,
+        "comments": 2,
         "is_new": false
       }
     ],
