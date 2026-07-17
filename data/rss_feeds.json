@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-17T15:35:58.799407+00:00",
+  "last_updated": "2026-07-17T17:21:21.090463+00:00",
   "total_entries": 108,
-  "new_entries": 2,
+  "new_entries": 4,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -767,8 +767,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 19,
-      "comments": 3,
+      "points": 20,
+      "comments": 4,
       "is_new": false
     },
     {
@@ -781,8 +781,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 300,
-      "comments": 108,
+      "points": 311,
+      "comments": 112,
       "is_new": false
     },
     {
@@ -902,6 +902,19 @@
       "is_new": false
     },
     {
+      "id": "b4d9edb39efa8f4a7cfbd2464b30f933",
+      "title": "Hierarchical Denoising For Multi-Step Visual Reasoning",
+      "url": "https://huggingface.co/papers/2607.15278",
+      "description": "Video models are evolving into vision foundation models, yet they still lack human-like multi-step reasoning. Streaming autoregressive diffusion models are efficient but limited in reasoning, while bi",
+      "published": "2026-07-15T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "d85698b7406a7725b16bb0798153db8e",
       "title": "SUFLECA: Scaling Up Feature Learning for CAD-to-image Alignment",
       "url": "https://huggingface.co/papers/2607.15058",
@@ -924,7 +937,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 34,
+      "likes": 35,
       "is_new": false
     },
     {
@@ -937,7 +950,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
+      "likes": 7,
       "is_new": false
     },
     {
@@ -963,7 +976,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 104,
+      "likes": 105,
       "is_new": false
     },
     {
@@ -989,33 +1002,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 47,
-      "is_new": false
-    },
-    {
-      "id": "3f7cf0aaf8b82a288ef8b91a46a38ccd",
-      "title": "BadWAM: When World-Action Models Dream Right but Act Wrong",
-      "url": "https://huggingface.co/papers/2607.15207",
-      "description": "World-action models (WAMs) are emerging as a promising foundation for embodied control: rather than predicting actions alone, they learn representations that couple action generation with future world",
-      "published": "2026-07-15T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 36,
-      "is_new": false
-    },
-    {
-      "id": "9013f12890e92a151111c57c6a638ec9",
-      "title": "MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators",
-      "url": "https://huggingface.co/papers/2607.15273",
-      "description": "MeanFlow generators achieve fast few-step sampling by predicting average velocities over time intervals, making them attractive for efficient generation. Reinforcement learning (RL) has become a power",
-      "published": "2026-07-15T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 8,
+      "likes": 48,
       "is_new": false
     },
     {
@@ -1123,6 +1110,19 @@
       "is_new": false
     },
     {
+      "id": "d598cbf0de11dc8f31c2a67640305564",
+      "title": "RxBrain: Embodied Cognition Foundation Model with Joint Language-Visual Reasoning and Imagination",
+      "url": "https://huggingface.co/papers/2607.14187",
+      "description": "Embodied cognition requires agents to connect high-level task reasoning with the physical states to be achieved. We introduce Hy-Embodied-RxBrain, an embodied cognition foundation model with joint lan",
+      "published": "2026-07-14T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
       "id": "bda061c487c3c41ad3b802f9a772ee13",
       "title": "From Pixels to States: Rethinking Interactive World Models as Game Engines",
       "url": "https://huggingface.co/papers/2607.14076",
@@ -1132,7 +1132,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 22,
+      "likes": 23,
       "is_new": false
     },
     {
@@ -1145,7 +1145,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 6,
       "is_new": false
     },
     {
@@ -1539,8 +1539,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 19,
-        "comments": 3,
+        "points": 20,
+        "comments": 4,
         "is_new": false
       },
       {
@@ -1553,8 +1553,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 300,
-        "comments": 108,
+        "points": 311,
+        "comments": 112,
         "is_new": false
       },
       {
