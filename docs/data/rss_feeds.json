@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-20T20:38:23.138876+00:00",
+  "last_updated": "2026-07-20T22:10:38.831252+00:00",
   "total_entries": 110,
-  "new_entries": 0,
+  "new_entries": 6,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,18 +47,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "c27a3acd5bed64de18f969e219f14ef4",
-      "title": "Google Vids now lets you star in your own AI videos",
-      "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
-      "description": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from promp",
-      "published": "Thu, 16 Jul 2026 18:32:54 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
     {
       "id": "3a06d71f5b9efca2c39084e2a201ee89",
       "title": "What to watch for after Jensen Huang’s Japan visit",
@@ -130,6 +118,30 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "20d9bcdf56933ea72724fc8a6c4da1fb",
+      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+      "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+      "description": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
+      "published": "Mon, 20 Jul 2026 21:21:15 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "9afbcd831bf6d894b62b89ab8396bcae",
+      "title": "AI’s most important protocol is getting a little bit easier to use",
+      "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+      "description": "The Model Context Protocol (MCP) is one of the basic building blocks of AI interoperability, giving AI models a secure way to access external data sources and services. It’s the plumbing that lets a c",
+      "published": "Mon, 20 Jul 2026 20:50:40 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "180974706d8235938f0038d602d46bfc",
@@ -756,16 +768,18 @@
       "is_new": false
     },
     {
-      "id": "96ead98cb5258035e987cd9ade32a100",
-      "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
-      "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
-      "description": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
-      "published": "Fri, 17 Jul 2026 12:00:00 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
+      "id": "48985139",
+      "title": "Show HN: Velprium - Time Workspace",
+      "url": "https://www.velprium.com/",
+      "description": "",
+      "published": "2026-07-20T21:30:53Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
       "category": "news",
-      "is_new": false
+      "points": 1,
+      "comments": 0,
+      "is_new": true
     },
     {
       "id": "48982964",
@@ -780,6 +794,18 @@
       "points": 1,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "3353d192712ab73ece1b81299b13d36c",
+      "title": "SpaceX in your index fund, explained",
+      "url": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
+      "description": "Index funds are touted as one of the safest ways to invest. Rather than picking and choosing individual stocks, index funds let you bet on the market as a whole. So what happens when a company like Sp",
+      "published": "2026-07-20T17:12:45-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "48980665",
@@ -1015,9 +1041,22 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 329,
+      "points": 330,
       "comments": 132,
       "is_new": false
+    },
+    {
+      "id": "fd740875e5d69d5e39fcd1394890d51a",
+      "title": "Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents",
+      "url": "https://huggingface.co/papers/2607.15263",
+      "description": "Security-agent evaluations commonly measure peak offensive capability under generous inference budgets, emphasizing vulnerability discovery, exploit development, penetration testing, and CTF completio",
+      "published": "2026-07-16T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
     },
     {
       "id": "bc6ce8db8d6d3c6b4e4d4cdd6e7cd589",
@@ -1072,32 +1111,6 @@
       "is_new": false
     },
     {
-      "id": "793545b2310172aeec8b04ae6ff9d44c",
-      "title": "Loop the Loopies!",
-      "url": "https://huggingface.co/papers/2607.16051",
-      "description": "We present Loopie, the most powerful looped Transformer to date. The Loopie series consists of two Mixture-of-Experts (MoE) models: a 20B-parameter model with 2B active parameters and a 6Bparameter mo",
-      "published": "2026-07-16T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 53,
-      "is_new": false
-    },
-    {
-      "id": "4bf6cff811421b90727180a26d5fb8e7",
-      "title": "Audio-Visual Flamingo: Open Audio-Visual Intelligence for Long and Complex Videos",
-      "url": "https://huggingface.co/papers/2607.16107",
-      "description": "We present Audio-Visual Flamingo (AV-Flamingo), a fully open state-of-the-art audio-visual large language model (AV-LLM) for joint understanding and reasoning over audio, images, and long-form videos.",
-      "published": "2026-07-16T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 6,
-      "is_new": false
-    },
-    {
       "id": "48934803",
       "title": "Show HN: Mac App to turn your computer into a hands-off coding agent",
       "url": "https://caider.dev/",
@@ -1143,18 +1156,6 @@
       "url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
       "description": "Google is giving its AI note-taking app a new name. The company announced on Thursday that NotebookLM is becoming Gemini Notebook, but will remain a standalone app even as it integrates more deeply ac",
       "published": "2026-07-16T12:11:20-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "6895063c5fd262a1741f925c461ddd91",
-      "title": "Claude can now use your 1Password credentials for you",
-      "url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
-      "description": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for Claude feature means",
-      "published": "2026-07-16T10:08:12-04:00",
       "source_id": "theverge-ai",
       "source_name": "The Verge AI",
       "source_icon": "📰",
@@ -1225,7 +1226,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 52,
+      "likes": 53,
       "is_new": false
     },
     {
@@ -1238,7 +1239,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 25,
+      "likes": 26,
       "is_new": false
     },
     {
@@ -1299,18 +1300,6 @@
   ],
   "by_category": {
     "news": [
-      {
-        "id": "c27a3acd5bed64de18f969e219f14ef4",
-        "title": "Google Vids now lets you star in your own AI videos",
-        "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
-        "description": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from promp",
-        "published": "Thu, 16 Jul 2026 18:32:54 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
       {
         "id": "3a06d71f5b9efca2c39084e2a201ee89",
         "title": "What to watch for after Jensen Huang’s Japan visit",
@@ -1382,6 +1371,30 @@
         "source_icon": "📰",
         "category": "news",
         "is_new": false
+      },
+      {
+        "id": "20d9bcdf56933ea72724fc8a6c4da1fb",
+        "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+        "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+        "description": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
+        "published": "Mon, 20 Jul 2026 21:21:15 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "9afbcd831bf6d894b62b89ab8396bcae",
+        "title": "AI’s most important protocol is getting a little bit easier to use",
+        "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+        "description": "The Model Context Protocol (MCP) is one of the basic building blocks of AI interoperability, giving AI models a secure way to access external data sources and services. It’s the plumbing that lets a c",
+        "published": "Mon, 20 Jul 2026 20:50:40 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
       },
       {
         "id": "180974706d8235938f0038d602d46bfc",
@@ -1528,16 +1541,18 @@
         "is_new": false
       },
       {
-        "id": "96ead98cb5258035e987cd9ade32a100",
-        "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
-        "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
-        "description": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
-        "published": "Fri, 17 Jul 2026 12:00:00 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
+        "id": "48985139",
+        "title": "Show HN: Velprium - Time Workspace",
+        "url": "https://www.velprium.com/",
+        "description": "",
+        "published": "2026-07-20T21:30:53Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
         "category": "news",
-        "is_new": false
+        "points": 1,
+        "comments": 0,
+        "is_new": true
       },
       {
         "id": "48982964",
@@ -1552,6 +1567,18 @@
         "points": 1,
         "comments": 0,
         "is_new": false
+      },
+      {
+        "id": "3353d192712ab73ece1b81299b13d36c",
+        "title": "SpaceX in your index fund, explained",
+        "url": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
+        "description": "Index funds are touted as one of the safest ways to invest. Rather than picking and choosing individual stocks, index funds let you bet on the market as a whole. So what happens when a company like Sp",
+        "published": "2026-07-20T17:12:45-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
       },
       {
         "id": "48980665",
@@ -1641,34 +1668,6 @@
         "category": "news",
         "points": 1,
         "comments": 1,
-        "is_new": false
-      },
-      {
-        "id": "48967666",
-        "title": "I built llms.txt files to make local businesses discoverable by AI agents",
-        "url": "https://www.kloofstreet.online/",
-        "description": "",
-        "published": "2026-07-19T12:39:20Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 1,
-        "comments": 3,
-        "is_new": false
-      },
-      {
-        "id": "48959447",
-        "title": "Show HN: OpenCareLoop - Solve your family's health, one loop at a time.",
-        "url": "https://karankurani.github.io/OpenCareLoop/",
-        "description": "",
-        "published": "2026-07-18T16:17:40Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 1,
-        "comments": 0,
         "is_new": false
       }
     ],
