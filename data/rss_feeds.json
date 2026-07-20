@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-20T00:08:26.994868+00:00",
+  "last_updated": "2026-07-20T03:52:58.317069+00:00",
   "total_entries": 69,
-  "new_entries": 2,
+  "new_entries": 14,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -444,7 +444,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 22,
-      "comments": 4,
+      "comments": 5,
       "is_new": false
     },
     {
@@ -460,6 +460,84 @@
       "points": 329,
       "comments": 130,
       "is_new": false
+    },
+    {
+      "id": "ebed2454c5aa71c4b2035989af4dfcad",
+      "title": "DSWorld: A Data Science World Model for Efficient Autonomous Agents",
+      "url": "https://huggingface.co/papers/2607.15901",
+      "description": "Despite strong capabilities in data understanding and decision-making, autonomous data science agents still heavily rely on trial-and-error workflows that involve expensive computation. This bottlenec",
+      "published": "2026-07-16T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "a2c32976eeba62209ccbdd83577c5ec9",
+      "title": "Recursive Harness Self-Improvement",
+      "url": "https://huggingface.co/papers/2607.15524",
+      "description": "Under model--harness co-evolution, harnesses are not merely inference-time scaffolds but data-generating components whose execution traces can shape future foundation models. This motivates harness-in",
+      "published": "2026-07-16T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
+      "id": "793545b2310172aeec8b04ae6ff9d44c",
+      "title": "Loop the Loopies!",
+      "url": "https://huggingface.co/papers/2607.16051",
+      "description": "We present Loopie, the most powerful looped Transformer to date. The Loopie series consists of two Mixture-of-Experts (MoE) models: a 20B-parameter model with 2B active parameters and a 6Bparameter mo",
+      "published": "2026-07-16T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 8,
+      "is_new": true
+    },
+    {
+      "id": "4bf6cff811421b90727180a26d5fb8e7",
+      "title": "Audio-Visual Flamingo: Open Audio-Visual Intelligence for Long and Complex Videos",
+      "url": "https://huggingface.co/papers/2607.16107",
+      "description": "We present Audio-Visual Flamingo (AV-Flamingo), a fully open state-of-the-art audio-visual large language model (AV-LLM) for joint understanding and reasoning over audio, images, and long-form videos.",
+      "published": "2026-07-16T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "b131dab5bc68b583ed5ea7fb448b52e4",
+      "title": "RecGPT-V3 Technical Report",
+      "url": "https://huggingface.co/papers/2607.15591",
+      "description": "Large language models (LLMs) are transforming recommender systems from matching co-occurrence patterns in historical behavior toward reasoning about the intent that drives it. RecGPT-V1 pioneered this",
+      "published": "2026-07-16T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 18,
+      "is_new": true
+    },
+    {
+      "id": "d579536980ec7f60c02e4132ff862c0b",
+      "title": "Understanding Reasoning from Pretraining to Post-Training",
+      "url": "https://huggingface.co/papers/2607.16097",
+      "description": "Reinforcement learning (RL) has become central to improving large language models (LLMs) on complex reasoning tasks, yet RL post-training is largely studied in isolation from the pretraining that prec",
+      "published": "2026-07-16T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 5,
+      "is_new": true
     },
     {
       "id": "48934803",
@@ -578,6 +656,45 @@
       "is_new": false
     },
     {
+      "id": "be48250773de0290e69a7f93fcbb88ae",
+      "title": "Xiaomi-Robotics-1: Scaling Vision-Language-Action Models with over 100K Hours of Real-World Trajectories",
+      "url": "https://huggingface.co/papers/2607.15330",
+      "description": "We present Xiaomi-Robotics-1, a foundational vision-language-action (VLA) model capable of (1) following diverse language instructions to perform a wide range of mobile manipulation tasks in unseen en",
+      "published": "2026-07-15T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "c8bf2d668ffa0113aa9761be652ed713",
+      "title": "On-Policy Delta Distillation",
+      "url": "https://huggingface.co/papers/2607.15161",
+      "description": "On-policy distillation is an alternative post-training method in reinforcement learning that alleviates the constraints imposed by reward models by providing token-level supervision from a teacher mod",
+      "published": "2026-07-15T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 9,
+      "is_new": true
+    },
+    {
+      "id": "772da7ee087988e6a4881dca862588f7",
+      "title": "xHC: Expanded Hyper-Connections",
+      "url": "https://huggingface.co/papers/2607.14530",
+      "description": "Hyper-Connections (HC) expand the residual stream of Transformers into N parallel streams, providing a form of memory scaling beyond model width and depth. Manifold-Constrained HC (mHC) stabilizes thi",
+      "published": "2026-07-15T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 25,
+      "is_new": true
+    },
+    {
       "id": "b4d9edb39efa8f4a7cfbd2464b30f933",
       "title": "Hierarchical Denoising For Multi-Step Visual Reasoning",
       "url": "https://huggingface.co/papers/2607.15278",
@@ -587,7 +704,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -601,58 +718,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 7,
-      "is_new": false
-    },
-    {
-      "id": "644c2b20d3861234cfc0d9f4ae3a853b",
-      "title": "LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget",
-      "url": "https://huggingface.co/papers/2607.14952",
-      "description": "A growing gap separates inference context lengths from RL post-training: inference systems are approaching million-token contexts, while post-training workloads often remain at 256K tokens or below an",
-      "published": "2026-07-15T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 176,
-      "is_new": false
-    },
-    {
-      "id": "6bc34761c00a6b4704bf623a1a1f8811",
-      "title": "VIABench: A Comprehensive Video Benchmark Collected from Blind Individuals for Visual Impairment Assistance",
-      "url": "https://huggingface.co/papers/2607.14660",
-      "description": "Visually impaired individuals (VIIs) encounter significant daily challenges due to limited access to visual information. Although Multimodal Large Language Models (MLLMs) have achieved impressive resu",
-      "published": "2026-07-15T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 8,
-      "is_new": false
-    },
-    {
-      "id": "3cc3d835f0fac5e75f8e44c5727b1d3b",
-      "title": "Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models",
-      "url": "https://huggingface.co/papers/2607.15277",
-      "description": "In-context learning is commonly interpreted as a form of conditional inference, in which the prompt specifies a context and the model's output is treated as an estimate of the corresponding conditiona",
-      "published": "2026-07-15T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 7,
-      "is_new": false
-    },
-    {
-      "id": "cb247aa31b3299cbca2445467efbdbf6",
-      "title": "VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding",
-      "url": "https://huggingface.co/papers/2607.14935",
-      "description": "Recent advances in video understanding have spanned motion, long video, and streaming interaction, driving this field toward real-world applications. Despite this progress, current open-source models ",
-      "published": "2026-07-15T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 145,
       "is_new": false
     },
     {
@@ -698,6 +763,32 @@
       "is_new": false
     },
     {
+      "id": "3ae8e2281322c04e783f30bce4518fd5",
+      "title": "VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders",
+      "url": "https://huggingface.co/papers/2607.14088",
+      "description": "Video generative models commonly rely on latent spaces learned by 3D Variational Autoencoders (3D-VAEs). However, conventional 3D-VAEs are mainly optimized for pixel-level reconstruction, which can li",
+      "published": "2026-07-14T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "260837cca93bb559cb12da3a5b17d7f1",
+      "title": "Cura 1T: Specialized Model for Agentic Healthcare",
+      "url": "https://huggingface.co/papers/2607.15314",
+      "description": "Healthcare spans high-stakes communication, expert reasoning, and workflow execution, yet specialized LLMs that cover these use cases together remain limited. A healthcare model must handle patient co",
+      "published": "2026-07-14T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 9,
+      "is_new": true
+    },
+    {
       "id": "095642ae938f7726dc51e3f3371bb36a",
       "title": "Chat2Scenic: An Iterative RAG-Based Framework for Scenario Generation in Autonomous Driving",
       "url": "https://huggingface.co/papers/2607.14387",
@@ -707,7 +798,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 5,
       "is_new": false
     },
     {
@@ -721,71 +812,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 23,
-      "is_new": false
-    },
-    {
-      "id": "bda061c487c3c41ad3b802f9a772ee13",
-      "title": "From Pixels to States: Rethinking Interactive World Models as Game Engines",
-      "url": "https://huggingface.co/papers/2607.14076",
-      "description": "Building interactive worlds that respond coherently to player actions has long been a shared goal of computer graphics, games, and artificial intelligence. Recent video generative models provide a dat",
-      "published": "2026-07-14T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 29,
-      "is_new": false
-    },
-    {
-      "id": "d2ac6e9646844e0d2a70725dfa4a88d4",
-      "title": "DeepLoop: Depth Scaling for Looped Transformers",
-      "url": "https://huggingface.co/papers/2607.13491",
-      "description": "Looped Transformers scale sequential computation by applying a compact stack of physical blocks for multiple rounds, increasing unrolled depth without increasing stored parameters. This reuse changes ",
-      "published": "2026-07-14T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 13,
-      "is_new": false
-    },
-    {
-      "id": "a429952c71843026f27581bb4689fe2d",
-      "title": "MultiRef-Compass: Towards Comprehensive Evaluation of Multi-Reference-to-Audio-Video Generation",
-      "url": "https://huggingface.co/papers/2607.14189",
-      "description": "Multi-reference-to-audio-video (MR2AV) generation aims to generate coherent audio-video content conditioned on multiple references and textual instructions. Existing benchmarks mainly focus on text-dr",
-      "published": "2026-07-14T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 31,
-      "is_new": false
-    },
-    {
-      "id": "15036fbc134245c796634b785cd56c0b",
-      "title": "KeyFrame-Compass: Towards Comprehensive Evaluation of Keyframe-Conditioned Video Generation",
-      "url": "https://huggingface.co/papers/2607.14202",
-      "description": "Video generation increasingly relies on keyframe-based workflows, where creators specify a sequence of reference images to guide generation. Although recent models support multi-keyframe conditioning,",
-      "published": "2026-07-14T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 36,
-      "is_new": false
-    },
-    {
-      "id": "d24392b6f2f49cc4ebc2a51677f6294d",
-      "title": "Demystifying On-Policy Distillation: Roles, Pathologies, and Regulations",
-      "url": "https://huggingface.co/papers/2607.13399",
-      "description": "On-policy distillation (OPD) has become a key paradigm in LLM post-training, yet its training dynamics remain poorly understood. We present a systematic study examining the role, pathologies, and regu",
-      "published": "2026-07-14T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 18,
       "is_new": false
     },
     {
@@ -845,6 +871,19 @@
       "is_new": false
     },
     {
+      "id": "2e9c4549f7754f42d5e8daa15610cd1c",
+      "title": "From Human-Centric to Agentic Code Review: The Impact of Different Generations of Generative AI Technology on Review Quality",
+      "url": "https://huggingface.co/papers/2607.13196",
+      "description": "Code review helps maintain software quality before code integration, but it also imposes a substantial workload on human reviewers. As generative artificial intelligence becomes part of software devel",
+      "published": "2026-07-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 13,
+      "is_new": true
+    },
+    {
       "id": "1104b10fe5944d1fbeef2158948a06d5",
       "title": "Rethinking the Evaluation of Harness Evolution for Agents",
       "url": "https://huggingface.co/papers/2607.12227",
@@ -855,19 +894,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 6,
-      "is_new": false
-    },
-    {
-      "id": "1c3fdda21e831a6747c01e9c79ca0073",
-      "title": "UniVR: Thinking in Visual Space for Unified Visual Reasoning",
-      "url": "https://huggingface.co/papers/2607.12800",
-      "description": "Learning broad world knowledge directly from raw visual data is a fundamental capability of intelligence. We introduce UniVR, the first investigation into simultaneously learning complex reasoning, fi",
-      "published": "2026-07-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 28,
       "is_new": false
     },
     {
@@ -884,19 +910,6 @@
       "is_new": false
     },
     {
-      "id": "26aacc4f5c9d98f8c509ea515c56c10d",
-      "title": "GRASP: GRanularity-Aware Search Policy for Agentic RAG",
-      "url": "https://huggingface.co/papers/2607.10463",
-      "description": "Agentic retrieval-augmented generation (RAG) extends static RAG by allowing language models to iteratively reason, generate search queries, retrieve evidence, and predict answers. However, it remains ",
-      "published": "2026-07-10T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 5,
-      "is_new": false
-    },
-    {
       "id": "53680cdccb60649e62047b9f54c90ac9",
       "title": "On Locality and Length Generalization in Visual Reasoning",
       "url": "https://huggingface.co/papers/2607.09061",
@@ -907,19 +920,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "4973f35c6d867982c62507b00d12ef5f",
-      "title": "Spectral Rewiring for Exploration, Purification, and Model Merging",
-      "url": "https://huggingface.co/papers/2607.03065",
-      "description": "Reinforcement learning has become a standard post-training recipe for large language models, but dense full-parameter updates create two deployment-relevant bottlenecks: suppressed reasoning performan",
-      "published": "2026-07-02T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 22,
       "is_new": false
     },
     {
@@ -1313,6 +1313,123 @@
     ],
     "research": [
       {
+        "id": "ebed2454c5aa71c4b2035989af4dfcad",
+        "title": "DSWorld: A Data Science World Model for Efficient Autonomous Agents",
+        "url": "https://huggingface.co/papers/2607.15901",
+        "description": "Despite strong capabilities in data understanding and decision-making, autonomous data science agents still heavily rely on trial-and-error workflows that involve expensive computation. This bottlenec",
+        "published": "2026-07-16T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 2,
+        "is_new": true
+      },
+      {
+        "id": "a2c32976eeba62209ccbdd83577c5ec9",
+        "title": "Recursive Harness Self-Improvement",
+        "url": "https://huggingface.co/papers/2607.15524",
+        "description": "Under model--harness co-evolution, harnesses are not merely inference-time scaffolds but data-generating components whose execution traces can shape future foundation models. This motivates harness-in",
+        "published": "2026-07-16T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 3,
+        "is_new": true
+      },
+      {
+        "id": "793545b2310172aeec8b04ae6ff9d44c",
+        "title": "Loop the Loopies!",
+        "url": "https://huggingface.co/papers/2607.16051",
+        "description": "We present Loopie, the most powerful looped Transformer to date. The Loopie series consists of two Mixture-of-Experts (MoE) models: a 20B-parameter model with 2B active parameters and a 6Bparameter mo",
+        "published": "2026-07-16T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 8,
+        "is_new": true
+      },
+      {
+        "id": "4bf6cff811421b90727180a26d5fb8e7",
+        "title": "Audio-Visual Flamingo: Open Audio-Visual Intelligence for Long and Complex Videos",
+        "url": "https://huggingface.co/papers/2607.16107",
+        "description": "We present Audio-Visual Flamingo (AV-Flamingo), a fully open state-of-the-art audio-visual large language model (AV-LLM) for joint understanding and reasoning over audio, images, and long-form videos.",
+        "published": "2026-07-16T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 0,
+        "is_new": true
+      },
+      {
+        "id": "b131dab5bc68b583ed5ea7fb448b52e4",
+        "title": "RecGPT-V3 Technical Report",
+        "url": "https://huggingface.co/papers/2607.15591",
+        "description": "Large language models (LLMs) are transforming recommender systems from matching co-occurrence patterns in historical behavior toward reasoning about the intent that drives it. RecGPT-V1 pioneered this",
+        "published": "2026-07-16T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 18,
+        "is_new": true
+      },
+      {
+        "id": "d579536980ec7f60c02e4132ff862c0b",
+        "title": "Understanding Reasoning from Pretraining to Post-Training",
+        "url": "https://huggingface.co/papers/2607.16097",
+        "description": "Reinforcement learning (RL) has become central to improving large language models (LLMs) on complex reasoning tasks, yet RL post-training is largely studied in isolation from the pretraining that prec",
+        "published": "2026-07-16T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 5,
+        "is_new": true
+      },
+      {
+        "id": "be48250773de0290e69a7f93fcbb88ae",
+        "title": "Xiaomi-Robotics-1: Scaling Vision-Language-Action Models with over 100K Hours of Real-World Trajectories",
+        "url": "https://huggingface.co/papers/2607.15330",
+        "description": "We present Xiaomi-Robotics-1, a foundational vision-language-action (VLA) model capable of (1) following diverse language instructions to perform a wide range of mobile manipulation tasks in unseen en",
+        "published": "2026-07-15T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 1,
+        "is_new": true
+      },
+      {
+        "id": "c8bf2d668ffa0113aa9761be652ed713",
+        "title": "On-Policy Delta Distillation",
+        "url": "https://huggingface.co/papers/2607.15161",
+        "description": "On-policy distillation is an alternative post-training method in reinforcement learning that alleviates the constraints imposed by reward models by providing token-level supervision from a teacher mod",
+        "published": "2026-07-15T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 9,
+        "is_new": true
+      },
+      {
+        "id": "772da7ee087988e6a4881dca862588f7",
+        "title": "xHC: Expanded Hyper-Connections",
+        "url": "https://huggingface.co/papers/2607.14530",
+        "description": "Hyper-Connections (HC) expand the residual stream of Transformers into N parallel streams, providing a form of memory scaling beyond model width and depth. Manifold-Constrained HC (mHC) stabilizes thi",
+        "published": "2026-07-15T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 25,
+        "is_new": true
+      },
+      {
         "id": "b4d9edb39efa8f4a7cfbd2464b30f933",
         "title": "Hierarchical Denoising For Multi-Step Visual Reasoning",
         "url": "https://huggingface.co/papers/2607.15278",
@@ -1322,7 +1439,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 3,
+        "likes": 4,
         "is_new": false
       },
       {
@@ -1339,56 +1456,30 @@
         "is_new": false
       },
       {
-        "id": "644c2b20d3861234cfc0d9f4ae3a853b",
-        "title": "LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget",
-        "url": "https://huggingface.co/papers/2607.14952",
-        "description": "A growing gap separates inference context lengths from RL post-training: inference systems are approaching million-token contexts, while post-training workloads often remain at 256K tokens or below an",
-        "published": "2026-07-15T20:00:00.000Z",
+        "id": "3ae8e2281322c04e783f30bce4518fd5",
+        "title": "VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders",
+        "url": "https://huggingface.co/papers/2607.14088",
+        "description": "Video generative models commonly rely on latent spaces learned by 3D Variational Autoencoders (3D-VAEs). However, conventional 3D-VAEs are mainly optimized for pixel-level reconstruction, which can li",
+        "published": "2026-07-14T20:00:00.000Z",
         "source_id": "hf-papers",
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 176,
-        "is_new": false
+        "likes": 1,
+        "is_new": true
       },
       {
-        "id": "6bc34761c00a6b4704bf623a1a1f8811",
-        "title": "VIABench: A Comprehensive Video Benchmark Collected from Blind Individuals for Visual Impairment Assistance",
-        "url": "https://huggingface.co/papers/2607.14660",
-        "description": "Visually impaired individuals (VIIs) encounter significant daily challenges due to limited access to visual information. Although Multimodal Large Language Models (MLLMs) have achieved impressive resu",
-        "published": "2026-07-15T20:00:00.000Z",
+        "id": "260837cca93bb559cb12da3a5b17d7f1",
+        "title": "Cura 1T: Specialized Model for Agentic Healthcare",
+        "url": "https://huggingface.co/papers/2607.15314",
+        "description": "Healthcare spans high-stakes communication, expert reasoning, and workflow execution, yet specialized LLMs that cover these use cases together remain limited. A healthcare model must handle patient co",
+        "published": "2026-07-14T20:00:00.000Z",
         "source_id": "hf-papers",
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 8,
-        "is_new": false
-      },
-      {
-        "id": "3cc3d835f0fac5e75f8e44c5727b1d3b",
-        "title": "Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models",
-        "url": "https://huggingface.co/papers/2607.15277",
-        "description": "In-context learning is commonly interpreted as a form of conditional inference, in which the prompt specifies a context and the model's output is treated as an estimate of the corresponding conditiona",
-        "published": "2026-07-15T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 7,
-        "is_new": false
-      },
-      {
-        "id": "cb247aa31b3299cbca2445467efbdbf6",
-        "title": "VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding",
-        "url": "https://huggingface.co/papers/2607.14935",
-        "description": "Recent advances in video understanding have spanned motion, long video, and streaming interaction, driving this field toward real-world applications. Despite this progress, current open-source models ",
-        "published": "2026-07-15T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 145,
-        "is_new": false
+        "likes": 9,
+        "is_new": true
       },
       {
         "id": "095642ae938f7726dc51e3f3371bb36a",
@@ -1400,7 +1491,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 4,
+        "likes": 5,
         "is_new": false
       },
       {
@@ -1417,69 +1508,17 @@
         "is_new": false
       },
       {
-        "id": "bda061c487c3c41ad3b802f9a772ee13",
-        "title": "From Pixels to States: Rethinking Interactive World Models as Game Engines",
-        "url": "https://huggingface.co/papers/2607.14076",
-        "description": "Building interactive worlds that respond coherently to player actions has long been a shared goal of computer graphics, games, and artificial intelligence. Recent video generative models provide a dat",
-        "published": "2026-07-14T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 29,
-        "is_new": false
-      },
-      {
-        "id": "d2ac6e9646844e0d2a70725dfa4a88d4",
-        "title": "DeepLoop: Depth Scaling for Looped Transformers",
-        "url": "https://huggingface.co/papers/2607.13491",
-        "description": "Looped Transformers scale sequential computation by applying a compact stack of physical blocks for multiple rounds, increasing unrolled depth without increasing stored parameters. This reuse changes ",
-        "published": "2026-07-14T20:00:00.000Z",
+        "id": "2e9c4549f7754f42d5e8daa15610cd1c",
+        "title": "From Human-Centric to Agentic Code Review: The Impact of Different Generations of Generative AI Technology on Review Quality",
+        "url": "https://huggingface.co/papers/2607.13196",
+        "description": "Code review helps maintain software quality before code integration, but it also imposes a substantial workload on human reviewers. As generative artificial intelligence becomes part of software devel",
+        "published": "2026-07-13T20:00:00.000Z",
         "source_id": "hf-papers",
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
         "likes": 13,
-        "is_new": false
-      },
-      {
-        "id": "a429952c71843026f27581bb4689fe2d",
-        "title": "MultiRef-Compass: Towards Comprehensive Evaluation of Multi-Reference-to-Audio-Video Generation",
-        "url": "https://huggingface.co/papers/2607.14189",
-        "description": "Multi-reference-to-audio-video (MR2AV) generation aims to generate coherent audio-video content conditioned on multiple references and textual instructions. Existing benchmarks mainly focus on text-dr",
-        "published": "2026-07-14T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 31,
-        "is_new": false
-      },
-      {
-        "id": "15036fbc134245c796634b785cd56c0b",
-        "title": "KeyFrame-Compass: Towards Comprehensive Evaluation of Keyframe-Conditioned Video Generation",
-        "url": "https://huggingface.co/papers/2607.14202",
-        "description": "Video generation increasingly relies on keyframe-based workflows, where creators specify a sequence of reference images to guide generation. Although recent models support multi-keyframe conditioning,",
-        "published": "2026-07-14T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 36,
-        "is_new": false
-      },
-      {
-        "id": "d24392b6f2f49cc4ebc2a51677f6294d",
-        "title": "Demystifying On-Policy Distillation: Roles, Pathologies, and Regulations",
-        "url": "https://huggingface.co/papers/2607.13399",
-        "description": "On-policy distillation (OPD) has become a key paradigm in LLM post-training, yet its training dynamics remain poorly understood. We present a systematic study examining the role, pathologies, and regu",
-        "published": "2026-07-14T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 18,
-        "is_new": false
+        "is_new": true
       },
       {
         "id": "1104b10fe5944d1fbeef2158948a06d5",
@@ -1492,19 +1531,6 @@
         "source_icon": "🤗",
         "category": "research",
         "likes": 6,
-        "is_new": false
-      },
-      {
-        "id": "1c3fdda21e831a6747c01e9c79ca0073",
-        "title": "UniVR: Thinking in Visual Space for Unified Visual Reasoning",
-        "url": "https://huggingface.co/papers/2607.12800",
-        "description": "Learning broad world knowledge directly from raw visual data is a fundamental capability of intelligence. We introduce UniVR, the first investigation into simultaneously learning complex reasoning, fi",
-        "published": "2026-07-13T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 28,
         "is_new": false
       },
       {
@@ -1521,19 +1547,6 @@
         "is_new": false
       },
       {
-        "id": "26aacc4f5c9d98f8c509ea515c56c10d",
-        "title": "GRASP: GRanularity-Aware Search Policy for Agentic RAG",
-        "url": "https://huggingface.co/papers/2607.10463",
-        "description": "Agentic retrieval-augmented generation (RAG) extends static RAG by allowing language models to iteratively reason, generate search queries, retrieve evidence, and predict answers. However, it remains ",
-        "published": "2026-07-10T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 5,
-        "is_new": false
-      },
-      {
         "id": "53680cdccb60649e62047b9f54c90ac9",
         "title": "On Locality and Length Generalization in Visual Reasoning",
         "url": "https://huggingface.co/papers/2607.09061",
@@ -1544,19 +1557,6 @@
         "source_icon": "🤗",
         "category": "research",
         "likes": 2,
-        "is_new": false
-      },
-      {
-        "id": "4973f35c6d867982c62507b00d12ef5f",
-        "title": "Spectral Rewiring for Exploration, Purification, and Model Merging",
-        "url": "https://huggingface.co/papers/2607.03065",
-        "description": "Reinforcement learning has become a standard post-training recipe for large language models, but dense full-parameter updates create two deployment-relevant bottlenecks: suppressed reasoning performan",
-        "published": "2026-07-02T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 22,
         "is_new": false
       },
       {
