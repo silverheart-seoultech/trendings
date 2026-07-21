@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-21T09:36:18.421373+00:00",
+  "last_updated": "2026-07-21T11:58:19.156385+00:00",
   "total_entries": 110,
-  "new_entries": 2,
+  "new_entries": 7,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,6 +47,18 @@
     }
   ],
   "entries": [
+    {
+      "id": "5b7c7b34706f3c384003596ef6b4a1d4",
+      "title": "Gritt exits stealth with $34 million for robots to build solar plants—then, everything else",
+      "url": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
+      "description": "Gritt is coming out of stealth with $34 million and plan to automate the hardest tasks on construction sites.",
+      "published": "Tue, 21 Jul 2026 10:00:00 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "683e474adcf4d94c5e8ea10fd2ab74f3",
       "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
@@ -756,16 +768,16 @@
       "is_new": false
     },
     {
-      "id": "0a1bc8bb93d46198e086d18e3afb2b6d",
-      "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
-      "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
-      "description": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief hardware officer an",
-      "published": "Fri, 17 Jul 2026 17:45:46 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
+      "id": "e9faa71a5160afbb0d6fd83de6749d11",
+      "title": "America needs to stop getting shocked by Chinese AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment",
+      "description": "Last week, two Chinese AI companies unveiled models they say can credibly compete with the best systems from OpenAI and Anthropic. The response was swift and predictable. Markets wobbled, commentators",
+      "published": "2026-07-21T07:43:25-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "48985139",
@@ -896,6 +908,19 @@
       "is_new": false
     },
     {
+      "id": "7c68bca9c9a9678ada15988f1f367045",
+      "title": "ShotPlan: Cinematic Video Generation with Learnable Planning Token",
+      "url": "https://huggingface.co/papers/2607.17675",
+      "description": "Current video generation models achieve impressive results in single-shot generation, yet remain limited in cinematic video generation, where coherent narratives and effective multi-shot composition r",
+      "published": "2026-07-19T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "1ec4afff54a74e8f1d399cf91ea22d0c",
       "title": "WorldCupArena: Fine-Grained Evaluation of Language Models and Deep-Research Agents on Football Forecasting",
       "url": "https://huggingface.co/papers/2607.18084",
@@ -905,7 +930,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 1,
       "is_new": false
     },
     {
@@ -931,7 +956,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
+      "likes": 10,
       "is_new": false
     },
     {
@@ -957,7 +982,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 28,
+      "likes": 39,
       "is_new": false
     },
     {
@@ -984,32 +1009,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 59,
-      "is_new": false
-    },
-    {
-      "id": "361873ef4f250dc05d9b533776fab480",
-      "title": "RynnBrain 1.1: Towards More Capable and Generalizable Embodied Foundation Model",
-      "url": "https://huggingface.co/papers/2607.17977",
-      "description": "We present RynnBrain 1.1, a family of embodied foundation models spanning 2B, 9B, and 122B-A10B scales. Trained with a unified spatio-temporal and physically grounded framework, RynnBrain 1.1 supports",
-      "published": "2026-07-19T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 30,
-      "is_new": false
-    },
-    {
-      "id": "efbb66b6f336694f09ed82b40c54eb26",
-      "title": "LLM-as-a-Coach: Experiential Learning for Non-Verifiable Tasks",
-      "url": "https://huggingface.co/papers/2607.18110",
-      "description": "Reinforcement learning (RL) on open-ended tasks compresses an LLM's rubric-based evaluation into a scalar reward, discarding rich textual feedback and conflating responses with distinct quality profil",
-      "published": "2026-07-19T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 7,
       "is_new": false
     },
     {
@@ -1041,6 +1040,19 @@
       "is_new": false
     },
     {
+      "id": "e1b45ab8b0e498bb2b82ef4190ad5d3b",
+      "title": "The Geometry of Semantic Space: A Continuous Geometric Framework for the Transformer Architecture",
+      "url": "https://huggingface.co/papers/2607.17146",
+      "description": "We present a continuous geometric framework that models the discrete algebraic operations of the Transformer architecture as an integro-differential equation (IDE) on a semantic fiber bundle calE = ca",
+      "published": "2026-07-18T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
       "id": "d485fbe9c94dfcee3f4265678d80c407",
       "title": "HarmoHOI: Harmonizing Appearance and 3D Motion for Multi-view Hand-Object Interaction Synthesis",
       "url": "https://huggingface.co/papers/2607.17097",
@@ -1050,7 +1062,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
+      "likes": 7,
       "is_new": false
     },
     {
@@ -1063,7 +1075,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 38,
+      "likes": 69,
       "is_new": false
     },
     {
@@ -1076,7 +1088,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 55,
+      "likes": 58,
       "is_new": false
     },
     {
@@ -1121,17 +1133,17 @@
       "is_new": false
     },
     {
-      "id": "2538aa175e877fc041ffb29189cda5a8",
-      "title": "Group Entropy-Controlled Policy Optimization",
-      "url": "https://huggingface.co/papers/2607.16850",
-      "description": "Entropy control has become an effective tool in reinforcement learning (RL) of large language models (LLMs), helping balance exploration-exploitation trade-off during alignment process. Such RL paradi",
+      "id": "8953ede36889c9c7bdc2b18641fee305",
+      "title": "Can Multimodal Large Language Models Understand OCT?",
+      "url": "https://huggingface.co/papers/2607.16609",
+      "description": "Optical coherence tomography (OCT) imaging is essential for the diagnosis and treatment of retinal diseases. Although multimodal large language models (MLLMs) have demonstrated considerable potential ",
       "published": "2026-07-17T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 19,
-      "is_new": false
+      "likes": 0,
+      "is_new": true
     },
     {
       "id": "48950192",
@@ -1249,7 +1261,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 26,
+      "likes": 29,
       "is_new": false
     },
     {
@@ -1264,18 +1276,6 @@
       "category": "news",
       "points": 2,
       "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "ce2196ba2ede0853a6ea4a5237869955",
-      "title": "New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
-      "description": "New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. During an interview with Bloomberg's Odd Lot",
-      "published": "2026-07-16T13:58:37-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
       "is_new": false
     },
     {
@@ -1295,6 +1295,18 @@
   ],
   "by_category": {
     "news": [
+      {
+        "id": "5b7c7b34706f3c384003596ef6b4a1d4",
+        "title": "Gritt exits stealth with $34 million for robots to build solar plants—then, everything else",
+        "url": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
+        "description": "Gritt is coming out of stealth with $34 million and plan to automate the hardest tasks on construction sites.",
+        "published": "Tue, 21 Jul 2026 10:00:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "683e474adcf4d94c5e8ea10fd2ab74f3",
         "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
@@ -1524,16 +1536,16 @@
         "is_new": false
       },
       {
-        "id": "0a1bc8bb93d46198e086d18e3afb2b6d",
-        "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
-        "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
-        "description": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief hardware officer an",
-        "published": "Fri, 17 Jul 2026 17:45:46 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
+        "id": "e9faa71a5160afbb0d6fd83de6749d11",
+        "title": "America needs to stop getting shocked by Chinese AI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment",
+        "description": "Last week, two Chinese AI companies unveiled models they say can credibly compete with the best systems from OpenAI and Anthropic. The response was swift and predictable. Markets wobbled, commentators",
+        "published": "2026-07-21T07:43:25-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
+        "is_new": true
       },
       {
         "id": "48985139",
@@ -1645,18 +1657,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
         "description": "Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded",
         "published": "2026-07-20T06:03:29-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "b76bec5ff62bf0a6d7ed208b6f9e7742",
-        "title": "I hate that I don’t hate this song made with Suno",
-        "url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
-        "description": "I would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all). But I generally find music made with generative AI to be offensively boring, especially the",
-        "published": "2026-07-20T05:37:27-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
