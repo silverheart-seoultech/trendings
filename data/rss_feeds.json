@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-21T00:07:49.378857+00:00",
+  "last_updated": "2026-07-21T03:20:33.860015+00:00",
   "total_entries": 110,
-  "new_entries": 8,
+  "new_entries": 20,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,6 +47,18 @@
     }
   ],
   "entries": [
+    {
+      "id": "683e474adcf4d94c5e8ea10fd2ab74f3",
+      "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
+      "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+      "description": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
+      "published": "Tue, 21 Jul 2026 00:12:24 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "3a06d71f5b9efca2c39084e2a201ee89",
       "title": "What to watch for after Jensen Huang’s Japan visit",
@@ -303,7 +315,7 @@
       "id": "e057741d03f9f5e568823bc0a9c1b0b2",
       "title": "From Black Box to Executable Logic: Explainable Reinforcement Learning through Prolog Expert Systems",
       "url": "https://arxiv.org/abs/2607.15459",
-      "description": "arXiv:2607.15459v1 Announce Type: new \nAbstract: A trained deep reinforcement learning policy is a black box, and we ask whether it can be made explainable by rewriting it as an executable logic progr",
+      "description": "arXiv:2607.15459v2 Announce Type: new \nAbstract: A trained deep reinforcement learning policy is a black box, and we ask whether it can be made explainable by rewriting it as an executable logic progr",
       "published": "Mon, 20 Jul 2026 00:00:00 -0400",
       "source_id": "arxiv-ai",
       "source_name": "arXiv AI",
@@ -756,18 +768,6 @@
       "is_new": false
     },
     {
-      "id": "a90acdd50b34149685fea53d473a8353",
-      "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
-      "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
-      "description": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relyin",
-      "published": "Fri, 17 Jul 2026 15:21:17 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "48985139",
       "title": "Show HN: Velprium - Time Workspace",
       "url": "https://www.velprium.com/",
@@ -896,6 +896,71 @@
       "is_new": false
     },
     {
+      "id": "a4f7b4c339ce697bc833e0fabd8f499f",
+      "title": "FlashRT: Agent Harness for Guiding Agents to Deploy Real-Time Multimodal Applications",
+      "url": "https://huggingface.co/papers/2607.18171",
+      "description": "Real-time multimodal applications, including voice agents and interactive video generation, compose heterogeneous models into pipelines whose efficient deployment requires application-specific decisio",
+      "published": "2026-07-19T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "24df452af67064cb61275775d011e8a9",
+      "title": "SWE-Pruner Pro: The Coder LLM Already Knows What to Prune",
+      "url": "https://huggingface.co/papers/2607.18213",
+      "description": "Pruning long context for coding agents has been a vital technology for efficient context management. While existing context pruning methods such as SWE-Pruner realize this by attaching a separate code",
+      "published": "2026-07-19T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "361873ef4f250dc05d9b533776fab480",
+      "title": "RynnBrain 1.1: Towards More Capable and Generalizable Embodied Foundation Model",
+      "url": "https://huggingface.co/papers/2607.17977",
+      "description": "We present RynnBrain 1.1, a family of embodied foundation models spanning 2B, 9B, and 122B-A10B scales. Trained with a unified spatio-temporal and physically grounded framework, RynnBrain 1.1 supports",
+      "published": "2026-07-19T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
+    },
+    {
+      "id": "efbb66b6f336694f09ed82b40c54eb26",
+      "title": "LLM-as-a-Coach: Experiential Learning for Non-Verifiable Tasks",
+      "url": "https://huggingface.co/papers/2607.18110",
+      "description": "Reinforcement learning (RL) on open-ended tasks compresses an LLM's rubric-based evaluation into a scalar reward, discarding rich textual feedback and conflating responses with distinct quality profil",
+      "published": "2026-07-19T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
+      "id": "a7800f646e054e0ed00fc1e4ff5b6a17",
+      "title": "DiFA: Inference-Time Forward-Process Alignment for Diffusion Models",
+      "url": "https://huggingface.co/papers/2607.17972",
+      "description": "The prevailing inference framework for diffusion models formulates generation fundamentally as a problem of numerical integration. This perspective casts the model as an exact estimator, neglecting th",
+      "published": "2026-07-19T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "48968013",
       "title": "Show HN: CallBro – Granola, but Powered by Codex, Claude Code, or Your Local LLM",
       "url": "https://callbro.ai/",
@@ -950,6 +1015,32 @@
       "points": 1,
       "comments": 2,
       "is_new": false
+    },
+    {
+      "id": "2538aa175e877fc041ffb29189cda5a8",
+      "title": "Group Entropy-Controlled Policy Optimization",
+      "url": "https://huggingface.co/papers/2607.16850",
+      "description": "Entropy control has become an effective tool in reinforcement learning (RL) of large language models (LLMs), helping balance exploration-exploitation trade-off during alignment process. Such RL paradi",
+      "published": "2026-07-17T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 12,
+      "is_new": true
+    },
+    {
+      "id": "98c6abb6af9a6bd9f9339c4515aaead2",
+      "title": "Environment-free Synthetic Data Generation for API-Calling Agents",
+      "url": "https://huggingface.co/papers/2607.16900",
+      "description": "Training API-calling large language model (LLM) agents demands massive amounts of high-quality trajectories. However, collecting such data at scale typically requires fully implemented environments wi",
+      "published": "2026-07-17T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
     },
     {
       "id": "48950192",
@@ -1058,6 +1149,19 @@
       "is_new": false
     },
     {
+      "id": "c71bac143de8d7740567ed0e86d4d197",
+      "title": "JoyNexus: Service-Oriented Multi-Tenant Post-Training for VLA Models",
+      "url": "https://huggingface.co/papers/2607.16074",
+      "description": "The post-training of Vision-Language-Action (VLA) models is essential due to the diversity of simulators, robot embodiments, and task objectives. Existing compute services, whether offered as direct a",
+      "published": "2026-07-16T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
       "id": "fd740875e5d69d5e39fcd1394890d51a",
       "title": "Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents",
       "url": "https://huggingface.co/papers/2607.15263",
@@ -1069,58 +1173,6 @@
       "category": "research",
       "likes": 3,
       "is_new": true
-    },
-    {
-      "id": "bc6ce8db8d6d3c6b4e4d4cdd6e7cd589",
-      "title": "When Does Muon Help Agentic Reinforcement Learning?",
-      "url": "https://huggingface.co/papers/2607.16169",
-      "description": "Muon is competitive with AdamW in large-scale pre-training, but its value for reinforcement-learning (RL) post-training remains unclear. We study vanilla Muon in sparse-reward agentic RL through match",
-      "published": "2026-07-16T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 13,
-      "is_new": false
-    },
-    {
-      "id": "44bd44fa3e60b6ca16acd3c76d8c7c24",
-      "title": "S1-Omni: A Unified Multimodal Reasoning Model for Scientific Understanding, Prediction, and Generation",
-      "url": "https://huggingface.co/papers/2607.15686",
-      "description": "We present S1-Omni, a unified multimodal reasoning model for scientific understanding, prediction, and generation. AI for Science (AI4S) has advanced significantly through domain-specific models, tool",
-      "published": "2026-07-16T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 10,
-      "is_new": false
-    },
-    {
-      "id": "ebed2454c5aa71c4b2035989af4dfcad",
-      "title": "DSWorld: A Data Science World Model for Efficient Autonomous Agents",
-      "url": "https://huggingface.co/papers/2607.15901",
-      "description": "Despite strong capabilities in data understanding and decision-making, autonomous data science agents still heavily rely on trial-and-error workflows that involve expensive computation. This bottlenec",
-      "published": "2026-07-16T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 7,
-      "is_new": false
-    },
-    {
-      "id": "a2c32976eeba62209ccbdd83577c5ec9",
-      "title": "Recursive Harness Self-Improvement",
-      "url": "https://huggingface.co/papers/2607.15524",
-      "description": "Under model--harness co-evolution, harnesses are not merely inference-time scaffolds but data-generating components whose execution traces can shape future foundation models. This motivates harness-in",
-      "published": "2026-07-16T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 14,
-      "is_new": false
     },
     {
       "id": "48934803",
@@ -1200,7 +1252,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 113,
+      "likes": 118,
       "is_new": false
     },
     {
@@ -1214,45 +1266,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 9,
-      "is_new": false
-    },
-    {
-      "id": "be48250773de0290e69a7f93fcbb88ae",
-      "title": "Xiaomi-Robotics-1: Scaling Vision-Language-Action Models with over 100K Hours of Real-World Trajectories",
-      "url": "https://huggingface.co/papers/2607.15330",
-      "description": "We present Xiaomi-Robotics-1, a foundational vision-language-action (VLA) model capable of (1) following diverse language instructions to perform a wide range of mobile manipulation tasks in unseen en",
-      "published": "2026-07-15T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 54,
-      "is_new": false
-    },
-    {
-      "id": "c8bf2d668ffa0113aa9761be652ed713",
-      "title": "On-Policy Delta Distillation",
-      "url": "https://huggingface.co/papers/2607.15161",
-      "description": "On-policy distillation is an alternative post-training method in reinforcement learning that alleviates the constraints imposed by reward models by providing token-level supervision from a teacher mod",
-      "published": "2026-07-15T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 27,
-      "is_new": false
-    },
-    {
-      "id": "772da7ee087988e6a4881dca862588f7",
-      "title": "xHC: Expanded Hyper-Connections",
-      "url": "https://huggingface.co/papers/2607.14530",
-      "description": "Hyper-Connections (HC) expand the residual stream of Transformers into N parallel streams, providing a form of memory scaling beyond model width and depth. Manifold-Constrained HC (mHC) stabilizes thi",
-      "published": "2026-07-15T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 47,
       "is_new": false
     },
     {
@@ -1282,24 +1295,22 @@
       "points": 2,
       "comments": 3,
       "is_new": false
-    },
-    {
-      "id": "48917667",
-      "title": "Ask HN: What Are You Building with AI?",
-      "url": "https://news.ycombinator.com/item?id=48917667",
-      "description": "",
-      "published": "2026-07-15T08:05:14Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 4,
-      "comments": 10,
-      "is_new": false
     }
   ],
   "by_category": {
     "news": [
+      {
+        "id": "683e474adcf4d94c5e8ea10fd2ab74f3",
+        "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
+        "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+        "description": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
+        "published": "Tue, 21 Jul 2026 00:12:24 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "3a06d71f5b9efca2c39084e2a201ee89",
         "title": "What to watch for after Jensen Huang’s Japan visit",
@@ -1522,18 +1533,6 @@
         "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
         "description": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief hardware officer an",
         "published": "Fri, 17 Jul 2026 17:45:46 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "a90acdd50b34149685fea53d473a8353",
-        "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
-        "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
-        "description": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relyin",
-        "published": "Fri, 17 Jul 2026 15:21:17 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
@@ -1770,7 +1769,7 @@
         "id": "e057741d03f9f5e568823bc0a9c1b0b2",
         "title": "From Black Box to Executable Logic: Explainable Reinforcement Learning through Prolog Expert Systems",
         "url": "https://arxiv.org/abs/2607.15459",
-        "description": "arXiv:2607.15459v1 Announce Type: new \nAbstract: A trained deep reinforcement learning policy is a black box, and we ask whether it can be made explainable by rewriting it as an executable logic progr",
+        "description": "arXiv:2607.15459v2 Announce Type: new \nAbstract: A trained deep reinforcement learning policy is a black box, and we ask whether it can be made explainable by rewriting it as an executable logic progr",
         "published": "Mon, 20 Jul 2026 00:00:00 -0400",
         "source_id": "arxiv-ai",
         "source_name": "arXiv AI",
