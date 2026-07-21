@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-21T16:39:56.539954+00:00",
+  "last_updated": "2026-07-21T18:38:26.351227+00:00",
   "total_entries": 110,
-  "new_entries": 6,
+  "new_entries": 11,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,6 +47,30 @@
     }
   ],
   "entries": [
+    {
+      "id": "50506afdaa3dc7faa0c93d143ce647ff",
+      "title": "Data centers expected to use 4x more electricity by 2035",
+      "url": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
+      "description": "New data centers built through 2033 could consume as much electricity as India uses today.",
+      "published": "Tue, 21 Jul 2026 18:06:38 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "c096964be54d2919f6eb83a0df9e4aa0",
+      "title": "Google releases three new Gemini models — but no 3.5 Pro",
+      "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
+      "description": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy.",
+      "published": "Tue, 21 Jul 2026 17:11:50 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "be406df3fd99cbadb47d0604f30ec0a6",
       "title": "US threatens sanctions against Chinese AI models over IP theft",
@@ -744,28 +768,18 @@
       "is_new": false
     },
     {
-      "id": "2a6c589fb12f2c5ad2066d8f70eff45e",
-      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-      "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-      "description": "Databricks has remade its image into an AI company and has published research on the cost savings of open-weight AI models for coding.",
-      "published": "Fri, 17 Jul 2026 22:12:56 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
+      "id": "48995754",
+      "title": "Show HN: I left Figma to build a diffusion-based UI design tool",
+      "url": "https://diffui.ai/blog/show-hn",
+      "description": "",
+      "published": "2026-07-21T17:55:01Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
       "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "b590373eb5917666ad07d4ec4df5567c",
-      "title": "The Zoom hack that says, ‘Don’t record me’",
-      "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
-      "description": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?",
-      "published": "Fri, 17 Jul 2026 21:20:47 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
+      "points": 8,
+      "comments": 6,
+      "is_new": true
     },
     {
       "id": "48993606",
@@ -793,6 +807,18 @@
       "category": "news",
       "points": 1,
       "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "9e86e0fbb2cfe2af7b2c893e50ad8b8a",
+      "title": "Anthropic’s $1.5 billion book piracy settlement approved by judge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
+      "description": "A federal judge has signed off on Anthropic's $1.5 billion class action settlement with authors who accused the company of training its AI models on copyrighted books, as reported earlier by Reuters.",
+      "published": "2026-07-21T12:53:37-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
       "is_new": true
     },
     {
@@ -974,6 +1000,19 @@
       "is_new": false
     },
     {
+      "id": "a2ef764dd6bbdf43eb1ab847cd9a074f",
+      "title": "Coercion and Deception in AI-to-AI Management: An Agentic Benchmark of Unprompted Escalation",
+      "url": "https://huggingface.co/papers/2607.15434",
+      "description": "Multi-agent systems routinely place one AI agent in authority over another. When a subordinate refuses a task, the manager chooses the outcome: it can renegotiate, report the failure honestly, coerce ",
+      "published": "2026-07-19T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
       "id": "a8d1ca68f65c17b9b38221bb7c63b534",
       "title": "ReViV: Reconstructing the Viewer and the View in 4D from Monocular Egocentric Video",
       "url": "https://huggingface.co/papers/2607.17790",
@@ -1048,20 +1087,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 20,
-      "is_new": false
-    },
-    {
-      "id": "c9ef1258092c4bdcd387bf33187a0f47",
-      "title": "Token-Level Off-Policy Learning for Faithful Generation Under Distribution Shift",
-      "url": "https://huggingface.co/papers/2607.17524",
-      "description": "We propose Token-Level Off-Policy Labeling (TOPL), an off-policy training paradigm that reframes post-training as a token-level correctness prediction task. Our key intuition is that by training the m",
-      "published": "2026-07-19T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
+      "likes": 23,
       "is_new": false
     },
     {
@@ -1128,7 +1154,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 122,
+      "likes": 139,
       "is_new": false
     },
     {
@@ -1141,7 +1167,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 66,
+      "likes": 71,
       "is_new": false
     },
     {
@@ -1214,18 +1240,6 @@
       "is_new": false
     },
     {
-      "id": "cdbda3af6e9c9661b033d75d478ffd6d",
-      "title": "The apps, gadgets, and tools every reader needs",
-      "url": "https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer",
-      "description": "Hi, friends! Welcome to Installer No. 136, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope your neighborhood isn't as smoky as mine, and also you can read",
-      "published": "2026-07-17T16:27:52-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "48941358",
       "title": "Show HN: Moltshit.com – An Imageboard for AI Agents",
       "url": "https://moltshit.com",
@@ -1279,24 +1293,34 @@
       "category": "research",
       "likes": 36,
       "is_new": false
-    },
-    {
-      "id": "48934803",
-      "title": "Show HN: Mac App to turn your computer into a hands-off coding agent",
-      "url": "https://caider.dev/",
-      "description": "",
-      "published": "2026-07-16T14:06:02Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 0,
-      "is_new": false
     }
   ],
   "by_category": {
     "news": [
+      {
+        "id": "50506afdaa3dc7faa0c93d143ce647ff",
+        "title": "Data centers expected to use 4x more electricity by 2035",
+        "url": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
+        "description": "New data centers built through 2033 could consume as much electricity as India uses today.",
+        "published": "Tue, 21 Jul 2026 18:06:38 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "c096964be54d2919f6eb83a0df9e4aa0",
+        "title": "Google releases three new Gemini models — but no 3.5 Pro",
+        "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
+        "description": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy.",
+        "published": "Tue, 21 Jul 2026 17:11:50 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "be406df3fd99cbadb47d0604f30ec0a6",
         "title": "US threatens sanctions against Chinese AI models over IP theft",
@@ -1514,28 +1538,18 @@
         "is_new": false
       },
       {
-        "id": "2a6c589fb12f2c5ad2066d8f70eff45e",
-        "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-        "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-        "description": "Databricks has remade its image into an AI company and has published research on the cost savings of open-weight AI models for coding.",
-        "published": "Fri, 17 Jul 2026 22:12:56 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
+        "id": "48995754",
+        "title": "Show HN: I left Figma to build a diffusion-based UI design tool",
+        "url": "https://diffui.ai/blog/show-hn",
+        "description": "",
+        "published": "2026-07-21T17:55:01Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
         "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "b590373eb5917666ad07d4ec4df5567c",
-        "title": "The Zoom hack that says, ‘Don’t record me’",
-        "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
-        "description": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?",
-        "published": "Fri, 17 Jul 2026 21:20:47 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
+        "points": 8,
+        "comments": 6,
+        "is_new": true
       },
       {
         "id": "48993606",
@@ -1563,6 +1577,18 @@
         "category": "news",
         "points": 1,
         "comments": 0,
+        "is_new": true
+      },
+      {
+        "id": "9e86e0fbb2cfe2af7b2c893e50ad8b8a",
+        "title": "Anthropic’s $1.5 billion book piracy settlement approved by judge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
+        "description": "A federal judge has signed off on Anthropic's $1.5 billion class action settlement with authors who accused the company of training its AI models on copyrighted books, as reported earlier by Reuters.",
+        "published": "2026-07-21T12:53:37-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
         "is_new": true
       },
       {
@@ -1641,30 +1667,6 @@
         "category": "news",
         "points": 1,
         "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "612445dbd724893299e05240ba375685",
-        "title": "Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over",
-        "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
-        "description": "Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30,000 of its songs, ranging from Elvis Presley's Hound Dog to",
-        "published": "2026-07-20T18:20:34-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "3353d192712ab73ece1b81299b13d36c",
-        "title": "SpaceX in your index fund, explained",
-        "url": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
-        "description": "Index funds are touted as one of the safest ways to invest. Rather than picking and choosing individual stocks, index funds let you bet on the market as a whole. So what happens when a company like Sp",
-        "published": "2026-07-20T17:12:45-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
         "is_new": false
       }
     ],
