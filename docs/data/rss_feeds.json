@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-21T03:20:33.860015+00:00",
+  "last_updated": "2026-07-21T03:40:24.600123+00:00",
   "total_entries": 110,
-  "new_entries": 20,
+  "new_entries": 1,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -57,7 +57,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3a06d71f5b9efca2c39084e2a201ee89",
@@ -141,7 +141,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "20d9bcdf56933ea72724fc8a6c4da1fb",
@@ -153,7 +153,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "9afbcd831bf6d894b62b89ab8396bcae",
@@ -165,7 +165,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "180974706d8235938f0038d602d46bfc",
@@ -779,7 +779,7 @@
       "category": "news",
       "points": 1,
       "comments": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "48982964",
@@ -805,7 +805,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3353d192712ab73ece1b81299b13d36c",
@@ -817,7 +817,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "48980665",
@@ -906,7 +906,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "24df452af67064cb61275775d011e8a9",
@@ -919,7 +919,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "361873ef4f250dc05d9b533776fab480",
@@ -931,8 +931,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
-      "is_new": true
+      "likes": 5,
+      "is_new": false
     },
     {
       "id": "efbb66b6f336694f09ed82b40c54eb26",
@@ -945,7 +945,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "a7800f646e054e0ed00fc1e4ff5b6a17",
@@ -958,7 +958,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "48968013",
@@ -1026,8 +1026,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 12,
-      "is_new": true
+      "likes": 13,
+      "is_new": false
     },
     {
       "id": "98c6abb6af9a6bd9f9339c4515aaead2",
@@ -1039,8 +1039,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
-      "is_new": true
+      "likes": 3,
+      "is_new": false
     },
     {
       "id": "48950192",
@@ -1159,7 +1159,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "fd740875e5d69d5e39fcd1394890d51a",
@@ -1172,7 +1172,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "48934803",
@@ -1256,19 +1256,6 @@
       "is_new": false
     },
     {
-      "id": "5ce0d66b1586b3ce1f57cad543c23824",
-      "title": "Beyond Entropy: Correctness-Aware Advantage Shaping via Contrastive Policy Optimization",
-      "url": "https://huggingface.co/papers/2607.14614",
-      "description": "Reinforcement learning with verifiable rewards (RLVR) commonly uses entropy for advantage shaping. However, entropy cannot distinguish useful uncertainty from detrimental confusion, limiting its effec",
-      "published": "2026-07-15T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 9,
-      "is_new": false
-    },
-    {
       "id": "48922039",
       "title": "Agent runtime reduces LLM turns by 80% with a higher success rate in DeepSWE",
       "url": "https://github.com/Tura-AI/tura",
@@ -1295,6 +1282,20 @@
       "points": 2,
       "comments": 3,
       "is_new": false
+    },
+    {
+      "id": "48917667",
+      "title": "Ask HN: What Are You Building with AI?",
+      "url": "https://news.ycombinator.com/item?id=48917667",
+      "description": "",
+      "published": "2026-07-15T08:05:14Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 4,
+      "comments": 10,
+      "is_new": false
     }
   ],
   "by_category": {
@@ -1309,7 +1310,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "3a06d71f5b9efca2c39084e2a201ee89",
@@ -1393,7 +1394,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "20d9bcdf56933ea72724fc8a6c4da1fb",
@@ -1405,7 +1406,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "9afbcd831bf6d894b62b89ab8396bcae",
@@ -1417,7 +1418,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "180974706d8235938f0038d602d46bfc",
@@ -1551,7 +1552,7 @@
         "category": "news",
         "points": 1,
         "comments": 0,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "48982964",
@@ -1577,7 +1578,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "3353d192712ab73ece1b81299b13d36c",
@@ -1589,7 +1590,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "48980665",
