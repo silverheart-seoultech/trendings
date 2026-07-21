@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-21T06:38:56.627951+00:00",
+  "last_updated": "2026-07-21T08:37:23.542405+00:00",
   "total_entries": 110,
-  "new_entries": 46,
+  "new_entries": 52,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -896,6 +896,45 @@
       "is_new": false
     },
     {
+      "id": "1ec4afff54a74e8f1d399cf91ea22d0c",
+      "title": "WorldCupArena: Fine-Grained Evaluation of Language Models and Deep-Research Agents on Football Forecasting",
+      "url": "https://huggingface.co/papers/2607.18084",
+      "description": "Predicting a football match before kickoff requires more than knowing past results: a model must use changing information and make a clear prediction before the answer is available. We present WorldCu",
+      "published": "2026-07-19T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "d686b4e47571ca09f291f6d67367f06e",
+      "title": "Self-State Attacks on Self-Hosted AI Agents: How Far Can OS Defenses Go?",
+      "url": "https://huggingface.co/papers/2607.17986",
+      "description": "Self-hosted AI agents read and write their own memory and configuration files to function. An agent may get compromised via corruption of its own state -- a compromise realized via legitimate OS syste",
+      "published": "2026-07-19T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "570d0a9893712ac09b2c7113b8f55024",
+      "title": "FlowMimic: Mask-free Visual Editing and Generation with Pixel-pair Warped Flow Field for Online Video Editing Data Generation and Modality Mimicry",
+      "url": "https://huggingface.co/papers/2607.18227",
+      "description": "In line with the prevailing direction of vision research, we explore the integration of both generation and editing capabilities for video and image modalities within a single model. Current approache",
+      "published": "2026-07-19T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 6,
+      "is_new": true
+    },
+    {
       "id": "c9ef1258092c4bdcd387bf33187a0f47",
       "title": "Token-Level Off-Policy Learning for Faithful Generation Under Distribution Shift",
       "url": "https://huggingface.co/papers/2607.17524",
@@ -918,7 +957,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 21,
+      "likes": 28,
       "is_new": true
     },
     {
@@ -944,7 +983,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 49,
       "is_new": false
     },
     {
@@ -957,7 +996,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 13,
+      "likes": 28,
       "is_new": false
     },
     {
@@ -1015,6 +1054,19 @@
       "is_new": false
     },
     {
+      "id": "d485fbe9c94dfcee3f4265678d80c407",
+      "title": "HarmoHOI: Harmonizing Appearance and 3D Motion for Multi-view Hand-Object Interaction Synthesis",
+      "url": "https://huggingface.co/papers/2607.17097",
+      "description": "Hand-Object Interaction (HOI) synthesis is a cornerstone for animation production and embodied AI. Despite the strong priors of video foundation models, multi-view consistent HOI synthesis remains cha",
+      "published": "2026-07-18T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 5,
+      "is_new": true
+    },
+    {
       "id": "f310f1ce16781fe565deb9f78b5c1ba0",
       "title": "TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs",
       "url": "https://huggingface.co/papers/2607.17423",
@@ -1024,7 +1076,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 13,
+      "likes": 37,
       "is_new": true
     },
     {
@@ -1037,7 +1089,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 11,
+      "likes": 51,
       "is_new": true
     },
     {
@@ -1091,7 +1143,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 16,
+      "likes": 18,
       "is_new": false
     },
     {
@@ -1104,7 +1156,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 10,
       "is_new": false
     },
     {
@@ -1214,30 +1266,17 @@
       "is_new": false
     },
     {
-      "id": "c71bac143de8d7740567ed0e86d4d197",
-      "title": "JoyNexus: Service-Oriented Multi-Tenant Post-Training for VLA Models",
-      "url": "https://huggingface.co/papers/2607.16074",
-      "description": "The post-training of Vision-Language-Action (VLA) models is essential due to the diversity of simulators, robot embodiments, and task objectives. Existing compute services, whether offered as direct a",
+      "id": "0f85e00dc4cd4dd2b5a1e573fcb93e06",
+      "title": "Apple-π: Benchmarking Thinking with Video Towards Law-Grounded Physical Intelligence",
+      "url": "https://huggingface.co/papers/2607.16401",
+      "description": "Modern video generation models are increasingly hailed as emerging world models with an internalized grasp of physical law. Yet existing benchmarks largely evaluate physical plausibility only at the o",
       "published": "2026-07-16T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "fd740875e5d69d5e39fcd1394890d51a",
-      "title": "Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents",
-      "url": "https://huggingface.co/papers/2607.15263",
-      "description": "Security-agent evaluations commonly measure peak offensive capability under generous inference budgets, emphasizing vulnerability discovery, exploit development, penetration testing, and CTF completio",
-      "published": "2026-07-16T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
+      "likes": 25,
+      "is_new": true
     },
     {
       "id": "48934803",
@@ -1250,46 +1289,6 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 2,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "ce2196ba2ede0853a6ea4a5237869955",
-      "title": "New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
-      "description": "New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. During an interview with Bloomberg's Odd Lot",
-      "published": "2026-07-16T13:58:37-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "48933720",
-      "title": "Show HN: Quatuor – Kick back and watch 4 agents LLM talk to each other (FOSS)",
-      "url": "https://github.com/yeme-oss/quatuor_ai",
-      "description": "",
-      "published": "2026-07-16T12:46:14Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 4,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "48932314",
-      "title": "Show HN: Pokayoke – turn code conventions into checks for agents",
-      "url": "https://pokayoke.codes",
-      "description": "",
-      "published": "2026-07-16T09:40:13Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 3,
       "comments": 0,
       "is_new": false
     }
