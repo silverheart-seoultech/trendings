@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-21T11:58:19.156385+00:00",
+  "last_updated": "2026-07-21T14:06:09.964092+00:00",
   "total_entries": 110,
-  "new_entries": 7,
+  "new_entries": 14,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -48,10 +48,22 @@
   ],
   "entries": [
     {
+      "id": "a70f755423c2f663cab962edd6ca799c",
+      "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
+      "url": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
+      "description": "Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June",
+      "published": "Tue, 21 Jul 2026 13:27:42 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "5b7c7b34706f3c384003596ef6b4a1d4",
-      "title": "Gritt exits stealth with $34 million for robots to build solar plants—then, everything else",
+      "title": "Gritt exits stealth with $32 million for robots to build solar plants — then, everything else",
       "url": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
-      "description": "Gritt is coming out of stealth with $34 million and plan to automate the hardest tasks on construction sites.",
+      "description": "Gritt is coming out of stealth with $34 million and plans to automate the hardest tasks on construction sites.",
       "published": "Tue, 21 Jul 2026 10:00:00 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
@@ -756,16 +768,18 @@
       "is_new": false
     },
     {
-      "id": "0184cf98041ba6c75b2f1530e5237c45",
-      "title": "AI-driven memory crunch jolts India’s smartphone market",
-      "url": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
-      "description": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy.",
-      "published": "Fri, 17 Jul 2026 20:09:27 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
+      "id": "48991144",
+      "title": "Hugging Face turns to GLM 5.2 to fend off AI agent attack",
+      "url": "https://venturebeat.com/security/safety-guardrails-blocked-hugging-faces-defenders-not-the-attacker-when-an-ai-agent-breached-its-systems",
+      "description": "",
+      "published": "2026-07-21T12:03:37Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
       "category": "news",
-      "is_new": false
+      "points": 1,
+      "comments": 0,
+      "is_new": true
     },
     {
       "id": "e9faa71a5160afbb0d6fd83de6749d11",
@@ -792,6 +806,18 @@
       "points": 2,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "11ac057f121bc82ec6b851b0551f4e65",
+      "title": "Halliday’s latest smart glasses feature a much-improved display",
+      "url": "https://www.theverge.com/tech/968255/halliday-gen-2-smart-glasses-hands-on-ai-wearables",
+      "description": "I first slipped on Halliday's original smart glasses at CES 2025. I was not a fan. The glasses had a tiny, movable display window embedded into the frame that was incredibly finicky to see, and my 30-",
+      "published": "2026-07-20T18:56:22-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "48982964",
@@ -908,6 +934,32 @@
       "is_new": false
     },
     {
+      "id": "a8d1ca68f65c17b9b38221bb7c63b534",
+      "title": "ReViV: Reconstructing the Viewer and the View in 4D from Monocular Egocentric Video",
+      "url": "https://huggingface.co/papers/2607.17790",
+      "description": "Egocentric devices, such as wearable front-facing cameras, provide a unique perspective for capturing the continuous interaction between a human viewer and the surrounding environment. A holistic and ",
+      "published": "2026-07-19T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "240cb3dc4ca7d84334e9ec5240e5de53",
+      "title": "Do Language Models Dream of Binding Molecules? Benchmarking LLMs under Spatial Constraints",
+      "url": "https://huggingface.co/papers/2607.18144",
+      "description": "Structure-based drug design (SBDD) leverages the 3D structure of protein targets, often complemented by other spatial constraints, to generate candidate binding molecules. While diffusion models have ",
+      "published": "2026-07-19T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 10,
+      "is_new": true
+    },
+    {
       "id": "7c68bca9c9a9678ada15988f1f367045",
       "title": "ShotPlan: Cinematic Video Generation with Learnable Planning Token",
       "url": "https://huggingface.co/papers/2607.17675",
@@ -917,7 +969,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": true
     },
     {
@@ -930,7 +982,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -943,7 +995,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -956,7 +1008,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 10,
+      "likes": 16,
       "is_new": false
     },
     {
@@ -969,7 +1021,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -982,33 +1034,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 39,
-      "is_new": false
-    },
-    {
-      "id": "a4f7b4c339ce697bc833e0fabd8f499f",
-      "title": "FlashRT: Agent Harness for Guiding Agents to Deploy Real-Time Multimodal Applications",
-      "url": "https://huggingface.co/papers/2607.18171",
-      "description": "Real-time multimodal applications, including voice agents and interactive video generation, compose heterogeneous models into pipelines whose efficient deployment requires application-specific decisio",
-      "published": "2026-07-19T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "24df452af67064cb61275775d011e8a9",
-      "title": "SWE-Pruner Pro: The Coder LLM Already Knows What to Prune",
-      "url": "https://huggingface.co/papers/2607.18213",
-      "description": "Pruning long context for coding agents has been a vital technology for efficient context management. While existing context pruning methods such as SWE-Pruner realize this by attaching a separate code",
-      "published": "2026-07-19T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 59,
+      "likes": 40,
       "is_new": false
     },
     {
@@ -1049,7 +1075,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 4,
       "is_new": true
     },
     {
@@ -1075,7 +1101,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 69,
+      "likes": 95,
       "is_new": false
     },
     {
@@ -1088,7 +1114,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 58,
+      "likes": 64,
       "is_new": false
     },
     {
@@ -1142,7 +1168,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 1,
       "is_new": true
     },
     {
@@ -1191,18 +1217,6 @@
       "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
       "description": "TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social media consultant Matt Navarra. The tool is initially being tes",
       "published": "2026-07-17T15:34:30-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "9f0a72b022f72de189d389a0a1eb6921",
-      "title": "Apple’s plot to crush OpenAI",
-      "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-      "description": "Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done. So what does Apple",
-      "published": "2026-07-17T13:41:32-04:00",
       "source_id": "theverge-ai",
       "source_name": "The Verge AI",
       "source_icon": "📰",
@@ -1261,7 +1275,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 29,
+      "likes": 34,
       "is_new": false
     },
     {
@@ -1277,29 +1291,27 @@
       "points": 2,
       "comments": 0,
       "is_new": false
-    },
-    {
-      "id": "48933720",
-      "title": "Show HN: Quatuor – Kick back and watch 4 agents LLM talk to each other (FOSS)",
-      "url": "https://github.com/yeme-oss/quatuor_ai",
-      "description": "",
-      "published": "2026-07-16T12:46:14Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 4,
-      "comments": 0,
-      "is_new": false
     }
   ],
   "by_category": {
     "news": [
       {
+        "id": "a70f755423c2f663cab962edd6ca799c",
+        "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
+        "url": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
+        "description": "Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June",
+        "published": "Tue, 21 Jul 2026 13:27:42 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "5b7c7b34706f3c384003596ef6b4a1d4",
-        "title": "Gritt exits stealth with $34 million for robots to build solar plants—then, everything else",
+        "title": "Gritt exits stealth with $32 million for robots to build solar plants — then, everything else",
         "url": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
-        "description": "Gritt is coming out of stealth with $34 million and plan to automate the hardest tasks on construction sites.",
+        "description": "Gritt is coming out of stealth with $34 million and plans to automate the hardest tasks on construction sites.",
         "published": "Tue, 21 Jul 2026 10:00:00 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
@@ -1524,16 +1536,18 @@
         "is_new": false
       },
       {
-        "id": "0184cf98041ba6c75b2f1530e5237c45",
-        "title": "AI-driven memory crunch jolts India’s smartphone market",
-        "url": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
-        "description": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy.",
-        "published": "Fri, 17 Jul 2026 20:09:27 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
+        "id": "48991144",
+        "title": "Hugging Face turns to GLM 5.2 to fend off AI agent attack",
+        "url": "https://venturebeat.com/security/safety-guardrails-blocked-hugging-faces-defenders-not-the-attacker-when-an-ai-agent-breached-its-systems",
+        "description": "",
+        "published": "2026-07-21T12:03:37Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
         "category": "news",
-        "is_new": false
+        "points": 1,
+        "comments": 0,
+        "is_new": true
       },
       {
         "id": "e9faa71a5160afbb0d6fd83de6749d11",
@@ -1560,6 +1574,18 @@
         "points": 2,
         "comments": 0,
         "is_new": false
+      },
+      {
+        "id": "11ac057f121bc82ec6b851b0551f4e65",
+        "title": "Halliday’s latest smart glasses feature a much-improved display",
+        "url": "https://www.theverge.com/tech/968255/halliday-gen-2-smart-glasses-hands-on-ai-wearables",
+        "description": "I first slipped on Halliday's original smart glasses at CES 2025. I was not a fan. The glasses had a tiny, movable display window embedded into the frame that was incredibly finicky to see, and my 30-",
+        "published": "2026-07-20T18:56:22-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
       },
       {
         "id": "48982964",
@@ -1633,30 +1659,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
         "description": "China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthropic at a fraction o",
         "published": "2026-07-20T08:47:44-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "128f757a10821119152747b1ce06f69e",
-        "title": "Adobe’s ‘natural look’ camera app embraces generative AI",
-        "url": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
-        "description": "Adobe's experimental camera app has taken an unexpected turn. After Project Indigo was launched last year to provide a \"more natural (SLR-like) look\" for iPhone photography, the Indigo camera app is n",
-        "published": "2026-07-20T07:18:31-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "5476eaca52d0915998573c72574aeba0",
-        "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
-        "description": "Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded",
-        "published": "2026-07-20T06:03:29-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
