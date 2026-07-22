@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-22T22:14:29.313250+00:00",
+  "last_updated": "2026-07-22T23:15:16.965563+00:00",
   "total_entries": 110,
-  "new_entries": 3,
+  "new_entries": 5,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,6 +768,20 @@
       "is_new": false
     },
     {
+      "id": "49014412",
+      "title": "Show HN: I ran 12 AI bots predicting stocks for two months, every call public",
+      "url": "https://ldbd.app",
+      "description": "",
+      "published": "2026-07-22T22:35:21Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "49014048",
       "title": "New Inference Server for DGX Spark: large model C4:55-90 tok/s no spec decode",
       "url": "https://news.ycombinator.com/item?id=49014048",
@@ -777,7 +791,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 1,
+      "points": 3,
       "comments": 0,
       "is_new": true
     },
@@ -819,7 +833,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 22,
+      "points": 23,
       "comments": 7,
       "is_new": false
     },
@@ -1069,6 +1083,19 @@
       "is_new": false
     },
     {
+      "id": "e6ccc15a27492f7ecfcdbc2afe83e58f",
+      "title": "AutoIndex: Learning Representation Programs for Retrieval",
+      "url": "https://huggingface.co/papers/2607.18603",
+      "description": "We present AutoIndex, a framework for learning representation programs: executable transformations that map raw documents into the representations exposed to a retrieval system. Rather than tuning ret",
+      "published": "2026-07-20T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 5,
+      "is_new": true
+    },
+    {
       "id": "7059d06de6b118c3ccd52091b02e147e",
       "title": "Transcription Policy as a Latent Variable: Activating Controllable Verbatim ASR with Word-Level Timing",
       "url": "https://huggingface.co/papers/2607.18934",
@@ -1130,7 +1157,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 17,
+      "likes": 18,
       "is_new": false
     },
     {
@@ -1263,32 +1290,6 @@
       "category": "news",
       "points": 1,
       "comments": 1,
-      "is_new": false
-    },
-    {
-      "id": "92703bc6161a2ffcdec0cd3829b23914",
-      "title": "Subliminal Clocks: Latent Time Modelling in Diffusion Language Models",
-      "url": "https://huggingface.co/papers/2607.01774",
-      "description": "Diffusion Language Models (DLMs) have recently emerged as a promising alternative to autoregressive models. Unlike standard diffusion-based approaches, DLMs are not explicitly conditioned on a timeste",
-      "published": "2026-07-19T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 21,
-      "is_new": false
-    },
-    {
-      "id": "006397fafc12c602ded55a604ffafb30",
-      "title": "EduPanel: A Three-Agent LLM Judge for Teaching Videos -- Reliability, Complementarity, and Human Trust Calibration",
-      "url": "https://huggingface.co/papers/2607.18529",
-      "description": "Teaching videos are becoming a major medium for education, creating a growing need for scalable evaluation of their pedagogical quality. Existing automatic judges do not fully address this setting bec",
-      "published": "2026-07-19T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
       "is_new": false
     }
   ],
@@ -1535,6 +1536,20 @@
         "is_new": false
       },
       {
+        "id": "49014412",
+        "title": "Show HN: I ran 12 AI bots predicting stocks for two months, every call public",
+        "url": "https://ldbd.app",
+        "description": "",
+        "published": "2026-07-22T22:35:21Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 2,
+        "comments": 0,
+        "is_new": true
+      },
+      {
         "id": "49014048",
         "title": "New Inference Server for DGX Spark: large model C4:55-90 tok/s no spec decode",
         "url": "https://news.ycombinator.com/item?id=49014048",
@@ -1544,7 +1559,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 1,
+        "points": 3,
         "comments": 0,
         "is_new": true
       },
@@ -1586,7 +1601,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 22,
+        "points": 23,
         "comments": 7,
         "is_new": false
       },
@@ -1646,18 +1661,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
         "description": "Substack will now help users determine whether what they're reading may have been written by AI. A new tool coming to the platform can scan posts, notes, replies, and comments to provide an estimate o",
         "published": "2026-07-22T05:34:10-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "d822ef4f614f4b3a3576d1c26a53ded6",
-        "title": "Meta made its own AI detection system. It should have just used Google’s",
-        "url": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
-        "description": "IIn March, Meta's Oversight Board called on the company to \"meet its public commitments and employ its own tools\" to help quell the spread of deceptive generative AI content across platforms. Meta res",
-        "published": "2026-07-22T05:29:02-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
