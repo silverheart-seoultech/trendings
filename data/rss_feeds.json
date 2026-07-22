@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-22T18:20:01.040218+00:00",
+  "last_updated": "2026-07-22T19:34:28.127012+00:00",
   "total_entries": 110,
-  "new_entries": 12,
+  "new_entries": 15,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,6 +47,30 @@
     }
   ],
   "entries": [
+    {
+      "id": "298db90fda8b2bd479e40722caa7d3bc",
+      "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+      "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+      "description": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Huggin",
+      "published": "Wed, 22 Jul 2026 19:11:46 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "6a7f08f97575001b5f7fe58be9c4c2c9",
+      "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+      "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+      "description": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.",
+      "published": "Wed, 22 Jul 2026 18:50:44 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "2eef0e4f7c29206849e646059253499a",
       "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
@@ -744,28 +768,18 @@
       "is_new": false
     },
     {
-      "id": "a70f755423c2f663cab962edd6ca799c",
-      "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
-      "url": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
-      "description": "Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June.",
-      "published": "Tue, 21 Jul 2026 13:27:42 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
+      "id": "49011806",
+      "title": "Show HN: Millwright – Rust-based, self-hosted LLM router",
+      "url": "https://github.com/Northwood-Systems/millwright",
+      "description": "",
+      "published": "2026-07-22T19:03:50Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
       "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "5b7c7b34706f3c384003596ef6b4a1d4",
-      "title": "Gritt exits stealth with $32 million for robots to build solar plants — then, everything else",
-      "url": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
-      "description": "Gritt is coming out of stealth with $34 million and plans to automate the hardest tasks on construction sites.",
-      "published": "Tue, 21 Jul 2026 10:00:00 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
+      "points": 4,
+      "comments": 2,
+      "is_new": true
     },
     {
       "id": "49010310",
@@ -791,8 +805,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 14,
-      "comments": 4,
+      "points": 20,
+      "comments": 5,
       "is_new": true
     },
     {
@@ -1010,7 +1024,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 149,
+      "likes": 153,
       "is_new": false
     },
     {
@@ -1220,7 +1234,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 44,
+      "likes": 45,
       "is_new": false
     },
     {
@@ -1247,7 +1261,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 9,
       "is_new": true
     },
     {
@@ -1275,23 +1289,34 @@
       "category": "research",
       "likes": 15,
       "is_new": false
-    },
-    {
-      "id": "8a232c72e46fc841552493ec0dce6940",
-      "title": "ConsiSpace: Learning Geometric Consistency Matters for Video Spatial Reasoning",
-      "url": "https://huggingface.co/papers/2607.17599",
-      "description": "Video spatial reasoning is essential for navigation-oriented perception and long-video question answering, where models must infer spatial relations across long horizons under changing viewpoints. How",
-      "published": "2026-07-19T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
     }
   ],
   "by_category": {
     "news": [
+      {
+        "id": "298db90fda8b2bd479e40722caa7d3bc",
+        "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+        "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+        "description": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Huggin",
+        "published": "Wed, 22 Jul 2026 19:11:46 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "6a7f08f97575001b5f7fe58be9c4c2c9",
+        "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+        "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+        "description": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.",
+        "published": "Wed, 22 Jul 2026 18:50:44 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "2eef0e4f7c29206849e646059253499a",
         "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
@@ -1509,28 +1534,18 @@
         "is_new": false
       },
       {
-        "id": "a70f755423c2f663cab962edd6ca799c",
-        "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
-        "url": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
-        "description": "Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June.",
-        "published": "Tue, 21 Jul 2026 13:27:42 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
+        "id": "49011806",
+        "title": "Show HN: Millwright – Rust-based, self-hosted LLM router",
+        "url": "https://github.com/Northwood-Systems/millwright",
+        "description": "",
+        "published": "2026-07-22T19:03:50Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
         "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "5b7c7b34706f3c384003596ef6b4a1d4",
-        "title": "Gritt exits stealth with $32 million for robots to build solar plants — then, everything else",
-        "url": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
-        "description": "Gritt is coming out of stealth with $34 million and plans to automate the hardest tasks on construction sites.",
-        "published": "Tue, 21 Jul 2026 10:00:00 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
+        "points": 4,
+        "comments": 2,
+        "is_new": true
       },
       {
         "id": "49010310",
@@ -1556,8 +1571,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 14,
-        "comments": 4,
+        "points": 20,
+        "comments": 5,
         "is_new": true
       },
       {
@@ -1644,20 +1659,6 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "48999936",
-        "title": "Show HN: Jaybase: Append-only fact store for AI doing business workflows",
-        "url": "https://github.com/kyle-visner/jaybase",
-        "description": "",
-        "published": "2026-07-21T23:47:16Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 4,
-        "comments": 0,
         "is_new": false
       }
     ],
