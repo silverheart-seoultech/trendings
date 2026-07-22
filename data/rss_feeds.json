@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-22T06:40:33.292041+00:00",
+  "last_updated": "2026-07-22T08:36:42.108295+00:00",
   "total_entries": 110,
-  "new_entries": 53,
+  "new_entries": 55,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,6 +47,18 @@
     }
   ],
   "entries": [
+    {
+      "id": "27421537c448f31a8e8054734be9be80",
+      "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
+      "url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
+      "description": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to h",
+      "published": "Wed, 22 Jul 2026 08:00:00 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "0f1ee6934ed4bd1218fc325619541467",
       "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
@@ -672,18 +684,6 @@
       "is_new": false
     },
     {
-      "id": "87a2e11003ab357d30ea479de5c02147",
-      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-      "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
-      "description": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast a shadow over OpenAi's much-discussed plans to get into hardware and go public.",
-      "published": "Sun, 19 Jul 2026 19:24:45 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "79729dbd9369d9d2ca486b5de06a0416",
       "title": "Trump’s latest AI czar has already resigned",
       "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
@@ -777,7 +777,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 2,
+      "points": 4,
       "comments": 0,
       "is_new": false
     },
@@ -791,7 +791,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 7,
+      "points": 8,
       "comments": 1,
       "is_new": false
     },
@@ -895,7 +895,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": true
     },
     {
@@ -920,7 +920,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 6,
       "is_new": true
     },
     {
@@ -945,7 +945,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 33,
+      "likes": 48,
       "is_new": true
     },
     {
@@ -961,6 +961,19 @@
       "points": 2,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "d53a5e23c7ecd8c35ceb12890f07cdd3",
+      "title": "Where Should Optimizer State Live? Tiered State Allocation for Memory-Efficient Mixture-of-Experts Training",
+      "url": "https://huggingface.co/papers/2607.19058",
+      "description": "Optimizer state is the largest single line item in the memory budget of mixture-of-experts (MoE) training: on a 6.78B-parameter MoE language model, AdamW keeps 50.6 GB of first and second moments to u",
+      "published": "2026-07-20T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
     },
     {
       "id": "02a254c84c730bd7eaf71a9f6162fb3c",
@@ -985,7 +998,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 30,
+      "likes": 45,
       "is_new": true
     },
     {
@@ -1037,7 +1050,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 32,
+      "likes": 35,
       "is_new": false
     },
     {
@@ -1050,7 +1063,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 1,
       "is_new": false
     },
     {
@@ -1077,19 +1090,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "de27df93aec73390bb03b86727e6c257",
-      "title": "NexForge: Scaling Agent Capabilities through Requirement-Driven Task Synthesis for LLMs",
-      "url": "https://huggingface.co/papers/2607.14186",
-      "description": "Scaling executable agent training data for LLM post-training is bottlenecked by substrate-bound methods that tie task generation to predefined tools, repositories, or skill graphs: expanding coverage ",
-      "published": "2026-07-20T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
       "is_new": false
     },
     {
@@ -1166,7 +1166,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 29,
+      "likes": 34,
       "is_new": true
     },
     {
@@ -1205,7 +1205,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": true
     },
     {
@@ -1218,7 +1218,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 11,
       "is_new": false
     },
     {
@@ -1293,6 +1293,18 @@
   ],
   "by_category": {
     "news": [
+      {
+        "id": "27421537c448f31a8e8054734be9be80",
+        "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
+        "url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
+        "description": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to h",
+        "published": "Wed, 22 Jul 2026 08:00:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "0f1ee6934ed4bd1218fc325619541467",
         "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
@@ -1438,18 +1450,6 @@
         "is_new": false
       },
       {
-        "id": "87a2e11003ab357d30ea479de5c02147",
-        "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-        "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
-        "description": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast a shadow over OpenAi's much-discussed plans to get into hardware and go public.",
-        "published": "Sun, 19 Jul 2026 19:24:45 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
         "id": "79729dbd9369d9d2ca486b5de06a0416",
         "title": "Trump’s latest AI czar has already resigned",
         "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
@@ -1543,7 +1543,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 2,
+        "points": 4,
         "comments": 0,
         "is_new": false
       },
@@ -1557,7 +1557,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 7,
+        "points": 8,
         "comments": 1,
         "is_new": false
       },
