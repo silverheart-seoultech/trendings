@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-22T20:19:34.608295+00:00",
+  "last_updated": "2026-07-22T22:14:29.313250+00:00",
   "total_entries": 110,
-  "new_entries": 0,
+  "new_entries": 3,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,6 +47,30 @@
     }
   ],
   "entries": [
+    {
+      "id": "42dd8f7444e9a3bcd22589aacd0f6169",
+      "title": "Google justifies its massive AI spending with a booming cloud business",
+      "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+      "description": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
+      "published": "Wed, 22 Jul 2026 22:01:52 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "eb195570e7292e113b6755dd552a2d3f",
+      "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+      "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+      "description": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
+      "published": "Wed, 22 Jul 2026 20:49:03 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "298db90fda8b2bd479e40722caa7d3bc",
       "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
@@ -744,28 +768,18 @@
       "is_new": false
     },
     {
-      "id": "c096964be54d2919f6eb83a0df9e4aa0",
-      "title": "Google releases three new Gemini models — but no 3.5 Pro",
-      "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
-      "description": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy.",
-      "published": "Tue, 21 Jul 2026 17:11:50 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
+      "id": "49014048",
+      "title": "New Inference Server for DGX Spark: large model C4:55-90 tok/s no spec decode",
+      "url": "https://news.ycombinator.com/item?id=49014048",
+      "description": "",
+      "published": "2026-07-22T21:59:39Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
       "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "be406df3fd99cbadb47d0604f30ec0a6",
-      "title": "US threatens sanctions against Chinese AI models over IP theft",
-      "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
-      "description": "Treasury Secretary Scott Bessent said the U.S. could sanction Chinese open AI models over alleged IP theft, expanding the Trump administration's campaign to slow China's AI advances.",
-      "published": "Tue, 21 Jul 2026 15:37:05 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
+      "points": 1,
+      "comments": 0,
+      "is_new": true
     },
     {
       "id": "49011806",
@@ -806,7 +820,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 22,
-      "comments": 6,
+      "comments": 7,
       "is_new": false
     },
     {
@@ -820,7 +834,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 2,
-      "comments": 0,
+      "comments": 1,
       "is_new": false
     },
     {
@@ -1024,7 +1038,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 162,
+      "likes": 165,
       "is_new": false
     },
     {
@@ -1129,7 +1143,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 65,
+      "likes": 66,
       "is_new": false
     },
     {
@@ -1261,7 +1275,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 17,
+      "likes": 21,
       "is_new": false
     },
     {
@@ -1276,23 +1290,34 @@
       "category": "research",
       "likes": 3,
       "is_new": false
-    },
-    {
-      "id": "47ba1ebf13cac0bdca62d424668737d1",
-      "title": "SciForma: Structure-Faithful Generation of Scientific Diagrams",
-      "url": "https://huggingface.co/papers/2607.18091",
-      "description": "Structural fidelity is essential to scientific methodology diagrams. To communicate research logic, these diagrams must faithfully render components, directional relations, and textual annotations. Si",
-      "published": "2026-07-19T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 15,
-      "is_new": false
     }
   ],
   "by_category": {
     "news": [
+      {
+        "id": "42dd8f7444e9a3bcd22589aacd0f6169",
+        "title": "Google justifies its massive AI spending with a booming cloud business",
+        "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+        "description": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
+        "published": "Wed, 22 Jul 2026 22:01:52 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "eb195570e7292e113b6755dd552a2d3f",
+        "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+        "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+        "description": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
+        "published": "Wed, 22 Jul 2026 20:49:03 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "298db90fda8b2bd479e40722caa7d3bc",
         "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
@@ -1510,28 +1535,18 @@
         "is_new": false
       },
       {
-        "id": "c096964be54d2919f6eb83a0df9e4aa0",
-        "title": "Google releases three new Gemini models — but no 3.5 Pro",
-        "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
-        "description": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy.",
-        "published": "Tue, 21 Jul 2026 17:11:50 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
+        "id": "49014048",
+        "title": "New Inference Server for DGX Spark: large model C4:55-90 tok/s no spec decode",
+        "url": "https://news.ycombinator.com/item?id=49014048",
+        "description": "",
+        "published": "2026-07-22T21:59:39Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
         "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "be406df3fd99cbadb47d0604f30ec0a6",
-        "title": "US threatens sanctions against Chinese AI models over IP theft",
-        "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
-        "description": "Treasury Secretary Scott Bessent said the U.S. could sanction Chinese open AI models over alleged IP theft, expanding the Trump administration's campaign to slow China's AI advances.",
-        "published": "Tue, 21 Jul 2026 15:37:05 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
+        "points": 1,
+        "comments": 0,
+        "is_new": true
       },
       {
         "id": "49011806",
@@ -1572,7 +1587,7 @@
         "source_icon": "🟧",
         "category": "news",
         "points": 22,
-        "comments": 6,
+        "comments": 7,
         "is_new": false
       },
       {
@@ -1586,7 +1601,7 @@
         "source_icon": "🟧",
         "category": "news",
         "points": 2,
-        "comments": 0,
+        "comments": 1,
         "is_new": false
       },
       {
@@ -1643,18 +1658,6 @@
         "url": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
         "description": "IIn March, Meta's Oversight Board called on the company to \"meet its public commitments and employ its own tools\" to help quell the spread of deceptive generative AI content across platforms. Meta res",
         "published": "2026-07-22T05:29:02-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "202a0e7e6bd6c7108418cb9deff72851",
-        "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
-        "description": "OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and \"an even more capable pre-rele",
-        "published": "2026-07-22T05:24:42-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
