@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-24T21:18:26.692586+00:00",
+  "last_updated": "2026-07-24T23:14:07.318844+00:00",
   "total_entries": 110,
-  "new_entries": 1,
+  "new_entries": 2,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,18 +47,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "97d598949ef96232ccf131c65e823825",
-      "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
-      "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
-      "description": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
-      "published": "Wed, 22 Jul 2026 23:47:54 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
     {
       "id": "2a9598e40ea54824dafaa1abc9c7c369",
       "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
@@ -192,10 +180,22 @@
       "is_new": false
     },
     {
+      "id": "59eaf5309818e0de3f00e16c40b14ef7",
+      "title": "Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M",
+      "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m/",
+      "description": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
+      "published": "Fri, 24 Jul 2026 22:25:58 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "fc836a71f9ce98dda43064a2b9b858d5",
       "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
       "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
-      "description": "AI coding startup Cognition has acquired Poke, the AI assistant you text like a friend, in a deal valuing the startup in the low nine figures. The acquisition brings Poke’s conversational style and in",
+      "description": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as th",
       "published": "Fri, 24 Jul 2026 18:07:32 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
@@ -796,6 +796,18 @@
       "is_new": false
     },
     {
+      "id": "6dd5f2d4f0064ecbc3a92859a7a410cd",
+      "title": "Midjourney bought the astrology app Co-Star",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
+      "description": "Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thursday that it has acquired the personaliz",
+      "published": "2026-07-24T15:06:58-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": false
+    },
+    {
       "id": "f4baa56ef4384c447ecc84a9c7e686e5",
       "title": "You can’t ignore Google Zero anymore",
       "url": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
@@ -934,7 +946,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 183,
-      "comments": 30,
+      "comments": 32,
       "is_new": false
     },
     {
@@ -1002,18 +1014,6 @@
       "is_new": false
     },
     {
-      "id": "139da2dd039e7a0844f65e3cd62409bd",
-      "title": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
-      "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
-      "description": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the major trade secrets lawsuit between Apple and OpenAI and what this tells us about OpenAI’s future. By now I’m",
-      "published": "2026-07-23T09:55:07-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": true
-    },
-    {
       "id": "49017839",
       "title": "Show HN: Hanesu – An experimental workflow layer for AI coding agents",
       "url": "https://github.com/jezmn/hanesu",
@@ -1042,6 +1042,19 @@
       "is_new": false
     },
     {
+      "id": "59d2881ddb8ced7e7040c2a892643539",
+      "title": "OpenForgeRL: Train Harness-native Agents in Any Environment",
+      "url": "https://huggingface.co/papers/2607.21557",
+      "description": "Modern AI agents rely on elaborate inference harnesses such as Claude Code, Codex, and OpenClaw to drive multi-turn reasoning, tool use, and access to external systems. While powerful, these complex h",
+      "published": "2026-07-22T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "2210e7da0e354071d5172fc3bc7323f9",
       "title": "SANA-Video 2.0: Hybrid Linear Attention with Attention Residuals for Efficient Video Generation",
       "url": "https://huggingface.co/papers/2607.21553",
@@ -1051,7 +1064,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 14,
+      "likes": 15,
       "is_new": false
     },
     {
@@ -1064,7 +1077,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 13,
+      "likes": 14,
       "is_new": false
     },
     {
@@ -1077,7 +1090,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 39,
+      "likes": 40,
       "is_new": false
     },
     {
@@ -1142,7 +1155,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 115,
+      "likes": 116,
       "is_new": false
     },
     {
@@ -1169,19 +1182,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 17,
-      "is_new": false
-    },
-    {
-      "id": "8151f6bb4c09046d1ca2ddb24b70e8ff",
-      "title": "TableVerse: A Large-scale Tabletop Dataset with Real-world Grounded Layouts for Generalizable Manipulation",
-      "url": "https://huggingface.co/papers/2607.21017",
-      "description": "The development of generalizable robotic manipulation policies is inherently bounded by the availability of large-scale, high-fidelity scene data. While recent automated synthesis methods attempt to b",
-      "published": "2026-07-22T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 5,
       "is_new": false
     },
     {
@@ -1278,7 +1278,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 14,
+      "likes": 15,
       "is_new": false
     },
     {
@@ -1297,18 +1297,6 @@
   ],
   "by_category": {
     "news": [
-      {
-        "id": "97d598949ef96232ccf131c65e823825",
-        "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
-        "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
-        "description": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
-        "published": "Wed, 22 Jul 2026 23:47:54 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
       {
         "id": "2a9598e40ea54824dafaa1abc9c7c369",
         "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
@@ -1442,10 +1430,22 @@
         "is_new": false
       },
       {
+        "id": "59eaf5309818e0de3f00e16c40b14ef7",
+        "title": "Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M",
+        "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m/",
+        "description": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
+        "published": "Fri, 24 Jul 2026 22:25:58 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "fc836a71f9ce98dda43064a2b9b858d5",
         "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
         "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
-        "description": "AI coding startup Cognition has acquired Poke, the AI assistant you text like a friend, in a deal valuing the startup in the low nine figures. The acquisition brings Poke’s conversational style and in",
+        "description": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as th",
         "published": "Fri, 24 Jul 2026 18:07:32 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
@@ -1566,6 +1566,18 @@
         "is_new": false
       },
       {
+        "id": "6dd5f2d4f0064ecbc3a92859a7a410cd",
+        "title": "Midjourney bought the astrology app Co-Star",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
+        "description": "Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thursday that it has acquired the personaliz",
+        "published": "2026-07-24T15:06:58-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
         "id": "f4baa56ef4384c447ecc84a9c7e686e5",
         "title": "You can’t ignore Google Zero anymore",
         "url": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
@@ -1653,20 +1665,6 @@
         "category": "news",
         "points": 3,
         "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "49024620",
-        "title": "Launch HN: Screenpipe (YC S26) – Record how you work and turn that into agents",
-        "url": "https://news.ycombinator.com/item?id=49024620",
-        "description": "",
-        "published": "2026-07-23T16:48:38Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 82,
-        "comments": 62,
         "is_new": false
       }
     ],
