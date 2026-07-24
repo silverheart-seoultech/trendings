@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-24T17:48:25.508720+00:00",
+  "last_updated": "2026-07-24T19:37:26.868019+00:00",
   "total_entries": 110,
-  "new_entries": 11,
+  "new_entries": 14,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -53,18 +53,6 @@
       "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
       "description": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
       "published": "Wed, 22 Jul 2026 23:47:54 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "42dd8f7444e9a3bcd22589aacd0f6169",
-      "title": "Google justifies its massive AI spending with a booming cloud business",
-      "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
-      "description": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
-      "published": "Wed, 22 Jul 2026 22:01:52 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
@@ -204,10 +192,22 @@
       "is_new": false
     },
     {
+      "id": "fc836a71f9ce98dda43064a2b9b858d5",
+      "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+      "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+      "description": "AI coding startup Cognition has acquired Poke, the AI assistant you text like a friend, in a deal valuing the startup in the low nine figures. The acquisition brings Poke’s conversational style and in",
+      "published": "Fri, 24 Jul 2026 18:07:32 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "352b1db2596bfce63a3f835efdb458e8",
       "title": "Anthropic launches Opus 5",
       "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
-      "description": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases",
+      "description": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
       "published": "Fri, 24 Jul 2026 17:00:00 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
@@ -768,6 +768,20 @@
       "is_new": false
     },
     {
+      "id": "49040025",
+      "title": "Ask HN: What's the best AI coding tool today?",
+      "url": "https://news.ycombinator.com/item?id=49040025",
+      "description": "",
+      "published": "2026-07-24T18:49:35Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 1,
+      "is_new": true
+    },
+    {
       "id": "49038578",
       "title": "Show HN: Corv v1.1 is out! Solving SSH execution for AI agents",
       "url": "https://github.com/khalid-src/corv-client",
@@ -779,6 +793,18 @@
       "category": "news",
       "points": 1,
       "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "6dd5f2d4f0064ecbc3a92859a7a410cd",
+      "title": "Midjourney bought the astrology app Co-Star",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
+      "description": "Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thursday that it has acquired the personaliz",
+      "published": "2026-07-24T15:06:58-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
       "is_new": true
     },
     {
@@ -881,7 +907,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 80,
+      "points": 82,
       "comments": 62,
       "is_new": false
     },
@@ -919,7 +945,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 181,
+      "points": 182,
       "comments": 29,
       "is_new": false
     },
@@ -988,18 +1014,6 @@
       "is_new": false
     },
     {
-      "id": "139da2dd039e7a0844f65e3cd62409bd",
-      "title": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
-      "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
-      "description": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the major trade secrets lawsuit between Apple and OpenAI and what this tells us about OpenAI’s future. By now I’m",
-      "published": "2026-07-23T09:55:07-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "49017839",
       "title": "Show HN: Hanesu – An experimental workflow layer for AI coding agents",
       "url": "https://github.com/jezmn/hanesu",
@@ -1050,7 +1064,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 12,
+      "likes": 13,
       "is_new": false
     },
     {
@@ -1279,19 +1293,6 @@
       "category": "research",
       "likes": 8,
       "is_new": false
-    },
-    {
-      "id": "56beefee5bac1bee6680ec9949cb415f",
-      "title": "ReferTrack: Referring Then Tracking for Embodied Visual Tracking",
-      "url": "https://huggingface.co/papers/2607.20061",
-      "description": "Embodied visual tracking (EVT) requires a mobile agent to continuously follow a specific target described in natural language using only onboard vision. While recent vision-language-action (VLA) polic",
-      "published": "2026-07-21T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 42,
-      "is_new": false
     }
   ],
   "by_category": {
@@ -1302,18 +1303,6 @@
         "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
         "description": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
         "published": "Wed, 22 Jul 2026 23:47:54 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "42dd8f7444e9a3bcd22589aacd0f6169",
-        "title": "Google justifies its massive AI spending with a booming cloud business",
-        "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
-        "description": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
-        "published": "Wed, 22 Jul 2026 22:01:52 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
@@ -1453,10 +1442,22 @@
         "is_new": false
       },
       {
+        "id": "fc836a71f9ce98dda43064a2b9b858d5",
+        "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+        "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+        "description": "AI coding startup Cognition has acquired Poke, the AI assistant you text like a friend, in a deal valuing the startup in the low nine figures. The acquisition brings Poke’s conversational style and in",
+        "published": "Fri, 24 Jul 2026 18:07:32 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "352b1db2596bfce63a3f835efdb458e8",
         "title": "Anthropic launches Opus 5",
         "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
-        "description": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases",
+        "description": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
         "published": "Fri, 24 Jul 2026 17:00:00 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
@@ -1537,6 +1538,20 @@
         "is_new": false
       },
       {
+        "id": "49040025",
+        "title": "Ask HN: What's the best AI coding tool today?",
+        "url": "https://news.ycombinator.com/item?id=49040025",
+        "description": "",
+        "published": "2026-07-24T18:49:35Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 2,
+        "comments": 1,
+        "is_new": true
+      },
+      {
         "id": "49038578",
         "title": "Show HN: Corv v1.1 is out! Solving SSH execution for AI agents",
         "url": "https://github.com/khalid-src/corv-client",
@@ -1548,6 +1563,18 @@
         "category": "news",
         "points": 1,
         "comments": 0,
+        "is_new": true
+      },
+      {
+        "id": "6dd5f2d4f0064ecbc3a92859a7a410cd",
+        "title": "Midjourney bought the astrology app Co-Star",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
+        "description": "Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thursday that it has acquired the personaliz",
+        "published": "2026-07-24T15:06:58-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
         "is_new": true
       },
       {
@@ -1638,32 +1665,6 @@
         "category": "news",
         "points": 3,
         "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "49024620",
-        "title": "Launch HN: Screenpipe (YC S26) – Record how you work and turn that into agents",
-        "url": "https://news.ycombinator.com/item?id=49024620",
-        "description": "",
-        "published": "2026-07-23T16:48:38Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 80,
-        "comments": 62,
-        "is_new": false
-      },
-      {
-        "id": "f7a651ced6714ba3b6f0f0dec8c989aa",
-        "title": "Claude’s voice mode is now available for Opus and Sonnet",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
-        "description": "Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending i",
-        "published": "2026-07-23T15:28:13-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
         "is_new": false
       }
     ],
