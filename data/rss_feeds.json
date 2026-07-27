@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-27T11:35:49.565816+00:00",
+  "last_updated": "2026-07-27T14:48:26.325794+00:00",
   "total_entries": 110,
-  "new_entries": 0,
+  "new_entries": 4,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -84,18 +84,6 @@
       "is_new": false
     },
     {
-      "id": "7280fe4d8d9af1757d6732cfbf282475",
-      "title": "Runway launches AI model router as generative media gets crowded",
-      "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
-      "description": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost.",
-      "published": "Thu, 23 Jul 2026 17:07:35 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "216b0412425af10445635febc0d77146",
       "title": "Making sense of the panic over Chinese AI",
       "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
@@ -166,6 +154,18 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "82e3b731569ecf2e909402542fa338ec",
+      "title": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
+      "url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+      "description": "The massive seed round was led by  Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
+      "published": "Mon, 27 Jul 2026 13:00:00 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "5d2ba47b7c6e82fc799cdb3cd4c0e2d7",
@@ -768,6 +768,58 @@
       "is_new": false
     },
     {
+      "id": "49068698",
+      "title": "Show HN: Case study: A coding agent refactors a 750k LOC app, no code review",
+      "url": "https://news.ycombinator.com/item?id=49068698",
+      "description": "",
+      "published": "2026-07-27T12:28:35Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 4,
+      "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "49068241",
+      "title": "AI PR reviewer is looking at the diff, not the intent",
+      "url": "https://news.ycombinator.com/item?id=49068241",
+      "description": "",
+      "published": "2026-07-27T11:51:40Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 1,
+      "is_new": true
+    },
+    {
+      "id": "1d031e62c1210b2526f6135ffb9c86f7",
+      "title": "The tech-broification of American science has officially begun",
+      "url": "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants",
+      "description": "The Trump administration unveiled the first \"Genesis Mission\" grants on Thursday, directing $5 billion toward hundreds of AI-driven science projects in an effort the White House has described as \"comp",
+      "published": "2026-07-27T09:46:35-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": false
+    },
+    {
+      "id": "40c3588f70cf4d8ace926e519833bf88",
+      "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+      "description": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. The new Open Secure AI Alliance said open tools are r",
+      "published": "2026-07-27T09:07:41-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "49063031",
       "title": "Show HN: GG Translator – Turn gaming shit talk into friendly phrases",
       "url": "https://ggtranslator.com",
@@ -944,18 +996,6 @@
       "is_new": false
     },
     {
-      "id": "1d031e62c1210b2526f6135ffb9c86f7",
-      "title": "The tech-broification of American science has officially begun",
-      "url": "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants",
-      "description": "The Trump administration unveiled the first \"Genesis Mission\" grants on Thursday, directing $5 billion toward hundreds of AI-driven science projects in an effort the White House has described as \"comp",
-      "published": "2026-07-24T10:44:15-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "49027309",
       "title": "Show HN: CobaltCode – Dedicated persistent computer for Codex",
       "url": "https://cobaltcode.ai/",
@@ -1018,7 +1058,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 12,
+      "likes": 13,
       "is_new": false
     },
     {
@@ -1044,7 +1084,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 20,
+      "likes": 23,
       "is_new": false
     },
     {
@@ -1178,18 +1218,6 @@
       "is_new": false
     },
     {
-      "id": "bf8b59fc2dda31b8dff411efe1b415e8",
-      "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
-      "description": "Lawmakers are preparing to introduce an \"AI Kill Switch Act\" that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Security, according to a r",
-      "published": "2026-07-23T10:13:35-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "49017839",
       "title": "Show HN: Hanesu – An experimental workflow layer for AI coding agents",
       "url": "https://github.com/jezmn/hanesu",
@@ -1227,7 +1255,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 11,
+      "likes": 15,
       "is_new": false
     },
     {
@@ -1266,34 +1294,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 33,
-      "is_new": false
-    },
-    {
-      "id": "a05b6e5e2a538e3f81c13d34830c4850",
-      "title": "Self-Supervised Learning of Structured Dynamics from Videos",
-      "url": "https://huggingface.co/papers/2607.21576",
-      "description": "Understanding motion in video is a fundamental challenge for visual learning, as frame-to-frame change entangles two sources of dynamics: camera motion and object motion. This decomposition has remain",
-      "published": "2026-07-22T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 18,
-      "is_new": false
-    },
-    {
-      "id": "49011806",
-      "title": "Show HN: Millwright – Rust-based, self-hosted LLM router",
-      "url": "https://github.com/Northwood-Systems/millwright",
-      "description": "",
-      "published": "2026-07-22T19:03:50Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 10,
-      "comments": 7,
+      "likes": 34,
       "is_new": false
     }
   ],
@@ -1329,18 +1330,6 @@
         "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
         "description": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.",
         "published": "Thu, 23 Jul 2026 18:38:34 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "7280fe4d8d9af1757d6732cfbf282475",
-        "title": "Runway launches AI model router as generative media gets crowded",
-        "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
-        "description": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost.",
-        "published": "Thu, 23 Jul 2026 17:07:35 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
@@ -1418,6 +1407,18 @@
         "source_icon": "📰",
         "category": "news",
         "is_new": false
+      },
+      {
+        "id": "82e3b731569ecf2e909402542fa338ec",
+        "title": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
+        "url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+        "description": "The massive seed round was led by  Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
+        "published": "Mon, 27 Jul 2026 13:00:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
       },
       {
         "id": "5d2ba47b7c6e82fc799cdb3cd4c0e2d7",
@@ -1540,6 +1541,58 @@
         "is_new": false
       },
       {
+        "id": "49068698",
+        "title": "Show HN: Case study: A coding agent refactors a 750k LOC app, no code review",
+        "url": "https://news.ycombinator.com/item?id=49068698",
+        "description": "",
+        "published": "2026-07-27T12:28:35Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 4,
+        "comments": 0,
+        "is_new": true
+      },
+      {
+        "id": "49068241",
+        "title": "AI PR reviewer is looking at the diff, not the intent",
+        "url": "https://news.ycombinator.com/item?id=49068241",
+        "description": "",
+        "published": "2026-07-27T11:51:40Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 2,
+        "comments": 1,
+        "is_new": true
+      },
+      {
+        "id": "1d031e62c1210b2526f6135ffb9c86f7",
+        "title": "The tech-broification of American science has officially begun",
+        "url": "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants",
+        "description": "The Trump administration unveiled the first \"Genesis Mission\" grants on Thursday, directing $5 billion toward hundreds of AI-driven science projects in an effort the White House has described as \"comp",
+        "published": "2026-07-27T09:46:35-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "40c3588f70cf4d8ace926e519833bf88",
+        "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+        "description": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. The new Open Secure AI Alliance said open tools are r",
+        "published": "2026-07-27T09:07:41-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "49063031",
         "title": "Show HN: GG Translator – Turn gaming shit talk into friendly phrases",
         "url": "https://ggtranslator.com",
@@ -1621,60 +1674,6 @@
         "category": "news",
         "points": 4,
         "comments": 16,
-        "is_new": false
-      },
-      {
-        "id": "49044039",
-        "title": "Show HN: WhipDesk – Control your full dev machine from your phone",
-        "url": "https://github.com/BinaryBananaLLC/WhipDesk",
-        "description": "",
-        "published": "2026-07-25T02:49:10Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 3,
-        "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "49040025",
-        "title": "Ask HN: What's the best AI coding tool today?",
-        "url": "https://news.ycombinator.com/item?id=49040025",
-        "description": "",
-        "published": "2026-07-24T18:49:35Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 2,
-        "comments": 2,
-        "is_new": false
-      },
-      {
-        "id": "49038578",
-        "title": "Show HN: Corv v1.1 is out! Solving SSH execution for AI agents",
-        "url": "https://github.com/khalid-src/corv-client",
-        "description": "",
-        "published": "2026-07-24T17:06:07Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 2,
-        "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "6dd5f2d4f0064ecbc3a92859a7a410cd",
-        "title": "Midjourney bought the astrology app Co-Star",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
-        "description": "Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thursday that it has acquired the personaliz",
-        "published": "2026-07-24T15:06:58-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
         "is_new": false
       }
     ],
