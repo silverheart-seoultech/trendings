@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-27T00:09:53.774081+00:00",
+  "last_updated": "2026-07-27T03:40:01.148576+00:00",
   "total_entries": 70,
-  "new_entries": 2,
+  "new_entries": 11,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -96,18 +96,6 @@
       "is_new": false
     },
     {
-      "id": "a9cb3adc849dcf592e090299f436e526",
-      "title": "OpenAI makes ChatGPT Health available to all US users",
-      "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
-      "description": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
-      "published": "Thu, 23 Jul 2026 17:00:00 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "216b0412425af10445635febc0d77146",
       "title": "Making sense of the panic over Chinese AI",
       "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
@@ -178,6 +166,18 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "5d2ba47b7c6e82fc799cdb3cd4c0e2d7",
+      "title": "Are brain waves the next unlock for physical AI?",
+      "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+      "description": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
+      "published": "Mon, 27 Jul 2026 00:19:14 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "07eccc4e8badf37c8eb683b97ca73306",
@@ -490,6 +490,71 @@
       "is_new": false
     },
     {
+      "id": "3dd971522c91629b691d8129d65895fe",
+      "title": "IDEAgent: Agentic Quality-Diversity Search for Research Idea Generation",
+      "url": "https://huggingface.co/papers/2607.22375",
+      "description": "Large Language Models (LLMs) have significantly automated the process of scientific discovery over the past few years. However, existing systems share one core limitation: they generate and optimize i",
+      "published": "2026-07-23T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
+      "id": "874641de4d5ed5934d6c91471747c756",
+      "title": "LAMAR: An Open Language-Aware Multilingual Alignment Reranker",
+      "url": "https://huggingface.co/papers/2607.22042",
+      "description": "In multilingual retrieval augmented generation, a retriever can retrieve relevant documents written in multiple languages, which are subsequently reranked before answer generation. However, it remains",
+      "published": "2026-07-23T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "1aeac632fb89fdbb1701dc51f15a110c",
+      "title": "Scaling Native Multimodal Pre-Training From Scratch",
+      "url": "https://huggingface.co/papers/2607.22043",
+      "description": "Although large language models (LLMs) exhibit remarkable reasoning capabilities, their reliance on text-only pre-training restricts the perception of the multimodal physical world. Native multimodal p",
+      "published": "2026-07-23T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
+    },
+    {
+      "id": "bc5831a59bfac201df5b146e419a4925",
+      "title": "SceneActBench: Can Agents Act on the 3D Scenes They See?",
+      "url": "https://huggingface.co/papers/2607.22393",
+      "description": "Vision-language model (VLM) agents increasingly use tools to act on 3D scenes rather than only describe them. Existing 3D benchmarks score textual responses or single-object operations, leaving agent ",
+      "published": "2026-07-23T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "1b807685f99a76234e36a07a0987ef24",
+      "title": "Skill Self-Play: Pushing the Frontier of LLM Capability with Co-Evolving Skills",
+      "url": "https://huggingface.co/papers/2607.22529",
+      "description": "LLM training is shifting from manual design and annotation to interaction-driven self-evolution. However, existing self-evolutionary methods face a fundamental dilemma between task diversity and verif",
+      "published": "2026-07-23T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
+    },
+    {
       "id": "27b0ad2998637a52d1332f3c8dfc1e98",
       "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
       "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
@@ -526,7 +591,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 84,
-      "comments": 62,
+      "comments": 63,
       "is_new": false
     },
     {
@@ -660,6 +725,19 @@
       "is_new": false
     },
     {
+      "id": "dfeb2730ca4677bcd345f80b76022321",
+      "title": "Closing the Loop: Training-Free Revisit Consistency for Autoregressive Generative Rendering",
+      "url": "https://huggingface.co/papers/2607.21848",
+      "description": "Recent conditional video generation models have shown promising potentials to transform 3D engine renderings, such as depth maps and untextured geometry, into photorealistic videos for gaming and imme",
+      "published": "2026-07-22T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "59d2881ddb8ced7e7040c2a892643539",
       "title": "OpenForgeRL: Train Harness-native Agents in Any Environment",
       "url": "https://huggingface.co/papers/2607.21557",
@@ -682,7 +760,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 27,
+      "likes": 29,
       "is_new": false
     },
     {
@@ -708,7 +786,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 57,
+      "likes": 56,
       "is_new": false
     },
     {
@@ -721,7 +799,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 12,
+      "likes": 16,
       "is_new": false
     },
     {
@@ -748,58 +826,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 7,
-      "is_new": false
-    },
-    {
-      "id": "d36f47900c4513d4846c2a2a8f95f52e",
-      "title": "Visual Contrastive Self-Distillation",
-      "url": "https://huggingface.co/papers/2607.21556",
-      "description": "On-policy self-distillation (OPSD) is promising as it removes the external teacher required by on-policy distillation (OPD), yet it still needs asymmetric information between teacher and student to en",
-      "published": "2026-07-22T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 43,
-      "is_new": false
-    },
-    {
-      "id": "397678ab6cf09efc28ce0167dcb92aa2",
-      "title": "AREX: Towards a Recursively Self-Improving Agent for Deep Research",
-      "url": "https://huggingface.co/papers/2607.21461",
-      "description": "Deep research requires agents to find answers that jointly satisfy multiple constraints. Discovering such answers is costly, whereas verifying a candidate can often be decomposed into tractable constr",
-      "published": "2026-07-22T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 139,
-      "is_new": false
-    },
-    {
-      "id": "98eec62f0372fbfd4131e12cc7a4e9a4",
-      "title": "GraphVid: Interactive Graph-Controllable Video Generation",
-      "url": "https://huggingface.co/papers/2607.21580",
-      "description": "Controllable video generation remains challenging due to the difficulty of specifying precise multi-object interactions using text prompts or motion-control inputs that primarily constrain pixel movem",
-      "published": "2026-07-22T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
-      "is_new": false
-    },
-    {
-      "id": "6716253e058ea82ffd775d2b972adaf9",
-      "title": "Tencent WorkBuddy Bench: A Multi-Domain Coding-Agent Benchmark with Contamination-Resistant Task Construction",
-      "url": "https://huggingface.co/papers/2607.20911",
-      "description": "We introduce Tencent WorkBuddy Bench, a multi-domain evaluation suite for coding agents; this report documents its construction methodology, scoring protocol, and a cross-model leaderboard. At its cor",
-      "published": "2026-07-22T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 21,
       "is_new": false
     },
     {
@@ -831,6 +857,19 @@
       "is_new": false
     },
     {
+      "id": "9542a4651d39d09248847901a08cdfee",
+      "title": "Molt: A Scalable PyTorch-Native Training Framework for Agentic Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2607.21653",
+      "description": "Agentic reinforcement learning research is constant algorithm modification, new estimators, new pipeline stages, new rollout schemes, and in mainstream frameworks each change threads through layers of",
+      "published": "2026-07-21T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 8,
+      "is_new": true
+    },
+    {
       "id": "ee7d40561d70358daabb4d1f03ca6db9",
       "title": "LLMs Get Lost in Evolving User Intent",
       "url": "https://huggingface.co/papers/2607.20734",
@@ -844,45 +883,6 @@
       "is_new": false
     },
     {
-      "id": "fc72fa823e00717187cb27a649252d2c",
-      "title": "Robostral Navigate",
-      "url": "https://huggingface.co/papers/2607.20785",
-      "description": "Deploying navigation systems at scale requires a recipe that minimizes sensor assumptions, generalizes across robot embodiments, and trains efficiently. Yet, today's best systems depend on depth senso",
-      "published": "2026-07-21T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 8,
-      "is_new": false
-    },
-    {
-      "id": "56beefee5bac1bee6680ec9949cb415f",
-      "title": "ReferTrack: Referring Then Tracking for Embodied Visual Tracking",
-      "url": "https://huggingface.co/papers/2607.20061",
-      "description": "Embodied visual tracking (EVT) requires a mobile agent to continuously follow a specific target described in natural language using only onboard vision. While recent vision-language-action (VLA) polic",
-      "published": "2026-07-21T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 49,
-      "is_new": false
-    },
-    {
-      "id": "c2c92e28f3d7952f9991b7542df091f9",
-      "title": "NVIDIA-labs OO Agents: Native Python Object-Oriented Agents",
-      "url": "https://huggingface.co/papers/2607.20709",
-      "description": "Traditional agent development is split across prompt templates, tool schemas, callback code, and workflow graphs. We present NVIDIA Object-Oriented Agents (NOOA), a model-agnostic Python framework for",
-      "published": "2026-07-21T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 26,
-      "is_new": false
-    },
-    {
       "id": "8952ca5a480d062948b9860f506fa962",
       "title": "FinanceComplexQA: Benchmarking Agentic Reasoning on Industrial-grade Financial Documents",
       "url": "https://huggingface.co/papers/2607.19238",
@@ -892,7 +892,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
+      "likes": 7,
       "is_new": false
     },
     {
@@ -922,6 +922,19 @@
       "is_new": false
     },
     {
+      "id": "dffb71939f43a429b29b2d12b4444a2e",
+      "title": "VisCo: Leveraging Large Language Models as Intrinsic Encoders for Visual Token Compression",
+      "url": "https://huggingface.co/papers/2607.12756",
+      "description": "Vision-language models (VLMs) process large numbers of visual tokens, resulting in substantial inference latency and memory overhead. This has motivated extensive research on visual token compression.",
+      "published": "2026-07-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "7d875bce0b6ccbe16e7c48c602cac4cf",
       "title": "Color Pass-Through via Camera-Display Coupling",
       "url": "https://huggingface.co/papers/2607.12746",
@@ -932,19 +945,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 18,
-      "is_new": false
-    },
-    {
-      "id": "10a97e4c184fc428e3bbd3f960c0439e",
-      "title": "Predictive Divergence Masks for LLM RL",
-      "url": "https://huggingface.co/papers/2607.10848",
-      "description": "Reinforcement learning for large language models (LLMs) typically relies on trust-region masks to stabilize off-policy updates. The dominant PPO-style approach uses the sampled-token importance ratio ",
-      "published": "2026-07-11T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 9,
       "is_new": false
     }
   ],
@@ -992,18 +992,6 @@
         "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
         "description": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost.",
         "published": "Thu, 23 Jul 2026 17:07:35 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "a9cb3adc849dcf592e090299f436e526",
-        "title": "OpenAI makes ChatGPT Health available to all US users",
-        "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
-        "description": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
-        "published": "Thu, 23 Jul 2026 17:00:00 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
@@ -1081,6 +1069,18 @@
         "source_icon": "📰",
         "category": "news",
         "is_new": false
+      },
+      {
+        "id": "5d2ba47b7c6e82fc799cdb3cd4c0e2d7",
+        "title": "Are brain waves the next unlock for physical AI?",
+        "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+        "description": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
+        "published": "Mon, 27 Jul 2026 00:19:14 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
       },
       {
         "id": "07eccc4e8badf37c8eb683b97ca73306",
@@ -1331,6 +1331,84 @@
     ],
     "research": [
       {
+        "id": "3dd971522c91629b691d8129d65895fe",
+        "title": "IDEAgent: Agentic Quality-Diversity Search for Research Idea Generation",
+        "url": "https://huggingface.co/papers/2607.22375",
+        "description": "Large Language Models (LLMs) have significantly automated the process of scientific discovery over the past few years. However, existing systems share one core limitation: they generate and optimize i",
+        "published": "2026-07-23T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 3,
+        "is_new": true
+      },
+      {
+        "id": "874641de4d5ed5934d6c91471747c756",
+        "title": "LAMAR: An Open Language-Aware Multilingual Alignment Reranker",
+        "url": "https://huggingface.co/papers/2607.22042",
+        "description": "In multilingual retrieval augmented generation, a retriever can retrieve relevant documents written in multiple languages, which are subsequently reranked before answer generation. However, it remains",
+        "published": "2026-07-23T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 1,
+        "is_new": true
+      },
+      {
+        "id": "1aeac632fb89fdbb1701dc51f15a110c",
+        "title": "Scaling Native Multimodal Pre-Training From Scratch",
+        "url": "https://huggingface.co/papers/2607.22043",
+        "description": "Although large language models (LLMs) exhibit remarkable reasoning capabilities, their reliance on text-only pre-training restricts the perception of the multimodal physical world. Native multimodal p",
+        "published": "2026-07-23T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 4,
+        "is_new": true
+      },
+      {
+        "id": "bc5831a59bfac201df5b146e419a4925",
+        "title": "SceneActBench: Can Agents Act on the 3D Scenes They See?",
+        "url": "https://huggingface.co/papers/2607.22393",
+        "description": "Vision-language model (VLM) agents increasingly use tools to act on 3D scenes rather than only describe them. Existing 3D benchmarks score textual responses or single-object operations, leaving agent ",
+        "published": "2026-07-23T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 1,
+        "is_new": true
+      },
+      {
+        "id": "1b807685f99a76234e36a07a0987ef24",
+        "title": "Skill Self-Play: Pushing the Frontier of LLM Capability with Co-Evolving Skills",
+        "url": "https://huggingface.co/papers/2607.22529",
+        "description": "LLM training is shifting from manual design and annotation to interaction-driven self-evolution. However, existing self-evolutionary methods face a fundamental dilemma between task diversity and verif",
+        "published": "2026-07-23T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 4,
+        "is_new": true
+      },
+      {
+        "id": "dfeb2730ca4677bcd345f80b76022321",
+        "title": "Closing the Loop: Training-Free Revisit Consistency for Autoregressive Generative Rendering",
+        "url": "https://huggingface.co/papers/2607.21848",
+        "description": "Recent conditional video generation models have shown promising potentials to transform 3D engine renderings, such as depth maps and untextured geometry, into photorealistic videos for gaming and imme",
+        "published": "2026-07-22T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 1,
+        "is_new": true
+      },
+      {
         "id": "59d2881ddb8ced7e7040c2a892643539",
         "title": "OpenForgeRL: Train Harness-native Agents in Any Environment",
         "url": "https://huggingface.co/papers/2607.21557",
@@ -1353,7 +1431,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 27,
+        "likes": 29,
         "is_new": false
       },
       {
@@ -1379,7 +1457,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 57,
+        "likes": 56,
         "is_new": false
       },
       {
@@ -1392,7 +1470,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 12,
+        "likes": 16,
         "is_new": false
       },
       {
@@ -1422,56 +1500,17 @@
         "is_new": false
       },
       {
-        "id": "d36f47900c4513d4846c2a2a8f95f52e",
-        "title": "Visual Contrastive Self-Distillation",
-        "url": "https://huggingface.co/papers/2607.21556",
-        "description": "On-policy self-distillation (OPSD) is promising as it removes the external teacher required by on-policy distillation (OPD), yet it still needs asymmetric information between teacher and student to en",
-        "published": "2026-07-22T20:00:00.000Z",
+        "id": "9542a4651d39d09248847901a08cdfee",
+        "title": "Molt: A Scalable PyTorch-Native Training Framework for Agentic Reinforcement Learning",
+        "url": "https://huggingface.co/papers/2607.21653",
+        "description": "Agentic reinforcement learning research is constant algorithm modification, new estimators, new pipeline stages, new rollout schemes, and in mainstream frameworks each change threads through layers of",
+        "published": "2026-07-21T20:00:00.000Z",
         "source_id": "hf-papers",
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 43,
-        "is_new": false
-      },
-      {
-        "id": "397678ab6cf09efc28ce0167dcb92aa2",
-        "title": "AREX: Towards a Recursively Self-Improving Agent for Deep Research",
-        "url": "https://huggingface.co/papers/2607.21461",
-        "description": "Deep research requires agents to find answers that jointly satisfy multiple constraints. Discovering such answers is costly, whereas verifying a candidate can often be decomposed into tractable constr",
-        "published": "2026-07-22T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 139,
-        "is_new": false
-      },
-      {
-        "id": "98eec62f0372fbfd4131e12cc7a4e9a4",
-        "title": "GraphVid: Interactive Graph-Controllable Video Generation",
-        "url": "https://huggingface.co/papers/2607.21580",
-        "description": "Controllable video generation remains challenging due to the difficulty of specifying precise multi-object interactions using text prompts or motion-control inputs that primarily constrain pixel movem",
-        "published": "2026-07-22T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 4,
-        "is_new": false
-      },
-      {
-        "id": "6716253e058ea82ffd775d2b972adaf9",
-        "title": "Tencent WorkBuddy Bench: A Multi-Domain Coding-Agent Benchmark with Contamination-Resistant Task Construction",
-        "url": "https://huggingface.co/papers/2607.20911",
-        "description": "We introduce Tencent WorkBuddy Bench, a multi-domain evaluation suite for coding agents; this report documents its construction methodology, scoring protocol, and a cross-model leaderboard. At its cor",
-        "published": "2026-07-22T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 21,
-        "is_new": false
+        "likes": 8,
+        "is_new": true
       },
       {
         "id": "ee7d40561d70358daabb4d1f03ca6db9",
@@ -1487,45 +1526,6 @@
         "is_new": false
       },
       {
-        "id": "fc72fa823e00717187cb27a649252d2c",
-        "title": "Robostral Navigate",
-        "url": "https://huggingface.co/papers/2607.20785",
-        "description": "Deploying navigation systems at scale requires a recipe that minimizes sensor assumptions, generalizes across robot embodiments, and trains efficiently. Yet, today's best systems depend on depth senso",
-        "published": "2026-07-21T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 8,
-        "is_new": false
-      },
-      {
-        "id": "56beefee5bac1bee6680ec9949cb415f",
-        "title": "ReferTrack: Referring Then Tracking for Embodied Visual Tracking",
-        "url": "https://huggingface.co/papers/2607.20061",
-        "description": "Embodied visual tracking (EVT) requires a mobile agent to continuously follow a specific target described in natural language using only onboard vision. While recent vision-language-action (VLA) polic",
-        "published": "2026-07-21T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 49,
-        "is_new": false
-      },
-      {
-        "id": "c2c92e28f3d7952f9991b7542df091f9",
-        "title": "NVIDIA-labs OO Agents: Native Python Object-Oriented Agents",
-        "url": "https://huggingface.co/papers/2607.20709",
-        "description": "Traditional agent development is split across prompt templates, tool schemas, callback code, and workflow graphs. We present NVIDIA Object-Oriented Agents (NOOA), a model-agnostic Python framework for",
-        "published": "2026-07-21T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 26,
-        "is_new": false
-      },
-      {
         "id": "8952ca5a480d062948b9860f506fa962",
         "title": "FinanceComplexQA: Benchmarking Agentic Reasoning on Industrial-grade Financial Documents",
         "url": "https://huggingface.co/papers/2607.19238",
@@ -1535,7 +1535,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 6,
+        "likes": 7,
         "is_new": false
       },
       {
@@ -1565,6 +1565,19 @@
         "is_new": false
       },
       {
+        "id": "dffb71939f43a429b29b2d12b4444a2e",
+        "title": "VisCo: Leveraging Large Language Models as Intrinsic Encoders for Visual Token Compression",
+        "url": "https://huggingface.co/papers/2607.12756",
+        "description": "Vision-language models (VLMs) process large numbers of visual tokens, resulting in substantial inference latency and memory overhead. This has motivated extensive research on visual token compression.",
+        "published": "2026-07-13T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 1,
+        "is_new": true
+      },
+      {
         "id": "7d875bce0b6ccbe16e7c48c602cac4cf",
         "title": "Color Pass-Through via Camera-Display Coupling",
         "url": "https://huggingface.co/papers/2607.12746",
@@ -1575,19 +1588,6 @@
         "source_icon": "🤗",
         "category": "research",
         "likes": 18,
-        "is_new": false
-      },
-      {
-        "id": "10a97e4c184fc428e3bbd3f960c0439e",
-        "title": "Predictive Divergence Masks for LLM RL",
-        "url": "https://huggingface.co/papers/2607.10848",
-        "description": "Reinforcement learning for large language models (LLMs) typically relies on trust-region masks to stabilize off-policy updates. The dominant PPO-style approach uses the sampled-token importance ratio ",
-        "published": "2026-07-11T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 9,
         "is_new": false
       }
     ]
