@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-28T06:37:39.056560+00:00",
+  "last_updated": "2026-07-28T08:44:10.527821+00:00",
   "total_entries": 110,
-  "new_entries": 36,
+  "new_entries": 38,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -874,6 +874,19 @@
       "is_new": false
     },
     {
+      "id": "b8959eecaef9a842203a3fdd13b43ff4",
+      "title": "Sol-Attn: Accelerating Video Generation Inference via On-the-Fly Attention Sparsification",
+      "url": "https://huggingface.co/papers/2607.24027",
+      "description": "Diffusion transformers are essential for high-fidelity video generation, but long token sequences make attention a dominant inference bottleneck. Training-free dynamic sparse attention alleviates this",
+      "published": "2026-07-26T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 19,
+      "is_new": true
+    },
+    {
       "id": "c643383094cb3774f9145cec0da1528d",
       "title": "The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation",
       "url": "https://huggingface.co/papers/2607.24720",
@@ -883,7 +896,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 12,
+      "likes": 13,
       "is_new": true
     },
     {
@@ -909,7 +922,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 15,
+      "likes": 17,
       "is_new": true
     },
     {
@@ -922,7 +935,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": true
     },
     {
@@ -935,7 +948,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 103,
+      "likes": 166,
       "is_new": true
     },
     {
@@ -948,7 +961,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 5,
       "is_new": true
     },
     {
@@ -961,7 +974,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 41,
+      "likes": 50,
       "is_new": false
     },
     {
@@ -974,20 +987,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "cb998aa8756855dc43c73da33f9a0d8c",
-      "title": "Data Pyramid for Embodied Manipulation",
-      "url": "https://huggingface.co/papers/2607.24744",
-      "description": "Multimodal foundation models learned to see and to speak by consuming the whole internet. Embodied agents admit no such shortcut, since they require data that couple observations with physical states ",
-      "published": "2026-07-26T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 29,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -1040,7 +1040,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": true
     },
     {
@@ -1053,7 +1053,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 46,
+      "likes": 76,
       "is_new": true
     },
     {
@@ -1066,7 +1066,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 13,
+      "likes": 18,
       "is_new": false
     },
     {
@@ -1226,7 +1226,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 5,
       "is_new": true
     },
     {
@@ -1242,6 +1242,19 @@
       "points": 2,
       "comments": 2,
       "is_new": false
+    },
+    {
+      "id": "2d18ac4161720e3b15522daf520c4a57",
+      "title": "Reasoning Denoiser: Denoising Reasoning Traces for Hallucination Detection in Large Reasoning Models",
+      "url": "https://huggingface.co/papers/2607.22098",
+      "description": "Large reasoning models (LRMs) generate long reasoning traces before producing final answers. While these traces may contain useful signals for hallucination detection, harnessing them is non-trivial b",
+      "published": "2026-07-23T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
     },
     {
       "id": "7e35bc50924aed02ff78e00d3669748f",
@@ -1280,20 +1293,6 @@
       "category": "news",
       "points": 3,
       "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "49024620",
-      "title": "Launch HN: Screenpipe (YC S26) – Record how you work and turn that into agents",
-      "url": "https://news.ycombinator.com/item?id=49024620",
-      "description": "",
-      "published": "2026-07-23T16:48:38Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 85,
-      "comments": 66,
       "is_new": false
     }
   ],
