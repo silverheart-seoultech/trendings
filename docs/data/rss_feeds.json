@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-28T20:23:13.907618+00:00",
+  "last_updated": "2026-07-28T22:14:54.977207+00:00",
   "total_entries": 110,
-  "new_entries": 3,
+  "new_entries": 6,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,6 +47,30 @@
     }
   ],
   "entries": [
+    {
+      "id": "2853fe7b4466c2b7fc6c99226ee278aa",
+      "title": "Bot-detection startup Spur nabs $200M from Insight",
+      "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+      "description": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
+      "published": "Tue, 28 Jul 2026 21:29:34 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "ab5715c29e352d7e6aab4ae9168e8049",
+      "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+      "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+      "description": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP  gateway product and then opted to build one itself.",
+      "published": "Tue, 28 Jul 2026 20:45:12 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "cbe29efd99bf8829e7f432668b51be57",
       "title": "Sam Altman is ready to decelerate",
@@ -612,30 +636,6 @@
       "is_new": false
     },
     {
-      "id": "355626f29c21fdf8985e45a36c16b53f",
-      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
-      "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
-      "description": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
-      "published": "Sun, 26 Jul 2026 16:33:13 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "cb61b6a2a5da5e6de3bed409d7040395",
-      "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
-      "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-      "description": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
-      "published": "Sun, 26 Jul 2026 01:30:00 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "f1637c21f3807a90d27fda9911b5ee1b",
       "title": "Satya Nadella says companies that trust one AI for everything may not survive",
       "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
@@ -777,7 +777,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 2,
+      "points": 3,
       "comments": 1,
       "is_new": false
     },
@@ -815,7 +815,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 23,
+      "points": 25,
       "comments": 6,
       "is_new": false
     },
@@ -829,7 +829,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 25,
+      "points": 26,
       "comments": 2,
       "is_new": false
     },
@@ -857,8 +857,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 100,
-      "comments": 43,
+      "points": 103,
+      "comments": 44,
       "is_new": false
     },
     {
@@ -1057,19 +1057,6 @@
       "is_new": false
     },
     {
-      "id": "a7fac369cbfa67bbc3b120e3261b57e9",
-      "title": "FilmBench: A Film-Grade Benchmark for Cinematic Video Generation",
-      "url": "https://huggingface.co/papers/2607.24241",
-      "description": "Progress in video generation keeps narrowing the visual gap between AI-generated and professionally produced footage, yet most benchmarks still draw prompts from web sources or LLM templates and score",
-      "published": "2026-07-26T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
       "id": "49059940",
       "title": "Ask HN: How to Start with LLMs/Vibecoding?",
       "url": "https://news.ycombinator.com/item?id=49059940",
@@ -1192,6 +1179,19 @@
       "is_new": false
     },
     {
+      "id": "5281c4bc7db46d6d283c52a696f82b51",
+      "title": "Bitcoin Price Direction Prediction via Regime-Aware Multi-Modal Fusion of Social Sentiment and Technical Features",
+      "url": "https://huggingface.co/papers/2607.23370",
+      "description": "Bitcoin price prediction on sub-daily timescales is a hard open problem in computational finance. Bitcoin exhibits fat-tailed returns, non-stationary dynamics, and a price discovery process influenced",
+      "published": "2026-07-24T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "0e54c6543495ee924f2e7bde7a50daaf",
       "title": "UltraViT: Latency-Optimized On-device Vision Encoder for Large Vision-Language Models",
       "url": "https://huggingface.co/papers/2607.23373",
@@ -1300,6 +1300,30 @@
   "by_category": {
     "news": [
       {
+        "id": "2853fe7b4466c2b7fc6c99226ee278aa",
+        "title": "Bot-detection startup Spur nabs $200M from Insight",
+        "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+        "description": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
+        "published": "Tue, 28 Jul 2026 21:29:34 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "ab5715c29e352d7e6aab4ae9168e8049",
+        "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+        "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+        "description": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP  gateway product and then opted to build one itself.",
+        "published": "Tue, 28 Jul 2026 20:45:12 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "cbe29efd99bf8829e7f432668b51be57",
         "title": "Sam Altman is ready to decelerate",
         "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
@@ -1377,30 +1401,6 @@
         "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
         "description": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
         "published": "Sun, 26 Jul 2026 19:40:57 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "355626f29c21fdf8985e45a36c16b53f",
-        "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
-        "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
-        "description": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
-        "published": "Sun, 26 Jul 2026 16:33:13 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "cb61b6a2a5da5e6de3bed409d7040395",
-        "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
-        "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-        "description": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
-        "published": "Sun, 26 Jul 2026 01:30:00 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
@@ -1549,7 +1549,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 2,
+        "points": 3,
         "comments": 1,
         "is_new": false
       },
@@ -1587,7 +1587,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 23,
+        "points": 25,
         "comments": 6,
         "is_new": false
       },
@@ -1601,7 +1601,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 25,
+        "points": 26,
         "comments": 2,
         "is_new": false
       },
@@ -1629,8 +1629,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 100,
-        "comments": 43,
+        "points": 103,
+        "comments": 44,
         "is_new": false
       },
       {
