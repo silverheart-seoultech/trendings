@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-28T02:56:30.563984+00:00",
+  "last_updated": "2026-07-28T03:30:27.822369+00:00",
   "total_entries": 110,
-  "new_entries": 12,
+  "new_entries": 7,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -57,7 +57,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "216b0412425af10445635febc0d77146",
@@ -141,7 +141,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "f6ec309cb07391fabdcd34c285d0fca7",
@@ -153,7 +153,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "699cca776fc63b7f791d88dd20950285",
@@ -779,7 +779,7 @@
       "category": "news",
       "points": 2,
       "comments": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "49071834",
@@ -874,6 +874,45 @@
       "is_new": false
     },
     {
+      "id": "a7fac369cbfa67bbc3b120e3261b57e9",
+      "title": "FilmBench: A Film-Grade Benchmark for Cinematic Video Generation",
+      "url": "https://huggingface.co/papers/2607.24241",
+      "description": "Progress in video generation keeps narrowing the visual gap between AI-generated and professionally produced footage, yet most benchmarks still draw prompts from web sources or LLM templates and score",
+      "published": "2026-07-26T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "6c66b356af86f44801f404f0d2951d4f",
+      "title": "Kimi K3: Open Frontier Intelligence",
+      "url": "https://huggingface.co/papers/2607.24653",
+      "description": "We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion activated parameters, native vision capabilities, and a 1-million-token context window. Kimi K3 is built on Kimi Delta ",
+      "published": "2026-07-26T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 5,
+      "is_new": true
+    },
+    {
+      "id": "cf41440ae675cc0090fa6704e35aa50e",
+      "title": "DecoupleMix: Decoupled Ratio Search and Convex Allocation for Scalable VLM Data Recipes",
+      "url": "https://huggingface.co/papers/2607.24516",
+      "description": "While data curation for Vision Language Models (VLMs) is increasingly active, public practice for constructing pretraining mixtures remains largely heuristic: practitioners stack datasets that pass qu",
+      "published": "2026-07-26T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "d3d7b54fa688a2046a6000e93e25f61c",
       "title": "From Proprietary to Open-Source: Bridging the Distribution Gap via Multi-Agent Protocol Distillation in Agentic Search",
       "url": "https://huggingface.co/papers/2607.24280",
@@ -883,8 +922,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
-      "is_new": true
+      "likes": 18,
+      "is_new": false
     },
     {
       "id": "9742eb4f7d2553a9abcd0d93977f248a",
@@ -897,7 +936,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "cb998aa8756855dc43c73da33f9a0d8c",
@@ -909,8 +948,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 21,
-      "is_new": true
+      "likes": 27,
+      "is_new": false
     },
     {
       "id": "49059940",
@@ -927,6 +966,45 @@
       "is_new": false
     },
     {
+      "id": "e7d0c2cc36a2580d4b4222acebec803a",
+      "title": "A Frozen 12B Beats Frontier Models on Verified Work: 100% Accuracy, 0 Tokens, Bit-Exact, Forever",
+      "url": "https://huggingface.co/papers/2607.23806",
+      "description": "Improving a language model today means retraining it: enormous compute, a new opaque model each cycle, non-deterministic output. We take the opposite path: the model stays frozen, and a persistent mem",
+      "published": "2026-07-25T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "7c8047f1ad60574974a2a4a806c384fb",
+      "title": "GNM Head: A Generative aNthropometric Model of the human head",
+      "url": "https://huggingface.co/papers/2607.23687",
+      "description": "Parametric models of the human head are essential tools traditionally used in computer vision and graphics for animation, rendering, and reconstruction. More recently, they serve as crucial conditioni",
+      "published": "2026-07-25T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "1a3e2cb8efc6a075ca588a42819bb0ce",
+      "title": "JarvisHub: An Open Harness for Canvas-Native Multimodal Creative Agents",
+      "url": "https://huggingface.co/papers/2607.23588",
+      "description": "Creative AI is moving from single-step asset generation toward long-horizon multimodal production. Although recent generative models can synthesize high-quality images, videos, audio clips, UI element",
+      "published": "2026-07-25T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 13,
+      "is_new": true
+    },
+    {
       "id": "a69985b4114be7fcb60daf3fbd173c58",
       "title": "OmniVAE: An Audio-Video VAE with Cross-Modal Alignment for Joint Generation",
       "url": "https://huggingface.co/papers/2607.23855",
@@ -936,8 +1014,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
-      "is_new": true
+      "likes": 5,
+      "is_new": false
     },
     {
       "id": "dfd716220e42edae24a2ec5d14ea6b1d",
@@ -950,7 +1028,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "49046999",
@@ -1110,8 +1188,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 20,
-      "is_new": true
+      "likes": 25,
+      "is_new": false
     },
     {
       "id": "b20f5d90da2395bfd3b2a381ea572752",
@@ -1124,7 +1202,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "79494b53c650c83e32d40a3f4ea82eaa",
@@ -1137,32 +1215,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "3dd971522c91629b691d8129d65895fe",
-      "title": "IDEAgent: Agentic Quality-Diversity Search for Research Idea Generation",
-      "url": "https://huggingface.co/papers/2607.22375",
-      "description": "Large Language Models (LLMs) have significantly automated the process of scientific discovery over the past few years. However, existing systems share one core limitation: they generate and optimize i",
-      "published": "2026-07-23T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
-      "is_new": false
-    },
-    {
-      "id": "874641de4d5ed5934d6c91471747c756",
-      "title": "LAMAR: An Open Language-Aware Multilingual Alignment Reranker",
-      "url": "https://huggingface.co/papers/2607.22042",
-      "description": "In multilingual retrieval augmented generation, a retriever can retrieve relevant documents written in multiple languages, which are subsequently reranked before answer generation. However, it remains",
-      "published": "2026-07-23T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 8,
       "is_new": false
     },
     {
@@ -1242,60 +1294,6 @@
       "points": 191,
       "comments": 39,
       "is_new": false
-    },
-    {
-      "id": "668dd796408164b008e763617b2c284c",
-      "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
-      "description": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model,",
-      "published": "2026-07-23T14:33:59-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "49021477",
-      "title": "Show HN: USB AI Agent – portable uncensored AI with 13 tools, runs from USB",
-      "url": "https://github.com/pusucip25/USB-AI-Agent",
-      "description": "",
-      "published": "2026-07-23T13:43:17Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 1,
-      "is_new": false
-    },
-    {
-      "id": "49020619",
-      "title": "Show HN: Mwe-MCP – self-hosted memory for AI agents that knows who may know what",
-      "url": "https://github.com/Fr4nZ82/mwe-mcp",
-      "description": "",
-      "published": "2026-07-23T12:38:20Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 4,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "49017839",
-      "title": "Show HN: Hanesu – An experimental workflow layer for AI coding agents",
-      "url": "https://github.com/jezmn/hanesu",
-      "description": "",
-      "published": "2026-07-23T06:58:39Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 0,
-      "is_new": false
     }
   ],
   "by_category": {
@@ -1310,7 +1308,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "216b0412425af10445635febc0d77146",
@@ -1394,7 +1392,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "f6ec309cb07391fabdcd34c285d0fca7",
@@ -1406,7 +1404,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "699cca776fc63b7f791d88dd20950285",
@@ -1552,7 +1550,7 @@
         "category": "news",
         "points": 2,
         "comments": 0,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "49071834",
