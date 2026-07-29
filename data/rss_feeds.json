@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-29T09:47:10.214638+00:00",
+  "last_updated": "2026-07-29T12:16:36.724442+00:00",
   "total_entries": 110,
-  "new_entries": 3,
+  "new_entries": 11,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,6 +47,18 @@
     }
   ],
   "entries": [
+    {
+      "id": "0fa1628d1c41cbaef01de5accdfefda8",
+      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+      "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+      "description": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
+      "published": "Wed, 29 Jul 2026 11:00:00 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "992c30afce2094034702847305f07225",
       "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
@@ -756,18 +768,6 @@
       "is_new": false
     },
     {
-      "id": "5d2ba47b7c6e82fc799cdb3cd4c0e2d7",
-      "title": "Are brain waves the next unlock for physical AI?",
-      "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
-      "description": "Forget YouTube videos — frontier physical AI models need multiple camera angles, dense annotation, and, soon, brain wave readings.",
-      "published": "Mon, 27 Jul 2026 00:19:14 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "49094760",
       "title": "Show HN: Get a security assessment of MCP servers directly from your terminal",
       "url": "https://index.canopii.dev/cli",
@@ -780,6 +780,30 @@
       "points": 1,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "4d64319034075122b0681b5b0db7b550",
+      "title": "We’re running out of reasons to ignore AI safety",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
+      "description": "Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the systems in a sandboxed environment without an internet",
+      "published": "2026-07-29T08:14:12-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "45adb63cdeb59be50ac328c655cdbf53",
+      "title": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
+      "description": "The AI agent that escaped from OpenAI and hacked developer platform Hugging Face attacked other companies as well, OpenAI revealed on Tuesday. The update substantially widens the scope of an already c",
+      "published": "2026-07-29T07:54:29-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "49090740",
@@ -834,6 +858,18 @@
       "is_new": false
     },
     {
+      "id": "731f01c1c0e3d8ce8e2d8b20d1c68452",
+      "title": "Artists are lawyering up against AI slop, and some are even winning",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
+      "description": "When The Atlantic published a searchable dataset of works used to train AI, Kirk Wallace Johnson, like a lot of artists, looked for his name out of curiosity. And, like a lot of artists, he found it.",
+      "published": "2026-07-28T16:19:25-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "49085503",
       "title": "Show HN: Flashpaper – Self-destructing secret sharing with no database",
       "url": "https://flashpaper.app/",
@@ -844,7 +880,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 25,
-      "comments": 10,
+      "comments": 11,
       "is_new": false
     },
     {
@@ -885,7 +921,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 109,
+      "points": 110,
       "comments": 48,
       "is_new": false
     },
@@ -940,6 +976,19 @@
       "is_new": false
     },
     {
+      "id": "2cdad58bf0c15138dacff6f97413da0c",
+      "title": "CodeNib: A Multi-View Data System for Serving Repository Context to Coding Agents",
+      "url": "https://huggingface.co/papers/2607.25431",
+      "description": "Coding agents repeatedly search, navigate, and retain context from evolving repositories, but disconnected indexes, language servers, and task-local histories force repeated discovery and obscure life",
+      "published": "2026-07-27T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 13,
+      "is_new": true
+    },
+    {
       "id": "5c6680f24011353a86957a68680eecc4",
       "title": "VisualPatchWorld: Code World Models as Latent Structured Representations for Planning",
       "url": "https://huggingface.co/papers/2607.25236",
@@ -949,7 +998,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 1,
       "is_new": true
     },
     {
@@ -962,7 +1011,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 1,
       "is_new": true
     },
     {
@@ -975,7 +1024,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 5,
       "is_new": false
     },
     {
@@ -988,7 +1037,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -1001,7 +1050,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 13,
+      "likes": 15,
       "is_new": false
     },
     {
@@ -1027,7 +1076,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 36,
+      "likes": 40,
       "is_new": false
     },
     {
@@ -1040,7 +1089,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 70,
+      "likes": 82,
       "is_new": false
     },
     {
@@ -1067,32 +1116,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "08add4d79682735b02e2f3a7e416689e",
-      "title": "Wonder: Video World Model Done Better",
-      "url": "https://huggingface.co/papers/2607.26037",
-      "description": "We present Wonder, a general-purpose video world model for real-time, camera-controllable world exploration. Given an image or a conditional video, Wonder constructs a playable world where users can n",
-      "published": "2026-07-27T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 7,
-      "is_new": false
-    },
-    {
-      "id": "1d92cfb4431bd7cf8b46ad0ddb2c4a01",
-      "title": "Shieldstral",
-      "url": "https://huggingface.co/papers/2607.25857",
-      "description": "We introduce Shieldstral, a 3B-parameter policy-adaptive multimodal safety classifier that matches or outperforms models nearly 7times its size on text safety benchmarks and sets a new state of the ar",
-      "published": "2026-07-27T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 5,
       "is_new": false
     },
     {
@@ -1176,6 +1199,19 @@
       "is_new": false
     },
     {
+      "id": "41418755900ae03edee827656942b0e6",
+      "title": "GLI-AL: A Multi-Modal Glioma MRI Label Resource with Unified Anatomy-Lesion Labels",
+      "url": "https://huggingface.co/papers/2607.22135",
+      "description": "Existing BraTS-GLI datasets provide a widely used benchmark for adult glioma MRI segmentation, but their task definition focuses on tumor subregions and does not systematically represent coexisting wh",
+      "published": "2026-07-26T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "54d91622d0ae3373fafbe9241276eec4",
       "title": "Where Quality Breaks in Compressed Short-Text Generation: Staged Bottleneck Localization",
       "url": "https://huggingface.co/papers/2607.24176",
@@ -1198,7 +1234,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 16,
+      "likes": 17,
       "is_new": false
     },
     {
@@ -1211,7 +1247,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 70,
+      "likes": 71,
       "is_new": false
     },
     {
@@ -1224,7 +1260,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
+      "likes": 7,
       "is_new": false
     },
     {
@@ -1237,20 +1273,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 20,
-      "is_new": false
-    },
-    {
-      "id": "c5c78a8f9c20f232171cd271f561a2a8",
-      "title": "Towards Robust Reinforcement Learning for Small-Scale Language Model Agents",
-      "url": "https://huggingface.co/papers/2607.25091",
-      "description": "The alignment of Small Language Models (SLMs) in the 70--500M parameter range using reinforcement learning is often considered unstable, though the underlying failure mechanisms have not been systemat",
-      "published": "2026-07-26T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
+      "likes": 21,
       "is_new": false
     },
     {
@@ -1266,37 +1289,22 @@
       "points": 1,
       "comments": 8,
       "is_new": false
-    },
-    {
-      "id": "51ec1f486ef2409cebf4c137f11fadbc",
-      "title": "Novel Claim or Déjà Vu? Rethinking \"Contamination-Free'' Dynamic Evaluation for Multimodal Automated Fact-Checking",
-      "url": "https://huggingface.co/papers/2607.23514",
-      "description": "Multimodal automated fact-checking (MAFC) verifies claims by retrieving and reasoning over external evidence. However, most existing static benchmarks risk contamination: they primarily consist of out",
-      "published": "2026-07-25T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
-      "is_new": false
-    },
-    {
-      "id": "49046999",
-      "title": "Why My Open-Source Project Hasn't Done Better",
-      "url": "https://news.ycombinator.com/item?id=49046999",
-      "description": "",
-      "published": "2026-07-25T12:23:19Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 4,
-      "comments": 1,
-      "is_new": false
     }
   ],
   "by_category": {
     "news": [
+      {
+        "id": "0fa1628d1c41cbaef01de5accdfefda8",
+        "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+        "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+        "description": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
+        "published": "Wed, 29 Jul 2026 11:00:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "992c30afce2094034702847305f07225",
         "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
@@ -1526,18 +1534,6 @@
         "is_new": false
       },
       {
-        "id": "5d2ba47b7c6e82fc799cdb3cd4c0e2d7",
-        "title": "Are brain waves the next unlock for physical AI?",
-        "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
-        "description": "Forget YouTube videos — frontier physical AI models need multiple camera angles, dense annotation, and, soon, brain wave readings.",
-        "published": "Mon, 27 Jul 2026 00:19:14 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
         "id": "49094760",
         "title": "Show HN: Get a security assessment of MCP servers directly from your terminal",
         "url": "https://index.canopii.dev/cli",
@@ -1550,6 +1546,30 @@
         "points": 1,
         "comments": 0,
         "is_new": false
+      },
+      {
+        "id": "4d64319034075122b0681b5b0db7b550",
+        "title": "We’re running out of reasons to ignore AI safety",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
+        "description": "Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the systems in a sandboxed environment without an internet",
+        "published": "2026-07-29T08:14:12-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "45adb63cdeb59be50ac328c655cdbf53",
+        "title": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
+        "description": "The AI agent that escaped from OpenAI and hacked developer platform Hugging Face attacked other companies as well, OpenAI revealed on Tuesday. The update substantially widens the scope of an already c",
+        "published": "2026-07-29T07:54:29-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
       },
       {
         "id": "49090740",
@@ -1604,6 +1624,18 @@
         "is_new": false
       },
       {
+        "id": "731f01c1c0e3d8ce8e2d8b20d1c68452",
+        "title": "Artists are lawyering up against AI slop, and some are even winning",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
+        "description": "When The Atlantic published a searchable dataset of works used to train AI, Kirk Wallace Johnson, like a lot of artists, looked for his name out of curiosity. And, like a lot of artists, he found it.",
+        "published": "2026-07-28T16:19:25-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "49085503",
         "title": "Show HN: Flashpaper – Self-destructing secret sharing with no database",
         "url": "https://flashpaper.app/",
@@ -1614,7 +1646,7 @@
         "source_icon": "🟧",
         "category": "news",
         "points": 25,
-        "comments": 10,
+        "comments": 11,
         "is_new": false
       },
       {
@@ -1629,46 +1661,6 @@
         "category": "news",
         "points": 27,
         "comments": 2,
-        "is_new": false
-      },
-      {
-        "id": "49084328",
-        "title": "Show HN: Countify – Collaborative No-code computer vision for labs",
-        "url": "https://www.countifybio.com/",
-        "description": "",
-        "published": "2026-07-28T14:21:35Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 2,
-        "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "49083239",
-        "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
-        "url": "https://github.com/schildep/verified-3d-mesh-intersection",
-        "description": "",
-        "published": "2026-07-28T13:07:14Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 109,
-        "comments": 48,
-        "is_new": false
-      },
-      {
-        "id": "39519f6ad210fea5f49959607be5da94",
-        "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
-        "description": "Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popular OS to be used as a locally run AI system. Like the Mac version that Perplexit",
-        "published": "2026-07-28T08:11:42-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
         "is_new": false
       }
     ],
