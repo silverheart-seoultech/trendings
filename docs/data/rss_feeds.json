@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-29T17:34:22.314420+00:00",
+  "last_updated": "2026-07-29T19:25:08.078173+00:00",
   "total_entries": 110,
-  "new_entries": 7,
+  "new_entries": 11,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,6 +47,18 @@
     }
   ],
   "entries": [
+    {
+      "id": "b509c20461f2e36b0ae41563c54675b6",
+      "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+      "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
+      "description": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.",
+      "published": "Wed, 29 Jul 2026 18:45:27 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "c037c1f2be4b8b92d4880a94256bc8ab",
       "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
@@ -756,18 +768,6 @@
       "is_new": false
     },
     {
-      "id": "e91ca0f7e12bb9aad0f5d39e359d7c25",
-      "title": "This $9 key physically locks your most addictive apps",
-      "url": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
-      "description": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
-      "published": "Mon, 27 Jul 2026 15:25:37 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "49099891",
       "title": "Show HN: MandoCode Desktop – Native Windows AI Coding Assistant on Ollama .NET",
       "url": "https://github.com/DevMando/MandoCode.Desktop",
@@ -778,7 +778,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 1,
-      "comments": 1,
+      "comments": 2,
       "is_new": true
     },
     {
@@ -791,8 +791,20 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 27,
-      "comments": 24,
+      "points": 38,
+      "comments": 37,
+      "is_new": true
+    },
+    {
+      "id": "68c8dce4daf83e4ffab413e91752c1b3",
+      "title": "OpenAI president says it&#8217;s &#8216;building a family of devices&#8217; for its AI chatbots",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
+      "description": "In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a \"family of devices\" for interacting with its AI models. However, Br",
+      "published": "2026-07-29T14:19:30-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
       "is_new": true
     },
     {
@@ -963,7 +975,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 111,
+      "points": 112,
       "comments": 48,
       "is_new": false
     },
@@ -1018,6 +1030,19 @@
       "is_new": false
     },
     {
+      "id": "6b0eb1a6d310cd015240033759518edf",
+      "title": "Reinforcement Learning for Code Optimization",
+      "url": "https://huggingface.co/papers/2607.25970",
+      "description": "RL for code correctness is now established: have the model generate a program, run it against hidden test cases, and reward solutions that pass. Extending this to code optimization seems straightforwa",
+      "published": "2026-07-27T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
       "id": "2cdad58bf0c15138dacff6f97413da0c",
       "title": "CodeNib: A Multi-View Data System for Serving Repository Context to Coding Agents",
       "url": "https://huggingface.co/papers/2607.25431",
@@ -1027,7 +1052,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 24,
+      "likes": 34,
       "is_new": false
     },
     {
@@ -1131,7 +1156,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 113,
+      "likes": 125,
       "is_new": false
     },
     {
@@ -1186,18 +1211,6 @@
       "category": "news",
       "points": 2,
       "comments": 1,
-      "is_new": false
-    },
-    {
-      "id": "40c3588f70cf4d8ace926e519833bf88",
-      "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-      "description": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. The new Open Secure AI Alliance said open tools are r",
-      "published": "2026-07-27T09:07:41-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
       "is_new": false
     },
     {
@@ -1278,23 +1291,22 @@
       "category": "research",
       "likes": 22,
       "is_new": false
-    },
-    {
-      "id": "cd99879c36c03565beb5fd18caeb5a39",
-      "title": "A New Role for Relevance: Guiding Corpus Interaction in Agentic Search",
-      "url": "https://huggingface.co/papers/2607.24223",
-      "description": "Relevance is a query-dependent estimate of whether a document or excerpt contains useful evidence. Existing retrieval agents use relevance to select top-k content, but document relevance alone cannot ",
-      "published": "2026-07-26T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 79,
-      "is_new": false
     }
   ],
   "by_category": {
     "news": [
+      {
+        "id": "b509c20461f2e36b0ae41563c54675b6",
+        "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+        "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
+        "description": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.",
+        "published": "Wed, 29 Jul 2026 18:45:27 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "c037c1f2be4b8b92d4880a94256bc8ab",
         "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
@@ -1524,18 +1536,6 @@
         "is_new": false
       },
       {
-        "id": "e91ca0f7e12bb9aad0f5d39e359d7c25",
-        "title": "This $9 key physically locks your most addictive apps",
-        "url": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
-        "description": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
-        "published": "Mon, 27 Jul 2026 15:25:37 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
         "id": "49099891",
         "title": "Show HN: MandoCode Desktop – Native Windows AI Coding Assistant on Ollama .NET",
         "url": "https://github.com/DevMando/MandoCode.Desktop",
@@ -1546,7 +1546,7 @@
         "source_icon": "🟧",
         "category": "news",
         "points": 1,
-        "comments": 1,
+        "comments": 2,
         "is_new": true
       },
       {
@@ -1559,8 +1559,20 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 27,
-        "comments": 24,
+        "points": 38,
+        "comments": 37,
+        "is_new": true
+      },
+      {
+        "id": "68c8dce4daf83e4ffab413e91752c1b3",
+        "title": "OpenAI president says it&#8217;s &#8216;building a family of devices&#8217; for its AI chatbots",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
+        "description": "In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a \"family of devices\" for interacting with its AI models. However, Br",
+        "published": "2026-07-29T14:19:30-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
         "is_new": true
       },
       {
@@ -1653,18 +1665,6 @@
         "category": "news",
         "points": 4,
         "comments": 7,
-        "is_new": false
-      },
-      {
-        "id": "f22aa3b4b98bb653bd0cfe63964cae6b",
-        "title": "AI leaders sign a statement asking the government to do something about automated AI",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
-        "description": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowd",
-        "published": "2026-07-28T19:14:53-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
         "is_new": false
       }
     ],
