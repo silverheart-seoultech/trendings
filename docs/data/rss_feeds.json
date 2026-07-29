@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-29T15:17:30.951826+00:00",
+  "last_updated": "2026-07-29T17:34:22.314420+00:00",
   "total_entries": 110,
-  "new_entries": 1,
+  "new_entries": 7,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -48,10 +48,22 @@
   ],
   "entries": [
     {
+      "id": "c037c1f2be4b8b92d4880a94256bc8ab",
+      "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+      "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
+      "description": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a sing",
+      "published": "Wed, 29 Jul 2026 15:35:09 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "5de17107a6764aac1bede7df66f7e68b",
       "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
       "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
-      "description": "The startup analyzes calls, messages and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
+      "description": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
       "published": "Wed, 29 Jul 2026 14:41:06 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
@@ -756,16 +768,32 @@
       "is_new": false
     },
     {
-      "id": "255e648232d1e6e31e17647e6861c73f",
-      "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
-      "url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
-      "description": "After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase.",
-      "published": "Mon, 27 Jul 2026 15:01:50 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
+      "id": "49099891",
+      "title": "Show HN: MandoCode Desktop – Native Windows AI Coding Assistant on Ollama .NET",
+      "url": "https://github.com/DevMando/MandoCode.Desktop",
+      "description": "",
+      "published": "2026-07-29T16:48:12Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
       "category": "news",
-      "is_new": false
+      "points": 1,
+      "comments": 1,
+      "is_new": true
+    },
+    {
+      "id": "49099143",
+      "title": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
+      "url": "https://usetokenless.com/",
+      "description": "",
+      "published": "2026-07-29T15:55:27Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 27,
+      "comments": 24,
+      "is_new": true
     },
     {
       "id": "49096519",
@@ -777,8 +805,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 2,
-      "comments": 0,
+      "points": 3,
+      "comments": 1,
       "is_new": false
     },
     {
@@ -803,7 +831,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 1,
+      "points": 2,
       "comments": 0,
       "is_new": false
     },
@@ -935,7 +963,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 110,
+      "points": 111,
       "comments": 48,
       "is_new": false
     },
@@ -999,7 +1027,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 18,
+      "likes": 24,
       "is_new": false
     },
     {
@@ -1051,7 +1079,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
+      "likes": 8,
       "is_new": false
     },
     {
@@ -1064,7 +1092,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 19,
+      "likes": 21,
       "is_new": false
     },
     {
@@ -1090,7 +1118,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 53,
+      "likes": 54,
       "is_new": false
     },
     {
@@ -1103,33 +1131,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 100,
-      "is_new": false
-    },
-    {
-      "id": "970d5fe25c1f0cd3d66d2f65f4b89c1f",
-      "title": "Visual prompt engineering for video models",
-      "url": "https://huggingface.co/papers/2607.25537",
-      "description": "In the age of foundation models, a model is only as good as its prompt. For this reason, prompt engineering has become an essential technique for improving language model performance. Since video mode",
-      "published": "2026-07-27T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 7,
-      "is_new": false
-    },
-    {
-      "id": "7dd20ac359d2e9e3e22d9b61de2b728d",
-      "title": "OmniDelta: Skill-Driven Budget Allocation for Token Compression in OmniLLMs",
-      "url": "https://huggingface.co/papers/2607.25669",
-      "description": "Emerging Omni-modal Large Language Models (OmniLLMs) enable unified understanding of text, audio, and video, but their long audio-video token sequences introduce substantial memory and inference costs",
-      "published": "2026-07-27T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
+      "likes": 113,
       "is_new": false
     },
     {
@@ -1213,6 +1215,32 @@
       "is_new": false
     },
     {
+      "id": "2b7201ef6475806ef969f132f1c53bb1",
+      "title": "OPERA: Offline Policy-guided Expert Routing and Adaptation for Universal Biomedical Image Analysis",
+      "url": "https://huggingface.co/papers/2607.25108",
+      "description": "Biomedical image analysis spans diverse modalities and tasks, yet real-world deployment is hindered by severe distribution shifts across scanners, protocols, and patient populations. High-performing m",
+      "published": "2026-07-26T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "a5861caf68bbc3ae44cc21a9415a021c",
+      "title": "Agent Retrieval Bench: Evaluating Repository Context Retrieval for Coding Agents",
+      "url": "https://huggingface.co/papers/2607.24882",
+      "description": "Modern coding agents are usually evaluated by whether they eventually produce a correct patch, but patch generation depends on an earlier context-acquisition stage: finding the repository files needed",
+      "published": "2026-07-26T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
       "id": "41418755900ae03edee827656942b0e6",
       "title": "GLI-AL: A Multi-Modal Glioma MRI Label Resource with Unified Anatomy-Lesion Labels",
       "url": "https://huggingface.co/papers/2607.22135",
@@ -1235,7 +1263,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -1248,7 +1276,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 19,
+      "likes": 22,
       "is_new": false
     },
     {
@@ -1261,43 +1289,29 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 77,
-      "is_new": false
-    },
-    {
-      "id": "1cb8c37fb4788503451b10de6235962b",
-      "title": "PerceptionBench: Evaluating Atomic Visual Perception in Multimodal Large Language Models",
-      "url": "https://huggingface.co/papers/2607.24957",
-      "description": "We introduce PerceptionBench, a benchmark specifically designed to evaluate the atomic visual perception capabilities of Multimodal Large Language Models (MLLMs). Existing benchmarks often fail to iso",
-      "published": "2026-07-26T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 9,
-      "is_new": false
-    },
-    {
-      "id": "06485960f7685ee9d60410d71f4f7d1c",
-      "title": "Keep It InMind: Benchmarking the Implicit-Association Blind Spot in Agent Memory",
-      "url": "https://huggingface.co/papers/2607.24368",
-      "description": "Long-term memory systems store what a user says in an external store and retrieve it when a related query arrives. This interface rests on an assumption so natural that it is rarely stated: a memory t",
-      "published": "2026-07-26T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 22,
+      "likes": 79,
       "is_new": false
     }
   ],
   "by_category": {
     "news": [
       {
+        "id": "c037c1f2be4b8b92d4880a94256bc8ab",
+        "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+        "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
+        "description": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a sing",
+        "published": "Wed, 29 Jul 2026 15:35:09 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "5de17107a6764aac1bede7df66f7e68b",
         "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
         "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
-        "description": "The startup analyzes calls, messages and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
+        "description": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
         "published": "Wed, 29 Jul 2026 14:41:06 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
@@ -1522,16 +1536,32 @@
         "is_new": false
       },
       {
-        "id": "255e648232d1e6e31e17647e6861c73f",
-        "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
-        "url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
-        "description": "After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase.",
-        "published": "Mon, 27 Jul 2026 15:01:50 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
+        "id": "49099891",
+        "title": "Show HN: MandoCode Desktop – Native Windows AI Coding Assistant on Ollama .NET",
+        "url": "https://github.com/DevMando/MandoCode.Desktop",
+        "description": "",
+        "published": "2026-07-29T16:48:12Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
         "category": "news",
-        "is_new": false
+        "points": 1,
+        "comments": 1,
+        "is_new": true
+      },
+      {
+        "id": "49099143",
+        "title": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
+        "url": "https://usetokenless.com/",
+        "description": "",
+        "published": "2026-07-29T15:55:27Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 27,
+        "comments": 24,
+        "is_new": true
       },
       {
         "id": "49096519",
@@ -1543,8 +1573,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 2,
-        "comments": 0,
+        "points": 3,
+        "comments": 1,
         "is_new": false
       },
       {
@@ -1569,7 +1599,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 1,
+        "points": 2,
         "comments": 0,
         "is_new": false
       },
@@ -1635,32 +1665,6 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "731f01c1c0e3d8ce8e2d8b20d1c68452",
-        "title": "Artists are lawyering up against AI slop, and some are even winning",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
-        "description": "When The Atlantic published a searchable dataset of works used to train AI, Kirk Wallace Johnson, like a lot of artists, looked for his name out of curiosity. And, like a lot of artists, he found it.",
-        "published": "2026-07-28T16:19:25-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "49085503",
-        "title": "Show HN: Flashpaper – Self-destructing secret sharing with no database",
-        "url": "https://flashpaper.app/",
-        "description": "",
-        "published": "2026-07-28T15:36:35Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 25,
-        "comments": 11,
         "is_new": false
       }
     ],
