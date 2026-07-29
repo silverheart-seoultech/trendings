@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-29T19:25:08.078173+00:00",
+  "last_updated": "2026-07-29T19:39:48.967461+00:00",
   "total_entries": 110,
-  "new_entries": 11,
+  "new_entries": 1,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -57,7 +57,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "c037c1f2be4b8b92d4880a94256bc8ab",
@@ -69,7 +69,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "5de17107a6764aac1bede7df66f7e68b",
@@ -81,7 +81,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "0fa1628d1c41cbaef01de5accdfefda8",
@@ -779,7 +779,7 @@
       "category": "news",
       "points": 1,
       "comments": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "49099143",
@@ -792,8 +792,8 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 38,
-      "comments": 37,
-      "is_new": true
+      "comments": 36,
+      "is_new": false
     },
     {
       "id": "68c8dce4daf83e4ffab413e91752c1b3",
@@ -805,7 +805,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "49096519",
@@ -1040,7 +1040,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "2cdad58bf0c15138dacff6f97413da0c",
@@ -1065,7 +1065,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -1147,19 +1147,6 @@
       "is_new": false
     },
     {
-      "id": "cbcae08cbb1480203d8e371c409468c3",
-      "title": "HiFi-UMI: Learning Deployable Manipulation Policies from High-Fidelity UMI Data Alone",
-      "url": "https://huggingface.co/papers/2607.25895",
-      "description": "Learning deployable manipulation policies is bottlenecked by the scarcity of data that is both high-fidelity and scalable. Real-robot teleoperation is accurate but costly to scale; robot-free UMI capt",
-      "published": "2026-07-27T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 125,
-      "is_new": false
-    },
-    {
       "id": "49071834",
       "title": "Show HN: BixRouter – a non-linear AI chat interface for OpenRouter",
       "url": "https://router.bix.computer",
@@ -1238,7 +1225,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "a5861caf68bbc3ae44cc21a9415a021c",
@@ -1251,7 +1238,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "41418755900ae03edee827656942b0e6",
@@ -1291,6 +1278,19 @@
       "category": "research",
       "likes": 22,
       "is_new": false
+    },
+    {
+      "id": "cd99879c36c03565beb5fd18caeb5a39",
+      "title": "A New Role for Relevance: Guiding Corpus Interaction in Agentic Search",
+      "url": "https://huggingface.co/papers/2607.24223",
+      "description": "Relevance is a query-dependent estimate of whether a document or excerpt contains useful evidence. Existing retrieval agents use relevance to select top-k content, but document relevance alone cannot ",
+      "published": "2026-07-26T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 79,
+      "is_new": false
     }
   ],
   "by_category": {
@@ -1305,7 +1305,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "c037c1f2be4b8b92d4880a94256bc8ab",
@@ -1317,7 +1317,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "5de17107a6764aac1bede7df66f7e68b",
@@ -1329,7 +1329,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "0fa1628d1c41cbaef01de5accdfefda8",
@@ -1547,7 +1547,7 @@
         "category": "news",
         "points": 1,
         "comments": 2,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "49099143",
@@ -1560,8 +1560,8 @@
         "source_icon": "🟧",
         "category": "news",
         "points": 38,
-        "comments": 37,
-        "is_new": true
+        "comments": 36,
+        "is_new": false
       },
       {
         "id": "68c8dce4daf83e4ffab413e91752c1b3",
@@ -1573,7 +1573,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "49096519",
