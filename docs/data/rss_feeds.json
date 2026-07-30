@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-30T02:48:21.327418+00:00",
+  "last_updated": "2026-07-30T03:23:19.277965+00:00",
   "total_entries": 110,
-  "new_entries": 24,
+  "new_entries": 1,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -57,7 +57,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "feca2ec539e2a7daccfdb87e1ac8ea6b",
@@ -69,7 +69,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "c9945336eb04156b5d433b7b818cb3ca",
@@ -81,7 +81,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "0e31e3499c48aed633d480bb992619ae",
@@ -93,7 +93,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "7802d42c54c42673a7081740418be715",
@@ -105,7 +105,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "101b78fb3cd4957b579ff042e4283c72",
@@ -117,7 +117,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "b509c20461f2e36b0ae41563c54675b6",
@@ -765,7 +765,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "49104392",
@@ -777,9 +777,9 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 3,
-      "comments": 0,
-      "is_new": true
+      "points": 5,
+      "comments": 1,
+      "is_new": false
     },
     {
       "id": "2aaefae5d079feec74d97d38080ca53a",
@@ -791,7 +791,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "169a6f9c3953f19a4f2240c0a2a1cef3",
@@ -803,7 +803,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "89095267772b9aed66abf57275ebe1ce",
@@ -815,7 +815,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "49099891",
@@ -854,7 +854,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 53,
-      "comments": 47,
+      "comments": 48,
       "is_new": false
     },
     {
@@ -919,8 +919,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
-      "is_new": true
+      "likes": 3,
+      "is_new": false
     },
     {
       "id": "44a3f730ecaa8e9db912a5c424b7012e",
@@ -933,7 +933,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "cacd7b499b755a00614a158e9a25dc56",
@@ -945,8 +945,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
-      "is_new": true
+      "likes": 17,
+      "is_new": false
     },
     {
       "id": "ac8776ccc199e36864b35f3ad06b9dab",
@@ -958,8 +958,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
-      "is_new": true
+      "likes": 6,
+      "is_new": false
     },
     {
       "id": "24bcc75f19086bf9073fbf6cb82aba01",
@@ -1066,6 +1066,19 @@
       "is_new": false
     },
     {
+      "id": "906eb9f7761b0db9d1ddbf696e74f08b",
+      "title": "DecoEvo: Score-Decoupled Co-Evolution of Solver and Rubric-Generator Skills in Text Space",
+      "url": "https://huggingface.co/papers/2607.25675",
+      "description": "Text-space optimization adapts large language models (LLMs) by editing external natural-language artifacts rather than model weights, so the optimized artifacts remain inspectable and the model can be",
+      "published": "2026-07-27T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 9,
+      "is_new": true
+    },
+    {
       "id": "237584452c2351c178a71a8b7a6f6bec",
       "title": "CAST: Game Solvers as Turn-Level Teachers for LLM Agents",
       "url": "https://huggingface.co/papers/2607.25308",
@@ -1075,8 +1088,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
-      "is_new": true
+      "likes": 7,
+      "is_new": false
     },
     {
       "id": "f4cfa457c2da54428fc5c3d4afd2ff09",
@@ -1088,8 +1101,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
-      "is_new": true
+      "likes": 1,
+      "is_new": false
     },
     {
       "id": "c2411671652669d66d9b31c609934313",
@@ -1101,8 +1114,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
-      "is_new": true
+      "likes": 1,
+      "is_new": false
     },
     {
       "id": "46444edb1fcb0e856ad754bdcf3bdb17",
@@ -1114,8 +1127,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
-      "is_new": true
+      "likes": 2,
+      "is_new": false
     },
     {
       "id": "b2ab31d8c67ecbfdeb959d3d8684ce0c",
@@ -1127,8 +1140,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
-      "is_new": true
+      "likes": 2,
+      "is_new": false
     },
     {
       "id": "6b0eb1a6d310cd015240033759518edf",
@@ -1140,7 +1153,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
+      "likes": 8,
       "is_new": false
     },
     {
@@ -1153,20 +1166,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 56,
-      "is_new": false
-    },
-    {
-      "id": "5c6680f24011353a86957a68680eecc4",
-      "title": "VisualPatchWorld: Code World Models as Latent Structured Representations for Planning",
-      "url": "https://huggingface.co/papers/2607.25236",
-      "description": "Different research lines use the term world model in different ways, yet they share a common aim: to capture how the world evolves under action in a form that supports perception, simulation, and plan",
-      "published": "2026-07-27T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
+      "likes": 61,
       "is_new": false
     },
     {
@@ -1235,7 +1235,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 1,
       "is_new": false
     },
     {
@@ -1304,7 +1304,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "feca2ec539e2a7daccfdb87e1ac8ea6b",
@@ -1316,7 +1316,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "c9945336eb04156b5d433b7b818cb3ca",
@@ -1328,7 +1328,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "0e31e3499c48aed633d480bb992619ae",
@@ -1340,7 +1340,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "7802d42c54c42673a7081740418be715",
@@ -1352,7 +1352,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "101b78fb3cd4957b579ff042e4283c72",
@@ -1364,7 +1364,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "b509c20461f2e36b0ae41563c54675b6",
@@ -1532,7 +1532,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "49104392",
@@ -1544,9 +1544,9 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 3,
-        "comments": 0,
-        "is_new": true
+        "points": 5,
+        "comments": 1,
+        "is_new": false
       },
       {
         "id": "2aaefae5d079feec74d97d38080ca53a",
@@ -1558,7 +1558,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "169a6f9c3953f19a4f2240c0a2a1cef3",
@@ -1570,7 +1570,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "89095267772b9aed66abf57275ebe1ce",
@@ -1582,7 +1582,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "49099891",
@@ -1621,7 +1621,7 @@
         "source_icon": "🟧",
         "category": "news",
         "points": 53,
-        "comments": 47,
+        "comments": 48,
         "is_new": false
       },
       {
