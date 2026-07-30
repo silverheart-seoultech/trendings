@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-30T16:45:18.267529+00:00",
+  "last_updated": "2026-07-30T18:41:54.903515+00:00",
   "total_entries": 110,
-  "new_entries": 7,
+  "new_entries": 15,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -180,16 +180,16 @@
       "is_new": false
     },
     {
-      "id": "2853fe7b4466c2b7fc6c99226ee278aa",
-      "title": "Bot-detection startup Spur nabs $200M from Insight",
-      "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
-      "description": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
-      "published": "Tue, 28 Jul 2026 21:29:34 +0000",
+      "id": "dc18fde4e6bc6553da96d68aa927b7c2",
+      "title": "LinkedIn adds a button to report AI-generated ‘slop’",
+      "url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
+      "description": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool.",
+      "published": "Thu, 30 Jul 2026 18:05:21 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "9327b8297589ff6a44643603225b52ed",
@@ -768,6 +768,20 @@
       "is_new": false
     },
     {
+      "id": "49113543",
+      "title": "Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents",
+      "url": "https://github.com/yashmahajan10/llm-differential-privacy-gateway",
+      "description": "",
+      "published": "2026-07-30T18:08:48Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "49112195",
       "title": "Show HN: Tuneloop – a local CLI for analyzing coding agent session transcripts",
       "url": "https://github.com/tuneloop/tuneloop",
@@ -777,7 +791,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 4,
+      "points": 5,
       "comments": 0,
       "is_new": true
     },
@@ -785,8 +799,20 @@
       "id": "db87833c9794161576b8e5b637c6f87e",
       "title": "Friend re-launches its AI pendant with a speaker that talks to you, for twice the price",
       "url": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
-      "description": "Do you remember Friend? The Friend that launched an AI pendant, spent $1.8 million of its $2.5 million to acquire friend.com, and plastered the NYC subway with ads promoting artificial companionship?",
-      "published": "2026-07-30T12:33:32-04:00",
+      "description": "Do you remember Friend? The Friend that launched an AI pendant, spent $1.8 million of its $2.5 million in funding to acquire friend.com, and plastered the NYC subway with ads promoting artificial comp",
+      "published": "2026-07-30T14:35:41-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "6859a1dfdf57431eb2a111e07a2f281a",
+      "title": "Google DeepMind’s new AI model can control a robot’s entire body",
+      "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+      "description": "Google DeepMind says the latest version of its Gemini Robotics AI model can \"control entire humanoid robots.\" While the previous model focused on controlling a humanoid robot's upper body, Gemini Robo",
+      "published": "2026-07-30T13:18:45-04:00",
       "source_id": "theverge-ai",
       "source_name": "The Verge AI",
       "source_icon": "📰",
@@ -803,7 +829,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 6,
+      "points": 8,
       "comments": 1,
       "is_new": false
     },
@@ -936,6 +962,58 @@
       "is_new": false
     },
     {
+      "id": "f583ab22f81029cbec31ee0bee13a2fa",
+      "title": "SpecFirst: Behavioral Specification Elicitation as a First-Class Step in Agent-Based Program Synthesis from Scratch",
+      "url": "https://huggingface.co/papers/2607.27167",
+      "description": "LLM-based agents excel at software engineering tasks where an existing codebase provides context, but constructing a program from scratch remains fundamentally harder. Recent benchmarks such as Progra",
+      "published": "2026-07-28T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 14,
+      "is_new": true
+    },
+    {
+      "id": "be648647e9e2bbf20746f0413ece2f62",
+      "title": "MindForge: Teaching Small Language Models Whole-Life-Cycle Software Engineering via Source-Free Program Synthesis",
+      "url": "https://huggingface.co/papers/2607.27146",
+      "description": "Coding agents have made substantial progress on software engineering tasks that modify existing codebases, including bug fixing and feature implementation. However, constructing a complete program fro",
+      "published": "2026-07-28T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 17,
+      "is_new": true
+    },
+    {
+      "id": "9fe4b94be27c61716efa419d8e15bc1c",
+      "title": "DistillAlign: Coordinating Mode Covering and Mode Seeking in Autoregressive Video Distillation",
+      "url": "https://huggingface.co/papers/2607.26811",
+      "description": "Existing autoregressive video distillation methods commonly adopt a Distribution Matching Distillation (DMD)-based multi-stage pipeline. However, they typically decouple the initialization and DMD sta",
+      "published": "2026-07-28T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "3eb2c59ad40969378b6570dc9ff41c37",
+      "title": "Voice Memory for Agentic Speech Recognition",
+      "url": "https://huggingface.co/papers/2607.26410",
+      "description": "We present Voice Memory, a inference-only scheme for agentic speech recognition: at stream time, a frozen corrector reads a single per-domain memory.md and decides per utterance whether to act on the ",
+      "published": "2026-07-28T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 5,
+      "is_new": true
+    },
+    {
       "id": "613c9b1ad3c376b2c15487876c9bef6b",
       "title": "StatePlay: State-Aware Game World Models for Mechanics-Consistent Generation",
       "url": "https://huggingface.co/papers/2607.26754",
@@ -997,7 +1075,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 10,
       "is_new": false
     },
     {
@@ -1010,7 +1088,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 117,
+      "likes": 118,
       "is_new": false
     },
     {
@@ -1023,19 +1101,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 64,
-      "is_new": false
-    },
-    {
-      "id": "24bcc75f19086bf9073fbf6cb82aba01",
-      "title": "AI’s finally expensive enough to make Wall Street nervous",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
-      "description": "It's earnings season, and investors got an unpleasant surprise from Google: an increase on its spending estimate, to as much as $205 billion - from the last quarter's projection of up to $190 billion.",
-      "published": "2026-07-28T19:37:03-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
+      "likes": 65,
       "is_new": false
     },
     {
@@ -1114,9 +1180,22 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 113,
+      "points": 114,
       "comments": 48,
       "is_new": false
+    },
+    {
+      "id": "4706085e0419a87c37cc3e32df7cc741",
+      "title": "πR^2: Reactive Real-time Flow Policies",
+      "url": "https://huggingface.co/papers/2607.26055",
+      "description": "Generalist manipulation policies increasingly take the form of action-chunking flow policies built on large pretrained backbones. Such chunks run open-loop, so the policy cannot react to sensory input",
+      "published": "2026-07-27T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
     },
     {
       "id": "30220b757ae15dcabad0f2a000247e8c",
@@ -1154,7 +1233,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 72,
+      "likes": 73,
       "is_new": false
     },
     {
@@ -1167,7 +1246,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 53,
+      "likes": 54,
       "is_new": false
     },
     {
@@ -1197,92 +1276,11 @@
       "is_new": false
     },
     {
-      "id": "c2411671652669d66d9b31c609934313",
-      "title": "GPT-Red: Automated Red Teaming via Self-Play at Scale",
-      "url": "https://huggingface.co/papers/2607.26115",
-      "description": "We introduce GPT-Red, an automated red-teaming agent that is trained to discover novel prompt injection attacks against frontier LLMs. The goal of this model is to evaluate and improve the robustness ",
-      "published": "2026-07-27T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
-      "is_new": false
-    },
-    {
-      "id": "46444edb1fcb0e856ad754bdcf3bdb17",
-      "title": "Explicit Layer Modeling for Video Object Insertion and Layer Decomposition",
-      "url": "https://huggingface.co/papers/2607.25802",
-      "description": "Most video editing systems still lack explicit layered video representations, limiting their ability to perform realistic compositing, object reuse, and consistent manipulation. This limitation is esp",
-      "published": "2026-07-27T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 5,
-      "is_new": false
-    },
-    {
-      "id": "b2ab31d8c67ecbfdeb959d3d8684ce0c",
-      "title": "Human-in-the-Loop Signature Bootstrapping for UAV Hyperspectral PFM-1 Mine Detection",
-      "url": "https://huggingface.co/papers/2607.25310",
-      "description": "Hyperspectral imaging (HSI) is useful for material discrimination, but operational mine screening also depends on how many false alarms must be inspected before targets are found. This paper studies P",
-      "published": "2026-07-27T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
       "id": "49071834",
       "title": "Show HN: BixRouter – a non-linear AI chat interface for OpenRouter",
       "url": "https://router.bix.computer",
       "description": "",
       "published": "2026-07-27T16:21:28Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "49068698",
-      "title": "Show HN: Case study: A coding agent refactors a 750k LOC app, no code review",
-      "url": "https://news.ycombinator.com/item?id=49068698",
-      "description": "",
-      "published": "2026-07-27T12:28:35Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 6,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "49068241",
-      "title": "AI PR reviewer is looking at the diff, not the intent",
-      "url": "https://news.ycombinator.com/item?id=49068241",
-      "description": "",
-      "published": "2026-07-27T11:51:40Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 1,
-      "is_new": false
-    },
-    {
-      "id": "49063031",
-      "title": "Show HN: GG Translator – Turn gaming shit talk into friendly phrases",
-      "url": "https://ggtranslator.com",
-      "description": "",
-      "published": "2026-07-26T22:23:01Z",
       "source_id": "hn-ai",
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
@@ -1427,16 +1425,16 @@
         "is_new": false
       },
       {
-        "id": "2853fe7b4466c2b7fc6c99226ee278aa",
-        "title": "Bot-detection startup Spur nabs $200M from Insight",
-        "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
-        "description": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
-        "published": "Tue, 28 Jul 2026 21:29:34 +0000",
+        "id": "dc18fde4e6bc6553da96d68aa927b7c2",
+        "title": "LinkedIn adds a button to report AI-generated ‘slop’",
+        "url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
+        "description": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool.",
+        "published": "Thu, 30 Jul 2026 18:05:21 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
+        "is_new": true
       },
       {
         "id": "9327b8297589ff6a44643603225b52ed",
@@ -1535,6 +1533,20 @@
         "is_new": false
       },
       {
+        "id": "49113543",
+        "title": "Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents",
+        "url": "https://github.com/yashmahajan10/llm-differential-privacy-gateway",
+        "description": "",
+        "published": "2026-07-30T18:08:48Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 2,
+        "comments": 0,
+        "is_new": true
+      },
+      {
         "id": "49112195",
         "title": "Show HN: Tuneloop – a local CLI for analyzing coding agent session transcripts",
         "url": "https://github.com/tuneloop/tuneloop",
@@ -1544,7 +1556,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 4,
+        "points": 5,
         "comments": 0,
         "is_new": true
       },
@@ -1552,8 +1564,20 @@
         "id": "db87833c9794161576b8e5b637c6f87e",
         "title": "Friend re-launches its AI pendant with a speaker that talks to you, for twice the price",
         "url": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
-        "description": "Do you remember Friend? The Friend that launched an AI pendant, spent $1.8 million of its $2.5 million to acquire friend.com, and plastered the NYC subway with ads promoting artificial companionship?",
-        "published": "2026-07-30T12:33:32-04:00",
+        "description": "Do you remember Friend? The Friend that launched an AI pendant, spent $1.8 million of its $2.5 million in funding to acquire friend.com, and plastered the NYC subway with ads promoting artificial comp",
+        "published": "2026-07-30T14:35:41-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "6859a1dfdf57431eb2a111e07a2f281a",
+        "title": "Google DeepMind’s new AI model can control a robot’s entire body",
+        "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+        "description": "Google DeepMind says the latest version of its Gemini Robotics AI model can \"control entire humanoid robots.\" While the previous model focused on controlling a humanoid robot's upper body, Gemini Robo",
+        "published": "2026-07-30T13:18:45-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
@@ -1570,7 +1594,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 6,
+        "points": 8,
         "comments": 1,
         "is_new": false
       },
@@ -1630,32 +1654,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
         "description": "Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the systems in a sandboxed environment without an internet",
         "published": "2026-07-29T16:30:07-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "49099143",
-        "title": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
-        "url": "https://usetokenless.com/",
-        "description": "",
-        "published": "2026-07-29T15:55:27Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 69,
-        "comments": 57,
-        "is_new": false
-      },
-      {
-        "id": "68c8dce4daf83e4ffab413e91752c1b3",
-        "title": "OpenAI president says it&#8217;s &#8216;building a family of devices&#8217; for its AI chatbots",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
-        "description": "In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a \"family of devices\" for interacting with its AI models. However, Br",
-        "published": "2026-07-29T14:19:30-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
