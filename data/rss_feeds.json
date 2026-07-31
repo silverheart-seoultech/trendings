@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-31T12:13:49.836275+00:00",
+  "last_updated": "2026-07-31T14:21:30.192769+00:00",
   "total_entries": 110,
-  "new_entries": 3,
+  "new_entries": 6,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,6 +768,18 @@
       "is_new": false
     },
     {
+      "id": "fa6e1e31c112dba8960a9d8e56befbdf",
+      "title": "Anthropic says Claude accidentally hacked real companies too",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
+      "description": "Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticing. The revelation co",
+      "published": "2026-07-31T09:41:17-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "49120039",
       "title": "Show HN: Slaide, open-source Markdown slides AI writes and PowerPoint opens",
       "url": "https://getslaide.com/",
@@ -803,8 +815,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 73,
-      "comments": 44,
+      "points": 78,
+      "comments": 47,
       "is_new": false
     },
     {
@@ -921,9 +933,35 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 8,
+      "points": 9,
       "comments": 2,
       "is_new": false
+    },
+    {
+      "id": "0a962b298350bd4d79cfa1db181be7f0",
+      "title": "β-OPSD: Deriving with Policy Optimization, Training with Self-Distillation",
+      "url": "https://huggingface.co/papers/2607.28582",
+      "description": "On-policy self-distillation (OPSD) is a promising approach to improve reasoning language models, but it remains brittle in practice: making it work reliably often requires substantial engineering effo",
+      "published": "2026-07-29T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "66bd8401f9653244851f95a7ab2fc60b",
+      "title": "Beyond Geometric Complementarity: Coherent Overlap in Sparse Mixture-of-Experts Routing",
+      "url": "https://huggingface.co/papers/2607.28308",
+      "description": "Sparse mixture-of-experts (MoE) language models route each token to multiple experts, suggesting a geometric account of their benefit: co-selected experts should contribute distinct representation dir",
+      "published": "2026-07-29T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
     },
     {
       "id": "e806f1ff7aab3cfef2d13f0111c1d2a1",
@@ -948,7 +986,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 5,
       "is_new": true
     },
     {
@@ -987,7 +1025,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 28,
+      "likes": 29,
       "is_new": false
     },
     {
@@ -1000,7 +1038,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 34,
+      "likes": 35,
       "is_new": false
     },
     {
@@ -1026,33 +1064,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 40,
-      "is_new": false
-    },
-    {
-      "id": "87d38cfe12ceb4aa72d9a407430dfca5",
-      "title": "Qwen-UI-Agent Technical Report: Toward Next-Generation Real-World Centric Foundation GUI Agents",
-      "url": "https://huggingface.co/papers/2607.28227",
-      "description": "GUI agents have the potential to become a general purpose executor over existing digital devices. To advance them toward real-world use, we envision agents that operate reliably on real devices, execu",
-      "published": "2026-07-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 167,
-      "is_new": false
-    },
-    {
-      "id": "926f673864a10744a6ccd08c06aed7f3",
-      "title": "RefCaptioner: Multi-Reference Image-Grounded Video Captioning",
-      "url": "https://huggingface.co/papers/2607.28509",
-      "description": "Existing video captioning models generate natural descriptions of video content but cannot explicitly ground local visual elements to multiple reference images. We introduce multi-reference image-grou",
-      "published": "2026-07-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 21,
+      "likes": 43,
       "is_new": false
     },
     {
@@ -1169,7 +1181,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 16,
+      "likes": 17,
       "is_new": true
     },
     {
@@ -1182,7 +1194,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -1223,18 +1235,6 @@
       "category": "news",
       "points": 4,
       "comments": 7,
-      "is_new": false
-    },
-    {
-      "id": "731f01c1c0e3d8ce8e2d8b20d1c68452",
-      "title": "Artists are lawyering up against AI slop, and some are even winning",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
-      "description": "When The Atlantic published a searchable dataset of works used to train AI, Kirk Wallace Johnson, like a lot of artists, looked for his name out of curiosity. And, like a lot of artists, he found it.",
-      "published": "2026-07-28T16:19:25-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
       "is_new": false
     },
     {
@@ -1536,6 +1536,18 @@
         "is_new": false
       },
       {
+        "id": "fa6e1e31c112dba8960a9d8e56befbdf",
+        "title": "Anthropic says Claude accidentally hacked real companies too",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
+        "description": "Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticing. The revelation co",
+        "published": "2026-07-31T09:41:17-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "49120039",
         "title": "Show HN: Slaide, open-source Markdown slides AI writes and PowerPoint opens",
         "url": "https://getslaide.com/",
@@ -1571,8 +1583,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 73,
-        "comments": 44,
+        "points": 78,
+        "comments": 47,
         "is_new": false
       },
       {
@@ -1653,18 +1665,6 @@
         "category": "news",
         "points": 5,
         "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "db87833c9794161576b8e5b637c6f87e",
-        "title": "Friend re-launches its AI pendant with a speaker that talks to you, for twice the price",
-        "url": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
-        "description": "Do you remember Friend? The Friend that launched an AI pendant, spent $1.8 million of its $2.5 million in funding to acquire friend.com, and plastered the NYC subway with ads promoting artificial comp",
-        "published": "2026-07-30T14:35:41-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
         "is_new": false
       }
     ],
