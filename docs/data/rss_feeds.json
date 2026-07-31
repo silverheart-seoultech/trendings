@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-31T14:21:30.192769+00:00",
+  "last_updated": "2026-07-31T14:34:15.243306+00:00",
   "total_entries": 110,
-  "new_entries": 6,
+  "new_entries": 1,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,6 +768,18 @@
       "is_new": false
     },
     {
+      "id": "c898bed1eb8166b65e0d995db52cece8",
+      "title": "It’s time to panic about AI safety",
+      "url": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
+      "description": "When the phrase \"OpenAI hacked Hugging Face\" has more or less entered mainstream culture, you know we have an AI problem. This week, we learned more about exactly how OpenAI's agent broke out of a san",
+      "published": "2026-07-31T10:31:18-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "fa6e1e31c112dba8960a9d8e56befbdf",
       "title": "Anthropic says Claude accidentally hacked real companies too",
       "url": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
@@ -777,7 +789,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "49120039",
@@ -947,8 +959,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
-      "is_new": true
+      "likes": 2,
+      "is_new": false
     },
     {
       "id": "66bd8401f9653244851f95a7ab2fc60b",
@@ -961,7 +973,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "e806f1ff7aab3cfef2d13f0111c1d2a1",
@@ -974,7 +986,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "eb8ef36d8b0655bd5bf96237392b7f51",
@@ -987,7 +999,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "9c102fa68381f11b371ac557db1b93ca",
@@ -1051,7 +1063,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 11,
+      "likes": 12,
       "is_new": false
     },
     {
@@ -1132,18 +1144,6 @@
       "is_new": false
     },
     {
-      "id": "68c8dce4daf83e4ffab413e91752c1b3",
-      "title": "OpenAI president says it&#8217;s &#8216;building a family of devices&#8217; for its AI chatbots",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
-      "description": "In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a \"family of devices\" for interacting with its AI models. However, Br",
-      "published": "2026-07-29T14:19:30-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "49096519",
       "title": "Fund Momentum MCP: Live VC Fund Data for AI Agents",
       "url": "https://news.ycombinator.com/item?id=49096519",
@@ -1181,8 +1181,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 17,
-      "is_new": true
+      "likes": 18,
+      "is_new": false
     },
     {
       "id": "49ccb0b15a071a33660990bc835c0899",
@@ -1536,6 +1536,18 @@
         "is_new": false
       },
       {
+        "id": "c898bed1eb8166b65e0d995db52cece8",
+        "title": "It’s time to panic about AI safety",
+        "url": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
+        "description": "When the phrase \"OpenAI hacked Hugging Face\" has more or less entered mainstream culture, you know we have an AI problem. This week, we learned more about exactly how OpenAI's agent broke out of a san",
+        "published": "2026-07-31T10:31:18-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "fa6e1e31c112dba8960a9d8e56befbdf",
         "title": "Anthropic says Claude accidentally hacked real companies too",
         "url": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
@@ -1545,7 +1557,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "49120039",
@@ -1650,20 +1662,6 @@
         "source_icon": "🟧",
         "category": "news",
         "points": 17,
-        "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "49112195",
-        "title": "Show HN: Tuneloop – a local CLI for analyzing coding agent session transcripts",
-        "url": "https://github.com/tuneloop/tuneloop",
-        "description": "",
-        "published": "2026-07-30T16:23:34Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 5,
         "comments": 0,
         "is_new": false
       }
