@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-31T03:30:54.914226+00:00",
+  "last_updated": "2026-07-31T03:48:20.434826+00:00",
   "total_entries": 110,
-  "new_entries": 27,
+  "new_entries": 5,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -105,7 +105,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "93cb0df58a6ec7c80d16ed160cb1da3d",
@@ -117,7 +117,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "01023a47e3394a269b6247b623860667",
@@ -129,7 +129,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "358552aaff9aa3c45e18f8fcc8605740",
@@ -141,7 +141,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "b02910e8741963d2c58e6fac790c2b51",
@@ -153,7 +153,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "f41c7307b77762a60bcbe4833fe121fc",
@@ -765,7 +765,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "49116411",
@@ -779,7 +779,7 @@
       "category": "news",
       "points": 2,
       "comments": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "6d58fc6439c45980bf4d138ea881c55a",
@@ -791,7 +791,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "0d730ddf13850ea069e7e596fc2569d7",
@@ -815,7 +815,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "49113543",
@@ -884,6 +884,58 @@
       "is_new": false
     },
     {
+      "id": "1f251785065b8af2b2ecf7b57e801f0c",
+      "title": "Beyond Borrowed Histories: Person-Aligned User Simulation for Interactive Role-Playing Evaluation",
+      "url": "https://huggingface.co/papers/2607.27816",
+      "description": "Role-playing agents (RPAs) have become one of the most important consumer applications of large language models. Users engage in multi-turn conversations with RPAs for experiences such as emotional co",
+      "published": "2026-07-29T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 11,
+      "is_new": true
+    },
+    {
+      "id": "9df7191441c6e34efd6a1d6106c8227f",
+      "title": "MPIE-Bench: Benchmarking Anatomically Plausible Multi-Person Interaction Editing",
+      "url": "https://huggingface.co/papers/2607.27616",
+      "description": "Text-to-image and personalized editing models now synthesize high-fidelity single-subject images with ease. Yet placing multiple named people into shared contact actions such as embrace, carry, or gra",
+      "published": "2026-07-29T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 11,
+      "is_new": true
+    },
+    {
+      "id": "efa327673e0d6ebbd417ee1ca9c6fac9",
+      "title": "Can Large Language Models Execute Parent Orders?",
+      "url": "https://huggingface.co/papers/2607.28410",
+      "description": "Parent-order execution is a core problem in algorithmic trading, where the goal is to split a large order into smaller orders while reducing execution costs. Existing approaches either rely on pre-spe",
+      "published": "2026-07-29T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 5,
+      "is_new": true
+    },
+    {
+      "id": "6dcded0a0454f3af26d8887a05056abe",
+      "title": "Memory Decoder at Scale: A Pretrained, Parametric Long-Term Memory",
+      "url": "https://huggingface.co/papers/2607.27919",
+      "description": "Decoder-only language models entangle long-term memory and reasoning in a single parameter set, making it difficult to scale memory capacity independently. Memory Decoder introduces a parametric long-",
+      "published": "2026-07-29T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
       "id": "87d38cfe12ceb4aa72d9a407430dfca5",
       "title": "Qwen-UI-Agent Technical Report: Toward Next-Generation Real-World Centric Foundation GUI Agents",
       "url": "https://huggingface.co/papers/2607.28227",
@@ -893,8 +945,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
-      "is_new": true
+      "likes": 13,
+      "is_new": false
     },
     {
       "id": "926f673864a10744a6ccd08c06aed7f3",
@@ -906,8 +958,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
-      "is_new": true
+      "likes": 12,
+      "is_new": false
     },
     {
       "id": "272889f467cdc103ec122e964a322118",
@@ -919,8 +971,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 16,
-      "is_new": true
+      "likes": 25,
+      "is_new": false
     },
     {
       "id": "bc27a1391e7ab9c4b006154f59560960",
@@ -932,8 +984,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 10,
-      "is_new": true
+      "likes": 15,
+      "is_new": false
     },
     {
       "id": "e3822973166e4392c5b659c09df62133",
@@ -946,7 +998,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 21,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "7e41cd8dcc425103aa3bfb44fb2557df",
@@ -959,7 +1011,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "eacc6e73b0378af426fe104a08117933",
@@ -971,8 +1023,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
-      "is_new": true
+      "likes": 2,
+      "is_new": false
     },
     {
       "id": "6c170666124a132ee0d568cf0a5111f0",
@@ -985,7 +1037,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 24,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3210e018201d5e5bf3ef67e0fefa2d1d",
@@ -998,7 +1050,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "091bf1cf6b127e14e0e7a3057db0712a",
@@ -1011,7 +1063,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "ca6ac570481ca00f71bdb4ffb1f160ee",
@@ -1023,8 +1075,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
-      "is_new": true
+      "likes": 1,
+      "is_new": false
     },
     {
       "id": "7711e4ea4f30b28bd81da59a7ba339fe",
@@ -1036,8 +1088,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
-      "is_new": true
+      "likes": 8,
+      "is_new": false
     },
     {
       "id": "a446640080a1bf83683a7a1cdc797044",
@@ -1049,34 +1101,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 23,
-      "is_new": true
-    },
-    {
-      "id": "4ac28dff562d2ed0dd6ba4fc6c6404b4",
-      "title": "MemHarness: Memory Is Reconstructed, Not Replayed",
-      "url": "https://huggingface.co/papers/2607.28272",
-      "description": "Retrieving past experiences has become a common strategy to enhance large language model agents. However, most existing memory-augmented agents treat retrieved experiences as static records to be repl",
-      "published": "2026-07-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 9,
-      "is_new": true
-    },
-    {
-      "id": "84e4dd8c96b420d78b92b9cc7f8a8746",
-      "title": "SpatialCLI: Learning to Reason With Spatial Tools, Then Without Them",
-      "url": "https://huggingface.co/papers/2607.27703",
-      "description": "Vision-language models (VLMs) are increasingly used in embodied agents to interpret visual inputs, reason about spatial relationships, and make task-level decisions based on that reasoning. However, a",
-      "published": "2026-07-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 17,
-      "is_new": true
+      "likes": 27,
+      "is_new": false
     },
     {
       "id": "2aaefae5d079feec74d97d38080ca53a",
@@ -1192,8 +1218,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 49,
-      "is_new": true
+      "likes": 52,
+      "is_new": false
     },
     {
       "id": "fa266f909d8793e63453873ca3eff7bc",
@@ -1205,46 +1231,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
-      "is_new": true
-    },
-    {
-      "id": "2fd361d5b9f00d68b7c8afa1ed6a4dc6",
-      "title": "OVEarth-Bench: Evaluating Category Breadth and Query Diversity for Open-Vocabulary Earth Observation",
-      "url": "https://huggingface.co/papers/2607.27278",
-      "description": "Open-vocabulary Earth observation (EO) aims to localize geospatial concepts specified in natural language rather than a fixed label set. Existing benchmarks, however, usually cover narrow category voc",
-      "published": "2026-07-28T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 5,
-      "is_new": true
-    },
-    {
-      "id": "f583ab22f81029cbec31ee0bee13a2fa",
-      "title": "SpecFirst: Behavioral Specification Elicitation as a First-Class Step in Agent-Based Program Synthesis from Scratch",
-      "url": "https://huggingface.co/papers/2607.27167",
-      "description": "LLM-based agents excel at software engineering tasks where an existing codebase provides context, but constructing a program from scratch remains fundamentally harder. Recent benchmarks such as Progra",
-      "published": "2026-07-28T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 16,
-      "is_new": false
-    },
-    {
-      "id": "be648647e9e2bbf20746f0413ece2f62",
-      "title": "MindForge: Teaching Small Language Models Whole-Life-Cycle Software Engineering via Source-Free Program Synthesis",
-      "url": "https://huggingface.co/papers/2607.27146",
-      "description": "Coding agents have made substantial progress on software engineering tasks that modify existing codebases, including bug fixing and feature implementation. However, constructing a complete program fro",
-      "published": "2026-07-28T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 19,
+      "likes": 10,
       "is_new": false
     },
     {
@@ -1285,6 +1272,20 @@
       "category": "news",
       "points": 25,
       "comments": 11,
+      "is_new": false
+    },
+    {
+      "id": "49084371",
+      "title": "Show HN: Tines 3B – safe workflow automation for when everyone builds software",
+      "url": "https://www.tines.com/",
+      "description": "",
+      "published": "2026-07-28T14:23:55Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 27,
+      "comments": 2,
       "is_new": false
     }
   ],
@@ -1348,7 +1349,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "93cb0df58a6ec7c80d16ed160cb1da3d",
@@ -1360,7 +1361,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "01023a47e3394a269b6247b623860667",
@@ -1372,7 +1373,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "358552aaff9aa3c45e18f8fcc8605740",
@@ -1384,7 +1385,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "b02910e8741963d2c58e6fac790c2b51",
@@ -1396,7 +1397,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "f41c7307b77762a60bcbe4833fe121fc",
@@ -1528,7 +1529,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "49116411",
@@ -1542,7 +1543,7 @@
         "category": "news",
         "points": 2,
         "comments": 0,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "6d58fc6439c45980bf4d138ea881c55a",
@@ -1554,7 +1555,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "0d730ddf13850ea069e7e596fc2569d7",
@@ -1578,7 +1579,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "49113543",
