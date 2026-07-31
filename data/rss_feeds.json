@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-31T06:52:35.952019+00:00",
+  "last_updated": "2026-07-31T08:57:02.508739+00:00",
   "total_entries": 110,
-  "new_entries": 33,
+  "new_entries": 38,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,6 +768,20 @@
       "is_new": true
     },
     {
+      "id": "49120039",
+      "title": "Show HN: Slaide, open-source Markdown slides AI writes and PowerPoint opens",
+      "url": "https://getslaide.com/",
+      "description": "",
+      "published": "2026-07-31T07:21:17Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "49119274",
       "title": "Show HN: What should the GUI for AI agents look like?",
       "url": "https://marbleos.com/demo",
@@ -777,8 +791,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 11,
-      "comments": 0,
+      "points": 43,
+      "comments": 23,
       "is_new": true
     },
     {
@@ -912,6 +926,19 @@
       "is_new": false
     },
     {
+      "id": "9c102fa68381f11b371ac557db1b93ca",
+      "title": "ShadowDancer: Teaching Video World Models Any Action by Learning Unified Dynamics Representations from a Video and Its Shadow",
+      "url": "https://huggingface.co/papers/2607.28362",
+      "description": "We present ShadowDancer, a novel approach to any-action, frame-level control of interactive video world models. The obstacle is representational: existing interfaces either encode an action loosely, l",
+      "published": "2026-07-29T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 15,
+      "is_new": true
+    },
+    {
       "id": "56970811d101deb51d4e7ec5d7caa0f6",
       "title": "LEDGERMIND: Provenance-Constrained Multimodal Agentic Reasoning with a Structured Evidence Ledger",
       "url": "https://huggingface.co/papers/2607.28374",
@@ -921,7 +948,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 9,
       "is_new": true
     },
     {
@@ -947,7 +974,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 32,
+      "likes": 34,
       "is_new": true
     },
     {
@@ -960,7 +987,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 10,
       "is_new": true
     },
     {
@@ -973,7 +1000,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 25,
+      "likes": 37,
       "is_new": true
     },
     {
@@ -986,7 +1013,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 22,
+      "likes": 55,
       "is_new": false
     },
     {
@@ -1012,7 +1039,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 37,
+      "likes": 39,
       "is_new": false
     },
     {
@@ -1025,7 +1052,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 35,
+      "likes": 36,
       "is_new": false
     },
     {
@@ -1038,59 +1065,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 25,
-      "is_new": false
-    },
-    {
-      "id": "7e41cd8dcc425103aa3bfb44fb2557df",
-      "title": "Harness-G: A Graph-Structured Harness for Search Agents",
-      "url": "https://huggingface.co/papers/2607.27652",
-      "description": "Reinforcement learning (RL) search agents commonly model retrieval as free-form natural-language query generation and optimize multi-turn interactions using final-answer rewards. Current studies mainl",
-      "published": "2026-07-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "eacc6e73b0378af426fe104a08117933",
-      "title": "Echoverse: Deep, Evolving Environments for Training Computer-Use Agents at Scale",
-      "url": "https://huggingface.co/papers/2607.28074",
-      "description": "Computer-use agents learn from what their actions change, so training one needs applications it can act on, break and reset. The applications that matter most are login-gated and stateful, so syntheti",
-      "published": "2026-07-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 5,
-      "is_new": false
-    },
-    {
-      "id": "6c170666124a132ee0d568cf0a5111f0",
-      "title": "AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis",
-      "url": "https://huggingface.co/papers/2607.28618",
-      "description": "Chemistry literature synthesis often requires assembling specific findings scattered across many publications, yet existing literature-search systems primarily return ranked document lists. As a resul",
-      "published": "2026-07-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 68,
-      "is_new": false
-    },
-    {
-      "id": "3210e018201d5e5bf3ef67e0fefa2d1d",
-      "title": "Frontis-MA1: Training an AI4AI Model towards Recursive Self-Improvement in Machine Learning Engineering",
-      "url": "https://huggingface.co/papers/2607.28568",
-      "description": "Recursive self-improvement (RSI) requires AI systems that improve the process of building AI (i.e., AI4AI); machine learning engineering (MLE) offers a concrete, executable testbed for studying this c",
-      "published": "2026-07-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 93,
+      "likes": 29,
       "is_new": false
     },
     {
@@ -1153,8 +1128,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 69,
-      "comments": 59,
+      "points": 70,
+      "comments": 60,
       "is_new": false
     },
     {
@@ -1198,6 +1173,19 @@
       "is_new": false
     },
     {
+      "id": "49ccb0b15a071a33660990bc835c0899",
+      "title": "Filesystem-Based Memory for LLM Agents: Organization, Evolution, and Sustainability",
+      "url": "https://huggingface.co/papers/2607.26637",
+      "description": "Deployed LLM agents increasingly keep their long-term memory as a filesystem: a directory tree of markdown files that the agent itself reads, writes, and reorganizes through generic file tools. Yet re",
+      "published": "2026-07-28T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
       "id": "966a47a23bd6256f1b44c4e269ea02a3",
       "title": "Explorative Modeling: Unlocking a Third Pretraining Axis and End-to-End Generation",
       "url": "https://huggingface.co/papers/2607.27372",
@@ -1207,7 +1195,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": true
     },
     {
@@ -1220,7 +1208,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": true
     },
     {
@@ -1290,6 +1278,19 @@
       "points": 114,
       "comments": 48,
       "is_new": false
+    },
+    {
+      "id": "19f5d2d1d9997c2e8499612ed529e338",
+      "title": "AMRD: Adaptive Multi-Teacher Relational Distillation for Lightweight Speech Emotion Recognition",
+      "url": "https://huggingface.co/papers/2607.25289",
+      "description": "On-device speech emotion recognition (SER) is critical for real-time applications, yet large self-supervised models that excel at SER are too costly for edge devices. Multi-teacher knowledge distillat",
+      "published": "2026-07-27T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
     }
   ],
   "by_category": {
@@ -1535,6 +1536,20 @@
         "is_new": false
       },
       {
+        "id": "49120039",
+        "title": "Show HN: Slaide, open-source Markdown slides AI writes and PowerPoint opens",
+        "url": "https://getslaide.com/",
+        "description": "",
+        "published": "2026-07-31T07:21:17Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 2,
+        "comments": 0,
+        "is_new": true
+      },
+      {
         "id": "49119274",
         "title": "Show HN: What should the GUI for AI agents look like?",
         "url": "https://marbleos.com/demo",
@@ -1544,8 +1559,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 11,
-        "comments": 0,
+        "points": 43,
+        "comments": 23,
         "is_new": true
       },
       {
@@ -1646,18 +1661,6 @@
         "url": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
         "description": "Do you remember Friend? The Friend that launched an AI pendant, spent $1.8 million of its $2.5 million in funding to acquire friend.com, and plastered the NYC subway with ads promoting artificial comp",
         "published": "2026-07-30T14:35:41-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "6859a1dfdf57431eb2a111e07a2f281a",
-        "title": "Google DeepMind’s new AI model can control a robot’s entire body",
-        "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
-        "description": "Google DeepMind says the latest version of its Gemini Robotics AI model can \"control entire humanoid robots.\" While the previous model focused on controlling a humanoid robot's upper body, Gemini Robo",
-        "published": "2026-07-30T13:18:45-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
