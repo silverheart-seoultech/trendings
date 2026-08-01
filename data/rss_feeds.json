@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-31T23:14:58.197194+00:00",
+  "last_updated": "2026-08-01T00:11:29.754753+00:00",
   "total_entries": 110,
-  "new_entries": 5,
+  "new_entries": 4,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -782,20 +782,6 @@
       "is_new": true
     },
     {
-      "id": "49128407",
-      "title": "All our Agents get computers, we pay for almost none",
-      "url": "https://construct.computer/blog/running-ai-agents-on-cloudflare-not-vms/",
-      "description": "",
-      "published": "2026-07-31T20:54:23Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 3,
-      "comments": 2,
-      "is_new": true
-    },
-    {
       "id": "69dd96f680d9a356b1f3b96b7de56d50",
       "title": "Here’s the problem with putting an AI image generator in Google Earth",
       "url": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
@@ -891,7 +877,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 102,
+      "points": 103,
       "comments": 63,
       "is_new": false
     },
@@ -1023,7 +1009,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 13,
+      "likes": 15,
       "is_new": false
     },
     {
@@ -1293,6 +1279,19 @@
       "points": 115,
       "comments": 49,
       "is_new": false
+    },
+    {
+      "id": "45600cd54ce0f452d1a1b7b5289ddc82",
+      "title": "OmniScope: Modality-Decoupled Token Compression for Omnimodal Large Language Models",
+      "url": "https://huggingface.co/papers/2607.23193",
+      "description": "Existing token compression methods for omnimodal large language models typically rely on one modality to determine what to retain in the other. We show that this assumption often breaks down: for the ",
+      "published": "2026-07-27T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": false
     }
   ],
   "by_category": {
@@ -1552,20 +1551,6 @@
         "is_new": true
       },
       {
-        "id": "49128407",
-        "title": "All our Agents get computers, we pay for almost none",
-        "url": "https://construct.computer/blog/running-ai-agents-on-cloudflare-not-vms/",
-        "description": "",
-        "published": "2026-07-31T20:54:23Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 3,
-        "comments": 2,
-        "is_new": true
-      },
-      {
         "id": "69dd96f680d9a356b1f3b96b7de56d50",
         "title": "Here’s the problem with putting an AI image generator in Google Earth",
         "url": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
@@ -1661,8 +1646,22 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 102,
+        "points": 103,
         "comments": 63,
+        "is_new": false
+      },
+      {
+        "id": "49119049",
+        "title": "Noisegate: A differential-privacy gateway for untrusted AI agents",
+        "url": "https://github.com/yashmahajan10/llm-differential-privacy-gateway",
+        "description": "",
+        "published": "2026-07-31T04:36:02Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 2,
+        "comments": 0,
         "is_new": false
       }
     ],
