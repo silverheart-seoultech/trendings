@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-02T22:07:05.863926+00:00",
+  "last_updated": "2026-08-02T23:07:45.758860+00:00",
   "total_entries": 70,
-  "new_entries": 3,
+  "new_entries": 4,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -286,6 +286,20 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "49149134",
+      "title": "Teaching an AI to know itself: Building a local LLM agent in D",
+      "url": "https://blog.dlang.org/2026/06/07/teaching-an-ai-to-know-itself-building-a-local-llm-agent-in-d/",
+      "description": "",
+      "published": "2026-08-02T22:36:31Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 0,
+      "is_new": true
     },
     {
       "id": "49148163",
@@ -882,20 +896,6 @@
       "is_new": false
     },
     {
-      "id": "49068241",
-      "title": "AI PR reviewer is looking at the diff, not the intent",
-      "url": "https://news.ycombinator.com/item?id=49068241",
-      "description": "",
-      "published": "2026-07-27T11:51:40Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 1,
-      "is_new": false
-    },
-    {
       "id": "4df06b1567a09564c20159205ed5ebdc",
       "title": "Is Deep Research Reliable? Misleading Knowledge Induces False Conclusions",
       "url": "https://huggingface.co/papers/2607.20891",
@@ -1191,6 +1191,20 @@
         "is_new": false
       },
       {
+        "id": "49149134",
+        "title": "Teaching an AI to know itself: Building a local LLM agent in D",
+        "url": "https://blog.dlang.org/2026/06/07/teaching-an-ai-to-know-itself-building-a-local-llm-agent-in-d/",
+        "description": "",
+        "published": "2026-08-02T22:36:31Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 1,
+        "comments": 0,
+        "is_new": true
+      },
+      {
         "id": "49148163",
         "title": "Show HN: Draco – A single-binary, self-hostable Firecrawl alternative in Rust",
         "url": "https://github.com/0xchasercat/draco/",
@@ -1296,18 +1310,6 @@
         "url": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
         "description": "When the phrase \"OpenAI hacked Hugging Face\" has more or less entered mainstream culture, you know we have an AI problem. This week, we learned more about exactly how OpenAI's agent broke out of a san",
         "published": "2026-07-31T10:31:18-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "fa6e1e31c112dba8960a9d8e56befbdf",
-        "title": "Anthropic says Claude accidentally hacked real companies too",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
-        "description": "Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticing. The revelation co",
-        "published": "2026-07-31T09:41:17-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
