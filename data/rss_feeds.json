@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-03T07:41:41.671553+00:00",
+  "last_updated": "2026-08-03T09:56:20.992588+00:00",
   "total_entries": 110,
-  "new_entries": 43,
+  "new_entries": 51,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,6 +768,30 @@
       "is_new": false
     },
     {
+      "id": "5bd2ff2f2cf8b07aecca793da670cb22",
+      "title": "Is this Billboard Hot 100 hit AI slop?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
+      "description": "Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track \"Rubberz,\" which has climbed to number 58 on the Billboard Ho",
+      "published": "2026-08-03T05:45:52-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": false
+    },
+    {
+      "id": "bbc62a8f12e049508763fe3b39209828",
+      "title": "Fender’s CEO seems to think your bandmates are just analog AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+      "description": "Fender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started mak",
+      "published": "2026-08-03T05:23:36-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": false
+    },
+    {
       "id": "49149134",
       "title": "Teaching an AI to know itself: Building a local LLM agent in D",
       "url": "https://blog.dlang.org/2026/06/07/teaching-an-ai-to-know-itself-building-a-local-llm-agent-in-d/",
@@ -777,7 +801,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 2,
+      "points": 3,
       "comments": 0,
       "is_new": false
     },
@@ -792,31 +816,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 11,
-      "comments": 5,
-      "is_new": false
-    },
-    {
-      "id": "bbc62a8f12e049508763fe3b39209828",
-      "title": "Fender’s CEO seems to think your bandmates are just analog AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
-      "description": "Fender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started mak",
-      "published": "2026-08-02T15:40:58-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "5bd2ff2f2cf8b07aecca793da670cb22",
-      "title": "Is this Billboard Hot 100 hit AI slop?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
-      "description": "Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track \"Rubberz,\" which has climbed to number 58 on the Billboard Ho",
-      "published": "2026-08-02T09:25:24-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
+      "comments": 6,
       "is_new": false
     },
     {
@@ -958,8 +958,21 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 5,
-      "comments": 2,
+      "comments": 3,
       "is_new": false
+    },
+    {
+      "id": "b7e424731e1d381be92b60972f59ef7d",
+      "title": "Toward Robust and 3D-Aware RGB-NIR Imaging in the Dark",
+      "url": "https://huggingface.co/papers/2607.29684",
+      "description": "Robust low-light imaging remains challenging for the community. Recent studies have explored fusing Near-Infrared (NIR) with noisy RGB to achieve improved enhancement, yet most methods depend on caref",
+      "published": "2026-07-30T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
     },
     {
       "id": "34cccc6423f26bb4b139169eff9b06a8",
@@ -1010,7 +1023,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 21,
+      "likes": 22,
       "is_new": false
     },
     {
@@ -1080,6 +1093,45 @@
       "is_new": false
     },
     {
+      "id": "3e33d95ef8c2c3e354565ad841143eae",
+      "title": "One Future, Every Robot: Label-Efficient Collective-State Prediction with Decentralized JEPA",
+      "url": "https://huggingface.co/papers/2607.28443",
+      "description": "Can every robot in a swarm predict the same future collective state from only local observations and bandwidth-limited messages? We formulate this as decentralized shared-state prediction and introduc",
+      "published": "2026-07-29T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
+      "id": "929b9e580fe5e43c5be9bc186de2d26b",
+      "title": "ODEWorld: A Continuous Predictive Architecture via Physical-Time Flow",
+      "url": "https://huggingface.co/papers/2607.27924",
+      "description": "In the physical world we inhabit, space and time are fundamentally continuous. However, existing machine learning paradigms for world modeling are largely confined to discrete-time prediction, thereby",
+      "published": "2026-07-29T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "4e119814e45e234dbf77e924e8aa2e1e",
+      "title": "Would You Walk to the Car Wash? Revealing the Salience Bias of Large Language Models in Commonsense Reasoning",
+      "url": "https://huggingface.co/papers/2607.28478",
+      "description": "As large language models (LLMs) continue to advance in complex reasoning tasks, they have learned to heavily prioritize explicit conditions provided in the input. However, in everyday commonsense reas",
+      "published": "2026-07-29T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "d0b844e3aae20f8f8a33660af55c9aeb",
       "title": "Safeguards Based on Copyable Context Cannot Provide Reliable Safety for LLMs",
       "url": "https://huggingface.co/papers/2607.27951",
@@ -1102,7 +1154,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 22,
+      "likes": 23,
       "is_new": false
     },
     {
@@ -1115,59 +1167,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 28,
-      "is_new": false
-    },
-    {
-      "id": "0a962b298350bd4d79cfa1db181be7f0",
-      "title": "β-OPSD: Deriving with Policy Optimization, Training with Self-Distillation",
-      "url": "https://huggingface.co/papers/2607.28582",
-      "description": "On-policy self-distillation (OPSD) is a promising approach to improve reasoning language models, but it remains brittle in practice: making it work reliably often requires substantial engineering effo",
-      "published": "2026-07-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 21,
-      "is_new": false
-    },
-    {
-      "id": "66bd8401f9653244851f95a7ab2fc60b",
-      "title": "Beyond Geometric Complementarity: Coherent Overlap in Sparse Mixture-of-Experts Routing",
-      "url": "https://huggingface.co/papers/2607.28308",
-      "description": "Sparse mixture-of-experts (MoE) language models route each token to multiple experts, suggesting a geometric account of their benefit: co-selected experts should contribute distinct representation dir",
-      "published": "2026-07-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "e806f1ff7aab3cfef2d13f0111c1d2a1",
-      "title": "Fairness Pruning: Locating Demographic Bias in GLU-MLP Layers via Differential Activations",
-      "url": "https://huggingface.co/papers/2607.28319",
-      "description": "This work presents Fairness Pruning, a lightweight structural intervention method designed for the management and future mitigation of demographic bias in large language models (LLMs). As a foundation",
-      "published": "2026-07-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "eb8ef36d8b0655bd5bf96237392b7f51",
-      "title": "Σ-Mem: An Online Reliability Memory for LLM-based Multi-Agent Systems",
-      "url": "https://huggingface.co/papers/2607.27958",
-      "description": "Memory is central to long-horizon LLM agents, yet existing memory systems primarily preserve interaction content rather than modeling which agents can be trusted and under what conditions. This limita",
-      "published": "2026-07-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 12,
+      "likes": 29,
       "is_new": false
     },
     {
@@ -1227,30 +1227,30 @@
       "is_new": false
     },
     {
-      "id": "74e0431299de0fdf0f57d67588f95893",
-      "title": "See2Think: Do Multimodal Models Really Use Intermediate Visual States?",
-      "url": "https://huggingface.co/papers/2607.26769",
-      "description": "Multimodal large language models increasingly use sketches, annotations, tools, and intermediate images during reasoning, but it remains unclear whether they truly rely on these visual states. Existin",
+      "id": "7005beaf1af6044b0b88e9d127f7221a",
+      "title": "Fewer Clarifications, Better Code: Benchmarking Cross-Session Personalized Ambiguity Adaptation in Coding Assistants",
+      "url": "https://huggingface.co/papers/2607.26611",
+      "description": "AI-assisted coding increasingly translates informal user intent into executable software, yet coding requests often contain ambiguities that recur in user-specific ways across tasks and sessions. Exis",
       "published": "2026-07-28T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 23,
-      "is_new": false
+      "likes": 17,
+      "is_new": true
     },
     {
-      "id": "49ccb0b15a071a33660990bc835c0899",
-      "title": "Filesystem-Based Memory for LLM Agents: Organization, Evolution, and Sustainability",
-      "url": "https://huggingface.co/papers/2607.26637",
-      "description": "Deployed LLM agents increasingly keep their long-term memory as a filesystem: a directory tree of markdown files that the agent itself reads, writes, and reorganizes through generic file tools. Yet re",
+      "id": "1c273a2a3975818203874053f74583ff",
+      "title": "Mental World Modeling",
+      "url": "https://huggingface.co/papers/2607.27201",
+      "description": "World models enable a predictive substrate for planning and action, yet existing formulations merely answer a physical question: what/where it is, and how will it evolve. Human behavior, however, is d",
       "published": "2026-07-28T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
-      "is_new": false
+      "likes": 4,
+      "is_new": true
     },
     {
       "id": "49088696",
@@ -1538,6 +1538,30 @@
         "is_new": false
       },
       {
+        "id": "5bd2ff2f2cf8b07aecca793da670cb22",
+        "title": "Is this Billboard Hot 100 hit AI slop?",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
+        "description": "Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track \"Rubberz,\" which has climbed to number 58 on the Billboard Ho",
+        "published": "2026-08-03T05:45:52-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "bbc62a8f12e049508763fe3b39209828",
+        "title": "Fender’s CEO seems to think your bandmates are just analog AI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+        "description": "Fender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started mak",
+        "published": "2026-08-03T05:23:36-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
         "id": "49149134",
         "title": "Teaching an AI to know itself: Building a local LLM agent in D",
         "url": "https://blog.dlang.org/2026/06/07/teaching-an-ai-to-know-itself-building-a-local-llm-agent-in-d/",
@@ -1547,7 +1571,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 2,
+        "points": 3,
         "comments": 0,
         "is_new": false
       },
@@ -1562,31 +1586,7 @@
         "source_icon": "🟧",
         "category": "news",
         "points": 11,
-        "comments": 5,
-        "is_new": false
-      },
-      {
-        "id": "bbc62a8f12e049508763fe3b39209828",
-        "title": "Fender’s CEO seems to think your bandmates are just analog AI",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
-        "description": "Fender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started mak",
-        "published": "2026-08-02T15:40:58-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "5bd2ff2f2cf8b07aecca793da670cb22",
-        "title": "Is this Billboard Hot 100 hit AI slop?",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
-        "description": "Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track \"Rubberz,\" which has climbed to number 58 on the Billboard Ho",
-        "published": "2026-08-02T09:25:24-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
+        "comments": 6,
         "is_new": false
       },
       {
