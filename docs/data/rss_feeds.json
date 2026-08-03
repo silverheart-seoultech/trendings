@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-03T11:40:56.330588+00:00",
+  "last_updated": "2026-08-03T14:51:48.708410+00:00",
   "total_entries": 110,
-  "new_entries": 4,
+  "new_entries": 9,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,6 +768,34 @@
       "is_new": false
     },
     {
+      "id": "49154981",
+      "title": "Show HN: Sixb – the operating layer for enterprise AI",
+      "url": "https://sixb.ai/news/sixb-framework-launch",
+      "description": "",
+      "published": "2026-08-03T12:41:04Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 3,
+      "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "49154714",
+      "title": "Show HN: Argot, a Rust AI guardrail based on your codebase AST patterns",
+      "url": "https://argot.tmonier.com/",
+      "description": "",
+      "published": "2026-08-03T12:12:51Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 3,
+      "comments": 2,
+      "is_new": true
+    },
+    {
       "id": "0fb7db373bd793a5d1023556f1252c70",
       "title": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
       "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
@@ -827,7 +855,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 11,
+      "points": 12,
       "comments": 6,
       "is_new": false
     },
@@ -942,7 +970,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 136,
-      "comments": 79,
+      "comments": 80,
       "is_new": false
     },
     {
@@ -974,6 +1002,19 @@
       "is_new": false
     },
     {
+      "id": "1da5c2dbb39d6300fa663969f0ed3750",
+      "title": "SAF-OPD: Stable Advantage Fusion for On-Policy Distillation",
+      "url": "https://huggingface.co/papers/2607.29209",
+      "description": "Reinforcement learning with verifiable rewards (RLVR) broadcasts a single response-level reward to every token, while on-policy distillation (OPD) scores each token against a stronger teacher for a de",
+      "published": "2026-07-30T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 21,
+      "is_new": true
+    },
+    {
       "id": "b7e424731e1d381be92b60972f59ef7d",
       "title": "Toward Robust and 3D-Aware RGB-NIR Imaging in the Dark",
       "url": "https://huggingface.co/papers/2607.29684",
@@ -983,7 +1024,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -1023,19 +1064,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 13,
-      "is_new": false
-    },
-    {
-      "id": "03e19ef8fb64bade8bc9b459fc5df814",
-      "title": "Scaling Properties of Text Conditioning in Visual Generation",
-      "url": "https://huggingface.co/papers/2607.29679",
-      "description": "We study empirical scaling properties for text conditioning in visual generation. Such properties have rarely been measured because diffusion loss does not scale with the number of tokens in natural-l",
-      "published": "2026-07-30T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 23,
       "is_new": false
     },
     {
@@ -1079,6 +1107,19 @@
       "is_new": false
     },
     {
+      "id": "6c4844d6078068db15f4f14ae4f93bdb",
+      "title": "EMBL AI Librarian: Life-Sciences Knowledge Layer for AI Agents",
+      "url": "https://huggingface.co/papers/2607.28229",
+      "description": "The web is increasingly accessed by AI agents rather than humans. Every agent needs knowledge, especially in the life-sciences, where agentic pipelines are growing fast. Access to the literature is a ",
+      "published": "2026-07-30T10:00:27.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
       "id": "49104392",
       "title": "How to get more coding productivity with LLMs",
       "url": "https://news.ycombinator.com/item?id=49104392",
@@ -1093,6 +1134,19 @@
       "is_new": false
     },
     {
+      "id": "00cbdb0bc6b85f5b9ac92aaabb32732b",
+      "title": "Beyond Feeling Better: Capability-Sustaining Emotional Dialogue as a Longitudinal Research Paradigm",
+      "url": "https://huggingface.co/papers/2607.27851",
+      "description": "Emotional dialogue research includes two influential strategy traditions. Empathetic dialogue prioritizes understanding a speaker's emotional experience. Emotional support conversation selects and seq",
+      "published": "2026-07-29T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "0bc04c18c169264c621c273f42d9549b",
       "title": "RL^2-VLA: Adaptive RL Latent Compositional Steering with Test-Time Scaling for Vision-Language-Action Models",
       "url": "https://huggingface.co/papers/2607.26991",
@@ -1102,7 +1156,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 4,
       "is_new": true
     },
     {
@@ -1115,7 +1169,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": true
     },
     {
@@ -1141,7 +1195,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 7,
       "is_new": false
     },
     {
@@ -1168,19 +1222,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "74d6cc346216163c76ac9ea4bde7ec33",
-      "title": "QQWorld: Quantile-Quantile Matching for World Model Regularization",
-      "url": "https://huggingface.co/papers/2607.28415",
-      "description": "Latent world models enable efficient planning by predicting future states in a compact representation space, but their performance depends critically on the quality of the learned latent distribution.",
-      "published": "2026-07-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 23,
       "is_new": false
     },
     {
@@ -1249,48 +1290,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 17,
-      "is_new": false
-    },
-    {
-      "id": "1c273a2a3975818203874053f74583ff",
-      "title": "Mental World Modeling",
-      "url": "https://huggingface.co/papers/2607.27201",
-      "description": "World models enable a predictive substrate for planning and action, yet existing formulations merely answer a physical question: what/where it is, and how will it evolve. Human behavior, however, is d",
-      "published": "2026-07-28T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 10,
-      "is_new": false
-    },
-    {
-      "id": "49088696",
-      "title": "Ask HN: Sectors that are inherently resistant to AI-ification?",
-      "url": "https://news.ycombinator.com/item?id=49088696",
-      "description": "",
-      "published": "2026-07-28T19:25:06Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 4,
-      "comments": 7,
-      "is_new": false
-    },
-    {
-      "id": "49085503",
-      "title": "Show HN: Flashpaper – Self-destructing secret sharing with no database",
-      "url": "https://flashpaper.app/",
-      "description": "",
-      "published": "2026-07-28T15:36:35Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 25,
-      "comments": 11,
+      "likes": 18,
       "is_new": false
     }
   ],
@@ -1537,6 +1537,34 @@
         "is_new": false
       },
       {
+        "id": "49154981",
+        "title": "Show HN: Sixb – the operating layer for enterprise AI",
+        "url": "https://sixb.ai/news/sixb-framework-launch",
+        "description": "",
+        "published": "2026-08-03T12:41:04Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 3,
+        "comments": 0,
+        "is_new": true
+      },
+      {
+        "id": "49154714",
+        "title": "Show HN: Argot, a Rust AI guardrail based on your codebase AST patterns",
+        "url": "https://argot.tmonier.com/",
+        "description": "",
+        "published": "2026-08-03T12:12:51Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 3,
+        "comments": 2,
+        "is_new": true
+      },
+      {
         "id": "0fb7db373bd793a5d1023556f1252c70",
         "title": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
         "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
@@ -1596,7 +1624,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 11,
+        "points": 12,
         "comments": 6,
         "is_new": false
       },
@@ -1632,30 +1660,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
         "description": "A text prompt was all it took to generate reality-warping images using Google Earth's satellite, aerial, and 3D imagery with a now-rolled back AI feature, like these images generated by Digital Diggin",
         "published": "2026-07-31T16:12:14-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "a4ce4a17368dfbec161e76fb5f40c525",
-        "title": "Google Earth&#8217;s AI deepfake tool only lasted one day",
-        "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
-        "description": "Google has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts using AI. The tool essentially let users create AI deepfakes of the real wo",
-        "published": "2026-07-31T15:13:29-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "a32f3d3705a3fdcb7273b557f85de385",
-        "title": "The major labels propose rules to keep AI slop off the charts",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts",
-        "description": "Several record labels, including the big three - Universal Music Group, Sony Music, and Warner Music Group - have proposed rules regarding chart eligibility for AI songs. In short, they wouldn't be. T",
-        "published": "2026-07-31T12:36:48-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
