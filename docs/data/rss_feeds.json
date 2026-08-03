@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-03T00:08:50.523030+00:00",
+  "last_updated": "2026-08-03T03:32:19.634501+00:00",
   "total_entries": 70,
-  "new_entries": 4,
+  "new_entries": 13,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -482,6 +482,45 @@
       "is_new": false
     },
     {
+      "id": "a3af70d24abc01afb81ee8b8799ca19a",
+      "title": "Evaluation-Verification Reward for Consistent Multi-Reference Image Editing",
+      "url": "https://huggingface.co/papers/2607.29025",
+      "description": "While recent image editing models have made rapid progress, multi-reference editing remains challenging, particularly in maintaining visual consistency across references and ensuring overall visual ha",
+      "published": "2026-07-30T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "cc1c8822049d695e0ebc8c46c130f913",
+      "title": "ExtractBench: A Benchmark for Schema-Guided Enterprise Document Extraction",
+      "url": "https://huggingface.co/papers/2607.29677",
+      "description": "Enterprise workflows increasingly rely on agents for schema-guided extraction: given a document and a user-defined schema, the agent faithfully follows the schema to produce the correct output with so",
+      "published": "2026-07-30T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "03e19ef8fb64bade8bc9b459fc5df814",
+      "title": "Scaling Properties of Text Conditioning in Visual Generation",
+      "url": "https://huggingface.co/papers/2607.29679",
+      "description": "We study empirical scaling properties for text conditioning in visual generation. Such properties have rarely been measured because diffusion loss does not scale with the number of tokens in natural-l",
+      "published": "2026-07-30T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
+    },
+    {
       "id": "6d58fc6439c45980bf4d138ea881c55a",
       "title": "The loss of Situational Awareness",
       "url": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
@@ -548,6 +587,32 @@
       "is_new": false
     },
     {
+      "id": "74d6cc346216163c76ac9ea4bde7ec33",
+      "title": "QQWorld: Quantile-Quantile Matching for World Model Regularization",
+      "url": "https://huggingface.co/papers/2607.28415",
+      "description": "Latent world models enable efficient planning by predicting future states in a compact representation space, but their performance depends critically on the quality of the learned latent distribution.",
+      "published": "2026-07-29T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 11,
+      "is_new": true
+    },
+    {
+      "id": "4b1902b40bee4ae8ccc7c66acbca5bb4",
+      "title": "AISPA: User-Centric System Prompt Auditing for Large Language Model Applications",
+      "url": "https://huggingface.co/papers/2607.28617",
+      "description": "System prompts are instructions configured by developers to govern the behaviors of foundation models in AI applications. They are used throughout commercial AI products, but are rarely disclosed to t",
+      "published": "2026-07-29T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 16,
+      "is_new": true
+    },
+    {
       "id": "0a962b298350bd4d79cfa1db181be7f0",
       "title": "β-OPSD: Deriving with Policy Optimization, Training with Self-Distillation",
       "url": "https://huggingface.co/papers/2607.28582",
@@ -557,7 +622,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 19,
+      "likes": 21,
       "is_new": false
     },
     {
@@ -609,59 +674,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 16,
-      "is_new": false
-    },
-    {
-      "id": "56970811d101deb51d4e7ec5d7caa0f6",
-      "title": "LEDGERMIND: Provenance-Constrained Multimodal Agentic Reasoning with a Structured Evidence Ledger",
-      "url": "https://huggingface.co/papers/2607.28374",
-      "description": "Multimodal agents for visual question answering increasingly operate as multi-step trajectories that interleave perception, retrieval, and reasoning, yet evaluation still largely reduces to final-answ",
-      "published": "2026-07-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 10,
-      "is_new": false
-    },
-    {
-      "id": "1f251785065b8af2b2ecf7b57e801f0c",
-      "title": "Beyond Borrowed Histories: Person-Aligned User Simulation for Interactive Role-Playing Evaluation",
-      "url": "https://huggingface.co/papers/2607.27816",
-      "description": "Role-playing agents (RPAs) have become one of the most important consumer applications of large language models. Users engage in multi-turn conversations with RPAs for experiences such as emotional co",
-      "published": "2026-07-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 31,
-      "is_new": false
-    },
-    {
-      "id": "9df7191441c6e34efd6a1d6106c8227f",
-      "title": "MPIE-Bench: Benchmarking Anatomically Plausible Multi-Person Interaction Editing",
-      "url": "https://huggingface.co/papers/2607.27616",
-      "description": "Text-to-image and personalized editing models now synthesize high-fidelity single-subject images with ease. Yet placing multiple named people into shared contact actions such as embrace, carry, or gra",
-      "published": "2026-07-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 37,
-      "is_new": false
-    },
-    {
-      "id": "efa327673e0d6ebbd417ee1ca9c6fac9",
-      "title": "Can Large Language Models Execute Parent Orders?",
-      "url": "https://huggingface.co/papers/2607.28410",
-      "description": "Parent-order execution is a core problem in algorithmic trading, where the goal is to split a large order into smaller orders while reducing execution costs. Existing approaches either rely on pre-spe",
-      "published": "2026-07-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 15,
+      "likes": 17,
       "is_new": false
     },
     {
@@ -747,32 +760,6 @@
       "is_new": false
     },
     {
-      "id": "966a47a23bd6256f1b44c4e269ea02a3",
-      "title": "Explorative Modeling: Unlocking a Third Pretraining Axis and End-to-End Generation",
-      "url": "https://huggingface.co/papers/2607.27372",
-      "description": "The deep learning revolution, kicked off by AlexNet, taught us that end-to-end training beats decomposing a problem into hand-designed stages. Generative modeling, however, has remained the exception-",
-      "published": "2026-07-28T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 13,
-      "is_new": false
-    },
-    {
-      "id": "8bc9268a326895e063dccbc2cafb55f2",
-      "title": "Revisiting Lossy Verification in Speculative Decoding: Mechanisms, Trade-offs, and Failure Modes",
-      "url": "https://huggingface.co/papers/2607.26627",
-      "description": "Speculative Decoding (SD) accelerates large language model inference by allowing a lightweight draft model to propose tokens that are subsequently verified in parallel by a larger target model. Recent",
-      "published": "2026-07-28T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
-      "is_new": false
-    },
-    {
       "id": "49088696",
       "title": "Ask HN: Sectors that are inherently resistant to AI-ification?",
       "url": "https://news.ycombinator.com/item?id=49088696",
@@ -829,6 +816,19 @@
       "is_new": false
     },
     {
+      "id": "607151db4dd8f13fee95169839894e04",
+      "title": "Meshy T2: Fast Native Mesh Generation with Flow Matching",
+      "url": "https://huggingface.co/papers/2607.28675",
+      "description": "Polygonal meshes are the standard surface representation of modern 3D pipelines, and generating high-quality meshes with artist-style topology is essential for film, gaming, and interactive 3D applica",
+      "published": "2026-07-27T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
+    },
+    {
       "id": "45600cd54ce0f452d1a1b7b5289ddc82",
       "title": "OmniScope: Modality-Decoupled Token Compression for Omnimodal Large Language Models",
       "url": "https://huggingface.co/papers/2607.23193",
@@ -852,19 +852,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 0,
-      "is_new": false
-    },
-    {
-      "id": "fdf09e7905bca7770b3abd2554402f0d",
-      "title": "INTACT: Isomorphic Intent-to-Action Learning for Search-Free World Models",
-      "url": "https://huggingface.co/papers/2607.26056",
-      "description": "Forward latent world models predict how actions change a scene, but recover actions for a desired change only through expensive test-time search. We introduce INTACT (INtent-To-ACTion), an end-to-end ",
-      "published": "2026-07-27T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 13,
       "is_new": false
     },
     {
@@ -896,6 +883,32 @@
       "is_new": false
     },
     {
+      "id": "ad8697b16053bad5e43a2cbb46822bc3",
+      "title": "N_0-VTLA: Scaling Vision-Tactile-Language-Action Model with Latent Tactile Tokens",
+      "url": "https://huggingface.co/papers/2607.23782",
+      "description": "We present N_0-VTLA, a vision-tactile-language-action (VTLA) foundation model capable of (1) fine-grained contact-rich manipulation with tactile perception and tactile-feedback control, and (2) offlin",
+      "published": "2026-07-25T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 7,
+      "is_new": true
+    },
+    {
+      "id": "1776be993258ad71b145c06ee3547127",
+      "title": "From RLVR to RLSVR: Task Transformation Induces Self-Verifiable Rewards for Open-Ended LLM Self-Improvement",
+      "url": "https://huggingface.co/papers/2607.23802",
+      "description": "Reinforcement Learning with Verifiable Rewards (RLVR) has driven recent progress in reasoning-oriented large language models (LLMs) by enabling large-scale optimization. However, its applicability rem",
+      "published": "2026-07-25T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 16,
+      "is_new": true
+    },
+    {
       "id": "4df06b1567a09564c20159205ed5ebdc",
       "title": "Is Deep Research Reliable? Misleading Knowledge Induces False Conclusions",
       "url": "https://huggingface.co/papers/2607.20891",
@@ -905,34 +918,21 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 2,
       "is_new": false
     },
     {
-      "id": "774aea4201e1b79de6043eceb11546f4",
-      "title": "Multi-Head Attention Residuals",
-      "url": "https://huggingface.co/papers/2607.27230",
-      "description": "Transformers propagate information across depth through a single additive residual stream: every sublayer reads only the most recent state. Attention residuals relax this by letting each sublayer atte",
-      "published": "2026-07-21T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 8,
-      "is_new": false
-    },
-    {
-      "id": "8cec08b23639f0df9296839ff31a2344",
-      "title": "AI Tour Meeting: Group Travel Planning by LLM Agents",
-      "url": "https://huggingface.co/papers/2607.18806",
-      "description": "This paper proposes AI Tour Meeting, a group travel planning framework powered by multiple Large Language Model (LLM)-based agents. The agents are instantiated with distinct personas and collaborative",
+      "id": "086df2470b4e6e4a5dabf64e5b669751",
+      "title": "Enhancing Rubric-based RL via Self-Distillation",
+      "url": "https://huggingface.co/papers/2607.18082",
+      "description": "Rubric-based RL has recently shown promise in improving LLMs on open-ended tasks. A widely recognized limitation of rubric-based RL is limited exploration: criteria that no rollout manages to satisfy ",
       "published": "2026-07-20T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
-      "is_new": false
+      "likes": 1,
+      "is_new": true
     },
     {
       "id": "c1730cba81944e25ef5366b8eb87f16f",
@@ -1319,6 +1319,71 @@
     ],
     "research": [
       {
+        "id": "a3af70d24abc01afb81ee8b8799ca19a",
+        "title": "Evaluation-Verification Reward for Consistent Multi-Reference Image Editing",
+        "url": "https://huggingface.co/papers/2607.29025",
+        "description": "While recent image editing models have made rapid progress, multi-reference editing remains challenging, particularly in maintaining visual consistency across references and ensuring overall visual ha",
+        "published": "2026-07-30T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 0,
+        "is_new": true
+      },
+      {
+        "id": "cc1c8822049d695e0ebc8c46c130f913",
+        "title": "ExtractBench: A Benchmark for Schema-Guided Enterprise Document Extraction",
+        "url": "https://huggingface.co/papers/2607.29677",
+        "description": "Enterprise workflows increasingly rely on agents for schema-guided extraction: given a document and a user-defined schema, the agent faithfully follows the schema to produce the correct output with so",
+        "published": "2026-07-30T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 1,
+        "is_new": true
+      },
+      {
+        "id": "03e19ef8fb64bade8bc9b459fc5df814",
+        "title": "Scaling Properties of Text Conditioning in Visual Generation",
+        "url": "https://huggingface.co/papers/2607.29679",
+        "description": "We study empirical scaling properties for text conditioning in visual generation. Such properties have rarely been measured because diffusion loss does not scale with the number of tokens in natural-l",
+        "published": "2026-07-30T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 4,
+        "is_new": true
+      },
+      {
+        "id": "74d6cc346216163c76ac9ea4bde7ec33",
+        "title": "QQWorld: Quantile-Quantile Matching for World Model Regularization",
+        "url": "https://huggingface.co/papers/2607.28415",
+        "description": "Latent world models enable efficient planning by predicting future states in a compact representation space, but their performance depends critically on the quality of the learned latent distribution.",
+        "published": "2026-07-29T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 11,
+        "is_new": true
+      },
+      {
+        "id": "4b1902b40bee4ae8ccc7c66acbca5bb4",
+        "title": "AISPA: User-Centric System Prompt Auditing for Large Language Model Applications",
+        "url": "https://huggingface.co/papers/2607.28617",
+        "description": "System prompts are instructions configured by developers to govern the behaviors of foundation models in AI applications. They are used throughout commercial AI products, but are rarely disclosed to t",
+        "published": "2026-07-29T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 16,
+        "is_new": true
+      },
+      {
         "id": "0a962b298350bd4d79cfa1db181be7f0",
         "title": "β-OPSD: Deriving with Policy Optimization, Training with Self-Distillation",
         "url": "https://huggingface.co/papers/2607.28582",
@@ -1328,7 +1393,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 19,
+        "likes": 21,
         "is_new": false
       },
       {
@@ -1380,59 +1445,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 16,
-        "is_new": false
-      },
-      {
-        "id": "56970811d101deb51d4e7ec5d7caa0f6",
-        "title": "LEDGERMIND: Provenance-Constrained Multimodal Agentic Reasoning with a Structured Evidence Ledger",
-        "url": "https://huggingface.co/papers/2607.28374",
-        "description": "Multimodal agents for visual question answering increasingly operate as multi-step trajectories that interleave perception, retrieval, and reasoning, yet evaluation still largely reduces to final-answ",
-        "published": "2026-07-29T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 10,
-        "is_new": false
-      },
-      {
-        "id": "1f251785065b8af2b2ecf7b57e801f0c",
-        "title": "Beyond Borrowed Histories: Person-Aligned User Simulation for Interactive Role-Playing Evaluation",
-        "url": "https://huggingface.co/papers/2607.27816",
-        "description": "Role-playing agents (RPAs) have become one of the most important consumer applications of large language models. Users engage in multi-turn conversations with RPAs for experiences such as emotional co",
-        "published": "2026-07-29T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 31,
-        "is_new": false
-      },
-      {
-        "id": "9df7191441c6e34efd6a1d6106c8227f",
-        "title": "MPIE-Bench: Benchmarking Anatomically Plausible Multi-Person Interaction Editing",
-        "url": "https://huggingface.co/papers/2607.27616",
-        "description": "Text-to-image and personalized editing models now synthesize high-fidelity single-subject images with ease. Yet placing multiple named people into shared contact actions such as embrace, carry, or gra",
-        "published": "2026-07-29T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 37,
-        "is_new": false
-      },
-      {
-        "id": "efa327673e0d6ebbd417ee1ca9c6fac9",
-        "title": "Can Large Language Models Execute Parent Orders?",
-        "url": "https://huggingface.co/papers/2607.28410",
-        "description": "Parent-order execution is a core problem in algorithmic trading, where the goal is to split a large order into smaller orders while reducing execution costs. Existing approaches either rely on pre-spe",
-        "published": "2026-07-29T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 15,
+        "likes": 17,
         "is_new": false
       },
       {
@@ -1462,30 +1475,17 @@
         "is_new": false
       },
       {
-        "id": "966a47a23bd6256f1b44c4e269ea02a3",
-        "title": "Explorative Modeling: Unlocking a Third Pretraining Axis and End-to-End Generation",
-        "url": "https://huggingface.co/papers/2607.27372",
-        "description": "The deep learning revolution, kicked off by AlexNet, taught us that end-to-end training beats decomposing a problem into hand-designed stages. Generative modeling, however, has remained the exception-",
-        "published": "2026-07-28T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 13,
-        "is_new": false
-      },
-      {
-        "id": "8bc9268a326895e063dccbc2cafb55f2",
-        "title": "Revisiting Lossy Verification in Speculative Decoding: Mechanisms, Trade-offs, and Failure Modes",
-        "url": "https://huggingface.co/papers/2607.26627",
-        "description": "Speculative Decoding (SD) accelerates large language model inference by allowing a lightweight draft model to propose tokens that are subsequently verified in parallel by a larger target model. Recent",
-        "published": "2026-07-28T20:00:00.000Z",
+        "id": "607151db4dd8f13fee95169839894e04",
+        "title": "Meshy T2: Fast Native Mesh Generation with Flow Matching",
+        "url": "https://huggingface.co/papers/2607.28675",
+        "description": "Polygonal meshes are the standard surface representation of modern 3D pipelines, and generating high-quality meshes with artist-style topology is essential for film, gaming, and interactive 3D applica",
+        "published": "2026-07-27T20:00:00.000Z",
         "source_id": "hf-papers",
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
         "likes": 4,
-        "is_new": false
+        "is_new": true
       },
       {
         "id": "45600cd54ce0f452d1a1b7b5289ddc82",
@@ -1514,17 +1514,30 @@
         "is_new": false
       },
       {
-        "id": "fdf09e7905bca7770b3abd2554402f0d",
-        "title": "INTACT: Isomorphic Intent-to-Action Learning for Search-Free World Models",
-        "url": "https://huggingface.co/papers/2607.26056",
-        "description": "Forward latent world models predict how actions change a scene, but recover actions for a desired change only through expensive test-time search. We introduce INTACT (INtent-To-ACTion), an end-to-end ",
-        "published": "2026-07-27T20:00:00.000Z",
+        "id": "ad8697b16053bad5e43a2cbb46822bc3",
+        "title": "N_0-VTLA: Scaling Vision-Tactile-Language-Action Model with Latent Tactile Tokens",
+        "url": "https://huggingface.co/papers/2607.23782",
+        "description": "We present N_0-VTLA, a vision-tactile-language-action (VTLA) foundation model capable of (1) fine-grained contact-rich manipulation with tactile perception and tactile-feedback control, and (2) offlin",
+        "published": "2026-07-25T20:00:00.000Z",
         "source_id": "hf-papers",
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 13,
-        "is_new": false
+        "likes": 7,
+        "is_new": true
+      },
+      {
+        "id": "1776be993258ad71b145c06ee3547127",
+        "title": "From RLVR to RLSVR: Task Transformation Induces Self-Verifiable Rewards for Open-Ended LLM Self-Improvement",
+        "url": "https://huggingface.co/papers/2607.23802",
+        "description": "Reinforcement Learning with Verifiable Rewards (RLVR) has driven recent progress in reasoning-oriented large language models (LLMs) by enabling large-scale optimization. However, its applicability rem",
+        "published": "2026-07-25T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 16,
+        "is_new": true
       },
       {
         "id": "4df06b1567a09564c20159205ed5ebdc",
@@ -1536,34 +1549,21 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 3,
+        "likes": 2,
         "is_new": false
       },
       {
-        "id": "774aea4201e1b79de6043eceb11546f4",
-        "title": "Multi-Head Attention Residuals",
-        "url": "https://huggingface.co/papers/2607.27230",
-        "description": "Transformers propagate information across depth through a single additive residual stream: every sublayer reads only the most recent state. Attention residuals relax this by letting each sublayer atte",
-        "published": "2026-07-21T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 8,
-        "is_new": false
-      },
-      {
-        "id": "8cec08b23639f0df9296839ff31a2344",
-        "title": "AI Tour Meeting: Group Travel Planning by LLM Agents",
-        "url": "https://huggingface.co/papers/2607.18806",
-        "description": "This paper proposes AI Tour Meeting, a group travel planning framework powered by multiple Large Language Model (LLM)-based agents. The agents are instantiated with distinct personas and collaborative",
+        "id": "086df2470b4e6e4a5dabf64e5b669751",
+        "title": "Enhancing Rubric-based RL via Self-Distillation",
+        "url": "https://huggingface.co/papers/2607.18082",
+        "description": "Rubric-based RL has recently shown promise in improving LLMs on open-ended tasks. A widely recognized limitation of rubric-based RL is limited exploration: criteria that no rollout manages to satisfy ",
         "published": "2026-07-20T20:00:00.000Z",
         "source_id": "hf-papers",
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 3,
-        "is_new": false
+        "likes": 1,
+        "is_new": true
       },
       {
         "id": "c1730cba81944e25ef5366b8eb87f16f",
