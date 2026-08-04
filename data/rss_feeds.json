@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-04T06:38:10.473098+00:00",
+  "last_updated": "2026-08-04T08:46:53.215458+00:00",
   "total_entries": 110,
-  "new_entries": 53,
+  "new_entries": 57,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,6 +768,20 @@
       "is_new": false
     },
     {
+      "id": "49165807",
+      "title": "Ask HN: Has anyone tried a minimal AGENTS.md that grows with you repo?",
+      "url": "https://news.ycombinator.com/item?id=49165807",
+      "description": "",
+      "published": "2026-08-04T08:32:31Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "49159018",
       "title": "Show HN: Hacker News with AI stories filtered out",
       "url": "https://hcker.news/?view=frontpage&ai=exclude",
@@ -882,8 +896,21 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 13,
-      "comments": 9,
+      "comments": 10,
       "is_new": false
+    },
+    {
+      "id": "90c9204d9a727ab7a2fc719eb8a399c6",
+      "title": "DeepVoyager-VL: Incentivizing Vision-in-the-Loop Search for Long-Horizon Multimodal Agents",
+      "url": "https://huggingface.co/papers/2608.01827",
+      "description": "Multimodal large language models (MLLMs) have advanced visual understanding and reasoning, yet their static parametric knowledge limits their ability to address knowledge-intensive and dynamically evo",
+      "published": "2026-08-02T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 7,
+      "is_new": true
     },
     {
       "id": "8dbd61d3dcad70a2275ce355c6ac0913",
@@ -895,7 +922,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 15,
       "is_new": true
     },
     {
@@ -908,7 +935,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 6,
       "is_new": true
     },
     {
@@ -921,7 +948,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 50,
+      "likes": 74,
       "is_new": true
     },
     {
@@ -934,7 +961,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 19,
+      "likes": 31,
       "is_new": true
     },
     {
@@ -960,7 +987,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 17,
+      "likes": 20,
       "is_new": true
     },
     {
@@ -986,7 +1013,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 16,
+      "likes": 20,
       "is_new": true
     },
     {
@@ -999,7 +1026,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 58,
+      "likes": 62,
       "is_new": false
     },
     {
@@ -1012,7 +1039,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 6,
       "is_new": false
     },
     {
@@ -1029,32 +1056,6 @@
       "is_new": false
     },
     {
-      "id": "b4a042f5430cb4fd7daab3015929b746",
-      "title": "Roomer: Reflective Object-Grounded Model Editing and Repair for 3D Indoor Layout Synthesis",
-      "url": "https://huggingface.co/papers/2608.01973",
-      "description": "Existing indoor layout generators produce globally plausible layouts yet may retain local violations such as collisions, out-of-bounds placements, obstructed openings, and blocked circulation. Most pr",
-      "published": "2026-08-02T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 6,
-      "is_new": false
-    },
-    {
-      "id": "b25adb9be31771229aa11ca077824ea6",
-      "title": "Deferred Exposure of Future Trajectories for Verifiable Reasoning in Autonomous Driving VLMs",
-      "url": "https://huggingface.co/papers/2608.01755",
-      "description": "Recent Vision-Language-Action (VLA) models for autonomous driving (AD) increasingly utilize chain-of-thought (CoT) supervision to enhance the reasoning capabilities of their Vision-Language Model (VLM",
-      "published": "2026-08-02T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
-      "is_new": false
-    },
-    {
       "id": "ae26fda5b195df5e1a473279b4493908",
       "title": "3DZip: Spatial-Aware Feature Diversity-Guided Token Compression for 3D Question Answering",
       "url": "https://huggingface.co/papers/2608.01185",
@@ -1064,7 +1065,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
+      "likes": 8,
       "is_new": true
     },
     {
@@ -1082,6 +1083,19 @@
       "is_new": false
     },
     {
+      "id": "9099e43d3bd5dce20a8b5b1dec1d47bc",
+      "title": "Relax Within, Balance Across: Geometry-Guided Load Balancing for Vision-Language Mixture-of-Experts",
+      "url": "https://huggingface.co/papers/2608.00574",
+      "description": "Vision-language MoE batches contain different numbers of image and text tokens. Image resolution, image count, tiling, and prompt length all change this token mix. We call the standard token-level Swi",
+      "published": "2026-07-31T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "5be23945aede01844554ebde9a9b07af",
       "title": "CADENA: Stepwise CAD Reverse Engineering",
       "url": "https://huggingface.co/papers/2608.00799",
@@ -1091,7 +1105,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 18,
       "is_new": true
     },
     {
@@ -1104,7 +1118,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 4,
       "is_new": true
     },
     {
@@ -1245,7 +1259,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 7,
       "is_new": true
     },
     {
@@ -1258,7 +1272,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 13,
+      "likes": 15,
       "is_new": false
     },
     {
@@ -1272,20 +1286,6 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 19,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "49112195",
-      "title": "Show HN: Tuneloop – a local CLI for analyzing coding agent session transcripts",
-      "url": "https://github.com/tuneloop/tuneloop",
-      "description": "",
-      "published": "2026-07-30T16:23:34Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 5,
       "comments": 0,
       "is_new": false
     }
@@ -1895,6 +1895,20 @@
         "is_new": false
       },
       {
+        "id": "49165807",
+        "title": "Ask HN: Has anyone tried a minimal AGENTS.md that grows with you repo?",
+        "url": "https://news.ycombinator.com/item?id=49165807",
+        "description": "",
+        "published": "2026-08-04T08:32:31Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 1,
+        "comments": 0,
+        "is_new": true
+      },
+      {
         "id": "49159018",
         "title": "Show HN: Hacker News with AI stories filtered out",
         "url": "https://hcker.news/?view=frontpage&ai=exclude",
@@ -2009,21 +2023,7 @@
         "source_icon": "🟧",
         "category": "news",
         "points": 13,
-        "comments": 9,
-        "is_new": false
-      },
-      {
-        "id": "49129430",
-        "title": "Show HN: GAI – A Go runtime for typed, tool-using LLM agents",
-        "url": "https://github.com/lace-ai/gai",
-        "description": "",
-        "published": "2026-07-31T22:53:26Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 3,
-        "comments": 0,
+        "comments": 10,
         "is_new": false
       }
     ]
