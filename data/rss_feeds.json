@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-04T14:28:45.819106+00:00",
+  "last_updated": "2026-08-04T15:33:04.021401+00:00",
   "total_entries": 110,
-  "new_entries": 16,
+  "new_entries": 4,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -48,6 +48,18 @@
   ],
   "entries": [
     {
+      "id": "80e106fe7e7308168e2ca6eac7492b06",
+      "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
+      "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
+      "description": "An analysis of the last seven years of Tesla earnings calls shows just little attention Musk pays to Tesla's car business.",
+      "published": "Tue, 04 Aug 2026 15:20:06 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "54ed8f1ef07ccd3efdfc9d9a38f13887",
       "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
       "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
@@ -57,7 +69,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "b79c480364b48edd25efd2672059994c",
@@ -69,7 +81,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "a7df2b0647a47bfd3d1b653dc3139efb",
@@ -81,7 +93,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "14a81196b368a67a6d4b3e1281fa5494",
@@ -756,18 +768,6 @@
       "is_new": false
     },
     {
-      "id": "1539977fb10636407bec914c9bd7cc6e",
-      "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
-      "url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
-      "description": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
-      "published": "Fri, 31 Jul 2026 16:49:08 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "49169497",
       "title": "LFM2.5-2.6B: Deploy Agents Everywhere",
       "url": "https://www.liquid.ai/blog/lfm2-5-2-6b",
@@ -777,9 +777,9 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 1,
+      "points": 2,
       "comments": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "49169280",
@@ -793,7 +793,7 @@
       "category": "news",
       "points": 1,
       "comments": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "082edf922d78d860929222917b0c99ef",
@@ -805,7 +805,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "41b2e08c39eb9cfd355dd90f4315a68a",
@@ -843,7 +843,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "49159018",
@@ -962,7 +962,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "430c7f28e7e318bed956e2692ba7590e",
@@ -974,8 +974,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 18,
-      "is_new": true
+      "likes": 19,
+      "is_new": false
     },
     {
       "id": "90c9204d9a727ab7a2fc719eb8a399c6",
@@ -1013,7 +1013,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 44,
+      "likes": 45,
       "is_new": false
     },
     {
@@ -1026,21 +1026,34 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 108,
+      "likes": 113,
       "is_new": false
     },
     {
-      "id": "3058c01934801a4dba43dd69399873c3",
-      "title": "Progressive Agent Skill Generation via Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2608.01678",
-      "description": "Existing skill generation methods largely rely on heuristics or pipeline-style consolidation, which must be specially designed for different evidence sources. In contrast, learning-based approaches of",
-      "published": "2026-08-02T20:00:00.000Z",
+      "id": "0995b2ac549dd5a19c0d8fd3255e7f84",
+      "title": "SG-WAM: Self-Guided World Modeling in Geometry-Aware Policy Space",
+      "url": "https://huggingface.co/papers/2608.01397",
+      "description": "World Action Models (WAMs) couple action generation with prediction of future states. Their effectiveness depends on whether future dynamics are modeled in a space that is both aligned with action gen",
+      "published": "2026-08-01T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 43,
-      "is_new": false
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "ca35160efc1775844c95b1773eb2e111",
+      "title": "Loud or Silent? A Reusable Framework for Per-Modality Failure Analysis in Multimodal Clinical AI",
+      "url": "https://huggingface.co/papers/2608.01462",
+      "description": "Multimodal clinical models are usually judged on accuracy with every modality present, but deployment removes modalities; an echocardiogram is often unavailable where an ECG is routine. Two questions ",
+      "published": "2026-08-01T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
     },
     {
       "id": "ae26fda5b195df5e1a473279b4493908",
@@ -1079,8 +1092,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 11,
-      "is_new": true
+      "likes": 12,
+      "is_new": false
     },
     {
       "id": "9099e43d3bd5dce20a8b5b1dec1d47bc",
@@ -1093,19 +1106,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 6,
-      "is_new": false
-    },
-    {
-      "id": "5be23945aede01844554ebde9a9b07af",
-      "title": "CADENA: Stepwise CAD Reverse Engineering",
-      "url": "https://huggingface.co/papers/2608.00799",
-      "description": "Computer-Aided Design (CAD) underpins modern engineering, yet converting existing shapes into editable models still demands substantial expert effort. Most AI systems emit the entire CAD program in a ",
-      "published": "2026-07-31T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 25,
       "is_new": false
     },
     {
@@ -1213,6 +1213,19 @@
       "is_new": false
     },
     {
+      "id": "18ae7feb9c94c76025bfa0e529a8e154",
+      "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
+      "url": "https://huggingface.co/papers/2607.29377",
+      "description": "LLM agents need memory to act consistently over long interactions, yet many systems use additional LLM calls to operate that memory. Generating intermediate records and mediating their retrieval adds ",
+      "published": "2026-07-30T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "3a7a229b0708af50d8f913da96f189d0",
       "title": "A Frozen Pixel-Space Diffusion Model Can Guide Itself with Its Own Samples",
       "url": "https://huggingface.co/papers/2607.29122",
@@ -1223,7 +1236,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "90e2e44761da7c44e40dfcf48573be44",
@@ -1236,7 +1249,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "c84cd897e92520a294d3c7c463ca5d96",
@@ -1248,7 +1261,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 16,
+      "likes": 19,
       "is_new": false
     },
     {
@@ -1278,24 +1291,22 @@
       "points": 5,
       "comments": 0,
       "is_new": false
-    },
-    {
-      "id": "49104392",
-      "title": "How to get more coding productivity with LLMs",
-      "url": "https://news.ycombinator.com/item?id=49104392",
-      "description": "",
-      "published": "2026-07-29T23:28:10Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 9,
-      "comments": 2,
-      "is_new": false
     }
   ],
   "by_category": {
     "news": [
+      {
+        "id": "80e106fe7e7308168e2ca6eac7492b06",
+        "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
+        "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
+        "description": "An analysis of the last seven years of Tesla earnings calls shows just little attention Musk pays to Tesla's car business.",
+        "published": "Tue, 04 Aug 2026 15:20:06 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "54ed8f1ef07ccd3efdfc9d9a38f13887",
         "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
@@ -1306,7 +1317,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "b79c480364b48edd25efd2672059994c",
@@ -1318,7 +1329,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "a7df2b0647a47bfd3d1b653dc3139efb",
@@ -1330,7 +1341,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "80e7e83282c871df9ff0bf6f6e715a88",
@@ -1525,18 +1536,6 @@
         "is_new": false
       },
       {
-        "id": "1539977fb10636407bec914c9bd7cc6e",
-        "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
-        "url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
-        "description": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
-        "published": "Fri, 31 Jul 2026 16:49:08 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
         "id": "49169497",
         "title": "LFM2.5-2.6B: Deploy Agents Everywhere",
         "url": "https://www.liquid.ai/blog/lfm2-5-2-6b",
@@ -1546,9 +1545,9 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 1,
+        "points": 2,
         "comments": 0,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "49169280",
@@ -1562,7 +1561,7 @@
         "category": "news",
         "points": 1,
         "comments": 0,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "082edf922d78d860929222917b0c99ef",
@@ -1574,7 +1573,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "41b2e08c39eb9cfd355dd90f4315a68a",
@@ -1612,7 +1611,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "49159018",
