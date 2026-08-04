@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-03T23:16:56.950526+00:00",
+  "last_updated": "2026-08-04T03:15:07.534770+00:00",
   "total_entries": 110,
-  "new_entries": 2,
+  "new_entries": 11,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -106,6 +106,18 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "8e6013752b7746eea82fb44ad0b76cc8",
+      "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+      "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+      "description": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
+      "published": "Mon, 03 Aug 2026 23:19:50 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "4d7bc75aa17b4e7fd3c4e8d9a5eac506",
@@ -756,18 +768,6 @@
       "is_new": false
     },
     {
-      "id": "9fb139bb8c5f3fce71cbd98eefbc25f0",
-      "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
-      "url": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
-      "description": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out o",
-      "published": "Fri, 31 Jul 2026 14:00:00 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "49159018",
       "title": "Show HN: Hacker News with AI stories filtered out",
       "url": "https://hcker.news/?view=frontpage&ai=exclude",
@@ -777,7 +777,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 37,
+      "points": 45,
       "comments": 9,
       "is_new": false
     },
@@ -884,6 +884,71 @@
       "points": 13,
       "comments": 9,
       "is_new": false
+    },
+    {
+      "id": "b4816a39ab9ab8e88082a4d2bfb5e712",
+      "title": "SwanTale: Unified Multi-Speaker Speech and Audio Generation for Instruct and Zero-Shot Tasks",
+      "url": "https://huggingface.co/papers/2608.02023",
+      "description": "Speech and audio generation is often needed in animation dubbing, audio drama, movies, advertising, games, podcasts, and short-video production. In these scenarios, creators may need to design voices ",
+      "published": "2026-08-02T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 10,
+      "is_new": true
+    },
+    {
+      "id": "506614051d3ddff7a51ea38018e43eed",
+      "title": "StyleForge: Indoor Furniture Styling by Counterfactual Reasoning in a Hypergraph Field",
+      "url": "https://huggingface.co/papers/2608.01954",
+      "description": "Fixed-layout indoor furniture styling requires selecting assets that form a coherent room without changing the prescribed furniture categories, positions, orientations, or scales. Existing approaches ",
+      "published": "2026-08-02T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
+    },
+    {
+      "id": "3196ce1dedb732f5afbb81a8fdb2fe4d",
+      "title": "ScrambleToolBench: Agents Search Exhaustively Even When Their Own Map Points to the Next Step",
+      "url": "https://huggingface.co/papers/2608.02358",
+      "description": "To operate robustly in open-world environments, autonomous agents should be able to infer the behavior of unfamiliar systems through interaction alone, even in the absence of documentation. However, e",
+      "published": "2026-08-02T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "b4a042f5430cb4fd7daab3015929b746",
+      "title": "Roomer: Reflective Object-Grounded Model Editing and Repair for 3D Indoor Layout Synthesis",
+      "url": "https://huggingface.co/papers/2608.01973",
+      "description": "Existing indoor layout generators produce globally plausible layouts yet may retain local violations such as collisions, out-of-bounds placements, obstructed openings, and blocked circulation. Most pr",
+      "published": "2026-08-02T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
+    },
+    {
+      "id": "b25adb9be31771229aa11ca077824ea6",
+      "title": "Deferred Exposure of Future Trajectories for Verifiable Reasoning in Autonomous Driving VLMs",
+      "url": "https://huggingface.co/papers/2608.01755",
+      "description": "Recent Vision-Language-Action (VLA) models for autonomous driving (AD) increasingly utilize chain-of-thought (CoT) supervision to enhance the reasoning capabilities of their Vision-Language Model (VLM",
+      "published": "2026-08-02T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
     },
     {
       "id": "49129430",
@@ -1028,6 +1093,19 @@
       "is_new": false
     },
     {
+      "id": "683b6892a597bbffedbcc66227bb3d5c",
+      "title": "WCM: A World Critic Model for Vision-Language-Action Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2607.29613",
+      "description": "Reinforcement learning (RL) post-training of Vision-Language-Action (VLA) models has shown strong promise for robotic manipulation. Among RL methods, critic-based approaches rely on a value estimator ",
+      "published": "2026-07-30T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 6,
+      "is_new": true
+    },
+    {
       "id": "1da5c2dbb39d6300fa663969f0ed3750",
       "title": "SAF-OPD: Stable Advantage Fusion for On-Policy Distillation",
       "url": "https://huggingface.co/papers/2607.29209",
@@ -1037,7 +1115,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 23,
+      "likes": 24,
       "is_new": false
     },
     {
@@ -1051,45 +1129,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "34cccc6423f26bb4b139169eff9b06a8",
-      "title": "SULAND v2: A Refined RGB Dataset and Deep Learning Object Detection Benchmark for UAV/UGV-Based SUrface LANDmine Detection Under Domain Shift",
-      "url": "https://huggingface.co/papers/2607.28996",
-      "description": "RGB imagery offers a practical, low-cost option for Unmanned Aerial/Ground Vehicle (UAV/UGV) survey support in surface-landmine detection, but object detectors remain underexplored in this safety-crit",
-      "published": "2026-07-30T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "a3af70d24abc01afb81ee8b8799ca19a",
-      "title": "Evaluation-Verification Reward for Consistent Multi-Reference Image Editing",
-      "url": "https://huggingface.co/papers/2607.29025",
-      "description": "While recent image editing models have made rapid progress, multi-reference editing remains challenging, particularly in maintaining visual consistency across references and ensuring overall visual ha",
-      "published": "2026-07-30T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 11,
-      "is_new": false
-    },
-    {
-      "id": "cc1c8822049d695e0ebc8c46c130f913",
-      "title": "ExtractBench: A Benchmark for Schema-Guided Enterprise Document Extraction",
-      "url": "https://huggingface.co/papers/2607.29677",
-      "description": "Enterprise workflows increasingly rely on agents for schema-guided extraction: given a document and a user-defined schema, the agent faithfully follows the schema to produce the correct output with so",
-      "published": "2026-07-30T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 14,
       "is_new": false
     },
     {
@@ -1148,6 +1187,19 @@
       "is_new": false
     },
     {
+      "id": "beed9c2081f4cb703843080a0bda17e8",
+      "title": "VAD: Attributing Visual Evidence for Target Reconstruction in Multimodal On-Policy Distillation",
+      "url": "https://huggingface.co/papers/2607.28590",
+      "description": "Multimodal on-policy distillation (OPD) transfers fine-grained visual knowledge by supervising student-generated trajectories with a privileged-view teacher. Yet its next-token corrections are source-",
+      "published": "2026-07-29T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 12,
+      "is_new": true
+    },
+    {
       "id": "00cbdb0bc6b85f5b9ac92aaabb32732b",
       "title": "Beyond Feeling Better: Capability-Sustaining Emotional Dialogue as a Longitudinal Research Paradigm",
       "url": "https://huggingface.co/papers/2607.27851",
@@ -1200,45 +1252,6 @@
       "is_new": false
     },
     {
-      "id": "929b9e580fe5e43c5be9bc186de2d26b",
-      "title": "ODEWorld: A Continuous Predictive Architecture via Physical-Time Flow",
-      "url": "https://huggingface.co/papers/2607.27924",
-      "description": "In the physical world we inhabit, space and time are fundamentally continuous. However, existing machine learning paradigms for world modeling are largely confined to discrete-time prediction, thereby",
-      "published": "2026-07-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 7,
-      "is_new": false
-    },
-    {
-      "id": "4e119814e45e234dbf77e924e8aa2e1e",
-      "title": "Would You Walk to the Car Wash? Revealing the Salience Bias of Large Language Models in Commonsense Reasoning",
-      "url": "https://huggingface.co/papers/2607.28478",
-      "description": "As large language models (LLMs) continue to advance in complex reasoning tasks, they have learned to heavily prioritize explicit conditions provided in the input. However, in everyday commonsense reas",
-      "published": "2026-07-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
-      "is_new": false
-    },
-    {
-      "id": "d0b844e3aae20f8f8a33660af55c9aeb",
-      "title": "Safeguards Based on Copyable Context Cannot Provide Reliable Safety for LLMs",
-      "url": "https://huggingface.co/papers/2607.27951",
-      "description": "Large language model safeguards decide whether to answer before seeing how an answer will be used. This creates a basic problem for dual-use tasks: the same answer can help an authorized professional ",
-      "published": "2026-07-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
       "id": "49099891",
       "title": "Show HN: MandoCode Desktop – Native Windows AI Coding Assistant on Ollama .NET",
       "url": "https://github.com/DevMando/MandoCode.Desktop",
@@ -1278,20 +1291,6 @@
       "category": "news",
       "points": 3,
       "comments": 2,
-      "is_new": false
-    },
-    {
-      "id": "49094760",
-      "title": "Show HN: Get a security assessment of MCP servers directly from your terminal",
-      "url": "https://index.canopii.dev/cli",
-      "description": "",
-      "published": "2026-07-29T08:26:16Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 0,
       "is_new": false
     }
   ],
@@ -1356,6 +1355,18 @@
         "source_icon": "📰",
         "category": "news",
         "is_new": false
+      },
+      {
+        "id": "8e6013752b7746eea82fb44ad0b76cc8",
+        "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+        "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+        "description": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
+        "published": "Mon, 03 Aug 2026 23:19:50 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
       },
       {
         "id": "4d7bc75aa17b4e7fd3c4e8d9a5eac506",
@@ -1526,18 +1537,6 @@
         "is_new": false
       },
       {
-        "id": "9fb139bb8c5f3fce71cbd98eefbc25f0",
-        "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
-        "url": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
-        "description": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out o",
-        "published": "Fri, 31 Jul 2026 14:00:00 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
         "id": "49159018",
         "title": "Show HN: Hacker News with AI stories filtered out",
         "url": "https://hcker.news/?view=frontpage&ai=exclude",
@@ -1547,7 +1546,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 37,
+        "points": 45,
         "comments": 9,
         "is_new": false
       },
