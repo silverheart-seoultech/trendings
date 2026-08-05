@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-05T09:45:58.500348+00:00",
+  "last_updated": "2026-08-05T12:13:05.735064+00:00",
   "total_entries": 110,
-  "new_entries": 1,
+  "new_entries": 8,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,6 +47,18 @@
     }
   ],
   "entries": [
+    {
+      "id": "8b3b35a1cad7676c836062940732e687",
+      "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
+      "url": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
+      "description": "WindBorne Systems has raised $37 million Series B round to scale its weather balloons and AI forecasts.",
+      "published": "Wed, 05 Aug 2026 11:00:00 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "14a81196b368a67a6d4b3e1281fa5494",
       "title": "Revisiting Classic Thought Experiments to Measure Consciousness for Artificial Intelligence Safety",
@@ -672,18 +684,6 @@
       "is_new": false
     },
     {
-      "id": "88ab0b7f770b58a2c2b339b73b7cafd1",
-      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-      "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-      "description": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
-      "published": "Sat, 01 Aug 2026 20:26:04 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "8e6013752b7746eea82fb44ad0b76cc8",
       "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
       "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
@@ -768,6 +768,44 @@
       "is_new": false
     },
     {
+      "id": "49180795",
+      "title": "AI Agents for Logistics, Pitfall?",
+      "url": "https://news.ycombinator.com/item?id=49180795",
+      "description": "",
+      "published": "2026-08-05T10:24:13Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "f91b380ba63e08a78858d1f8b06ad534",
+      "title": "Google Assistant will disappear from your phone next month",
+      "url": "https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown",
+      "description": "Google Assistant's days have been numbered ever since Gemini arrived on the scene, and its time is now up. Google has announced that it will be removing access to Assistant on Android phones and table",
+      "published": "2026-08-05T07:12:50-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "b654b838a5d889472fc607bcc57e2fe6",
+      "title": "Trump’s AI testing plan is limited and vague",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded",
+      "description": "The Trump administration's framework for assessing potential cybersecurity risks posed by advanced AI reportedly has no interest in testing open models. Axios reports that not only do the voluntary gu",
+      "published": "2026-08-05T06:29:47-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "49177986",
       "title": "Show HN: Memcode launches a new terminal coding agent",
       "url": "https://www.memcode.ai/",
@@ -831,7 +869,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 33,
+      "points": 37,
       "comments": 26,
       "is_new": false
     },
@@ -948,6 +986,32 @@
       "is_new": false
     },
     {
+      "id": "a5c99f8eaf19554de61e903cb2d4bb60",
+      "title": "When Attention Goes Blind: Numerical Failure in ALiBi Positional Encodings",
+      "url": "https://huggingface.co/papers/2608.03994",
+      "description": "We identify a previously overlooked failure mode of ALiBi positional encoding: its linear bias scaling underflows floating-point precision, which zeroes out a large fraction of attention weights and r",
+      "published": "2026-08-03T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "d8c388be8b8fad08d997a09cb8642449",
+      "title": "Multi-Task Multi-Frame Visual Piano Transcription",
+      "url": "https://huggingface.co/papers/2608.03419",
+      "description": "Audio-based piano transcription performs well on onset, pitch, and velocity, but the sustain pedal lets sound persist long after key release, so audio systems predict pedal-extended offsets rather tha",
+      "published": "2026-08-03T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "d70606f26a09a4b8eeac1ce8931c19bf",
       "title": "ContinualSkillBench: Can LLM Agents Truly Evolve Their Capabilities?",
       "url": "https://huggingface.co/papers/2608.03874",
@@ -957,7 +1021,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 7,
       "is_new": false
     },
     {
@@ -970,7 +1034,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 13,
+      "likes": 20,
       "is_new": false
     },
     {
@@ -983,7 +1047,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 7,
       "is_new": false
     },
     {
@@ -996,7 +1060,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 28,
+      "likes": 42,
       "is_new": false
     },
     {
@@ -1009,7 +1073,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 20,
+      "likes": 25,
       "is_new": false
     },
     {
@@ -1022,33 +1086,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 15,
-      "is_new": false
-    },
-    {
-      "id": "784cd7733eeb450e3789a1093455909f",
-      "title": "TurnSight: Turn-Level Hindsight Self-Distillation for Tool-Integrated Reasoning",
-      "url": "https://huggingface.co/papers/2608.04007",
-      "description": "Tool-Integrated Reasoning (TIR) enables LLMs to solve complex tasks through iterative tool interactions. However, existing reinforcement learning methods often rely on trajectory-level supervision, li",
-      "published": "2026-08-03T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 10,
-      "is_new": false
-    },
-    {
-      "id": "b0777a8acf5042c3cb30b00695e7fbc0",
-      "title": "JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
-      "url": "https://huggingface.co/papers/2608.03974",
-      "description": "Real-time video editing requires low-latency causal generation with bounded computational resources while preserving source fidelity and long-term temporal consistency. We present JoyAI-Video-Edit, a ",
-      "published": "2026-08-03T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 65,
+      "likes": 19,
       "is_new": false
     },
     {
@@ -1094,30 +1132,6 @@
       "is_new": false
     },
     {
-      "id": "0fb7db373bd793a5d1023556f1252c70",
-      "title": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-      "description": "Chinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivaling the best systems from US frontier labs Anthropic and OpenAI, as well",
-      "published": "2026-08-03T07:20:37-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "bbc62a8f12e049508763fe3b39209828",
-      "title": "Fender’s CEO seems to think your bandmates are just analog AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
-      "description": "Fender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started mak",
-      "published": "2026-08-03T05:23:36-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "49149134",
       "title": "Teaching an AI to know itself: Building a local LLM agent in D",
       "url": "https://blog.dlang.org/2026/06/07/teaching-an-ai-to-know-itself-building-a-local-llm-agent-in-d/",
@@ -1155,7 +1169,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -1168,7 +1182,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 22,
+      "likes": 27,
       "is_new": false
     },
     {
@@ -1181,7 +1195,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 32,
+      "likes": 36,
       "is_new": false
     },
     {
@@ -1194,7 +1208,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 25,
+      "likes": 32,
       "is_new": false
     },
     {
@@ -1207,7 +1221,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 48,
+      "likes": 61,
       "is_new": false
     },
     {
@@ -1220,20 +1234,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 15,
-      "is_new": false
-    },
-    {
-      "id": "e394b868ec1854e737a9df7543352fcc",
-      "title": "Hunyuan3D-Buffalo 1.0: A Unified Multimodal Model for Scalable 3D Generation, Understanding, and Editing",
-      "url": "https://huggingface.co/papers/2608.02711",
-      "description": "Recent advances in image generation have demonstrated the potential of unified multimodal models that integrate understanding, generation, and editing. However, unified 3D modeling remains constrained",
-      "published": "2026-08-02T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 58,
+      "likes": 19,
       "is_new": false
     },
     {
@@ -1246,7 +1247,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 8,
       "is_new": false
     },
     {
@@ -1273,7 +1274,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 7,
       "is_new": true
     },
     {
@@ -1286,11 +1287,385 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 6,
       "is_new": false
     }
   ],
   "by_category": {
+    "news": [
+      {
+        "id": "8b3b35a1cad7676c836062940732e687",
+        "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
+        "url": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
+        "description": "WindBorne Systems has raised $37 million Series B round to scale its weather balloons and AI forecasts.",
+        "published": "Wed, 05 Aug 2026 11:00:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "d677fdcd54de9c4ce4e6db7efe33f34d",
+        "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+        "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+        "description": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
+        "published": "Tue, 04 Aug 2026 21:07:26 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "c30ea359fc494916ec0e12a201a83241",
+        "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+        "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+        "description": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and",
+        "published": "Tue, 04 Aug 2026 20:05:26 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "af3fbfe150b00022cd319aa3b04b9280",
+        "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+        "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+        "description": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+        "published": "Tue, 04 Aug 2026 19:48:40 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "8cd05edd7a37d5b154da56828af1064c",
+        "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+        "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+        "description": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
+        "published": "Tue, 04 Aug 2026 19:34:34 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "a21d180516b22df290a01a2e1c8f1f2b",
+        "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+        "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+        "description": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
+        "published": "Tue, 04 Aug 2026 19:28:49 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "d239bf7b26606f6114ca6fddaa0566a7",
+        "title": "Spotify expands AI remix and covers project with Merlin partnership",
+        "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+        "description": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool",
+        "published": "Tue, 04 Aug 2026 15:50:06 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "f373e2402edb434df5fd5b001d701534",
+        "title": "Texas halts new data centers as governor calls for audits",
+        "url": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
+        "description": "Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply. But even Texas can b",
+        "published": "Tue, 04 Aug 2026 15:42:35 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "80e106fe7e7308168e2ca6eac7492b06",
+        "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
+        "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
+        "description": "An analysis of the last seven years of Tesla earnings calls shows just how little attention Musk pays to Tesla's car business.",
+        "published": "Tue, 04 Aug 2026 15:20:06 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "54ed8f1ef07ccd3efdfc9d9a38f13887",
+        "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+        "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+        "description": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.",
+        "published": "Tue, 04 Aug 2026 14:03:01 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "b79c480364b48edd25efd2672059994c",
+        "title": "Is the future of data centers portable? Runware builds a pod to find out",
+        "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
+        "description": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod.",
+        "published": "Tue, 04 Aug 2026 13:00:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "a7df2b0647a47bfd3d1b653dc3139efb",
+        "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
+        "url": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
+        "description": "Endeavor Optical Networks is planning to launch the fastest space laser communications system yet built.",
+        "published": "Tue, 04 Aug 2026 12:00:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "80e7e83282c871df9ff0bf6f6e715a88",
+        "title": "Sam Altman and AI’s decel debate",
+        "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+        "description": "On the latest episode of Equity, we discuss why Sam Altman is calling on the industry to \"pace the rate of AI development.\"",
+        "published": "Sun, 02 Aug 2026 20:54:22 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "8e6013752b7746eea82fb44ad0b76cc8",
+        "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+        "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+        "description": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
+        "published": "Mon, 03 Aug 2026 23:19:50 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "4d7bc75aa17b4e7fd3c4e8d9a5eac506",
+        "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+        "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+        "description": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.",
+        "published": "Mon, 03 Aug 2026 20:00:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "5c210e03771f39bbc885100257e1d238",
+        "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+        "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+        "description": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
+        "published": "Mon, 03 Aug 2026 19:28:57 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "29dbca12f879ba885b455ad69df303f3",
+        "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+        "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+        "description": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
+        "published": "Mon, 03 Aug 2026 19:09:56 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "bead3af33d16a52098aa0995d1a976fd",
+        "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+        "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+        "description": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary.",
+        "published": "Mon, 03 Aug 2026 18:43:43 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "d0bd8659148e449b8d0c29bba55aefac",
+        "title": "Congress’ favorite AI tool? ChatGPT",
+        "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+        "description": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent comm",
+        "published": "Mon, 03 Aug 2026 16:40:55 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "a7754f051081bacfd5e1b5a8a14a24ca",
+        "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+        "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+        "description": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
+        "published": "Mon, 03 Aug 2026 10:00:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "49180795",
+        "title": "AI Agents for Logistics, Pitfall?",
+        "url": "https://news.ycombinator.com/item?id=49180795",
+        "description": "",
+        "published": "2026-08-05T10:24:13Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 1,
+        "comments": 0,
+        "is_new": true
+      },
+      {
+        "id": "f91b380ba63e08a78858d1f8b06ad534",
+        "title": "Google Assistant will disappear from your phone next month",
+        "url": "https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown",
+        "description": "Google Assistant's days have been numbered ever since Gemini arrived on the scene, and its time is now up. Google has announced that it will be removing access to Assistant on Android phones and table",
+        "published": "2026-08-05T07:12:50-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "b654b838a5d889472fc607bcc57e2fe6",
+        "title": "Trump’s AI testing plan is limited and vague",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded",
+        "description": "The Trump administration's framework for assessing potential cybersecurity risks posed by advanced AI reportedly has no interest in testing open models. Axios reports that not only do the voluntary gu",
+        "published": "2026-08-05T06:29:47-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "49177986",
+        "title": "Show HN: Memcode launches a new terminal coding agent",
+        "url": "https://www.memcode.ai/",
+        "description": "",
+        "published": "2026-08-05T02:44:07Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 3,
+        "comments": 0,
+        "is_new": false
+      },
+      {
+        "id": "49175985",
+        "title": "Show HN: Collab Word in Web – Collaborative Near MS Word Parity Docx Editor",
+        "url": "https://collab.word-in-web.com/",
+        "description": "",
+        "published": "2026-08-04T22:17:28Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 2,
+        "comments": 0,
+        "is_new": false
+      },
+      {
+        "id": "49175107",
+        "title": "LFM2.5-2.6B: On-Device Agents",
+        "url": "https://docs.liquid.ai/lfm/models/lfm25-2.6b",
+        "description": "",
+        "published": "2026-08-04T21:03:23Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 2,
+        "comments": 0,
+        "is_new": false
+      },
+      {
+        "id": "1670c7880711cf4494ef26274776b097",
+        "title": "AMD&#8217;s data center business is booming while gaming takes a backseat",
+        "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+        "description": "Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion. That's up from $5.8 billion in Q1, and jumping 107 pe",
+        "published": "2026-08-04T19:03:39-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "49172936",
+        "title": "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research",
+        "url": "https://edotenv.com/",
+        "description": "",
+        "published": "2026-08-04T18:36:02Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 37,
+        "comments": 26,
+        "is_new": false
+      },
+      {
+        "id": "dc48138fd85118247f38752355e5a11f",
+        "title": "SpaceX made more revenue as an AI company than a space company",
+        "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+        "description": "SpaceX's AI revenue grew more than three times to $2.6 billion from the year before, mostly because of deals that the company made to provide compute to other AI companies, according to SpaceX's quart",
+        "published": "2026-08-04T17:42:17-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "49171258",
+        "title": "Show HN: Blender for AI Agents",
+        "url": "https://www.mixar.app",
+        "description": "",
+        "published": "2026-08-04T16:35:12Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 6,
+        "comments": 6,
+        "is_new": false
+      }
+    ],
     "research": [
       {
         "id": "14a81196b368a67a6d4b3e1281fa5494",
@@ -1650,380 +2025,6 @@
         "source_name": "arXiv ML",
         "source_icon": "📄",
         "category": "research",
-        "is_new": false
-      }
-    ],
-    "news": [
-      {
-        "id": "d677fdcd54de9c4ce4e6db7efe33f34d",
-        "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
-        "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
-        "description": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
-        "published": "Tue, 04 Aug 2026 21:07:26 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "c30ea359fc494916ec0e12a201a83241",
-        "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
-        "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
-        "description": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and",
-        "published": "Tue, 04 Aug 2026 20:05:26 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "af3fbfe150b00022cd319aa3b04b9280",
-        "title": "Anthropic signs $10B deal with AI cloud startup Volta",
-        "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
-        "description": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
-        "published": "Tue, 04 Aug 2026 19:48:40 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "8cd05edd7a37d5b154da56828af1064c",
-        "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
-        "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
-        "description": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
-        "published": "Tue, 04 Aug 2026 19:34:34 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "a21d180516b22df290a01a2e1c8f1f2b",
-        "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
-        "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
-        "description": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
-        "published": "Tue, 04 Aug 2026 19:28:49 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "d239bf7b26606f6114ca6fddaa0566a7",
-        "title": "Spotify expands AI remix and covers project with Merlin partnership",
-        "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
-        "description": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool",
-        "published": "Tue, 04 Aug 2026 15:50:06 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "f373e2402edb434df5fd5b001d701534",
-        "title": "Texas halts new data centers as governor calls for audits",
-        "url": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
-        "description": "Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply. But even Texas can b",
-        "published": "Tue, 04 Aug 2026 15:42:35 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "80e106fe7e7308168e2ca6eac7492b06",
-        "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
-        "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
-        "description": "An analysis of the last seven years of Tesla earnings calls shows just how little attention Musk pays to Tesla's car business.",
-        "published": "Tue, 04 Aug 2026 15:20:06 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "54ed8f1ef07ccd3efdfc9d9a38f13887",
-        "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-        "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-        "description": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.",
-        "published": "Tue, 04 Aug 2026 14:03:01 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "b79c480364b48edd25efd2672059994c",
-        "title": "Is the future of data centers portable? Runware builds a pod to find out",
-        "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
-        "description": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod.",
-        "published": "Tue, 04 Aug 2026 13:00:00 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "a7df2b0647a47bfd3d1b653dc3139efb",
-        "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
-        "url": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
-        "description": "Endeavor Optical Networks is planning to launch the fastest space laser communications system yet built.",
-        "published": "Tue, 04 Aug 2026 12:00:00 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "80e7e83282c871df9ff0bf6f6e715a88",
-        "title": "Sam Altman and AI’s decel debate",
-        "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
-        "description": "On the latest episode of Equity, we discuss why Sam Altman is calling on the industry to \"pace the rate of AI development.\"",
-        "published": "Sun, 02 Aug 2026 20:54:22 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "88ab0b7f770b58a2c2b339b73b7cafd1",
-        "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-        "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-        "description": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
-        "published": "Sat, 01 Aug 2026 20:26:04 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "8e6013752b7746eea82fb44ad0b76cc8",
-        "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
-        "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
-        "description": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
-        "published": "Mon, 03 Aug 2026 23:19:50 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "4d7bc75aa17b4e7fd3c4e8d9a5eac506",
-        "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
-        "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
-        "description": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.",
-        "published": "Mon, 03 Aug 2026 20:00:00 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "5c210e03771f39bbc885100257e1d238",
-        "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
-        "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
-        "description": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
-        "published": "Mon, 03 Aug 2026 19:28:57 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "29dbca12f879ba885b455ad69df303f3",
-        "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
-        "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
-        "description": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
-        "published": "Mon, 03 Aug 2026 19:09:56 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "bead3af33d16a52098aa0995d1a976fd",
-        "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
-        "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
-        "description": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary.",
-        "published": "Mon, 03 Aug 2026 18:43:43 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "d0bd8659148e449b8d0c29bba55aefac",
-        "title": "Congress’ favorite AI tool? ChatGPT",
-        "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
-        "description": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent comm",
-        "published": "Mon, 03 Aug 2026 16:40:55 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "a7754f051081bacfd5e1b5a8a14a24ca",
-        "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
-        "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
-        "description": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
-        "published": "Mon, 03 Aug 2026 10:00:00 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "49177986",
-        "title": "Show HN: Memcode launches a new terminal coding agent",
-        "url": "https://www.memcode.ai/",
-        "description": "",
-        "published": "2026-08-05T02:44:07Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 3,
-        "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "49175985",
-        "title": "Show HN: Collab Word in Web – Collaborative Near MS Word Parity Docx Editor",
-        "url": "https://collab.word-in-web.com/",
-        "description": "",
-        "published": "2026-08-04T22:17:28Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 2,
-        "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "49175107",
-        "title": "LFM2.5-2.6B: On-Device Agents",
-        "url": "https://docs.liquid.ai/lfm/models/lfm25-2.6b",
-        "description": "",
-        "published": "2026-08-04T21:03:23Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 2,
-        "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "1670c7880711cf4494ef26274776b097",
-        "title": "AMD&#8217;s data center business is booming while gaming takes a backseat",
-        "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
-        "description": "Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion. That's up from $5.8 billion in Q1, and jumping 107 pe",
-        "published": "2026-08-04T19:03:39-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "49172936",
-        "title": "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research",
-        "url": "https://edotenv.com/",
-        "description": "",
-        "published": "2026-08-04T18:36:02Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 33,
-        "comments": 26,
-        "is_new": false
-      },
-      {
-        "id": "dc48138fd85118247f38752355e5a11f",
-        "title": "SpaceX made more revenue as an AI company than a space company",
-        "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
-        "description": "SpaceX's AI revenue grew more than three times to $2.6 billion from the year before, mostly because of deals that the company made to provide compute to other AI companies, according to SpaceX's quart",
-        "published": "2026-08-04T17:42:17-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "49171258",
-        "title": "Show HN: Blender for AI Agents",
-        "url": "https://www.mixar.app",
-        "description": "",
-        "published": "2026-08-04T16:35:12Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 6,
-        "comments": 6,
-        "is_new": false
-      },
-      {
-        "id": "24da5cc46a91b3f720f3a6dfb2d40b3b",
-        "title": "How an OpenAI influencer trip backfired",
-        "url": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
-        "description": "The brand trip is a right of passage for influencers. It's a mark of legitimacy that a sponsor wants to invite them on an all-expenses-paid vacation, often with luxurious freebies and activities. Trip",
-        "published": "2026-08-04T14:16:11-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "49169280",
-        "title": "Show HN: Guide AI coding agents on how to use libraries securely",
-        "url": "https://github.com/Reware-Labs/securitycards",
-        "description": "",
-        "published": "2026-08-04T14:12:10Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 2,
-        "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "62a45b0de0e1035b8708b7521cc72cdf",
-        "title": "‘Not healthy’ LLM use is more common than you think",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
-        "description": "Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI. Green described his AI usage as \"not healthy,\" but stressed",
-        "published": "2026-08-04T13:33:46-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
         "is_new": false
       }
     ]
