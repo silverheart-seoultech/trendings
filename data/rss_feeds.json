@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-05T06:39:18.433293+00:00",
+  "last_updated": "2026-08-05T08:44:01.814191+00:00",
   "total_entries": 110,
-  "new_entries": 30,
+  "new_entries": 34,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -948,6 +948,32 @@
       "is_new": false
     },
     {
+      "id": "d70606f26a09a4b8eeac1ce8931c19bf",
+      "title": "ContinualSkillBench: Can LLM Agents Truly Evolve Their Capabilities?",
+      "url": "https://huggingface.co/papers/2608.03874",
+      "description": "Modern agent frameworks equip large language models with external skill libraries to solve complex tasks. However, it remains unclear whether these systems can effectively evolve their skills and whet",
+      "published": "2026-08-03T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "cd2a38f8a2867f5e7c47e62a89ce7d47",
+      "title": "LLaDA MoE v2: Scaling Mixture-of-Experts Diffusion Language Models",
+      "url": "https://huggingface.co/papers/2608.03457",
+      "description": "Diffusion language models (dLLMs) offer an alternative to autoregressive (AR) language modeling, yet the scaling behavior of Mixture-of-Experts (MoE) dLLMs remains poorly understood. We systematically",
+      "published": "2026-08-03T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 12,
+      "is_new": true
+    },
+    {
       "id": "23e14d7d542fc93567a381a57d10d7c2",
       "title": "When Agents Learn to Be You: Benchmarking Privacy Leakage, Impersonation Risk, and Defenses in Persona Skills",
       "url": "https://huggingface.co/papers/2608.03700",
@@ -957,7 +983,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": true
     },
     {
@@ -970,7 +996,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 10,
+      "likes": 17,
       "is_new": true
     },
     {
@@ -983,7 +1009,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 18,
+      "likes": 20,
       "is_new": true
     },
     {
@@ -1022,7 +1048,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 58,
+      "likes": 62,
       "is_new": false
     },
     {
@@ -1035,33 +1061,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 11,
-      "is_new": false
-    },
-    {
-      "id": "c9170213dce3396648dec1d0f5d43db3",
-      "title": "UniWorld-Design: From Pixel Generation to Layer-Native Design",
-      "url": "https://huggingface.co/papers/2608.03971",
-      "description": "We introduce UniWorld-Design, a framework that redefines image generation from flat pixel synthesis to structured visual composition, with semantic RGBA layers as the atomic units of generation, under",
-      "published": "2026-08-03T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 15,
-      "is_new": false
-    },
-    {
-      "id": "beb518d9d3f95e7bc39149b239a98072",
-      "title": "Any-OPD: Heterogeneous On-Policy Distillation for Flow-Matching Models via Representation-Space Bridging",
-      "url": "https://huggingface.co/papers/2608.03316",
-      "description": "On-policy distillation, in which a teacher corrects samples that the student itself generates, presupposes that the two models speak the same language: identical VAE latents, matching architectures, a",
-      "published": "2026-08-03T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 13,
+      "likes": 12,
       "is_new": false
     },
     {
@@ -1159,6 +1159,19 @@
       "is_new": false
     },
     {
+      "id": "876015cc5b6c2a1ffa8732027f7f93fb",
+      "title": "PosterMELD: Multi-Agent Paper-to-Poster Generation for Controllable Design Diversity with Editable Print-Ready Outputs",
+      "url": "https://huggingface.co/papers/2608.02218",
+      "description": "Scientific poster construction compresses a long multimodal paper into a readable, editable canvas. Existing systems hide request-level failures by scoring only completed outputs; direct image generat",
+      "published": "2026-08-02T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "e24252e345f914e8d384c190c693873f",
       "title": "Quo Vadis, World Modeling?",
       "url": "https://huggingface.co/papers/2608.02713",
@@ -1168,7 +1181,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 15,
+      "likes": 21,
       "is_new": true
     },
     {
@@ -1181,7 +1194,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 29,
+      "likes": 32,
       "is_new": true
     },
     {
@@ -1194,7 +1207,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 22,
+      "likes": 24,
       "is_new": true
     },
     {
@@ -1207,7 +1220,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 40,
+      "likes": 42,
       "is_new": false
     },
     {
@@ -1237,17 +1250,17 @@
       "is_new": false
     },
     {
-      "id": "4883ed729bbf6ab652ae04c5a409bbdf",
-      "title": "GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience",
-      "url": "https://huggingface.co/papers/2608.02392",
-      "description": "A wearable assistant should both answer questions about its visual history and recognize when that history is useful to the present situation. Existing video-memory systems primarily support question-",
-      "published": "2026-08-02T20:00:00.000Z",
+      "id": "ff8ef7ead2a5ed0568242c7b781b45be",
+      "title": "MiniWorld: Democratizing the Training of Video World Models from Scratch",
+      "url": "https://huggingface.co/papers/2608.01127",
+      "description": "Video world models predict future observations conditioned on historical observations and control signals, enabling long-horizon generation through autoregressive state transitions. Unlike conventiona",
+      "published": "2026-08-01T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
-      "is_new": false
+      "likes": 2,
+      "is_new": true
     },
     {
       "id": "49129430",
@@ -1275,20 +1288,6 @@
       "category": "research",
       "likes": 1,
       "is_new": true
-    },
-    {
-      "id": "49120039",
-      "title": "Show HN: Slaide, open-source Markdown slides AI writes and PowerPoint opens",
-      "url": "https://getslaide.com/",
-      "description": "",
-      "published": "2026-07-31T07:21:17Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 0,
-      "is_new": false
     }
   ],
   "by_category": {
