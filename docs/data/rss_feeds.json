@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-05T20:37:43.026301+00:00",
+  "last_updated": "2026-08-05T22:18:13.358202+00:00",
   "total_entries": 110,
-  "new_entries": 7,
+  "new_entries": 9,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,6 +47,18 @@
     }
   ],
   "entries": [
+    {
+      "id": "f4b59bdfc21bfca7febe9386b880e4b0",
+      "title": "Meta launches Muse Code, an AI agent for large code bases",
+      "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+      "description": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
+      "published": "Wed, 05 Aug 2026 21:21:28 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "1619858f8bfb01bab62dc84faf12078c",
       "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
@@ -756,16 +768,18 @@
       "is_new": false
     },
     {
-      "id": "8e6013752b7746eea82fb44ad0b76cc8",
-      "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
-      "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
-      "description": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
-      "published": "Mon, 03 Aug 2026 23:19:50 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
+      "id": "49189075",
+      "title": "Prime Agent: A self-improving RLM agent",
+      "url": "https://www.primeintellect.ai/blog/prime-agent",
+      "description": "",
+      "published": "2026-08-05T21:11:57Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
       "category": "news",
-      "is_new": false
+      "points": 26,
+      "comments": 0,
+      "is_new": true
     },
     {
       "id": "49188656",
@@ -777,8 +791,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 2,
-      "comments": 0,
+      "points": 5,
+      "comments": 2,
       "is_new": true
     },
     {
@@ -791,7 +805,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 3,
+      "points": 4,
       "comments": 0,
       "is_new": false
     },
@@ -805,8 +819,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 30,
-      "comments": 20,
+      "points": 34,
+      "comments": 24,
       "is_new": false
     },
     {
@@ -843,7 +857,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 10,
+      "points": 11,
       "comments": 3,
       "is_new": false
     },
@@ -894,7 +908,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 2,
-      "comments": 1,
+      "comments": 2,
       "is_new": false
     },
     {
@@ -1079,7 +1093,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -1105,7 +1119,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -1118,7 +1132,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -1183,7 +1197,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 23,
+      "likes": 24,
       "is_new": false
     },
     {
@@ -1209,7 +1223,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 44,
+      "likes": 45,
       "is_new": false
     },
     {
@@ -1281,23 +1295,22 @@
       "points": 14,
       "comments": 10,
       "is_new": false
-    },
-    {
-      "id": "4b1ec182d9ebeb0f5216b174e6bd2c8d",
-      "title": "ARCHead: Activation-Metric Residual Correction for Large Language Model Output Heads",
-      "url": "https://huggingface.co/papers/2608.02703",
-      "description": "Weight-only quantization substantially reduces the storage of large language model (LLM) transformer blocks, but practical backends often retain the final language-modeling head (LM-head) in BF16 or F",
-      "published": "2026-08-02T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
     }
   ],
   "by_category": {
     "news": [
+      {
+        "id": "f4b59bdfc21bfca7febe9386b880e4b0",
+        "title": "Meta launches Muse Code, an AI agent for large code bases",
+        "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+        "description": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
+        "published": "Wed, 05 Aug 2026 21:21:28 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "1619858f8bfb01bab62dc84faf12078c",
         "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
@@ -1527,16 +1540,18 @@
         "is_new": false
       },
       {
-        "id": "8e6013752b7746eea82fb44ad0b76cc8",
-        "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
-        "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
-        "description": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
-        "published": "Mon, 03 Aug 2026 23:19:50 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
+        "id": "49189075",
+        "title": "Prime Agent: A self-improving RLM agent",
+        "url": "https://www.primeintellect.ai/blog/prime-agent",
+        "description": "",
+        "published": "2026-08-05T21:11:57Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
         "category": "news",
-        "is_new": false
+        "points": 26,
+        "comments": 0,
+        "is_new": true
       },
       {
         "id": "49188656",
@@ -1548,8 +1563,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 2,
-        "comments": 0,
+        "points": 5,
+        "comments": 2,
         "is_new": true
       },
       {
@@ -1562,7 +1577,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 3,
+        "points": 4,
         "comments": 0,
         "is_new": false
       },
@@ -1576,8 +1591,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 30,
-        "comments": 20,
+        "points": 34,
+        "comments": 24,
         "is_new": false
       },
       {
@@ -1614,7 +1629,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 10,
+        "points": 11,
         "comments": 3,
         "is_new": false
       },
@@ -1653,20 +1668,6 @@
         "source_icon": "📰",
         "category": "news",
         "is_new": true
-      },
-      {
-        "id": "49180795",
-        "title": "AI Agents for Logistics, Pitfall?",
-        "url": "https://news.ycombinator.com/item?id=49180795",
-        "description": "",
-        "published": "2026-08-05T10:24:13Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 2,
-        "comments": 1,
-        "is_new": false
       }
     ],
     "research": [
