@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-05T02:56:00.374074+00:00",
+  "last_updated": "2026-08-05T03:28:34.329372+00:00",
   "total_entries": 110,
-  "new_entries": 25,
+  "new_entries": 2,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -57,7 +57,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "c30ea359fc494916ec0e12a201a83241",
@@ -69,7 +69,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "af3fbfe150b00022cd319aa3b04b9280",
@@ -81,7 +81,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "8cd05edd7a37d5b154da56828af1064c",
@@ -93,7 +93,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "a21d180516b22df290a01a2e1c8f1f2b",
@@ -779,7 +779,7 @@
       "category": "news",
       "points": 1,
       "comments": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "49175985",
@@ -793,7 +793,7 @@
       "category": "news",
       "points": 2,
       "comments": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "49175107",
@@ -807,7 +807,19 @@
       "category": "news",
       "points": 2,
       "comments": 0,
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "id": "1670c7880711cf4494ef26274776b097",
+      "title": "AMD&#8217;s data center business is booming while gaming takes a backseat",
+      "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+      "description": "Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion. That's up from $5.8 billion in Q1, and jumping 107 pe",
+      "published": "2026-08-04T19:03:39-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": false
     },
     {
       "id": "49172936",
@@ -819,7 +831,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 31,
+      "points": 32,
       "comments": 24,
       "is_new": false
     },
@@ -833,19 +845,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
-    },
-    {
-      "id": "1670c7880711cf4494ef26274776b097",
-      "title": "AMD&#8217;s datacenter business is booming while gaming takes a backseat",
-      "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
-      "description": "Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion. That's up from $5.8 billion in Q1, and jumping 107 pe",
-      "published": "2026-08-04T16:59:24-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "49171258",
@@ -871,7 +871,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "49169280",
@@ -897,7 +897,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "8b650b9cdc5b34aee3efa393c2a59bdc",
@@ -948,6 +948,19 @@
       "is_new": false
     },
     {
+      "id": "ee14c26e35fac0d0e2e60e22af15f371",
+      "title": "PAST-Bench: Benchmarking the Foundations of Recursive Self-Improvement in Personal Agents",
+      "url": "https://huggingface.co/papers/2608.04003",
+      "description": "Recursive self-improvement requires agents to turn accumulated experience into better future behavior. Personal AI agents offer a concrete setting for studying this capability because they retain pref",
+      "published": "2026-08-03T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 16,
+      "is_new": true
+    },
+    {
       "id": "cc20467b58fd1fb0756c96071100deac",
       "title": "OmniPack: Unified Token Compression for Efficient Omni-modal Large Language Models",
       "url": "https://huggingface.co/papers/2608.03812",
@@ -957,8 +970,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
-      "is_new": true
+      "likes": 14,
+      "is_new": false
     },
     {
       "id": "784cd7733eeb450e3789a1093455909f",
@@ -970,8 +983,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
-      "is_new": true
+      "likes": 10,
+      "is_new": false
     },
     {
       "id": "b0777a8acf5042c3cb30b00695e7fbc0",
@@ -983,8 +996,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 29,
-      "is_new": true
+      "likes": 45,
+      "is_new": false
     },
     {
       "id": "73da7ee8d83c01692c5c7f010ea7643e",
@@ -996,8 +1009,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
-      "is_new": true
+      "likes": 9,
+      "is_new": false
     },
     {
       "id": "c9170213dce3396648dec1d0f5d43db3",
@@ -1009,8 +1022,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
-      "is_new": true
+      "likes": 13,
+      "is_new": false
     },
     {
       "id": "beb518d9d3f95e7bc39149b239a98072",
@@ -1022,8 +1035,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
-      "is_new": true
+      "likes": 11,
+      "is_new": false
     },
     {
       "id": "49159018",
@@ -1106,6 +1119,19 @@
       "is_new": false
     },
     {
+      "id": "80d92fa65ea21b1a69b4a37236710522",
+      "title": "PCSD: Persistent Consistency for Self-Distillation in Agentic Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2608.01837",
+      "description": "Large language model agents have shown strong potential in complex interactive tasks, yet their reinforcement learning (RL) is often hindered by sparse rewards, as a long multi-turn trajectory may rec",
+      "published": "2026-08-02T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 12,
+      "is_new": true
+    },
+    {
       "id": "ffaa6f89fea0b3f79e3973e14274a484",
       "title": "AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling",
       "url": "https://huggingface.co/papers/2608.02602",
@@ -1115,8 +1141,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 12,
-      "is_new": true
+      "likes": 29,
+      "is_new": false
     },
     {
       "id": "9d30ae2067b04c41038e7f75ed5baa4a",
@@ -1128,8 +1154,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
-      "is_new": true
+      "likes": 13,
+      "is_new": false
     },
     {
       "id": "e394b868ec1854e737a9df7543352fcc",
@@ -1141,8 +1167,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
-      "is_new": true
+      "likes": 18,
+      "is_new": false
     },
     {
       "id": "4883ed729bbf6ab652ae04c5a409bbdf",
@@ -1154,8 +1180,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
-      "is_new": true
+      "likes": 9,
+      "is_new": false
     },
     {
       "id": "b7230864d9b65b1a5ff5fe06d198beb5",
@@ -1167,8 +1193,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 26,
-      "is_new": true
+      "likes": 28,
+      "is_new": false
     },
     {
       "id": "017c5d73a7f6c43ee4a5ed4834dbd912",
@@ -1194,19 +1220,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "ca35160efc1775844c95b1773eb2e111",
-      "title": "Loud or Silent? A Reusable Framework for Per-Modality Failure Analysis in Multimodal Clinical AI",
-      "url": "https://huggingface.co/papers/2608.01462",
-      "description": "Multimodal clinical models are usually judged on accuracy with every modality present, but deployment removes modalities; an echocardiogram is often unavailable where an ECG is routine. Two questions ",
-      "published": "2026-08-01T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
       "is_new": false
     },
     {
@@ -1278,19 +1291,6 @@
       "points": 5,
       "comments": 3,
       "is_new": false
-    },
-    {
-      "id": "43faf4f25741e88dbc01b4f1b2e7f5b0",
-      "title": "MerchantBench: Benchmarking LLM Agents for Long-Term Coherence in E-Commerce Operations",
-      "url": "https://huggingface.co/papers/2607.28956",
-      "description": "Large language model agents are increasingly evaluated as autonomous tool users, yet most benchmarks focus on bounded tasks with immediate success criteria. Real-world deployments often require Long-T",
-      "published": "2026-07-30T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 6,
-      "is_new": true
     }
   ],
   "by_category": {
@@ -1305,7 +1305,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "c30ea359fc494916ec0e12a201a83241",
@@ -1317,7 +1317,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "af3fbfe150b00022cd319aa3b04b9280",
@@ -1329,7 +1329,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "8cd05edd7a37d5b154da56828af1064c",
@@ -1341,7 +1341,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "a21d180516b22df290a01a2e1c8f1f2b",
@@ -1547,7 +1547,7 @@
         "category": "news",
         "points": 1,
         "comments": 0,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "49175985",
@@ -1561,7 +1561,7 @@
         "category": "news",
         "points": 2,
         "comments": 0,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "49175107",
@@ -1575,7 +1575,19 @@
         "category": "news",
         "points": 2,
         "comments": 0,
-        "is_new": true
+        "is_new": false
+      },
+      {
+        "id": "1670c7880711cf4494ef26274776b097",
+        "title": "AMD&#8217;s data center business is booming while gaming takes a backseat",
+        "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+        "description": "Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion. That's up from $5.8 billion in Q1, and jumping 107 pe",
+        "published": "2026-08-04T19:03:39-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
       },
       {
         "id": "49172936",
@@ -1587,7 +1599,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 31,
+        "points": 32,
         "comments": 24,
         "is_new": false
       },
@@ -1601,19 +1613,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
-      },
-      {
-        "id": "1670c7880711cf4494ef26274776b097",
-        "title": "AMD&#8217;s datacenter business is booming while gaming takes a backseat",
-        "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
-        "description": "Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion. That's up from $5.8 billion in Q1, and jumping 107 pe",
-        "published": "2026-08-04T16:59:24-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "49171258",
@@ -1639,7 +1639,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "49169280",
@@ -1665,7 +1665,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       }
     ],
     "research": [
