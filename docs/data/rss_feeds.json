@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-05T12:13:05.735064+00:00",
+  "last_updated": "2026-08-05T14:21:25.247532+00:00",
   "total_entries": 110,
-  "new_entries": 8,
+  "new_entries": 14,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,6 +47,30 @@
     }
   ],
   "entries": [
+    {
+      "id": "e911d06afa88ad64ecfea1717b715cf1",
+      "title": "Anthropic is hiring an AI chip design team",
+      "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+      "description": "Anthropic is building a team for designing its own custom AI chips. The Claude-maker said it would co-design hardware and models to help its technology run faster and more efficiently.",
+      "published": "Wed, 05 Aug 2026 14:13:18 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "63d1078404a27aca678437b940b9e61f",
+      "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
+      "url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
+      "description": "MacPaw is building a local version of its AI assistant Eney using Liquid AI's models.",
+      "published": "Wed, 05 Aug 2026 12:28:38 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "8b3b35a1cad7676c836062940732e687",
       "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
@@ -672,18 +696,6 @@
       "is_new": false
     },
     {
-      "id": "80e7e83282c871df9ff0bf6f6e715a88",
-      "title": "Sam Altman and AI’s decel debate",
-      "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
-      "description": "On the latest episode of Equity, we discuss why Sam Altman is calling on the industry to \"pace the rate of AI development.\"",
-      "published": "Sun, 02 Aug 2026 20:54:22 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "8e6013752b7746eea82fb44ad0b76cc8",
       "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
       "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
@@ -756,16 +768,18 @@
       "is_new": false
     },
     {
-      "id": "a7754f051081bacfd5e1b5a8a14a24ca",
-      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
-      "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
-      "description": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
-      "published": "Mon, 03 Aug 2026 10:00:00 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
+      "id": "49182263",
+      "title": "Show HN: An AI agent that trades inside limits you set, starting on paper",
+      "url": "https://quantsignals.xyz/fst",
+      "description": "",
+      "published": "2026-08-05T13:01:29Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
       "category": "news",
-      "is_new": false
+      "points": 3,
+      "comments": 1,
+      "is_new": true
     },
     {
       "id": "49180795",
@@ -843,7 +857,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 2,
+      "points": 3,
       "comments": 0,
       "is_new": false
     },
@@ -869,8 +883,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 37,
-      "comments": 26,
+      "points": 38,
+      "comments": 27,
       "is_new": false
     },
     {
@@ -986,6 +1000,19 @@
       "is_new": false
     },
     {
+      "id": "99a72be4a9449902e9c4dc4b8c809630",
+      "title": "ChronoLens: Measuring Language Change Across Time, Languages, and Linguistic Levels",
+      "url": "https://huggingface.co/papers/2608.03507",
+      "description": "Historical language change affects morphology, syntax, semantics, and pragmatics, yet computational studies typically examine these levels with incompatible representations and therefore cannot determ",
+      "published": "2026-08-03T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "a5c99f8eaf19554de61e903cb2d4bb60",
       "title": "When Attention Goes Blind: Numerical Failure in ALiBi Positional Encodings",
       "url": "https://huggingface.co/papers/2608.03994",
@@ -1021,7 +1048,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
+      "likes": 8,
       "is_new": false
     },
     {
@@ -1047,7 +1074,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
+      "likes": 8,
       "is_new": false
     },
     {
@@ -1073,20 +1100,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 25,
-      "is_new": false
-    },
-    {
-      "id": "cc20467b58fd1fb0756c96071100deac",
-      "title": "OmniPack: Unified Token Compression for Efficient Omni-modal Large Language Models",
-      "url": "https://huggingface.co/papers/2608.03812",
-      "description": "Omni-modal large language models (Omni-LLMs) have achieved remarkable performance on audio-visual understanding tasks, but processing long and highly redundant visual and audio token sequences incurs ",
-      "published": "2026-08-03T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 19,
+      "likes": 27,
       "is_new": false
     },
     {
@@ -1160,6 +1174,19 @@
       "is_new": false
     },
     {
+      "id": "41053e7573079815f6cb737c6ba5f2b1",
+      "title": "Better, Stronger, Faster, and Broader: Structured All-Mask Prediction for MLLM-Based Segmentation",
+      "url": "https://huggingface.co/papers/2608.02791",
+      "description": "MLLM-based segmentation faces a core segmentation trilemma: high segmentation performance, preserved dialogue ability, and fast inference. Embedding-prediction methods may disrupt language modeling th",
+      "published": "2026-08-02T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
       "id": "876015cc5b6c2a1ffa8732027f7f93fb",
       "title": "PosterMELD: Multi-Agent Paper-to-Poster Generation for Controllable Design Diversity with Editable Print-Ready Outputs",
       "url": "https://huggingface.co/papers/2608.02218",
@@ -1208,34 +1235,21 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 32,
+      "likes": 35,
       "is_new": false
     },
     {
-      "id": "ffaa6f89fea0b3f79e3973e14274a484",
-      "title": "AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling",
-      "url": "https://huggingface.co/papers/2608.02602",
-      "description": "Language remains an outlier in generative modeling: while images, video, and audio are increasingly modeled in continuous latent spaces, text generation still relies predominantly on discrete tokens. ",
-      "published": "2026-08-02T20:00:00.000Z",
+      "id": "0b537c92a2721e1db3636722cc516280",
+      "title": "RestoreKV: Recovering Full-Cache Behavior Under Aggressive Query-Agnostic KV Cache Eviction",
+      "url": "https://huggingface.co/papers/2608.01247",
+      "description": "Query-agnostic KV cache eviction compresses a context once and reuses the resulting cache for arbitrary future queries, but performance can collapse under tight budgets. Existing methods primarily imp",
+      "published": "2026-08-01T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 61,
-      "is_new": false
-    },
-    {
-      "id": "9d30ae2067b04c41038e7f75ed5baa4a",
-      "title": "CAPEval: A Decoupled Caption Evaluation across Understanding and Generation",
-      "url": "https://huggingface.co/papers/2608.02589",
-      "description": "Captions serve as a primary supervision signal for both multimodal understanding and text-to-image generation. However, previous evaluations treat the caption quality as a single scalar objective, whi",
-      "published": "2026-08-02T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 19,
-      "is_new": false
+      "likes": 2,
+      "is_new": true
     },
     {
       "id": "ff8ef7ead2a5ed0568242c7b781b45be",
@@ -1247,7 +1261,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
+      "likes": 9,
       "is_new": false
     },
     {
@@ -1276,23 +1290,34 @@
       "category": "research",
       "likes": 7,
       "is_new": true
-    },
-    {
-      "id": "5968ca8b7bb0f653199128b28b8b6101",
-      "title": "Push-Wiper: Toward General-Purpose Robotic Cleaning across Varied Stains and Surfaces with Segmented Pushing Trajectories",
-      "url": "https://huggingface.co/papers/2608.00730",
-      "description": "Viscous stains, characterized by high viscosity and complex rheological properties, remain a major challenge for robotic surface cleaning. Conventional wiping often spreads the stain, while scrubbing ",
-      "published": "2026-07-31T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 6,
-      "is_new": false
     }
   ],
   "by_category": {
     "news": [
+      {
+        "id": "e911d06afa88ad64ecfea1717b715cf1",
+        "title": "Anthropic is hiring an AI chip design team",
+        "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+        "description": "Anthropic is building a team for designing its own custom AI chips. The Claude-maker said it would co-design hardware and models to help its technology run faster and more efficiently.",
+        "published": "Wed, 05 Aug 2026 14:13:18 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "63d1078404a27aca678437b940b9e61f",
+        "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
+        "url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
+        "description": "MacPaw is building a local version of its AI assistant Eney using Liquid AI's models.",
+        "published": "Wed, 05 Aug 2026 12:28:38 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "8b3b35a1cad7676c836062940732e687",
         "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
@@ -1438,18 +1463,6 @@
         "is_new": false
       },
       {
-        "id": "80e7e83282c871df9ff0bf6f6e715a88",
-        "title": "Sam Altman and AI’s decel debate",
-        "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
-        "description": "On the latest episode of Equity, we discuss why Sam Altman is calling on the industry to \"pace the rate of AI development.\"",
-        "published": "Sun, 02 Aug 2026 20:54:22 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
         "id": "8e6013752b7746eea82fb44ad0b76cc8",
         "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
         "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
@@ -1522,16 +1535,18 @@
         "is_new": false
       },
       {
-        "id": "a7754f051081bacfd5e1b5a8a14a24ca",
-        "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
-        "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
-        "description": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
-        "published": "Mon, 03 Aug 2026 10:00:00 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
+        "id": "49182263",
+        "title": "Show HN: An AI agent that trades inside limits you set, starting on paper",
+        "url": "https://quantsignals.xyz/fst",
+        "description": "",
+        "published": "2026-08-05T13:01:29Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
         "category": "news",
-        "is_new": false
+        "points": 3,
+        "comments": 1,
+        "is_new": true
       },
       {
         "id": "49180795",
@@ -1609,7 +1624,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 2,
+        "points": 3,
         "comments": 0,
         "is_new": false
       },
@@ -1635,8 +1650,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 37,
-        "comments": 26,
+        "points": 38,
+        "comments": 27,
         "is_new": false
       },
       {
@@ -1649,20 +1664,6 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "49171258",
-        "title": "Show HN: Blender for AI Agents",
-        "url": "https://www.mixar.app",
-        "description": "",
-        "published": "2026-08-04T16:35:12Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 6,
-        "comments": 6,
         "is_new": false
       }
     ],
