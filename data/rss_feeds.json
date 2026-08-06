@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-06T06:42:40.502782+00:00",
+  "last_updated": "2026-08-06T08:45:40.936391+00:00",
   "total_entries": 110,
-  "new_entries": 46,
+  "new_entries": 48,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -805,8 +805,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 160,
-      "comments": 28,
+      "points": 178,
+      "comments": 34,
       "is_new": false
     },
     {
@@ -859,8 +859,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 51,
-      "comments": 40,
+      "points": 56,
+      "comments": 41,
       "is_new": false
     },
     {
@@ -897,7 +897,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 14,
+      "points": 15,
       "comments": 4,
       "is_new": false
     },
@@ -1032,6 +1032,19 @@
       "is_new": false
     },
     {
+      "id": "0a6cb5e439e0564cab5004dbdd7de96e",
+      "title": "FocusMem: Factorizing Content, Readout, and Trust in Latent GUI Memory",
+      "url": "https://huggingface.co/papers/2608.04530",
+      "description": "GUI agents must remember both useful experience from earlier tasks and unfinished progress in the current interaction. Latent memory offers a compact solution by compressing multimodal trajectories in",
+      "published": "2026-08-04T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
+    },
+    {
       "id": "f66260345896ab0fddae7209d72cd4f8",
       "title": "Agent Against Agent: An Agentic System for Automatic Prompt Injection Red Teaming",
       "url": "https://huggingface.co/papers/2608.05108",
@@ -1041,7 +1054,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 1,
       "is_new": true
     },
     {
@@ -1106,7 +1119,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 30,
+      "likes": 31,
       "is_new": false
     },
     {
@@ -1119,7 +1132,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 10,
+      "likes": 12,
       "is_new": false
     },
     {
@@ -1132,7 +1145,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
+      "likes": 7,
       "is_new": false
     },
     {
@@ -1171,7 +1184,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 37,
+      "likes": 39,
       "is_new": false
     },
     {
@@ -1184,33 +1197,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 20,
-      "is_new": false
-    },
-    {
-      "id": "4e55747b00e97962940fb3c79af8ff08",
-      "title": "Poly-OPD: Heterogeneous Multi-Teacher On-Policy Distillation for Capability-Selectable Flow Models",
-      "url": "https://huggingface.co/papers/2608.04349",
-      "description": "Leading open text-to-image models often carry complementary strengths: one may lead on preference-aligned aesthetics while another follows compositional instructions more faithfully. However, differen",
-      "published": "2026-08-04T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "932ca25b4646e6bceb77dfb20ceb11dd",
-      "title": "HelloWorld: Enabling Socially Interactive Characters in Video World Models",
-      "url": "https://huggingface.co/papers/2608.05070",
-      "description": "Despite the remarkable recent progress of video world models, social interaction between users and the characters within these worlds remains unsupported. To fill this gap, we present HelloWorld, a vi",
-      "published": "2026-08-04T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
+      "likes": 21,
       "is_new": false
     },
     {
@@ -1280,6 +1267,19 @@
       "is_new": false
     },
     {
+      "id": "fb8ef0802c8094869574d78b68207c64",
+      "title": "GDPevo: Evaluating Agent Self-Evolution on Real Business Tasks",
+      "url": "https://huggingface.co/papers/2608.03764",
+      "description": "Agent self-evolution updates an agent's persistent state from prior experience and reuses it to solve related tasks more effectively. Evaluating self-evolution is difficult: existing benchmarks provid",
+      "published": "2026-08-03T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 13,
+      "is_new": true
+    },
+    {
       "id": "2063a50f056990e328d4cc555926f623",
       "title": "OneDayAgent: Towards a Long-Horizon Harness for Autonomous Agents",
       "url": "https://huggingface.co/papers/2608.05013",
@@ -1289,7 +1289,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 17,
+      "likes": 19,
       "is_new": false
     }
   ],
@@ -1573,8 +1573,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 160,
-        "comments": 28,
+        "points": 178,
+        "comments": 34,
         "is_new": false
       },
       {
@@ -1627,8 +1627,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 51,
-        "comments": 40,
+        "points": 56,
+        "comments": 41,
         "is_new": false
       },
       {
@@ -1665,7 +1665,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 14,
+        "points": 15,
         "comments": 4,
         "is_new": false
       }
