@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-07T13:15:53.957745+00:00",
-  "total_entries": 110,
-  "new_entries": 10,
+  "last_updated": "2026-08-07T13:34:34.241917+00:00",
+  "total_entries": 90,
+  "new_entries": 0,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -285,7 +285,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "1ab378ed4550fb4465715a958dd3d5ff",
@@ -779,7 +779,7 @@
       "category": "news",
       "points": 1,
       "comments": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "94e895c27149afa24d714499a28826c6",
@@ -918,149 +918,6 @@
       "is_new": false
     },
     {
-      "id": "be0ca88689c0f18e22553be70a825026",
-      "title": "MameLoshnLM: Yiddish Language Model and Evaluation Benchmark",
-      "url": "https://huggingface.co/papers/2608.05850",
-      "description": "We present MameLoshnLM, the first open-source 8B-parameter language model built specifically for Yiddish. Despite Yiddish's rich textual tradition, its limited digital presence and the scarcity of rel",
-      "published": "2026-08-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 6,
-      "is_new": true
-    },
-    {
-      "id": "0c9aee227586b4aa0cb6157c28946ece",
-      "title": "Continual Learning in Transition",
-      "url": "https://huggingface.co/papers/2608.06216",
-      "description": "Classical continual learning (CL) has primarily focused on enabling models to update and retain knowledge through parameter-centric mechanisms, e.g., training strategies, architectural designs, and we",
-      "published": "2026-08-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": true
-    },
-    {
-      "id": "dcf5036ca2c7f2d1df2d47c9c8ac421a",
-      "title": "Task-Conditional Flow Matching for Balanced Multilingual Text Embedding Adaptation",
-      "url": "https://huggingface.co/papers/2608.05785",
-      "description": "Multilingual text embedding models are commonly adapted using a single training objective across diverse tasks, despite different tasks requiring fundamentally different optimization strategies. We in",
-      "published": "2026-08-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
-      "is_new": true
-    },
-    {
-      "id": "e8e8077ac4a27d851ee5b4b3d4685ad5",
-      "title": "From Economic Agents to Agentic Economies: A Systems Blueprint for Economic World Models",
-      "url": "https://huggingface.co/papers/2608.06020",
-      "description": "Economic World Models (EWMs) are generative economic models that simulate how economies evolve from within by modeling heterogeneous agents, their beliefs and actions, and the market and institutional",
-      "published": "2026-08-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 23,
-      "is_new": true
-    },
-    {
-      "id": "f421888a5b4433127c2305301683cf33",
-      "title": "MASS: Multiplayer World Models with Authoritative Shared State",
-      "url": "https://huggingface.co/papers/2608.06257",
-      "description": "Current video world models struggle in multiplayer environments because they entangle world state with view-dependent visual latents, leading to redundant compute, view inconsistencies, and poor scala",
-      "published": "2026-08-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "2a791e4f4ccf96b6427a3cff3f0eb47c",
-      "title": "EffectLearner: World-Aware Object-Effect Reasoning for Real-World Video Object Removal",
-      "url": "https://huggingface.co/papers/2608.05565",
-      "description": "Video object removal must eliminate not only the target object but also its induced effects while maintaining high-fidelity and spatiotemporally coherent restoration. Existing methods mainly learn obj",
-      "published": "2026-08-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 12,
-      "is_new": false
-    },
-    {
-      "id": "ee63215e1d35791741c4682ab3b0800d",
-      "title": "PaDoc: Layout-Grounded Parallel Decoding for Document Parsing",
-      "url": "https://huggingface.co/papers/2608.06146",
-      "description": "End-to-end document parsers provide a unified interface, but serialize page layouts and regional contents into one autoregressive sequence. This formulation forces independent regions onto a decoding ",
-      "published": "2026-08-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 9,
-      "is_new": false
-    },
-    {
-      "id": "ce079c960a642974b8365f50be7d214c",
-      "title": "EnvACE: Internalizing Environment Dynamics via World Rehearsal for Agentic Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2608.06197",
-      "description": "Training large language model agents for long-horizon tool use typically relies on interactions with real or synthesized executable environments, whose construction and verification are costly, or on ",
-      "published": "2026-08-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 28,
-      "is_new": false
-    },
-    {
-      "id": "7f37dad4913e8503e91cd3ada9e59bb7",
-      "title": "CalibForge: Adversarial Solver Calibration for Scaling Learnable Terminal Tasks",
-      "url": "https://huggingface.co/papers/2608.06352",
-      "description": "Training terminal agents requires executable and verifiable tasks that are not merely solvable, but appropriately challenging for learning. Executable validation establishes feasibility, yet does not ",
-      "published": "2026-08-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 10,
-      "is_new": false
-    },
-    {
-      "id": "a55fc83262be0581b4763564ef5c0a4f",
-      "title": "AgentOPSD: Recursive Self-Distillation for Agentic Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2608.05987",
-      "description": "Reinforcement learning (RL) with verifiable rewards constructs trajectory-level advantage estimates, yet it often fails to credit the few pivotal decisions that determine outcomes in long-horizon, mul",
-      "published": "2026-08-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 57,
-      "is_new": false
-    },
-    {
-      "id": "a1bfb8bfecbb3aa09c648f3b97831d19",
-      "title": "GST-Bench: Can VLMs Develop Global Spatial Awareness from Video?",
-      "url": "https://huggingface.co/papers/2608.05747",
-      "description": "Spatial intelligence is fundamental to embodied agents, yet existing benchmarks focus on local spatial perception from single or few viewpoints, overlooking global spatial awareness over continuous, l",
-      "published": "2026-08-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 27,
-      "is_new": false
-    },
-    {
       "id": "49186754",
       "title": "Why Fireworks doesn't support Voice AI",
       "url": "https://news.ycombinator.com/item?id=49186754",
@@ -1126,7 +983,7 @@
       "category": "news",
       "points": 2,
       "comments": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "49175985",
@@ -1140,84 +997,6 @@
       "category": "news",
       "points": 2,
       "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "77b9c41174df2025dd2714388dfc5436",
-      "title": "Teaching Nemotron Greek: Mining a Corpus, Adapting Retrieval, and Grounding Generation for Modern Greek across Specialist Domains",
-      "url": "https://huggingface.co/papers/2608.05138",
-      "description": "Modern Greek is absent from NVIDIA's Nemotron retrieval models and from major multilingual retrieval benchmarks, despite being important for retrieval-augmented generation (RAG) in legal, energy, fina",
-      "published": "2026-08-04T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 15,
-      "is_new": true
-    },
-    {
-      "id": "437b658455ff3a53a3b289de395694eb",
-      "title": "ContextMaster: Interactive Multi-Shot Video Creation via Fixed-Budget Sparse Context Routing",
-      "url": "https://huggingface.co/papers/2608.04956",
-      "description": "Recent video models increasingly support generation, reference conditioning, and editing within a single model, yet typically expose them as separate operations over fixed inputs. Practical creation u",
-      "published": "2026-08-04T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
-      "is_new": false
-    },
-    {
-      "id": "9a907a32afc1c3b0409e494df0a45686",
-      "title": "Invisible Shortcuts: Why Vision Encoders Know Your Camera",
-      "url": "https://huggingface.co/papers/2608.05424",
-      "description": "Deep vision models exploit shortcuts, relying on cues that correlate with supervision signals. Prior work has focused on visible biases, such as object-background or texture correlations. We identify ",
-      "published": "2026-08-04T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "f5580a709eb08a01a774f3d9f51812d8",
-      "title": "World-to-Wrist: Task-Conditioned Future Wrist Modeling for Fine-Grained Robot Manipulation",
-      "url": "https://huggingface.co/papers/2608.05369",
-      "description": "Vision-language-action (VLA) models often treat main-view and wrist-view observations as parallel visual inputs, overlooking their distinct roles in robot manipulation. Fine-grained manipulation, howe",
-      "published": "2026-08-04T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 14,
-      "is_new": false
-    },
-    {
-      "id": "e244f92852f007680f03bbb4b39aa860",
-      "title": "SmartMage: Dynamic Modality Orchestration for 3D Scene Understanding",
-      "url": "https://huggingface.co/papers/2608.05137",
-      "description": "Understanding 3D scenes is fundamental to embodied intelligence, requiring joint reasoning over heterogeneous information from multiple modalities, including visual and geometric cues. However, the re",
-      "published": "2026-08-04T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 11,
-      "is_new": false
-    },
-    {
-      "id": "a519686ebc9468c64a30708867e286ba",
-      "title": "WorldClaw: Agentic 3D Open-World Generation at Scale",
-      "url": "https://huggingface.co/papers/2608.05248",
-      "description": "Generating large-scale, freely explorable 3D worlds from open-ended text remains challenging because a system must jointly maintain global spatial coherence, rich local content, and explicit assets su",
-      "published": "2026-08-04T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 41,
       "is_new": false
     },
     {
@@ -1263,19 +1042,6 @@
       "is_new": false
     },
     {
-      "id": "8cb9d85e9340e3274b94ba3b6b6b6872",
-      "title": "DataSpace: Benchmarking Data Agents for Verifiable Analytics over Heterogeneous Workspaces",
-      "url": "https://huggingface.co/papers/2608.03451",
-      "description": "Data agents enable natural-language analytics over organizational workspaces, where relevant evidence may be scattered across databases, structured files, long documents, and multimedia. Existing benc",
-      "published": "2026-08-03T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 12,
-      "is_new": true
-    },
-    {
       "id": "49154714",
       "title": "Show HN: Argot, a Rust AI guardrail based on your codebase AST patterns",
       "url": "https://argot.tmonier.com/",
@@ -1287,6 +1053,118 @@
       "category": "news",
       "points": 3,
       "comments": 2,
+      "is_new": false
+    },
+    {
+      "id": "49149134",
+      "title": "Teaching an AI to know itself: Building a local LLM agent in D",
+      "url": "https://blog.dlang.org/2026/06/07/teaching-an-ai-to-know-itself-building-a-local-llm-agent-in-d/",
+      "description": "",
+      "published": "2026-08-02T22:36:31Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 3,
+      "comments": 0,
+      "is_new": false
+    },
+    {
+      "id": "49148163",
+      "title": "Show HN: Draco – A single-binary, self-hostable Firecrawl alternative in Rust",
+      "url": "https://github.com/0xchasercat/draco/",
+      "description": "",
+      "published": "2026-08-02T20:48:45Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 14,
+      "comments": 10,
+      "is_new": false
+    },
+    {
+      "id": "49129430",
+      "title": "Show HN: GAI – A Go runtime for typed, tool-using LLM agents",
+      "url": "https://github.com/lace-ai/gai",
+      "description": "",
+      "published": "2026-07-31T22:53:26Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 3,
+      "comments": 0,
+      "is_new": false
+    },
+    {
+      "id": "49120039",
+      "title": "Show HN: Slaide, open-source Markdown slides AI writes and PowerPoint opens",
+      "url": "https://getslaide.com/",
+      "description": "",
+      "published": "2026-07-31T07:21:17Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": false
+    },
+    {
+      "id": "49119274",
+      "title": "Show HN: What should the GUI for AI agents look like?",
+      "url": "https://marbleos.com/demo",
+      "description": "",
+      "published": "2026-07-31T05:17:29Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 138,
+      "comments": 86,
+      "is_new": false
+    },
+    {
+      "id": "49119049",
+      "title": "Noisegate: A differential-privacy gateway for untrusted AI agents",
+      "url": "https://github.com/yashmahajan10/llm-differential-privacy-gateway",
+      "description": "",
+      "published": "2026-07-31T04:36:02Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": false
+    },
+    {
+      "id": "49116411",
+      "title": "Ask HN: What former \"must-have\" AI agent skills have you deprecated?",
+      "url": "https://news.ycombinator.com/item?id=49116411",
+      "description": "",
+      "published": "2026-07-30T21:59:59Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 5,
+      "comments": 3,
+      "is_new": false
+    },
+    {
+      "id": "49113543",
+      "title": "Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents",
+      "url": "https://github.com/yashmahajan10/llm-differential-privacy-gateway",
+      "description": "",
+      "published": "2026-07-30T18:08:48Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 19,
+      "comments": 0,
       "is_new": false
     }
   ],
@@ -1530,7 +1408,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "49208128",
@@ -1544,7 +1422,7 @@
         "category": "news",
         "points": 1,
         "comments": 2,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "94e895c27149afa24d714499a28826c6",
