@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-07T20:55:13.594247+00:00",
+  "last_updated": "2026-08-07T21:52:19.854755+00:00",
   "total_entries": 110,
-  "new_entries": 4,
+  "new_entries": 7,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -101,18 +101,6 @@
       "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
       "description": "Hark claims that its browser use agent is faster and cheaper than competition.",
       "published": "Wed, 05 Aug 2026 15:46:27 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "d22824990e8601dff9d56ee0e086c47f",
-      "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
-      "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
-      "description": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
-      "published": "Wed, 05 Aug 2026 15:05:00 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
@@ -240,10 +228,22 @@
       "is_new": false
     },
     {
+      "id": "c534158d528e5b564584f82e104d8cd4",
+      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+      "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+      "description": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
+      "published": "Fri, 07 Aug 2026 21:30:11 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "62678037a7feb1b265e4beccfd294771",
       "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
       "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-      "description": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, h",
+      "description": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents mo",
       "published": "Fri, 07 Aug 2026 16:16:09 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
@@ -279,7 +279,7 @@
       "id": "141bf02357552abb261d8fe5123e3a68",
       "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
       "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
-      "description": "Meta's total fine has raked up to $942 million in this case.",
+      "description": "Meta's total fine has racked up to $942 million in this case.",
       "published": "Fri, 07 Aug 2026 11:40:37 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
@@ -968,7 +968,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 250,
-      "comments": 67,
+      "comments": 68,
       "is_new": false
     },
     {
@@ -1099,32 +1099,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 28,
-      "is_new": false
-    },
-    {
-      "id": "7f37dad4913e8503e91cd3ada9e59bb7",
-      "title": "CalibForge: Adversarial Solver Calibration for Scaling Learnable Terminal Tasks",
-      "url": "https://huggingface.co/papers/2608.06352",
-      "description": "Training terminal agents requires executable and verifiable tasks that are not merely solvable, but appropriately challenging for learning. Executable validation establishes feasibility, yet does not ",
-      "published": "2026-08-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 11,
-      "is_new": false
-    },
-    {
-      "id": "a55fc83262be0581b4763564ef5c0a4f",
-      "title": "AgentOPSD: Recursive Self-Distillation for Agentic Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2608.05987",
-      "description": "Reinforcement learning (RL) with verifiable rewards constructs trajectory-level advantage estimates, yet it often fails to credit the few pivotal decisions that determine outcomes in long-horizon, mul",
-      "published": "2026-08-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 66,
       "is_new": false
     },
     {
@@ -1289,6 +1263,33 @@
       "points": 6,
       "comments": 6,
       "is_new": false
+    },
+    {
+      "id": "49169280",
+      "title": "Show HN: Guide AI coding agents on how to use libraries securely",
+      "url": "https://github.com/Reware-Labs/securitycards",
+      "description": "",
+      "published": "2026-08-04T14:12:10Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 3,
+      "comments": 2,
+      "is_new": false
+    },
+    {
+      "id": "8cb9d85e9340e3274b94ba3b6b6b6872",
+      "title": "DataSpace: Benchmarking Data Agents for Verifiable Analytics over Heterogeneous Workspaces",
+      "url": "https://huggingface.co/papers/2608.03451",
+      "description": "Data agents enable natural-language analytics over organizational workspaces, where relevant evidence may be scattered across databases, structured files, long documents, and multimedia. Existing benc",
+      "published": "2026-08-03T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 19,
+      "is_new": false
     }
   ],
   "by_category": {
@@ -1347,18 +1348,6 @@
         "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
         "description": "Hark claims that its browser use agent is faster and cheaper than competition.",
         "published": "Wed, 05 Aug 2026 15:46:27 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "d22824990e8601dff9d56ee0e086c47f",
-        "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
-        "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
-        "description": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
-        "published": "Wed, 05 Aug 2026 15:05:00 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
@@ -1486,10 +1475,22 @@
         "is_new": false
       },
       {
+        "id": "c534158d528e5b564584f82e104d8cd4",
+        "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+        "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+        "description": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
+        "published": "Fri, 07 Aug 2026 21:30:11 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "62678037a7feb1b265e4beccfd294771",
         "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
         "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-        "description": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, h",
+        "description": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents mo",
         "published": "Fri, 07 Aug 2026 16:16:09 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
@@ -1525,7 +1526,7 @@
         "id": "141bf02357552abb261d8fe5123e3a68",
         "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
         "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
-        "description": "Meta's total fine has raked up to $942 million in this case.",
+        "description": "Meta's total fine has racked up to $942 million in this case.",
         "published": "Fri, 07 Aug 2026 11:40:37 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
