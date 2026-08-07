@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-07T06:16:04.960040+00:00",
+  "last_updated": "2026-08-07T07:24:26.809944+00:00",
   "total_entries": 110,
-  "new_entries": 58,
+  "new_entries": 60,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -887,7 +887,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 248,
+      "points": 249,
       "comments": 61,
       "is_new": false
     },
@@ -904,6 +904,19 @@
       "is_new": false
     },
     {
+      "id": "f421888a5b4433127c2305301683cf33",
+      "title": "MASS: Multiplayer World Models with Authoritative Shared State",
+      "url": "https://huggingface.co/papers/2608.06257",
+      "description": "Current video world models struggle in multiplayer environments because they entangle world state with view-dependent visual latents, leading to redundant compute, view inconsistencies, and poor scala",
+      "published": "2026-08-05T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "2a791e4f4ccf96b6427a3cff3f0eb47c",
       "title": "EffectLearner: World-Aware Object-Effect Reasoning for Real-World Video Object Removal",
       "url": "https://huggingface.co/papers/2608.05565",
@@ -913,7 +926,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 2,
       "is_new": true
     },
     {
@@ -926,7 +939,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 7,
       "is_new": true
     },
     {
@@ -939,7 +952,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 23,
+      "likes": 25,
       "is_new": true
     },
     {
@@ -965,7 +978,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 44,
+      "likes": 49,
       "is_new": true
     },
     {
@@ -978,7 +991,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 15,
+      "likes": 16,
       "is_new": true
     },
     {
@@ -1115,6 +1128,19 @@
       "is_new": false
     },
     {
+      "id": "437b658455ff3a53a3b289de395694eb",
+      "title": "ContextMaster: Interactive Multi-Shot Video Creation via Fixed-Budget Sparse Context Routing",
+      "url": "https://huggingface.co/papers/2608.04956",
+      "description": "Recent video models increasingly support generation, reference conditioning, and editing within a single model, yet typically expose them as separate operations over fixed inputs. Practical creation u",
+      "published": "2026-08-04T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
       "id": "9a907a32afc1c3b0409e494df0a45686",
       "title": "Invisible Shortcuts: Why Vision Encoders Know Your Camera",
       "url": "https://huggingface.co/papers/2608.05424",
@@ -1137,7 +1163,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 13,
+      "likes": 14,
       "is_new": true
     },
     {
@@ -1150,7 +1176,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
+      "likes": 8,
       "is_new": true
     },
     {
@@ -1163,7 +1189,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 33,
+      "likes": 37,
       "is_new": true
     },
     {
@@ -1176,7 +1202,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 43,
+      "likes": 64,
       "is_new": true
     },
     {
@@ -1254,34 +1280,6 @@
       "url": "https://blog.dlang.org/2026/06/07/teaching-an-ai-to-know-itself-building-a-local-llm-agent-in-d/",
       "description": "",
       "published": "2026-08-02T22:36:31Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 3,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "49148163",
-      "title": "Show HN: Draco – A single-binary, self-hostable Firecrawl alternative in Rust",
-      "url": "https://github.com/0xchasercat/draco/",
-      "description": "",
-      "published": "2026-08-02T20:48:45Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 14,
-      "comments": 10,
-      "is_new": false
-    },
-    {
-      "id": "49129430",
-      "title": "Show HN: GAI – A Go runtime for typed, tool-using LLM agents",
-      "url": "https://github.com/lace-ai/gai",
-      "description": "",
-      "published": "2026-07-31T22:53:26Z",
       "source_id": "hn-ai",
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
@@ -1653,7 +1651,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 248,
+        "points": 249,
         "comments": 61,
         "is_new": false
       }
