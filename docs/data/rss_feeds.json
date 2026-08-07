@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-07T11:04:40.945277+00:00",
+  "last_updated": "2026-08-07T11:54:12.867616+00:00",
   "total_entries": 110,
-  "new_entries": 7,
+  "new_entries": 9,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -156,18 +156,6 @@
       "is_new": false
     },
     {
-      "id": "d677fdcd54de9c4ce4e6db7efe33f34d",
-      "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
-      "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
-      "description": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
-      "published": "Tue, 04 Aug 2026 21:07:26 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "93553c6ca62b0cfb31a11cf4839e28bd",
       "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
       "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
@@ -286,6 +274,18 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "141bf02357552abb261d8fe5123e3a68",
+      "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
+      "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
+      "description": "Meta's total fine has raked up to $942 million in this case",
+      "published": "Fri, 07 Aug 2026 11:40:37 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "1ab378ed4550fb4465715a958dd3d5ff",
@@ -778,7 +778,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 1,
-      "comments": 0,
+      "comments": 1,
       "is_new": true
     },
     {
@@ -927,7 +927,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 5,
       "is_new": true
     },
     {
@@ -1057,7 +1057,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 25,
+      "likes": 26,
       "is_new": false
     },
     {
@@ -1071,19 +1071,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 18,
-      "is_new": false
-    },
-    {
-      "id": "b57efd42e8ca1a075902870572f12a12",
-      "title": "Learning from Failures: Retrieval-Centric CoT via Hard Negatives for Unified Multimodal Retrieval",
-      "url": "https://huggingface.co/papers/2608.06060",
-      "description": "Unified multimodal retrieval aims to identify candidates that satisfy complex user intent expressed through heterogeneous inputs. Although Large Vision-Language Model (LVLM)-based retrievers are effic",
-      "published": "2026-08-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 25,
       "is_new": false
     },
     {
@@ -1243,7 +1230,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 40,
+      "likes": 41,
       "is_new": false
     },
     {
@@ -1280,6 +1267,20 @@
       "url": "https://github.com/Reware-Labs/securitycards",
       "description": "",
       "published": "2026-08-04T14:12:10Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 3,
+      "comments": 2,
+      "is_new": false
+    },
+    {
+      "id": "49154714",
+      "title": "Show HN: Argot, a Rust AI guardrail based on your codebase AST patterns",
+      "url": "https://argot.tmonier.com/",
+      "description": "",
+      "published": "2026-08-03T12:12:51Z",
       "source_id": "hn-ai",
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
@@ -1393,18 +1394,6 @@
         "url": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
         "description": "WindBorne Systems has raised a $37 million Series B round to scale its weather balloons and AI forecasts.",
         "published": "Wed, 05 Aug 2026 11:00:00 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "d677fdcd54de9c4ce4e6db7efe33f34d",
-        "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
-        "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
-        "description": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
-        "published": "Tue, 04 Aug 2026 21:07:26 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
@@ -1532,6 +1521,18 @@
         "is_new": false
       },
       {
+        "id": "141bf02357552abb261d8fe5123e3a68",
+        "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
+        "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
+        "description": "Meta's total fine has raked up to $942 million in this case",
+        "published": "Fri, 07 Aug 2026 11:40:37 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "49208128",
         "title": "Building an LLM Agent to Play Dwarf Fortress",
         "url": "https://blog.trine.dev/posts/2026-02-28-df-ai-exp/",
@@ -1542,7 +1543,7 @@
         "source_icon": "🟧",
         "category": "news",
         "points": 1,
-        "comments": 0,
+        "comments": 1,
         "is_new": true
       },
       {
