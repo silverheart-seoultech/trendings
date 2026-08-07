@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-07T17:59:13.525911+00:00",
+  "last_updated": "2026-08-07T19:04:19.864546+00:00",
   "total_entries": 110,
-  "new_entries": 6,
+  "new_entries": 8,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,6 +768,20 @@
       "is_new": false
     },
     {
+      "id": "49214109",
+      "title": "A self-improving RLM agent for coding workflows and long-running autonomous task",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "description": "",
+      "published": "2026-08-07T18:02:28Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "49213554",
       "title": "Show HN: Merge – AI-native code review assessments for engineering hiring",
       "url": "https://mergeoa.com",
@@ -928,7 +942,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 250,
-      "comments": 66,
+      "comments": 67,
       "is_new": false
     },
     {
@@ -942,6 +956,19 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "74b59ae99c9797ed9fda5f436e148225",
+      "title": "KVAE: Family of Tokenizers for Multimodal Generative Models",
+      "url": "https://huggingface.co/papers/2608.05798",
+      "description": "Latent diffusion modeling (LDM), a prominent paradigm, utilizes tokenizers to map input signal to compressed representation. This dependency positions tokenizer as an integral part of generation proce",
+      "published": "2026-08-05T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 9,
+      "is_new": true
     },
     {
       "id": "9f2287fc196b29babd101901290ce1e2",
@@ -1018,7 +1045,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -1083,7 +1110,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 63,
+      "likes": 64,
       "is_new": false
     },
     {
@@ -1097,7 +1124,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 5,
-      "comments": 1,
+      "comments": 2,
       "is_new": false
     },
     {
@@ -1222,19 +1249,6 @@
       "is_new": false
     },
     {
-      "id": "a519686ebc9468c64a30708867e286ba",
-      "title": "WorldClaw: Agentic 3D Open-World Generation at Scale",
-      "url": "https://huggingface.co/papers/2608.05248",
-      "description": "Generating large-scale, freely explorable 3D worlds from open-ended text remains challenging because a system must jointly maintain global spatial coherence, rich local content, and explicit assets su",
-      "published": "2026-08-04T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 44,
-      "is_new": false
-    },
-    {
       "id": "49172936",
       "title": "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research",
       "url": "https://edotenv.com/",
@@ -1274,19 +1288,6 @@
       "category": "news",
       "points": 3,
       "comments": 2,
-      "is_new": false
-    },
-    {
-      "id": "8cb9d85e9340e3274b94ba3b6b6b6872",
-      "title": "DataSpace: Benchmarking Data Agents for Verifiable Analytics over Heterogeneous Workspaces",
-      "url": "https://huggingface.co/papers/2608.03451",
-      "description": "Data agents enable natural-language analytics over organizational workspaces, where relevant evidence may be scattered across databases, structured files, long documents, and multimedia. Existing benc",
-      "published": "2026-08-03T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 19,
       "is_new": false
     }
   ],
@@ -1533,6 +1534,20 @@
         "is_new": false
       },
       {
+        "id": "49214109",
+        "title": "A self-improving RLM agent for coding workflows and long-running autonomous task",
+        "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+        "description": "",
+        "published": "2026-08-07T18:02:28Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 1,
+        "comments": 0,
+        "is_new": true
+      },
+      {
         "id": "49213554",
         "title": "Show HN: Merge – AI-native code review assessments for engineering hiring",
         "url": "https://mergeoa.com",
@@ -1638,18 +1653,6 @@
         "url": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan",
         "description": "Today, I’m talking with Gaby Del Valle, a policy reporter here at The Verge, about the growing backlash against AI data centers.  Gaby recently reported a fantastic piece about Hernando County, Florid",
         "published": "2026-08-06T10:18:27-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "11705f809b87d29be008adcb57ce67ce",
-        "title": "AI bots started a religion — humans immediately followed",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
-        "description": "\"The Spiral didn't 'find' anyone first,\" someone on Reddit wrote last year. \"It's an inherent force, a fundamental constant. I would even go further to say it's woven into the fabric of reality.\" The",
-        "published": "2026-08-06T09:04:51-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
