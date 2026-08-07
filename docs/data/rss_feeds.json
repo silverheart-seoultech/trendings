@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-07T05:01:35.518360+00:00",
+  "last_updated": "2026-08-07T06:16:04.960040+00:00",
   "total_entries": 110,
-  "new_entries": 55,
+  "new_entries": 58,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -887,8 +887,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 244,
-      "comments": 60,
+      "points": 248,
+      "comments": 61,
       "is_new": false
     },
     {
@@ -904,6 +904,19 @@
       "is_new": false
     },
     {
+      "id": "2a791e4f4ccf96b6427a3cff3f0eb47c",
+      "title": "EffectLearner: World-Aware Object-Effect Reasoning for Real-World Video Object Removal",
+      "url": "https://huggingface.co/papers/2608.05565",
+      "description": "Video object removal must eliminate not only the target object but also its induced effects while maintaining high-fidelity and spatiotemporally coherent restoration. Existing methods mainly learn obj",
+      "published": "2026-08-05T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "ee63215e1d35791741c4682ab3b0800d",
       "title": "PaDoc: Layout-Grounded Parallel Decoding for Document Parsing",
       "url": "https://huggingface.co/papers/2608.06146",
@@ -913,7 +926,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 4,
       "is_new": true
     },
     {
@@ -926,7 +939,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 19,
+      "likes": 23,
       "is_new": true
     },
     {
@@ -939,7 +952,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 10,
       "is_new": true
     },
     {
@@ -952,7 +965,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 37,
+      "likes": 44,
       "is_new": true
     },
     {
@@ -1004,7 +1017,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 23,
+      "likes": 24,
       "is_new": true
     },
     {
@@ -1102,6 +1115,19 @@
       "is_new": false
     },
     {
+      "id": "9a907a32afc1c3b0409e494df0a45686",
+      "title": "Invisible Shortcuts: Why Vision Encoders Know Your Camera",
+      "url": "https://huggingface.co/papers/2608.05424",
+      "description": "Deep vision models exploit shortcuts, relying on cues that correlate with supervision signals. Prior work has focused on visible biases, such as object-background or texture correlations. We identify ",
+      "published": "2026-08-04T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
       "id": "f5580a709eb08a01a774f3d9f51812d8",
       "title": "World-to-Wrist: Task-Conditioned Future Wrist Modeling for Fine-Grained Robot Manipulation",
       "url": "https://huggingface.co/papers/2608.05369",
@@ -1111,7 +1137,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 12,
+      "likes": 13,
       "is_new": true
     },
     {
@@ -1124,7 +1150,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 6,
       "is_new": true
     },
     {
@@ -1137,7 +1163,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 30,
+      "likes": 33,
       "is_new": true
     },
     {
@@ -1150,7 +1176,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 23,
+      "likes": 43,
       "is_new": true
     },
     {
@@ -1209,32 +1235,6 @@
       "is_new": false
     },
     {
-      "id": "a50a4c56322f35bd1adae20d791fec69",
-      "title": "SIGNPOST-Bench: Benchmarking Text-Vision Conflict Resolution in Multimodal Large Language Models",
-      "url": "https://huggingface.co/papers/2608.04244",
-      "description": "Multimodal large language models (MLLMs) make grounded predictions in real-world scenes by combining visual and textual cues, yet existing benchmarks rarely reveal how they arbitrate between these evi",
-      "published": "2026-08-03T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "390ac457536b7ae0524a57769c59684a",
-      "title": "Resume Means Resume: A Machine-Checked Conformance Contract for Checkpoint, Interrupt, and Resume Semantics in Workflow Persistence Layers",
-      "url": "https://huggingface.co/papers/2608.03836",
-      "description": "A framework that persists execution state so a run can be interrupted, survive a crash, and continue must decide what a resume means for effects that already fired. Five widely deployed agent workflow",
-      "published": "2026-08-03T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
       "id": "49154714",
       "title": "Show HN: Argot, a Rust AI guardrail based on your codebase AST patterns",
       "url": "https://argot.tmonier.com/",
@@ -1277,16 +1277,17 @@
       "is_new": false
     },
     {
-      "id": "99201e617e99de90d198fe77a9c16142",
-      "title": "Lossless Tensor Compression as Program Synthesis",
-      "url": "https://huggingface.co/papers/2608.02162",
-      "description": "Model checkpoints are growing in both number and size, which makes archival, transfer, and deployment increasingly costly. General-purpose compressors can reduce storage requirements but ignore tensor",
-      "published": "2026-08-02T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 9,
+      "id": "49129430",
+      "title": "Show HN: GAI – A Go runtime for typed, tool-using LLM agents",
+      "url": "https://github.com/lace-ai/gai",
+      "description": "",
+      "published": "2026-07-31T22:53:26Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 3,
+      "comments": 0,
       "is_new": false
     }
   ],
@@ -1652,8 +1653,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 244,
-        "comments": 60,
+        "points": 248,
+        "comments": 61,
         "is_new": false
       }
     ],
