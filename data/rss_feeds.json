@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-09T14:49:57.731796+00:00",
+  "last_updated": "2026-08-09T15:44:02.165732+00:00",
   "total_entries": 70,
-  "new_entries": 1,
+  "new_entries": 3,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,18 +47,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "f4b59bdfc21bfca7febe9386b880e4b0",
-      "title": "Meta launches Muse Code, an AI agent for large code bases",
-      "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
-      "description": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
-      "published": "Wed, 05 Aug 2026 21:21:28 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
     {
       "id": "93553c6ca62b0cfb31a11cf4839e28bd",
       "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
@@ -180,6 +168,18 @@
       "is_new": false
     },
     {
+      "id": "d2ac7303d6252aa21c360d885ca137e2",
+      "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+      "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+      "description": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
+      "published": "Sun, 09 Aug 2026 15:00:00 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "35f6bb826f1d0954840be07f6a50c400",
       "title": "The AI safety test is becoming a safety risk",
       "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
@@ -288,6 +288,20 @@
       "is_new": false
     },
     {
+      "id": "49232345",
+      "title": "Show HN: Sufleur - npm-style prompt registry with typed code-generation",
+      "url": "https://github.com/sufleur/cli",
+      "description": "",
+      "published": "2026-08-09T15:28:53Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "49230276",
       "title": "Ask HN: Should AI's tell you they're AI?",
       "url": "https://news.ycombinator.com/item?id=49230276",
@@ -297,7 +311,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 5,
+      "points": 6,
       "comments": 4,
       "is_new": false
     },
@@ -921,20 +935,6 @@
       "is_new": false
     },
     {
-      "id": "49120039",
-      "title": "Show HN: Slaide, open-source Markdown slides AI writes and PowerPoint opens",
-      "url": "https://getslaide.com/",
-      "description": "",
-      "published": "2026-07-31T07:21:17Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 0,
-      "is_new": false
-    },
-    {
       "id": "6c8c6ee593aa09a9c09075020da7d5b6",
       "title": "OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models",
       "url": "https://huggingface.co/papers/2607.28609",
@@ -950,18 +950,6 @@
   ],
   "by_category": {
     "news": [
-      {
-        "id": "f4b59bdfc21bfca7febe9386b880e4b0",
-        "title": "Meta launches Muse Code, an AI agent for large code bases",
-        "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
-        "description": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
-        "published": "Wed, 05 Aug 2026 21:21:28 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
       {
         "id": "93553c6ca62b0cfb31a11cf4839e28bd",
         "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
@@ -1083,6 +1071,18 @@
         "is_new": false
       },
       {
+        "id": "d2ac7303d6252aa21c360d885ca137e2",
+        "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+        "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+        "description": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
+        "published": "Sun, 09 Aug 2026 15:00:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "35f6bb826f1d0954840be07f6a50c400",
         "title": "The AI safety test is becoming a safety risk",
         "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
@@ -1191,6 +1191,20 @@
         "is_new": false
       },
       {
+        "id": "49232345",
+        "title": "Show HN: Sufleur - npm-style prompt registry with typed code-generation",
+        "url": "https://github.com/sufleur/cli",
+        "description": "",
+        "published": "2026-08-09T15:28:53Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 1,
+        "comments": 0,
+        "is_new": true
+      },
+      {
         "id": "49230276",
         "title": "Ask HN: Should AI's tell you they're AI?",
         "url": "https://news.ycombinator.com/item?id=49230276",
@@ -1200,7 +1214,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 5,
+        "points": 6,
         "comments": 4,
         "is_new": false
       },
@@ -1302,18 +1316,6 @@
         "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
         "description": "The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series. But Roku's latest experiment in the FAST spac",
         "published": "2026-08-07T14:59:46-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "65308bcbb462c7371cc4e803e49e3aae",
-        "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-        "description": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows i",
-        "published": "2026-08-07T14:40:34-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
