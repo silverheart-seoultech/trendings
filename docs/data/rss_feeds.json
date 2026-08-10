@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-10T19:12:49.169718+00:00",
+  "last_updated": "2026-08-10T20:00:24.026084+00:00",
   "total_entries": 110,
-  "new_entries": 2,
+  "new_entries": 3,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -769,7 +769,7 @@
     },
     {
       "id": "49248199",
-      "title": "Show HN: Gitseq\": A Repo Becomes a Workroom",
+      "title": "Show HN: Gitseq: A Repo Becomes a Workroom",
       "url": "https://github.com/generalbusiness-ai/gitseq",
       "description": "",
       "published": "2026-08-10T19:06:20Z",
@@ -780,6 +780,30 @@
       "points": 1,
       "comments": 0,
       "is_new": true
+    },
+    {
+      "id": "c6e4a85273e069335b56d9147bdce66a",
+      "title": "What happens to Bose when headphones become AI?",
+      "url": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
+      "description": "Today, I’m talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose — it’s one of the most famous brands in all of consumer tech. The company started 60 years ago selling speakers to",
+      "published": "2026-08-10T12:27:33-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": false
+    },
+    {
+      "id": "8146f3b7fccd003aea6ef5c03a3bc0ec",
+      "title": "Four takeaways from Mark Zuckerberg&#8217;s massive AI manifesto",
+      "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+      "description": "Meta CEO Mark Zuckerberg has a lot to say about the idealized future he now envisions for humanity co-existing with artificial intelligence - his latest essay spans more than 6,500 words on the matter",
+      "published": "2026-08-10T11:40:12-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": false
     },
     {
       "id": "49240910",
@@ -966,18 +990,6 @@
       "is_new": false
     },
     {
-      "id": "c6e4a85273e069335b56d9147bdce66a",
-      "title": "Bose CEO Lila Snyder on the fight for high-quality audio",
-      "url": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
-      "description": "Today, I’m talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose — it’s one of the most famous brands in all of consumer tech. The company started 60 years ago selling speakers to",
-      "published": "2026-08-07T14:15:39-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "764f9d70a7a9afd9ddfd3a6f91120a93",
       "title": "What&#8217;s behind the Google AI shake-up",
       "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
@@ -1057,19 +1069,6 @@
       "is_new": false
     },
     {
-      "id": "b6e082b4aafb2ca995751e804d941ef0",
-      "title": "YOLO-PEFT: Parameter-Efficient Fine-Tuning on YOLO Family",
-      "url": "https://huggingface.co/papers/2608.07051",
-      "description": "Generic parameter-efficient fine-tuning (PEFT) methods transferred from language models can fail silently on real-time detectors, whose heterogeneous operators and detection-specific components impose",
-      "published": "2026-08-06T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 14,
-      "is_new": false
-    },
-    {
       "id": "94e895c27149afa24d714499a28826c6",
       "title": "Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
       "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
@@ -1080,18 +1079,6 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
-    },
-    {
-      "id": "1c162fd11a26608887ed13ca540b80ff",
-      "title": "Suno shares plans to combat spammy AI music",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
-      "description": "Suno announced plans to implement a new watermarking technology and download policy to limit the spread of spammy AI tracks and increase transparency. In a lengthy blog post, CEO and co-founder Mikey",
-      "published": "2026-08-06T13:39:43-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": true
     },
     {
       "id": "49193137",
@@ -1293,6 +1280,19 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 7,
+      "is_new": false
+    },
+    {
+      "id": "a3afe490ccf6df0ac9e261e2a0e7ff98",
+      "title": "Small Foundation Models of Human Cognition and Behaviour",
+      "url": "https://huggingface.co/papers/2608.05224",
+      "description": "Large language models fine-tuned on human behavioural data have emerged as general-purpose cognitive proxies, but the scale this requires, and whether these models process task structure or exploit st",
+      "published": "2026-08-04T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 5,
       "is_new": false
     }
   ],
@@ -1540,7 +1540,7 @@
       },
       {
         "id": "49248199",
-        "title": "Show HN: Gitseq\": A Repo Becomes a Workroom",
+        "title": "Show HN: Gitseq: A Repo Becomes a Workroom",
         "url": "https://github.com/generalbusiness-ai/gitseq",
         "description": "",
         "published": "2026-08-10T19:06:20Z",
@@ -1551,6 +1551,30 @@
         "points": 1,
         "comments": 0,
         "is_new": true
+      },
+      {
+        "id": "c6e4a85273e069335b56d9147bdce66a",
+        "title": "What happens to Bose when headphones become AI?",
+        "url": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
+        "description": "Today, I’m talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose — it’s one of the most famous brands in all of consumer tech. The company started 60 years ago selling speakers to",
+        "published": "2026-08-10T12:27:33-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "8146f3b7fccd003aea6ef5c03a3bc0ec",
+        "title": "Four takeaways from Mark Zuckerberg&#8217;s massive AI manifesto",
+        "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+        "description": "Meta CEO Mark Zuckerberg has a lot to say about the idealized future he now envisions for humanity co-existing with artificial intelligence - his latest essay spans more than 6,500 words on the matter",
+        "published": "2026-08-10T11:40:12-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
       },
       {
         "id": "49240910",
@@ -1646,34 +1670,6 @@
         "category": "news",
         "points": 1,
         "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "49214109",
-        "title": "A self-improving RLM agent for coding workflows and long-running autonomous task",
-        "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-        "description": "",
-        "published": "2026-08-07T18:02:28Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 3,
-        "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "49213554",
-        "title": "Show HN: Merge – AI-native code review assessments for engineering hiring",
-        "url": "https://mergeoa.com",
-        "description": "",
-        "published": "2026-08-07T17:20:53Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 4,
-        "comments": 2,
         "is_new": false
       }
     ],
