@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-10T06:20:04.082950+00:00",
+  "last_updated": "2026-08-10T07:51:12.647472+00:00",
   "total_entries": 110,
-  "new_entries": 56,
+  "new_entries": 59,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -966,6 +966,19 @@
       "is_new": true
     },
     {
+      "id": "dbf85320279c7295604bcd3c4149d339",
+      "title": "Zero Gap Is Not Restoration: Stratified Per-Question Probability Evaluation and Step-wise Mitigation of Benchmark Contamination",
+      "url": "https://huggingface.co/papers/2608.07341",
+      "description": "Test data from public benchmarks inevitably leaks into pretraining corpora, inflating evaluation scores once memorized. Contamination mitigation evaluation intervenes in the decoding process to suppre",
+      "published": "2026-08-06T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "b6e082b4aafb2ca995751e804d941ef0",
       "title": "YOLO-PEFT: Parameter-Efficient Fine-Tuning on YOLO Family",
       "url": "https://huggingface.co/papers/2608.07051",
@@ -988,7 +1001,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 18,
+      "likes": 20,
       "is_new": true
     },
     {
@@ -1014,7 +1027,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": true
     },
     {
@@ -1040,7 +1053,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 5,
       "is_new": false
     },
     {
@@ -1134,6 +1147,32 @@
       "is_new": false
     },
     {
+      "id": "05793a9f2fbe958a5962c40c6b5f6c54",
+      "title": "Beyond Simply Environment Scaling: Designing Effective Environment Distributions for Multimodal Agent Learning",
+      "url": "https://huggingface.co/papers/2608.03571",
+      "description": "Recent works train agents by constructing large-scale multimodal environment pools. However, we find that simply increasing the number of multimodal environments does not always benefit. We further an",
+      "published": "2026-08-05T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 18,
+      "is_new": true
+    },
+    {
+      "id": "222bd2c6c8fdcc4a4dd6e0bc5717e747",
+      "title": "SFT Conflicts, RL Coexists: A Theoretical and Empirical Analysis of Multi-Task Learning for LLMs",
+      "url": "https://huggingface.co/papers/2608.03573",
+      "description": "Supervised Fine-Tuning (SFT) and Reinforcement Learning (RL) exhibit fundamentally different behaviors in enhancing multi-task reasoning for large language models (LLMs). Our preliminary experiments r",
+      "published": "2026-08-05T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 17,
+      "is_new": true
+    },
+    {
       "id": "220ced799fe4a610df2870c0653b4891",
       "title": "Can MLLMs Decode the Creative Leap? Introducing C4 for Cross-Concept Understanding",
       "url": "https://huggingface.co/papers/2608.06501",
@@ -1212,19 +1251,6 @@
       "is_new": true
     },
     {
-      "id": "74b59ae99c9797ed9fda5f436e148225",
-      "title": "KVAE: Family of Tokenizers for Multimodal Generative Models",
-      "url": "https://huggingface.co/papers/2608.05798",
-      "description": "Latent diffusion modeling (LDM), a prominent paradigm, utilizes tokenizers to map input signal to compressed representation. This dependency positions tokenizer as an integral part of generation proce",
-      "published": "2026-08-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 20,
-      "is_new": false
-    },
-    {
       "id": "49186754",
       "title": "Why Fireworks doesn't support Voice AI",
       "url": "https://news.ycombinator.com/item?id=49186754",
@@ -1265,33 +1291,6 @@
       "points": 17,
       "comments": 9,
       "is_new": false
-    },
-    {
-      "id": "49175985",
-      "title": "Show HN: Collab Word in Web – Collaborative Near MS Word Parity Docx Editor",
-      "url": "https://collab.word-in-web.com/",
-      "description": "",
-      "published": "2026-08-04T22:17:28Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "e597debe01c09a4a297d602ef9de497f",
-      "title": "When Privileged Guidance Misaligns: State-Matched Routing and Contextualized Self-Distillation for Multi-Turn Agents",
-      "url": "https://huggingface.co/papers/2608.05219",
-      "description": "Privileged on-policy distillation provides dense supervision for multi-turn agents by allowing a synchronized teacher to re-score the student's response at every turn with access to training-only refe",
-      "published": "2026-08-04T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": true
     }
   ],
   "by_category": {
