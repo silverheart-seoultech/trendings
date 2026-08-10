@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-10T10:34:15.898152+00:00",
+  "last_updated": "2026-08-10T11:56:22.042903+00:00",
   "total_entries": 110,
-  "new_entries": 4,
+  "new_entries": 9,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -782,6 +782,18 @@
       "is_new": true
     },
     {
+      "id": "7a2536fc12ba4896a1d4342faff98f2e",
+      "title": "An Amazon data center could have the worst polluting power plant in the country",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+      "description": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to The",
+      "published": "2026-08-10T07:06:58-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": false
+    },
+    {
       "id": "49235865",
       "title": "Show HN: Pacific Slate: a self-hosted, model-agnostic multi-agent AI assistant",
       "url": "https://pacslate.com/",
@@ -821,18 +833,6 @@
       "category": "news",
       "points": 9,
       "comments": 5,
-      "is_new": false
-    },
-    {
-      "id": "7a2536fc12ba4896a1d4342faff98f2e",
-      "title": "An Amazon data center could have the worst polluting power plant in the country",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
-      "description": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to the",
-      "published": "2026-08-09T08:36:43-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
       "is_new": false
     },
     {
@@ -902,6 +902,18 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "5479eb873a99826cf32bacb622cb1cbc",
+      "title": "Ford’s new AI assistant can check your fuel levels and tire pressure",
+      "url": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
+      "description": "Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for your next road trip or whether your truck can tow tha",
+      "published": "2026-08-07T15:53:12-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "acf86426dbc37c6e996eea0c0e96dd7d",
@@ -1015,7 +1027,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 10,
+      "likes": 11,
       "is_new": false
     },
     {
@@ -1029,32 +1041,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 20,
-      "is_new": false
-    },
-    {
-      "id": "2a3692d6c84bd9c9ac49fb6d8af9d960",
-      "title": "The Optimizer Is the Agent: Reasoning-Driven Search across Prompts, Programs, and ML Workflows",
-      "url": "https://huggingface.co/papers/2608.06714",
-      "description": "Recent systems for optimizing prompts, programs, and ML workflows typically rely on explicit outer-loop controllers such as evolutionary search, bandits, or textual-gradient methods. We ask a fundamen",
-      "published": "2026-08-06T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "c3c93c9a49df54eb6d15ac4ffb89d86c",
-      "title": "Modular TTT: Rethinking Test-Time Training as Composable Modules",
-      "url": "https://huggingface.co/papers/2608.07110",
-      "description": "Test-time training (TTT) views sequence modeling as an online learning problem in which fast weights are updated by an internal learning rule. Despite the growing number of TTT variants, existing appr",
-      "published": "2026-08-06T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
       "is_new": false
     },
     {
@@ -1087,18 +1073,6 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
       "description": "Suno announced plans to implement a new watermarking technology and download policy to limit the spread of spammy AI tracks and increase transparency. In a lengthy blog post, CEO and co-founder Mikey",
       "published": "2026-08-06T13:39:43-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "f661aa2dcfcee9ce88bb7a26ab88d61e",
-      "title": "SoftBank donated $50 million to Trump’s library months before federal data center deal",
-      "url": "https://www.theverge.com/policy/976138/softbank-trump-library-data-center-ohio",
-      "description": "SoftBank contributed $50 million to the Trump Presidential Library in January, just months before announcing that it's leasing land from the federal government to build a sprawling data center in Ohio",
-      "published": "2026-08-06T10:47:52-04:00",
       "source_id": "theverge-ai",
       "source_name": "The Verge AI",
       "source_icon": "📰",
@@ -1239,32 +1213,6 @@
       "is_new": false
     },
     {
-      "id": "6a2bc42acc009013a88b7c4f1360b7a3",
-      "title": "StreamArena: Toward Continuous, Interactive, and Long-Horizon Agentic Streaming Video Understanding",
-      "url": "https://huggingface.co/papers/2608.05703",
-      "description": "Deploying autonomous multimodal agents in continuous, real-world environments requires them to ingest unbounded audio-visual streams and maintain hour-scale memory. However, current evaluations predom",
-      "published": "2026-08-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 12,
-      "is_new": false
-    },
-    {
-      "id": "e0e11a5b154d76597818d175fac2d71d",
-      "title": "Characterizing the Quality Profile of AI-Generated C++ in Production",
-      "url": "https://huggingface.co/papers/2608.06640",
-      "description": "The widespread integration of AI coding assistants offers undeniable boosts to engineering velocity. Yet, recent studies point to a growing trade-off, revealing persistent challenges with code quality",
-      "published": "2026-08-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
       "id": "49186754",
       "title": "Why Fireworks doesn't support Voice AI",
       "url": "https://news.ycombinator.com/item?id=49186754",
@@ -1290,6 +1238,60 @@
       "category": "news",
       "points": 68,
       "comments": 53,
+      "is_new": false
+    },
+    {
+      "id": "49182263",
+      "title": "Show HN: An AI agent that trades inside limits you set, starting on paper",
+      "url": "https://quantsignals.xyz/fst",
+      "description": "",
+      "published": "2026-08-05T13:01:29Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 17,
+      "comments": 9,
+      "is_new": false
+    },
+    {
+      "id": "49175985",
+      "title": "Show HN: Collab Word in Web – Collaborative Near MS Word Parity Docx Editor",
+      "url": "https://collab.word-in-web.com/",
+      "description": "",
+      "published": "2026-08-04T22:17:28Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": false
+    },
+    {
+      "id": "f9c6827f300440b8d5b7b2e754a81ce2",
+      "title": "Adversarial Attacks for Good: A Survey of Proactive Protection across the Visual Content Lifecycle",
+      "url": "https://huggingface.co/papers/2608.04314",
+      "description": "Once visual content enters an AI pipeline, its owner often retains little technical control over how it is used. Legal and regulatory remedies can address misuse, but many technical interventions must",
+      "published": "2026-08-04T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "e597debe01c09a4a297d602ef9de497f",
+      "title": "When Privileged Guidance Misaligns: State-Matched Routing and Contextualized Self-Distillation for Multi-Turn Agents",
+      "url": "https://huggingface.co/papers/2608.05219",
+      "description": "Privileged on-policy distillation provides dense supervision for multi-turn agents by allowing a synchronized teacher to re-score the student's response at every turn with access to training-only refe",
+      "published": "2026-08-04T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
       "is_new": false
     }
   ],
@@ -1550,6 +1552,18 @@
         "is_new": true
       },
       {
+        "id": "7a2536fc12ba4896a1d4342faff98f2e",
+        "title": "An Amazon data center could have the worst polluting power plant in the country",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+        "description": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to The",
+        "published": "2026-08-10T07:06:58-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
         "id": "49235865",
         "title": "Show HN: Pacific Slate: a self-hosted, model-agnostic multi-agent AI assistant",
         "url": "https://pacslate.com/",
@@ -1589,18 +1603,6 @@
         "category": "news",
         "points": 9,
         "comments": 5,
-        "is_new": false
-      },
-      {
-        "id": "7a2536fc12ba4896a1d4342faff98f2e",
-        "title": "An Amazon data center could have the worst polluting power plant in the country",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
-        "description": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to the",
-        "published": "2026-08-09T08:36:43-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
         "is_new": false
       },
       {
