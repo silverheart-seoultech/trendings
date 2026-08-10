@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-10T02:11:56.688597+00:00",
+  "last_updated": "2026-08-10T02:30:50.771651+00:00",
   "total_entries": 70,
-  "new_entries": 5,
+  "new_entries": 4,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -153,7 +153,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "700247b13669dfea78664234d30c45d2",
@@ -165,7 +165,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "d2ac7303d6252aa21c360d885ca137e2",
@@ -299,7 +299,7 @@
       "category": "news",
       "points": 5,
       "comments": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "49232345",
@@ -325,7 +325,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 7,
+      "points": 8,
       "comments": 4,
       "is_new": false
     },
@@ -472,6 +472,45 @@
       "is_new": false
     },
     {
+      "id": "2a3692d6c84bd9c9ac49fb6d8af9d960",
+      "title": "The Optimizer Is the Agent: Reasoning-Driven Search across Prompts, Programs, and ML Workflows",
+      "url": "https://huggingface.co/papers/2608.06714",
+      "description": "Recent systems for optimizing prompts, programs, and ML workflows typically rely on explicit outer-loop controllers such as evolutionary search, bandits, or textual-gradient methods. We ask a fundamen",
+      "published": "2026-08-06T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "c3c93c9a49df54eb6d15ac4ffb89d86c",
+      "title": "Modular TTT: Rethinking Test-Time Training as Composable Modules",
+      "url": "https://huggingface.co/papers/2608.07110",
+      "description": "Test-time training (TTT) views sequence modeling as an online learning problem in which fast weights are updated by an internal learning rule. Despite the growing number of TTT variants, existing appr",
+      "published": "2026-08-06T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "f6798b1ab0997fa5bebfe1b5300ef94a",
+      "title": "Skaling: Chinchilla's Exponents Meet Kaplan's Coupling",
+      "url": "https://huggingface.co/papers/2608.07222",
+      "description": "Neural scaling laws are foundational for language model development, yet standard formulations systematically under- and overestimate loss at data-scarce and overtraining extremes. This failure origin",
+      "published": "2026-08-06T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "c43dee4e67e0d11ed9f2793634f7699e",
       "title": "Addressable Memory for Video World Models",
       "url": "https://huggingface.co/papers/2608.07408",
@@ -482,7 +521,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "94e895c27149afa24d714499a28826c6",
@@ -572,6 +611,19 @@
       "category": "news",
       "points": 253,
       "comments": 69,
+      "is_new": false
+    },
+    {
+      "id": "e0e11a5b154d76597818d175fac2d71d",
+      "title": "Characterizing the Quality Profile of AI-Generated C++ in Production",
+      "url": "https://huggingface.co/papers/2608.06640",
+      "description": "The widespread integration of AI coding assistants offers undeniable boosts to engineering velocity. Yet, recent studies point to a growing trade-off, revealing persistent challenges with code quality",
+      "published": "2026-08-05T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
       "is_new": true
     },
     {
@@ -679,19 +731,6 @@
       "is_new": false
     },
     {
-      "id": "ee63215e1d35791741c4682ab3b0800d",
-      "title": "PaDoc: Layout-Grounded Parallel Decoding for Document Parsing",
-      "url": "https://huggingface.co/papers/2608.06146",
-      "description": "End-to-end document parsers provide a unified interface, but serialize page layouts and regional contents into one autoregressive sequence. This formulation forces independent regions onto a decoding ",
-      "published": "2026-08-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 21,
-      "is_new": false
-    },
-    {
       "id": "49186754",
       "title": "Why Fireworks doesn't support Voice AI",
       "url": "https://news.ycombinator.com/item?id=49186754",
@@ -771,32 +810,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 14,
-      "is_new": false
-    },
-    {
-      "id": "9a907a32afc1c3b0409e494df0a45686",
-      "title": "Invisible Shortcuts: Why Vision Encoders Know Your Camera",
-      "url": "https://huggingface.co/papers/2608.05424",
-      "description": "Deep vision models exploit shortcuts, relying on cues that correlate with supervision signals. Prior work has focused on visible biases, such as object-background or texture correlations. We identify ",
-      "published": "2026-08-04T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 16,
-      "is_new": false
-    },
-    {
-      "id": "f5580a709eb08a01a774f3d9f51812d8",
-      "title": "World-to-Wrist: Task-Conditioned Future Wrist Modeling for Fine-Grained Robot Manipulation",
-      "url": "https://huggingface.co/papers/2608.05369",
-      "description": "Vision-language-action (VLA) models often treat main-view and wrist-view observations as parallel visual inputs, overlooking their distinct roles in robot manipulation. Fine-grained manipulation, howe",
-      "published": "2026-08-04T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 24,
       "is_new": false
     },
     {
@@ -933,19 +946,6 @@
       "category": "research",
       "likes": 65,
       "is_new": false
-    },
-    {
-      "id": "6c8c6ee593aa09a9c09075020da7d5b6",
-      "title": "OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models",
-      "url": "https://huggingface.co/papers/2607.28609",
-      "description": "Computer-using agents (CUAs) are advancing rapidly across the digital world. A CUA trajectory records the agent's actions, states, and reasoning. Verifying whether it fulfilled the task instruction is",
-      "published": "2026-07-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 67,
-      "is_new": false
     }
   ],
   "by_category": {
@@ -1056,7 +1056,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "700247b13669dfea78664234d30c45d2",
@@ -1068,7 +1068,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "d2ac7303d6252aa21c360d885ca137e2",
@@ -1202,7 +1202,7 @@
         "category": "news",
         "points": 5,
         "comments": 0,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "49232345",
@@ -1228,7 +1228,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 7,
+        "points": 8,
         "comments": 4,
         "is_new": false
       },
@@ -1327,11 +1327,63 @@
     ],
     "research": [
       {
+        "id": "2a3692d6c84bd9c9ac49fb6d8af9d960",
+        "title": "The Optimizer Is the Agent: Reasoning-Driven Search across Prompts, Programs, and ML Workflows",
+        "url": "https://huggingface.co/papers/2608.06714",
+        "description": "Recent systems for optimizing prompts, programs, and ML workflows typically rely on explicit outer-loop controllers such as evolutionary search, bandits, or textual-gradient methods. We ask a fundamen",
+        "published": "2026-08-06T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 1,
+        "is_new": true
+      },
+      {
+        "id": "c3c93c9a49df54eb6d15ac4ffb89d86c",
+        "title": "Modular TTT: Rethinking Test-Time Training as Composable Modules",
+        "url": "https://huggingface.co/papers/2608.07110",
+        "description": "Test-time training (TTT) views sequence modeling as an online learning problem in which fast weights are updated by an internal learning rule. Despite the growing number of TTT variants, existing appr",
+        "published": "2026-08-06T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 0,
+        "is_new": true
+      },
+      {
+        "id": "f6798b1ab0997fa5bebfe1b5300ef94a",
+        "title": "Skaling: Chinchilla's Exponents Meet Kaplan's Coupling",
+        "url": "https://huggingface.co/papers/2608.07222",
+        "description": "Neural scaling laws are foundational for language model development, yet standard formulations systematically under- and overestimate loss at data-scarce and overtraining extremes. This failure origin",
+        "published": "2026-08-06T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 0,
+        "is_new": true
+      },
+      {
         "id": "c43dee4e67e0d11ed9f2793634f7699e",
         "title": "Addressable Memory for Video World Models",
         "url": "https://huggingface.co/papers/2608.07408",
         "description": "We study visual persistence in interactive video world models. These models rely on a Key-Value (KV) cache as a growing visual memory to carry forward previously generated frames. However, we find tha",
         "published": "2026-08-06T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 0,
+        "is_new": false
+      },
+      {
+        "id": "e0e11a5b154d76597818d175fac2d71d",
+        "title": "Characterizing the Quality Profile of AI-Generated C++ in Production",
+        "url": "https://huggingface.co/papers/2608.06640",
+        "description": "The widespread integration of AI coding assistants offers undeniable boosts to engineering velocity. Yet, recent studies point to a growing trade-off, revealing persistent challenges with code quality",
+        "published": "2026-08-05T20:00:00.000Z",
         "source_id": "hf-papers",
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
@@ -1444,19 +1496,6 @@
         "is_new": false
       },
       {
-        "id": "ee63215e1d35791741c4682ab3b0800d",
-        "title": "PaDoc: Layout-Grounded Parallel Decoding for Document Parsing",
-        "url": "https://huggingface.co/papers/2608.06146",
-        "description": "End-to-end document parsers provide a unified interface, but serialize page layouts and regional contents into one autoregressive sequence. This formulation forces independent regions onto a decoding ",
-        "published": "2026-08-05T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 21,
-        "is_new": false
-      },
-      {
         "id": "77b9c41174df2025dd2714388dfc5436",
         "title": "Teaching Nemotron Greek: Mining a Corpus, Adapting Retrieval, and Grounding Generation for Modern Greek across Specialist Domains",
         "url": "https://huggingface.co/papers/2608.05138",
@@ -1480,32 +1519,6 @@
         "source_icon": "🤗",
         "category": "research",
         "likes": 14,
-        "is_new": false
-      },
-      {
-        "id": "9a907a32afc1c3b0409e494df0a45686",
-        "title": "Invisible Shortcuts: Why Vision Encoders Know Your Camera",
-        "url": "https://huggingface.co/papers/2608.05424",
-        "description": "Deep vision models exploit shortcuts, relying on cues that correlate with supervision signals. Prior work has focused on visible biases, such as object-background or texture correlations. We identify ",
-        "published": "2026-08-04T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 16,
-        "is_new": false
-      },
-      {
-        "id": "f5580a709eb08a01a774f3d9f51812d8",
-        "title": "World-to-Wrist: Task-Conditioned Future Wrist Modeling for Fine-Grained Robot Manipulation",
-        "url": "https://huggingface.co/papers/2608.05369",
-        "description": "Vision-language-action (VLA) models often treat main-view and wrist-view observations as parallel visual inputs, overlooking their distinct roles in robot manipulation. Fine-grained manipulation, howe",
-        "published": "2026-08-04T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 24,
         "is_new": false
       },
       {
@@ -1571,19 +1584,6 @@
         "source_icon": "🤗",
         "category": "research",
         "likes": 65,
-        "is_new": false
-      },
-      {
-        "id": "6c8c6ee593aa09a9c09075020da7d5b6",
-        "title": "OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models",
-        "url": "https://huggingface.co/papers/2607.28609",
-        "description": "Computer-using agents (CUAs) are advancing rapidly across the digital world. A CUA trajectory records the agent's actions, states, and reasoning. Verifying whether it fulfilled the task instruction is",
-        "published": "2026-07-29T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 67,
         "is_new": false
       }
     ]
