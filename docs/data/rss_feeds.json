@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-10T17:05:21.133791+00:00",
+  "last_updated": "2026-08-10T17:59:57.955615+00:00",
   "total_entries": 110,
-  "new_entries": 2,
+  "new_entries": 5,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -169,9 +169,9 @@
     },
     {
       "id": "b56115e127cb6f639cda99385c2d7346",
-      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+      "title": "Planned Amazon data center could become the biggest climate polluter in the US",
       "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
-      "description": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
+      "description": "AI has already had a significant impact on Amazon’s carbon emissions, which it reported were up 16% last year — the wrong direction for a company that pledged to eliminate its carbon emissions by 2040",
       "published": "Sat, 08 Aug 2026 21:24:02 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
@@ -183,7 +183,7 @@
       "id": "61f42ecb8f77cb359ad2a12aa0cf5239",
       "title": "OpenAI acquires presentation startup NextSlide",
       "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-      "description": "NextSlide says its team members are now working on ChatGPT.",
+      "description": "Founder Ahmed Beshry describes the startup’s product as one “that could turn prompts, notes, documents, or research into a polished, editable presentation.”",
       "published": "Sat, 08 Aug 2026 19:41:13 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
@@ -768,6 +768,30 @@
       "is_new": false
     },
     {
+      "id": "c6e4a85273e069335b56d9147bdce66a",
+      "title": "What happens to Bose when headphones become AI?",
+      "url": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
+      "description": "Today, I’m talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose — it’s one of the most famous brands in all of consumer tech. The company started 60 years ago selling speakers to",
+      "published": "2026-08-10T12:27:33-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "8146f3b7fccd003aea6ef5c03a3bc0ec",
+      "title": "Four takeaways from Mark Zuckerberg&#8217;s massive AI manifesto",
+      "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+      "description": "Meta CEO Mark Zuckerberg has a lot to say about the idealized future he now envisions for humanity co-existing with artificial intelligence - his latest essay spans more than 6,500 words on the matter",
+      "published": "2026-08-10T11:40:12-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "49240910",
       "title": "Prime Agent: A Self-Improving RLM Agent",
       "url": "https://github.com/PrimeIntellect-ai/prime-agent",
@@ -1001,7 +1025,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": true
     },
     {
@@ -1056,30 +1080,6 @@
       "is_new": false
     },
     {
-      "id": "c68d5f1c469c21b35333c07c6a8cd9da",
-      "title": "OpenAI is giving ChatGPT free users unlimited text chats",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
-      "description": "OpenAI is making a big change for ChatGPT users on its free and Go tiers: Starting next week, users on those tiers will be able to have unlimited text chats with the chatbot, according to OpenAI. Righ",
-      "published": "2026-08-06T14:15:41-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "1c162fd11a26608887ed13ca540b80ff",
-      "title": "Suno shares plans to combat spammy AI music",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
-      "description": "Suno announced plans to implement a new watermarking technology and download policy to limit the spread of spammy AI tracks and increase transparency. In a lengthy blog post, CEO and co-founder Mikey",
-      "published": "2026-08-06T13:39:43-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "49193137",
       "title": "Prime Agent: A Self-Improving RLM Agent",
       "url": "https://github.com/PrimeIntellect-ai/prime-agent",
@@ -1122,6 +1122,19 @@
       "is_new": false
     },
     {
+      "id": "a5cd7f638cda52d34611bdf6b3a3fe96",
+      "title": "DCAS: Decoupling CLI Agent Scaffolding to Internalize Planning across Scaffolds",
+      "url": "https://huggingface.co/papers/2608.06113",
+      "description": "CLI-based software-engineering agents have matured rapidly, yet the open ecosystem has converged on a single training environment: trajectory datasets used to fine-tune open models are collected almos",
+      "published": "2026-08-05T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 12,
+      "is_new": true
+    },
+    {
       "id": "3fccb729f34c32c7acc753727a2213ca",
       "title": "OneEmo: A Unified Multimodal Reasoning Model for Emotion Perception, Understanding, and Interaction",
       "url": "https://huggingface.co/papers/2608.06013",
@@ -1157,7 +1170,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 29,
+      "likes": 30,
       "is_new": false
     },
     {
@@ -1278,20 +1291,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
-      "is_new": false
-    },
-    {
-      "id": "f9c6827f300440b8d5b7b2e754a81ce2",
-      "title": "Adversarial Attacks for Good: A Survey of Proactive Protection across the Visual Content Lifecycle",
-      "url": "https://huggingface.co/papers/2608.04314",
-      "description": "Once visual content enters an AI pipeline, its owner often retains little technical control over how it is used. Legal and regulatory remedies can address misuse, but many technical interventions must",
-      "published": "2026-08-04T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
+      "likes": 5,
       "is_new": false
     }
   ],
@@ -1419,9 +1419,9 @@
       },
       {
         "id": "b56115e127cb6f639cda99385c2d7346",
-        "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+        "title": "Planned Amazon data center could become the biggest climate polluter in the US",
         "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
-        "description": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
+        "description": "AI has already had a significant impact on Amazon’s carbon emissions, which it reported were up 16% last year — the wrong direction for a company that pledged to eliminate its carbon emissions by 2040",
         "published": "Sat, 08 Aug 2026 21:24:02 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
@@ -1433,7 +1433,7 @@
         "id": "61f42ecb8f77cb359ad2a12aa0cf5239",
         "title": "OpenAI acquires presentation startup NextSlide",
         "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-        "description": "NextSlide says its team members are now working on ChatGPT.",
+        "description": "Founder Ahmed Beshry describes the startup’s product as one “that could turn prompts, notes, documents, or research into a polished, editable presentation.”",
         "published": "Sat, 08 Aug 2026 19:41:13 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
@@ -1536,6 +1536,30 @@
         "source_icon": "📰",
         "category": "news",
         "is_new": false
+      },
+      {
+        "id": "c6e4a85273e069335b56d9147bdce66a",
+        "title": "What happens to Bose when headphones become AI?",
+        "url": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
+        "description": "Today, I’m talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose — it’s one of the most famous brands in all of consumer tech. The company started 60 years ago selling speakers to",
+        "published": "2026-08-10T12:27:33-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "8146f3b7fccd003aea6ef5c03a3bc0ec",
+        "title": "Four takeaways from Mark Zuckerberg&#8217;s massive AI manifesto",
+        "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+        "description": "Meta CEO Mark Zuckerberg has a lot to say about the idealized future he now envisions for humanity co-existing with artificial intelligence - his latest essay spans more than 6,500 words on the matter",
+        "published": "2026-08-10T11:40:12-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
       },
       {
         "id": "49240910",
@@ -1645,32 +1669,6 @@
         "category": "news",
         "points": 3,
         "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "49213554",
-        "title": "Show HN: Merge – AI-native code review assessments for engineering hiring",
-        "url": "https://mergeoa.com",
-        "description": "",
-        "published": "2026-08-07T17:20:53Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 4,
-        "comments": 2,
-        "is_new": false
-      },
-      {
-        "id": "78db5548d2742eb583290f90e7c0a99e",
-        "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
-        "description": "It took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song \"Rubberz.\" His comments follow the producer Medasin's videos claiming that an AI",
-        "published": "2026-08-07T16:01:51-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
         "is_new": false
       }
     ],
