@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-09T23:44:11.337712+00:00",
+  "last_updated": "2026-08-10T02:11:56.688597+00:00",
   "total_entries": 70,
-  "new_entries": 4,
+  "new_entries": 5,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -472,6 +472,19 @@
       "is_new": false
     },
     {
+      "id": "c43dee4e67e0d11ed9f2793634f7699e",
+      "title": "Addressable Memory for Video World Models",
+      "url": "https://huggingface.co/papers/2608.07408",
+      "description": "We study visual persistence in interactive video world models. These models rely on a Key-Value (KV) cache as a growing visual memory to carry forward previously generated frames. However, we find tha",
+      "published": "2026-08-06T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "94e895c27149afa24d714499a28826c6",
       "title": "Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
       "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
@@ -676,19 +689,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 21,
-      "is_new": false
-    },
-    {
-      "id": "ce079c960a642974b8365f50be7d214c",
-      "title": "EnvACE: Internalizing Environment Dynamics via World Rehearsal for Agentic Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2608.06197",
-      "description": "Training large language model agents for long-horizon tool use typically relies on interactions with real or synthesized executable environments, whose construction and verification are costly, or on ",
-      "published": "2026-08-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 38,
       "is_new": false
     },
     {
@@ -1327,6 +1327,19 @@
     ],
     "research": [
       {
+        "id": "c43dee4e67e0d11ed9f2793634f7699e",
+        "title": "Addressable Memory for Video World Models",
+        "url": "https://huggingface.co/papers/2608.07408",
+        "description": "We study visual persistence in interactive video world models. These models rely on a Key-Value (KV) cache as a growing visual memory to carry forward previously generated frames. However, we find tha",
+        "published": "2026-08-06T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 0,
+        "is_new": true
+      },
+      {
         "id": "74b59ae99c9797ed9fda5f436e148225",
         "title": "KVAE: Family of Tokenizers for Multimodal Generative Models",
         "url": "https://huggingface.co/papers/2608.05798",
@@ -1441,19 +1454,6 @@
         "source_icon": "🤗",
         "category": "research",
         "likes": 21,
-        "is_new": false
-      },
-      {
-        "id": "ce079c960a642974b8365f50be7d214c",
-        "title": "EnvACE: Internalizing Environment Dynamics via World Rehearsal for Agentic Reinforcement Learning",
-        "url": "https://huggingface.co/papers/2608.06197",
-        "description": "Training large language model agents for long-horizon tool use typically relies on interactions with real or synthesized executable environments, whose construction and verification are costly, or on ",
-        "published": "2026-08-05T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 38,
         "is_new": false
       },
       {
