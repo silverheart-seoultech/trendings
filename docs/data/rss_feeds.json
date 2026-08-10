@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-10T11:56:22.042903+00:00",
+  "last_updated": "2026-08-10T13:20:49.299292+00:00",
   "total_entries": 110,
-  "new_entries": 9,
+  "new_entries": 12,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -132,18 +132,6 @@
       "is_new": false
     },
     {
-      "id": "574a05ceaccbf2e2cb0956c9578a66d0",
-      "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
-      "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
-      "description": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and",
-      "published": "Thu, 06 Aug 2026 13:00:00 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "f893fb1dc932c6c8895b1f09243ca698",
       "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
       "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
@@ -214,6 +202,18 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "ee092482a3ff90447be5bb5aa17e06c9",
+      "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+      "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+      "description": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
+      "published": "Mon, 10 Aug 2026 12:00:00 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "500c3e9a2c4393523e1175348ee7ed53",
@@ -832,7 +832,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 9,
-      "comments": 5,
+      "comments": 6,
       "is_new": false
     },
     {
@@ -1040,7 +1040,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 20,
+      "likes": 22,
       "is_new": false
     },
     {
@@ -1144,7 +1144,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 25,
+      "likes": 26,
       "is_new": false
     },
     {
@@ -1157,7 +1157,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 25,
+      "likes": 26,
       "is_new": false
     },
     {
@@ -1197,19 +1197,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "19e54e199a69277873da01bff2519592",
-      "title": "Uncertainty-Aware World Model for Aerial Image-Goal Navigation",
-      "url": "https://huggingface.co/papers/2608.05597",
-      "description": "Aerial image-goal navigation requires an unmanned aerial vehicle (UAV) to reach a target location specified by a goal image. Existing world-model-based methods rank candidate trajectories using predic",
-      "published": "2026-08-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 6,
       "is_new": false
     },
     {
@@ -1269,6 +1256,32 @@
       "is_new": false
     },
     {
+      "id": "4aa0b7ad558168b5c63955c68816d992",
+      "title": "Relevant but Incomplete: Referential Dangling as a Paradigm-Level Failure Mode in Hard Prompt Compression",
+      "url": "https://huggingface.co/papers/2608.04569",
+      "description": "Hard prompt compression reduces long-context inference cost by independently scoring tokens, sentences, or chunks and retaining the highest-scoring units under a budget. We identify a structural failu",
+      "published": "2026-08-04T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
+      "id": "a3afe490ccf6df0ac9e261e2a0e7ff98",
+      "title": "Small Foundation Models of Human Cognition and Behaviour",
+      "url": "https://huggingface.co/papers/2608.05224",
+      "description": "Large language models fine-tuned on human behavioural data have emerged as general-purpose cognitive proxies, but the scale this requires, and whether these models process task structure or exploit st",
+      "published": "2026-08-04T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
       "id": "f9c6827f300440b8d5b7b2e754a81ce2",
       "title": "Adversarial Attacks for Good: A Survey of Proactive Protection across the Visual Content Lifecycle",
       "url": "https://huggingface.co/papers/2608.04314",
@@ -1280,19 +1293,6 @@
       "category": "research",
       "likes": 1,
       "is_new": true
-    },
-    {
-      "id": "e597debe01c09a4a297d602ef9de497f",
-      "title": "When Privileged Guidance Misaligns: State-Matched Routing and Contextualized Self-Distillation for Multi-Turn Agents",
-      "url": "https://huggingface.co/papers/2608.05219",
-      "description": "Privileged on-policy distillation provides dense supervision for multi-turn agents by allowing a synchronized teacher to re-score the student's response at every turn with access to training-only refe",
-      "published": "2026-08-04T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
     }
   ],
   "by_category": {
@@ -1382,18 +1382,6 @@
         "is_new": false
       },
       {
-        "id": "574a05ceaccbf2e2cb0956c9578a66d0",
-        "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
-        "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
-        "description": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and",
-        "published": "Thu, 06 Aug 2026 13:00:00 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
         "id": "f893fb1dc932c6c8895b1f09243ca698",
         "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
         "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
@@ -1464,6 +1452,18 @@
         "source_icon": "📰",
         "category": "news",
         "is_new": false
+      },
+      {
+        "id": "ee092482a3ff90447be5bb5aa17e06c9",
+        "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+        "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+        "description": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
+        "published": "Mon, 10 Aug 2026 12:00:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
       },
       {
         "id": "59163ffd3cbeaf46750466943a78e19a",
@@ -1602,7 +1602,7 @@
         "source_icon": "🟧",
         "category": "news",
         "points": 9,
-        "comments": 5,
+        "comments": 6,
         "is_new": false
       },
       {
