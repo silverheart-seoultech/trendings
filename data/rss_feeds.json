@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-11T18:04:38.395855+00:00",
+  "last_updated": "2026-08-11T19:08:50.317690+00:00",
   "total_entries": 110,
-  "new_entries": 18,
+  "new_entries": 20,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -48,10 +48,22 @@
   ],
   "entries": [
     {
+      "id": "61f03f2379bc9dfa6cd3858879b03c3e",
+      "title": "Google’s Gemini app surges to one billion users",
+      "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+      "description": "Gemini is keeping pace with OpenAI’s ChatGPT, which hit 1 billion monthly active users back in June.",
+      "published": "Tue, 11 Aug 2026 18:49:12 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "b8d07c245c74a0b30a4e47a0fcfa3086",
       "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
       "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
-      "description": "One of OpenAI's longest serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
+      "description": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
       "published": "Tue, 11 Aug 2026 17:41:34 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
@@ -756,18 +768,6 @@
       "is_new": false
     },
     {
-      "id": "62678037a7feb1b265e4beccfd294771",
-      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-      "description": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents mo",
-      "published": "Fri, 07 Aug 2026 16:16:09 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "49260102",
       "title": "Show HN: Pickle – token efficient AI agent browser with policy-gated actions",
       "url": "https://picklebrowser.com/",
@@ -966,7 +966,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 211,
+      "likes": 231,
       "is_new": false
     },
     {
@@ -979,7 +979,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 1,
       "is_new": false
     },
     {
@@ -992,7 +992,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 18,
+      "likes": 22,
       "is_new": false
     },
     {
@@ -1000,19 +1000,6 @@
       "title": "A^2E : An End-to-End Agent Auditing Engine",
       "url": "https://huggingface.co/papers/2608.07346",
       "description": "With the rapid advancement of large language models (LLMs), harnesses have become essential infrastructure for deploying agents across a wide range of domains. The fast-evolving harness ecosystem has ",
-      "published": "2026-08-09T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 6,
-      "is_new": false
-    },
-    {
-      "id": "fc07b3e73b041702347df6054a857726",
-      "title": "RynnValue: Scaling Robotic Value Foundation Models with Temporal Distance",
-      "url": "https://huggingface.co/papers/2608.09853",
-      "description": "General-purpose reward models are increasingly the bottleneck for scaling robot learning, yet the recipe for learning value-related capabilities from large-scale heterogeneous corpora remains underexp",
       "published": "2026-08-09T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
@@ -1048,6 +1035,19 @@
       "points": 9,
       "comments": 6,
       "is_new": false
+    },
+    {
+      "id": "d861e76f0a07564f076d290a56b579a4",
+      "title": "Business Arena: Benchmarking LLM Agents in a Realistic Marketplace",
+      "url": "https://huggingface.co/papers/2608.08621",
+      "description": "Running a business is a challenging form of intelligent work. Operators must infer opportunities from partial signals, commit capital under uncertainty, adapt to delayed outcomes in a changing market,",
+      "published": "2026-08-08T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
     },
     {
       "id": "9fb4e0ef2edcb2cd9178e23c33b15eea",
@@ -1138,7 +1138,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 15,
+      "likes": 16,
       "is_new": false
     },
     {
@@ -1206,7 +1206,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 29,
+      "likes": 31,
       "is_new": false
     },
     {
@@ -1247,7 +1247,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 12,
+      "likes": 13,
       "is_new": false
     },
     {
@@ -1296,10 +1296,22 @@
   "by_category": {
     "news": [
       {
+        "id": "61f03f2379bc9dfa6cd3858879b03c3e",
+        "title": "Google’s Gemini app surges to one billion users",
+        "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+        "description": "Gemini is keeping pace with OpenAI’s ChatGPT, which hit 1 billion monthly active users back in June.",
+        "published": "Tue, 11 Aug 2026 18:49:12 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "b8d07c245c74a0b30a4e47a0fcfa3086",
         "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
         "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
-        "description": "One of OpenAI's longest serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
+        "description": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
         "published": "Tue, 11 Aug 2026 17:41:34 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
@@ -1517,18 +1529,6 @@
         "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
         "description": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
         "published": "Fri, 07 Aug 2026 21:30:11 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "62678037a7feb1b265e4beccfd294771",
-        "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-        "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-        "description": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents mo",
-        "published": "Fri, 07 Aug 2026 16:16:09 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
