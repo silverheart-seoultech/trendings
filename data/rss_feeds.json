@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-11T21:00:39.974633+00:00",
+  "last_updated": "2026-08-11T22:01:02.325582+00:00",
   "total_entries": 110,
-  "new_entries": 3,
+  "new_entries": 6,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -48,6 +48,18 @@
   ],
   "entries": [
     {
+      "id": "2deee44b21d97eea44880bd28ac59aa7",
+      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+      "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+      "description": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
+      "published": "Tue, 11 Aug 2026 21:39:11 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "c836abb2e39288469fe6dcdaef605b3d",
       "title": "OpenAI launches ChatGPT desktop app for Linux",
       "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
@@ -61,9 +73,9 @@
     },
     {
       "id": "61f03f2379bc9dfa6cd3858879b03c3e",
-      "title": "Google’s Gemini app surges to one billion users",
+      "title": "Google’s Gemini app surges to 1 billion users",
       "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
-      "description": "Gemini is keeping pace with OpenAI’s ChatGPT, which hit 1 billion monthly active users back in June.",
+      "description": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 mi",
       "published": "Tue, 11 Aug 2026 18:49:12 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
@@ -756,18 +768,6 @@
       "is_new": false
     },
     {
-      "id": "59163ffd3cbeaf46750466943a78e19a",
-      "title": "OpenAI says it slowed Astra model development over security concerns",
-      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-      "description": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-pro",
-      "published": "Fri, 07 Aug 2026 22:48:24 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "f3ec5949a23f5e05eba85ae34275a9e5",
       "title": "Made by Google 2026: all the Pixel news and announcements",
       "url": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
@@ -1005,7 +1005,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 27,
+      "likes": 30,
       "is_new": false
     },
     {
@@ -1048,6 +1048,19 @@
       "points": 9,
       "comments": 6,
       "is_new": false
+    },
+    {
+      "id": "5b54ec0c83a8966f43190a3942fcfcd7",
+      "title": "On-Policy Self-Distillation without Any Supervision",
+      "url": "https://huggingface.co/papers/2608.06296",
+      "description": "On-policy (Self-)Distillation (OPD / OPSD) has shown strong potential for post-training large language models (LLMs). However, existing methods still rely heavily on external supervision, including gr",
+      "published": "2026-08-08T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 41,
+      "is_new": true
     },
     {
       "id": "d861e76f0a07564f076d290a56b579a4",
@@ -1142,19 +1155,6 @@
       "is_new": false
     },
     {
-      "id": "30aaec21bf0a2381dc9ea8ea5f7371d2",
-      "title": "OasisKV: Scaling In-Decode KV Cache Beyond HBM with Lookahead Sparse Prefetching",
-      "url": "https://huggingface.co/papers/2608.08097",
-      "description": "Large language model (LLM) inference serving is increasingly constrained by memory rather than compute. As long-context and long-form reasoning workloads become more prevalent, the key-value (KV) cach",
-      "published": "2026-08-07T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 16,
-      "is_new": false
-    },
-    {
       "id": "49215505",
       "title": "Show HN: Alyph, a manual transmission for LLM context",
       "url": "https://www.alyph.ai/",
@@ -1195,6 +1195,20 @@
       "points": 1,
       "comments": 2,
       "is_new": false
+    },
+    {
+      "id": "49207439",
+      "title": "Show HN: Goodfault: insurance for AI agents and robots",
+      "url": "https://goodfault.com",
+      "description": "",
+      "published": "2026-08-07T08:29:49Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": true
     },
     {
       "id": "9de2103cc4c1e5fea288bd924ad4889a",
@@ -1277,24 +1291,22 @@
       "points": 68,
       "comments": 53,
       "is_new": false
-    },
-    {
-      "id": "49182263",
-      "title": "Show HN: An AI agent that trades inside limits you set, starting on paper",
-      "url": "https://quantsignals.xyz/fst",
-      "description": "",
-      "published": "2026-08-05T13:01:29Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 17,
-      "comments": 9,
-      "is_new": false
     }
   ],
   "by_category": {
     "news": [
+      {
+        "id": "2deee44b21d97eea44880bd28ac59aa7",
+        "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+        "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+        "description": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
+        "published": "Tue, 11 Aug 2026 21:39:11 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "c836abb2e39288469fe6dcdaef605b3d",
         "title": "OpenAI launches ChatGPT desktop app for Linux",
@@ -1309,9 +1321,9 @@
       },
       {
         "id": "61f03f2379bc9dfa6cd3858879b03c3e",
-        "title": "Google’s Gemini app surges to one billion users",
+        "title": "Google’s Gemini app surges to 1 billion users",
         "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
-        "description": "Gemini is keeping pace with OpenAI’s ChatGPT, which hit 1 billion monthly active users back in June.",
+        "description": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 mi",
         "published": "Tue, 11 Aug 2026 18:49:12 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
@@ -1517,18 +1529,6 @@
         "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
         "description": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
         "published": "Mon, 10 Aug 2026 12:00:00 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "59163ffd3cbeaf46750466943a78e19a",
-        "title": "OpenAI says it slowed Astra model development over security concerns",
-        "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-        "description": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-pro",
-        "published": "Fri, 07 Aug 2026 22:48:24 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
