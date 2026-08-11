@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-11T02:06:32.211241+00:00",
+  "last_updated": "2026-08-11T02:23:53.764198+00:00",
   "total_entries": 110,
-  "new_entries": 15,
+  "new_entries": 1,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -57,7 +57,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "93553c6ca62b0cfb31a11cf4839e28bd",
@@ -165,7 +165,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "559fae1965599d6d964d8b8a7b6cae08",
@@ -177,7 +177,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "9f4258eff4d02539395a594529ffb43c",
@@ -189,7 +189,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "4662a98c4da9d5a35fdeb378bc1ce210",
@@ -777,7 +777,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "8146f3b7fccd003aea6ef5c03a3bc0ec",
@@ -881,8 +881,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
-      "is_new": true
+      "likes": 4,
+      "is_new": false
     },
     {
       "id": "49215505",
@@ -1076,7 +1076,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "a5cd7f638cda52d34611bdf6b3a3fe96",
@@ -1115,19 +1115,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 28,
-      "is_new": false
-    },
-    {
-      "id": "222bd2c6c8fdcc4a4dd6e0bc5717e747",
-      "title": "SFT Conflicts, RL Coexists: A Theoretical and Empirical Analysis of Multi-Task Learning for LLMs",
-      "url": "https://huggingface.co/papers/2608.03573",
-      "description": "Supervised Fine-Tuning (SFT) and Reinforcement Learning (RL) exhibit fundamentally different behaviors in enhancing multi-task reasoning for large language models (LLMs). Our preliminary experiments r",
-      "published": "2026-08-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 32,
       "is_new": false
     },
     {
@@ -1187,6 +1174,19 @@
       "is_new": false
     },
     {
+      "id": "548027359a2c183b8d6b189f713e8b64",
+      "title": "SPOT: Sparse Probing and Outcome Calibration for On-Policy Distillation",
+      "url": "https://huggingface.co/papers/2608.04419",
+      "description": "On-policy distillation (OPD) provides dense teacher supervision on student-generated trajectories, but standard reverse-KL training can assign insufficient probability to other plausible continuations",
+      "published": "2026-08-04T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 12,
+      "is_new": true
+    },
+    {
       "id": "2d718cf7be39a229372553810062bee7",
       "title": "CLIP-CC-Bench: Evaluating Paragraph-Level Video Descriptions in Video-Language Models",
       "url": "https://huggingface.co/papers/2608.04302",
@@ -1197,7 +1197,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "4aa0b7ad558168b5c63955c68816d992",
@@ -1291,7 +1291,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 16,
-      "is_new": true
+      "is_new": false
     }
   ],
   "by_category": {
@@ -1306,7 +1306,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "93553c6ca62b0cfb31a11cf4839e28bd",
@@ -1414,7 +1414,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "559fae1965599d6d964d8b8a7b6cae08",
@@ -1426,7 +1426,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "9f4258eff4d02539395a594529ffb43c",
@@ -1438,7 +1438,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "4662a98c4da9d5a35fdeb378bc1ce210",
@@ -1546,7 +1546,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "8146f3b7fccd003aea6ef5c03a3bc0ec",
