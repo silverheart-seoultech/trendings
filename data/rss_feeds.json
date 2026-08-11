@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-11T13:37:52.244629+00:00",
+  "last_updated": "2026-08-11T15:13:52.148434+00:00",
   "total_entries": 110,
-  "new_entries": 2,
+  "new_entries": 9,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,6 +768,46 @@
       "is_new": false
     },
     {
+      "id": "49259180",
+      "title": "Show HN: The terminal I live in all day: comment on anything coding agents print",
+      "url": "https://github.com/albertwujj/agent-term",
+      "description": "",
+      "published": "2026-08-11T14:40:11Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "49259021",
+      "title": "Show HN: SquadCue – local-first mission control for AI CLI agents",
+      "url": "https://github.com/hsienchuc/squadcue",
+      "description": "",
+      "published": "2026-08-11T14:31:01Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "fa830ce9c845d54344437e9c622a7880",
+      "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+      "description": "Zoom has patched a major security vulnerability that could allow an attacker to hijack anyone's device during a meeting. In a blog post on Tuesday, researchers at A Security say they uncovered the fla",
+      "published": "2026-08-11T10:45:44-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "aca3d33a076870f19db69543e72f1c4d",
       "title": "Why your Amazon order confirmation emails have become so unhelpful",
       "url": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
@@ -852,18 +892,6 @@
       "is_new": false
     },
     {
-      "id": "7a2536fc12ba4896a1d4342faff98f2e",
-      "title": "An Amazon data center could have the worst polluting power plant in the country",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
-      "description": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to The",
-      "published": "2026-08-10T07:06:58-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "49235865",
       "title": "Show HN: Pacific Slate: a self-hosted, model-agnostic multi-agent AI assistant",
       "url": "https://pacslate.com/",
@@ -878,6 +906,19 @@
       "is_new": false
     },
     {
+      "id": "9f87671689e9a1fe4c2738ec329e05a4",
+      "title": "Don't Scroll Back: Missing-Evidence Memory for Streaming Dialogue Summarization",
+      "url": "https://huggingface.co/papers/2608.09043",
+      "description": "Users of modern platforms repeatedly need summaries of recent dialogue, but the window rarely contains enough context to be interpreted on its own. We formalize this setting as streaming dialogue summ",
+      "published": "2026-08-09T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "efe5118ebf1a28dd147a11c705e9d3fb",
       "title": "BDH-CQ: In-Context Learning with Recurrent Latent Reasoning",
       "url": "https://huggingface.co/papers/2608.09888",
@@ -887,7 +928,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 69,
+      "likes": 106,
       "is_new": false
     },
     {
@@ -913,7 +954,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 11,
       "is_new": false
     },
     {
@@ -940,58 +981,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 6,
-      "is_new": false
-    },
-    {
-      "id": "9b063e290a230a00d3f02d7de542b243",
-      "title": "Evo-Bench: Can Language Models Improve Agent Harness?",
-      "url": "https://huggingface.co/papers/2608.09096",
-      "description": "Large Language Models (LLMs) have driven rapid progress in autonomous agents, yet standard evaluations remain confined to static task solving. An emerging frontier is harness evolution---the agent's c",
-      "published": "2026-08-09T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 7,
-      "is_new": false
-    },
-    {
-      "id": "74c1f59ce48106f8a764e176705a1eca",
-      "title": "Intent Speaks Louder: Controllable User Simulation Beyond Response Imitation",
-      "url": "https://huggingface.co/papers/2608.09420",
-      "description": "User simulators are widely used as scalable environments for training and evaluating interactive assistants. Generating the next user turn is inherently one-to-many: the same profile and dialogue cont",
-      "published": "2026-08-09T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "5cd14803961b8ba953fd13932f1170a4",
-      "title": "Macaron-V1: Towards Open Continual Learning with Self-Improvement and Mixture-of-LoRA",
-      "url": "https://huggingface.co/papers/2608.09819",
-      "description": "Macaron-V1 is an open agent-model family for experiential intelligence: learning from experience in real environments and continuing to learn after deployment. It is organized around two system goals.",
-      "published": "2026-08-09T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 97,
-      "is_new": false
-    },
-    {
-      "id": "99d37fa2aeaf0ceabedbe309c9be036e",
-      "title": "SWE-Bench ProMax: Benchmarking Agents on Large-Scale Multilingual Code Refactoring",
-      "url": "https://huggingface.co/papers/2608.09802",
-      "description": "As AI coding agents take on increasingly complex, long-horizon software engineering tasks, existing benchmarks are rapidly saturating and their evaluation quality has come under serious scrutiny: a re",
-      "published": "2026-08-09T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 112,
       "is_new": false
     },
     {
@@ -1023,6 +1012,32 @@
       "is_new": false
     },
     {
+      "id": "9fb4e0ef2edcb2cd9178e23c33b15eea",
+      "title": "Gaming Without an Attacker: Benchmark Fingerprinting in LLM-Driven Search Under Selection Pressure",
+      "url": "https://huggingface.co/papers/2608.08722",
+      "description": "Benchmarks for systems that are optimized against the evaluation signal measure something different from what they claim. We document this concretely in two GPU-kernel-optimization suites with held-ou",
+      "published": "2026-08-08T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "805fb6d9586144cfce329c35e18fbc5c",
+      "title": "SymDiag: Explainable Diagnosis for LLM Reasoning via Neuro-Symbolic Verification",
+      "url": "https://huggingface.co/papers/2608.08786",
+      "description": "Large language models (LLMs) increasingly serve as data-driven reasoners, yet their chains-of-thought (CoT) can be unfaithful even when final answers are correct. Most existing ``verification'' signal",
+      "published": "2026-08-08T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "49218097",
       "title": "Show HN: Salestrics – An open MCP server and CRM for AI-native revenue teams",
       "url": "https://www.salestrics.com/",
@@ -1035,6 +1050,19 @@
       "points": 1,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "bee9caf9fb29709276b1eae8143c0212",
+      "title": "A Hybrid Nested Harness for Decoupling Structure and Parameters in LLM-Driven Optimization",
+      "url": "https://huggingface.co/papers/2608.08156",
+      "description": "In evolutionary algorithms powered by language models, the LLM acts as a single operator that simultaneously updates structural components (like control flow) and continuous parameters. While LLMs can",
+      "published": "2026-08-07T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
     },
     {
       "id": "24701ed335a335a63ac064a1b55ef9bf",
@@ -1085,7 +1113,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 54,
+      "likes": 57,
       "is_new": false
     },
     {
@@ -1164,7 +1192,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 27,
+      "likes": 28,
       "is_new": false
     },
     {
@@ -1205,7 +1233,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 10,
       "is_new": false
     },
     {
@@ -1261,33 +1289,6 @@
       "category": "news",
       "points": 17,
       "comments": 9,
-      "is_new": false
-    },
-    {
-      "id": "49175985",
-      "title": "Show HN: Collab Word in Web – Collaborative Near MS Word Parity Docx Editor",
-      "url": "https://collab.word-in-web.com/",
-      "description": "",
-      "published": "2026-08-04T22:17:28Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "79501ce2e11835cb392f94a3986c2e96",
-      "title": "The Loss Does Not See the Basis, but Adam Does",
-      "url": "https://huggingface.co/papers/2608.05136",
-      "description": "Gradient descent on a factored model W = UV^top is implicitly biased toward low-rank solutions, while Adam, starting from the same small initialization, is not. We trace the difference to the gauge sy",
-      "published": "2026-08-04T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
       "is_new": false
     }
   ],
@@ -1534,6 +1535,46 @@
         "is_new": false
       },
       {
+        "id": "49259180",
+        "title": "Show HN: The terminal I live in all day: comment on anything coding agents print",
+        "url": "https://github.com/albertwujj/agent-term",
+        "description": "",
+        "published": "2026-08-11T14:40:11Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 1,
+        "comments": 0,
+        "is_new": true
+      },
+      {
+        "id": "49259021",
+        "title": "Show HN: SquadCue – local-first mission control for AI CLI agents",
+        "url": "https://github.com/hsienchuc/squadcue",
+        "description": "",
+        "published": "2026-08-11T14:31:01Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 1,
+        "comments": 0,
+        "is_new": true
+      },
+      {
+        "id": "fa830ce9c845d54344437e9c622a7880",
+        "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+        "description": "Zoom has patched a major security vulnerability that could allow an attacker to hijack anyone's device during a meeting. In a blog post on Tuesday, researchers at A Security say they uncovered the fla",
+        "published": "2026-08-11T10:45:44-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "aca3d33a076870f19db69543e72f1c4d",
         "title": "Why your Amazon order confirmation emails have become so unhelpful",
         "url": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
@@ -1615,46 +1656,6 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "7a2536fc12ba4896a1d4342faff98f2e",
-        "title": "An Amazon data center could have the worst polluting power plant in the country",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
-        "description": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to The",
-        "published": "2026-08-10T07:06:58-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "49235865",
-        "title": "Show HN: Pacific Slate: a self-hosted, model-agnostic multi-agent AI assistant",
-        "url": "https://pacslate.com/",
-        "description": "",
-        "published": "2026-08-09T21:04:02Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 5,
-        "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "49232345",
-        "title": "Show HN: Sufleur - npm-style prompt registry with typed code-generation",
-        "url": "https://github.com/sufleur/cli",
-        "description": "",
-        "published": "2026-08-09T15:28:53Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 3,
-        "comments": 0,
         "is_new": false
       }
     ],
