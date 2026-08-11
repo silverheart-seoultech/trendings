@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-11T04:36:54.640797+00:00",
+  "last_updated": "2026-08-11T06:01:25.392131+00:00",
   "total_entries": 110,
-  "new_entries": 51,
+  "new_entries": 54,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -839,7 +839,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 3,
       "is_new": true
     },
     {
@@ -852,7 +852,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 4,
       "is_new": true
     },
     {
@@ -878,7 +878,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 32,
+      "likes": 37,
       "is_new": true
     },
     {
@@ -891,7 +891,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 43,
+      "likes": 58,
       "is_new": true
     },
     {
@@ -904,7 +904,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 16,
+      "likes": 20,
       "is_new": true
     },
     {
@@ -917,7 +917,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 18,
+      "likes": 21,
       "is_new": true
     },
     {
@@ -963,6 +963,19 @@
       "is_new": false
     },
     {
+      "id": "30aaec21bf0a2381dc9ea8ea5f7371d2",
+      "title": "OasisKV: Scaling In-Decode KV Cache Beyond HBM with Lookahead Sparse Prefetching",
+      "url": "https://huggingface.co/papers/2608.08097",
+      "description": "Large language model (LLM) inference serving is increasingly constrained by memory rather than compute. As long-context and long-form reasoning workloads become more prevalent, the key-value (KV) cach",
+      "published": "2026-08-07T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 7,
+      "is_new": true
+    },
+    {
       "id": "05e6245989f01ae46e6467c694aebda5",
       "title": "Ouroboros: A Self-Developing Frontier Coding Agent with Reviewed Core Evolution",
       "url": "https://huggingface.co/papers/2608.08311",
@@ -972,7 +985,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 10,
       "is_new": true
     },
     {
@@ -1103,17 +1116,17 @@
       "is_new": false
     },
     {
-      "id": "affb49ca4f14de3aa7322d10268ee0b9",
-      "title": "Multi-Agent Forensic Reasoning for Generalizable Deepfake Video Detection",
-      "url": "https://huggingface.co/papers/2608.06865",
-      "description": "The malicious use of generative artificial intelligence to create highly realistic deepfake videos raises serious ethical concerns and poses substantial challenges to AI safety. However, existing deep",
+      "id": "d53b6241d3d406b00693b39aaea36e59",
+      "title": "Agent Memory Distillation: Empowering Small LLM Agents with Hierarchical Teacher Memory",
+      "url": "https://huggingface.co/papers/2608.07169",
+      "description": "Memory systems have shown promise for improving agent performance, but their potential remains largely unexplored for small language models, which struggle to generate sufficient successful trajectori",
       "published": "2026-08-06T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
-      "is_new": false
+      "likes": 20,
+      "is_new": true
     },
     {
       "id": "49190381",
@@ -1144,6 +1157,19 @@
       "is_new": false
     },
     {
+      "id": "bf9db7586b9f1ed05abe8d06422fe77a",
+      "title": "Scaling Inherently Interpretable Language Models",
+      "url": "https://huggingface.co/papers/2608.07594",
+      "description": "Interpretability is often treated as a tax on capability: language models are trained as opaque systems, then explained after the fact, with methods whose reliability is difficult to establish. In thi",
+      "published": "2026-08-05T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "67f932c0ac59c12b31ad87e61255c864",
       "title": "Factorized Hypothesis Search for Evidence-to-Taxonomy Retrieval",
       "url": "https://huggingface.co/papers/2608.06614",
@@ -1167,19 +1193,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "a5cd7f638cda52d34611bdf6b3a3fe96",
-      "title": "DCAS: Decoupling CLI Agent Scaffolding to Internalize Planning across Scaffolds",
-      "url": "https://huggingface.co/papers/2608.06113",
-      "description": "CLI-based software-engineering agents have matured rapidly, yet the open ecosystem has converged on a single training environment: trajectory datasets used to fine-tune open models are collected almos",
-      "published": "2026-08-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 14,
       "is_new": false
     },
     {
@@ -1262,19 +1275,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "4aa0b7ad558168b5c63955c68816d992",
-      "title": "Relevant but Incomplete: Referential Dangling as a Paradigm-Level Failure Mode in Hard Prompt Compression",
-      "url": "https://huggingface.co/papers/2608.04569",
-      "description": "Hard prompt compression reduces long-context inference cost by independently scoring tokens, sentences, or chunks and retaining the highest-scoring units under a budget. We identify a structural failu",
-      "published": "2026-08-04T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 9,
       "is_new": false
     },
     {
