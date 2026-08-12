@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-11T23:56:00.761891+00:00",
+  "last_updated": "2026-08-12T02:24:11.683068+00:00",
   "total_entries": 110,
-  "new_entries": 8,
+  "new_entries": 11,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,6 +768,18 @@
       "is_new": false
     },
     {
+      "id": "7700ad67b4c00a7efab1d44a908b71bf",
+      "title": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
+      "url": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+      "description": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced any writers with AI,\" for the Rideshare \"Stimulator\" game an",
+      "published": "2026-08-11T20:40:27-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "f3ec5949a23f5e05eba85ae34275a9e5",
       "title": "Made by Google 2026: all the Pixel news and announcements",
       "url": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
@@ -918,18 +930,6 @@
       "is_new": false
     },
     {
-      "id": "b6a795d1e48ad3aa58e4086569a6e6c0",
-      "title": "Mark Zuckerberg doesn’t understand how to live",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
-      "description": "Recently, a man I was rock climbing with told me about how he'd used AI to make a motivational poster for himself, which he'd hung on his bedroom wall: a bear, walking a slackline over a canyon, holdi",
-      "published": "2026-08-10T18:47:01-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "49235865",
       "title": "Show HN: Pacific Slate: a self-hosted, model-agnostic multi-agent AI assistant",
       "url": "https://pacslate.com/",
@@ -953,7 +953,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 4,
       "is_new": true
     },
     {
@@ -966,7 +966,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 5,
       "is_new": false
     },
     {
@@ -979,7 +979,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 241,
+      "likes": 249,
       "is_new": false
     },
     {
@@ -992,33 +992,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "058c2d541a607480cdac1c7685b81d56",
-      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-      "url": "https://huggingface.co/papers/2608.09867",
-      "description": "Leading large language model providers now conceal their models' step-by-step reasoning, or chain-of-thought, to protect intellectual property and limit information leakage. Rather than storing these ",
-      "published": "2026-08-09T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 32,
-      "is_new": false
-    },
-    {
-      "id": "0e97eb018d36d3322301938e93892309",
-      "title": "A^2E : An End-to-End Agent Auditing Engine",
-      "url": "https://huggingface.co/papers/2608.07346",
-      "description": "With the rapid advancement of large language models (LLMs), harnesses have become essential infrastructure for deploying agents across a wide range of domains. The fast-evolving harness ecosystem has ",
-      "published": "2026-08-09T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 6,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -1050,6 +1024,19 @@
       "is_new": false
     },
     {
+      "id": "7c5b4993f2c35e49ef90ba29d1a5767a",
+      "title": "VectraYX-Vision-1B: A Sub-2B Spanish/LATAM Cybersecurity Vision-Language Model with Structured Visual Reasoning and Native Tool Use",
+      "url": "https://huggingface.co/papers/2608.08477",
+      "description": "We present VectraYX-Vision-1B, a sub-2B vision-language model (VLM) for Spanish/LATAM cybersecurity imagery, coupling a frozen SigLIP-so400m encoder to a 1.04B Spanish/LATAM security decoder via an ML",
+      "published": "2026-08-08T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
+    },
+    {
       "id": "5b54ec0c83a8966f43190a3942fcfcd7",
       "title": "On-Policy Self-Distillation without Any Supervision",
       "url": "https://huggingface.co/papers/2608.06296",
@@ -1059,7 +1046,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 52,
+      "likes": 71,
       "is_new": true
     },
     {
@@ -1072,7 +1059,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 9,
       "is_new": false
     },
     {
@@ -1085,7 +1072,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 5,
       "is_new": false
     },
     {
@@ -1098,7 +1085,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -1125,7 +1112,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -1138,7 +1125,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -1151,7 +1138,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -1220,7 +1207,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 4,
       "is_new": true
     },
     {
@@ -1233,7 +1220,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -1265,6 +1252,19 @@
       "is_new": false
     },
     {
+      "id": "634561c1d7c48160b91d428bc0a9e7e6",
+      "title": "The Next Screenshot Knows: Gated Hindsight Distillation for Mobile GUI Agents",
+      "url": "https://huggingface.co/papers/2608.06065",
+      "description": "GUI agents are commonly trained offline from successful interaction trajectories. Standard training decomposes each trajectory into prefix-action pairs: the agent predicts an action from the current s",
+      "published": "2026-08-05T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 5,
+      "is_new": true
+    },
+    {
       "id": "193f6c05609533d38e3110400a73c7e2",
       "title": "Beyond Sequence Order: Syntax-Informed Positional Embeddings for Transformers",
       "url": "https://huggingface.co/papers/2608.06111",
@@ -1274,7 +1274,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 3,
       "is_new": true
     },
     {
@@ -1535,6 +1535,18 @@
         "is_new": false
       },
       {
+        "id": "7700ad67b4c00a7efab1d44a908b71bf",
+        "title": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
+        "url": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+        "description": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced any writers with AI,\" for the Rideshare \"Stimulator\" game an",
+        "published": "2026-08-11T20:40:27-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "f3ec5949a23f5e05eba85ae34275a9e5",
         "title": "Made by Google 2026: all the Pixel news and announcements",
         "url": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
@@ -1642,18 +1654,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
         "description": "Earlier this summer, Amazon customers began noticing that emails related to their online orders looked sparse: Order confirmation emails didn't name specific items anymore, and instead listed only ite",
         "published": "2026-08-11T09:27:20-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "29c27da3275cd670211b7457de99dc29",
-        "title": "Spotify says it won&#8217;t recommend music from &#8216;AI Personas&#8217;",
-        "url": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
-        "description": "Spotify will soon label AI artists and remove their music from your recommendations. The change, which will start rolling out in mid-September, means you'll see an \"AI Persona\" badge on an artist's pr",
-        "published": "2026-08-11T09:19:55-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
