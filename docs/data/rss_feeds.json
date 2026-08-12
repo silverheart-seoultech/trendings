@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-12T08:37:21.959524+00:00",
+  "last_updated": "2026-08-12T10:17:53.912933+00:00",
   "total_entries": 110,
-  "new_entries": 2,
+  "new_entries": 4,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -777,8 +777,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 11,
-      "comments": 3,
+      "points": 16,
+      "comments": 5,
       "is_new": true
     },
     {
@@ -944,6 +944,19 @@
       "is_new": false
     },
     {
+      "id": "eaf8956f834e602e0dcffd4527e4e082",
+      "title": "InSight-doc: Agentic Visual Perception for Long-Document Understanding",
+      "url": "https://huggingface.co/papers/2608.10628",
+      "description": "Long-document understanding often requires reasoning over many visually rich pages, making inference costly and prone to context rot. In this work, we propose InSight-doc, an agentic visual perception",
+      "published": "2026-08-10T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
       "id": "406031804bfda1267560f1207eef2c2f",
       "title": "DistilVDR: A Compact End-to-End Visual Document Retriever via Dual-Student Distillation",
       "url": "https://huggingface.co/papers/2608.10636",
@@ -979,7 +992,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -992,7 +1005,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 67,
+      "likes": 88,
       "is_new": false
     },
     {
@@ -1005,7 +1018,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
+      "likes": 9,
       "is_new": false
     },
     {
@@ -1061,19 +1074,6 @@
       "is_new": false
     },
     {
-      "id": "620b83e71e285a4b475d6ecb8904c315",
-      "title": "Beyond Pixels: From Video Priors to 4D Worlds",
-      "url": "https://huggingface.co/papers/2608.10744",
-      "description": "4D generation synthesizes dynamic 3D scenes from conditions such as text or images. Existing methods either reconstruct generated RGB videos with a separate 4D model or adapt a particular video genera",
-      "published": "2026-08-10T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 32,
-      "is_new": false
-    },
-    {
       "id": "49235865",
       "title": "Show HN: Pacific Slate: a self-hosted, model-agnostic multi-agent AI assistant",
       "url": "https://pacslate.com/",
@@ -1088,6 +1088,19 @@
       "is_new": false
     },
     {
+      "id": "814eb33094a348e67263f3c24d04a3e9",
+      "title": "Power law graph attention: exact generalization of scaled dot-product attention, empirical collapse at inference",
+      "url": "https://huggingface.co/papers/2608.10288",
+      "description": "The Large Language Model from Power Law Decoder Representations (PLDR-LLM) and its attention, Power Law Graph Attention (PLGA), replace the fixed bilinear form of scaled dot-product attention (SDPA) w",
+      "published": "2026-08-09T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "b1daa4a8ca28b1ca2ea33e416d638cda",
       "title": "Decoding-Level Taboo: A Diagnostic Stress Test for LLM Robustness",
       "url": "https://huggingface.co/papers/2608.09900",
@@ -1097,7 +1110,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
+      "likes": 7,
       "is_new": false
     },
     {
@@ -1110,7 +1123,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 60,
+      "likes": 68,
       "is_new": false
     },
     {
@@ -1274,19 +1287,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "76750df2bc892f0aaf7df5e35989671f",
-      "title": "Mendel Gödel Machine: Recursive Self-Improving Coding Agents via Comparative Evolution",
-      "url": "https://huggingface.co/papers/2608.07645",
-      "description": "Self-improving coding agents that iteratively rewrite their own source code have demonstrated impressive performance on coding tasks. However, existing solutions generally derive self-modification fro",
-      "published": "2026-08-06T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 11,
       "is_new": false
     }
   ],
@@ -1904,8 +1904,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 11,
-        "comments": 3,
+        "points": 16,
+        "comments": 5,
         "is_new": true
       },
       {
