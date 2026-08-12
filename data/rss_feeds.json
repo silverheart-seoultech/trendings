@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-12T19:16:49.700356+00:00",
+  "last_updated": "2026-08-12T20:59:52.397973+00:00",
   "total_entries": 110,
-  "new_entries": 0,
+  "new_entries": 2,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -48,6 +48,18 @@
   ],
   "entries": [
     {
+      "id": "0e1a976108c71a3d479219e2a4937d0e",
+      "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+      "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+      "description": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+      "published": "Wed, 12 Aug 2026 20:10:40 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "fedb51cc07b1d84a5a94c18edffe77f9",
       "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
       "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
@@ -63,7 +75,7 @@
       "id": "b77f0ff8e5502479a3562eebb6197be2",
       "title": "As AI safety concerns mount, three pioneers make the case for staying open",
       "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-      "description": "At Ai4, three of the world's most respected AI experts—Geoffrey Hinton, Fei-Fei Li, and Andrew Ng—debated regulation, open-source access, and how America can compete as China advances in Asia.",
+      "description": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia.",
       "published": "Wed, 12 Aug 2026 17:51:00 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
@@ -756,16 +768,18 @@
       "is_new": false
     },
     {
-      "id": "48cf888df40480174853e169dd093af8",
-      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
-      "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
-      "description": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
-      "published": "Mon, 10 Aug 2026 23:56:15 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
+      "id": "49277842",
+      "title": "Show HN: Tried some experiments with architecture for Long term memory for LLM",
+      "url": "https://github.com/faisalhussain-devs/MindCache/tree/collapsed_tree",
+      "description": "",
+      "published": "2026-08-12T20:03:11Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
       "category": "news",
-      "is_new": false
+      "points": 1,
+      "comments": 0,
+      "is_new": true
     },
     {
       "id": "49275479",
@@ -793,6 +807,18 @@
       "category": "news",
       "points": 2,
       "comments": 1,
+      "is_new": false
+    },
+    {
+      "id": "f3ec5949a23f5e05eba85ae34275a9e5",
+      "title": "Made by Google 2026: all the Pixel news and announcements",
+      "url": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
+      "description": "Google has revealed a bunch of new Pixel devices ahead of its Made by Google event. The colorful Pixel 11 lineup comes with upgraded cameras and performance, with the Pro models offering a built-in LE",
+      "published": "2026-08-12T15:34:50-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
       "is_new": false
     },
     {
@@ -848,18 +874,6 @@
       "is_new": false
     },
     {
-      "id": "f3ec5949a23f5e05eba85ae34275a9e5",
-      "title": "Made by Google 2026: all the Pixel news and announcements",
-      "url": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
-      "description": "Google has revealed a bunch of new Pixel devices ahead of its Made by Google event. The colorful Pixel 11 lineup comes with upgraded cameras and performance, with the Pro models offering a built-in LE",
-      "published": "2026-08-12T12:31:54-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "4361bd4cf51a12e2faf9b74ec4e3a2ce",
       "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
       "url": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
@@ -905,7 +919,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 56,
+      "points": 58,
       "comments": 18,
       "is_new": false
     },
@@ -1275,24 +1289,22 @@
       "category": "research",
       "likes": 2,
       "is_new": false
-    },
-    {
-      "id": "49215505",
-      "title": "Show HN: Alyph, a manual transmission for LLM context",
-      "url": "https://www.alyph.ai/",
-      "description": "",
-      "published": "2026-08-07T19:58:51Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 1,
-      "comments": 0,
-      "is_new": false
     }
   ],
   "by_category": {
     "news": [
+      {
+        "id": "0e1a976108c71a3d479219e2a4937d0e",
+        "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+        "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+        "description": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+        "published": "Wed, 12 Aug 2026 20:10:40 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "fedb51cc07b1d84a5a94c18edffe77f9",
         "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
@@ -1309,7 +1321,7 @@
         "id": "b77f0ff8e5502479a3562eebb6197be2",
         "title": "As AI safety concerns mount, three pioneers make the case for staying open",
         "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-        "description": "At Ai4, three of the world's most respected AI experts—Geoffrey Hinton, Fei-Fei Li, and Andrew Ng—debated regulation, open-source access, and how America can compete as China advances in Asia.",
+        "description": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia.",
         "published": "Wed, 12 Aug 2026 17:51:00 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
@@ -1522,16 +1534,18 @@
         "is_new": false
       },
       {
-        "id": "48cf888df40480174853e169dd093af8",
-        "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
-        "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
-        "description": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
-        "published": "Mon, 10 Aug 2026 23:56:15 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
+        "id": "49277842",
+        "title": "Show HN: Tried some experiments with architecture for Long term memory for LLM",
+        "url": "https://github.com/faisalhussain-devs/MindCache/tree/collapsed_tree",
+        "description": "",
+        "published": "2026-08-12T20:03:11Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
         "category": "news",
-        "is_new": false
+        "points": 1,
+        "comments": 0,
+        "is_new": true
       },
       {
         "id": "49275479",
@@ -1559,6 +1573,18 @@
         "category": "news",
         "points": 2,
         "comments": 1,
+        "is_new": false
+      },
+      {
+        "id": "f3ec5949a23f5e05eba85ae34275a9e5",
+        "title": "Made by Google 2026: all the Pixel news and announcements",
+        "url": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
+        "description": "Google has revealed a bunch of new Pixel devices ahead of its Made by Google event. The colorful Pixel 11 lineup comes with upgraded cameras and performance, with the Pro models offering a built-in LE",
+        "published": "2026-08-12T15:34:50-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
         "is_new": false
       },
       {
@@ -1614,18 +1640,6 @@
         "is_new": false
       },
       {
-        "id": "f3ec5949a23f5e05eba85ae34275a9e5",
-        "title": "Made by Google 2026: all the Pixel news and announcements",
-        "url": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
-        "description": "Google has revealed a bunch of new Pixel devices ahead of its Made by Google event. The colorful Pixel 11 lineup comes with upgraded cameras and performance, with the Pro models offering a built-in LE",
-        "published": "2026-08-12T12:31:54-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
         "id": "4361bd4cf51a12e2faf9b74ec4e3a2ce",
         "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
         "url": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
@@ -1643,18 +1657,6 @@
         "url": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
         "description": "The $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition. Under the hood, there's a slightly fast",
         "published": "2026-08-12T09:23:13-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "9ebfb3cbe9d9719eb9f903964601a03b",
-        "title": "Grok is now an AI ‘teammate’ you can assign work",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
-        "description": "SpaceXAI has introduced Grok Bot, an always-on AI agent service designed to behave like independent \"AI teammates\" that can do your work for you. The bots share their own cloud-based computer environm",
-        "published": "2026-08-12T07:58:54-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
