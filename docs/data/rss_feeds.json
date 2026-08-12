@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-12T06:39:21.097872+00:00",
+  "last_updated": "2026-08-12T07:40:05.023649+00:00",
   "total_entries": 110,
-  "new_entries": 37,
+  "new_entries": 39,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -978,7 +978,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 42,
+      "likes": 47,
       "is_new": true
     },
     {
@@ -1030,7 +1030,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 5,
       "is_new": true
     },
     {
@@ -1043,7 +1043,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 5,
       "is_new": true
     },
     {
@@ -1056,7 +1056,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 15,
+      "likes": 28,
       "is_new": true
     },
     {
@@ -1074,6 +1074,19 @@
       "is_new": false
     },
     {
+      "id": "b1daa4a8ca28b1ca2ea33e416d638cda",
+      "title": "Decoding-Level Taboo: A Diagnostic Stress Test for LLM Robustness",
+      "url": "https://huggingface.co/papers/2608.09900",
+      "description": "Large language model evaluations typically focus on performance under nominal conditions, creating an illusion of capability where models comfortably walk a narrow, highly optimized generation corrido",
+      "published": "2026-08-09T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 6,
+      "is_new": true
+    },
+    {
       "id": "f04c6be744324064d280d292e82b013b",
       "title": "Co-Evolution in Agentic Systems: Toward Self-Directed Evolution Beyond Human Design",
       "url": "https://huggingface.co/papers/2608.10299",
@@ -1083,7 +1096,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 28,
+      "likes": 57,
       "is_new": true
     },
     {
@@ -1115,6 +1128,19 @@
       "is_new": false
     },
     {
+      "id": "42f962811b892c6648b46e0122005301",
+      "title": "UniMoMo: Expert Merging-Based MoE Acceleration for Large Recommendation Models",
+      "url": "https://huggingface.co/papers/2608.08627",
+      "description": "Sparse mixture-of-experts (MoE) layers expand recommendation capacity through conditional computation, yet a trained checkpoint still stores and routes over its full expert bank. We study a deployment",
+      "published": "2026-08-08T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
       "id": "de91c529b14aa6c788d3d858363c1a2f",
       "title": "Not Worth Another Token: Marginal Value Estimation for Efficient Deep Research Agents",
       "url": "https://huggingface.co/papers/2608.08389",
@@ -1124,7 +1150,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": true
     },
     {
@@ -1246,7 +1272,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 10,
       "is_new": true
     },
     {
@@ -1261,33 +1287,6 @@
       "category": "news",
       "points": 1,
       "comments": 1,
-      "is_new": false
-    },
-    {
-      "id": "49189075",
-      "title": "Prime Agent: A self-improving RLM agent",
-      "url": "https://www.primeintellect.ai/blog/prime-agent",
-      "description": "",
-      "published": "2026-08-05T21:11:57Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 253,
-      "comments": 69,
-      "is_new": false
-    },
-    {
-      "id": "634561c1d7c48160b91d428bc0a9e7e6",
-      "title": "The Next Screenshot Knows: Gated Hindsight Distillation for Mobile GUI Agents",
-      "url": "https://huggingface.co/papers/2608.06065",
-      "description": "GUI agents are commonly trained offline from successful interaction trajectories. Standard training decomposes each trajectory into prefix-action pairs: the agent predicts an action from the current s",
-      "published": "2026-08-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 6,
       "is_new": false
     }
   ],
