@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-12T04:58:00.851561+00:00",
+  "last_updated": "2026-08-12T06:39:21.097872+00:00",
   "total_entries": 110,
-  "new_entries": 34,
+  "new_entries": 37,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -930,6 +930,32 @@
       "is_new": false
     },
     {
+      "id": "406031804bfda1267560f1207eef2c2f",
+      "title": "DistilVDR: A Compact End-to-End Visual Document Retriever via Dual-Student Distillation",
+      "url": "https://huggingface.co/papers/2608.10636",
+      "description": "Visual document retrieval (VDR) is dominated by multi-billion-parameter models that are slow to index at full corpus scale and expensive to serve. Prior compression routes either train a smaller multi",
+      "published": "2026-08-10T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "6844e74e3538e366b3b7aeaac7cd5a2a",
+      "title": "AdvFD: Boosting Visual Generation via Adversarial Fr'echet Distance Loss",
+      "url": "https://huggingface.co/papers/2608.11205",
+      "description": "Fréchet distance has recently emerged as an effective distribution-level objective for generator post-training, complementing the conventional sample-level diffusion and flow-matching losses. However,",
+      "published": "2026-08-10T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 12,
+      "is_new": true
+    },
+    {
       "id": "b8b928fa543c914b67264dde0c52f20b",
       "title": "Reference-Free Post-Training of Open Large Language Models for Multilingual Machine Translation",
       "url": "https://huggingface.co/papers/2608.10812",
@@ -939,7 +965,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 3,
       "is_new": true
     },
     {
@@ -952,7 +978,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 37,
+      "likes": 42,
       "is_new": true
     },
     {
@@ -965,7 +991,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
+      "likes": 7,
       "is_new": true
     },
     {
@@ -1004,7 +1030,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 4,
       "is_new": true
     },
     {
@@ -1017,7 +1043,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 4,
       "is_new": true
     },
     {
@@ -1030,7 +1056,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 15,
       "is_new": true
     },
     {
@@ -1057,21 +1083,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 18,
+      "likes": 28,
       "is_new": true
-    },
-    {
-      "id": "757b7b20433956a49f94cc0c46d4a02d",
-      "title": "Cultivar: A Contrastive and Locale-Oriented Translation Benchmark for Investigating Contamination and Localisation Robustness",
-      "url": "https://huggingface.co/papers/2608.09766",
-      "description": "Multilingual translation benchmarks are typically sourced in English and translated into other languages, treating language pairs as the unit of evaluation---a design that is prone to contamination ov",
-      "published": "2026-08-09T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
-      "is_new": false
     },
     {
       "id": "49232345",
@@ -1111,7 +1124,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": true
     },
     {
@@ -1124,20 +1137,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
-      "is_new": false
-    },
-    {
-      "id": "5b54ec0c83a8966f43190a3942fcfcd7",
-      "title": "On-Policy Self-Distillation without Any Supervision",
-      "url": "https://huggingface.co/papers/2608.06296",
-      "description": "On-policy (Self-)Distillation (OPD / OPSD) has shown strong potential for post-training large language models (LLMs). However, existing methods still rely heavily on external supervision, including gr",
-      "published": "2026-08-08T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 118,
+      "likes": 5,
       "is_new": false
     },
     {
@@ -1246,21 +1246,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
+      "likes": 9,
       "is_new": true
-    },
-    {
-      "id": "ad588dbfefe1c16cd68ba158bf29461b",
-      "title": "Beyond Starry Night: Shortcut-Aware Control-State Planning for Artist-Grounded Text to Image Generation",
-      "url": "https://huggingface.co/papers/2608.06751",
-      "description": "Artist-grounded image generation requires more than appending an artist name to a prompt. Image models often respond to artist names through canonical shortcuts, such as recurring motifs, generic pale",
-      "published": "2026-08-06T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 5,
-      "is_new": false
     },
     {
       "id": "49190381",
@@ -1288,6 +1275,19 @@
       "category": "news",
       "points": 253,
       "comments": 69,
+      "is_new": false
+    },
+    {
+      "id": "634561c1d7c48160b91d428bc0a9e7e6",
+      "title": "The Next Screenshot Knows: Gated Hindsight Distillation for Mobile GUI Agents",
+      "url": "https://huggingface.co/papers/2608.06065",
+      "description": "GUI agents are commonly trained offline from successful interaction trajectories. Standard training decomposes each trajectory into prefix-action pairs: the agent predicts an action from the current s",
+      "published": "2026-08-05T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 6,
       "is_new": false
     }
   ],
