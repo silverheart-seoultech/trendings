@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T21:59:17.495698+00:00",
+  "last_updated": "2026-08-13T22:58:40.895795+00:00",
   "total_entries": 110,
   "new_entries": 7,
   "sources": [
@@ -782,30 +782,6 @@
       "is_new": false
     },
     {
-      "id": "a202a998008fb063156e585064a19e40",
-      "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
-      "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
-      "description": "Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where",
-      "published": "2026-08-13T17:53:09-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": true
-    },
-    {
-      "id": "ed2d0e440f58f260a6d730b2287e8ec5",
-      "title": "Microsoft is combining its Copilot apps ahead of a ‘super app’",
-      "url": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
-      "description": "Microsoft is finally beginning to combine its consumer and commercial Copilot AI assistants into a single \"super app\" interface, starting with the Copilot and Microsoft 365 Copilot apps. Both personal",
-      "published": "2026-08-13T17:18:35-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "45947aa8ee00249092fb00801936f596",
       "title": "OpenAI is losing its second executive this week",
       "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
@@ -851,6 +827,18 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
       "description": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest",
       "published": "2026-08-13T14:17:51-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": false
+    },
+    {
+      "id": "ed2d0e440f58f260a6d730b2287e8ec5",
+      "title": "Microsoft is combining its Copilot apps ahead of a ‘super app’",
+      "url": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
+      "description": "Microsoft is finally beginning to combine its consumer and commercial Copilot AI assistants into a single \"super app\" interface, starting with the Copilot and Microsoft 365 Copilot apps. Both personal",
+      "published": "2026-08-13T12:08:37-04:00",
       "source_id": "theverge-ai",
       "source_name": "The Verge AI",
       "source_icon": "📰",
@@ -1000,6 +988,18 @@
       "is_new": false
     },
     {
+      "id": "9ebfb3cbe9d9719eb9f903964601a03b",
+      "title": "Grok is now an AI ‘teammate’ you can assign work",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
+      "description": "SpaceXAI has introduced Grok Bot, an always-on AI agent service designed to behave like independent \"AI teammates\" that can do your work for you. The bots share their own cloud-based computer environm",
+      "published": "2026-08-12T07:58:54-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": false
+    },
+    {
       "id": "49269090",
       "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
       "url": "https://discoveredmaterials.com/research/",
@@ -1075,7 +1075,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 92,
+      "likes": 97,
       "is_new": false
     },
     {
@@ -1089,19 +1089,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 6,
-      "is_new": false
-    },
-    {
-      "id": "733bb6a24f230cde0c103c1a6406bb0a",
-      "title": "MBA: Multimodal Benchmark and Agents for Real-World Business Ideation",
-      "url": "https://huggingface.co/papers/2608.11616",
-      "description": "Agentic systems powered by large language models (LLMs) have opened new opportunities for business ideation. Yet existing approaches remain confined to a text-only paradigm, despite the inherently mul",
-      "published": "2026-08-11T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 5,
       "is_new": false
     },
     {
@@ -1145,6 +1132,19 @@
       "points": 1,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "47838cc3830b525b98d66255a7d7e050",
+      "title": "ReRound: Reconstructive Rounding to Resolve Midpoint Ambiguity in Calibration-Free LLM Quantization",
+      "url": "https://huggingface.co/papers/2608.11045",
+      "description": "ReRound (Reconstructive Rounding) is a post-training quantization method that addresses the midpoint ambiguity inherent in standard round-to-nearest (RTN) schemes when quantizing weights near the cent",
+      "published": "2026-08-10T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
     },
     {
       "id": "9b40f5762f42a3ec2aa503313224a1df",
@@ -1550,30 +1550,6 @@
         "is_new": false
       },
       {
-        "id": "a202a998008fb063156e585064a19e40",
-        "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
-        "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
-        "description": "Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where",
-        "published": "2026-08-13T17:53:09-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": true
-      },
-      {
-        "id": "ed2d0e440f58f260a6d730b2287e8ec5",
-        "title": "Microsoft is combining its Copilot apps ahead of a ‘super app’",
-        "url": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
-        "description": "Microsoft is finally beginning to combine its consumer and commercial Copilot AI assistants into a single \"super app\" interface, starting with the Copilot and Microsoft 365 Copilot apps. Both personal",
-        "published": "2026-08-13T17:18:35-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
         "id": "45947aa8ee00249092fb00801936f596",
         "title": "OpenAI is losing its second executive this week",
         "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
@@ -1626,6 +1602,18 @@
         "is_new": false
       },
       {
+        "id": "ed2d0e440f58f260a6d730b2287e8ec5",
+        "title": "Microsoft is combining its Copilot apps ahead of a ‘super app’",
+        "url": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
+        "description": "Microsoft is finally beginning to combine its consumer and commercial Copilot AI assistants into a single \"super app\" interface, starting with the Copilot and Microsoft 365 Copilot apps. Both personal",
+        "published": "2026-08-13T12:08:37-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
         "id": "70410d3b984c144343d68690002ec3ab",
         "title": "I looked inside an AI generated movie, and the best parts were all human",
         "url": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
@@ -1655,6 +1643,18 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
         "description": "After weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used as part of a recent promotional video. For nearly two weeks, the company has denie",
         "published": "2026-08-13T09:51:58-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "dd46bfe4c4e4d6d45a2fd1c7cc1b4a33",
+        "title": "Twitch streamers can now opt out from training Amazon’s AI",
+        "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+        "description": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your",
+        "published": "2026-08-13T07:43:40-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
