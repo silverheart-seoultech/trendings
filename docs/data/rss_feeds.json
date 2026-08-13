@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-13T10:19:29.573294+00:00",
+  "last_updated": "2026-08-13T11:56:32.404430+00:00",
   "total_entries": 110,
-  "new_entries": 3,
+  "new_entries": 5,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,6 +768,18 @@
       "is_new": false
     },
     {
+      "id": "dd46bfe4c4e4d6d45a2fd1c7cc1b4a33",
+      "title": "Twitch streamers can now opt out from training Amazon’s AI",
+      "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+      "description": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your",
+      "published": "2026-08-13T07:43:40-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": false
+    },
+    {
       "id": "f3ec5949a23f5e05eba85ae34275a9e5",
       "title": "Made by Google 2026: all the Pixel news and announcements",
       "url": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
@@ -862,18 +874,6 @@
       "is_new": false
     },
     {
-      "id": "dd46bfe4c4e4d6d45a2fd1c7cc1b4a33",
-      "title": "Twitch streamers can now opt out from training Amazon’s AI",
-      "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
-      "description": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your",
-      "published": "2026-08-12T13:29:10-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "0268aeed91a739ed09500fb82e2d4605",
       "title": "Guitar company D’Addario admits that AI music was used in a promotional video",
       "url": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
@@ -919,8 +919,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 137,
-      "comments": 29,
+      "points": 143,
+      "comments": 32,
       "is_new": false
     },
     {
@@ -945,7 +945,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 26,
+      "likes": 54,
       "is_new": true
     },
     {
@@ -1037,19 +1037,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "f474507739e1fcbcafab54f727691d93",
-      "title": "StateFlow: Building, Evolving, and Accessing 3D World States for Previsualization",
-      "url": "https://huggingface.co/papers/2608.12314",
-      "description": "Previsualization is an intermediate layer between ideas and production in film, games, architecture, and urban design. It lets creators iteratively refine scenes, actions, cameras, and spatial-tempora",
-      "published": "2026-08-11T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 22,
       "is_new": false
     },
     {
@@ -1170,17 +1157,17 @@
       "is_new": false
     },
     {
-      "id": "73d9536270e04445a9bc118c4efaa530",
-      "title": "Agent Safety Should Be a Runtime Contract",
-      "url": "https://huggingface.co/papers/2608.11274",
-      "description": "The dominant paradigm treats AI safety as a property to be instilled during model training via RLHF, DPO, or Constitutional AI. We argue this is structurally insufficient for autonomous agents that ex",
-      "published": "2026-08-10T20:00:00.000Z",
+      "id": "54c43fcf0a2e15c2377070a6ba7e2f9d",
+      "title": "Parameter Exploration for RLVR via Variational Learning",
+      "url": "https://huggingface.co/papers/2608.09805",
+      "description": "Exploration has been a focus of reinforcement learning research for a long time. Recently, there has been growing evidence that it is also an important ingredient in LLM reinforcement learning recipes",
+      "published": "2026-08-10T12:28:07.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
-      "is_new": false
+      "likes": 1,
+      "is_new": true
     },
     {
       "id": "49235865",
@@ -1290,6 +1277,19 @@
       "category": "news",
       "points": 1,
       "comments": 2,
+      "is_new": false
+    },
+    {
+      "id": "c54a917d1a6a9d9ea500684df3bab75e",
+      "title": "AtlasVLA: Persistent World-Ego State Modeling for Vision-Language-Action Models",
+      "url": "https://huggingface.co/papers/2608.06729",
+      "description": "While Vision-Language-Action (VLA) models have advanced embodied AI, their fundamentally reactive paradigm severely limits performance in partially observable and long-horizon tasks. When restricted t",
+      "published": "2026-08-06T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
       "is_new": false
     }
   ],
@@ -1536,6 +1536,18 @@
         "is_new": false
       },
       {
+        "id": "dd46bfe4c4e4d6d45a2fd1c7cc1b4a33",
+        "title": "Twitch streamers can now opt out from training Amazon’s AI",
+        "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+        "description": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your",
+        "published": "2026-08-13T07:43:40-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
         "id": "f3ec5949a23f5e05eba85ae34275a9e5",
         "title": "Made by Google 2026: all the Pixel news and announcements",
         "url": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
@@ -1627,18 +1639,6 @@
         "category": "news",
         "points": 4,
         "comments": 4,
-        "is_new": false
-      },
-      {
-        "id": "dd46bfe4c4e4d6d45a2fd1c7cc1b4a33",
-        "title": "Twitch streamers can now opt out from training Amazon’s AI",
-        "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
-        "description": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your",
-        "published": "2026-08-12T13:29:10-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
         "is_new": false
       },
       {
