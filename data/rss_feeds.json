@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-13T06:41:37.639093+00:00",
+  "last_updated": "2026-08-13T07:42:02.304478+00:00",
   "total_entries": 110,
-  "new_entries": 49,
+  "new_entries": 51,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -919,7 +919,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 132,
+      "points": 133,
       "comments": 28,
       "is_new": false
     },
@@ -971,7 +971,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 69,
+      "likes": 70,
       "is_new": true
     },
     {
@@ -1023,7 +1023,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 19,
+      "likes": 21,
       "is_new": false
     },
     {
@@ -1049,7 +1049,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 5,
       "is_new": false
     },
     {
@@ -1131,6 +1131,19 @@
       "is_new": false
     },
     {
+      "id": "25a3e4914c1e5ddf78e361a7a6011ba2",
+      "title": "Simplex Relaxation for Discrete Diffusion",
+      "url": "https://huggingface.co/papers/2608.10615",
+      "description": "Discrete diffusion models for categorical generation are defined by a corruption kernel, which determines the intermediate state space and the associated reverse prediction problem. We study uniform d",
+      "published": "2026-08-10T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "854308d3ad304146805f8742ae972a99",
       "title": "Self-Geometry: GT-Free and Plug-and-Play Test-Time Adaptation for Geometrically Consistent 3D Vision Foundation Models",
       "url": "https://huggingface.co/papers/2608.10708",
@@ -1153,20 +1166,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "eaf8956f834e602e0dcffd4527e4e082",
-      "title": "InSight-doc: Agentic Visual Perception for Long-Document Understanding",
-      "url": "https://huggingface.co/papers/2608.10628",
-      "description": "Long-document understanding often requires reasoning over many visually rich pages, making inference costly and prone to context rot. In this work, we propose InSight-doc, an agentic visual perception",
-      "published": "2026-08-10T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 10,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -1181,19 +1181,6 @@
       "category": "news",
       "points": 5,
       "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "814eb33094a348e67263f3c24d04a3e9",
-      "title": "Power law graph attention: exact generalization of scaled dot-product attention, empirical collapse at inference",
-      "url": "https://huggingface.co/papers/2608.10288",
-      "description": "The Large Language Model from Power Law Decoder Representations (PLDR-LLM) and its attention, Power Law Graph Attention (PLGA), replace the fixed bilinear form of scaled dot-product attention (SDPA) w",
-      "published": "2026-08-09T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 6,
       "is_new": false
     },
     {
@@ -1234,7 +1221,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 22,
+      "likes": 23,
       "is_new": true
     },
     {
@@ -1291,6 +1278,19 @@
       "points": 1,
       "comments": 2,
       "is_new": false
+    },
+    {
+      "id": "c54a917d1a6a9d9ea500684df3bab75e",
+      "title": "AtlasVLA: Persistent World-Ego State Modeling for Vision-Language-Action Models",
+      "url": "https://huggingface.co/papers/2608.06729",
+      "description": "While Vision-Language-Action (VLA) models have advanced embodied AI, their fundamentally reactive paradigm severely limits performance in partially observable and long-horizon tasks. When restricted t",
+      "published": "2026-08-06T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
     }
   ],
   "by_category": {
