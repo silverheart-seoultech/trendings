@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-14T16:02:37.335897+00:00",
+  "last_updated": "2026-08-14T17:07:33.319387+00:00",
   "total_entries": 110,
-  "new_entries": 8,
+  "new_entries": 13,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -120,18 +120,6 @@
       "is_new": false
     },
     {
-      "id": "d4e662e0ffa5f326b2b1a3705ed78cf3",
-      "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
-      "url": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
-      "description": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them i",
-      "published": "Wed, 12 Aug 2026 16:46:02 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "539d991b17b150c976ddb39134ec7dc7",
       "title": "Writer introduces new AI model and upgraded harness to contain token costs",
       "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
@@ -238,6 +226,18 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "0e0aa648101264aa2f9a823cf309735c",
+      "title": "Google will now allow users to remove visible watermark from its AI generations",
+      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+      "description": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+      "published": "Fri, 14 Aug 2026 16:13:40 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "d0a06ebad8a62813c06f0091c01ce040",
@@ -768,6 +768,20 @@
       "is_new": false
     },
     {
+      "id": "49301165",
+      "title": "Show HN: Agentic Ship – open-source Lovable alternative that runs on your agent",
+      "url": "https://github.com/moasq/agentic-ship",
+      "description": "",
+      "published": "2026-08-14T16:39:40Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "49299506",
       "title": "Show HN: Burla – Distributed computing framework for AI agents",
       "url": "https://burla.dev/",
@@ -779,6 +793,30 @@
       "category": "news",
       "points": 4,
       "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "fcca288b1b0615961cc0b1bacb20de07",
+      "title": "Mark Zuckerberg has an Instagzam",
+      "url": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
+      "description": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram wordmark. It doesn't",
+      "published": "2026-08-14T12:54:16-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "b8d906c341782b43a44ddfdf2b941564",
+      "title": "You can now turn off Google Gemini&#8217;s visible watermarks",
+      "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+      "description": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's",
+      "published": "2026-08-14T12:49:56-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
       "is_new": true
     },
     {
@@ -922,18 +960,6 @@
       "is_new": false
     },
     {
-      "id": "0268aeed91a739ed09500fb82e2d4605",
-      "title": "Guitar company D’Addario admits that AI music was used in a promotional video",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
-      "description": "After weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used as part of a recent promotional video. For nearly two weeks, the company has denie",
-      "published": "2026-08-13T09:51:58-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "dd46bfe4c4e4d6d45a2fd1c7cc1b4a33",
       "title": "Twitch streamers can now opt out from training Amazon’s AI",
       "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
@@ -958,6 +984,19 @@
       "points": 3,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "bd8dc8b06713efd577eb51ddf708fc73",
+      "title": "Context-Matched Distillation: Teacher Causality for Autoregressive Video Distillation",
+      "url": "https://huggingface.co/papers/2608.13391",
+      "description": "Interactive autoregressive video generation demands both low-latency rollouts and precise online control. Few-step distillation accelerates generation by reducing denoising steps, while online control",
+      "published": "2026-08-12T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
     },
     {
       "id": "fc7e4d6e789136a51080b0a60990001c",
@@ -1061,18 +1100,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 26,
-      "is_new": false
-    },
-    {
-      "id": "8da3243e4c6051391e3362ac96096d42",
-      "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
-      "url": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
-      "description": "The $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition. Under the hood, there's a slightly fast",
-      "published": "2026-08-12T19:08:30-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
       "is_new": false
     },
     {
@@ -1198,19 +1225,6 @@
       "is_new": false
     },
     {
-      "id": "7813e179dfcfa70349734492320a89b6",
-      "title": "Massive Activations in Hybrid Linear Attention Large Language Models: Pre-Attention Spikes and Inter-Spike Plateaus",
-      "url": "https://huggingface.co/papers/2608.12149",
-      "description": "We present the first systematic study of Massive activations (MAs) in layer-interleaved HLA LLMs and uncover two architecture-aligned morphologies: MAs consistently spike immediately before full atten",
-      "published": "2026-08-11T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 15,
-      "is_new": false
-    },
-    {
       "id": "49260102",
       "title": "Show HN: Pickle – token efficient AI agent browser with policy-gated actions",
       "url": "https://picklebrowser.com/",
@@ -1278,19 +1292,6 @@
       "points": 5,
       "comments": 0,
       "is_new": false
-    },
-    {
-      "id": "0fdcc54bb7d4456482d591dc93a42152",
-      "title": "From Inaudible Inputs to Model Failures: Low-Frequency Safety Risks in LALMs",
-      "url": "https://huggingface.co/papers/2608.09158",
-      "description": "Large audio-language models (LALMs) have demonstrated strong capabilities in understanding diverse audio inputs. This diversity includes low-frequency signals that are inaudible to humans but can stil",
-      "published": "2026-08-09T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
-      "is_new": true
     }
   ],
   "by_category": {
@@ -1361,18 +1362,6 @@
         "url": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
         "description": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app.",
         "published": "Wed, 12 Aug 2026 16:57:58 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "d4e662e0ffa5f326b2b1a3705ed78cf3",
-        "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
-        "url": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
-        "description": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them i",
-        "published": "Wed, 12 Aug 2026 16:46:02 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
@@ -1488,6 +1477,18 @@
         "is_new": false
       },
       {
+        "id": "0e0aa648101264aa2f9a823cf309735c",
+        "title": "Google will now allow users to remove visible watermark from its AI generations",
+        "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+        "description": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+        "published": "Fri, 14 Aug 2026 16:13:40 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "d0a06ebad8a62813c06f0091c01ce040",
         "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
         "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
@@ -1536,6 +1537,20 @@
         "is_new": true
       },
       {
+        "id": "49301165",
+        "title": "Show HN: Agentic Ship – open-source Lovable alternative that runs on your agent",
+        "url": "https://github.com/moasq/agentic-ship",
+        "description": "",
+        "published": "2026-08-14T16:39:40Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 1,
+        "comments": 0,
+        "is_new": true
+      },
+      {
         "id": "49299506",
         "title": "Show HN: Burla – Distributed computing framework for AI agents",
         "url": "https://burla.dev/",
@@ -1547,6 +1562,30 @@
         "category": "news",
         "points": 4,
         "comments": 0,
+        "is_new": true
+      },
+      {
+        "id": "fcca288b1b0615961cc0b1bacb20de07",
+        "title": "Mark Zuckerberg has an Instagzam",
+        "url": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
+        "description": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram wordmark. It doesn't",
+        "published": "2026-08-14T12:54:16-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "b8d906c341782b43a44ddfdf2b941564",
+        "title": "You can now turn off Google Gemini&#8217;s visible watermarks",
+        "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+        "description": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's",
+        "published": "2026-08-14T12:49:56-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
         "is_new": true
       },
       {
@@ -1623,46 +1662,6 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "45947aa8ee00249092fb00801936f596",
-        "title": "OpenAI is losing its second executive this week",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
-        "description": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other",
-        "published": "2026-08-13T15:28:39-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "49287430",
-        "title": "Design with a Soul: How to make your Vibe-coded site not look like AI Slop",
-        "url": "https://news.ycombinator.com/item?id=49287430",
-        "description": "",
-        "published": "2026-08-13T15:25:00Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 2,
-        "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "49286364",
-        "title": "Show HN: An agent engine with no SDK, just TOML and webhooks",
-        "url": "https://substructure.ai/",
-        "description": "",
-        "published": "2026-08-13T14:19:00Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 2,
-        "comments": 0,
         "is_new": false
       }
     ],
