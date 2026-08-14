@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-14T13:36:51.952613+00:00",
+  "last_updated": "2026-08-14T15:04:48.468946+00:00",
   "total_entries": 110,
-  "new_entries": 0,
+  "new_entries": 3,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -156,30 +156,6 @@
       "is_new": false
     },
     {
-      "id": "d1915a50c5cc392a49e4d2bd88130c9c",
-      "title": "Why Sandbar thinks it’s voice-enabled ring can avoid the AI hardware graveyard",
-      "url": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
-      "description": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them i",
-      "published": "Wed, 12 Aug 2026 14:22:00 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "6a49c4b6a0a3e412228f48912489913b",
-      "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
-      "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
-      "description": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event.",
-      "published": "Wed, 12 Aug 2026 14:20:33 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "539d991b17b150c976ddb39134ec7dc7",
       "title": "Writer introduces new AI model and upgraded harness to contain token costs",
       "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
@@ -286,6 +262,30 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "042796346f67c2669c5cbfa732f34119",
+      "title": "Kog is going deeper to squeeze more inference out of GPUs",
+      "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+      "description": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
+      "published": "Fri, 14 Aug 2026 14:50:11 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "0fccedf8ea195bfb949e8a73d9fa413e",
+      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+      "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+      "description": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
+      "published": "Fri, 14 Aug 2026 14:05:00 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "c8e20057c58ac8ca0b0a234e35f5631b",
@@ -1020,7 +1020,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 6,
       "is_new": false
     },
     {
@@ -1033,7 +1033,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 77,
+      "likes": 78,
       "is_new": false
     },
     {
@@ -1073,19 +1073,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "15703fbd7031dbb099ea67d3fe57bb3f",
-      "title": "PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives",
-      "url": "https://huggingface.co/papers/2608.13552",
-      "description": "Video world models simulate future states conditioned on current observations and user actions. Recent systems have demonstrated impressive video consistency and action controllability over long seque",
-      "published": "2026-08-12T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 30,
       "is_new": false
     },
     {
@@ -1169,6 +1156,19 @@
       "points": 158,
       "comments": 35,
       "is_new": false
+    },
+    {
+      "id": "846cd09eac294d8a6cac0323fb37dd67",
+      "title": "Hybrid-Policy Self-Editing for Composable Unstructured Knowledge Editing",
+      "url": "https://huggingface.co/papers/2608.11660",
+      "description": "Large language models (LLMs) achieve remarkable performance across natural language tasks, yet they are trained on static corpora and their knowledge quickly becomes outdated in a fast-changing world.",
+      "published": "2026-08-11T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
     },
     {
       "id": "33547a32a2dd1a0cd78db6a4295080b0",
@@ -1403,30 +1403,6 @@
         "is_new": false
       },
       {
-        "id": "d1915a50c5cc392a49e4d2bd88130c9c",
-        "title": "Why Sandbar thinks it’s voice-enabled ring can avoid the AI hardware graveyard",
-        "url": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
-        "description": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them i",
-        "published": "Wed, 12 Aug 2026 14:22:00 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "6a49c4b6a0a3e412228f48912489913b",
-        "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
-        "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
-        "description": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event.",
-        "published": "Wed, 12 Aug 2026 14:20:33 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
         "id": "539d991b17b150c976ddb39134ec7dc7",
         "title": "Writer introduces new AI model and upgraded harness to contain token costs",
         "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
@@ -1533,6 +1509,30 @@
         "source_icon": "📰",
         "category": "news",
         "is_new": false
+      },
+      {
+        "id": "042796346f67c2669c5cbfa732f34119",
+        "title": "Kog is going deeper to squeeze more inference out of GPUs",
+        "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+        "description": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
+        "published": "Fri, 14 Aug 2026 14:50:11 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "0fccedf8ea195bfb949e8a73d9fa413e",
+        "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+        "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+        "description": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
+        "published": "Fri, 14 Aug 2026 14:05:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
       },
       {
         "id": "10399f170c3bdbb0bbce417b03233ec2",
