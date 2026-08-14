@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-14T04:58:21.031006+00:00",
+  "last_updated": "2026-08-14T06:39:29.540552+00:00",
   "total_entries": 110,
-  "new_entries": 29,
+  "new_entries": 33,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -934,6 +934,32 @@
       "is_new": false
     },
     {
+      "id": "3a861ec3b9fa5ed216b8a67561dbca42",
+      "title": "UniSwap: Streaming Audio-Visual Identity Swapping for Talking Videos",
+      "url": "https://huggingface.co/papers/2608.11752",
+      "description": "Talking-video character replacement requires coordinated transfer of appearance and voice while preserving the source motion, scene, linguistic content, and audio-video timing. Existing methods use se",
+      "published": "2026-08-12T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 8,
+      "is_new": true
+    },
+    {
+      "id": "fb939d219c3e430c1f7984774a96f164",
+      "title": "LiveAnimate: Stable Long-Form Streaming Human Animation in Real-Time",
+      "url": "https://huggingface.co/papers/2608.11745",
+      "description": "Pose-driven human animation synthesizes a video of a target person from a single reference image and a driving pose stream. Real-time generation is essential for interactive applications such as live ",
+      "published": "2026-08-12T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 7,
+      "is_new": true
+    },
+    {
       "id": "33058aaa0aa6c7115fd7d64814a1e2ba",
       "title": "CW-BASS v2: Saturation-Aware Pseudo-Label Selection for Semi-Supervised Segmentation under Foundation-Model Teachers",
       "url": "https://huggingface.co/papers/2608.12773",
@@ -956,7 +982,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 5,
       "is_new": true
     },
     {
@@ -969,7 +995,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 55,
+      "likes": 60,
       "is_new": true
     },
     {
@@ -982,7 +1008,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 20,
+      "likes": 24,
       "is_new": true
     },
     {
@@ -995,7 +1021,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 19,
+      "likes": 25,
       "is_new": true
     },
     {
@@ -1021,7 +1047,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 16,
+      "likes": 21,
       "is_new": false
     },
     {
@@ -1034,7 +1060,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 22,
       "is_new": false
     },
     {
@@ -1060,7 +1086,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 31,
+      "likes": 34,
       "is_new": false
     },
     {
@@ -1166,7 +1192,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 155,
+      "points": 156,
       "comments": 35,
       "is_new": false
     },
@@ -1180,7 +1206,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 10,
+      "likes": 11,
       "is_new": true
     },
     {
@@ -1226,30 +1252,17 @@
       "is_new": false
     },
     {
-      "id": "47838cc3830b525b98d66255a7d7e050",
-      "title": "ReRound: Reconstructive Rounding to Resolve Midpoint Ambiguity in Calibration-Free LLM Quantization",
-      "url": "https://huggingface.co/papers/2608.11045",
-      "description": "ReRound (Reconstructive Rounding) is a post-training quantization method that addresses the midpoint ambiguity inherent in standard round-to-nearest (RTN) schemes when quantizing weights near the cent",
+      "id": "28b08a9fa26a6ea04fb57b0e4d4538f4",
+      "title": "SKILLER: Language-Level Reinforcement Learning for Reusable Skill Extraction in Small Language Models",
+      "url": "https://huggingface.co/papers/2608.10538",
+      "description": "Agent skills represent a standardized format for packaging procedural knowledge and domain expertise, serving within agent harness systems as an essential mechanism to continually constrain a language",
       "published": "2026-08-10T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "9b40f5762f42a3ec2aa503313224a1df",
-      "title": "Gaze Target Estimation Anywhere with Concepts",
-      "url": "https://huggingface.co/papers/2608.11367",
-      "description": "Estimating human gaze targets from images in-the-wild is an important and formidable task. Existing approaches primarily employ brittle, multi-stage pipelines that require explicit inputs, like head b",
-      "published": "2026-08-10T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 5,
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "49235865",
@@ -1276,19 +1289,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 5,
-      "is_new": false
-    },
-    {
-      "id": "d8d327957082367f97d699b5beef7a5d",
-      "title": "Learning How the World Evolves: Extrapolative Video World Models via Latent Dynamics Reasoning",
-      "url": "https://huggingface.co/papers/2608.09926",
-      "description": "The world evolves following its dynamics, i.e., its laws of motion. However, leading video diffusion models largely fit the pixels without modeling how the pixels transit over time. Thus, they render ",
-      "published": "2026-08-09T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 7,
       "is_new": false
     }
   ],
