@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-14T02:23:55.466251+00:00",
+  "last_updated": "2026-08-14T02:41:50.346819+00:00",
   "total_entries": 110,
-  "new_entries": 16,
+  "new_entries": 1,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -189,7 +189,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "7261e6583d8e84ce7ddde3811fc833db",
@@ -201,7 +201,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "459413c052960c038377ef0c38b4807a",
@@ -213,7 +213,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "b377fa89f3ad152d5e1d6e4218e33c19",
@@ -225,7 +225,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "4f7a500cee9438e1a7f8fa27bafdbab9",
@@ -779,7 +779,7 @@
       "category": "news",
       "points": 1,
       "comments": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "49289952",
@@ -805,7 +805,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "ed2d0e440f58f260a6d730b2287e8ec5",
@@ -829,7 +829,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "49287430",
@@ -934,6 +934,19 @@
       "is_new": false
     },
     {
+      "id": "db6f096a4608968fbdb6176cb1a7d105",
+      "title": "LycheeMemory V2: Efficient Long-Term Memory for LLM Agents via Semantic Segment-Level Consolidation",
+      "url": "https://huggingface.co/papers/2608.12990",
+      "description": "Long-horizon LLM agents must preserve information from past interactions to support future tasks. Existing memory systems typically rely on eager consolidation, invoking LLMs after each interaction to",
+      "published": "2026-08-12T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "15703fbd7031dbb099ea67d3fe57bb3f",
       "title": "PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives",
       "url": "https://huggingface.co/papers/2608.13552",
@@ -944,7 +957,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "36ef95f4b4e0a4089fdf18e504f0a4f2",
@@ -956,8 +969,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
-      "is_new": true
+      "likes": 3,
+      "is_new": false
     },
     {
       "id": "c4d10592821538010f0c1f640e781818",
@@ -970,7 +983,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "f60253d733090e3d06171e70bb65e1cd",
@@ -982,8 +995,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
-      "is_new": true
+      "likes": 3,
+      "is_new": false
     },
     {
       "id": "3bf2e2c29400c0aa798dc7b879bbcc26",
@@ -996,7 +1009,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "8da3243e4c6051391e3362ac96096d42",
@@ -1197,7 +1210,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "9b40f5762f42a3ec2aa503313224a1df",
@@ -1210,7 +1223,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "d6dda13ae9f9cc436d6b344fdfc09393",
@@ -1275,20 +1288,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
-      "is_new": true
-    },
-    {
-      "id": "d8d327957082367f97d699b5beef7a5d",
-      "title": "Learning How the World Evolves: Extrapolative Video World Models via Latent Dynamics Reasoning",
-      "url": "https://huggingface.co/papers/2608.09926",
-      "description": "The world evolves following its dynamics, i.e., its laws of motion. However, leading video diffusion models largely fit the pixels without modeling how the pixels transit over time. Thus, they render ",
-      "published": "2026-08-09T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 7,
+      "likes": 5,
       "is_new": false
     }
   ],
@@ -1436,7 +1436,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "7261e6583d8e84ce7ddde3811fc833db",
@@ -1448,7 +1448,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "459413c052960c038377ef0c38b4807a",
@@ -1460,7 +1460,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "b377fa89f3ad152d5e1d6e4218e33c19",
@@ -1472,7 +1472,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "4f7a500cee9438e1a7f8fa27bafdbab9",
@@ -1546,7 +1546,7 @@
         "category": "news",
         "points": 1,
         "comments": 0,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "49289952",
@@ -1572,7 +1572,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "ed2d0e440f58f260a6d730b2287e8ec5",
@@ -1596,7 +1596,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "49287430",
