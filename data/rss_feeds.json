@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-14T22:36:58.689761+00:00",
+  "last_updated": "2026-08-14T23:33:23.864782+00:00",
   "total_entries": 110,
-  "new_entries": 1,
+  "new_entries": 3,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -1009,7 +1009,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -1088,32 +1088,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 6,
-      "is_new": false
-    },
-    {
-      "id": "a86b0565341817b1ad7e3d37afa8b679",
-      "title": "DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation",
-      "url": "https://huggingface.co/papers/2608.13489",
-      "description": "We present DreamX-Phi 1.0, an action-conditioned video world model for robotic manipulation that, given an observed frame, a language instruction, and a prescribed action sequence comprising end-effec",
-      "published": "2026-08-12T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 79,
-      "is_new": false
-    },
-    {
-      "id": "44b2b3fc95c2d542284d25b879ec9df4",
-      "title": "Spatial Memory Agent: Experience-Grounded Procedure Memory for Spatial Intelligence",
-      "url": "https://huggingface.co/papers/2608.12743",
-      "description": "Spatial intelligence is becoming a foundation for embodied agents, robotic planning, and multimodal assistants. To improve the spatial reasoning ability of VLM agents, existing work has mainly followe",
-      "published": "2026-08-12T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 27,
       "is_new": false
     },
     {
@@ -1281,6 +1255,19 @@
       "is_new": false
     },
     {
+      "id": "82041bf00b8676249cd037fa6252fd55",
+      "title": "Thought-Level Beam Search for Reasoning",
+      "url": "https://huggingface.co/papers/2608.08020",
+      "description": "Test-time compute scaling is a primary driver of performance in large reasoning models (LRMs), but extreme inefficiency bounds current approaches, shifting the critical question from how much compute ",
+      "published": "2026-08-10T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
       "id": "28b08a9fa26a6ea04fb57b0e4d4538f4",
       "title": "SKILLER: Language-Level Reinforcement Learning for Reusable Skill Extraction in Small Language Models",
       "url": "https://huggingface.co/papers/2608.10538",
@@ -1291,6 +1278,20 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 3,
+      "is_new": false
+    },
+    {
+      "id": "49235865",
+      "title": "Show HN: Pacific Slate: a self-hosted, model-agnostic multi-agent AI assistant",
+      "url": "https://pacslate.com/",
+      "description": "",
+      "published": "2026-08-09T21:04:02Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 5,
+      "comments": 0,
       "is_new": false
     }
   ],
