@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-15T18:45:15.861951+00:00",
+  "last_updated": "2026-08-15T19:31:03.123417+00:00",
   "total_entries": 90,
-  "new_entries": 0,
+  "new_entries": 1,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -89,18 +89,6 @@
       "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
       "description": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia.",
       "published": "Wed, 12 Aug 2026 17:51:00 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "2fd40c918be855216ae767e5bb820dfe",
-      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-      "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-      "description": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
-      "published": "Wed, 12 Aug 2026 17:41:29 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
@@ -214,6 +202,18 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "73cbb223a27a0a6dd5fe734f2eb53d41",
+      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "description": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+      "published": "Sat, 15 Aug 2026 18:58:39 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "e68ddcb8301126efa48080105110ba3c",
@@ -537,7 +537,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 1,
+      "points": 2,
       "comments": 0,
       "is_new": false
     },
@@ -1239,18 +1239,6 @@
         "is_new": false
       },
       {
-        "id": "2fd40c918be855216ae767e5bb820dfe",
-        "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-        "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-        "description": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
-        "published": "Wed, 12 Aug 2026 17:41:29 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
         "id": "539d991b17b150c976ddb39134ec7dc7",
         "title": "Writer introduces new AI model and upgraded harness to contain token costs",
         "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
@@ -1359,6 +1347,18 @@
         "is_new": false
       },
       {
+        "id": "73cbb223a27a0a6dd5fe734f2eb53d41",
+        "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+        "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+        "description": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+        "published": "Sat, 15 Aug 2026 18:58:39 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "e68ddcb8301126efa48080105110ba3c",
         "title": "SpaceX officially closes its Cursor acquisition",
         "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
@@ -1440,7 +1440,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 1,
+        "points": 2,
         "comments": 0,
         "is_new": false
       },
