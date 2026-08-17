@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-17T07:13:12.292856+00:00",
+  "last_updated": "2026-08-17T07:59:09.684218+00:00",
   "total_entries": 110,
-  "new_entries": 0,
+  "new_entries": 3,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -934,6 +934,32 @@
       "is_new": false
     },
     {
+      "id": "c639cfff56d746b9a99158cb1e3e52c6",
+      "title": "Self-Supervised Visual On-Policy Distillation",
+      "url": "https://huggingface.co/papers/2608.14144",
+      "description": "Visual on-policy distillation relies heavily on an informative teacher-student asymmetry, through either a larger, stronger teacher or privileged supervision, such as reference answers or ground-truth",
+      "published": "2026-08-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 8,
+      "is_new": true
+    },
+    {
+      "id": "e2cabfb233ee6e6a5237bd793ed14b76",
+      "title": "SimpleOPD: Simple Tokenizer-Agnostic On-Policy Distillation for Long-Context Reasoning",
+      "url": "https://huggingface.co/papers/2608.14277",
+      "description": "On-policy distillation (OPD) offers a promising way to transfer reasoning capabilities from stronger teacher models, but applying it to long-context reasoning teachers and short-context students intro",
+      "published": "2026-08-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
       "id": "c8a33dd06326fdcaf2c7336c791a5675",
       "title": "Forecast Collapse in Time-Series Foundation Models",
       "url": "https://huggingface.co/papers/2608.14106",
@@ -943,7 +969,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
+      "likes": 7,
       "is_new": false
     },
     {
@@ -995,7 +1021,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 43,
+      "likes": 52,
       "is_new": false
     },
     {
@@ -1009,32 +1035,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 0,
-      "is_new": false
-    },
-    {
-      "id": "c242d0bcb01c9ffc25d8e6c115cda834",
-      "title": "Intern-S2-Mobius: Foundation Model with Decoupled Knowledge and Reasoning",
-      "url": "https://huggingface.co/papers/2608.14290",
-      "description": "We introduce Mobius-v0, an architecture that comprises a globally shared Memory (FFN) that stores knowledge vectors and multiple Reasoners (Self-Attn) that iteratively achieve compositional reasoning.",
-      "published": "2026-08-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 24,
-      "is_new": false
-    },
-    {
-      "id": "c71b79bfcb184496aceb35d8b4fb5e53",
-      "title": "Marionette: Predicting World States, Rendering Geometry, Painting Appearance",
-      "url": "https://huggingface.co/papers/2608.14530",
-      "description": "Interactive game world models typically autoregress visual observations directly in pixel or latent space, forcing structured properties such as pose, geometry, and occlusion to be implicitly maintain",
-      "published": "2026-08-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 6,
       "is_new": false
     },
     {
@@ -1099,7 +1099,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 6,
       "is_new": false
     },
     {
@@ -1126,7 +1126,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -1152,7 +1152,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 12,
+      "likes": 13,
       "is_new": false
     },
     {
@@ -1165,7 +1165,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 25,
+      "likes": 26,
       "is_new": false
     },
     {
@@ -1251,19 +1251,6 @@
       "is_new": false
     },
     {
-      "id": "74c2c812a7d443b27872f43ce930a93f",
-      "title": "Dion3: Full-Stack Orthogonal Updates",
-      "url": "https://huggingface.co/papers/2608.11612",
-      "description": "The Muon optimizer incurs a significant overhead cost due to its cubic-time Newton-Schulz orthogonalization step. When weights are sharded, communication overhead compounds this computational cost, er",
-      "published": "2026-08-11T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
       "id": "49260102",
       "title": "Show HN: Pickle – token efficient AI agent browser with policy-gated actions",
       "url": "https://picklebrowser.com/",
@@ -1283,6 +1270,20 @@
       "url": "https://github.com/albertwujj/agent-term",
       "description": "",
       "published": "2026-08-11T14:40:11Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 0,
+      "is_new": false
+    },
+    {
+      "id": "49259021",
+      "title": "Show HN: SquadCue – local-first mission control for AI CLI agents",
+      "url": "https://github.com/hsienchuc/squadcue",
+      "description": "",
+      "published": "2026-08-11T14:31:01Z",
       "source_id": "hn-ai",
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
