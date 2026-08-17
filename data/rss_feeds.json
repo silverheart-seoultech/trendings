@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-17T04:54:52.510125+00:00",
+  "last_updated": "2026-08-17T05:47:12.127310+00:00",
   "total_entries": 110,
-  "new_entries": 56,
+  "new_entries": 58,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -934,6 +934,19 @@
       "is_new": false
     },
     {
+      "id": "c8a33dd06326fdcaf2c7336c791a5675",
+      "title": "Forecast Collapse in Time-Series Foundation Models",
+      "url": "https://huggingface.co/papers/2608.14106",
+      "description": "When forecasting hourly returns for 1,000 US equities, we observe an unexpected phenomenon: predictions become nearly flat and show poor stock ranking, as measured by cross-sectional correlation. We c",
+      "published": "2026-08-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
+    },
+    {
       "id": "3555834b7af5a96a79bf22b1dcc13b08",
       "title": "PRM-as-a-Judge 1.5: A Toolkit for Robot Process Assessment",
       "url": "https://huggingface.co/papers/2608.14284",
@@ -969,7 +982,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": true
     },
     {
@@ -982,7 +995,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 24,
+      "likes": 26,
       "is_new": true
     },
     {
@@ -1077,6 +1090,19 @@
       "is_new": false
     },
     {
+      "id": "84fb4f91d71924e83c617962c9cea9f8",
+      "title": "Second Thought: Reasoning in Parallel as LLM Agents Act and Observe",
+      "url": "https://huggingface.co/papers/2608.13667",
+      "description": "LLM agents in the ReAct paradigm alternate between reasoning, acting, and observing, but deliberate reasoning is confined to the Thought phase: while the agent serializes an action and waits for the e",
+      "published": "2026-08-13T14:04:53.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
+    },
+    {
       "id": "49277842",
       "title": "Show HN: Tried some experiments with architecture for Long term memory for LLM",
       "url": "https://github.com/faisalhussain-devs/MindCache/tree/collapsed_tree",
@@ -1100,7 +1126,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 6,
       "is_new": true
     },
     {
@@ -1128,19 +1154,6 @@
       "category": "research",
       "likes": 22,
       "is_new": true
-    },
-    {
-      "id": "bd8dc8b06713efd577eb51ddf708fc73",
-      "title": "Context-Matched Distillation: Teacher Causality for Autoregressive Video Distillation",
-      "url": "https://huggingface.co/papers/2608.13391",
-      "description": "Interactive autoregressive video generation demands both low-latency rollouts and precise online control. Few-step distillation accelerates generation by reducing denoising steps, while online control",
-      "published": "2026-08-12T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 13,
-      "is_new": false
     },
     {
       "id": "49275479",
@@ -1275,21 +1288,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 11,
+      "likes": 13,
       "is_new": true
-    },
-    {
-      "id": "82041bf00b8676249cd037fa6252fd55",
-      "title": "Thought-Level Beam Search for Reasoning",
-      "url": "https://huggingface.co/papers/2608.08020",
-      "description": "Test-time compute scaling is a primary driver of performance in large reasoning models (LRMs), but extreme inefficiency bounds current approaches, shifting the critical question from how much compute ",
-      "published": "2026-08-10T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 14,
-      "is_new": false
     }
   ],
   "by_category": {
