@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-17T15:36:15.663832+00:00",
+  "last_updated": "2026-08-17T16:42:28.081145+00:00",
   "total_entries": 110,
-  "new_entries": 6,
+  "new_entries": 9,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -108,30 +108,6 @@
       "is_new": false
     },
     {
-      "id": "9a1de941a4f8ef98b8f7e35783f5e269",
-      "title": "OpenAI hires new CRO as executive shake-up continues",
-      "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-      "description": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job.",
-      "published": "Thu, 13 Aug 2026 17:07:13 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "ae02d5bda82cc078f6d3abf7324bdbf1",
-      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
-      "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-      "description": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
-      "published": "Thu, 13 Aug 2026 15:30:52 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "7430ad56634d75f96ac27c8711820bbd",
       "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
       "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
@@ -202,6 +178,30 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "897dfbe77af7f13cc88b2ba6f3722dd4",
+      "title": "Amazon, once an online bookseller, is destroying rare books to train AI models",
+      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "description": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
+      "published": "Mon, 17 Aug 2026 16:38:44 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "47e2b984551931a28d2112ab596c37b3",
+      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+      "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+      "description": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
+      "published": "Mon, 17 Aug 2026 16:15:12 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "40a9816ea4807c41537ebafde4a9f711",
@@ -768,6 +768,20 @@
       "is_new": false
     },
     {
+      "id": "49332751",
+      "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+      "url": "https://speko.ai/",
+      "description": "",
+      "published": "2026-08-17T15:36:18Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 27,
+      "comments": 9,
+      "is_new": true
+    },
+    {
       "id": "dd02c006bef423b4918c811193e75353",
       "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
       "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
@@ -956,7 +970,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 125,
+      "likes": 139,
       "is_new": false
     },
     {
@@ -1278,19 +1292,6 @@
       "category": "research",
       "likes": 3,
       "is_new": false
-    },
-    {
-      "id": "16e24c66ff6976706201430aa5f0db17",
-      "title": "Apodex Discovery: Reality Benchmarks and Environments for Evaluating and Building Discoverative Artificial Intelligence",
-      "url": "https://huggingface.co/papers/2608.11341",
-      "description": "Apollo did not reach the Moon merely because its engineers could solve difficult equations. It succeeded by turning a distant ambition into a mission architecture of explicit objectives, simulation, v",
-      "published": "2026-08-10T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 13,
-      "is_new": true
     }
   ],
   "by_category": {
@@ -1349,30 +1350,6 @@
         "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
         "description": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
         "published": "Thu, 13 Aug 2026 18:28:14 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "9a1de941a4f8ef98b8f7e35783f5e269",
-        "title": "OpenAI hires new CRO as executive shake-up continues",
-        "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-        "description": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job.",
-        "published": "Thu, 13 Aug 2026 17:07:13 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "ae02d5bda82cc078f6d3abf7324bdbf1",
-        "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
-        "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-        "description": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
-        "published": "Thu, 13 Aug 2026 15:30:52 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
@@ -1450,6 +1427,30 @@
         "source_icon": "📰",
         "category": "news",
         "is_new": false
+      },
+      {
+        "id": "897dfbe77af7f13cc88b2ba6f3722dd4",
+        "title": "Amazon, once an online bookseller, is destroying rare books to train AI models",
+        "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+        "description": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
+        "published": "Mon, 17 Aug 2026 16:38:44 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "47e2b984551931a28d2112ab596c37b3",
+        "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+        "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+        "description": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
+        "published": "Mon, 17 Aug 2026 16:15:12 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
       },
       {
         "id": "40a9816ea4807c41537ebafde4a9f711",
@@ -1534,6 +1535,20 @@
         "source_icon": "📰",
         "category": "news",
         "is_new": false
+      },
+      {
+        "id": "49332751",
+        "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+        "url": "https://speko.ai/",
+        "description": "",
+        "published": "2026-08-17T15:36:18Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 27,
+        "comments": 9,
+        "is_new": true
       },
       {
         "id": "dd02c006bef423b4918c811193e75353",
@@ -1651,18 +1666,6 @@
         "category": "news",
         "points": 2,
         "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "fcca288b1b0615961cc0b1bacb20de07",
-        "title": "Mark Zuckerberg has an Instagzam",
-        "url": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
-        "description": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram wordmark. It doesn't",
-        "published": "2026-08-14T12:54:16-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
         "is_new": false
       }
     ],
