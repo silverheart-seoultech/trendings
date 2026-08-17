@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-17T13:03:09.940055+00:00",
+  "last_updated": "2026-08-17T13:50:31.771988+00:00",
   "total_entries": 110,
-  "new_entries": 0,
+  "new_entries": 2,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -144,18 +144,6 @@
       "is_new": false
     },
     {
-      "id": "f31b1a5b40ca366de1edb83b6f6d43e9",
-      "title": "Apple in talks to pay publishers to provide Siri with current news: report",
-      "url": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
-      "description": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ.",
-      "published": "Thu, 13 Aug 2026 14:34:43 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "7430ad56634d75f96ac27c8711820bbd",
       "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
       "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
@@ -226,6 +214,18 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "73672096953e8bf83a08e921e34654ea",
+      "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+      "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+      "description": "Wispr’s total funding is now over $361 million.",
+      "published": "Mon, 17 Aug 2026 13:10:05 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "aa69ef98e036c33cc71b4804a916f32b",
@@ -956,7 +956,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 91,
+      "likes": 109,
       "is_new": false
     },
     {
@@ -1021,20 +1021,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
-      "is_new": false
-    },
-    {
-      "id": "0ca26b9db428aeca9a64a056747e9e12",
-      "title": "Can We Defend Against AI-Generated Video Attacks on Real-World Crisis Events? A Systematic Evaluation of Detectors, Generators and Social Dissemination",
-      "url": "https://huggingface.co/papers/2608.14391",
-      "description": "Recent video generators can fabricate realistic depictions of wars, disasters, public emergencies, and other real-world crises, creating substantial risks of misinformation. Existing benchmarks, howev",
-      "published": "2026-08-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 84,
+      "likes": 5,
       "is_new": false
     },
     {
@@ -1117,6 +1104,19 @@
       "is_new": false
     },
     {
+      "id": "7d42fdd1f2d6261cb4be4b773cec6ba4",
+      "title": "Who Speaks Matters: Authority-Aware Multi-View RAG over Italian Parliamentary Proceedings",
+      "url": "https://huggingface.co/papers/2608.13410",
+      "description": "Parliamentary proceedings are a primary record of democratic deliberation, yet their volume and fragmentation make multi-perspective access difficult for citizens, journalists, and researchers. Applyi",
+      "published": "2026-08-12T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "ef59604b13d717bd874ca6d5f5e83b61",
       "title": "DFM Mimir v1: An Open HRM Delivering Frontier Performance at 1B Parameters Using Only Permissible Post-Training Data",
       "url": "https://huggingface.co/papers/2608.13517",
@@ -1126,7 +1126,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 12,
+      "likes": 16,
       "is_new": false
     },
     {
@@ -1152,7 +1152,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
+      "likes": 9,
       "is_new": false
     },
     {
@@ -1392,18 +1392,6 @@
         "is_new": false
       },
       {
-        "id": "f31b1a5b40ca366de1edb83b6f6d43e9",
-        "title": "Apple in talks to pay publishers to provide Siri with current news: report",
-        "url": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
-        "description": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ.",
-        "published": "Thu, 13 Aug 2026 14:34:43 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
         "id": "7430ad56634d75f96ac27c8711820bbd",
         "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
         "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
@@ -1474,6 +1462,18 @@
         "source_icon": "📰",
         "category": "news",
         "is_new": false
+      },
+      {
+        "id": "73672096953e8bf83a08e921e34654ea",
+        "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+        "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+        "description": "Wispr’s total funding is now over $361 million.",
+        "published": "Mon, 17 Aug 2026 13:10:05 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
       },
       {
         "id": "0e0aa648101264aa2f9a823cf309735c",
