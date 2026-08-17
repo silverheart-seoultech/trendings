@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-17T10:45:54.879326+00:00",
+  "last_updated": "2026-08-17T11:36:38.486608+00:00",
   "total_entries": 110,
-  "new_entries": 4,
+  "new_entries": 6,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,6 +768,18 @@
       "is_new": false
     },
     {
+      "id": "dd02c006bef423b4918c811193e75353",
+      "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+      "description": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules. On Friday, Anthropic announced that Claude's te",
+      "published": "2026-08-17T06:57:13-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "96fdcc1df6bbeb2c48678f6b8ceacae0",
       "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
       "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
@@ -910,18 +922,6 @@
       "is_new": false
     },
     {
-      "id": "10399f170c3bdbb0bbce417b03233ec2",
-      "title": "Suno is trying to look more like a real music production tool",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
-      "description": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest",
-      "published": "2026-08-14T08:52:01-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "ae32eded766b19338243db4e3540ede2",
       "title": "Apple trained its own AI model for China with help from Alibaba",
       "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
@@ -956,7 +956,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 46,
+      "likes": 61,
       "is_new": true
     },
     {
@@ -969,7 +969,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 15,
+      "likes": 17,
       "is_new": true
     },
     {
@@ -1034,20 +1034,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 54,
-      "is_new": false
-    },
-    {
-      "id": "c3707e52b035cd41830936281276a827",
-      "title": "SPARGen: Unifying Spatial Perception and Reasoning through Native Multimodal Generation",
-      "url": "https://huggingface.co/papers/2608.14138",
-      "description": "Spatial perception and reasoning from visual observations require recovering geometric structure, establishing correspondences, and understanding spatial relations. Existing approaches typically addre",
-      "published": "2026-08-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
+      "likes": 66,
       "is_new": false
     },
     {
@@ -1290,6 +1277,19 @@
       "category": "news",
       "points": 1,
       "comments": 0,
+      "is_new": false
+    },
+    {
+      "id": "eb506c88c614b02dfede3ed3892f1a16",
+      "title": "UniProbe: A Learnable Token-Level Hallucination Detector for Large VLMs using Multi-Structural Internal Representations",
+      "url": "https://huggingface.co/papers/2608.10835",
+      "description": "Large Vision-Language Models (LVLMs) achieve impressive visual reasoning and dialogue capabilities, yet frequently hallucinate content unsupported by the visual input. Effective mitigation requires to",
+      "published": "2026-08-11T08:01:59.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
       "is_new": false
     }
   ],
@@ -1536,6 +1536,18 @@
         "is_new": false
       },
       {
+        "id": "dd02c006bef423b4918c811193e75353",
+        "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+        "description": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules. On Friday, Anthropic announced that Claude's te",
+        "published": "2026-08-17T06:57:13-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "96fdcc1df6bbeb2c48678f6b8ceacae0",
         "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
         "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
@@ -1647,18 +1659,6 @@
         "url": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
         "description": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram wordmark. It doesn't",
         "published": "2026-08-14T12:54:16-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "b8d906c341782b43a44ddfdf2b941564",
-        "title": "You can now turn off Google Gemini&#8217;s visible watermarks",
-        "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-        "description": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's",
-        "published": "2026-08-14T12:49:56-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
