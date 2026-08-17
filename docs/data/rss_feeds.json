@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-17T03:10:29.060234+00:00",
+  "last_updated": "2026-08-17T03:59:01.964574+00:00",
   "total_entries": 70,
-  "new_entries": 8,
+  "new_entries": 12,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -454,6 +454,32 @@
       "is_new": false
     },
     {
+      "id": "414d5af7f2cf23b21f319d09343bb8f8",
+      "title": "CPI-Bench: A Comprehensive,Practical and Intelligent Benchmark for Real-World Image Editing",
+      "url": "https://huggingface.co/papers/2608.14546",
+      "description": "With the rapid advancement of image editing models and their widespread application across various domains, there is an increasingly urgent need to deploy these model capabilities directly into real-w",
+      "published": "2026-08-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 8,
+      "is_new": true
+    },
+    {
+      "id": "92cbe2c0a864eb6cacb341940f1cedf0",
+      "title": "Scaling Domain Data Repetition in LLM Pretraining",
+      "url": "https://huggingface.co/papers/2608.14071",
+      "description": "As large language models scale, their training-token budgets must also increase to maintain an appropriate tokens-per-parameter ratio (\\(TPP\\)). However, high-quality domain data is much harder to sca",
+      "published": "2026-08-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
       "id": "0ca26b9db428aeca9a64a056747e9e12",
       "title": "Can We Defend Against AI-Generated Video Attacks on Real-World Crisis Events? A Systematic Evaluation of Detectors, Generators and Social Dissemination",
       "url": "https://huggingface.co/papers/2608.14391",
@@ -463,7 +489,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
+      "likes": 14,
       "is_new": true
     },
     {
@@ -489,7 +515,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 19,
       "is_new": true
     },
     {
@@ -581,7 +607,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 11,
       "is_new": true
     },
     {
@@ -594,7 +620,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 10,
+      "likes": 14,
       "is_new": true
     },
     {
@@ -608,32 +634,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 13,
-      "is_new": false
-    },
-    {
-      "id": "fc7e4d6e789136a51080b0a60990001c",
-      "title": "PixSDS: Why Latent SDS Makes Noisy Pixels",
-      "url": "https://huggingface.co/papers/2608.12997",
-      "description": "Score Distillation Sampling (SDS) enables text-to-3D generation by optimizing rendered images with a pretrained diffusion prior, but latent SDS often produces structured color artifacts and high-frequ",
-      "published": "2026-08-12T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 7,
-      "is_new": false
-    },
-    {
-      "id": "10ee8234759a20ed033670107c40fa10",
-      "title": "Are You Sure You're Sure? On the Impact of Instruction Tuning on Confidence and Lexical Diversity",
-      "url": "https://huggingface.co/papers/2608.13430",
-      "description": "Instruction-tuned language models achieve strong performance across a range of generation tasks, but have also recently been shown to exhibit verbalized overconfidence. In question answering, verbaliz",
-      "published": "2026-08-12T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 11,
       "is_new": false
     },
     {
@@ -679,6 +679,19 @@
       "is_new": false
     },
     {
+      "id": "b5d37c6b6dc259f169a9bc9cb80dd1e6",
+      "title": "Generation as Auxiliary Supervision: Enhancing Visual Understanding at Zero Inference Overhead via Decoupled Embedding Prediction",
+      "url": "https://huggingface.co/papers/2608.12209",
+      "description": "While Multimodal Large Language Models (MLLMs) have achieved remarkable progress, visual understanding and generation are typically treated as divergent objectives. Existing unified frameworks often r",
+      "published": "2026-08-11T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "79206f136bcd0e29242564e4d156dbf1",
       "title": "Claim-Level Reliability Assessment for Efficient Test-Time Reasoning",
       "url": "https://huggingface.co/papers/2608.11994",
@@ -688,7 +701,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
+      "likes": 9,
       "is_new": true
     },
     {
@@ -728,32 +741,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 10,
-      "is_new": false
-    },
-    {
-      "id": "d09574e7d7a84c0c6d61ea8850b9cf08",
-      "title": "AVA-Encoder: Towards Agent-Native Video Representation Learning",
-      "url": "https://huggingface.co/papers/2608.12313",
-      "description": "Creative agents still lack an effective way to learn from high-quality human films, limiting their ability to produce cinematic-grade videos. A key challenge is the absence of a structured video repre",
-      "published": "2026-08-11T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 14,
-      "is_new": false
-    },
-    {
-      "id": "9dc786539addc597d1a4b2fac7126919",
-      "title": "TailBooster: A Dual-Layer Generative Framework for Extreme Value Augmentation with Operational Validity Enforcement",
-      "url": "https://huggingface.co/papers/2608.11951",
-      "description": "Extreme events in air transport, such as severe arrival delays and abnormal air times, cause cascading network disruptions with substantial operational, economic, and safety costs. Such events are rar",
-      "published": "2026-08-11T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 8,
       "is_new": false
     },
     {
@@ -946,6 +933,19 @@
       "category": "research",
       "likes": 13,
       "is_new": false
+    },
+    {
+      "id": "a406690dd0f116058e3d1c560e936245",
+      "title": "Verifier-Induced Support Reshaping in On-Policy Optimization",
+      "url": "https://huggingface.co/papers/2608.00220",
+      "description": "We show that on-policy reinforcement learning with verifiable rewards (RLVR) can improve the current objective while making successful behaviors for later objectives too rare to sample and reinforce. ",
+      "published": "2026-07-30T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
     }
   ],
   "by_category": {
@@ -1323,6 +1323,32 @@
     ],
     "research": [
       {
+        "id": "414d5af7f2cf23b21f319d09343bb8f8",
+        "title": "CPI-Bench: A Comprehensive,Practical and Intelligent Benchmark for Real-World Image Editing",
+        "url": "https://huggingface.co/papers/2608.14546",
+        "description": "With the rapid advancement of image editing models and their widespread application across various domains, there is an increasingly urgent need to deploy these model capabilities directly into real-w",
+        "published": "2026-08-13T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 8,
+        "is_new": true
+      },
+      {
+        "id": "92cbe2c0a864eb6cacb341940f1cedf0",
+        "title": "Scaling Domain Data Repetition in LLM Pretraining",
+        "url": "https://huggingface.co/papers/2608.14071",
+        "description": "As large language models scale, their training-token budgets must also increase to maintain an appropriate tokens-per-parameter ratio (\\(TPP\\)). However, high-quality domain data is much harder to sca",
+        "published": "2026-08-13T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 2,
+        "is_new": true
+      },
+      {
         "id": "0ca26b9db428aeca9a64a056747e9e12",
         "title": "Can We Defend Against AI-Generated Video Attacks on Real-World Crisis Events? A Systematic Evaluation of Detectors, Generators and Social Dissemination",
         "url": "https://huggingface.co/papers/2608.14391",
@@ -1332,7 +1358,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 6,
+        "likes": 14,
         "is_new": true
       },
       {
@@ -1358,7 +1384,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 1,
+        "likes": 19,
         "is_new": true
       },
       {
@@ -1384,7 +1410,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 2,
+        "likes": 11,
         "is_new": true
       },
       {
@@ -1397,7 +1423,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 10,
+        "likes": 14,
         "is_new": true
       },
       {
@@ -1414,30 +1440,17 @@
         "is_new": false
       },
       {
-        "id": "fc7e4d6e789136a51080b0a60990001c",
-        "title": "PixSDS: Why Latent SDS Makes Noisy Pixels",
-        "url": "https://huggingface.co/papers/2608.12997",
-        "description": "Score Distillation Sampling (SDS) enables text-to-3D generation by optimizing rendered images with a pretrained diffusion prior, but latent SDS often produces structured color artifacts and high-frequ",
-        "published": "2026-08-12T20:00:00.000Z",
+        "id": "b5d37c6b6dc259f169a9bc9cb80dd1e6",
+        "title": "Generation as Auxiliary Supervision: Enhancing Visual Understanding at Zero Inference Overhead via Decoupled Embedding Prediction",
+        "url": "https://huggingface.co/papers/2608.12209",
+        "description": "While Multimodal Large Language Models (MLLMs) have achieved remarkable progress, visual understanding and generation are typically treated as divergent objectives. Existing unified frameworks often r",
+        "published": "2026-08-11T20:00:00.000Z",
         "source_id": "hf-papers",
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 7,
-        "is_new": false
-      },
-      {
-        "id": "10ee8234759a20ed033670107c40fa10",
-        "title": "Are You Sure You're Sure? On the Impact of Instruction Tuning on Confidence and Lexical Diversity",
-        "url": "https://huggingface.co/papers/2608.13430",
-        "description": "Instruction-tuned language models achieve strong performance across a range of generation tasks, but have also recently been shown to exhibit verbalized overconfidence. In question answering, verbaliz",
-        "published": "2026-08-12T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 11,
-        "is_new": false
+        "likes": 0,
+        "is_new": true
       },
       {
         "id": "79206f136bcd0e29242564e4d156dbf1",
@@ -1449,7 +1462,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 8,
+        "likes": 9,
         "is_new": true
       },
       {
@@ -1489,32 +1502,6 @@
         "source_icon": "🤗",
         "category": "research",
         "likes": 10,
-        "is_new": false
-      },
-      {
-        "id": "d09574e7d7a84c0c6d61ea8850b9cf08",
-        "title": "AVA-Encoder: Towards Agent-Native Video Representation Learning",
-        "url": "https://huggingface.co/papers/2608.12313",
-        "description": "Creative agents still lack an effective way to learn from high-quality human films, limiting their ability to produce cinematic-grade videos. A key challenge is the absence of a structured video repre",
-        "published": "2026-08-11T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 14,
-        "is_new": false
-      },
-      {
-        "id": "9dc786539addc597d1a4b2fac7126919",
-        "title": "TailBooster: A Dual-Layer Generative Framework for Extreme Value Augmentation with Operational Validity Enforcement",
-        "url": "https://huggingface.co/papers/2608.11951",
-        "description": "Extreme events in air transport, such as severe arrival delays and abnormal air times, cause cascading network disruptions with substantial operational, economic, and safety costs. Such events are rar",
-        "published": "2026-08-11T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 8,
         "is_new": false
       },
       {
@@ -1581,6 +1568,19 @@
         "category": "research",
         "likes": 13,
         "is_new": false
+      },
+      {
+        "id": "a406690dd0f116058e3d1c560e936245",
+        "title": "Verifier-Induced Support Reshaping in On-Policy Optimization",
+        "url": "https://huggingface.co/papers/2608.00220",
+        "description": "We show that on-policy reinforcement learning with verifiable rewards (RLVR) can improve the current objective while making successful behaviors for later objectives too rare to sample and reinforce. ",
+        "published": "2026-07-30T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 1,
+        "is_new": true
       }
     ]
   }
