@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-17T16:42:28.081145+00:00",
+  "last_updated": "2026-08-17T17:41:03.188785+00:00",
   "total_entries": 110,
-  "new_entries": 9,
+  "new_entries": 11,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -96,18 +96,6 @@
       "is_new": false
     },
     {
-      "id": "4f7a500cee9438e1a7f8fa27bafdbab9",
-      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-      "description": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
-      "published": "Thu, 13 Aug 2026 18:28:14 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "7430ad56634d75f96ac27c8711820bbd",
       "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
       "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
@@ -180,8 +168,20 @@
       "is_new": false
     },
     {
+      "id": "0dccda6e63b06f1eeb4e141411cc4185",
+      "title": "How to tell if your AI platforms’ accounts have been hacked",
+      "url": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+      "description": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.",
+      "published": "Sat, 15 Aug 2026 16:10:00 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "897dfbe77af7f13cc88b2ba6f3722dd4",
-      "title": "Amazon, once an online bookseller, is destroying rare books to train AI models",
+      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
       "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
       "description": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
       "published": "Mon, 17 Aug 2026 16:38:44 +0000",
@@ -777,8 +777,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 27,
-      "comments": 9,
+      "points": 48,
+      "comments": 20,
       "is_new": true
     },
     {
@@ -961,6 +961,19 @@
       "is_new": false
     },
     {
+      "id": "570af4e7fbbe61abb5f19a36f9c767af",
+      "title": "Nanbeige4.2-3B on Apple Silicon: Fixing Deployment Bugs and Decreasing Looped Transformer Memory Overhead",
+      "url": "https://huggingface.co/papers/2608.13987",
+      "description": "Nanbeige4.2-3B is a 3B-parameter agentic model built around a Looped Transformer (LT) that reuses one stack of layers for a second forward pass, adding effective depth without additional parameters. E",
+      "published": "2026-08-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "c639cfff56d746b9a99158cb1e3e52c6",
       "title": "Self-Supervised Visual On-Policy Distillation",
       "url": "https://huggingface.co/papers/2608.14144",
@@ -970,7 +983,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 139,
+      "likes": 141,
       "is_new": false
     },
     {
@@ -1226,19 +1239,6 @@
       "is_new": false
     },
     {
-      "id": "b5d37c6b6dc259f169a9bc9cb80dd1e6",
-      "title": "Generation as Auxiliary Supervision: Enhancing Visual Understanding at Zero Inference Overhead via Decoupled Embedding Prediction",
-      "url": "https://huggingface.co/papers/2608.12209",
-      "description": "While Multimodal Large Language Models (MLLMs) have achieved remarkable progress, visual understanding and generation are typically treated as divergent objectives. Existing unified frameworks often r",
-      "published": "2026-08-11T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
-      "is_new": false
-    },
-    {
       "id": "49260102",
       "title": "Show HN: Pickle – token efficient AI agent browser with policy-gated actions",
       "url": "https://picklebrowser.com/",
@@ -1345,18 +1345,6 @@
         "is_new": false
       },
       {
-        "id": "4f7a500cee9438e1a7f8fa27bafdbab9",
-        "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-        "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-        "description": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
-        "published": "Thu, 13 Aug 2026 18:28:14 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
         "id": "7430ad56634d75f96ac27c8711820bbd",
         "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
         "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
@@ -1429,8 +1417,20 @@
         "is_new": false
       },
       {
+        "id": "0dccda6e63b06f1eeb4e141411cc4185",
+        "title": "How to tell if your AI platforms’ accounts have been hacked",
+        "url": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+        "description": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.",
+        "published": "Sat, 15 Aug 2026 16:10:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "897dfbe77af7f13cc88b2ba6f3722dd4",
-        "title": "Amazon, once an online bookseller, is destroying rare books to train AI models",
+        "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
         "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
         "description": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
         "published": "Mon, 17 Aug 2026 16:38:44 +0000",
@@ -1546,8 +1546,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 27,
-        "comments": 9,
+        "points": 48,
+        "comments": 20,
         "is_new": true
       },
       {
