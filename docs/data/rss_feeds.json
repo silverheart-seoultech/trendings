@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-17T01:40:24.591853+00:00",
+  "last_updated": "2026-08-17T01:52:30.141143+00:00",
   "total_entries": 70,
-  "new_entries": 8,
+  "new_entries": 2,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -165,7 +165,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "30514dd888ea36f4401edc9b92ac9eb4",
@@ -177,7 +177,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "9eeacf6b78b6dd6218f6848794b849e1",
@@ -297,7 +297,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "4a493f2763aee00cd570527a7e230bf1",
@@ -454,6 +454,19 @@
       "is_new": false
     },
     {
+      "id": "c71b79bfcb184496aceb35d8b4fb5e53",
+      "title": "Marionette: Predicting World States, Rendering Geometry, Painting Appearance",
+      "url": "https://huggingface.co/papers/2608.14530",
+      "description": "Interactive game world models typically autoregress visual observations directly in pixel or latent space, forcing structured properties such as pose, geometry, and occlusion to be implicitly maintain",
+      "published": "2026-08-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
       "id": "a202a998008fb063156e585064a19e40",
       "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
       "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
@@ -598,19 +611,6 @@
       "is_new": false
     },
     {
-      "id": "d3a1c9cb5fd003dc75aabeac4db0b93b",
-      "title": "H2R-Bench: Benchmarking Human-to-Robot Manipulation Video Generation in World Models",
-      "url": "https://huggingface.co/papers/2608.13049",
-      "description": "Large-scale manipulation data is essential for robot learning, yet collecting robot demonstrations remains expensive and difficult to scale. Meanwhile, abundant egocentric human manipulation videos pr",
-      "published": "2026-08-12T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 15,
-      "is_new": false
-    },
-    {
       "id": "49275479",
       "title": "Show HN: An idle desktop incremental game driven by coding-agent",
       "url": "https://news.ycombinator.com/item?id=49275479",
@@ -651,6 +651,19 @@
       "points": 4,
       "comments": 4,
       "is_new": false
+    },
+    {
+      "id": "74c2c812a7d443b27872f43ce930a93f",
+      "title": "Dion3: Full-Stack Orthogonal Updates",
+      "url": "https://huggingface.co/papers/2608.11612",
+      "description": "The Muon optimizer incurs a significant overhead cost due to its cubic-time Newton-Schulz orthogonalization step. When weights are sharded, communication overhead compounds this computational cost, er",
+      "published": "2026-08-11T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
     },
     {
       "id": "846cd09eac294d8a6cac0323fb37dd67",
@@ -824,7 +837,7 @@
       "category": "news",
       "points": 3,
       "comments": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "a1473b96ae058f5f72c978ae311bae58",
@@ -851,7 +864,7 @@
       "category": "news",
       "points": 1,
       "comments": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "49215505",
@@ -865,7 +878,7 @@
       "category": "news",
       "points": 1,
       "comments": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "49213554",
@@ -879,7 +892,7 @@
       "category": "news",
       "points": 4,
       "comments": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "49208128",
@@ -893,7 +906,7 @@
       "category": "news",
       "points": 1,
       "comments": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "5141e375c4e568f3cff780126abae2dd",
@@ -906,19 +919,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 15,
-      "is_new": false
-    },
-    {
-      "id": "42402d8ad58684a6dd4f7726e2d5f1a8",
-      "title": "LLMRouter: Unified Infrastructure for Developing, Evaluating, and Deploying LLM Routers",
-      "url": "https://huggingface.co/papers/2608.06867",
-      "description": "No single large language model (LLM) is optimal across all queries and budget constraints, making model routing essential for cost-effective deployment. Existing routers adopt diverse formulations and",
-      "published": "2026-08-06T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 102,
       "is_new": false
     },
     {
@@ -1068,7 +1068,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "30514dd888ea36f4401edc9b92ac9eb4",
@@ -1080,7 +1080,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "9eeacf6b78b6dd6218f6848794b849e1",
@@ -1200,7 +1200,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "4a493f2763aee00cd570527a7e230bf1",
@@ -1323,6 +1323,19 @@
     ],
     "research": [
       {
+        "id": "c71b79bfcb184496aceb35d8b4fb5e53",
+        "title": "Marionette: Predicting World States, Rendering Geometry, Painting Appearance",
+        "url": "https://huggingface.co/papers/2608.14530",
+        "description": "Interactive game world models typically autoregress visual observations directly in pixel or latent space, forcing structured properties such as pose, geometry, and occlusion to be implicitly maintain",
+        "published": "2026-08-13T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 2,
+        "is_new": true
+      },
+      {
         "id": "bd8dc8b06713efd577eb51ddf708fc73",
         "title": "Context-Matched Distillation: Teacher Causality for Autoregressive Video Distillation",
         "url": "https://huggingface.co/papers/2608.13391",
@@ -1401,17 +1414,17 @@
         "is_new": false
       },
       {
-        "id": "d3a1c9cb5fd003dc75aabeac4db0b93b",
-        "title": "H2R-Bench: Benchmarking Human-to-Robot Manipulation Video Generation in World Models",
-        "url": "https://huggingface.co/papers/2608.13049",
-        "description": "Large-scale manipulation data is essential for robot learning, yet collecting robot demonstrations remains expensive and difficult to scale. Meanwhile, abundant egocentric human manipulation videos pr",
-        "published": "2026-08-12T20:00:00.000Z",
+        "id": "74c2c812a7d443b27872f43ce930a93f",
+        "title": "Dion3: Full-Stack Orthogonal Updates",
+        "url": "https://huggingface.co/papers/2608.11612",
+        "description": "The Muon optimizer incurs a significant overhead cost due to its cubic-time Newton-Schulz orthogonalization step. When weights are sharded, communication overhead compounds this computational cost, er",
+        "published": "2026-08-11T20:00:00.000Z",
         "source_id": "hf-papers",
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 15,
-        "is_new": false
+        "likes": 0,
+        "is_new": true
       },
       {
         "id": "846cd09eac294d8a6cac0323fb37dd67",
@@ -1541,19 +1554,6 @@
         "source_icon": "🤗",
         "category": "research",
         "likes": 15,
-        "is_new": false
-      },
-      {
-        "id": "42402d8ad58684a6dd4f7726e2d5f1a8",
-        "title": "LLMRouter: Unified Infrastructure for Developing, Evaluating, and Deploying LLM Routers",
-        "url": "https://huggingface.co/papers/2608.06867",
-        "description": "No single large language model (LLM) is optimal across all queries and budget constraints, making model routing essential for cost-effective deployment. Existing routers adopt diverse formulations and",
-        "published": "2026-08-06T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 102,
         "is_new": false
       },
       {
