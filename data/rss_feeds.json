@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-18T16:45:52.498374+00:00",
+  "last_updated": "2026-08-18T17:38:53.454475+00:00",
   "total_entries": 110,
-  "new_entries": 11,
+  "new_entries": 13,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,6 +47,18 @@
     }
   ],
   "entries": [
+    {
+      "id": "506ef6f4e04268f7231b47f7b5ae18b5",
+      "title": "Etched’s valuation doubles to $21B in a month",
+      "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+      "description": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
+      "published": "Tue, 18 Aug 2026 17:21:58 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "7e22fac6343ecf27f4034f7c60d800fa",
       "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
@@ -756,18 +768,6 @@
       "is_new": false
     },
     {
-      "id": "042796346f67c2669c5cbfa732f34119",
-      "title": "Kog is going deeper to squeeze more inference out of GPUs",
-      "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-      "description": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
-      "published": "Fri, 14 Aug 2026 14:50:11 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "49346452",
       "title": "Show HN: Tracelint – a linter for AI agent traces, no LLM judge",
       "url": "https://github.com/AshwinUgale/tracelint",
@@ -996,7 +996,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 19,
+      "likes": 20,
       "is_new": false
     },
     {
@@ -1009,7 +1009,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 12,
+      "likes": 13,
       "is_new": false
     },
     {
@@ -1101,19 +1101,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "8bc3f027bd6a9a380fcdae3e7af2b4d7",
-      "title": "HarnessEval-W: Agentifying the Evaluation of Visual Worlds",
-      "url": "https://huggingface.co/papers/2608.16859",
-      "description": "A benchmark should deliver more than a scalar score: what makes an evaluation trustworthy is the reasoning that justifies the score. This is especially critical for world models, where judging a rollo",
-      "published": "2026-08-16T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 106,
       "is_new": false
     },
     {
@@ -1227,6 +1214,19 @@
       "is_new": false
     },
     {
+      "id": "ce6e74751d58a064c9a3c98b67b883e9",
+      "title": "StateM: Reaching 95.3% Raw Accuracy, or a \\$15 Frontier Run, on Terminal-Bench 2.1 via Harness Scaling",
+      "url": "https://huggingface.co/papers/2608.15089",
+      "description": "Long-horizon agents can fail even when their underlying models can solve the constituent steps. They may lose track of mutable state, fail to reactivate lessons from earlier executions, skip known pro",
+      "published": "2026-08-14T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 8,
+      "is_new": true
+    },
+    {
       "id": "29bc06880cb3d0b01e26cb145ecf05d4",
       "title": "MOSS-VL Technical Report",
       "url": "https://huggingface.co/papers/2608.15045",
@@ -1293,6 +1293,18 @@
   ],
   "by_category": {
     "news": [
+      {
+        "id": "506ef6f4e04268f7231b47f7b5ae18b5",
+        "title": "Etched’s valuation doubles to $21B in a month",
+        "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+        "description": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
+        "published": "Tue, 18 Aug 2026 17:21:58 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "7e22fac6343ecf27f4034f7c60d800fa",
         "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
@@ -1515,18 +1527,6 @@
         "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
         "description": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its ow",
         "published": "Fri, 14 Aug 2026 15:43:28 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "042796346f67c2669c5cbfa732f34119",
-        "title": "Kog is going deeper to squeeze more inference out of GPUs",
-        "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-        "description": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
-        "published": "Fri, 14 Aug 2026 14:50:11 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
