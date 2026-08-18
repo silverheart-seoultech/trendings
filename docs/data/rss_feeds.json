@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-18T15:43:55.961136+00:00",
+  "last_updated": "2026-08-18T16:45:52.498374+00:00",
   "total_entries": 110,
-  "new_entries": 9,
+  "new_entries": 11,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,6 +47,18 @@
     }
   ],
   "entries": [
+    {
+      "id": "7e22fac6343ecf27f4034f7c60d800fa",
+      "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
+      "url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+      "description": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
+      "published": "Tue, 18 Aug 2026 16:19:10 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "0da80d9d513f763f5b04ea3d7a951155",
       "title": "Warp’s new system is an out-of-the-box software factory for AI development",
@@ -756,18 +768,6 @@
       "is_new": false
     },
     {
-      "id": "0fccedf8ea195bfb949e8a73d9fa413e",
-      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
-      "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
-      "description": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
-      "published": "Fri, 14 Aug 2026 14:05:00 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "49346452",
       "title": "Show HN: Tracelint – a linter for AI agent traces, no LLM judge",
       "url": "https://github.com/AshwinUgale/tracelint",
@@ -777,7 +777,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 2,
+      "points": 3,
       "comments": 0,
       "is_new": true
     },
@@ -810,11 +810,11 @@
       "is_new": true
     },
     {
-      "id": "ec7cbb3ceccb6b00200a5fa19cbb689c",
-      "title": "Google&#8217;s Pet Memory forgot who my cats are",
-      "url": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
-      "description": "One of the best things my smart home does is help me care for my pets, and security cameras are particularly useful for keeping track of my many critters. But the barrage of notifications they send of",
-      "published": "2026-08-18T10:55:58-04:00",
+      "id": "8e365c2bc3dddaf13c17d563287e7fe1",
+      "title": "Elon Musk broke the FAA — Palantir is picking up the pieces",
+      "url": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
+      "description": "On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours. The outage disrupted more than 1,100 flights across the center's 330,000 square mile",
+      "published": "2026-08-18T11:44:25-04:00",
       "source_id": "theverge-ai",
       "source_name": "The Verge AI",
       "source_icon": "📰",
@@ -822,11 +822,11 @@
       "is_new": false
     },
     {
-      "id": "8e365c2bc3dddaf13c17d563287e7fe1",
-      "title": "Elon Musk made flying even worse so Palantir could profit",
-      "url": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
-      "description": "On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours. The outage disrupted more than 1,100 flights across the center's 330,000 square mile",
-      "published": "2026-08-18T10:17:06-04:00",
+      "id": "ec7cbb3ceccb6b00200a5fa19cbb689c",
+      "title": "Google&#8217;s Pet Memory forgot who my cats are",
+      "url": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
+      "description": "One of the best things my smart home does is help me care for my pets, and security cameras are particularly useful for keeping track of my many critters. But the barrage of notifications they send of",
+      "published": "2026-08-18T10:55:58-04:00",
       "source_id": "theverge-ai",
       "source_name": "The Verge AI",
       "source_icon": "📰",
@@ -933,8 +933,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 110,
-      "comments": 61,
+      "points": 112,
+      "comments": 62,
       "is_new": false
     },
     {
@@ -974,6 +974,19 @@
       "is_new": false
     },
     {
+      "id": "46554d43da5c5b4773114760c6ab2501",
+      "title": "StreamOPD: A Post-Training Recipe with Spatio-Temporal Cue Gating for Streaming Video Understanding",
+      "url": "https://huggingface.co/papers/2608.16320",
+      "description": "Streaming video understanding demands direct responses from the causally observed prefix of an unfolding video. Existing systems add inference-time memory, retrieval, and compression, yet a training-f",
+      "published": "2026-08-16T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "07ecfdfd17db5c86a7eacf915dd6911e",
       "title": "Advancing Open and Reproducible Relational Learning: RelArena-α, TabPFN-Rel and RPI",
       "url": "https://huggingface.co/papers/2608.16319",
@@ -983,7 +996,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 18,
+      "likes": 19,
       "is_new": false
     },
     {
@@ -1035,7 +1048,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 41,
+      "likes": 42,
       "is_new": false
     },
     {
@@ -1100,20 +1113,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 105,
-      "is_new": false
-    },
-    {
-      "id": "0f04fad0c13e5bfc8df37b47e564dc24",
-      "title": "An Empirical Study of Training Pixel-Space Text-to-Image Diffusion Models",
-      "url": "https://huggingface.co/papers/2608.16887",
-      "description": "This paper investigates an increasingly important topic in generative modeling: pixel-space diffusion models. Although numerous studies have explored this topic, most focus on small-scale or class-con",
-      "published": "2026-08-16T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 23,
+      "likes": 106,
       "is_new": false
     },
     {
@@ -1154,7 +1154,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 46,
+      "likes": 47,
       "is_new": false
     },
     {
@@ -1293,6 +1293,18 @@
   ],
   "by_category": {
     "news": [
+      {
+        "id": "7e22fac6343ecf27f4034f7c60d800fa",
+        "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
+        "url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+        "description": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
+        "published": "Tue, 18 Aug 2026 16:19:10 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "0da80d9d513f763f5b04ea3d7a951155",
         "title": "Warp’s new system is an out-of-the-box software factory for AI development",
@@ -1522,18 +1534,6 @@
         "is_new": false
       },
       {
-        "id": "0fccedf8ea195bfb949e8a73d9fa413e",
-        "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
-        "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
-        "description": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
-        "published": "Fri, 14 Aug 2026 14:05:00 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
         "id": "49346452",
         "title": "Show HN: Tracelint – a linter for AI agent traces, no LLM judge",
         "url": "https://github.com/AshwinUgale/tracelint",
@@ -1543,7 +1543,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 2,
+        "points": 3,
         "comments": 0,
         "is_new": true
       },
@@ -1576,11 +1576,11 @@
         "is_new": true
       },
       {
-        "id": "ec7cbb3ceccb6b00200a5fa19cbb689c",
-        "title": "Google&#8217;s Pet Memory forgot who my cats are",
-        "url": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
-        "description": "One of the best things my smart home does is help me care for my pets, and security cameras are particularly useful for keeping track of my many critters. But the barrage of notifications they send of",
-        "published": "2026-08-18T10:55:58-04:00",
+        "id": "8e365c2bc3dddaf13c17d563287e7fe1",
+        "title": "Elon Musk broke the FAA — Palantir is picking up the pieces",
+        "url": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
+        "description": "On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours. The outage disrupted more than 1,100 flights across the center's 330,000 square mile",
+        "published": "2026-08-18T11:44:25-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
@@ -1588,11 +1588,11 @@
         "is_new": false
       },
       {
-        "id": "8e365c2bc3dddaf13c17d563287e7fe1",
-        "title": "Elon Musk made flying even worse so Palantir could profit",
-        "url": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
-        "description": "On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours. The outage disrupted more than 1,100 flights across the center's 330,000 square mile",
-        "published": "2026-08-18T10:17:06-04:00",
+        "id": "ec7cbb3ceccb6b00200a5fa19cbb689c",
+        "title": "Google&#8217;s Pet Memory forgot who my cats are",
+        "url": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
+        "description": "One of the best things my smart home does is help me care for my pets, and security cameras are particularly useful for keeping track of my many critters. But the barrage of notifications they send of",
+        "published": "2026-08-18T10:55:58-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
