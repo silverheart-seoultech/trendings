@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-18T01:47:46.129303+00:00",
+  "last_updated": "2026-08-18T03:06:32.140786+00:00",
   "total_entries": 110,
-  "new_entries": 0,
+  "new_entries": 11,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -351,7 +351,7 @@
       "id": "444410fb526e85cf6db20df0da2e84c4",
       "title": "MobileMem: Learning from a Year of Mobile Experiences",
       "url": "https://arxiv.org/abs/2608.13606",
-      "description": "arXiv:2608.13606v1 Announce Type: new \nAbstract: The next generation of AI agents is increasingly moving beyond systems that answer isolated questions toward persistent personal assistants that can un",
+      "description": "arXiv:2608.13606v2 Announce Type: new \nAbstract: The next generation of AI agents is increasingly moving beyond systems that answer isolated questions toward persistent personal assistants that can un",
       "published": "Mon, 17 Aug 2026 00:00:00 -0400",
       "source_id": "arxiv-ai",
       "source_name": "arXiv AI",
@@ -831,8 +831,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 91,
-      "comments": 51,
+      "points": 93,
+      "comments": 53,
       "is_new": false
     },
     {
@@ -884,6 +884,58 @@
       "is_new": false
     },
     {
+      "id": "24f9458bfacdeb7f06e763c816ab9537",
+      "title": "Ventor-QTest: Threat-Model-Driven Verification of Vendor-Hosted LLM APIs",
+      "url": "https://huggingface.co/papers/2608.16391",
+      "description": "As large language models become increasingly widespread, third-party providers that deploy open-weight models have become an important part of the ecosystem. Auditing the quality of their inference AP",
+      "published": "2026-08-16T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "e48029786ac43dd4893ea62f26ac8e86",
+      "title": "ClawGym II: Exploring Black-Box RL on Agent Harness",
+      "url": "https://huggingface.co/papers/2608.16798",
+      "description": "Agent harnesses have substantially improved performance on long-horizon tasks by coordinating agent interactions with the environment. However, reinforcement learning through complex harnesses remains",
+      "published": "2026-08-16T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 5,
+      "is_new": true
+    },
+    {
+      "id": "b00322e5d30891604664e78b3a3f2ec7",
+      "title": "R^3-Bench: LLMs Struggle with Resource-Rational Reasoning under Shared Budgets",
+      "url": "https://huggingface.co/papers/2608.16033",
+      "description": "In cognitive science, resource rationality asks how an agent should allocate limited computation to maximize expected value. Most reasoning and agent benchmarks use independent per-task budgets; exist",
+      "published": "2026-08-16T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 9,
+      "is_new": true
+    },
+    {
+      "id": "7f82926bf761258a0207ee120bc10527",
+      "title": "GenRouter: Unified Workflow Routing for Agentic Image Generation",
+      "url": "https://huggingface.co/papers/2608.16721",
+      "description": "The rapid evolution of text-to-image (T2I) generation models has effectively solved the foundational challenge of raw pixel synthesis, shifting the community's focus toward fulfilling increasingly int",
+      "published": "2026-08-16T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 6,
+      "is_new": true
+    },
+    {
       "id": "49317344",
       "title": "Show HN: Spread – Real-Time New Zealand Supermarket Data via API and MCP",
       "url": "https://spread.butterup.app/",
@@ -910,6 +962,19 @@
       "points": 2,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "4133255c56bb9a0b65cb03a0ad3752ca",
+      "title": "ConceptFormer: Learning Adaptive Latent Concepts for Query-Document Alignment in Visual Document Retrieval",
+      "url": "https://huggingface.co/papers/2608.15698",
+      "description": "Visual document retrieval is a critical component of multimodal retrieval-augmented generation, aiming to identify query-relevant pages from document collections where evidence is distributed across t",
+      "published": "2026-08-15T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
     },
     {
       "id": "49308095",
@@ -952,6 +1017,32 @@
       "points": 2,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "3930051d80d8af5140d0f2bc6c493013",
+      "title": "VibeWorlding: Can Multimodal Agents Construct 3D Open Worlds End-to-End?",
+      "url": "https://huggingface.co/papers/2608.15265",
+      "description": "Constructing an interactive 3D open world from a user query is important. However, existing methods are primarily evaluated on idealized, simple queries, making it difficult to systematically analyze ",
+      "published": "2026-08-14T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 21,
+      "is_new": true
+    },
+    {
+      "id": "a3133bc76250da51655231b0776686ac",
+      "title": "Understanding Cognition-Induced Risks in Agentic AI Systems",
+      "url": "https://huggingface.co/papers/2608.15304",
+      "description": "Frontier agentic systems powered by large language models (LLMs) exhibit human-like patterns of cognition. As these systems become deeply integrated across different domains, their cognitive engagemen",
+      "published": "2026-08-14T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 8,
+      "is_new": true
     },
     {
       "id": "fcca288b1b0615961cc0b1bacb20de07",
@@ -1015,6 +1106,32 @@
       "is_new": false
     },
     {
+      "id": "36ef67057ed56f55179bd3782297f5fe",
+      "title": "MegaParts: Scaling Part-Aware 3D Object Generation to 300 Parts via Token-Efficient Autoregressive Modeling",
+      "url": "https://huggingface.co/papers/2608.14783",
+      "description": "Part-aware 3D object generation is essential for graphics applications such as controllable modeling, editing, and articulation, where objects are represented as coherent assemblies of semantic parts.",
+      "published": "2026-08-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 9,
+      "is_new": true
+    },
+    {
+      "id": "a3d6391d8f3c58b588781d5d4f91abed",
+      "title": "Agentic Transaction: Towards ACID-Compliant Agent Systems",
+      "url": "https://huggingface.co/papers/2608.13900",
+      "description": "Large language model (LLM) agents are evolving from conversational assistants into autonomous systems that execute long-horizon tasks through reasoning, tool use, code generation, and workspace manipu",
+      "published": "2026-08-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 10,
+      "is_new": true
+    },
+    {
       "id": "570af4e7fbbe61abb5f19a36f9c767af",
       "title": "Nanbeige4.2-3B on Apple Silicon: Fixing Deployment Bugs and Decreasing Looped Transformer Memory Overhead",
       "url": "https://huggingface.co/papers/2608.13987",
@@ -1025,58 +1142,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "c639cfff56d746b9a99158cb1e3e52c6",
-      "title": "Self-Supervised Visual On-Policy Distillation",
-      "url": "https://huggingface.co/papers/2608.14144",
-      "description": "Visual on-policy distillation relies heavily on an informative teacher-student asymmetry, through either a larger, stronger teacher or privileged supervision, such as reference answers or ground-truth",
-      "published": "2026-08-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 148,
-      "is_new": false
-    },
-    {
-      "id": "e2cabfb233ee6e6a5237bd793ed14b76",
-      "title": "SimpleOPD: Simple Tokenizer-Agnostic On-Policy Distillation for Long-Context Reasoning",
-      "url": "https://huggingface.co/papers/2608.14277",
-      "description": "On-policy distillation (OPD) offers a promising way to transfer reasoning capabilities from stronger teacher models, but applying it to long-context reasoning teachers and short-context students intro",
-      "published": "2026-08-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 23,
-      "is_new": false
-    },
-    {
-      "id": "c8a33dd06326fdcaf2c7336c791a5675",
-      "title": "Forecast Collapse in Time-Series Foundation Models",
-      "url": "https://huggingface.co/papers/2608.14106",
-      "description": "When forecasting hourly returns for 1,000 US equities, we observe an unexpected phenomenon: predictions become nearly flat and show poor stock ranking, as measured by cross-sectional correlation. We c",
-      "published": "2026-08-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 7,
-      "is_new": false
-    },
-    {
-      "id": "3555834b7af5a96a79bf22b1dcc13b08",
-      "title": "PRM-as-a-Judge 1.5: A Toolkit for Robot Process Assessment",
-      "url": "https://huggingface.co/papers/2608.14284",
-      "description": "Fine-grained robotic evaluation matters for understanding embodied models, going beyond binary success rates and rule-based process scores. We present PRM-as-a-Judge 1.5, a toolkit for robot process a",
-      "published": "2026-08-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 10,
       "is_new": false
     },
     {
@@ -1120,19 +1185,6 @@
       "is_new": false
     },
     {
-      "id": "84fb4f91d71924e83c617962c9cea9f8",
-      "title": "Second Thought: Reasoning in Parallel as LLM Agents Act and Observe",
-      "url": "https://huggingface.co/papers/2608.13667",
-      "description": "LLM agents in the ReAct paradigm alternate between reasoning, acting, and observing, but deliberate reasoning is confined to the Thought phase: while the agent serializes an action and waits for the e",
-      "published": "2026-08-13T14:04:53.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 9,
-      "is_new": false
-    },
-    {
       "id": "49277842",
       "title": "Show HN: Tried some experiments with architecture for Long term memory for LLM",
       "url": "https://github.com/faisalhussain-devs/MindCache/tree/collapsed_tree",
@@ -1145,6 +1197,19 @@
       "points": 3,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "7b652b717a2780299fd301d5cf18ac11",
+      "title": "NaviDC-OCR: Navigating Document Parsing Across Digital and Camera-Captured Documents",
+      "url": "https://huggingface.co/papers/2608.12898",
+      "description": "Document parsing aims to transform unstructured documents into structured and machine-readable representations. Recent advances in Vision-Language Models (VLMs) have significantly advanced document pa",
+      "published": "2026-08-12T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
     },
     {
       "id": "de3c79ea4db88912a5304f38cba2d3ce",
@@ -1186,32 +1251,6 @@
       "is_new": false
     },
     {
-      "id": "aa9ddd0ab585a80a4eb3c454bb60c364",
-      "title": "LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure",
-      "url": "https://huggingface.co/papers/2608.13545",
-      "description": "Modern language models are trained on heterogeneous web-scale text corpora. Consequently, studying knowledge and skill acquisition is difficult, as prior exposure to related content is hard to charact",
-      "published": "2026-08-12T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 6,
-      "is_new": false
-    },
-    {
-      "id": "4174705b659d6bd088cc6b5061801426",
-      "title": "Latent On-Policy Self-Distillation",
-      "url": "https://huggingface.co/papers/2608.13040",
-      "description": "Enabling agents to learn from experience and internalize it into their policy has become a central problem in self-evolving AI. On-policy self-distillation (OPSD) offers an effective pathway by using ",
-      "published": "2026-08-12T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 14,
-      "is_new": false
-    },
-    {
       "id": "49275479",
       "title": "Show HN: An idle desktop incremental game driven by coding-agent",
       "url": "https://news.ycombinator.com/item?id=49275479",
@@ -1245,47 +1284,6 @@
       "url": "https://federaide.rocklab.in",
       "description": "",
       "published": "2026-08-12T15:20:19Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 3,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "49273269",
-      "title": "We built a job board where the employers aren't human. Here's what broke",
-      "url": "https://news.ycombinator.com/item?id=49273269",
-      "description": "",
-      "published": "2026-08-12T14:49:22Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 4,
-      "comments": 4,
-      "is_new": false
-    },
-    {
-      "id": "79dd775f4144154d3b3ee6363ee6a69c",
-      "title": "Is this Citation on Point?",
-      "url": "https://huggingface.co/papers/2608.12571",
-      "description": "In 2023, a New York judge sanctioned two attorneys in Mata v. Avianca for filing a brief with hallucinated citations generated by ChatGPT. Such failures are largely caught by database lookups; the har",
-      "published": "2026-08-11T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
-      "is_new": false
-    },
-    {
-      "id": "49260102",
-      "title": "Show HN: Pickle – token efficient AI agent browser with policy-gated actions",
-      "url": "https://picklebrowser.com/",
-      "description": "",
-      "published": "2026-08-11T15:43:55Z",
       "source_id": "hn-ai",
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
@@ -1601,8 +1599,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 91,
-        "comments": 51,
+        "points": 93,
+        "comments": 53,
         "is_new": false
       },
       {
@@ -1793,7 +1791,7 @@
         "id": "444410fb526e85cf6db20df0da2e84c4",
         "title": "MobileMem: Learning from a Year of Mobile Experiences",
         "url": "https://arxiv.org/abs/2608.13606",
-        "description": "arXiv:2608.13606v1 Announce Type: new \nAbstract: The next generation of AI agents is increasingly moving beyond systems that answer isolated questions toward persistent personal assistants that can un",
+        "description": "arXiv:2608.13606v2 Announce Type: new \nAbstract: The next generation of AI agents is increasingly moving beyond systems that answer isolated questions toward persistent personal assistants that can un",
         "published": "Mon, 17 Aug 2026 00:00:00 -0400",
         "source_id": "arxiv-ai",
         "source_name": "arXiv AI",
