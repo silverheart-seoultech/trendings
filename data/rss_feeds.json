@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-18T03:06:32.140786+00:00",
+  "last_updated": "2026-08-18T03:54:41.859111+00:00",
   "total_entries": 110,
-  "new_entries": 11,
+  "new_entries": 19,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -817,7 +817,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 7,
+      "points": 9,
       "comments": 10,
       "is_new": false
     },
@@ -831,7 +831,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 93,
+      "points": 94,
       "comments": 53,
       "is_new": false
     },
@@ -884,6 +884,45 @@
       "is_new": false
     },
     {
+      "id": "8bc3f027bd6a9a380fcdae3e7af2b4d7",
+      "title": "HarnessEval-W: Agentifying the Evaluation of Visual Worlds",
+      "url": "https://huggingface.co/papers/2608.16859",
+      "description": "A benchmark should deliver more than a scalar score: what makes an evaluation trustworthy is the reasoning that justifies the score. This is especially critical for world models, where judging a rollo",
+      "published": "2026-08-16T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "0f04fad0c13e5bfc8df37b47e564dc24",
+      "title": "An Empirical Study of Training Pixel-Space Text-to-Image Diffusion Models",
+      "url": "https://huggingface.co/papers/2608.16887",
+      "description": "This paper investigates an increasingly important topic in generative modeling: pixel-space diffusion models. Although numerous studies have explored this topic, most focus on small-scale or class-con",
+      "published": "2026-08-16T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
+    },
+    {
+      "id": "27a6325b5a256bfb52175c9aedcdc710",
+      "title": "Improving the matrix multiplication exponent with modern optimization and AlphaEvolve",
+      "url": "https://huggingface.co/papers/2608.16884",
+      "description": "The current best bounds on the matrix multiplication exponent ω are obtained through a refinement of the laser method called combination loss analysis (Duan et al., 2022; Williams et al., 2024; Alman ",
+      "published": "2026-08-16T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "24f9458bfacdeb7f06e763c816ab9537",
       "title": "Ventor-QTest: Threat-Model-Driven Verification of Vendor-Hosted LLM APIs",
       "url": "https://huggingface.co/papers/2608.16391",
@@ -893,7 +932,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 1,
       "is_new": true
     },
     {
@@ -906,7 +945,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 12,
       "is_new": true
     },
     {
@@ -919,7 +958,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 10,
       "is_new": true
     },
     {
@@ -932,7 +971,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
+      "likes": 12,
       "is_new": true
     },
     {
@@ -964,6 +1003,19 @@
       "is_new": false
     },
     {
+      "id": "db2516ed15e73a01ddc28b350c9af8c6",
+      "title": "UI-Mate: Advancing Open-Weight Foundation GUI Agents with In-Context Demonstrations",
+      "url": "https://huggingface.co/papers/2608.15930",
+      "description": "Foundation GUI agents can automate complex digital tasks, but deployment is hindered by scarce and biased training data, ambiguous prompts, and unreliable execution. Routine workflows rely on user-spe",
+      "published": "2026-08-15T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 7,
+      "is_new": true
+    },
+    {
       "id": "4133255c56bb9a0b65cb03a0ad3752ca",
       "title": "ConceptFormer: Learning Adaptive Latent Concepts for Query-Document Alignment in Visual Document Retrieval",
       "url": "https://huggingface.co/papers/2608.15698",
@@ -973,7 +1025,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": true
     },
     {
@@ -1028,7 +1080,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 21,
+      "likes": 28,
       "is_new": true
     },
     {
@@ -1041,7 +1093,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
+      "likes": 11,
       "is_new": true
     },
     {
@@ -1093,17 +1145,17 @@
       "is_new": false
     },
     {
-      "id": "b1888c906b756bb06a238c9c455f19fa",
-      "title": "A Pathway to General-Purpose Scientific AI: Multimodal Comprehension of Scientific Images",
-      "url": "https://huggingface.co/papers/2608.14075",
-      "description": "Scientific figures and tables encode essential experimental evidence, yet remain difficult for digital libraries and multimodal AI systems to retrieve and interpret. The ALD/E-ImageMiner benchmark and",
-      "published": "2026-08-14T04:34:33.000Z",
+      "id": "2afa5565862ae39ba976165155b15ea9",
+      "title": "PACE-Bench: Benchmarking Physics Adaptation via Code Evolution in Dynamic Environments",
+      "url": "https://huggingface.co/papers/2608.14441",
+      "description": "Self-evolving agents improve future behavior from interaction experience, yet existing evaluations typically optimize under fixed execution conditions and do not test recovery after those conditions c",
+      "published": "2026-08-13T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
-      "is_new": false
+      "likes": 3,
+      "is_new": true
     },
     {
       "id": "36ef67057ed56f55179bd3782297f5fe",
@@ -1115,7 +1167,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 12,
       "is_new": true
     },
     {
@@ -1128,21 +1180,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 10,
+      "likes": 14,
       "is_new": true
-    },
-    {
-      "id": "570af4e7fbbe61abb5f19a36f9c767af",
-      "title": "Nanbeige4.2-3B on Apple Silicon: Fixing Deployment Bugs and Decreasing Looped Transformer Memory Overhead",
-      "url": "https://huggingface.co/papers/2608.13987",
-      "description": "Nanbeige4.2-3B is a 3B-parameter agentic model built around a Looped Transformer (LT) that reuses one stack of layers for a second forward pass, adding effective depth without additional parameters. E",
-      "published": "2026-08-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
     },
     {
       "id": "a202a998008fb063156e585064a19e40",
@@ -1208,47 +1247,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 4,
       "is_new": true
-    },
-    {
-      "id": "de3c79ea4db88912a5304f38cba2d3ce",
-      "title": "Amplified Does Not Mean Predictive: Reasoning Behaviors in Thinking Models",
-      "url": "https://huggingface.co/papers/2608.13760",
-      "description": "Which reasoning behaviors are associated with correct answers in reasoning models, and does reasoning-oriented training amplify those behaviors? This distinction is important because reasoning-oriente",
-      "published": "2026-08-12T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "7d42fdd1f2d6261cb4be4b773cec6ba4",
-      "title": "Who Speaks Matters: Authority-Aware Multi-View RAG over Italian Parliamentary Proceedings",
-      "url": "https://huggingface.co/papers/2608.13410",
-      "description": "Parliamentary proceedings are a primary record of democratic deliberation, yet their volume and fragmentation make multi-perspective access difficult for citizens, journalists, and researchers. Applyi",
-      "published": "2026-08-12T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "ef59604b13d717bd874ca6d5f5e83b61",
-      "title": "DFM Mimir v1: An Open HRM Delivering Frontier Performance at 1B Parameters Using Only Permissible Post-Training Data",
-      "url": "https://huggingface.co/papers/2608.13517",
-      "description": "Current large language model development relies on massive, often non-permissible datasets, creating a high barrier for researchers committed to open-source and ethically sourced data. We introduce Mi",
-      "published": "2026-08-12T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 21,
-      "is_new": false
     },
     {
       "id": "49275479",
@@ -1585,7 +1585,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 7,
+        "points": 9,
         "comments": 10,
         "is_new": false
       },
@@ -1599,7 +1599,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 93,
+        "points": 94,
         "comments": 53,
         "is_new": false
       },
