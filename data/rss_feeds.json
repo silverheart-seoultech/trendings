@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T05:41:58.025409+00:00",
+  "last_updated": "2026-08-18T06:52:24.350226+00:00",
   "total_entries": 110,
   "new_entries": 60,
   "sources": [
@@ -777,7 +777,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 3,
+      "points": 4,
       "comments": 0,
       "is_new": false
     },
@@ -884,6 +884,32 @@
       "is_new": false
     },
     {
+      "id": "ed78c767b5f4fe8dc6516d46748ee861",
+      "title": "Learn What's Left, Not What's Mastered: Saturation Aware Advantage Reweighting for Multi-Reward Policy Optimization",
+      "url": "https://huggingface.co/papers/2608.16072",
+      "description": "Reinforcement learning (RL) with group-relative advantages has become the de facto standard for post-training language model reasoners. However, when optimizing multiple reward objectives, existing me",
+      "published": "2026-08-16T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
+    },
+    {
+      "id": "247c7667ae470caa28ee1cbddf317164",
+      "title": "HiFi-BRep: High-Fidelity Latent Representation for Robust B-Rep Generation",
+      "url": "https://huggingface.co/papers/2608.16485",
+      "description": "Boundary representation (B-Rep) generation is a fundamental task in computer-aided design, yet the direct synthesis of high-fidelity and structurally valid B-Reps remains a major challenge. Existing d",
+      "published": "2026-08-16T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "75bc85f497bc9ad9612e8134f43ddbe0",
       "title": "Drive, Pack, Fly: The Travelling Thief Problem with Drone",
       "url": "https://huggingface.co/papers/2608.16435",
@@ -906,7 +932,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": true
     },
     {
@@ -932,7 +958,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 29,
+      "likes": 33,
       "is_new": true
     },
     {
@@ -945,7 +971,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 11,
+      "likes": 13,
       "is_new": true
     },
     {
@@ -958,7 +984,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": true
     },
     {
@@ -971,7 +997,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 4,
       "is_new": true
     },
     {
@@ -984,7 +1010,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 27,
+      "likes": 29,
       "is_new": true
     },
     {
@@ -998,19 +1024,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 11,
-      "is_new": true
-    },
-    {
-      "id": "7f82926bf761258a0207ee120bc10527",
-      "title": "GenRouter: Unified Workflow Routing for Agentic Image Generation",
-      "url": "https://huggingface.co/papers/2608.16721",
-      "description": "The rapid evolution of text-to-image (T2I) generation models has effectively solved the foundational challenge of raw pixel synthesis, shifting the community's focus toward fulfilling increasingly int",
-      "published": "2026-08-16T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 15,
       "is_new": true
     },
     {
@@ -1051,7 +1064,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 21,
+      "likes": 23,
       "is_new": true
     },
     {
@@ -1120,32 +1133,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": true
-    },
-    {
-      "id": "3930051d80d8af5140d0f2bc6c493013",
-      "title": "VibeWorlding: Can Multimodal Agents Construct 3D Open Worlds End-to-End?",
-      "url": "https://huggingface.co/papers/2608.15265",
-      "description": "Constructing an interactive 3D open world from a user query is important. However, existing methods are primarily evaluated on idealized, simple queries, making it difficult to systematically analyze ",
-      "published": "2026-08-14T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 34,
-      "is_new": true
-    },
-    {
-      "id": "a3133bc76250da51655231b0776686ac",
-      "title": "Understanding Cognition-Induced Risks in Agentic AI Systems",
-      "url": "https://huggingface.co/papers/2608.15304",
-      "description": "Frontier agentic systems powered by large language models (LLMs) exhibit human-like patterns of cognition. As these systems become deeply integrated across different domains, their cognitive engagemen",
-      "published": "2026-08-14T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 12,
       "is_new": true
     },
     {
@@ -1289,6 +1276,20 @@
       "category": "news",
       "points": 3,
       "comments": 1,
+      "is_new": false
+    },
+    {
+      "id": "49273811",
+      "title": "Show HN: FEDERaiDE, a TUI harness with P2P multi-agent routing and built in IDE",
+      "url": "https://federaide.rocklab.in",
+      "description": "",
+      "published": "2026-08-12T15:20:19Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 3,
+      "comments": 0,
       "is_new": false
     }
   ],
@@ -1906,7 +1907,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 3,
+        "points": 4,
         "comments": 0,
         "is_new": false
       },
