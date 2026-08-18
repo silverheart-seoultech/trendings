@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-18T18:53:43.377029+00:00",
+  "last_updated": "2026-08-18T19:36:55.803054+00:00",
   "total_entries": 110,
-  "new_entries": 0,
+  "new_entries": 2,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,6 +768,18 @@
       "is_new": false
     },
     {
+      "id": "3fe859393c8d4d2a3b4973715f07d2ca",
+      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+      "description": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments",
+      "published": "2026-08-18T15:28:30-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "49346452",
       "title": "Show HN: Tracelint – a linter for AI agent traces, no LLM judge",
       "url": "https://github.com/AshwinUgale/tracelint",
@@ -934,7 +946,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 113,
-      "comments": 62,
+      "comments": 63,
       "is_new": false
     },
     {
@@ -1132,6 +1144,19 @@
       "is_new": false
     },
     {
+      "id": "f233fc43f55ebd87b06970e7f2810ef5",
+      "title": "Beyond Visual CoT: Internalized Visual Thinking for Proactive Video Reasoning",
+      "url": "https://huggingface.co/papers/2608.15869",
+      "description": "Multimodal large language models increasingly use visual chain-of-thought (Visual CoT) to reason about spatial, temporal, and embodied environments. By generating intermediate reasoning images, Visual",
+      "published": "2026-08-15T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
       "id": "aed7b5809c4617e3650ff7595e0f0b77",
       "title": "Large Discovery Models: Empirically-grounded Model-Based Open-Ended Search",
       "url": "https://huggingface.co/papers/2608.15669",
@@ -1141,7 +1166,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 47,
+      "likes": 48,
       "is_new": false
     },
     {
@@ -1223,7 +1248,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 30,
+      "likes": 45,
       "is_new": false
     },
     {
@@ -1236,7 +1261,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 37,
+      "likes": 38,
       "is_new": false
     },
     {
@@ -1250,31 +1275,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 0,
-      "is_new": false
-    },
-    {
-      "id": "0c49078743bd4d8b86101c710d8388af",
-      "title": "Gathered, Not Admitted: How Attention Brings a Latent Variable into Verbalizable Form",
-      "url": "https://huggingface.co/papers/2608.15022",
-      "description": "Language models hold latent quantities in a form they can report on, and more of a quantity is present in that form when the task requires reusing it flexibly. What causes a representation to enter th",
-      "published": "2026-08-14T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "1fc865a6bfa5a80d8289b9c64597af92",
-      "title": "Rogue AI aren’t science fiction anymore",
-      "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
-      "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET.",
-      "published": "2026-08-14T11:16:22-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
       "is_new": false
     },
     {
@@ -1534,6 +1534,18 @@
         "is_new": false
       },
       {
+        "id": "3fe859393c8d4d2a3b4973715f07d2ca",
+        "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+        "description": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments",
+        "published": "2026-08-18T15:28:30-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "49346452",
         "title": "Show HN: Tracelint – a linter for AI agent traces, no LLM judge",
         "url": "https://github.com/AshwinUgale/tracelint",
@@ -1645,20 +1657,6 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "49339427",
-        "title": "Prime Agent: A Self-Improving RLM Agent",
-        "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-        "description": "",
-        "published": "2026-08-18T00:05:41Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 4,
-        "comments": 0,
         "is_new": false
       }
     ],
