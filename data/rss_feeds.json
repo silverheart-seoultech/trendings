@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-19T01:37:25.663302+00:00",
+  "last_updated": "2026-08-19T01:50:22.711565+00:00",
   "total_entries": 110,
-  "new_entries": 12,
+  "new_entries": 1,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -57,7 +57,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "0bfb066bf07c5eb367bb46d8604e14e4",
@@ -789,7 +789,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3fe859393c8d4d2a3b4973715f07d2ca",
@@ -801,7 +801,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "49346452",
@@ -1004,7 +1004,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 44,
+      "likes": 45,
       "is_new": false
     },
     {
@@ -1018,19 +1018,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 0,
-      "is_new": false
-    },
-    {
-      "id": "75bc85f497bc9ad9612e8134f43ddbe0",
-      "title": "Drive, Pack, Fly: The Travelling Thief Problem with Drone",
-      "url": "https://huggingface.co/papers/2608.16435",
-      "description": "In collection operations, accumulating payload progressively slows the vehicle, imposing a cumulative penalty on routing efficiency. An onboard drone can offset this penalty by retrieving outlying ite",
-      "published": "2026-08-16T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
       "is_new": false
     },
     {
@@ -1062,6 +1049,19 @@
       "is_new": false
     },
     {
+      "id": "ae08764bd4cf7522ab8110428352d023",
+      "title": "Dynamic Multi-Byte Prediction With Hierarchical Language Models",
+      "url": "https://huggingface.co/papers/2608.15454",
+      "description": "Byte-level hierarchical language models (LMs) have recently emerged as a robust alternative to their popular counterparts that use subword tokenization. However, generating one byte at a time remains ",
+      "published": "2026-08-15T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "f233fc43f55ebd87b06970e7f2810ef5",
       "title": "Beyond Visual CoT: Internalized Visual Thinking for Proactive Video Reasoning",
       "url": "https://huggingface.co/papers/2608.15869",
@@ -1072,7 +1072,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "aed7b5809c4617e3650ff7595e0f0b77",
@@ -1152,7 +1152,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 142,
+      "likes": 145,
       "is_new": false
     },
     {
@@ -1289,7 +1289,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
+      "is_new": false
     }
   ],
   "by_category": {
@@ -1304,7 +1304,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "0bfb066bf07c5eb367bb46d8604e14e4",
@@ -1556,7 +1556,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "3fe859393c8d4d2a3b4973715f07d2ca",
@@ -1568,7 +1568,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "49346452",
