@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-19T18:41:41.978968+00:00",
+  "last_updated": "2026-08-19T18:50:44.140974+00:00",
   "total_entries": 110,
-  "new_entries": 12,
+  "new_entries": 1,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -48,6 +48,18 @@
   ],
   "entries": [
     {
+      "id": "5276b3d7b6156aa104e44db780290421",
+      "title": "Researchers complain that OpenAI revoked their access to limited cyber program",
+      "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+      "description": "Multiple cybersecurity researchers said they suddenly lost access to OpenAI’s Trusted Access for Cyber (TAC) program, which offers models with fewer guardrails for vetted users.",
+      "published": "Wed, 19 Aug 2026 18:46:14 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "da3d698d8f481d1c4264651d00714464",
       "title": "Meet the startup helping Wall Street put a price on AI compute",
       "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
@@ -57,7 +69,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "b7d34b8d601da5d5c3f7a9f53c78b419",
@@ -69,7 +81,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "655769ab72fd01b5bb1493d91a90cc8e",
@@ -81,7 +93,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "759443956e5c1c652fb209f79d9a7293",
@@ -93,7 +105,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "fe46527ac03090032b9bde84fc077acd",
@@ -684,18 +696,6 @@
       "is_new": false
     },
     {
-      "id": "7430ad56634d75f96ac27c8711820bbd",
-      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-      "description": "OpenRouter's CEO recently described the startup as Stripe for AI.",
-      "published": "Sun, 16 Aug 2026 20:57:04 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "de8e9b90f0043d51b71f228a8c6d6835",
       "title": "Anthropic’s annualized revenue surges to $65B",
       "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
@@ -777,9 +777,9 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 25,
+      "points": 28,
       "comments": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "49362305",
@@ -793,7 +793,7 @@
       "category": "news",
       "points": 5,
       "comments": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "49362047",
@@ -807,7 +807,7 @@
       "category": "news",
       "points": 5,
       "comments": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "49362042",
@@ -821,7 +821,7 @@
       "category": "news",
       "points": 1,
       "comments": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "b7c2fec452c0837e0d612b0071ed27d9",
@@ -833,7 +833,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "6edc2343165488ff44cd2aead6f697a0",
@@ -845,7 +845,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "49359526",
@@ -996,7 +996,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "03ef5331c20470375bf49e9c485f4d24",
@@ -1009,7 +1009,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "f7312c71143cb97dc900e02a60cd1138",
@@ -1288,12 +1288,24 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 93,
+      "likes": 94,
       "is_new": false
     }
   ],
   "by_category": {
     "news": [
+      {
+        "id": "5276b3d7b6156aa104e44db780290421",
+        "title": "Researchers complain that OpenAI revoked their access to limited cyber program",
+        "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+        "description": "Multiple cybersecurity researchers said they suddenly lost access to OpenAI’s Trusted Access for Cyber (TAC) program, which offers models with fewer guardrails for vetted users.",
+        "published": "Wed, 19 Aug 2026 18:46:14 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "da3d698d8f481d1c4264651d00714464",
         "title": "Meet the startup helping Wall Street put a price on AI compute",
@@ -1304,7 +1316,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "b7d34b8d601da5d5c3f7a9f53c78b419",
@@ -1316,7 +1328,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "655769ab72fd01b5bb1493d91a90cc8e",
@@ -1328,7 +1340,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "759443956e5c1c652fb209f79d9a7293",
@@ -1340,7 +1352,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "fe46527ac03090032b9bde84fc077acd",
@@ -1451,18 +1463,6 @@
         "is_new": false
       },
       {
-        "id": "7430ad56634d75f96ac27c8711820bbd",
-        "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-        "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-        "description": "OpenRouter's CEO recently described the startup as Stripe for AI.",
-        "published": "Sun, 16 Aug 2026 20:57:04 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
         "id": "de8e9b90f0043d51b71f228a8c6d6835",
         "title": "Anthropic’s annualized revenue surges to $65B",
         "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
@@ -1544,9 +1544,9 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 25,
+        "points": 28,
         "comments": 9,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "49362305",
@@ -1560,7 +1560,7 @@
         "category": "news",
         "points": 5,
         "comments": 8,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "49362047",
@@ -1574,7 +1574,7 @@
         "category": "news",
         "points": 5,
         "comments": 0,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "49362042",
@@ -1588,7 +1588,7 @@
         "category": "news",
         "points": 1,
         "comments": 1,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "b7c2fec452c0837e0d612b0071ed27d9",
@@ -1600,7 +1600,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "6edc2343165488ff44cd2aead6f697a0",
@@ -1612,7 +1612,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "49359526",
