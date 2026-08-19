@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-19T14:49:43.133663+00:00",
+  "last_updated": "2026-08-19T15:43:44.662620+00:00",
   "total_entries": 110,
-  "new_entries": 4,
+  "new_entries": 6,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,6 +47,18 @@
     }
   ],
   "entries": [
+    {
+      "id": "655769ab72fd01b5bb1493d91a90cc8e",
+      "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
+      "url": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
+      "description": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime.",
+      "published": "Wed, 19 Aug 2026 15:00:00 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "759443956e5c1c652fb209f79d9a7293",
       "title": "Calendly throws its hat into meeting note-taker circus",
@@ -684,18 +696,6 @@
       "is_new": false
     },
     {
-      "id": "a17d0cbb65ba7f318d2a56ec10b44891",
-      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-      "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-      "description": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
-      "published": "Sat, 15 Aug 2026 21:29:19 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "de8e9b90f0043d51b71f228a8c6d6835",
       "title": "Anthropic’s annualized revenue surges to $65B",
       "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
@@ -777,8 +777,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 1,
-      "comments": 0,
+      "points": 3,
+      "comments": 3,
       "is_new": true
     },
     {
@@ -791,7 +791,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 2,
+      "points": 5,
       "comments": 0,
       "is_new": true
     },
@@ -960,6 +960,19 @@
       "is_new": false
     },
     {
+      "id": "03ef5331c20470375bf49e9c485f4d24",
+      "title": "PTXBench: Benchmark and Adapt LLMs for GPU Kernel Optimization with Architecture-specific PTX",
+      "url": "https://huggingface.co/papers/2608.17379",
+      "description": "We introduce PTXBench, a benchmark for evaluating and adapting large language models (LLMs) to use architecture-specific PTX for GPU kernel optimization. PTXBench measures functional correctness, whet",
+      "published": "2026-08-17T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "f7312c71143cb97dc900e02a60cd1138",
       "title": "MoE-ViE: Mixture of Experts Vision Encoder for Efficient Image and Video Understanding",
       "url": "https://huggingface.co/papers/2608.17402",
@@ -1034,7 +1047,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 37,
+      "likes": 38,
       "is_new": false
     },
     {
@@ -1048,19 +1061,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 9,
-      "is_new": false
-    },
-    {
-      "id": "66119957e6f666c689808eb4ec4b9050",
-      "title": "GS-Voxel: Fitting-Free Structured Latents for Large-Scale 3DGS Generation",
-      "url": "https://huggingface.co/papers/2608.17988",
-      "description": "Many scalable latent 3D generators operate on structured tensors, whereas pre-optimized 3D Gaussian Splatting (3DGS) reconstructions are unordered, spatially irregular, and vary widely in primitive co",
-      "published": "2026-08-17T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
       "is_new": false
     },
     {
@@ -1087,7 +1087,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 116,
+      "points": 117,
       "comments": 67,
       "is_new": false
     },
@@ -1274,7 +1274,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 63,
+      "likes": 70,
       "is_new": false
     },
     {
@@ -1287,12 +1287,24 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 4,
       "is_new": false
     }
   ],
   "by_category": {
     "news": [
+      {
+        "id": "655769ab72fd01b5bb1493d91a90cc8e",
+        "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
+        "url": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
+        "description": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime.",
+        "published": "Wed, 19 Aug 2026 15:00:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "759443956e5c1c652fb209f79d9a7293",
         "title": "Calendly throws its hat into meeting note-taker circus",
@@ -1450,18 +1462,6 @@
         "is_new": false
       },
       {
-        "id": "a17d0cbb65ba7f318d2a56ec10b44891",
-        "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-        "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-        "description": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
-        "published": "Sat, 15 Aug 2026 21:29:19 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
         "id": "de8e9b90f0043d51b71f228a8c6d6835",
         "title": "Anthropic’s annualized revenue surges to $65B",
         "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
@@ -1543,8 +1543,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 1,
-        "comments": 0,
+        "points": 3,
+        "comments": 3,
         "is_new": true
       },
       {
@@ -1557,7 +1557,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 2,
+        "points": 5,
         "comments": 0,
         "is_new": true
       },
