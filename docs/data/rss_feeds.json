@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-19T13:54:47.281157+00:00",
+  "last_updated": "2026-08-19T14:49:43.133663+00:00",
   "total_entries": 110,
-  "new_entries": 0,
+  "new_entries": 4,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,6 +47,18 @@
     }
   ],
   "entries": [
+    {
+      "id": "759443956e5c1c652fb209f79d9a7293",
+      "title": "Calendly throws its hat into meeting note-taker circus",
+      "url": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
+      "description": "Calendly is also releasing a meeting scheduling assistant called Callie.",
+      "published": "Wed, 19 Aug 2026 14:09:39 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "fe46527ac03090032b9bde84fc077acd",
       "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
@@ -684,18 +696,6 @@
       "is_new": false
     },
     {
-      "id": "73cbb223a27a0a6dd5fe734f2eb53d41",
-      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-      "description": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
-      "published": "Sat, 15 Aug 2026 18:58:39 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "de8e9b90f0043d51b71f228a8c6d6835",
       "title": "Anthropic’s annualized revenue surges to $65B",
       "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
@@ -766,6 +766,48 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "49362305",
+      "title": "Ask HN: What's the endgame of the AI comments buried in every post?",
+      "url": "https://news.ycombinator.com/item?id=49362305",
+      "description": "",
+      "published": "2026-08-19T14:40:45Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "49362047",
+      "title": "Show HN: MCP app for Android, drive apps via AI (no root, PII redacted locally)",
+      "url": "https://github.com/danielealbano/android-remote-control-mcp/",
+      "description": "",
+      "published": "2026-08-19T14:23:13Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "49362042",
+      "title": "The Feedback Cap: Lehman's laws in the age of AI agents",
+      "url": "https://adaptivesoftware.substack.com/p/your-ab-tests-are-limiting-what-your",
+      "description": "",
+      "published": "2026-08-19T14:22:48Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 1,
+      "is_new": true
     },
     {
       "id": "49359526",
@@ -966,7 +1008,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 14,
+      "likes": 15,
       "is_new": false
     },
     {
@@ -1123,7 +1165,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 40,
+      "likes": 41,
       "is_new": false
     },
     {
@@ -1232,7 +1274,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 57,
+      "likes": 63,
       "is_new": false
     },
     {
@@ -1247,52 +1289,22 @@
       "category": "research",
       "likes": 3,
       "is_new": false
-    },
-    {
-      "id": "49287430",
-      "title": "Design with a Soul: How to make your Vibe-coded site not look like AI Slop",
-      "url": "https://news.ycombinator.com/item?id=49287430",
-      "description": "",
-      "published": "2026-08-13T15:25:00Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 3,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "49286364",
-      "title": "Show HN: An agent engine with no SDK, just TOML and webhooks",
-      "url": "https://substructure.ai/",
-      "description": "",
-      "published": "2026-08-13T14:19:00Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "49277842",
-      "title": "Show HN: Tried some experiments with architecture for Long term memory for LLM",
-      "url": "https://github.com/faisalhussain-devs/MindCache/tree/collapsed_tree",
-      "description": "",
-      "published": "2026-08-12T20:03:11Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 3,
-      "comments": 0,
-      "is_new": false
     }
   ],
   "by_category": {
     "news": [
+      {
+        "id": "759443956e5c1c652fb209f79d9a7293",
+        "title": "Calendly throws its hat into meeting note-taker circus",
+        "url": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
+        "description": "Calendly is also releasing a meeting scheduling assistant called Callie.",
+        "published": "Wed, 19 Aug 2026 14:09:39 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "fe46527ac03090032b9bde84fc077acd",
         "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
@@ -1450,18 +1462,6 @@
         "is_new": false
       },
       {
-        "id": "73cbb223a27a0a6dd5fe734f2eb53d41",
-        "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-        "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-        "description": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
-        "published": "Sat, 15 Aug 2026 18:58:39 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
         "id": "de8e9b90f0043d51b71f228a8c6d6835",
         "title": "Anthropic’s annualized revenue surges to $65B",
         "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
@@ -1532,6 +1532,48 @@
         "source_icon": "📰",
         "category": "news",
         "is_new": false
+      },
+      {
+        "id": "49362305",
+        "title": "Ask HN: What's the endgame of the AI comments buried in every post?",
+        "url": "https://news.ycombinator.com/item?id=49362305",
+        "description": "",
+        "published": "2026-08-19T14:40:45Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 1,
+        "comments": 0,
+        "is_new": true
+      },
+      {
+        "id": "49362047",
+        "title": "Show HN: MCP app for Android, drive apps via AI (no root, PII redacted locally)",
+        "url": "https://github.com/danielealbano/android-remote-control-mcp/",
+        "description": "",
+        "published": "2026-08-19T14:23:13Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 2,
+        "comments": 0,
+        "is_new": true
+      },
+      {
+        "id": "49362042",
+        "title": "The Feedback Cap: Lehman's laws in the age of AI agents",
+        "url": "https://adaptivesoftware.substack.com/p/your-ab-tests-are-limiting-what-your",
+        "description": "",
+        "published": "2026-08-19T14:22:48Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 1,
+        "comments": 1,
+        "is_new": true
       },
       {
         "id": "49359526",
@@ -1617,42 +1659,6 @@
         "url": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
         "description": "One of the best things my smart home does is help me care for my pets, and security cameras are particularly useful for keeping track of my many critters. But the barrage of notifications they send of",
         "published": "2026-08-18T14:00:52-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "8e365c2bc3dddaf13c17d563287e7fe1",
-        "title": "Elon Musk broke the FAA — Palantir is picking up the pieces",
-        "url": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
-        "description": "On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours. The outage disrupted more than 1,100 flights across the center's 330,000 square mile",
-        "published": "2026-08-18T11:44:25-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "c99c4fc90930e655ec7429fec0f4d373",
-        "title": "Firefox&#8217;s Smart Window promises a better AI browser",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
-        "description": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a partnership with Exa. Smart Window can also now aut",
-        "published": "2026-08-18T09:17:45-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "beb2473cc8f36c9be25fb59f1085a374",
-        "title": "ChatGPT is getting a dedicated mode for teens",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
-        "description": "OpenAI is introducing a dedicated ChatGPT mode for teenagers, combining existing youth safeguards and new safety features under one roof. The launch comes amid mounting public scrutiny over how AI too",
-        "published": "2026-08-18T07:29:53-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
