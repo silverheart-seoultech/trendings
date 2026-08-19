@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-19T03:08:40.468427+00:00",
+  "last_updated": "2026-08-19T03:55:43.215401+00:00",
   "total_entries": 110,
-  "new_entries": 11,
+  "new_entries": 17,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -890,6 +890,19 @@
       "is_new": false
     },
     {
+      "id": "aaf1f750eb2e6808d4fbaa36d0affefb",
+      "title": "Embodied-Navigator: Point, Think, Memorize, and Align for Efficient Navigation",
+      "url": "https://huggingface.co/papers/2608.17512",
+      "description": "Although Large Vision-Language Models (VLMs) have significantly advanced embodied navigation, their direct deployment remains challenging, as existing methods often force VLMs into unnatural action sp",
+      "published": "2026-08-17T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "7aca337b2888342ed8d6708926e5ad8e",
       "title": "From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation",
       "url": "https://huggingface.co/papers/2608.18076",
@@ -912,7 +925,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 2,
       "is_new": true
     },
     {
@@ -938,7 +951,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 9,
       "is_new": true
     },
     {
@@ -951,7 +964,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 4,
       "is_new": true
     },
     {
@@ -977,7 +990,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 2,
       "is_new": true
     },
     {
@@ -990,7 +1003,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 12,
       "is_new": true
     },
     {
@@ -1034,6 +1047,32 @@
       "is_new": false
     },
     {
+      "id": "caa408dbc1af18bb060c32923b750110",
+      "title": "Unifying Graph Neural Networks Through a Common Layer Equation",
+      "url": "https://huggingface.co/papers/2608.16097",
+      "description": "Graph neural networks are commonly described through family-specific equations whose notation obscures shared computations and structural differences. We introduce a common layer equation that represe",
+      "published": "2026-08-16T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "d46253432869c8d541e55eeb57c3ffb1",
+      "title": "FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution",
+      "url": "https://huggingface.co/papers/2608.16157",
+      "description": "Frontier open-weight models are increasingly available, but serving them still largely assumes datacenter infrastructure. We present FreeToken, an edge-native MoE serving system that treats a personal",
+      "published": "2026-08-16T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 27,
+      "is_new": true
+    },
+    {
       "id": "5abdb237be383ab865794d35fe7b2b92",
       "title": "From Sequence to Structure: Relational Uncertainty Propagation for LLM Agents",
       "url": "https://huggingface.co/papers/2608.16002",
@@ -1043,47 +1082,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 6,
       "is_new": true
-    },
-    {
-      "id": "46554d43da5c5b4773114760c6ab2501",
-      "title": "StreamOPD: A Post-Training Recipe with Spatio-Temporal Cue Gating for Streaming Video Understanding",
-      "url": "https://huggingface.co/papers/2608.16320",
-      "description": "Streaming video understanding demands direct responses from the causally observed prefix of an unfolding video. Existing systems add inference-time memory, retrieval, and compression, yet a training-f",
-      "published": "2026-08-16T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
-      "is_new": false
-    },
-    {
-      "id": "07ecfdfd17db5c86a7eacf915dd6911e",
-      "title": "Advancing Open and Reproducible Relational Learning: RelArena-α, TabPFN-Rel and RPI",
-      "url": "https://huggingface.co/papers/2608.16319",
-      "description": "This first release of Prior Labs in relational learning shows our continued commitment to open science. We open-source three pieces of software that we expect to accelerate research in the field towar",
-      "published": "2026-08-16T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 22,
-      "is_new": false
-    },
-    {
-      "id": "2548f9488f789f76bd7d0f951a65386d",
-      "title": "GRNEdit: Efficient General Video Editing from a New Binary-Evidence Perspective in Generative Refinement Networks",
-      "url": "https://huggingface.co/papers/2608.16328",
-      "description": "Instruction-based general video editing seeks to unify diverse editing operations within a single, intuitive interface. Existing approaches often rely on resource-intensive conditioning, using either ",
-      "published": "2026-08-16T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 13,
-      "is_new": false
     },
     {
       "id": "49317344",
@@ -1182,17 +1182,30 @@
       "is_new": false
     },
     {
-      "id": "ce6e74751d58a064c9a3c98b67b883e9",
-      "title": "StateM: Reaching 95.3% Raw Accuracy, or a \\$15 Frontier Run, on Terminal-Bench 2.1 via Harness Scaling",
-      "url": "https://huggingface.co/papers/2608.15089",
-      "description": "Long-horizon agents can fail even when their underlying models can solve the constituent steps. They may lose track of mutable state, fail to reactivate lessons from earlier executions, skip known pro",
+      "id": "56ace2e4a96af11a6afb2b3acd3e1908",
+      "title": "Harness the Memory: A Holistic Evaluation of Memory Substrates in Memory Agents",
+      "url": "https://huggingface.co/papers/2608.15008",
+      "description": "Memory is becoming core infrastructure for long-horizon LLM agents, yet existing evaluations offer limited guidance on which memory substrate, namely the underlying medium in which memory is represent",
       "published": "2026-08-14T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 167,
-      "is_new": false
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "ec5d31efc4ffdb6bb1cd124c5ee47699",
+      "title": "Personalized Auto-Research: Towards a True AI Co-Scientist",
+      "url": "https://huggingface.co/papers/2608.14881",
+      "description": "AI co-scientists that generate hypotheses, retrieve related work, design experiments, execute code, and draft full papers are beginning to change how research is carried out. Despite this rapid progre",
+      "published": "2026-08-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
     },
     {
       "id": "49287430",
@@ -1277,19 +1290,6 @@
       "points": 4,
       "comments": 4,
       "is_new": false
-    },
-    {
-      "id": "d09574e7d7a84c0c6d61ea8850b9cf08",
-      "title": "AVA-Encoder: Towards Agent-Native Video Representation Learning",
-      "url": "https://huggingface.co/papers/2608.12313",
-      "description": "Creative agents still lack an effective way to learn from high-quality human films, limiting their ability to produce cinematic-grade videos. A key challenge is the absence of a structured video repre",
-      "published": "2026-08-11T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 17,
-      "is_new": true
     }
   ],
   "by_category": {
