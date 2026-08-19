@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-19T07:50:43.685956+00:00",
+  "last_updated": "2026-08-19T08:51:40.867291+00:00",
   "total_entries": 110,
-  "new_entries": 2,
+  "new_entries": 6,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -890,6 +890,19 @@
       "is_new": false
     },
     {
+      "id": "f7312c71143cb97dc900e02a60cd1138",
+      "title": "MoE-ViE: Mixture of Experts Vision Encoder for Efficient Image and Video Understanding",
+      "url": "https://huggingface.co/papers/2608.17402",
+      "description": "Vision encoders are a critical component of vision-language models, and scaling their capacity effectively improves performance. However, dense scaling increases compute cost and inference latency. Mi",
+      "published": "2026-08-17T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "af6c68df1ae55ac900cca78f22b6e2a7",
       "title": "EDITBRIDGE: Towards Faithful and Efficient Ultra-High-Resolution Image Editing",
       "url": "https://huggingface.co/papers/2608.18063",
@@ -899,7 +912,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 13,
       "is_new": true
     },
     {
@@ -951,7 +964,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 29,
+      "likes": 32,
       "is_new": false
     },
     {
@@ -994,58 +1007,6 @@
       "is_new": false
     },
     {
-      "id": "4dfacf91b25328e1d0d1cc22c15958d0",
-      "title": "ASI-Bench: At the Dawn of Artificial Superintelligence",
-      "url": "https://huggingface.co/papers/2608.17271",
-      "description": "Artificial superintelligence (ASI) requires AI to move beyond mastering existing knowledge toward exploring the unknown, creating new knowledge, and turning new ideas into verifiable results. However,",
-      "published": "2026-08-17T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 38,
-      "is_new": false
-    },
-    {
-      "id": "29d8606fa6ddaccc60d58d90989d0177",
-      "title": "Abra: Scaling Diffusion Image Training",
-      "url": "https://huggingface.co/papers/2608.17286",
-      "description": "Compute-optimal scaling laws guide the training of frontier language models yet remain largely unexplored for visual generation. We present a systematic scaling law study for text-to-image diffusion m",
-      "published": "2026-08-17T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
-      "is_new": false
-    },
-    {
-      "id": "bc96cdca06f05ed5048ac35cb11a84d9",
-      "title": "StartupBench: Benchmarking General-Purpose Agents on Market-Validated End-to-End Workflows",
-      "url": "https://huggingface.co/papers/2608.17800",
-      "description": "Recent advances in Large Language Models(LLMs) and agents have substantially improved the ability of AI systems to execute complex tasks. Yet existing benchmarks largely rely on researcher-selected ta",
-      "published": "2026-08-17T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
-      "is_new": false
-    },
-    {
-      "id": "d628f02be653b0eff3cc3b6e229b81a2",
-      "title": "aDSL: Agentic 3D Creation via Joint Agent-Program Design",
-      "url": "https://huggingface.co/papers/2608.17975",
-      "description": "Programmatic representations provide a compelling paradigm for 3D content creation, enabling fine-grained edits, interpretability, and explicit structural control. Yet, agentic workflows that rely on ",
-      "published": "2026-08-17T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
       "id": "49335595",
       "title": "Show HN: HarnessRouter: Unified interface for agent harnesses",
       "url": "https://github.com/harnessrouter/harnessrouter",
@@ -1069,7 +1030,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 115,
+      "points": 116,
       "comments": 66,
       "is_new": false
     },
@@ -1086,6 +1047,32 @@
       "is_new": false
     },
     {
+      "id": "6ca7e83ae2a5dd542c1d1f8b5a651a6b",
+      "title": "DiSCO: Defending text-to-image generation through distribution-guided contrastive prompt optimization",
+      "url": "https://huggingface.co/papers/2608.17067",
+      "description": "As text-to-image generative models advance, they raise critical safety concerns, particularly the generation of Not-Safe-For-Work (NSFW) content such as violence and nudity, further exacerbated by red",
+      "published": "2026-08-16T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "88735976beeb8e5b1a8d6f05bc3cf0d3",
+      "title": "PixRestore: Unified Image Restoration via Pixel Diffusion Transformer",
+      "url": "https://huggingface.co/papers/2608.16793",
+      "description": "Unified image restoration (UIR) aims to recover high-quality (HQ) content from low-quality (LQ) images with different degradations using a single model. Most recent methods adapt large pretrained text",
+      "published": "2026-08-16T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "cd6677f085537744d14b259fa939ccf3",
       "title": "Cross-Model Memory Transfer via Target-Side Reader Adaptation",
       "url": "https://huggingface.co/papers/2608.17050",
@@ -1095,7 +1082,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": true
     },
     {
@@ -1121,7 +1108,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 36,
+      "likes": 37,
       "is_new": false
     },
     {
@@ -1219,6 +1206,19 @@
       "category": "research",
       "likes": 3,
       "is_new": false
+    },
+    {
+      "id": "1b1f86a4a11cb5041707cc21e0e046e3",
+      "title": "Demystifying Agent Skills: Why They Work-Until They Don't",
+      "url": "https://huggingface.co/papers/2608.14036",
+      "description": "Skills have emerged as a practical and effective approach for enhancing LLM agents at inference time through structured packages of knowledge. However, existing evaluations largely measure whether ski",
+      "published": "2026-08-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 20,
+      "is_new": true
     },
     {
       "id": "ec5d31efc4ffdb6bb1cd124c5ee47699",
