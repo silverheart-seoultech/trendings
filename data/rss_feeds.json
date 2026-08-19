@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-19T01:50:22.711565+00:00",
+  "last_updated": "2026-08-19T03:08:40.468427+00:00",
   "total_entries": 110,
-  "new_entries": 1,
+  "new_entries": 11,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -890,6 +890,110 @@
       "is_new": false
     },
     {
+      "id": "7aca337b2888342ed8d6708926e5ad8e",
+      "title": "From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation",
+      "url": "https://huggingface.co/papers/2608.18076",
+      "description": "Large-scale image generation has benefited from advances in data scale, quality, rebalancing, and recaptioning, yet conventional pipelines typically optimize task-specific datasets in isolation. A cen",
+      "published": "2026-08-17T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "66119957e6f666c689808eb4ec4b9050",
+      "title": "GS-Voxel: Fitting-Free Structured Latents for Large-Scale 3DGS Generation",
+      "url": "https://huggingface.co/papers/2608.17988",
+      "description": "Many scalable latent 3D generators operate on structured tensors, whereas pre-optimized 3D Gaussian Splatting (3DGS) reconstructions are unordered, spatially irregular, and vary widely in primitive co",
+      "published": "2026-08-17T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "d155528426eb29d2f2c62b7d38bce0d4",
+      "title": "Security Assessment of DeepSeek Harness with A.I.G: Evaluating Resistance to Indirect Prompt Injection",
+      "url": "https://huggingface.co/papers/2608.16393",
+      "description": "We assess indirect prompt injection in DeepSeek Harness (DSH), using AI-Infra-Guard (A.I.G) to construct tests, deliver controlled taint, execute DSH, collect traces, and judge outcomes. The study cov",
+      "published": "2026-08-17T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "4dfacf91b25328e1d0d1cc22c15958d0",
+      "title": "ASI-Bench: At the Dawn of Artificial Superintelligence",
+      "url": "https://huggingface.co/papers/2608.17271",
+      "description": "Artificial superintelligence (ASI) requires AI to move beyond mastering existing knowledge toward exploring the unknown, creating new knowledge, and turning new ideas into verifiable results. However,",
+      "published": "2026-08-17T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
+      "id": "29d8606fa6ddaccc60d58d90989d0177",
+      "title": "Abra: Scaling Diffusion Image Training",
+      "url": "https://huggingface.co/papers/2608.17286",
+      "description": "Compute-optimal scaling laws guide the training of frontier language models yet remain largely unexplored for visual generation. We present a systematic scaling law study for text-to-image diffusion m",
+      "published": "2026-08-17T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
+      "id": "bc96cdca06f05ed5048ac35cb11a84d9",
+      "title": "StartupBench: Benchmarking General-Purpose Agents on Market-Validated End-to-End Workflows",
+      "url": "https://huggingface.co/papers/2608.17800",
+      "description": "Recent advances in Large Language Models(LLMs) and agents have substantially improved the ability of AI systems to execute complex tasks. Yet existing benchmarks largely rely on researcher-selected ta",
+      "published": "2026-08-17T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "d628f02be653b0eff3cc3b6e229b81a2",
+      "title": "aDSL: Agentic 3D Creation via Joint Agent-Program Design",
+      "url": "https://huggingface.co/papers/2608.17975",
+      "description": "Programmatic representations provide a compelling paradigm for 3D content creation, enabling fine-grained edits, interpretability, and explicit structural control. Yet, agentic workflows that rely on ",
+      "published": "2026-08-17T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "cdcc7d75eba116a368eaf036469779d2",
+      "title": "Agentic ESOpt: Fine-Tuning Long-Horizon LLM Agents with Minimal GPU Requirements",
+      "url": "https://huggingface.co/papers/2608.17310",
+      "description": "Reinforcement Learning (RL) has been promising in single-turn LLM fine-tuning. However, long-horizon agentic reasoning introduces increasingly branching interactions and sparse rewards, exposing sever",
+      "published": "2026-08-17T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 9,
+      "is_new": true
+    },
+    {
       "id": "49335595",
       "title": "Show HN: HarnessRouter: Unified interface for agent harnesses",
       "url": "https://github.com/harnessrouter/harnessrouter",
@@ -928,6 +1032,19 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "5abdb237be383ab865794d35fe7b2b92",
+      "title": "From Sequence to Structure: Relational Uncertainty Propagation for LLM Agents",
+      "url": "https://huggingface.co/papers/2608.16002",
+      "description": "Reliable uncertainty quantification (UQ) is essential for deploying large language model (LLM) agents in complex interactive environments. Existing UQ methods largely rely on local signals, such as to",
+      "published": "2026-08-16T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
     },
     {
       "id": "46554d43da5c5b4773114760c6ab2501",
@@ -969,58 +1086,6 @@
       "is_new": false
     },
     {
-      "id": "5feaf42167d02a2cda75bbdacbc13a16",
-      "title": "A Plug-and-Play 2D Motion Interface for Real-World Motion Language Models",
-      "url": "https://huggingface.co/papers/2608.15984",
-      "description": "Motion Language Models (MoLMs) typically understand human motions by tokenizing 3D motion and processing the resulting tokens using a language model. However, obtaining accurate 3D motions from monocu",
-      "published": "2026-08-16T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "4466576c2505f15766d12106b4e3ae04",
-      "title": "TRACE-Bench: Decomposing and Diagnosing Multi-Reference Image Generation",
-      "url": "https://huggingface.co/papers/2608.16765",
-      "description": "Despite recent advances in unified multimodal models for multi-reference image generation, existing benchmarks remain organized around predefined task types (e.g., \"subject composition\"), which are il",
-      "published": "2026-08-16T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 9,
-      "is_new": false
-    },
-    {
-      "id": "ed78c767b5f4fe8dc6516d46748ee861",
-      "title": "Learn What's Left, Not What's Mastered: Saturation Aware Advantage Reweighting for Multi-Reward Policy Optimization",
-      "url": "https://huggingface.co/papers/2608.16072",
-      "description": "Reinforcement learning (RL) with group-relative advantages has become the de facto standard for post-training language model reasoners. However, when optimizing multiple reward objectives, existing me",
-      "published": "2026-08-16T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 45,
-      "is_new": false
-    },
-    {
-      "id": "247c7667ae470caa28ee1cbddf317164",
-      "title": "HiFi-BRep: High-Fidelity Latent Representation for Robust B-Rep Generation",
-      "url": "https://huggingface.co/papers/2608.16485",
-      "description": "Boundary representation (B-Rep) generation is a fundamental task in computer-aided design, yet the direct synthesis of high-fidelity and structurally valid B-Reps remains a major challenge. Existing d",
-      "published": "2026-08-16T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
-      "is_new": false
-    },
-    {
       "id": "49317344",
       "title": "Show HN: Spread – Real-Time New Zealand Supermarket Data via API and MCP",
       "url": "https://spread.butterup.app/",
@@ -1058,7 +1123,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": true
     },
     {
@@ -1071,33 +1136,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
-      "is_new": false
-    },
-    {
-      "id": "aed7b5809c4617e3650ff7595e0f0b77",
-      "title": "Large Discovery Models: Empirically-grounded Model-Based Open-Ended Search",
-      "url": "https://huggingface.co/papers/2608.15669",
-      "description": "Scientific discovery often involves optimising expensive-to-evaluate objectives over vast, structured, and open-ended hypothesis spaces, such as molecules, protein sequences, and computer programs. Ge",
-      "published": "2026-08-15T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 50,
-      "is_new": false
-    },
-    {
-      "id": "28df849db9f18fe22a3cd0de77b95d14",
-      "title": "WorldRover: A Scalable Synthetic Video Data Engine for World Exploration with Rich Annotations",
-      "url": "https://huggingface.co/papers/2608.15659",
-      "description": "Learning to generate or reconstruct explorable worlds requires video paired with more than RGB: camera motion, scene geometry, temporal correspondence and, for interactive models, control signals. Rea",
-      "published": "2026-08-15T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
+      "likes": 6,
       "is_new": false
     },
     {
@@ -1152,46 +1191,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 145,
-      "is_new": false
-    },
-    {
-      "id": "29bc06880cb3d0b01e26cb145ecf05d4",
-      "title": "MOSS-VL Technical Report",
-      "url": "https://huggingface.co/papers/2608.15045",
-      "description": "We present MOSS-VL, an open vision-language model family that treats real-time interaction -- perceiving while it speaks -- as a first-class capability. It is co-designed across the stack: the languag",
-      "published": "2026-08-14T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 38,
-      "is_new": false
-    },
-    {
-      "id": "5fe427087a8d5227c2da8b08dd40d85b",
-      "title": "Prototype-Rectified Iterative Self-supervised Manifold Denoising under Severe Acoustic Shift",
-      "url": "https://huggingface.co/papers/2608.15037",
-      "description": "Audio-Text Foundation Models (ATMs) fail catastrophically under severe acoustic noise, yet existing adaptation strategies either rely on gradient-based Test-Time Adaptation (TTA), which reinforces noi",
-      "published": "2026-08-14T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
-      "is_new": false
-    },
-    {
-      "id": "e395a0199b9258e3f723f8c15b100840",
-      "title": "How Do Agents Fail on AutoResearch: End-to-End Diagnostic Evaluation on 100 Real-World Frontier Research Tasks",
-      "url": "https://huggingface.co/papers/2608.14905",
-      "description": "AI has long assisted scientific research, but the rapid advance of LLMs and agentic scaffolds is reshaping the landscape; a single system can now carry whole-stage research from an initial hypothesis ",
-      "published": "2026-08-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 23,
+      "likes": 167,
       "is_new": false
     },
     {
@@ -1279,17 +1279,17 @@
       "is_new": false
     },
     {
-      "id": "adfc14900f6b677dec79a8b0b7b835ff",
-      "title": "Accuracy and Order Sensitivity Diverge Under Label-Free Strategies",
-      "url": "https://huggingface.co/papers/2608.11947",
-      "description": "Multiple-choice benchmarks are widely used to evaluate large language models, but MCQ scores conflate knowledge with sensitivity to option order, which makes them unreliable measures of model knowledg",
+      "id": "d09574e7d7a84c0c6d61ea8850b9cf08",
+      "title": "AVA-Encoder: Towards Agent-Native Video Representation Learning",
+      "url": "https://huggingface.co/papers/2608.12313",
+      "description": "Creative agents still lack an effective way to learn from high-quality human films, limiting their ability to produce cinematic-grade videos. A key challenge is the absence of a structured video repre",
       "published": "2026-08-11T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
-      "is_new": false
+      "likes": 17,
+      "is_new": true
     }
   ],
   "by_category": {
