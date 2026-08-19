@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-19T11:36:07.369479+00:00",
+  "last_updated": "2026-08-19T12:56:44.801876+00:00",
   "total_entries": 110,
-  "new_entries": 10,
+  "new_entries": 13,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,6 +47,18 @@
     }
   ],
   "entries": [
+    {
+      "id": "fe46527ac03090032b9bde84fc077acd",
+      "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
+      "url": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
+      "description": "It's the data, stupid.",
+      "published": "Wed, 19 Aug 2026 12:00:00 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "d205738f828cf73aafe6db5a1533a876",
       "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
@@ -684,18 +696,6 @@
       "is_new": false
     },
     {
-      "id": "e68ddcb8301126efa48080105110ba3c",
-      "title": "SpaceX officially closes its Cursor acquisition",
-      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-      "description": "AI coding startup Cursor is now officially a part of SpaceX.",
-      "published": "Sat, 15 Aug 2026 16:30:00 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "de8e9b90f0043d51b71f228a8c6d6835",
       "title": "Anthropic’s annualized revenue surges to $65B",
       "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
@@ -796,16 +796,16 @@
       "is_new": true
     },
     {
-      "id": "eb794a2fd02e47590d0826fb705d71a5",
-      "title": "OpenAI reportedly disbanded its preparedness team",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-      "description": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to miti",
-      "published": "2026-08-18T17:18:01-04:00",
+      "id": "c9300d6f9773535f36ffd367d058a9ad",
+      "title": "Nvidia’s new financial strategy does not compute",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
+      "description": "April - 1805 Napoleon is master of Europe Only the British fleet stands before him Compute is now an asset class I see it is once again time to talk financial innovation. Apollo, BlackRock, Blackstone",
+      "published": "2026-08-19T08:55:08-04:00",
       "source_id": "theverge-ai",
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "024315d82a76560fc64dec6c87c1c1fe",
@@ -940,7 +940,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 18,
+      "likes": 20,
       "is_new": true
     },
     {
@@ -979,7 +979,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
+      "likes": 7,
       "is_new": false
     },
     {
@@ -992,7 +992,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 36,
+      "likes": 37,
       "is_new": false
     },
     {
@@ -1013,19 +1013,6 @@
       "title": "GS-Voxel: Fitting-Free Structured Latents for Large-Scale 3DGS Generation",
       "url": "https://huggingface.co/papers/2608.17988",
       "description": "Many scalable latent 3D generators operate on structured tensors, whereas pre-optimized 3D Gaussian Splatting (3DGS) reconstructions are unordered, spatially irregular, and vary widely in primitive co",
-      "published": "2026-08-17T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "d155528426eb29d2f2c62b7d38bce0d4",
-      "title": "Security Assessment of DeepSeek Harness with A.I.G: Evaluating Resistance to Indirect Prompt Injection",
-      "url": "https://huggingface.co/papers/2608.16393",
-      "description": "We assess indirect prompt injection in DeepSeek Harness (DSH), using AI-Infra-Guard (A.I.G) to construct tests, deliver controlled taint, execute DSH, collect traces, and judge outcomes. The study cov",
       "published": "2026-08-17T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
@@ -1084,7 +1071,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 10,
+      "likes": 12,
       "is_new": true
     },
     {
@@ -1219,7 +1206,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 10,
+      "likes": 11,
       "is_new": false
     },
     {
@@ -1245,7 +1232,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 41,
+      "likes": 50,
       "is_new": true
     },
     {
@@ -1288,10 +1275,36 @@
       "points": 2,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "49277842",
+      "title": "Show HN: Tried some experiments with architecture for Long term memory for LLM",
+      "url": "https://github.com/faisalhussain-devs/MindCache/tree/collapsed_tree",
+      "description": "",
+      "published": "2026-08-12T20:03:11Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 3,
+      "comments": 0,
+      "is_new": false
     }
   ],
   "by_category": {
     "news": [
+      {
+        "id": "fe46527ac03090032b9bde84fc077acd",
+        "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
+        "url": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
+        "description": "It's the data, stupid.",
+        "published": "Wed, 19 Aug 2026 12:00:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "d205738f828cf73aafe6db5a1533a876",
         "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
@@ -1449,18 +1462,6 @@
         "is_new": false
       },
       {
-        "id": "e68ddcb8301126efa48080105110ba3c",
-        "title": "SpaceX officially closes its Cursor acquisition",
-        "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-        "description": "AI coding startup Cursor is now officially a part of SpaceX.",
-        "published": "Sat, 15 Aug 2026 16:30:00 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
         "id": "de8e9b90f0043d51b71f228a8c6d6835",
         "title": "Anthropic’s annualized revenue surges to $65B",
         "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
@@ -1561,16 +1562,16 @@
         "is_new": true
       },
       {
-        "id": "eb794a2fd02e47590d0826fb705d71a5",
-        "title": "OpenAI reportedly disbanded its preparedness team",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-        "description": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to miti",
-        "published": "2026-08-18T17:18:01-04:00",
+        "id": "c9300d6f9773535f36ffd367d058a9ad",
+        "title": "Nvidia’s new financial strategy does not compute",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
+        "description": "April - 1805 Napoleon is master of Europe Only the British fleet stands before him Compute is now an asset class I see it is once again time to talk financial innovation. Apollo, BlackRock, Blackstone",
+        "published": "2026-08-19T08:55:08-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
+        "is_new": true
       },
       {
         "id": "024315d82a76560fc64dec6c87c1c1fe",
