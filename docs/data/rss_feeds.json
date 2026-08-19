@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-19T07:02:20.111602+00:00",
+  "last_updated": "2026-08-19T07:50:43.685956+00:00",
   "total_entries": 110,
-  "new_entries": 0,
+  "new_entries": 2,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -890,6 +890,19 @@
       "is_new": false
     },
     {
+      "id": "af6c68df1ae55ac900cca78f22b6e2a7",
+      "title": "EDITBRIDGE: Towards Faithful and Efficient Ultra-High-Resolution Image Editing",
+      "url": "https://huggingface.co/papers/2608.18063",
+      "description": "High-resolution image editing is increasingly demanded in professional workflows, yet existing diffusion-based models remain constrained to resolutions below 1K due to quadratic attention complexity a",
+      "published": "2026-08-17T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 5,
+      "is_new": true
+    },
+    {
       "id": "9c7eb8021a3b5c7f22d821504f862e87",
       "title": "CoinVE-200K: A Large-Scale High-Quality Dataset for Compositional Instruction-Guided Video Editing",
       "url": "https://huggingface.co/papers/2608.17566",
@@ -899,7 +912,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 10,
       "is_new": false
     },
     {
@@ -912,7 +925,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 11,
+      "likes": 12,
       "is_new": false
     },
     {
@@ -938,7 +951,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 20,
+      "likes": 29,
       "is_new": false
     },
     {
@@ -977,7 +990,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -990,7 +1003,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 37,
+      "likes": 38,
       "is_new": false
     },
     {
@@ -1016,7 +1029,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -1030,19 +1043,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "cdcc7d75eba116a368eaf036469779d2",
-      "title": "Agentic ESOpt: Fine-Tuning Long-Horizon LLM Agents with Minimal GPU Requirements",
-      "url": "https://huggingface.co/papers/2608.17310",
-      "description": "Reinforcement Learning (RL) has been promising in single-turn LLM fine-tuning. However, long-horizon agentic reasoning introduces increasingly branching interactions and sparse rewards, exposing sever",
-      "published": "2026-08-17T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 24,
       "is_new": false
     },
     {
@@ -1086,6 +1086,19 @@
       "is_new": false
     },
     {
+      "id": "cd6677f085537744d14b259fa939ccf3",
+      "title": "Cross-Model Memory Transfer via Target-Side Reader Adaptation",
+      "url": "https://huggingface.co/papers/2608.17050",
+      "description": "Methods for improving knowledge use in large language models typically fall into two regimes. Non-parametric retrieval offers flexible access to external knowledge, but adds retrieval latency, context",
+      "published": "2026-08-16T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "caa408dbc1af18bb060c32923b750110",
       "title": "Unifying Graph Neural Networks Through a Common Layer Equation",
       "url": "https://huggingface.co/papers/2608.16097",
@@ -1108,20 +1121,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 34,
-      "is_new": false
-    },
-    {
-      "id": "5abdb237be383ab865794d35fe7b2b92",
-      "title": "From Sequence to Structure: Relational Uncertainty Propagation for LLM Agents",
-      "url": "https://huggingface.co/papers/2608.16002",
-      "description": "Reliable uncertainty quantification (UQ) is essential for deploying large language model (LLM) agents in complex interactive environments. Existing UQ methods largely rely on local signals, such as to",
-      "published": "2026-08-16T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 6,
+      "likes": 36,
       "is_new": false
     },
     {
@@ -1204,7 +1204,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 10,
       "is_new": false
     },
     {
@@ -1230,7 +1230,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": false
     },
     {
