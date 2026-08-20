@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-19T23:33:40.933633+00:00",
+  "last_updated": "2026-08-20T01:36:39.591538+00:00",
   "total_entries": 110,
-  "new_entries": 8,
+  "new_entries": 11,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -777,8 +777,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 47,
-      "comments": 14,
+      "points": 52,
+      "comments": 16,
       "is_new": false
     },
     {
@@ -803,7 +803,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 7,
+      "points": 8,
       "comments": 9,
       "is_new": false
     },
@@ -900,6 +900,32 @@
       "is_new": false
     },
     {
+      "id": "cc90c41a6cf6409f064250891f4aca34",
+      "title": "SkillForge: Self-Distilling Agents for Project-Specific Issue Resolution",
+      "url": "https://huggingface.co/papers/2608.18933",
+      "description": "Large language model (LLM) based agents have demonstrated remarkable proficiency in automated software issue resolution, yet they often struggle to resolve issues in a specific repository because they",
+      "published": "2026-08-18T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
+      "id": "7dc73ea5a171c2b4c1696028b27a0dfb",
+      "title": "FACET: Preserving Source Intent and Executable State in Terminal Task Synthesis",
+      "url": "https://huggingface.co/papers/2608.18580",
+      "description": "Training terminal agents requires scalable executable supervision, yet synthesizing high-quality terminal tasks remains challenging. Each task couples an instruction, an initialized environment, a ref",
+      "published": "2026-08-18T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "024315d82a76560fc64dec6c87c1c1fe",
       "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
       "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
@@ -948,6 +974,20 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "49345615",
+      "title": "Show HN: I gave every AI agent a way to create and publish artifacts",
+      "url": "https://docstash.ai/",
+      "description": "",
+      "published": "2026-08-18T13:49:35Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 3,
+      "comments": 0,
+      "is_new": true
     },
     {
       "id": "8e365c2bc3dddaf13c17d563287e7fe1",
@@ -1077,19 +1117,6 @@
       "is_new": false
     },
     {
-      "id": "aaf1f750eb2e6808d4fbaa36d0affefb",
-      "title": "Embodied-Navigator: Point, Think, Memorize, and Align for Efficient Navigation",
-      "url": "https://huggingface.co/papers/2608.17512",
-      "description": "Although Large Vision-Language Models (VLMs) have significantly advanced embodied navigation, their direct deployment remains challenging, as existing methods often force VLMs into unnatural action sp",
-      "published": "2026-08-17T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 44,
-      "is_new": false
-    },
-    {
       "id": "49335595",
       "title": "Show HN: HarnessRouter: Unified interface for agent harnesses",
       "url": "https://github.com/harnessrouter/harnessrouter",
@@ -1192,7 +1219,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 58,
+      "likes": 60,
       "is_new": false
     },
     {
@@ -1263,32 +1290,6 @@
       "category": "news",
       "points": 2,
       "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "56ace2e4a96af11a6afb2b3acd3e1908",
-      "title": "Harness the Memory: A Holistic Evaluation of Memory Substrates in Memory Agents",
-      "url": "https://huggingface.co/papers/2608.15008",
-      "description": "Memory is becoming core infrastructure for long-horizon LLM agents, yet existing evaluations offer limited guidance on which memory substrate, namely the underlying medium in which memory is represent",
-      "published": "2026-08-14T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 11,
-      "is_new": false
-    },
-    {
-      "id": "9a0c50d7577fc6553e2b721ae94b2fa5",
-      "title": "MathForm: Scaling Mathematical Autoformalization with Knowledge Retrieval and Verification-Guided Refinement",
-      "url": "https://huggingface.co/papers/2608.14221",
-      "description": "Autoformalization is commonly framed as translating natural-language mathematical statements into machine-verifiable formal languages such as Lean 4. However, faithful formalization requires more than",
-      "published": "2026-08-14T07:51:12.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 6,
       "is_new": false
     }
   ],
@@ -1544,8 +1545,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 47,
-        "comments": 14,
+        "points": 52,
+        "comments": 16,
         "is_new": false
       },
       {
@@ -1570,7 +1571,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 7,
+        "points": 8,
         "comments": 9,
         "is_new": false
       },
