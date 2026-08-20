@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-20T16:48:32.532461+00:00",
+  "last_updated": "2026-08-20T17:42:16.908810+00:00",
   "total_entries": 110,
-  "new_entries": 7,
+  "new_entries": 11,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -204,28 +204,28 @@
       "is_new": false
     },
     {
-      "id": "0bfb066bf07c5eb367bb46d8604e14e4",
-      "title": "OpenAI institutes new safeguards after Hugging Face breach",
-      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-      "description": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
-      "published": "Tue, 18 Aug 2026 18:00:00 +0000",
+      "id": "90eae5e4b71e5ca6b3281c2d72e30d8b",
+      "title": "Grok keeps sending gibberish responses to users",
+      "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
+      "description": "Affected users told TechCrunch say they were using Grok Lite, and noticed the issues as early as Wednesday morning.",
+      "published": "Thu, 20 Aug 2026 17:32:16 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": false
+      "is_new": true
     },
     {
-      "id": "506ef6f4e04268f7231b47f7b5ae18b5",
-      "title": "Etched’s valuation doubles to $21B in a month",
-      "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
-      "description": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
-      "published": "Tue, 18 Aug 2026 17:21:58 +0000",
+      "id": "072ab33f0182f13783841e8a0a9dd0d6",
+      "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+      "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+      "description": "ChatGPT and other AI models are now authoring and editing much of the new web.",
+      "published": "Thu, 20 Aug 2026 17:18:58 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "28cd1afbb67e577e7314b1f44dc3c68f",
@@ -950,6 +950,19 @@
       "is_new": false
     },
     {
+      "id": "0a83cce6c8fce56015f0e8559bab047c",
+      "title": "SPK: Eliciting Structured Prior Knowledge for Interpretable Out-of-Distribution Detection in Real-Time Object Detection",
+      "url": "https://huggingface.co/papers/2608.19080",
+      "description": "Object detectors often produce over-confident predictions for objects outside their training categories, leading to so-called out-of-distribution (OoD) hallucinations. Existing approaches for detectin",
+      "published": "2026-08-18T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "64bf72b771b37dbece35c1ab78459d2e",
       "title": "SkillGate: Training In-Policy Skill Selection in Long-Horizon Agents",
       "url": "https://huggingface.co/papers/2608.18852",
@@ -972,7 +985,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 79,
+      "likes": 80,
       "is_new": false
     },
     {
@@ -1050,7 +1063,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 12,
+      "likes": 13,
       "is_new": false
     },
     {
@@ -1144,32 +1157,6 @@
       "is_new": false
     },
     {
-      "id": "8e4785bdd2831f78d0189e058d73dc2e",
-      "title": "LEGO-RL: Harness-Native Reinforcement Learning for Coding Agents",
-      "url": "https://huggingface.co/papers/2608.17393",
-      "description": "Reinforcement learning for coding agents increasingly relies on long-running agent harnesses to manage tool integration, repository contexts, and execution feedback. However, the native execution envi",
-      "published": "2026-08-17T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 19,
-      "is_new": false
-    },
-    {
-      "id": "03ef5331c20470375bf49e9c485f4d24",
-      "title": "PTXBench: Benchmark and Adapt LLMs for GPU Kernel Optimization with Architecture-specific PTX",
-      "url": "https://huggingface.co/papers/2608.17379",
-      "description": "We introduce PTXBench, a benchmark for evaluating and adapting large language models (LLMs) to use architecture-specific PTX for GPU kernel optimization. PTXBench measures functional correctness, whet",
-      "published": "2026-08-17T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": true
-    },
-    {
       "id": "49335595",
       "title": "Show HN: HarnessRouter: Unified interface for agent harnesses",
       "url": "https://github.com/harnessrouter/harnessrouter",
@@ -1207,7 +1194,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 128,
+      "likes": 129,
       "is_new": false
     },
     {
@@ -1221,19 +1208,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 15,
-      "is_new": false
-    },
-    {
-      "id": "4192ce508e76edefc5699170babda1bd",
-      "title": "The Problem Is the Problem: Towards Scalable Mathematical Discovery",
-      "url": "https://huggingface.co/papers/2608.16977",
-      "description": "AI systems are increasingly capable of contributing to mathematical research. In research practice, frontier-model reasoning is a limited resource, and expert mathematical review is even more sharply ",
-      "published": "2026-08-16T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
       "is_new": false
     },
     {
@@ -1263,6 +1237,32 @@
       "points": 2,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "b9bd5f253225b5d22e88a7a326972e85",
+      "title": "LLMs Get Smarter from Targeted Synthetic Multilingual Data",
+      "url": "https://huggingface.co/papers/2608.15964",
+      "description": "Language-specific competency (LSC) is the phenomenon of a language model performing better or worse depending on the language of the prompt. In other words, a language model outputs different (and pot",
+      "published": "2026-08-15T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "2ba7fbce694aa189bb99f29766cc7ce8",
+      "title": "Bounded Agents: Delegation Security for Multi-Agent AI Systems",
+      "url": "https://huggingface.co/papers/2608.15888",
+      "description": "LLM-based agents can act on behalf of a user to access cloud services, call tools, or invoke agents. At session start, the agent's permissions are set but remain static, and each request is evaluated ",
+      "published": "2026-08-15T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
     },
     {
       "id": "49308095",
@@ -1452,28 +1452,28 @@
         "is_new": false
       },
       {
-        "id": "0bfb066bf07c5eb367bb46d8604e14e4",
-        "title": "OpenAI institutes new safeguards after Hugging Face breach",
-        "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-        "description": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
-        "published": "Tue, 18 Aug 2026 18:00:00 +0000",
+        "id": "90eae5e4b71e5ca6b3281c2d72e30d8b",
+        "title": "Grok keeps sending gibberish responses to users",
+        "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
+        "description": "Affected users told TechCrunch say they were using Grok Lite, and noticed the issues as early as Wednesday morning.",
+        "published": "Thu, 20 Aug 2026 17:32:16 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
+        "is_new": true
       },
       {
-        "id": "506ef6f4e04268f7231b47f7b5ae18b5",
-        "title": "Etched’s valuation doubles to $21B in a month",
-        "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
-        "description": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
-        "published": "Tue, 18 Aug 2026 17:21:58 +0000",
+        "id": "072ab33f0182f13783841e8a0a9dd0d6",
+        "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+        "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+        "description": "ChatGPT and other AI models are now authoring and editing much of the new web.",
+        "published": "Thu, 20 Aug 2026 17:18:58 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
+        "is_new": true
       },
       {
         "id": "28cd1afbb67e577e7314b1f44dc3c68f",
