@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-20T03:07:53.120676+00:00",
+  "last_updated": "2026-08-20T03:55:59.178578+00:00",
   "total_entries": 110,
-  "new_entries": 25,
+  "new_entries": 30,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -777,7 +777,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 54,
+      "points": 61,
       "comments": 17,
       "is_new": false
     },
@@ -803,7 +803,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 8,
+      "points": 9,
       "comments": 9,
       "is_new": false
     },
@@ -900,6 +900,32 @@
       "is_new": false
     },
     {
+      "id": "fd4467e25441d86e3ceba9c7f95486ef",
+      "title": "Decision-Metric Alignment in Latent World Models: Diagnostics and Action-Conditioned Objectives for MPC Planning",
+      "url": "https://huggingface.co/papers/2608.18746",
+      "description": "JEPA-style latent world models can use Euclidean distance to a goal latent as the cost for model-predictive control (MPC). Strong decoding of task variables, however, does not guarantee that this part",
+      "published": "2026-08-18T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "6164b84cc4933cbc72273137ab63edac",
+      "title": "SoftVTBench: A Deformation-Aware Visuo-Tactile Dataset and Benchmark for Deformable-Object Manipulation",
+      "url": "https://huggingface.co/papers/2608.18701",
+      "description": "Physical interaction quality is central to deformable-object manipulation, yet most benchmarks evaluate task success alone. A policy may complete the task while allowing slip or causing excessive comp",
+      "published": "2026-08-18T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "300ed7592c48dc82099751d6b91e68af",
       "title": "Training Chemical Plausibility-Aware Large Language Models for Single-Step Retrosynthesis",
       "url": "https://huggingface.co/papers/2608.18940",
@@ -922,7 +948,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 7,
       "is_new": true
     },
     {
@@ -935,7 +961,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": true
     },
     {
@@ -961,7 +987,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 8,
       "is_new": false
     },
     {
@@ -1078,6 +1104,19 @@
       "is_new": false
     },
     {
+      "id": "dce23f13c970af91b665f44a41ba1993",
+      "title": "SemComp-Bench: Benchmarking Semantic Task Completion in Video Generation",
+      "url": "https://huggingface.co/papers/2608.17426",
+      "description": "We introduce Semantic Task Completion Video Generation, an outcome-oriented video generation task. Under this formulation, success requires both achievement of the intended outcome and semantic ground",
+      "published": "2026-08-17T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 19,
+      "is_new": true
+    },
+    {
       "id": "8e4785bdd2831f78d0189e058d73dc2e",
       "title": "LEGO-RL: Harness-Native Reinforcement Learning for Coding Agents",
       "url": "https://huggingface.co/papers/2608.17393",
@@ -1087,7 +1126,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 10,
+      "likes": 13,
       "is_new": false
     },
     {
@@ -1117,32 +1156,6 @@
       "is_new": false
     },
     {
-      "id": "af6c68df1ae55ac900cca78f22b6e2a7",
-      "title": "EDITBRIDGE: Towards Faithful and Efficient Ultra-High-Resolution Image Editing",
-      "url": "https://huggingface.co/papers/2608.18063",
-      "description": "High-resolution image editing is increasingly demanded in professional workflows, yet existing diffusion-based models remain constrained to resolutions below 1K due to quadratic attention complexity a",
-      "published": "2026-08-17T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 21,
-      "is_new": false
-    },
-    {
-      "id": "9c7eb8021a3b5c7f22d821504f862e87",
-      "title": "CoinVE-200K: A Large-Scale High-Quality Dataset for Compositional Instruction-Guided Video Editing",
-      "url": "https://huggingface.co/papers/2608.17566",
-      "description": "The quality and diversity of instruction-based video editing datasets are steadily improving, yet existing datasets mainly focus on single editing operations and fall short in supporting compositional",
-      "published": "2026-08-17T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 13,
-      "is_new": false
-    },
-    {
       "id": "49335595",
       "title": "Show HN: HarnessRouter: Unified interface for agent harnesses",
       "url": "https://github.com/harnessrouter/harnessrouter",
@@ -1152,7 +1165,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 9,
+      "points": 10,
       "comments": 14,
       "is_new": false
     },
@@ -1167,8 +1180,21 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 117,
-      "comments": 67,
+      "comments": 68,
       "is_new": false
+    },
+    {
+      "id": "cc5a0959c8fe5dbf8c9fa8420eb02c1b",
+      "title": "Zetta ζ: An Efficient Closed-Loop Embodied Harness for Self-Evolving Physical Intelligence",
+      "url": "https://huggingface.co/papers/2608.16590",
+      "description": "Embodied agents are increasingly used to close the gap left by end-to-end policy models. Yet the agentic path has not realized closed-loop learning in physical execution: existing harnesses remain lar",
+      "published": "2026-08-16T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
     },
     {
       "id": "52c853cb0fd5cb533424cd97de104d97",
@@ -1223,19 +1249,6 @@
       "is_new": false
     },
     {
-      "id": "cd6677f085537744d14b259fa939ccf3",
-      "title": "Cross-Model Memory Transfer via Target-Side Reader Adaptation",
-      "url": "https://huggingface.co/papers/2608.17050",
-      "description": "Methods for improving knowledge use in large language models typically fall into two regimes. Non-parametric retrieval offers flexible access to external knowledge, but adds retrieval latency, context",
-      "published": "2026-08-16T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
-      "is_new": false
-    },
-    {
       "id": "49317344",
       "title": "Show HN: Spread – Real-Time New Zealand Supermarket Data via API and MCP",
       "url": "https://spread.butterup.app/",
@@ -1269,20 +1282,6 @@
       "url": "https://riffn.io/how-riffn-works/",
       "description": "",
       "published": "2026-08-15T06:05:09Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "49308031",
-      "title": "Choosing the Right Database for AI Agents: LLM Generated SQL",
-      "url": "https://predictabledialogs.com/learn/ai-stack/choosing-database-configurable-ai-agents",
-      "description": "",
-      "published": "2026-08-15T05:53:34Z",
       "source_id": "hn-ai",
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
@@ -1544,7 +1543,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 54,
+        "points": 61,
         "comments": 17,
         "is_new": false
       },
@@ -1570,7 +1569,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 8,
+        "points": 9,
         "comments": 9,
         "is_new": false
       },
