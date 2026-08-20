@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-20T01:48:35.741184+00:00",
+  "last_updated": "2026-08-20T03:07:53.120676+00:00",
   "total_entries": 110,
-  "new_entries": 20,
+  "new_entries": 25,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -777,8 +777,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 52,
-      "comments": 16,
+      "points": 54,
+      "comments": 17,
       "is_new": false
     },
     {
@@ -900,6 +900,58 @@
       "is_new": false
     },
     {
+      "id": "300ed7592c48dc82099751d6b91e68af",
+      "title": "Training Chemical Plausibility-Aware Large Language Models for Single-Step Retrosynthesis",
+      "url": "https://huggingface.co/papers/2608.18940",
+      "description": "Single-step retrosynthesis is a central component of computer-aided synthesis planning, yet its intrinsically one-to-many nature is poorly captured by single-answer evaluation and benchmarking protoco",
+      "published": "2026-08-18T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "4dab25ff92874cb1b9bbc5814678ac97",
+      "title": "SemaPLC: A Project-Grounded, Verification-Gated Agent Harness for PLC Code Generation",
+      "url": "https://huggingface.co/papers/2608.18565",
+      "description": "Programmable logic controllers (PLCs) run industrial plants, and large language models can already generate independent program organization units (POUs) for them. Whether such logic integrates into a",
+      "published": "2026-08-18T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 5,
+      "is_new": true
+    },
+    {
+      "id": "c2c13263ad5242b772945804684cd567",
+      "title": "SPADE: Self-Play in Adaptive Synthetic Executable Environments",
+      "url": "https://huggingface.co/papers/2608.19197",
+      "description": "Continuous self-improvement requires an ever-expanding pool of self-generated, diverse, adaptive goals. For language agents, existing training environment pools (hand-curated, statically synthesized, ",
+      "published": "2026-08-18T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "22d1a754ea6521308e5a6423f5d84160",
+      "title": "FM-Bench: A Benchmark for Long-Horizon Management with Competing Agents",
+      "url": "https://huggingface.co/papers/2608.18423",
+      "description": "Language model agents now execute bounded tasks reliably. Whether they can sustain effective decision-making over long horizons, where actions have cumulative consequences and the environment responds",
+      "published": "2026-08-18T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "cc90c41a6cf6409f064250891f4aca34",
       "title": "SkillForge: Self-Distilling Agents for Project-Specific Issue Resolution",
       "url": "https://huggingface.co/papers/2608.18933",
@@ -909,7 +961,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -1035,7 +1087,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 10,
       "is_new": false
     },
     {
@@ -1091,32 +1143,6 @@
       "is_new": false
     },
     {
-      "id": "92361aec2597681afe9e20740358a5bd",
-      "title": "Agent Lightning v1.0: Towards Harnessed Agentic RL",
-      "url": "https://huggingface.co/papers/2608.17528",
-      "description": "Modern agents operate inside agent harnesses that manage tools, context, and control flow, making the harness a critical part of the agent system. Our original Agent Lightning introduced a disaggregat",
-      "published": "2026-08-17T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 16,
-      "is_new": false
-    },
-    {
-      "id": "d2227cec8e48a344778f4fa4186054f7",
-      "title": "HarnessRisk: A Lifecycle-Oriented Benchmark for Agent Harness Safety",
-      "url": "https://huggingface.co/papers/2608.17597",
-      "description": "Large language models are increasingly deployed through agent harnesses that manage tools, extensions, persistent state, permissions, and external actions. Existing safety benchmarks mainly target ind",
-      "published": "2026-08-17T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 7,
-      "is_new": false
-    },
-    {
       "id": "49335595",
       "title": "Show HN: HarnessRouter: Unified interface for agent harnesses",
       "url": "https://github.com/harnessrouter/harnessrouter",
@@ -1143,6 +1169,19 @@
       "points": 117,
       "comments": 67,
       "is_new": false
+    },
+    {
+      "id": "52c853cb0fd5cb533424cd97de104d97",
+      "title": "Looped Language Models Improve Compositional Tool Calling",
+      "url": "https://huggingface.co/papers/2608.18171",
+      "description": "Looped language models have shown promising results on reasoning benchmarks, yet their potential for agentic tool use remains largely unexplored. We study this question in compositional tool-calling s",
+      "published": "2026-08-16T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
     },
     {
       "id": "4192ce508e76edefc5699170babda1bd",
@@ -1197,32 +1236,6 @@
       "is_new": false
     },
     {
-      "id": "caa408dbc1af18bb060c32923b750110",
-      "title": "Unifying Graph Neural Networks Through a Common Layer Equation",
-      "url": "https://huggingface.co/papers/2608.16097",
-      "description": "Graph neural networks are commonly described through family-specific equations whose notation obscures shared computations and structural differences. We introduce a common layer equation that represe",
-      "published": "2026-08-16T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "d46253432869c8d541e55eeb57c3ffb1",
-      "title": "FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution",
-      "url": "https://huggingface.co/papers/2608.16157",
-      "description": "Frontier open-weight models are increasingly available, but serving them still largely assumes datacenter infrastructure. We present FreeToken, an edge-native MoE serving system that treats a personal",
-      "published": "2026-08-16T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 60,
-      "is_new": false
-    },
-    {
       "id": "49317344",
       "title": "Show HN: Spread – Real-Time New Zealand Supermarket Data via API and MCP",
       "url": "https://spread.butterup.app/",
@@ -1270,20 +1283,6 @@
       "url": "https://predictabledialogs.com/learn/ai-stack/choosing-database-configurable-ai-agents",
       "description": "",
       "published": "2026-08-15T05:53:34Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "49305190",
-      "title": "Show HN: I built a Claude Code plugin to query 10.6M earnings-call embeddings",
-      "url": "https://fn2.ai/claude",
-      "description": "",
-      "published": "2026-08-14T22:09:36Z",
       "source_id": "hn-ai",
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
@@ -1545,8 +1544,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 52,
-        "comments": 16,
+        "points": 54,
+        "comments": 17,
         "is_new": false
       },
       {
