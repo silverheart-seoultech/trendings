@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-21T13:07:38.093585+00:00",
+  "last_updated": "2026-08-21T13:55:25.269768+00:00",
   "total_entries": 110,
-  "new_entries": 0,
+  "new_entries": 4,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,6 +768,18 @@
       "is_new": false
     },
     {
+      "id": "9cbe86a700782f00e60545a6f02d5d06",
+      "title": "Major YouTube creators are facing backlash for accepting AI money",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+      "description": "Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" Kolder have posted videos of themselves demonstrating what's possible with AI platform",
+      "published": "2026-08-21T09:43:34-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "49381588",
       "title": "We replaced our 223-node agent graph with a single open-source LLM",
       "url": "https://www.netic.ai/replacing-node-agent-graph-with-open-source-llm",
@@ -805,8 +817,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 338,
-      "comments": 192,
+      "points": 343,
+      "comments": 196,
       "is_new": false
     },
     {
@@ -871,6 +883,32 @@
       "is_new": false
     },
     {
+      "id": "c01fbe91b12ce4892f9a8bd32cea490b",
+      "title": "GOAG: Generative and Object-Agnostic Grasp Planner for Dexterous Robotic Manipulation",
+      "url": "https://huggingface.co/papers/2608.19759",
+      "description": "Multifingered grasping is a crucial robotic skill, but current deep-learning grasp planners often struggle to generalize to new objects because they are trained on limited, object-specific datasets. W",
+      "published": "2026-08-19T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "4a80acb9691a231ee3c5a9a1a7d2a48d",
+      "title": "CoToGrasp: Contact-Topology-Conditioned Dexterous Grasp Synthesis via Canonical Workspace Learning",
+      "url": "https://huggingface.co/papers/2608.19776",
+      "description": "Current dexterous grasp planners primarily optimize for physical stability, focusing on whether an object can be grasped rather than how it should be grasped to support downstream functional tasks. Ho",
+      "published": "2026-08-19T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "166f176864a615300b779508d2c5c4b1",
       "title": "Listening Forward: Next Patch Embedding Prediction Enables Scalable Audio Learners",
       "url": "https://huggingface.co/papers/2608.19863",
@@ -906,7 +944,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 46,
+      "likes": 47,
       "is_new": false
     },
     {
@@ -945,7 +983,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 43,
+      "likes": 44,
       "is_new": false
     },
     {
@@ -971,7 +1009,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 32,
+      "likes": 33,
       "is_new": false
     },
     {
@@ -984,7 +1022,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 214,
+      "likes": 215,
       "is_new": false
     },
     {
@@ -998,19 +1036,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "fb7d36f25a6e45a65dda5358fb4f5e2b",
-      "title": "PolicyGuide: From Guarding One Action to Guiding the Whole Workflow for Policy-Compliant LLM Agents",
-      "url": "https://huggingface.co/papers/2608.19861",
-      "description": "Customer-service LLM agents must follow organizational policy when acting on a user's behalf. Compliance failures arise from either forbidden actions, such as granting an ineligible change, or omitted",
-      "published": "2026-08-19T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
       "is_new": false
     },
     {
@@ -1049,7 +1074,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 16,
+      "points": 17,
       "comments": 13,
       "is_new": false
     },
@@ -1155,20 +1180,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 82,
-      "is_new": false
-    },
-    {
-      "id": "0b9d4fad36cdcb969c52d9250dd60267",
-      "title": "VA-Judger: Reward Modeling from Human Preference Feedback for Joint Video-Audio Generation",
-      "url": "https://huggingface.co/papers/2608.18607",
-      "description": "Using reinforcement learning to post-train joint video-audio generation models requires a reward signal. Existing methods construct this reward by combining metrics for individual quality dimensions, ",
-      "published": "2026-08-18T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 9,
+      "likes": 99,
       "is_new": false
     },
     {
@@ -1177,18 +1189,6 @@
       "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
       "description": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Z",
       "published": "2026-08-18T15:48:26-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "3fe859393c8d4d2a3b4973715f07d2ca",
-      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
-      "description": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments",
-      "published": "2026-08-18T15:28:30-04:00",
       "source_id": "theverge-ai",
       "source_name": "The Verge AI",
       "source_icon": "📰",
@@ -1236,19 +1236,6 @@
       "is_new": false
     },
     {
-      "id": "5cd6ee3208014e4dab2db7ee9cafe5bd",
-      "title": "Evaluating Music Context Preservation: A Multi-facet Framework for Music Editing Systems",
-      "url": "https://huggingface.co/papers/2512.14629",
-      "description": "Music editing plays a vital role in modern music production, with applications in film, broadcasting, and game development. Recent advances in music editing systems have enabled diverse editing tasks ",
-      "published": "2026-08-17T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
       "id": "49335595",
       "title": "Show HN: HarnessRouter: Unified interface for agent harnesses",
       "url": "https://github.com/harnessrouter/harnessrouter",
@@ -1287,6 +1274,20 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 1,
+      "comments": 0,
+      "is_new": false
+    },
+    {
+      "id": "49314841",
+      "title": "Sentinel Scan: an authorized LLM red-team audit, run by an AI agent",
+      "url": "https://fbirds5230.github.io/sentinel-scan/",
+      "description": "",
+      "published": "2026-08-15T22:23:10Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
       "comments": 0,
       "is_new": false
     }
@@ -1534,6 +1535,18 @@
         "is_new": false
       },
       {
+        "id": "9cbe86a700782f00e60545a6f02d5d06",
+        "title": "Major YouTube creators are facing backlash for accepting AI money",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+        "description": "Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" Kolder have posted videos of themselves demonstrating what's possible with AI platform",
+        "published": "2026-08-21T09:43:34-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "49381588",
         "title": "We replaced our 223-node agent graph with a single open-source LLM",
         "url": "https://www.netic.ai/replacing-node-agent-graph-with-open-source-llm",
@@ -1571,8 +1584,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 338,
-        "comments": 192,
+        "points": 343,
+        "comments": 196,
         "is_new": false
       },
       {
@@ -1647,20 +1660,6 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "49362305",
-        "title": "Ask HN: What's the endgame of the AI comments buried in every post?",
-        "url": "https://news.ycombinator.com/item?id=49362305",
-        "description": "",
-        "published": "2026-08-19T14:40:45Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 16,
-        "comments": 13,
         "is_new": false
       }
     ],
