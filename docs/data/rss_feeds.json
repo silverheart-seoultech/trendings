@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-21T01:55:02.837253+00:00",
+  "last_updated": "2026-08-21T03:13:38.329384+00:00",
   "total_entries": 110,
-  "new_entries": 23,
+  "new_entries": 30,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -777,7 +777,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 1,
+      "points": 2,
       "comments": 0,
       "is_new": false
     },
@@ -805,8 +805,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 222,
-      "comments": 126,
+      "points": 230,
+      "comments": 134,
       "is_new": false
     },
     {
@@ -858,6 +858,71 @@
       "is_new": false
     },
     {
+      "id": "bb2f27f90e09d828b044d0c171ce4c6d",
+      "title": "Repo0: Design-Driven Zero-to-All Code Generation",
+      "url": "https://huggingface.co/papers/2608.19854",
+      "description": "Large language model agents have made substantial progress in code generation, yet most existing systems assume a predefined repository architecture. This assumption does not hold in zero-to-all code ",
+      "published": "2026-08-19T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
+      "id": "bdfc277418c46976a0feb987ce44fb02",
+      "title": "Inject, Align, Recover: Staged Post-Training for Retrieval-Free Document Knowledge Internalization",
+      "url": "https://huggingface.co/papers/2608.20281",
+      "description": "Large language models often fail to answer questions about a bounded document collection when the source documents are not retrieved at inference time. We study this setting as document knowledge inte",
+      "published": "2026-08-19T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "3755ad1a151ba8a12d35f4590179c149",
+      "title": "4DAnyone: Create Anyone in 4D from a Casual Monocular Video",
+      "url": "https://huggingface.co/papers/2608.20335",
+      "description": "We present 4DAnyone, a framework for reconstructing 4D humans from an uncalibrated monocular video by generating reconstruction-grade multiview-consistent videos and lifting them into 4D Gaussian Spla",
+      "published": "2026-08-19T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 19,
+      "is_new": true
+    },
+    {
+      "id": "5076c2d6deda47279e54d5fe8f5de2d5",
+      "title": "MemTrapBench: Benchmarking Cognitive Traps in LLM Memory Use",
+      "url": "https://huggingface.co/papers/2608.20202",
+      "description": "Memory has become a key component of large language models, enabling them to retain information and learn from long-term interactions. However, existing memory benchmarks mainly evaluate whether infor",
+      "published": "2026-08-19T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 10,
+      "is_new": true
+    },
+    {
+      "id": "5074153d214f556af9baa520e0204914",
+      "title": "WithEveryone: Unified Planning and Identity Grounding for Group Image Generation",
+      "url": "https://huggingface.co/papers/2608.20336",
+      "description": "Identity-preserving image generation becomes increasingly unreliable when a scene must contain many specified people. Beyond retaining each identity, the model must bind every reference to a distinct ",
+      "published": "2026-08-19T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 12,
+      "is_new": true
+    },
+    {
       "id": "95496eb91b1ce9da7ece53a41328ea79",
       "title": "EnvHarness: Awakening Static Worlds for Agent Learning",
       "url": "https://huggingface.co/papers/2608.19880",
@@ -867,7 +932,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 35,
       "is_new": true
     },
     {
@@ -893,7 +958,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": true
     },
     {
@@ -1029,6 +1094,19 @@
       "is_new": false
     },
     {
+      "id": "7dc73ea5a171c2b4c1696028b27a0dfb",
+      "title": "FACET: Preserving Source Intent and Executable State in Terminal Task Synthesis",
+      "url": "https://huggingface.co/papers/2608.18580",
+      "description": "Training terminal agents requires scalable executable supervision, yet synthesizing high-quality terminal tasks remains challenging. Each task couples an instruction, an initialized environment, a ref",
+      "published": "2026-08-18T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 15,
+      "is_new": true
+    },
+    {
       "id": "0b9d4fad36cdcb969c52d9250dd60267",
       "title": "VA-Judger: Reward Modeling from Human Preference Feedback for Joint Video-Audio Generation",
       "url": "https://huggingface.co/papers/2608.18607",
@@ -1038,7 +1116,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 8,
       "is_new": false
     },
     {
@@ -1078,32 +1156,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 86,
-      "is_new": false
-    },
-    {
-      "id": "fd4467e25441d86e3ceba9c7f95486ef",
-      "title": "Decision-Metric Alignment in Latent World Models: Diagnostics and Action-Conditioned Objectives for MPC Planning",
-      "url": "https://huggingface.co/papers/2608.18746",
-      "description": "JEPA-style latent world models can use Euclidean distance to a goal latent as the cost for model-predictive control (MPC). Strong decoding of task variables, however, does not guarantee that this part",
-      "published": "2026-08-18T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 15,
-      "is_new": false
-    },
-    {
-      "id": "6164b84cc4933cbc72273137ab63edac",
-      "title": "SoftVTBench: A Deformation-Aware Visuo-Tactile Dataset and Benchmark for Deformable-Object Manipulation",
-      "url": "https://huggingface.co/papers/2608.18701",
-      "description": "Physical interaction quality is central to deformable-object manipulation, yet most benchmarks evaluate task success alone. A policy may complete the task while allowing slip or causing excessive comp",
-      "published": "2026-08-18T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 12,
       "is_new": false
     },
     {
@@ -1158,19 +1210,6 @@
       "is_new": false
     },
     {
-      "id": "dce23f13c970af91b665f44a41ba1993",
-      "title": "SemComp-Bench: Benchmarking Semantic Task Completion in Video Generation",
-      "url": "https://huggingface.co/papers/2608.17426",
-      "description": "We introduce Semantic Task Completion Video Generation, an outcome-oriented video generation task. Under this formulation, success requires both achievement of the intended outcome and semantic ground",
-      "published": "2026-08-17T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 153,
-      "is_new": false
-    },
-    {
       "id": "49335595",
       "title": "Show HN: HarnessRouter: Unified interface for agent harnesses",
       "url": "https://github.com/harnessrouter/harnessrouter",
@@ -1212,19 +1251,6 @@
       "is_new": false
     },
     {
-      "id": "cc5a0959c8fe5dbf8c9fa8420eb02c1b",
-      "title": "Zetta ζ: An Efficient Closed-Loop Embodied Harness for Self-Evolving Physical Intelligence",
-      "url": "https://huggingface.co/papers/2608.16590",
-      "description": "Embodied agents are increasingly used to close the gap left by end-to-end policy models. Yet the agentic path has not realized closed-loop learning in physical execution: existing harnesses remain lar",
-      "published": "2026-08-16T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 130,
-      "is_new": false
-    },
-    {
       "id": "49317344",
       "title": "Show HN: Spread – Real-Time New Zealand Supermarket Data via API and MCP",
       "url": "https://spread.butterup.app/",
@@ -1263,33 +1289,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "2ba7fbce694aa189bb99f29766cc7ce8",
-      "title": "Bounded Agents: Delegation Security for Multi-Agent AI Systems",
-      "url": "https://huggingface.co/papers/2608.15888",
-      "description": "LLM-based agents can act on behalf of a user to access cloud services, call tools, or invoke agents. At session start, the agent's permissions are set but remain static, and each request is evaluated ",
-      "published": "2026-08-15T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "49308095",
-      "title": "Show HN: Riffn. An instant voice link with your AI agents and local models",
-      "url": "https://riffn.io/how-riffn-works/",
-      "description": "",
-      "published": "2026-08-15T06:05:09Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 0,
       "is_new": false
     }
   ],
@@ -1545,7 +1544,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 1,
+        "points": 2,
         "comments": 0,
         "is_new": false
       },
@@ -1573,8 +1572,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 222,
-        "comments": 126,
+        "points": 230,
+        "comments": 134,
         "is_new": false
       },
       {
