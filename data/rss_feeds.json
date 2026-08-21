@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-21T19:34:24.150335+00:00",
+  "last_updated": "2026-08-21T20:37:13.112127+00:00",
   "total_entries": 110,
-  "new_entries": 0,
+  "new_entries": 2,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -77,18 +77,6 @@
       "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
       "description": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
       "published": "Wed, 19 Aug 2026 21:51:23 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "88cde3112e540acb7b71b776e15ea39c",
-      "title": "AI was supposed to win people over by now — it hasn’t",
-      "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
-      "description": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.",
-      "published": "Wed, 19 Aug 2026 19:11:40 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
@@ -250,6 +238,18 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "4af5149f16f931f443ffb708617c6afa",
+      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "description": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
+      "published": "Fri, 21 Aug 2026 19:43:39 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "2128e60ca793bc6cae7a5c80296b43d3",
@@ -831,8 +831,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 355,
-      "comments": 204,
+      "points": 356,
+      "comments": 205,
       "is_new": false
     },
     {
@@ -997,7 +997,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 51,
+      "likes": 52,
       "is_new": false
     },
     {
@@ -1014,19 +1014,6 @@
       "is_new": false
     },
     {
-      "id": "5074153d214f556af9baa520e0204914",
-      "title": "WithEveryone: Unified Planning and Identity Grounding for Group Image Generation",
-      "url": "https://huggingface.co/papers/2608.20336",
-      "description": "Identity-preserving image generation becomes increasingly unreliable when a scene must contain many specified people. Beyond retaining each identity, the model must bind every reference to a distinct ",
-      "published": "2026-08-19T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 34,
-      "is_new": false
-    },
-    {
       "id": "49363710",
       "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
       "url": "https://github.com/onecli/onecli",
@@ -1037,7 +1024,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 87,
-      "comments": 27,
+      "comments": 28,
       "is_new": false
     },
     {
@@ -1063,7 +1050,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 17,
-      "comments": 15,
+      "comments": 13,
       "is_new": false
     },
     {
@@ -1207,7 +1194,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -1280,6 +1267,19 @@
       "is_new": false
     },
     {
+      "id": "fa853998592aea6723dc12b5c67f206b",
+      "title": "TinyCast: Probabilistic Zero-Shot Forecasting with Computed Periodicity",
+      "url": "https://huggingface.co/papers/2608.15767",
+      "description": "We introduce TinyCast, an attention-free zero-shot forecaster that emits a predictive distribution from 146,505 parameters, on the premise that at this size the periodic structure of a context is wort",
+      "published": "2026-08-15T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
       "id": "49308095",
       "title": "Show HN: Riffn. An instant voice link with your AI agents and local models",
       "url": "https://riffn.io/how-riffn-works/",
@@ -1326,18 +1326,6 @@
         "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
         "description": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
         "published": "Wed, 19 Aug 2026 21:51:23 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "88cde3112e540acb7b71b776e15ea39c",
-        "title": "AI was supposed to win people over by now — it hasn’t",
-        "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
-        "description": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.",
-        "published": "Wed, 19 Aug 2026 19:11:40 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
@@ -1501,6 +1489,18 @@
         "is_new": false
       },
       {
+        "id": "4af5149f16f931f443ffb708617c6afa",
+        "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+        "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+        "description": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
+        "published": "Fri, 21 Aug 2026 19:43:39 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "2128e60ca793bc6cae7a5c80296b43d3",
         "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
         "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
@@ -1600,8 +1600,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 355,
-        "comments": 204,
+        "points": 356,
+        "comments": 205,
         "is_new": false
       },
       {
@@ -1663,7 +1663,7 @@
         "source_icon": "🟧",
         "category": "news",
         "points": 87,
-        "comments": 27,
+        "comments": 28,
         "is_new": false
       }
     ],
