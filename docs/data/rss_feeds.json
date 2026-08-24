@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-24T05:50:22.193273+00:00",
+  "last_updated": "2026-08-24T07:08:21.261269+00:00",
   "total_entries": 110,
-  "new_entries": 52,
+  "new_entries": 53,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -913,7 +913,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
+      "likes": 8,
       "is_new": true
     },
     {
@@ -926,7 +926,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 15,
+      "likes": 19,
       "is_new": true
     },
     {
@@ -965,7 +965,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
+      "likes": 13,
       "is_new": true
     },
     {
@@ -991,7 +991,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
+      "likes": 8,
       "is_new": true
     },
     {
@@ -1067,7 +1067,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 17,
+      "likes": 18,
       "is_new": true
     },
     {
@@ -1081,6 +1081,19 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "2b4f7bf84914ce39a6864f5aac47cbc4",
+      "title": "Daedalus-150M: A Convolution-Attention Hybrid Designed for CPU Inference",
+      "url": "https://huggingface.co/papers/2608.20210",
+      "description": "Small language models are usually built like large ones and then squeezed onto a CPU afterwards. We did the opposite: we fixed the target first, one user, one token at a time, 4-bit weights, ordinary ",
+      "published": "2026-08-19T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
     },
     {
       "id": "ef8d7c79efe078218785762f02fcbd51",
@@ -1100,19 +1113,6 @@
       "title": "GOAG: Generative and Object-Agnostic Grasp Planner for Dexterous Robotic Manipulation",
       "url": "https://huggingface.co/papers/2608.19759",
       "description": "Multifingered grasping is a crucial robotic skill, but current deep-learning grasp planners often struggle to generalize to new objects because they are trained on limited, object-specific datasets. W",
-      "published": "2026-08-19T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 6,
-      "is_new": false
-    },
-    {
-      "id": "4a80acb9691a231ee3c5a9a1a7d2a48d",
-      "title": "CoToGrasp: Contact-Topology-Conditioned Dexterous Grasp Synthesis via Canonical Workspace Learning",
-      "url": "https://huggingface.co/papers/2608.19776",
-      "description": "Current dexterous grasp planners primarily optimize for physical stability, focusing on whether an object can be grasped rather than how it should be grasped to support downstream functional tasks. Ho",
       "published": "2026-08-19T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
