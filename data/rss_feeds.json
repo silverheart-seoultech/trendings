@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-24T01:55:10.632064+00:00",
+  "last_updated": "2026-08-24T03:14:02.152903+00:00",
   "total_entries": 70,
-  "new_entries": 1,
+  "new_entries": 6,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -252,10 +252,10 @@
       "is_new": false
     },
     {
-      "id": "2128e60ca793bc6cae7a5c80296b43d3",
-      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-      "description": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surfac",
+      "id": "f30a4a32fb60e7f4ada01c4d9594d5ee",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "description": "There's about to be a big fight to secure access to space.",
       "published": "Fri, 21 Aug 2026 14:00:00 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
@@ -264,10 +264,10 @@
       "is_new": false
     },
     {
-      "id": "f30a4a32fb60e7f4ada01c4d9594d5ee",
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-      "description": "There's about to be a big fight to secure access to space.",
+      "id": "2128e60ca793bc6cae7a5c80296b43d3",
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "description": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surfac",
       "published": "Fri, 21 Aug 2026 14:00:00 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
@@ -424,6 +424,58 @@
       "is_new": false
     },
     {
+      "id": "d100ed75d92ba7911426f8f10d6cda12",
+      "title": "Towards Faithful Simulation of Human Shopping Behavior",
+      "url": "https://huggingface.co/papers/2608.20707",
+      "description": "Simulating realistic user shopping behavior underpins offline evaluation and reinforcement learning in e-commerce scenarios. While recent LLM- and VLM-based simulators have made encouraging progress, ",
+      "published": "2026-08-20T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "d6719891089b939c594af2791bbb5ddc",
+      "title": "Graph Engineering in the Era of LLM Agents: From Individual Intelligence to System Intelligence",
+      "url": "https://huggingface.co/papers/2608.21156",
+      "description": "LLMs have evolved from language generators to autonomous agents capable of complex, long-horizon tasks. This evolution has produced paradigms including Prompt Engineering to elicit model capabilities,",
+      "published": "2026-08-20T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
+      "id": "30b41320af72882a26b6f04c9c05d6a3",
+      "title": "CLEAR: Continuous Latent Adapter Routing for Utility-Preserving LLM Safety Alignment",
+      "url": "https://huggingface.co/papers/2608.21278",
+      "description": "Improving the safety of large language models (LLMs) often comes at the expense of utility, as globally applied safety tuning may affect model responses to both harmful and benign inputs. We propose C",
+      "published": "2026-08-20T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "baf70e21d8da72fbbb1c35fa2557ae8b",
+      "title": "InfinityEdit: Infinite Video Editing with a Lightweight Edit-Ignition Adapter",
+      "url": "https://huggingface.co/papers/2608.20910",
+      "description": "With large pretrained models, existing methods have effectively improved instruction-based video editing. However, most of them rely on an in-place editing assumption. They align the edited video with",
+      "published": "2026-08-20T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "47ed359035a452a42fb386a86fcb2960",
       "title": "Llama-Mobile: Efficient 2.7-Bit Quantization of VLMs",
       "url": "https://huggingface.co/papers/2608.21134",
@@ -433,7 +485,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 1,
       "is_new": true
     },
     {
@@ -496,19 +548,6 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "2e2bd0f772efb10d84317e526f6c3c36",
-      "title": "FlashPrefill V2: Block-Sparse Prefill Attention for Long-Context LLM Serving",
-      "url": "https://huggingface.co/papers/2608.19758",
-      "description": "Long-context modeling is a pivotal capability for Large Language Models, yet the quadratic complexity of attention remains a critical bottleneck, particularly during the compute-intensive prefilling p",
-      "published": "2026-08-20T04:02:55.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 16,
       "is_new": false
     },
     {
@@ -587,45 +626,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 61,
-      "is_new": false
-    },
-    {
-      "id": "bb2f27f90e09d828b044d0c171ce4c6d",
-      "title": "Repo0: Design-Driven Zero-to-All Code Generation",
-      "url": "https://huggingface.co/papers/2608.19854",
-      "description": "Large language model agents have made substantial progress in code generation, yet most existing systems assume a predefined repository architecture. This assumption does not hold in zero-to-all code ",
-      "published": "2026-08-19T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 17,
-      "is_new": false
-    },
-    {
-      "id": "bdfc277418c46976a0feb987ce44fb02",
-      "title": "Inject, Align, Recover: Staged Post-Training for Retrieval-Free Document Knowledge Internalization",
-      "url": "https://huggingface.co/papers/2608.20281",
-      "description": "Large language models often fail to answer questions about a bounded document collection when the source documents are not retrieved at inference time. We study this setting as document knowledge inte",
-      "published": "2026-08-19T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 10,
-      "is_new": false
-    },
-    {
-      "id": "3755ad1a151ba8a12d35f4590179c149",
-      "title": "4DAnyone: Create Anyone in 4D from a Casual Monocular Video",
-      "url": "https://huggingface.co/papers/2608.20335",
-      "description": "We present 4DAnyone, a framework for reconstructing 4D humans from an uncalibrated monocular video by generating reconstruction-grade multiview-consistent videos and lifting them into 4D Gaussian Spla",
-      "published": "2026-08-19T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 69,
       "is_new": false
     },
     {
@@ -829,6 +829,19 @@
       "is_new": false
     },
     {
+      "id": "5b41a31e478e0e8d649aaa048987ac93",
+      "title": "Beyond Correctness: Benchmarking and Aligning Response Behaviors in Hybrid-Thinking MLLMs",
+      "url": "https://huggingface.co/papers/2608.12781",
+      "description": "Hybrid-thinking multimodal large language models (MLLMs) allow a single model to alternate between deliberative thinking and latency-efficient non-thinking inference. Although these modes differ in re",
+      "published": "2026-08-16T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
       "id": "2dc5c1fce942ee5ed1bee254a2a39e62",
       "title": "τ_0-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation",
       "url": "https://huggingface.co/papers/2608.16885",
@@ -838,7 +851,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 13,
+      "likes": 14,
       "is_new": false
     },
     {
@@ -919,19 +932,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 8,
-      "is_new": false
-    },
-    {
-      "id": "6b423768a1ec16d90e861fab2e44c474",
-      "title": "SkillEvo: Self-Renewing Evolution Gradients from Multi-Turn Interaction Feedback",
-      "url": "https://huggingface.co/papers/2608.13120",
-      "description": "Agent Skills are today either hand-authored or produced in a single LLM generation pass, and consequently possess no closed loop through which they might improve from the interaction failures they act",
-      "published": "2026-08-12T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 30,
       "is_new": false
     },
     {
@@ -1155,10 +1155,10 @@
         "is_new": false
       },
       {
-        "id": "2128e60ca793bc6cae7a5c80296b43d3",
-        "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-        "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-        "description": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surfac",
+        "id": "f30a4a32fb60e7f4ada01c4d9594d5ee",
+        "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+        "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+        "description": "There's about to be a big fight to secure access to space.",
         "published": "Fri, 21 Aug 2026 14:00:00 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
@@ -1167,10 +1167,10 @@
         "is_new": false
       },
       {
-        "id": "f30a4a32fb60e7f4ada01c4d9594d5ee",
-        "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-        "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-        "description": "There's about to be a big fight to secure access to space.",
+        "id": "2128e60ca793bc6cae7a5c80296b43d3",
+        "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+        "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+        "description": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surfac",
         "published": "Fri, 21 Aug 2026 14:00:00 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
@@ -1329,6 +1329,58 @@
     ],
     "research": [
       {
+        "id": "d100ed75d92ba7911426f8f10d6cda12",
+        "title": "Towards Faithful Simulation of Human Shopping Behavior",
+        "url": "https://huggingface.co/papers/2608.20707",
+        "description": "Simulating realistic user shopping behavior underpins offline evaluation and reinforcement learning in e-commerce scenarios. While recent LLM- and VLM-based simulators have made encouraging progress, ",
+        "published": "2026-08-20T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 1,
+        "is_new": true
+      },
+      {
+        "id": "d6719891089b939c594af2791bbb5ddc",
+        "title": "Graph Engineering in the Era of LLM Agents: From Individual Intelligence to System Intelligence",
+        "url": "https://huggingface.co/papers/2608.21156",
+        "description": "LLMs have evolved from language generators to autonomous agents capable of complex, long-horizon tasks. This evolution has produced paradigms including Prompt Engineering to elicit model capabilities,",
+        "published": "2026-08-20T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 3,
+        "is_new": true
+      },
+      {
+        "id": "30b41320af72882a26b6f04c9c05d6a3",
+        "title": "CLEAR: Continuous Latent Adapter Routing for Utility-Preserving LLM Safety Alignment",
+        "url": "https://huggingface.co/papers/2608.21278",
+        "description": "Improving the safety of large language models (LLMs) often comes at the expense of utility, as globally applied safety tuning may affect model responses to both harmful and benign inputs. We propose C",
+        "published": "2026-08-20T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 1,
+        "is_new": true
+      },
+      {
+        "id": "baf70e21d8da72fbbb1c35fa2557ae8b",
+        "title": "InfinityEdit: Infinite Video Editing with a Lightweight Edit-Ignition Adapter",
+        "url": "https://huggingface.co/papers/2608.20910",
+        "description": "With large pretrained models, existing methods have effectively improved instruction-based video editing. However, most of them rely on an in-place editing assumption. They align the edited video with",
+        "published": "2026-08-20T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 1,
+        "is_new": true
+      },
+      {
         "id": "47ed359035a452a42fb386a86fcb2960",
         "title": "Llama-Mobile: Efficient 2.7-Bit Quantization of VLMs",
         "url": "https://huggingface.co/papers/2608.21134",
@@ -1338,21 +1390,8 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 0,
+        "likes": 1,
         "is_new": true
-      },
-      {
-        "id": "2e2bd0f772efb10d84317e526f6c3c36",
-        "title": "FlashPrefill V2: Block-Sparse Prefill Attention for Long-Context LLM Serving",
-        "url": "https://huggingface.co/papers/2608.19758",
-        "description": "Long-context modeling is a pivotal capability for Large Language Models, yet the quadratic complexity of attention remains a critical bottleneck, particularly during the compute-intensive prefilling p",
-        "published": "2026-08-20T04:02:55.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 16,
-        "is_new": false
       },
       {
         "id": "ef8d7c79efe078218785762f02fcbd51",
@@ -1433,45 +1472,6 @@
         "is_new": false
       },
       {
-        "id": "bb2f27f90e09d828b044d0c171ce4c6d",
-        "title": "Repo0: Design-Driven Zero-to-All Code Generation",
-        "url": "https://huggingface.co/papers/2608.19854",
-        "description": "Large language model agents have made substantial progress in code generation, yet most existing systems assume a predefined repository architecture. This assumption does not hold in zero-to-all code ",
-        "published": "2026-08-19T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 17,
-        "is_new": false
-      },
-      {
-        "id": "bdfc277418c46976a0feb987ce44fb02",
-        "title": "Inject, Align, Recover: Staged Post-Training for Retrieval-Free Document Knowledge Internalization",
-        "url": "https://huggingface.co/papers/2608.20281",
-        "description": "Large language models often fail to answer questions about a bounded document collection when the source documents are not retrieved at inference time. We study this setting as document knowledge inte",
-        "published": "2026-08-19T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 10,
-        "is_new": false
-      },
-      {
-        "id": "3755ad1a151ba8a12d35f4590179c149",
-        "title": "4DAnyone: Create Anyone in 4D from a Casual Monocular Video",
-        "url": "https://huggingface.co/papers/2608.20335",
-        "description": "We present 4DAnyone, a framework for reconstructing 4D humans from an uncalibrated monocular video by generating reconstruction-grade multiview-consistent videos and lifting them into 4D Gaussian Spla",
-        "published": "2026-08-19T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 69,
-        "is_new": false
-      },
-      {
         "id": "d543a3ccd27855993181ad42d121d233",
         "title": "Thinking in a Low-Resource Language: What SFT Builds, What RL Fixes, What Accuracy Cannot See",
         "url": "https://huggingface.co/papers/2608.17744",
@@ -1498,6 +1498,19 @@
         "is_new": false
       },
       {
+        "id": "5b41a31e478e0e8d649aaa048987ac93",
+        "title": "Beyond Correctness: Benchmarking and Aligning Response Behaviors in Hybrid-Thinking MLLMs",
+        "url": "https://huggingface.co/papers/2608.12781",
+        "description": "Hybrid-thinking multimodal large language models (MLLMs) allow a single model to alternate between deliberative thinking and latency-efficient non-thinking inference. Although these modes differ in re",
+        "published": "2026-08-16T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 2,
+        "is_new": true
+      },
+      {
         "id": "2dc5c1fce942ee5ed1bee254a2a39e62",
         "title": "τ_0-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation",
         "url": "https://huggingface.co/papers/2608.16885",
@@ -1507,7 +1520,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 13,
+        "likes": 14,
         "is_new": false
       },
       {
@@ -1560,19 +1573,6 @@
         "source_icon": "🤗",
         "category": "research",
         "likes": 8,
-        "is_new": false
-      },
-      {
-        "id": "6b423768a1ec16d90e861fab2e44c474",
-        "title": "SkillEvo: Self-Renewing Evolution Gradients from Multi-Turn Interaction Feedback",
-        "url": "https://huggingface.co/papers/2608.13120",
-        "description": "Agent Skills are today either hand-authored or produced in a single LLM generation pass, and consequently possess no closed loop through which they might improve from the interaction failures they act",
-        "published": "2026-08-12T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 30,
         "is_new": false
       },
       {
