@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-24T13:10:04.585957+00:00",
+  "last_updated": "2026-08-24T13:59:35.898572+00:00",
   "total_entries": 110,
-  "new_entries": 0,
+  "new_entries": 2,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -108,18 +108,6 @@
       "is_new": false
     },
     {
-      "id": "90eae5e4b71e5ca6b3281c2d72e30d8b",
-      "title": "Grok keeps sending gibberish responses to users",
-      "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
-      "description": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning.",
-      "published": "Thu, 20 Aug 2026 17:32:16 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "be28f1428bf35df8501cff039929dda1",
       "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
       "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
@@ -214,6 +202,18 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "aa2dd08ad7dad188d29ea711a18b83e7",
+      "title": "Hugging Face reportedly in talks to be acquired for $13B",
+      "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+      "description": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sa",
+      "published": "Mon, 24 Aug 2026 13:47:26 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "772cb01edc45038bc3aef6cec71f3418",
@@ -732,10 +732,10 @@
       "is_new": false
     },
     {
-      "id": "f30a4a32fb60e7f4ada01c4d9594d5ee",
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-      "description": "There's about to be a big fight to secure access to space.",
+      "id": "2128e60ca793bc6cae7a5c80296b43d3",
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "description": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surfac",
       "published": "Fri, 21 Aug 2026 14:00:00 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
@@ -744,10 +744,10 @@
       "is_new": false
     },
     {
-      "id": "2128e60ca793bc6cae7a5c80296b43d3",
-      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-      "description": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surfac",
+      "id": "f30a4a32fb60e7f4ada01c4d9594d5ee",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "description": "There's about to be a big fight to secure access to space.",
       "published": "Fri, 21 Aug 2026 14:00:00 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
@@ -926,7 +926,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 21,
+      "likes": 22,
       "is_new": false
     },
     {
@@ -991,7 +991,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 21,
+      "likes": 25,
       "is_new": false
     },
     {
@@ -1118,7 +1118,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 15,
       "is_new": false
     },
     {
@@ -1254,6 +1254,19 @@
       "is_new": false
     },
     {
+      "id": "1d01e6b4213c5e54f399cde1dfc6e21a",
+      "title": "Partition the Support, Reconstruct the Residual: Training-Free Sparse Attention for Video Generation and World Models",
+      "url": "https://huggingface.co/papers/2608.18484",
+      "description": "Training-free block-sparse attention can accelerate video transformers, but row-wise attention concentration does not by itself specify an executable sparse operator. Queries sharing a block route may",
+      "published": "2026-08-18T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "49346452",
       "title": "Show HN: Tracelint – a linter for AI agent traces, no LLM judge",
       "url": "https://github.com/AshwinUgale/tracelint",
@@ -1278,20 +1291,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "49335595",
-      "title": "Show HN: HarnessRouter: Unified interface for agent harnesses",
-      "url": "https://github.com/harnessrouter/harnessrouter",
-      "description": "",
-      "published": "2026-08-17T18:33:38Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 10,
-      "comments": 14,
       "is_new": false
     }
   ],
@@ -1351,18 +1350,6 @@
         "url": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
         "description": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product.",
         "published": "Thu, 20 Aug 2026 19:15:05 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "90eae5e4b71e5ca6b3281c2d72e30d8b",
-        "title": "Grok keeps sending gibberish responses to users",
-        "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
-        "description": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning.",
-        "published": "Thu, 20 Aug 2026 17:32:16 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
@@ -1466,6 +1453,18 @@
         "is_new": false
       },
       {
+        "id": "aa2dd08ad7dad188d29ea711a18b83e7",
+        "title": "Hugging Face reportedly in talks to be acquired for $13B",
+        "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+        "description": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sa",
+        "published": "Mon, 24 Aug 2026 13:47:26 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "d7e3e6a3a485bc657afef0337e868313",
         "title": "Anthropic’s Opus 4.6 is a smut-machine",
         "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
@@ -1502,10 +1501,10 @@
         "is_new": false
       },
       {
-        "id": "f30a4a32fb60e7f4ada01c4d9594d5ee",
-        "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-        "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-        "description": "There's about to be a big fight to secure access to space.",
+        "id": "2128e60ca793bc6cae7a5c80296b43d3",
+        "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+        "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+        "description": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surfac",
         "published": "Fri, 21 Aug 2026 14:00:00 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
@@ -1514,10 +1513,10 @@
         "is_new": false
       },
       {
-        "id": "2128e60ca793bc6cae7a5c80296b43d3",
-        "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-        "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-        "description": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surfac",
+        "id": "f30a4a32fb60e7f4ada01c4d9594d5ee",
+        "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+        "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+        "description": "There's about to be a big fight to secure access to space.",
         "published": "Fri, 21 Aug 2026 14:00:00 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
