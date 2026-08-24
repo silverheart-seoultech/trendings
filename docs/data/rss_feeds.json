@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-24T04:04:44.091679+00:00",
+  "last_updated": "2026-08-24T04:58:18.037918+00:00",
   "total_entries": 110,
-  "new_entries": 48,
+  "new_entries": 51,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -904,6 +904,19 @@
       "is_new": false
     },
     {
+      "id": "24bd0d79cf107aaaf4bbebf37e52a559",
+      "title": "OmniAssistBench: Assistant-style Interaction Benchmark for Omni-LLMs",
+      "url": "https://huggingface.co/papers/2608.21360",
+      "description": "Recent omni-modal large language models (Omni-LLMs) show great potential as real-time video assistants, which continuously perceive environments and guide users to achieve specific goals. Unlike tradi",
+      "published": "2026-08-20T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 15,
+      "is_new": true
+    },
+    {
       "id": "d48349727c1bff12d0ee6e7e802e4cfc",
       "title": "AgentMercury: Your Agent Can Synthesize Verifiable Environments for Business Scenarios at scale",
       "url": "https://huggingface.co/papers/2608.20634",
@@ -939,7 +952,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 6,
       "is_new": true
     },
     {
@@ -1032,6 +1045,19 @@
       "is_new": false
     },
     {
+      "id": "fc6a18799a58e2adf001d040aebf131d",
+      "title": "Let's Scale Step by Step: Compute-Efficient Hyperparameter Transfer for Large-Scale Mixture-of-Experts",
+      "url": "https://huggingface.co/papers/2608.20061",
+      "description": "Mixture-of-Experts (MoE) architectures significantly expand model capacity without a proportional increase in computational cost. However, optimizing their hyperparameters---particularly the learning ",
+      "published": "2026-08-20T09:57:43.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 17,
+      "is_new": true
+    },
+    {
       "id": "58939a4222a77cc276cd3acca20cae29",
       "title": "Slack is launching collaborative vibe-coding channels",
       "url": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
@@ -1080,32 +1106,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 6,
-      "is_new": false
-    },
-    {
-      "id": "166f176864a615300b779508d2c5c4b1",
-      "title": "Listening Forward: Next Patch Embedding Prediction Enables Scalable Audio Learners",
-      "url": "https://huggingface.co/papers/2608.19863",
-      "description": "Self-supervised learning (SSL) has driven substantial progress in audio representation learning, though existing methods have increasingly relied on elaborate pre-training recipes to reach competitive",
-      "published": "2026-08-19T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 5,
-      "is_new": false
-    },
-    {
-      "id": "a9e304a2913e7415f08ba79c31a058a5",
-      "title": "Towards Quantifying Benchmark Optimization in ASR Models",
-      "url": "https://huggingface.co/papers/2608.19936",
-      "description": "Public benchmarks are important measures of Automatic Speech Recognition (ASR) model capabilities. However, by nature of being public, there is risk of models being optimized for these benchmarks in w",
-      "published": "2026-08-19T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 10,
       "is_new": false
     },
     {
