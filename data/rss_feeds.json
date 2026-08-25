@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-25T09:48:49.618560+00:00",
+  "last_updated": "2026-08-25T10:46:31.839065+00:00",
   "total_entries": 110,
-  "new_entries": 10,
+  "new_entries": 13,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -777,7 +777,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 1,
+      "points": 2,
       "comments": 0,
       "is_new": true
     },
@@ -803,7 +803,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
+      "likes": 9,
       "is_new": true
     },
     {
@@ -855,7 +855,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 10,
+      "likes": 11,
       "is_new": true
     },
     {
@@ -868,7 +868,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 49,
+      "likes": 51,
       "is_new": true
     },
     {
@@ -937,19 +937,6 @@
       "is_new": false
     },
     {
-      "id": "496bc8f0b2c21ec0ffc09249921a682b",
-      "title": "Prime Agent: A Self-Improving RLM Harness",
-      "url": "https://huggingface.co/papers/2608.23552",
-      "description": "Language models are sequential processors, but long-horizon agency requires external information and computation beyond model weights and active context. Prime Agent is an open-source harness for long",
-      "published": "2026-08-23T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 19,
-      "is_new": false
-    },
-    {
       "id": "49405520",
       "title": "Why can AI generate Super Mario but not a wedge ramp for my robot vacuum?",
       "url": "https://news.ycombinator.com/item?id=49405520",
@@ -976,6 +963,19 @@
       "points": 5,
       "comments": 1,
       "is_new": false
+    },
+    {
+      "id": "bb5f8a40a0be1e548a35879437e1d700",
+      "title": "WorldToken: Time-First Sequence Modeling for Robotic Imitation Learning",
+      "url": "https://huggingface.co/papers/2608.22591",
+      "description": "Robot policies receive heterogeneous observations at each decision step, yet sequence models differ in how they organize these inputs over time. We introduce WorldToken, a time-first policy instantiat",
+      "published": "2026-08-22T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
     },
     {
       "id": "49395936",
@@ -1099,6 +1099,19 @@
       "is_new": false
     },
     {
+      "id": "5dafc61e1bd685e8feece0abd394ef53",
+      "title": "EXPL-FR: Explaining Face Recognition Models via Vision-Language Alignment",
+      "url": "https://huggingface.co/papers/2608.21486",
+      "description": "Deep face recognition (FR) models reach near-saturated accuracy but remain opaque: a practitioner cannot ask which semantic attributes a similarity score relied upon. EXPL-FR answers this inside the F",
+      "published": "2026-08-20T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "49378768",
       "title": "Show HN: Huzzah – a novel approach to coding with AI",
       "url": "https://www.danielvaughn.dev/posts/huzzah/",
@@ -1161,6 +1174,19 @@
       "is_new": false
     },
     {
+      "id": "192cae93f7f88ee11a68bbc1f9f4509d",
+      "title": "Tomatoes, Potatoes, and Onions: Questioning the Need for Faces in Face Presentation Attack Detection",
+      "url": "https://huggingface.co/papers/2608.21455",
+      "description": "Face presentation attack detection (PAD) is traditionally formulated as a face-specific problem, although many of the visual artifacts introduced by print, replay, and recapture processes are not inhe",
+      "published": "2026-08-19T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "9bed4aa14538b41859e54e3d68ad5992",
       "title": "One Success Isn't Reliability: Thinkingbox, a Sandbox and Benchmark for Agents in Stateful Business Workflows",
       "url": "https://huggingface.co/papers/2608.19741",
@@ -1183,7 +1209,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 20,
+      "likes": 21,
       "is_new": false
     },
     {
@@ -1264,32 +1290,6 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "6edc2343165488ff44cd2aead6f697a0",
-      "title": "Meta AI is getting a Mac app",
-      "url": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
-      "description": "Meta is launching a new Mac app dedicated to its AI chatbot. In an announcement on Wednesday, Meta says you can share your window with its AI chatbot, which can provide suggestions, answer questions,",
-      "published": "2026-08-19T12:14:27-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "49359526",
-      "title": "Show HN: ChatGPT plugin for deterministic world facts",
-      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6a6a0832a59081918b19aec0ddf9ec77/",
-      "description": "",
-      "published": "2026-08-19T10:25:13Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 1,
-      "comments": 0,
       "is_new": false
     }
   ],
@@ -1545,7 +1545,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 1,
+        "points": 2,
         "comments": 0,
         "is_new": true
       },
