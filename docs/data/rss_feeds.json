@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-25T07:05:27.056756+00:00",
+  "last_updated": "2026-08-25T07:55:34.628300+00:00",
   "total_entries": 110,
-  "new_entries": 0,
+  "new_entries": 3,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,6 +768,32 @@
       "is_new": false
     },
     {
+      "id": "d9cf4348545244e50be678b09043b1a0",
+      "title": "Beyond the Stability-Exploration Dilemma: Environmental Regularization for LLM Policy Optimization",
+      "url": "https://huggingface.co/papers/2608.23311",
+      "description": "Policy optimization (PO) for Large Language Models faces a stability--exploration trade-off, currently mediated by an action-side Policy-KL regularizer. This puts practitioners in a double bind: keepi",
+      "published": "2026-08-23T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 5,
+      "is_new": true
+    },
+    {
+      "id": "50ca06f8f74902ca4c0243b07530cff3",
+      "title": "EchoWM: Open and Enterable Omnimodal World Models",
+      "url": "https://huggingface.co/papers/2608.23189",
+      "description": "We present EchoWM, an omnimodal world model for enterable generative media that responds to continuous navigation while jointly generating 720p video, environmental sound, music and speech. We organiz",
+      "published": "2026-08-23T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 44,
+      "is_new": true
+    },
+    {
       "id": "0dd350456db7b9c3069ae8e749122229",
       "title": "One Polluted Page Is Enough: Evaluating Web Content Pollution in LLM Recommenders",
       "url": "https://huggingface.co/papers/2606.13610",
@@ -777,7 +803,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -790,7 +816,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 26,
+      "likes": 28,
       "is_new": false
     },
     {
@@ -803,7 +829,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -868,7 +894,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 134,
+      "likes": 143,
       "is_new": false
     },
     {
@@ -1030,20 +1056,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 19,
-      "is_new": false
-    },
-    {
-      "id": "f2292021e007b212c548abcd4c460642",
-      "title": "PhysCaP: Grounding Code-as-Policy Agent with Physics-Informed Exploration",
-      "url": "https://huggingface.co/papers/2608.21031",
-      "description": "We present PhysCaP, a Physics-Informed Code-as-Policy agent for active perception in robotic manipulation. While vision-language-action policies excel at imitating demonstrations, they rely on passive",
-      "published": "2026-08-20T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
+      "likes": 26,
       "is_new": false
     },
     {
@@ -1109,6 +1122,19 @@
       "is_new": false
     },
     {
+      "id": "9bed4aa14538b41859e54e3d68ad5992",
+      "title": "One Success Isn't Reliability: Thinkingbox, a Sandbox and Benchmark for Agents in Stateful Business Workflows",
+      "url": "https://huggingface.co/papers/2608.19741",
+      "description": "Recent agent benchmarks increasingly ground evaluation in executable environments, from code repair to web navigation, app APIs, and function calling. Yet completing consequential work beyond code req",
+      "published": "2026-08-19T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 5,
+      "is_new": true
+    },
+    {
       "id": "818c63ac85f9d286e97a8c9bac62b228",
       "title": "Block3D: Efficient Text-to-3D Generation via Block-Wise Diffusion",
       "url": "https://huggingface.co/papers/2608.19567",
@@ -1118,7 +1144,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 12,
+      "likes": 16,
       "is_new": false
     },
     {
@@ -1131,20 +1157,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 21,
-      "is_new": false
-    },
-    {
-      "id": "dfbba36997544094e64579add8145e43",
-      "title": "Peer-Voted LLM-Agent Stress Tests Find Feed-Induced Lexical Convergence but No Reliable Matched-Exposure Advantage for Distributed Sources",
-      "url": "https://huggingface.co/papers/2608.20438",
-      "description": "Population-level behavior in large-language-model (LLM) agents cannot be characterized by single-agent benchmarks. We introduce PV-SST, a peer-voted social-platform testbed, and report a separately fr",
-      "published": "2026-08-19T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
+      "likes": 22,
       "is_new": false
     },
     {
@@ -1277,19 +1290,6 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "ea879ff4619b0385198c773d1b98a5f2",
-      "title": "Beyond Imitation: Filtering On-Policy Distillation by Reasoning Progress",
-      "url": "https://huggingface.co/papers/2608.19408",
-      "description": "On-policy distillation (OPD) has emerged as an effective framework for post-training language models by pairing student-generated trajectories with dense token-level supervision from a teacher. Howeve",
-      "published": "2026-08-18T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 5,
       "is_new": false
     }
   ],
