@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-25T08:56:33.024243+00:00",
+  "last_updated": "2026-08-25T09:48:49.618560+00:00",
   "total_entries": 110,
-  "new_entries": 5,
+  "new_entries": 10,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,6 +768,58 @@
       "is_new": false
     },
     {
+      "id": "49431166",
+      "title": "Show HN: Stage – Build websites together by editing a shared document",
+      "url": "https://www.youtube.com/watch?v=DfpqJzd8-zk",
+      "description": "",
+      "published": "2026-08-25T09:40:38Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "3a86bbd7f634b96304426f7e7dc4877b",
+      "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+      "description": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked anoth",
+      "published": "2026-08-25T05:15:03-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "8b4823e68d61b650c20f495e432cd52c",
+      "title": "Towards a Densing Law for User Representation Learning at Billion-Scale Capacity",
+      "url": "https://huggingface.co/papers/2608.23392",
+      "description": "User representation learning in real-world industrial scenarios is commonly scaled by increasing user amount, behavioral sequence length and model size. However, existing methods face two challenges: ",
+      "published": "2026-08-23T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 7,
+      "is_new": true
+    },
+    {
+      "id": "2b71a073c163ef9e57270ad112110f40",
+      "title": "Industrial-Instruction: An End-to-End Framework for Building Instruction-Tuning and Benchmark Datasets from Industrial Technical Reports",
+      "url": "https://huggingface.co/papers/2608.22817",
+      "description": "Industrial technical reports contain high-value knowledge for maintenance, troubleshooting, and product engineering, but their heterogeneous structure (dense prose, specifications, tables) makes them ",
+      "published": "2026-08-23T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "9417db4dc24436a6fb762204fd718af3",
       "title": "From Generation to Simulation: How Far Are World Models from Being True Simulators?",
       "url": "https://huggingface.co/papers/2608.23070",
@@ -816,7 +868,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 48,
+      "likes": 49,
       "is_new": true
     },
     {
@@ -842,7 +894,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 31,
+      "likes": 32,
       "is_new": false
     },
     {
@@ -894,33 +946,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 18,
-      "is_new": false
-    },
-    {
-      "id": "4d995a2403c21672929b366515383f51",
-      "title": "Same Agent, Different Answers: A Repeat-Aware Audit of Corpus-Induced Answer Churn in Retrieval-Augmented QA",
-      "url": "https://huggingface.co/papers/2608.22856",
-      "description": "A retrieval-augmented QA system can return different answers after an index expansion even when its requested model identifier, prompt, retrieval policy, evidence depth, rendering, and exposed generat",
-      "published": "2026-08-23T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "66bbb544e869292f0fc6975587d2a851",
-      "title": "Apodex 1.1: Scaling Agentic Intelligence for Complex Work",
-      "url": "https://huggingface.co/papers/2608.23283",
-      "description": "General-purpose language models can reason and synthesize knowledge, but complex work also requires sustained interaction with files, information sources, and executable code, together with state main",
-      "published": "2026-08-23T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 145,
+      "likes": 19,
       "is_new": false
     },
     {
@@ -1003,7 +1029,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
+      "likes": 10,
       "is_new": false
     },
     {
@@ -1144,7 +1170,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
+      "likes": 7,
       "is_new": true
     },
     {
@@ -1157,20 +1183,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 19,
-      "is_new": false
-    },
-    {
-      "id": "6f4a1323f59ccb6e947f05692148f8c9",
-      "title": "RISE: Adaptive Imagination for World Action Models",
-      "url": "https://huggingface.co/papers/2608.20430",
-      "description": "World Action Models (WAMs) improve planning by incorporating future world evolution into action generation, yet existing methods allocate a fixed imagination budget to every scene. We propose RISE (Re",
-      "published": "2026-08-19T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 23,
+      "likes": 20,
       "is_new": false
     },
     {
@@ -1271,20 +1284,6 @@
       "url": "https://chatgpt.com/plugins/plugin_asdk_app_6a6a0832a59081918b19aec0ddf9ec77/",
       "description": "",
       "published": "2026-08-19T10:25:13Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 1,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "49359449",
-      "title": "Artificial Analysis: LLM search API providers",
-      "url": "https://artificialanalysis.ai/agents/search-api",
-      "description": "",
-      "published": "2026-08-19T10:17:25Z",
       "source_id": "hn-ai",
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
@@ -1537,6 +1536,32 @@
         "is_new": false
       },
       {
+        "id": "49431166",
+        "title": "Show HN: Stage – Build websites together by editing a shared document",
+        "url": "https://www.youtube.com/watch?v=DfpqJzd8-zk",
+        "description": "",
+        "published": "2026-08-25T09:40:38Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 1,
+        "comments": 0,
+        "is_new": true
+      },
+      {
+        "id": "3a86bbd7f634b96304426f7e7dc4877b",
+        "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+        "description": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked anoth",
+        "published": "2026-08-25T05:15:03-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "49405520",
         "title": "Why can AI generate Super Mario but not a wedge ramp for my robot vacuum?",
         "url": "https://news.ycombinator.com/item?id=49405520",
@@ -1642,34 +1667,6 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "49381588",
-        "title": "We replaced our 223-node agent graph with a single open-source LLM",
-        "url": "https://www.netic.ai/replacing-node-agent-graph-with-open-source-llm",
-        "description": "",
-        "published": "2026-08-20T23:17:09Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 2,
-        "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "49381419",
-        "title": "OpenCyvis: An open-source AI phone agent that runs your own LLM",
-        "url": "https://github.com/opencyvis/opencyvis-phone",
-        "description": "",
-        "published": "2026-08-20T22:57:56Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 1,
-        "comments": 0,
         "is_new": false
       }
     ],
