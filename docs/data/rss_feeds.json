@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-25T13:59:58.928719+00:00",
+  "last_updated": "2026-08-25T15:00:30.547638+00:00",
   "total_entries": 110,
-  "new_entries": 1,
+  "new_entries": 5,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,6 +47,30 @@
     }
   ],
   "entries": [
+    {
+      "id": "eb2b72187dea4f575fa0c7cad6c1f338",
+      "title": "Gamma acquires Accel-backed design startup Lica",
+      "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
+      "description": "Lica co-founders are going to work on Gamma's new research team.",
+      "published": "Tue, 25 Aug 2026 15:00:00 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "6017c27dc638b35abd3a25702d399690",
+      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+      "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+      "description": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
+      "published": "Tue, 25 Aug 2026 14:22:04 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "944b086394f24a2015d614b3e8b907b7",
       "title": "Accel-backed Keenable is indexing the web for AI agents",
@@ -744,28 +768,16 @@
       "is_new": false
     },
     {
-      "id": "d7e3e6a3a485bc657afef0337e868313",
-      "title": "Anthropic’s Opus 4.6 is a smut-machine",
-      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-      "description": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
-      "published": "Fri, 21 Aug 2026 23:07:25 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
+      "id": "bbdb3b4da80630f2a18276888c17fa6b",
+      "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+      "description": "OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday. During a briefing with report",
+      "published": "2026-08-25T10:09:53-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "5a379d4f9d7fe8cb54eb3318fca168d5",
-      "title": "Nvidia partners with data center developer Cloverleaf",
-      "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-      "description": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
-      "published": "Fri, 21 Aug 2026 22:37:38 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "49431166",
@@ -794,6 +806,19 @@
       "is_new": false
     },
     {
+      "id": "6defa56b8e1d5f78c2438918f4e629a4",
+      "title": "The Laws of Context Allocation: Causal Measurement and Closed-Loop Orchestration in Generative Search",
+      "url": "https://huggingface.co/papers/2608.23252",
+      "description": "As Retrieval-Augmented Generation (RAG) shifts toward diverse portfolio generation, it is stymied by two critical bottlenecks: flawed measurement of evidence utilization, and suboptimal context budget",
+      "published": "2026-08-23T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "e0e82aab210576e887fddd4097001178",
       "title": "LongWoF-Bench: Evaluating EvoMap Genes for Verifiable Long-Workflow Tasks",
       "url": "https://huggingface.co/papers/2608.23200",
@@ -816,7 +841,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 18,
+      "likes": 20,
       "is_new": false
     },
     {
@@ -842,7 +867,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -881,7 +906,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 59,
+      "likes": 61,
       "is_new": false
     },
     {
@@ -933,7 +958,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 6,
       "is_new": false
     },
     {
@@ -974,7 +999,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 5,
       "is_new": false
     },
     {
@@ -1209,7 +1234,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
+      "likes": 8,
       "is_new": false
     },
     {
@@ -1264,38 +1289,34 @@
       "points": 17,
       "comments": 11,
       "is_new": false
-    },
-    {
-      "id": "49362047",
-      "title": "Show HN: MCP app for Android, drive apps via AI (no root, PII redacted locally)",
-      "url": "https://github.com/danielealbano/android-remote-control-mcp/",
-      "description": "",
-      "published": "2026-08-19T14:23:13Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 6,
-      "comments": 1,
-      "is_new": false
-    },
-    {
-      "id": "49362042",
-      "title": "The Feedback Cap: Lehman's laws in the age of AI agents",
-      "url": "https://adaptivesoftware.substack.com/p/your-ab-tests-are-limiting-what-your",
-      "description": "",
-      "published": "2026-08-19T14:22:48Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 1,
-      "comments": 1,
-      "is_new": false
     }
   ],
   "by_category": {
     "news": [
+      {
+        "id": "eb2b72187dea4f575fa0c7cad6c1f338",
+        "title": "Gamma acquires Accel-backed design startup Lica",
+        "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
+        "description": "Lica co-founders are going to work on Gamma's new research team.",
+        "published": "Tue, 25 Aug 2026 15:00:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "6017c27dc638b35abd3a25702d399690",
+        "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+        "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+        "description": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
+        "published": "Tue, 25 Aug 2026 14:22:04 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "944b086394f24a2015d614b3e8b907b7",
         "title": "Accel-backed Keenable is indexing the web for AI agents",
@@ -1513,28 +1534,16 @@
         "is_new": false
       },
       {
-        "id": "d7e3e6a3a485bc657afef0337e868313",
-        "title": "Anthropic’s Opus 4.6 is a smut-machine",
-        "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-        "description": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
-        "published": "Fri, 21 Aug 2026 23:07:25 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
+        "id": "bbdb3b4da80630f2a18276888c17fa6b",
+        "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+        "description": "OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday. During a briefing with report",
+        "published": "2026-08-25T10:09:53-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "5a379d4f9d7fe8cb54eb3318fca168d5",
-        "title": "Nvidia partners with data center developer Cloverleaf",
-        "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-        "description": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
-        "published": "Fri, 21 Aug 2026 22:37:38 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
+        "is_new": true
       },
       {
         "id": "49431166",
@@ -1652,18 +1661,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
         "description": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Sri",
         "published": "2026-08-21T17:54:07-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "9cbe86a700782f00e60545a6f02d5d06",
-        "title": "Major YouTube creators are facing backlash for accepting AI money",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
-        "description": "Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" Kolder have posted videos of themselves demonstrating what's possible with AI platform",
-        "published": "2026-08-21T15:16:43-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
