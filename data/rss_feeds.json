@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-25T05:44:53.353233+00:00",
+  "last_updated": "2026-08-25T06:56:33.469839+00:00",
   "total_entries": 110,
-  "new_entries": 54,
+  "new_entries": 57,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,6 +768,32 @@
       "is_new": true
     },
     {
+      "id": "0dd350456db7b9c3069ae8e749122229",
+      "title": "One Polluted Page Is Enough: Evaluating Web Content Pollution in LLM Recommenders",
+      "url": "https://huggingface.co/papers/2606.13610",
+      "description": "Search-augmented LLMs increasingly mediate everyday consumer recommendations by retrieving live web content. This creates a new risk: LLM recommenders may consume web content that Generative Engine Op",
+      "published": "2026-08-23T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "232f126ccc668a6b08f134f74d16cdc0",
+      "title": "MobilePA-Bench: Benchmarking Mobile Planner Agents on Complex Real-World Tasks",
+      "url": "https://huggingface.co/papers/2608.23035",
+      "description": "As on-device LLM agents evolve into personal copilots, the mobile operating system has become a key testbed for this paradigm, making rigorous capability evaluation essential. Yet existing benchmarks ",
+      "published": "2026-08-23T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 25,
+      "is_new": true
+    },
+    {
       "id": "f1e39e7b9f1c592313e0d9255a429cca",
       "title": "Better Retrieval, Worse Robustness:How Multi-hop RAG Amplifies Upstream ASR Errors",
       "url": "https://huggingface.co/papers/2608.22872",
@@ -803,7 +829,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
+      "likes": 11,
       "is_new": true
     },
     {
@@ -816,7 +842,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 12,
+      "likes": 16,
       "is_new": true
     },
     {
@@ -842,7 +868,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 128,
+      "likes": 134,
       "is_new": true
     },
     {
@@ -925,7 +951,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 5,
       "is_new": true
     },
     {
@@ -1083,6 +1109,19 @@
       "is_new": false
     },
     {
+      "id": "818c63ac85f9d286e97a8c9bac62b228",
+      "title": "Block3D: Efficient Text-to-3D Generation via Block-Wise Diffusion",
+      "url": "https://huggingface.co/papers/2608.19567",
+      "description": "While text-to-3D generation has advanced rapidly, achieving high geometric fidelity at low inference cost remains challenging. Existing text-to-3D methods either decode discrete shape tokens autoregre",
+      "published": "2026-08-19T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 12,
+      "is_new": true
+    },
+    {
       "id": "6f4a1323f59ccb6e947f05692148f8c9",
       "title": "RISE: Adaptive Imagination for World Action Models",
       "url": "https://huggingface.co/papers/2608.20430",
@@ -1100,19 +1139,6 @@
       "title": "Peer-Voted LLM-Agent Stress Tests Find Feed-Induced Lexical Convergence but No Reliable Matched-Exposure Advantage for Distributed Sources",
       "url": "https://huggingface.co/papers/2608.20438",
       "description": "Population-level behavior in large-language-model (LLM) agents cannot be characterized by single-agent benchmarks. We introduce PV-SST, a peer-voted social-platform testbed, and report a separately fr",
-      "published": "2026-08-19T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "8f0fed99ab66484eb0ea56d8f7ede6f7",
-      "title": "FlavourBench: Ranking Frontier Language Models with Executable Culinary Ground Truth",
-      "url": "https://huggingface.co/papers/2608.20574",
-      "description": "Open-ended language-model benchmarks usually inherit a judge: a human preference panel, another model, or a brittle exact-match key. We introduce FlavourBench, an automated benchmark in which a versio",
       "published": "2026-08-19T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
@@ -1265,33 +1291,6 @@
       "category": "research",
       "likes": 5,
       "is_new": true
-    },
-    {
-      "id": "1d01e6b4213c5e54f399cde1dfc6e21a",
-      "title": "Partition the Support, Reconstruct the Residual: Training-Free Sparse Attention for Video Generation and World Models",
-      "url": "https://huggingface.co/papers/2608.18484",
-      "description": "Training-free block-sparse attention can accelerate video transformers, but row-wise attention concentration does not by itself specify an executable sparse operator. Queries sharing a block route may",
-      "published": "2026-08-18T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 8,
-      "is_new": false
-    },
-    {
-      "id": "49346452",
-      "title": "Show HN: Tracelint – a linter for AI agent traces, no LLM judge",
-      "url": "https://github.com/AshwinUgale/tracelint",
-      "description": "",
-      "published": "2026-08-18T14:49:47Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 3,
-      "comments": 0,
-      "is_new": false
     }
   ],
   "by_category": {
