@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-25T03:10:11.865079+00:00",
+  "last_updated": "2026-08-25T03:56:21.543497+00:00",
   "total_entries": 110,
-  "new_entries": 9,
+  "new_entries": 12,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -777,7 +777,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 4,
       "is_new": true
     },
     {
@@ -790,7 +790,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 9,
       "is_new": true
     },
     {
@@ -803,7 +803,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": true
     },
     {
@@ -816,7 +816,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 75,
+      "likes": 101,
       "is_new": true
     },
     {
@@ -888,6 +888,19 @@
       "points": 92,
       "comments": 54,
       "is_new": false
+    },
+    {
+      "id": "7c7e7390e13782a5117ad6096e558566",
+      "title": "GameXpert-Bench: How Far Are Coding Agents from Expert Game Development?",
+      "url": "https://huggingface.co/papers/2608.21833",
+      "description": "Recent large language models (LLMs) can operate as coding agents that build complete games from natural language requests. Game development is especially demanding because program logic, visual and au",
+      "published": "2026-08-21T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
     },
     {
       "id": "49391995",
@@ -965,7 +978,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 17,
       "is_new": true
     },
     {
@@ -979,19 +992,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "0f70343f3f34f38c1bbdb37171c90bb7",
-      "title": "EviRank: Structured Relevance Evidence for Multimodal Image Re-ranking",
-      "url": "https://huggingface.co/papers/2608.20886",
-      "description": "Real-world image search queries are multimodal and compositional: ``find this shirt in pink'' specifies an entity to retain, an attribute to modify, and context to ignore. Yet existing re-rankers eith",
-      "published": "2026-08-20T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 11,
       "is_new": false
     },
     {
@@ -1066,7 +1066,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 14,
       "is_new": true
     },
     {
@@ -1093,19 +1093,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "2b4f7bf84914ce39a6864f5aac47cbc4",
-      "title": "Daedalus-150M: A Convolution-Attention Hybrid Designed for CPU Inference",
-      "url": "https://huggingface.co/papers/2608.20210",
-      "description": "Small language models are usually built like large ones and then squeezed onto a CPU afterwards. We did the opposite: we fixed the target first, one user, one token at a time, 4-bit weights, ordinary ",
-      "published": "2026-08-19T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 7,
       "is_new": false
     },
     {
@@ -1250,7 +1237,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 4,
       "is_new": true
     },
     {
@@ -1292,6 +1279,19 @@
       "category": "research",
       "likes": 5,
       "is_new": false
+    },
+    {
+      "id": "e2da0de2aa6bdf242ae1e3962056b0e6",
+      "title": "TileMix: Tile-Centric Mixed-Precision Attention for LLM Inference Acceleration",
+      "url": "https://huggingface.co/papers/2608.17336",
+      "description": "Long-context prefill in large language models (LLMs) incurs substantial computation and memory traffic because dense self-attention computes quadratic query-key scores. Existing methods either use a u",
+      "published": "2026-08-17T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
     }
   ],
   "by_category": {
