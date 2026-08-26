@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-25T23:34:48.411819+00:00",
+  "last_updated": "2026-08-26T01:42:15.757211+00:00",
   "total_entries": 110,
-  "new_entries": 2,
+  "new_entries": 6,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,6 +47,30 @@
     }
   ],
   "entries": [
+    {
+      "id": "032f5fcc6f778b718d5bed30fc6596d7",
+      "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+      "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+      "description": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
+      "published": "Wed, 26 Aug 2026 00:40:59 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "8c02d9ad51cf3f91b4508f851685e0a6",
+      "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+      "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+      "description": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group.",
+      "published": "Wed, 26 Aug 2026 00:06:20 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "5d321e71ab652c82f5ceeff9cdb41f71",
       "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
@@ -672,30 +696,6 @@
       "is_new": false
     },
     {
-      "id": "f264c057671cd86d4444910e93407ee2",
-      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-      "description": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
-      "published": "Sat, 22 Aug 2026 19:00:00 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "39119bad22dbbf0e98d96157ef02ef70",
-      "title": "OpenAI says California should strengthen its AI safety bill",
-      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-      "description": "OpenAI's global affairs team post also referenced “recent incidents” that “underscore both the need for these protections and the importance of updating them” as new risks emerge.",
-      "published": "Sat, 22 Aug 2026 16:30:34 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "894769239e7b4f268c084153dd9a1b3c",
       "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
       "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
@@ -834,6 +834,19 @@
       "is_new": false
     },
     {
+      "id": "1e401159858d1b1e58af8faaa053a0ea",
+      "title": "The Mask Is Not the Model: Auditing Prefix Invariance in Attention, State-Space, and Hybrid Sequence Models",
+      "url": "https://huggingface.co/papers/2608.22876",
+      "description": "We formalize prefix invariance: representations at position t must not depend on future inputs. We give a lightweight audit, two forward passes, no training or gradients, that localizes exactly where ",
+      "published": "2026-08-23T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 29,
+      "is_new": true
+    },
+    {
       "id": "6defa56b8e1d5f78c2438918f4e629a4",
       "title": "The Laws of Context Allocation: Causal Measurement and Closed-Loop Orchestration in Generative Search",
       "url": "https://huggingface.co/papers/2608.23252",
@@ -951,19 +964,6 @@
       "is_new": false
     },
     {
-      "id": "232f126ccc668a6b08f134f74d16cdc0",
-      "title": "MobilePA-Bench: Benchmarking Mobile Planner Agents on Complex Real-World Tasks",
-      "url": "https://huggingface.co/papers/2608.23035",
-      "description": "As on-device LLM agents evolve into personal copilots, the mobile operating system has become a key testbed for this paradigm, making rigorous capability evaluation essential. Yet existing benchmarks ",
-      "published": "2026-08-23T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 33,
-      "is_new": false
-    },
-    {
       "id": "49405520",
       "title": "Why can AI generate Super Mario but not a wedge ramp for my robot vacuum?",
       "url": "https://news.ycombinator.com/item?id=49405520",
@@ -1001,7 +1001,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 4,
       "is_new": true
     },
     {
@@ -1266,19 +1266,6 @@
       "is_new": false
     },
     {
-      "id": "818c63ac85f9d286e97a8c9bac62b228",
-      "title": "Block3D: Efficient Text-to-3D Generation via Block-Wise Diffusion",
-      "url": "https://huggingface.co/papers/2608.19567",
-      "description": "While text-to-3D generation has advanced rapidly, achieving high geometric fidelity at low inference cost remains challenging. Existing text-to-3D methods either decode discrete shape tokens autoregre",
-      "published": "2026-08-19T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 27,
-      "is_new": false
-    },
-    {
       "id": "49363710",
       "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
       "url": "https://github.com/onecli/onecli",
@@ -1291,10 +1278,46 @@
       "points": 88,
       "comments": 34,
       "is_new": false
+    },
+    {
+      "id": "dc3d81799698c80d04615a9a9cdc8c8c",
+      "title": "Google Gemini is getting a dedicated student hub",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+      "description": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards,",
+      "published": "2026-08-19T14:52:43-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": false
     }
   ],
   "by_category": {
     "news": [
+      {
+        "id": "032f5fcc6f778b718d5bed30fc6596d7",
+        "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+        "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+        "description": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
+        "published": "Wed, 26 Aug 2026 00:40:59 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "8c02d9ad51cf3f91b4508f851685e0a6",
+        "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+        "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+        "description": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group.",
+        "published": "Wed, 26 Aug 2026 00:06:20 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "5d321e71ab652c82f5ceeff9cdb41f71",
         "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
@@ -1433,30 +1456,6 @@
         "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
         "description": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
         "published": "Sat, 22 Aug 2026 21:46:56 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "f264c057671cd86d4444910e93407ee2",
-        "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-        "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-        "description": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
-        "published": "Sat, 22 Aug 2026 19:00:00 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "39119bad22dbbf0e98d96157ef02ef70",
-        "title": "OpenAI says California should strengthen its AI safety bill",
-        "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-        "description": "OpenAI's global affairs team post also referenced “recent incidents” that “underscore both the need for these protections and the importance of updating them” as new risks emerge.",
-        "published": "Sat, 22 Aug 2026 16:30:34 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
