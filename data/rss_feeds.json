@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-26T04:52:55.339344+00:00",
+  "last_updated": "2026-08-26T05:47:05.033933+00:00",
   "total_entries": 110,
-  "new_entries": 53,
+  "new_entries": 56,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,6 +768,20 @@
       "is_new": false
     },
     {
+      "id": "49444234",
+      "title": "Show HN: LLM-powered webapp to build LLM-powered webapps",
+      "url": "https://codeplusequalsai.com/dashboard",
+      "description": "",
+      "published": "2026-08-26T05:09:37Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 1,
+      "is_new": true
+    },
+    {
       "id": "49438658",
       "title": "Show HN: Limitless Library – AI agents check first before starting from scratch",
       "url": "https://github.com/Univeracity/limitlesslibrary",
@@ -834,6 +848,19 @@
       "is_new": false
     },
     {
+      "id": "49c84fbd5c9f18e72eb14f4f6f377b4c",
+      "title": "Game2World Engine: Unlocking In-the-Wild Gameplay Videos for World Model Training",
+      "url": "https://huggingface.co/papers/2608.24680",
+      "description": "Video games provide a scalable source of training data for video world models, offering diverse environments, complex interactions, and abundant in-the-wild gameplay videos. However, raw gameplay foot",
+      "published": "2026-08-24T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
+    },
+    {
       "id": "0a2e3461107876788770583017932b6e",
       "title": "From Seeing to Acting: Smart Glasses as First-Person Intelligence Platforms",
       "url": "https://huggingface.co/papers/2608.24877",
@@ -869,7 +896,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 36,
+      "likes": 37,
       "is_new": true
     },
     {
@@ -895,7 +922,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": true
     },
     {
@@ -908,7 +935,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 5,
       "is_new": true
     },
     {
@@ -921,7 +948,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 26,
+      "likes": 29,
       "is_new": true
     },
     {
@@ -973,7 +1000,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 29,
+      "likes": 31,
       "is_new": true
     },
     {
@@ -1080,19 +1107,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 4,
-      "is_new": false
-    },
-    {
-      "id": "f4e0e1266d25e8296d6db5211314fa80",
-      "title": "AutoResearch: Insight In, Hallucination Out",
-      "url": "https://huggingface.co/papers/2608.17906",
-      "description": "Autonomous research systems are increasingly capable of executing long research workflows, yet automation alone does not ensure that the resulting process remains scientifically grounded. We introduce",
-      "published": "2026-08-22T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 8,
       "is_new": false
     },
     {
@@ -1204,19 +1218,6 @@
       "is_new": false
     },
     {
-      "id": "e13c34fbb00a9d0f23234e18f5292ba5",
-      "title": "Quantization-Aware Healing: A Practical Recipe for Recovering Compressed, 4-Bit LLMs",
-      "url": "https://huggingface.co/papers/2608.20953",
-      "description": "Serving large language models cheaply increasingly means shipping models that are both structurally compressed to a fraction of their parameters and quantized to 4 bits. Together these steps degrade r",
-      "published": "2026-08-20T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 9,
-      "is_new": false
-    },
-    {
       "id": "49378768",
       "title": "Show HN: Huzzah – a novel approach to coding with AI",
       "url": "https://www.danielvaughn.dev/posts/huzzah/",
@@ -1279,18 +1280,17 @@
       "is_new": false
     },
     {
-      "id": "49363710",
-      "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
-      "url": "https://github.com/onecli/onecli",
-      "description": "",
-      "published": "2026-08-19T16:29:02Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 88,
-      "comments": 34,
-      "is_new": false
+      "id": "7a028145c948d36614d57cdf65716955",
+      "title": "Annotations as Rollouts: Efficient and Scalable Reinforcement Learning for Video MLLMs",
+      "url": "https://huggingface.co/papers/2608.20492",
+      "description": "Multimodal large language models (MLLMs) have become a prevailing paradigm for unified video perception. However, post-training on large multi-task datasets remains challenging, as existing reinforcem",
+      "published": "2026-08-19T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 42,
+      "is_new": true
     }
   ],
   "by_category": {
@@ -1536,6 +1536,20 @@
         "is_new": false
       },
       {
+        "id": "49444234",
+        "title": "Show HN: LLM-powered webapp to build LLM-powered webapps",
+        "url": "https://codeplusequalsai.com/dashboard",
+        "description": "",
+        "published": "2026-08-26T05:09:37Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 1,
+        "comments": 1,
+        "is_new": true
+      },
+      {
         "id": "49438658",
         "title": "Show HN: Limitless Library – AI agents check first before starting from scratch",
         "url": "https://github.com/Univeracity/limitlesslibrary",
@@ -1655,20 +1669,6 @@
         "category": "news",
         "points": 3,
         "comments": 1,
-        "is_new": false
-      },
-      {
-        "id": "49394827",
-        "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
-        "url": "https://ozbrain.com",
-        "description": "",
-        "published": "2026-08-21T23:09:06Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 92,
-        "comments": 55,
         "is_new": false
       }
     ],
