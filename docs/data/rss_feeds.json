@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-26T13:13:02.966963+00:00",
+  "last_updated": "2026-08-26T14:02:21.698811+00:00",
   "total_entries": 110,
-  "new_entries": 0,
+  "new_entries": 3,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -48,8 +48,32 @@
   ],
   "entries": [
     {
+      "id": "9744030eca87930398163cf2bb078601",
+      "title": "Robot brain builders are pushing out of their GPT-2 era",
+      "url": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
+      "description": "Robot bodies are waiting for their AI brains to catch up.",
+      "published": "Wed, 26 Aug 2026 13:30:00 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "9831f37a70b7fd13341e6acb2e41a055",
+      "title": "QueryStory wants you to believe what AI is telling you",
+      "url": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
+      "description": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent.",
+      "published": "Wed, 26 Aug 2026 13:00:00 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "26bfb8eb611d8fcb3d6974627e932897",
-      "title": "Arga is building a better way to train enterprise AI agents",
+      "title": "Arga Labs is building a better way to train enterprise AI agents",
       "url": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
       "description": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel.",
       "published": "Wed, 26 Aug 2026 12:55:28 +0000",
@@ -684,18 +708,6 @@
       "is_new": false
     },
     {
-      "id": "be28f1428bf35df8501cff039929dda1",
-      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-      "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-      "description": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
-      "published": "Sun, 23 Aug 2026 20:01:36 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "894769239e7b4f268c084153dd9a1b3c",
       "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
       "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
@@ -749,18 +761,6 @@
       "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
       "description": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
       "published": "Mon, 24 Aug 2026 15:00:00 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "aa2dd08ad7dad188d29ea711a18b83e7",
-      "title": "Hugging Face reportedly in talks to be acquired for $13B",
-      "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
-      "description": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sa",
-      "published": "Mon, 24 Aug 2026 13:47:26 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
@@ -909,7 +909,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
+      "likes": 7,
       "is_new": false
     },
     {
@@ -948,7 +948,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 52,
+      "likes": 53,
       "is_new": false
     },
     {
@@ -1000,7 +1000,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 44,
+      "likes": 45,
       "is_new": false
     },
     {
@@ -1026,7 +1026,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -1066,19 +1066,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 47,
-      "is_new": false
-    },
-    {
-      "id": "1e401159858d1b1e58af8faaa053a0ea",
-      "title": "The Mask Is Not the Model: Auditing Prefix Invariance in Attention, State-Space, and Hybrid Sequence Models",
-      "url": "https://huggingface.co/papers/2608.22876",
-      "description": "We formalize prefix invariance: representations at position t must not depend on future inputs. We give a lightweight audit, two forward passes, no training or gradients, that localizes exactly where ",
-      "published": "2026-08-23T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 29,
       "is_new": false
     },
     {
@@ -1291,13 +1278,50 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "7a028145c948d36614d57cdf65716955",
+      "title": "Annotations as Rollouts: Efficient and Scalable Reinforcement Learning for Video MLLMs",
+      "url": "https://huggingface.co/papers/2608.20492",
+      "description": "Multimodal large language models (MLLMs) have become a prevailing paradigm for unified video perception. However, post-training on large multi-task datasets remains challenging, as existing reinforcem",
+      "published": "2026-08-19T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 68,
+      "is_new": false
     }
   ],
   "by_category": {
     "news": [
       {
+        "id": "9744030eca87930398163cf2bb078601",
+        "title": "Robot brain builders are pushing out of their GPT-2 era",
+        "url": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
+        "description": "Robot bodies are waiting for their AI brains to catch up.",
+        "published": "Wed, 26 Aug 2026 13:30:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "9831f37a70b7fd13341e6acb2e41a055",
+        "title": "QueryStory wants you to believe what AI is telling you",
+        "url": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
+        "description": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent.",
+        "published": "Wed, 26 Aug 2026 13:00:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "26bfb8eb611d8fcb3d6974627e932897",
-        "title": "Arga is building a better way to train enterprise AI agents",
+        "title": "Arga Labs is building a better way to train enterprise AI agents",
         "url": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
         "description": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel.",
         "published": "Wed, 26 Aug 2026 12:55:28 +0000",
@@ -1452,18 +1476,6 @@
         "is_new": false
       },
       {
-        "id": "be28f1428bf35df8501cff039929dda1",
-        "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-        "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-        "description": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
-        "published": "Sun, 23 Aug 2026 20:01:36 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
         "id": "894769239e7b4f268c084153dd9a1b3c",
         "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
         "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
@@ -1517,18 +1529,6 @@
         "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
         "description": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
         "published": "Mon, 24 Aug 2026 15:00:00 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "aa2dd08ad7dad188d29ea711a18b83e7",
-        "title": "Hugging Face reportedly in talks to be acquired for $13B",
-        "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
-        "description": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sa",
-        "published": "Mon, 24 Aug 2026 13:47:26 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
