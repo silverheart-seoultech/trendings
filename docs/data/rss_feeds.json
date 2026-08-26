@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-26T08:58:50.916010+00:00",
+  "last_updated": "2026-08-26T09:54:06.701270+00:00",
   "total_entries": 110,
-  "new_entries": 0,
+  "new_entries": 2,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -862,6 +862,19 @@
       "is_new": false
     },
     {
+      "id": "97f3202f22be59e8f347502b34cbd4de",
+      "title": "Latent Action as Intention Enables Efficient Future Imagination for World Action Models",
+      "url": "https://huggingface.co/papers/2608.24882",
+      "description": "World action models (WAMs) improve robot control by modeling how observations evolve, but generating future observations at test time incurs substantial latency. Fast-WAM removes this process for effi",
+      "published": "2026-08-24T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "49c84fbd5c9f18e72eb14f4f6f377b4c",
       "title": "Game2World Engine: Unlocking In-the-Wild Gameplay Videos for World Model Training",
       "url": "https://huggingface.co/papers/2608.24680",
@@ -962,7 +975,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 40,
+      "likes": 42,
       "is_new": false
     },
     {
@@ -1005,6 +1018,19 @@
       "is_new": false
     },
     {
+      "id": "79162bf706dbc5e0e0bd3a5aa7f67a81",
+      "title": "CyberFactory: Scaling Cyber Security Capabilities with Instances from the Wild",
+      "url": "https://huggingface.co/papers/2608.23181",
+      "description": "As large language models (LLMs) continue to advance in coding capabilities, their potential in cybersecurity has drawn increasing research attention, with closed-source LLMs (e.g., Mythos) delivering ",
+      "published": "2026-08-23T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 17,
+      "is_new": true
+    },
+    {
       "id": "91764fe4f131c31f414a06ebb4639403",
       "title": "AutoSaddler: Automatic Harness Optimization with Durable Updates from Agent Execution Traces",
       "url": "https://huggingface.co/papers/2608.23041",
@@ -1028,32 +1054,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 29,
-      "is_new": false
-    },
-    {
-      "id": "6defa56b8e1d5f78c2438918f4e629a4",
-      "title": "The Laws of Context Allocation: Causal Measurement and Closed-Loop Orchestration in Generative Search",
-      "url": "https://huggingface.co/papers/2608.23252",
-      "description": "As Retrieval-Augmented Generation (RAG) shifts toward diverse portfolio generation, it is stymied by two critical bottlenecks: flawed measurement of evidence utilization, and suboptimal context budget",
-      "published": "2026-08-23T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
-      "is_new": false
-    },
-    {
-      "id": "e0e82aab210576e887fddd4097001178",
-      "title": "LongWoF-Bench: Evaluating EvoMap Genes for Verifiable Long-Workflow Tasks",
-      "url": "https://huggingface.co/papers/2608.23200",
-      "description": "Large language models are increasingly expected to execute complex workflows whose success depends on maintaining interdependent constraints and producing artifacts that satisfy strict end-to-end veri",
-      "published": "2026-08-23T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 6,
       "is_new": false
     },
     {
