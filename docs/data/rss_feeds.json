@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-26T19:16:20.583124+00:00",
+  "last_updated": "2026-08-26T19:52:27.742975+00:00",
   "total_entries": 110,
-  "new_entries": 14,
+  "new_entries": 17,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,6 +47,30 @@
     }
   ],
   "entries": [
+    {
+      "id": "838ca76e929f068817825954debef2bf",
+      "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
+      "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
+      "description": "Consumer AI apps need to stop making users learn their product architecture.",
+      "published": "Wed, 26 Aug 2026 19:37:34 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "a65015085aa139631016907df6fd91bb",
+      "title": "How do we explain OpenAI’s executive exodus?",
+      "url": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
+      "description": "Was Greg Brockman the right executive all along?",
+      "published": "Wed, 26 Aug 2026 19:34:04 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "0f701375c211f419f9baafe4fdf5844e",
       "title": "OpenAI releases its official report on the Hugging Face breach",
@@ -744,30 +768,6 @@
       "is_new": false
     },
     {
-      "id": "93a87e369cbc918325dfe7fc44fc3af3",
-      "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
-      "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
-      "description": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
-      "published": "Tue, 25 Aug 2026 12:00:00 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "32cda19d8db8e2104eda8e4a8ddcba89",
-      "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-      "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
-      "description": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
-      "published": "Tue, 25 Aug 2026 00:23:12 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "442be4968139a7af6ccb5cba1384cb59",
       "title": "Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;",
       "url": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
@@ -900,6 +900,19 @@
       "is_new": false
     },
     {
+      "id": "9f7b28a0686c0483586ce105c22304cc",
+      "title": "When \"Must\" Becomes \"Maybe\": Constraint Weakening in LLM Agent Workflows",
+      "url": "https://huggingface.co/papers/2608.24569",
+      "description": "Large language model (LLM) agents coordinate complex tasks through multi-role and multi-stage workflows. Upstream state is repeatedly transformed into intermediate language artifacts, such as summarie",
+      "published": "2026-08-24T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
       "id": "b09dc6b9c99d370e70fa2919e3cceafa",
       "title": "MoTE: Mixture of Task Experts for Multi-Task Video Understanding",
       "url": "https://huggingface.co/papers/2608.24763",
@@ -1014,19 +1027,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 11,
-      "is_new": false
-    },
-    {
-      "id": "a54727227a85a1d8b3be078db607fa1f",
-      "title": "On-Policy Self-Distillation in Diffusion Models",
-      "url": "https://huggingface.co/papers/2608.24646",
-      "description": "Reinforcement learning can align diffusion models with human preferences and task-specific objectives, but endpoint rewards do not specify how an intermediate denoising prediction should change. We in",
-      "published": "2026-08-24T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 47,
       "is_new": false
     },
     {
@@ -1298,6 +1298,30 @@
   "by_category": {
     "news": [
       {
+        "id": "838ca76e929f068817825954debef2bf",
+        "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
+        "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
+        "description": "Consumer AI apps need to stop making users learn their product architecture.",
+        "published": "Wed, 26 Aug 2026 19:37:34 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "a65015085aa139631016907df6fd91bb",
+        "title": "How do we explain OpenAI’s executive exodus?",
+        "url": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
+        "description": "Was Greg Brockman the right executive all along?",
+        "published": "Wed, 26 Aug 2026 19:34:04 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "0f701375c211f419f9baafe4fdf5844e",
         "title": "OpenAI releases its official report on the Hugging Face breach",
         "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
@@ -1507,30 +1531,6 @@
         "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
         "description": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
         "published": "Tue, 25 Aug 2026 13:00:00 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "93a87e369cbc918325dfe7fc44fc3af3",
-        "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
-        "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
-        "description": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
-        "published": "Tue, 25 Aug 2026 12:00:00 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "32cda19d8db8e2104eda8e4a8ddcba89",
-        "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-        "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
-        "description": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
-        "published": "Tue, 25 Aug 2026 00:23:12 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
