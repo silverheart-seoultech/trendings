@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-26T01:55:45.548950+00:00",
+  "last_updated": "2026-08-26T03:15:54.666220+00:00",
   "total_entries": 110,
-  "new_entries": 0,
+  "new_entries": 11,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -834,6 +834,136 @@
       "is_new": false
     },
     {
+      "id": "6b30bb49b3426b841210fec93b489f62",
+      "title": "LAION-BVD: A 10-Million-Hour Open Video Dataset for Multimodal Pre-training",
+      "url": "https://huggingface.co/papers/2608.24845",
+      "description": "We present LAION-BVD, a large-scale open video dataset for multimodal learning, which contains 1.3B platform-specific video URLs collected from CommonCrawl. From these, we download 80M videos with a t",
+      "published": "2026-08-24T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "3bf3047811f885118fdc66d4b926d525",
+      "title": "WeMM-Embedding: WeChat Multi-Modal Embedding Technical Report",
+      "url": "https://huggingface.co/papers/2608.24053",
+      "description": "Universal multimodal embeddings are becoming a core component of modern AI systems, enabling heterogeneous content to be represented in a shared space for applications such as retrieval, recommendatio",
+      "published": "2026-08-24T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "bec1d2ffd32b45f177543362c67daead",
+      "title": "TorchMorph: CUDA-accelerated Morphological Transforms",
+      "url": "https://huggingface.co/papers/2608.24738",
+      "description": "Morphological transforms are long-standing tools for shape and mask processing, but the de facto reference implementation in the Python ecosystem, i.e. scipy.ndimage, is CPU-only, single-array, and th",
+      "published": "2026-08-24T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "e399971e4075a3f62a2b26afce3b07e6",
+      "title": "Best Practice Critic Optimization",
+      "url": "https://huggingface.co/papers/2608.23566",
+      "description": "Group-based reinforcement learning methods such as GRPO for large language models avoid training a critic by sampling multiple responses for each prompt. A reliable critic could instead estimate token",
+      "published": "2026-08-24T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "52c47bc22383da20b89797dff467ca69",
+      "title": "On-policy Distillation with Verifiable Reward",
+      "url": "https://huggingface.co/papers/2608.24696",
+      "description": "Reinforcement Learning with Verifiable Rewards (RLVR) and on-policy distillation (OPD) have become two widely adopted paradigms for post-training large language models. However, RLVR suffers from spar",
+      "published": "2026-08-24T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "a54727227a85a1d8b3be078db607fa1f",
+      "title": "On-Policy Self-Distillation in Diffusion Models",
+      "url": "https://huggingface.co/papers/2608.24646",
+      "description": "Reinforcement learning can align diffusion models with human preferences and task-specific objectives, but endpoint rewards do not specify how an intermediate denoising prediction should change. We in",
+      "published": "2026-08-24T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 8,
+      "is_new": true
+    },
+    {
+      "id": "acaffa43cbea1baca1973c2f8d64ca82",
+      "title": "Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses",
+      "url": "https://huggingface.co/papers/2608.24876",
+      "description": "Recursive self-improvement (RSI) remains hard in long-horizon tasks, where growing histories obscure the task state and misalign skill invocation. We introduce Recuris, a recursive Experiential-Workin",
+      "published": "2026-08-24T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 14,
+      "is_new": true
+    },
+    {
+      "id": "18b5e124d1ff6ae02d376067a7af8705",
+      "title": "Meta^n: Recursive Self-Improvement through Emergent Depth",
+      "url": "https://huggingface.co/papers/2608.24735",
+      "description": "Self-improving LLM agents refine answers, not the process that produces those answers. Systems that add a meta-level hold that level fixed, and those that edit themselves must leave part of their own ",
+      "published": "2026-08-24T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "a335bf48be5667a875775a923dfb61fb",
+      "title": "CAFE: Self-Improving Search Agents Need Co-Evolving Feedback",
+      "url": "https://huggingface.co/papers/2608.24794",
+      "description": "Outcome-supervised search agents learn when and how to retrieve evidence, but terminal rewards neither localize intermediate errors nor redirect an ongoing trajectory before those errors compound. Tre",
+      "published": "2026-08-24T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "91764fe4f131c31f414a06ebb4639403",
+      "title": "AutoSaddler: Automatic Harness Optimization with Durable Updates from Agent Execution Traces",
+      "url": "https://huggingface.co/papers/2608.23041",
+      "description": "LLM agents remain unreliable on long-horizon tasks, where small local failures can compound over extended interactions and lead to overall task failure. Although external harnesses can substantially i",
+      "published": "2026-08-23T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 19,
+      "is_new": true
+    },
+    {
       "id": "1e401159858d1b1e58af8faaa053a0ea",
       "title": "The Mask Is Not the Model: Auditing Prefix Invariance in Attention, State-Space, and Hybrid Sequence Models",
       "url": "https://huggingface.co/papers/2608.22876",
@@ -873,97 +1003,6 @@
       "is_new": false
     },
     {
-      "id": "8b4823e68d61b650c20f495e432cd52c",
-      "title": "Towards a Densing Law for User Representation Learning at Billion-Scale Capacity",
-      "url": "https://huggingface.co/papers/2608.23392",
-      "description": "User representation learning in real-world industrial scenarios is commonly scaled by increasing user amount, behavioral sequence length and model size. However, existing methods face two challenges: ",
-      "published": "2026-08-23T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 21,
-      "is_new": false
-    },
-    {
-      "id": "2b71a073c163ef9e57270ad112110f40",
-      "title": "Industrial-Instruction: An End-to-End Framework for Building Instruction-Tuning and Benchmark Datasets from Industrial Technical Reports",
-      "url": "https://huggingface.co/papers/2608.22817",
-      "description": "Industrial technical reports contain high-value knowledge for maintenance, troubleshooting, and product engineering, but their heterogeneous structure (dense prose, specifications, tables) makes them ",
-      "published": "2026-08-23T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 5,
-      "is_new": false
-    },
-    {
-      "id": "9417db4dc24436a6fb762204fd718af3",
-      "title": "From Generation to Simulation: How Far Are World Models from Being True Simulators?",
-      "url": "https://huggingface.co/papers/2608.23070",
-      "description": "With the rapid progress of diffusion models and large-scale video generation, generative world models are increasingly expected to replace traditional simulators, including physics engines, game engin",
-      "published": "2026-08-23T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "83800ad64554b0bae85bf7594dfa9fb8",
-      "title": "RIBOSPAN: A Long-Context RNA Foundation Model for Versatile RNA Modeling",
-      "url": "https://huggingface.co/papers/2608.22849",
-      "description": "Full-length RNAs, particularly messenger RNAs, often exceed the context lengths used to pretrain existing RNA foundation models, limiting complete-transcript modeling at single-nucleotide resolution. ",
-      "published": "2026-08-23T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "d9cf4348545244e50be678b09043b1a0",
-      "title": "Beyond the Stability-Exploration Dilemma: Environmental Regularization for LLM Policy Optimization",
-      "url": "https://huggingface.co/papers/2608.23311",
-      "description": "Policy optimization (PO) for Large Language Models faces a stability--exploration trade-off, currently mediated by an action-side Policy-KL regularizer. This puts practitioners in a double bind: keepi",
-      "published": "2026-08-23T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 15,
-      "is_new": false
-    },
-    {
-      "id": "50ca06f8f74902ca4c0243b07530cff3",
-      "title": "EchoWM: Open and Enterable Omnimodal World Models",
-      "url": "https://huggingface.co/papers/2608.23189",
-      "description": "We present EchoWM, an omnimodal world model for enterable generative media that responds to continuous navigation while jointly generating 720p video, environmental sound, music and speech. We organiz",
-      "published": "2026-08-23T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 64,
-      "is_new": false
-    },
-    {
-      "id": "0dd350456db7b9c3069ae8e749122229",
-      "title": "One Polluted Page Is Enough: Evaluating Web Content Pollution in LLM Recommenders",
-      "url": "https://huggingface.co/papers/2606.13610",
-      "description": "Search-augmented LLMs increasingly mediate everyday consumer recommendations by retrieving live web content. This creates a new risk: LLM recommenders may consume web content that Generative Engine Op",
-      "published": "2026-08-23T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 5,
-      "is_new": false
-    },
-    {
       "id": "49405520",
       "title": "Why can AI generate Super Mario but not a wedge ramp for my robot vacuum?",
       "url": "https://news.ycombinator.com/item?id=49405520",
@@ -992,6 +1031,19 @@
       "is_new": false
     },
     {
+      "id": "39fd819d43abe9d2d10ccfae2660d707",
+      "title": "Length-Adaptive Decoding for Masked Diffusion Machine Translation",
+      "url": "https://huggingface.co/papers/2608.22274",
+      "description": "Machine translation tests masked diffusion language models (dLLMs) because every source token must be rendered faithfully, while fixed canvas decoding must choose target length before denoising. Exist",
+      "published": "2026-08-22T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "c3201c81ae65492fb4ff48f9c60f5abb",
       "title": "What AstroPT knows about galaxies, and what that can teach us about LLMs",
       "url": "https://huggingface.co/papers/2608.22614",
@@ -1014,7 +1066,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -1028,19 +1080,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 8,
-      "is_new": false
-    },
-    {
-      "id": "bb5f8a40a0be1e548a35879437e1d700",
-      "title": "WorldToken: Time-First Sequence Modeling for Robotic Imitation Learning",
-      "url": "https://huggingface.co/papers/2608.22591",
-      "description": "Robot policies receive heterogeneous observations at each decision step, yet sequence models differ in how they organize these inputs over time. We introduce WorldToken, a time-first policy instantiat",
-      "published": "2026-08-22T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
       "is_new": false
     },
     {
@@ -1240,32 +1279,6 @@
       "is_new": false
     },
     {
-      "id": "192cae93f7f88ee11a68bbc1f9f4509d",
-      "title": "Tomatoes, Potatoes, and Onions: Questioning the Need for Faces in Face Presentation Attack Detection",
-      "url": "https://huggingface.co/papers/2608.21455",
-      "description": "Face presentation attack detection (PAD) is traditionally formulated as a face-specific problem, although many of the visual artifacts introduced by print, replay, and recapture processes are not inhe",
-      "published": "2026-08-19T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "9bed4aa14538b41859e54e3d68ad5992",
-      "title": "One Success Isn't Reliability: Thinkingbox, a Sandbox and Benchmark for Agents in Stateful Business Workflows",
-      "url": "https://huggingface.co/papers/2608.19741",
-      "description": "Recent agent benchmarks increasingly ground evaluation in executable environments, from code repair to web navigation, app APIs, and function calling. Yet completing consequential work beyond code req",
-      "published": "2026-08-19T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 9,
-      "is_new": false
-    },
-    {
       "id": "49363710",
       "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
       "url": "https://github.com/onecli/onecli",
@@ -1277,18 +1290,6 @@
       "category": "news",
       "points": 88,
       "comments": 34,
-      "is_new": false
-    },
-    {
-      "id": "dc3d81799698c80d04615a9a9cdc8c8c",
-      "title": "Google Gemini is getting a dedicated student hub",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
-      "description": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards,",
-      "published": "2026-08-19T14:52:43-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
       "is_new": false
     }
   ],
