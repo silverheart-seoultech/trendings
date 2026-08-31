@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-31T20:00:14.677481+00:00",
+  "last_updated": "2026-08-31T22:41:41.988477+00:00",
   "total_entries": 109,
-  "new_entries": 15,
+  "new_entries": 18,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -53,18 +53,6 @@
       "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
       "description": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
       "published": "Thu, 27 Aug 2026 23:16:45 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "360e66b5f8076c66d4abc4ea196b5d82",
-      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-      "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
-      "description": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
-      "published": "Thu, 27 Aug 2026 19:52:52 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
@@ -142,6 +130,18 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "77b770af978c39334da0ebd9f9aeb0e2",
+      "title": "The Pentagon now has its own version of ChatGPT and Grok",
+      "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+      "description": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
+      "published": "Mon, 31 Aug 2026 20:13:45 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "72b2e2fa10252d2f5f234e571baca2f5",
@@ -765,8 +765,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 27,
-      "comments": 35,
+      "points": 39,
+      "comments": 37,
       "is_new": true
     },
     {
@@ -884,6 +884,20 @@
       "is_new": false
     },
     {
+      "id": "49481060",
+      "title": "Show HN: The AI agent that works inside the apps you use",
+      "url": "https://www.lava.so/#download",
+      "description": "",
+      "published": "2026-08-28T16:39:05Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "49480942",
       "title": "Show HN: Open tool for testing your AI Agents (No LLM)",
       "url": "https://github.com/IdoGol24/weir",
@@ -983,7 +997,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": true
     },
     {
@@ -996,7 +1010,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 5,
       "is_new": true
     },
     {
@@ -1009,7 +1023,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 10,
+      "likes": 11,
       "is_new": true
     },
     {
@@ -1035,7 +1049,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 50,
+      "likes": 51,
       "is_new": false
     },
     {
@@ -1061,7 +1075,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 24,
+      "likes": 25,
       "is_new": false
     },
     {
@@ -1129,7 +1143,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 14,
+      "likes": 17,
       "is_new": false
     },
     {
@@ -1142,7 +1156,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 10,
+      "likes": 11,
       "is_new": false
     },
     {
@@ -1155,7 +1169,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 26,
+      "likes": 27,
       "is_new": false
     },
     {
@@ -1168,20 +1182,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 34,
-      "is_new": false
-    },
-    {
-      "id": "20d826a07d0db7e1b7766ddba68484af",
-      "title": "Revisiting Local Context for Long-Horizon Streaming 3D Reconstruction",
-      "url": "https://huggingface.co/papers/2608.27529",
-      "description": "Streaming 3D reconstruction from extremely long videos requires estimating camera motion and scene geometry online under bounded memory and computation. Early streaming models achieve causal, bounded-",
-      "published": "2026-08-26T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 28,
+      "likes": 35,
       "is_new": false
     },
     {
@@ -1236,7 +1237,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -1303,18 +1304,6 @@
         "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
         "description": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
         "published": "Thu, 27 Aug 2026 23:16:45 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "360e66b5f8076c66d4abc4ea196b5d82",
-        "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-        "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
-        "description": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
-        "published": "Thu, 27 Aug 2026 19:52:52 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
@@ -1392,6 +1381,18 @@
         "source_icon": "📰",
         "category": "news",
         "is_new": false
+      },
+      {
+        "id": "77b770af978c39334da0ebd9f9aeb0e2",
+        "title": "The Pentagon now has its own version of ChatGPT and Grok",
+        "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+        "description": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
+        "published": "Mon, 31 Aug 2026 20:13:45 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
       },
       {
         "id": "72b2e2fa10252d2f5f234e571baca2f5",
@@ -1535,8 +1536,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 27,
-        "comments": 35,
+        "points": 39,
+        "comments": 37,
         "is_new": true
       },
       {
@@ -1654,18 +1655,18 @@
         "is_new": false
       },
       {
-        "id": "49480942",
-        "title": "Show HN: Open tool for testing your AI Agents (No LLM)",
-        "url": "https://github.com/IdoGol24/weir",
+        "id": "49481060",
+        "title": "Show HN: The AI agent that works inside the apps you use",
+        "url": "https://www.lava.so/#download",
         "description": "",
-        "published": "2026-08-28T16:31:56Z",
+        "published": "2026-08-28T16:39:05Z",
         "source_id": "hn-ai",
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 5,
-        "comments": 4,
-        "is_new": false
+        "points": 1,
+        "comments": 0,
+        "is_new": true
       }
     ],
     "research": [
