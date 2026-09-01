@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-01T05:01:47.569237+00:00",
+  "last_updated": "2026-09-01T10:02:27.513437+00:00",
   "total_entries": 109,
-  "new_entries": 2,
+  "new_entries": 15,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -756,6 +756,20 @@
       "is_new": false
     },
     {
+      "id": "49519813",
+      "title": "Show HN: Unitpost/email – open-source Email Components and Layouts",
+      "url": "https://www.unitpost.com/email",
+      "description": "",
+      "published": "2026-09-01T09:30:51Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 3,
+      "comments": 1,
+      "is_new": true
+    },
+    {
       "id": "49511007",
       "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
       "url": "https://usealmanac.com/",
@@ -765,8 +779,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 51,
-      "comments": 45,
+      "points": 53,
+      "comments": 47,
       "is_new": false
     },
     {
@@ -851,7 +865,72 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 40,
+      "likes": 67,
+      "is_new": true
+    },
+    {
+      "id": "84a2d2063e272f4d58f7629953a7fafd",
+      "title": "LightNav-0: Eliciting VLM Spatial Intelligence for Generalist Embodied Navigation",
+      "url": "https://huggingface.co/papers/2608.30935",
+      "description": "Embodied navigation requires agents to translate heterogeneous goals and visual observations into actions across tasks, environments, and robot embodiments. Modern vision-language models (VLMs) alread",
+      "published": "2026-08-30T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 21,
+      "is_new": true
+    },
+    {
+      "id": "a19e45c1d04f3c1744d1b15fccf2261c",
+      "title": "WebWorld: The Browser as a World Model for Self-Improving Web Code",
+      "url": "https://huggingface.co/papers/2608.30530",
+      "description": "VLM-driven self-improvement of web code has a structural flaw: the model that proposes the repair is the model that judges it, and visual plausibility under that judge is a poor proxy for whether the ",
+      "published": "2026-08-30T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "5b5feef2c6f190c56849ad57b83882e4",
+      "title": "DICS: Exploring Data Intrinsic Consistency for Visual Instruction Selection",
+      "url": "https://huggingface.co/papers/2608.30209",
+      "description": "Visual instruction tuning is crucial for advancing the vision-language alignment and instruction-following capabilities of Vision-Language Models (VLMs). However, identifying optimal subsets under a f",
+      "published": "2026-08-30T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "3a81a4108c991baa9beb5f803d0e5e9f",
+      "title": "Lies We Can See: Joint Verbal and Non-Verbal Deception by VLM Agents in Embodied Social Interactions",
+      "url": "https://huggingface.co/papers/2608.30428",
+      "description": "Strategic deception by LLM and VLM agents has emerged as a central AI alignment and safety concern. Social-deduction games (where each player holds a hidden role and communicates with others to deduce",
+      "published": "2026-08-30T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
+    },
+    {
+      "id": "da3c0a8dff561a11a5d50ffbba25fc1a",
+      "title": "Verification-Aware Training for Speculative Decoding",
+      "url": "https://huggingface.co/papers/2608.30135",
+      "description": "Speculative decoding accelerates large language model inference by using a draft model to generate candidate tokens, which are verified by the target model in a single forward pass. Verification proce",
+      "published": "2026-08-30T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
       "is_new": true
     },
     {
@@ -864,7 +943,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 33,
       "is_new": false
     },
     {
@@ -877,7 +956,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -890,7 +969,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 20,
       "is_new": false
     },
     {
@@ -903,7 +982,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 32,
+      "likes": 42,
       "is_new": false
     },
     {
@@ -916,111 +995,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
-      "is_new": false
-    },
-    {
-      "id": "cbac8b41b1caa73afb1d8e7b8a8fd851",
-      "title": "CogEvol: Towards Efficient and Reliable Learning Environment Generation",
-      "url": "https://huggingface.co/papers/2608.30968",
-      "description": "We present CogEvol, a family of models trained specifically for Learning Environment Generation: turning a course brief into a finished learning artifact (structured-JSON slides or self-contained inte",
-      "published": "2026-08-30T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
-      "is_new": false
-    },
-    {
-      "id": "33fcd2b8b6658d67c6dd1dc340b176ed",
-      "title": "CAST: Critique-Aware Supervision for Training Reliable Long-Horizon Tool-Calling Agents",
-      "url": "https://huggingface.co/papers/2608.30147",
-      "description": "Large language model (LLM) agents are increasingly deployed in long-horizon, interactive, and stateful environments. In these settings, a single wrong action, such as refunding the wrong purchase, can",
-      "published": "2026-08-30T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
       "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "89ab0a7223ef55c6d1319b591b5033bd",
-      "title": "MNIST-PRO: MNIST is Back as a Partially Observable World for AI Agents",
-      "url": "https://huggingface.co/papers/2608.31022",
-      "description": "AI agents in partially observable environments need to coordinate active sensing with working memory to maintain an evolving perceptual state. However, existing benchmarks struggle to isolate this per",
-      "published": "2026-08-30T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
-      "is_new": false
-    },
-    {
-      "id": "1ca9b1fd47eff14990e2a208496bea78",
-      "title": "Learning to Evaluate Before Improving: Automatic Rubric Induction for Automatic Research Agents",
-      "url": "https://huggingface.co/papers/2608.31076",
-      "description": "Autonomous scientific research agents are increasingly applied to end-to-end scientific workflows, including literature review, data analysis, experimentation, and report generation. However, open-end",
-      "published": "2026-08-30T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
-      "is_new": false
-    },
-    {
-      "id": "0d07825692a84758ce235aa613365228",
-      "title": "BLARM: Animating 3D Objects from Video via Blending Latent Rigid Motion Primitives",
-      "url": "https://huggingface.co/papers/2608.31113",
-      "description": "We introduce BLARM, a feed-forward method for video-driven 3D mesh animation. Given a monocular video and a static object mesh, BLARM predicts a temporally coherent animated mesh whose motion follows ",
-      "published": "2026-08-30T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "0e7194cb324370ac023eb8f3717dd9a1",
-      "title": "Scaling Large Reasoning Models beyond Human Supervision: A Path toward Superintelligence",
-      "url": "https://huggingface.co/papers/2608.31075",
-      "description": "Recent advances in large reasoning models (LRMs) have shown that reinforcement learning with verifiable rewards (RLVR) can substantially improve reasoning in mathematics and code, where outcomes can b",
-      "published": "2026-08-30T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 11,
-      "is_new": false
-    },
-    {
-      "id": "c35caf7d01d69256b88e92024298cc55",
-      "title": "Does On-Policy Distillation Really Distill? From Noisy Teacher to Self-Improvement",
-      "url": "https://huggingface.co/papers/2608.31046",
-      "description": "On-policy distillation (OPD) offers dense token-level supervision as an alternative to the sparse outcome-level advantages of reinforcement learning with verifiable rewards (RLVR). However, the teache",
-      "published": "2026-08-30T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 14,
-      "is_new": false
-    },
-    {
-      "id": "f39ceb56bce04b1c0870d974e2b87aa2",
-      "title": "PaperGym: Rubric-Centered Evolution for Research-Plan Generation",
-      "url": "https://huggingface.co/papers/2608.31119",
-      "description": "Research planning is the decisive capability of AI scientists. Yet a research plan admits no verifiable answer, so reinforcement learning lacks the environment it requires: tasks paired with a critic.",
-      "published": "2026-08-30T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 19,
       "is_new": false
     },
     {
@@ -1061,20 +1036,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
-      "is_new": false
-    },
-    {
-      "id": "a5713489818b6d77aec9420f6e83bd29",
-      "title": "Cross-lingual Functional Vectors for Emotion Detection in Large Language Models",
-      "url": "https://huggingface.co/papers/2608.29613",
-      "description": "Function vectors (FVs) have recently emerged as a promising mechanism for steering the behavior of large language models (LLMs) by injecting task-specific latent direction representations derived from",
-      "published": "2026-08-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
+      "likes": 1,
       "is_new": false
     },
     {
@@ -1092,6 +1054,45 @@
       "is_new": false
     },
     {
+      "id": "ac1a74611136f0517e0a73c3502eaccb",
+      "title": "Chat-Edit-3D++: Interactive 3D and 4D Scene Editing via Large Language Models",
+      "url": "https://huggingface.co/papers/2608.29137",
+      "description": "Recent work on image content manipulation based on vision-language pre-training models has been effectively extended to text-driven 3D scene editing. However, existing schemes for 3D scene editing sti",
+      "published": "2026-08-28T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "ad9a53030235e6418ce5f7ee24ec0f3a",
+      "title": "Super Library Agent: Joint Generation and Maintenance of Multiple Applications Beyond the Single Codebase",
+      "url": "https://huggingface.co/papers/2608.29310",
+      "description": "Organizations often develop and maintain portfolios of related applications: independently deployable codebases that share substantial domain logic, interface patterns, or operational conventions. As ",
+      "published": "2026-08-28T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 16,
+      "is_new": true
+    },
+    {
+      "id": "f369b858d99ac705e5de1ef41496d81e",
+      "title": "SafeAtlas-VL: Beyond Binary Multimodal Safety with Large-Scale Data and Guard Models",
+      "url": "https://huggingface.co/papers/2608.29098",
+      "description": "Multimodal safety moderation requires distinguishing risks arising from visual content, user intent, and assistant behavior. Existing safeguards, however, are typically trained for a single judgment t",
+      "published": "2026-08-28T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
       "id": "ad7a56208616fe1ce490c4d4847a0f45",
       "title": "Dynamic Important Example Mining for Reinforcement Finetuning",
       "url": "https://huggingface.co/papers/2608.29252",
@@ -1103,19 +1104,6 @@
       "category": "research",
       "likes": 0,
       "is_new": true
-    },
-    {
-      "id": "3a7559ce9f0b40048f92ffe949832134",
-      "title": "GenFirst: Generation Before Reconstruction for Stable End-to-End Latent Generative Modeling",
-      "url": "https://huggingface.co/papers/2608.29335",
-      "description": "Latent generative models typically follow a two-stage pipeline, training a variational autoencoder for reconstruction and then a generative model on the frozen latent space. Since reconstruction-optim",
-      "published": "2026-08-28T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 13,
-      "is_new": false
     },
     {
       "id": "49481060",
@@ -1222,17 +1210,17 @@
       "is_new": false
     },
     {
-      "id": "52c4bc1377185106cc8c97f37b02ccae",
-      "title": "Acquire, Repair, Preserve: A Diagnosis-Guided Post-Training Recipe for Small-Model Dialogue Game Agents",
-      "url": "https://huggingface.co/papers/2608.28458",
-      "description": "Interactive dialogue games test a capability that static benchmarks largely leave implicit: a model must carry state across turns, interpret feedback, and choose valid actions under changing constrain",
+      "id": "8dc0ed866fb01c34520a849ee15570c8",
+      "title": "Evaluating the Hidden Costs of Personalization in Large Language Models",
+      "url": "https://huggingface.co/papers/2608.28833",
+      "description": "While Large language models (LLMs) incorporate user personalization signals to improve usability and helpfulness, they increasingly shift from providing balanced, informative responses toward optimizi",
       "published": "2026-08-27T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
-      "is_new": false
+      "likes": 7,
+      "is_new": true
     },
     {
       "id": "49468252",
@@ -1275,6 +1263,19 @@
       "points": 4,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "5e2c10c6280474bfcfc686ca6d58f1e0",
+      "title": "Weaving Visual Narratives: Agentic Image Bundle Composition Beyond Atomic Visual Matching",
+      "url": "https://huggingface.co/papers/2608.28695",
+      "description": "Image retrieval has traditionally been formulated as a point-wise matching problem, where each candidate image is scored in isolation. However, this atomic paradigm fails to capture the complexity of ",
+      "published": "2026-08-26T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 5,
+      "is_new": true
     },
     {
       "id": "49449679",
@@ -1522,6 +1523,20 @@
         "is_new": false
       },
       {
+        "id": "49519813",
+        "title": "Show HN: Unitpost/email – open-source Email Components and Layouts",
+        "url": "https://www.unitpost.com/email",
+        "description": "",
+        "published": "2026-09-01T09:30:51Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 3,
+        "comments": 1,
+        "is_new": true
+      },
+      {
         "id": "49511007",
         "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
         "url": "https://usealmanac.com/",
@@ -1531,8 +1546,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 51,
-        "comments": 45,
+        "points": 53,
+        "comments": 47,
         "is_new": false
       },
       {
@@ -1641,20 +1656,6 @@
         "url": "https://www.truefoundry.com/blog/llm-agent-security-runtime-control-planes",
         "description": "",
         "published": "2026-08-29T07:36:35Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 1,
-        "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "49481060",
-        "title": "Show HN: The AI agent that works inside the apps you use",
-        "url": "https://www.lava.so/#download",
-        "description": "",
-        "published": "2026-08-28T16:39:05Z",
         "source_id": "hn-ai",
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
