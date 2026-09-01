@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-01T10:02:27.513437+00:00",
+  "last_updated": "2026-09-01T11:26:29.762223+00:00",
   "total_entries": 109,
-  "new_entries": 15,
+  "new_entries": 18,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -779,7 +779,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 53,
+      "points": 54,
       "comments": 47,
       "is_new": false
     },
@@ -856,6 +856,19 @@
       "is_new": false
     },
     {
+      "id": "0c334304d45bc14ab841a8220fffed9d",
+      "title": "Uncertainty-Aware End-to-End AI Weather Forecasting: Disentangling Observation and Model Contributions",
+      "url": "https://huggingface.co/papers/2608.30795",
+      "description": "End-to-end weather forecasting systems produce skillful global gridded and station forecasts directly from raw Earth observations, replacing the numerical weather prediction pipeline, including data a",
+      "published": "2026-08-30T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "e381be9f64122864dc7e6476e7287dde",
       "title": "DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Resolution",
       "url": "https://huggingface.co/papers/2608.31106",
@@ -865,7 +878,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 67,
+      "likes": 74,
       "is_new": true
     },
     {
@@ -878,7 +891,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 21,
+      "likes": 22,
       "is_new": true
     },
     {
@@ -917,7 +930,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 5,
       "is_new": true
     },
     {
@@ -960,45 +973,6 @@
       "is_new": false
     },
     {
-      "id": "6e03d5b42dd18eff7f02b94d7a5b0a50",
-      "title": "On the Design of Qwen3.8-Next Architecture: Evaluation, Efficiency, and Training Stability",
-      "url": "https://huggingface.co/papers/2608.30320",
-      "description": "We describe the architecture and ablations of Qwen3.8-Flash-Next, a sparse mixture-of-experts model with 125B parameters, 6B activated per token, and additional 51B parameters of n-gram embedding tabl",
-      "published": "2026-08-30T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 20,
-      "is_new": false
-    },
-    {
-      "id": "0ff416f443e87790643e6435db45e23f",
-      "title": "Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Modeling",
-      "url": "https://huggingface.co/papers/2608.30821",
-      "description": "Composable scene modeling aims to recover a real indoor scene as complete, editable object assets arranged as observed, giving robot simulation and embodied AI a simulation-ready replica of the real e",
-      "published": "2026-08-30T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 42,
-      "is_new": false
-    },
-    {
-      "id": "ebb5d2a103c4fad75e6f93b83185765b",
-      "title": "Scaffolding Foundation Models into Physical-World Agents Pushes the Frontier of Long-Horizon Navigation",
-      "url": "https://huggingface.co/papers/2608.30396",
-      "description": "Long-horizon physical-world agents must reason over distant goals while grounding decisions in reliable closed-loop behavior. Today's foundation models split these capabilities: vision-language models",
-      "published": "2026-08-30T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
       "id": "49501306",
       "title": "Ask HN: AI for Home Lab Infra?",
       "url": "https://news.ycombinator.com/item?id=49501306",
@@ -1036,7 +1010,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -1052,6 +1026,32 @@
       "points": 1,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "efb8a6715112465bfbd63cb5e9f05379",
+      "title": "Chain-of-Thought Faithfulness of Reasoning Models Varies with Where and How Preference Cues Are Delivered",
+      "url": "https://huggingface.co/papers/2608.29464",
+      "description": "Chain-of-thought (CoT) monitoring assumes that reasoning traces faithfully record the information that shapes a model's answer. Existing faithfulness tests often place explicit bias cues in the user m",
+      "published": "2026-08-28T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
+    },
+    {
+      "id": "090c5fffd60e49083fd40d7bc31ac845",
+      "title": "EvoGenUI-Bench: Evaluating LLMs as Multi-Turn Generative UI Assistants",
+      "url": "https://huggingface.co/papers/2608.29387",
+      "description": "Large language models can generate interactive web interfaces, but reliable generative UI requires maintaining an executable artifact as user requests evolve. We introduce EvoGenUI-Bench, a benchmark ",
+      "published": "2026-08-28T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
     },
     {
       "id": "ac1a74611136f0517e0a73c3502eaccb",
@@ -1076,7 +1076,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 16,
+      "likes": 17,
       "is_new": true
     },
     {
@@ -1219,7 +1219,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
+      "likes": 8,
       "is_new": true
     },
     {
@@ -1546,7 +1546,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 53,
+        "points": 54,
         "comments": 47,
         "is_new": false
       },
