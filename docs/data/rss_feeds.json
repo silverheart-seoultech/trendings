@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-02T04:25:10.911695+00:00",
+  "last_updated": "2026-09-02T09:33:42.094889+00:00",
   "total_entries": 110,
-  "new_entries": 40,
+  "new_entries": 44,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,6 +768,20 @@
       "is_new": false
     },
     {
+      "id": "49531958",
+      "title": "Who governs what autonomous AI agents execute?",
+      "url": "https://zenodo.org/records/22003768",
+      "description": "",
+      "published": "2026-09-02T05:04:48Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "07189f8e1b7316168fe6bbb895df334f",
       "title": "Google needs Hollywood more than the studios need AI",
       "url": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
@@ -825,8 +839,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 8,
-      "comments": 7,
+      "points": 10,
+      "comments": 9,
       "is_new": false
     },
     {
@@ -915,7 +929,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 9,
       "is_new": false
     },
     {
@@ -928,7 +942,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 15,
+      "likes": 55,
       "is_new": false
     },
     {
@@ -954,7 +968,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
+      "likes": 29,
       "is_new": false
     },
     {
@@ -967,7 +981,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 103,
+      "likes": 244,
       "is_new": false
     },
     {
@@ -980,7 +994,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 12,
+      "likes": 17,
       "is_new": false
     },
     {
@@ -1006,7 +1020,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 12,
+      "likes": 17,
       "is_new": false
     },
     {
@@ -1032,21 +1046,22 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
-      "id": "8502f1fbb2edfd4bd61e058c60d3f086",
-      "title": "The Safeguard Worked. Is the LLM System Safer?",
-      "url": "https://huggingface.co/papers/2609.00519",
-      "description": "Safeguards in deployed LLM services are evaluated by refusal, attack success, and policy violation rates. Those rates characterize how a control performed on the requests it was tested on. A deploymen",
-      "published": "2026-08-31T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
+      "id": "49511007",
+      "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
+      "url": "https://usealmanac.com/",
+      "description": "",
+      "published": "2026-08-31T15:34:34Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 57,
+      "comments": 48,
+      "is_new": true
     },
     {
       "id": "6eb0d063d6c9c5e2b57632b306c5f06c",
@@ -1073,6 +1088,32 @@
       "is_new": false
     },
     {
+      "id": "6bc3e5198b0bdaf2de9001b934ae69d3",
+      "title": "Recursive Criticality of AI Self-Improvement",
+      "url": "https://huggingface.co/papers/2609.00137",
+      "description": "AI is increasingly used in the R\\&D process that produces future AI systems. We study the conditions under which this feedback becomes self-amplifying. Our model describes how the rate of AI capabilit",
+      "published": "2026-08-30T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "faa8ef8eb760890f152de5c39f4d82c8",
+      "title": "Agents in the Large: Perception-Centered Architecture for Persistent Agents",
+      "url": "https://huggingface.co/papers/2608.30478",
+      "description": "Cognitive language agents have achieved substantial progress by equipping language models with memory, tools, and decision-making procedures, enabling agents to reason and act in interactive environme",
+      "published": "2026-08-30T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
+    },
+    {
       "id": "e61d8ee99cd178beff53ffb7e880d7f4",
       "title": "Safin-1: Safety from Within through Memory-Native State Evolution",
       "url": "https://huggingface.co/papers/2609.00092",
@@ -1082,7 +1123,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 17,
       "is_new": false
     },
     {
@@ -1095,7 +1136,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
+      "likes": 77,
       "is_new": false
     },
     {
@@ -1108,7 +1149,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 18,
+      "likes": 36,
       "is_new": false
     },
     {
@@ -1121,7 +1162,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -1134,7 +1175,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 16,
+      "likes": 22,
       "is_new": false
     },
     {
@@ -1162,19 +1203,6 @@
       "category": "news",
       "points": 2,
       "comments": 1,
-      "is_new": false
-    },
-    {
-      "id": "60ead88d5c55fdd2f4dd411fd46dbf5b",
-      "title": "GUI-CC: Benchmarking Contextual Consistency of GUI World Models as Agent Environments",
-      "url": "https://huggingface.co/papers/2609.00048",
-      "description": "GUI world models are increasingly evaluated as one-step next-screen predictors, yet their intended use is often as multi-step environments for GUI agents. This mismatch leaves a key requirement under-",
-      "published": "2026-08-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 8,
       "is_new": false
     },
     {
@@ -1259,33 +1287,6 @@
       "category": "news",
       "points": 3,
       "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "49466204",
-      "title": "Show HN: ThunderPhone v2 – a new architecture for voice AI",
-      "url": "https://thunderphone.com",
-      "description": "",
-      "published": "2026-08-27T15:14:24Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 4,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "320210e27637455eb0c76c59f2b780c9",
-      "title": "UI-Venus-2 Technical Report",
-      "url": "https://huggingface.co/papers/2609.00028",
-      "description": "Multimodal GUI agents have emerged as a promising paradigm for digital task automation, yet transitioning from benchmark-oriented models to dependable real-world applications remains challenging due t",
-      "published": "2026-08-26T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 36,
       "is_new": false
     }
   ],
@@ -1894,6 +1895,20 @@
         "is_new": false
       },
       {
+        "id": "49531958",
+        "title": "Who governs what autonomous AI agents execute?",
+        "url": "https://zenodo.org/records/22003768",
+        "description": "",
+        "published": "2026-09-02T05:04:48Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 1,
+        "comments": 0,
+        "is_new": true
+      },
+      {
         "id": "07189f8e1b7316168fe6bbb895df334f",
         "title": "Google needs Hollywood more than the studios need AI",
         "url": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
@@ -1951,8 +1966,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 8,
-        "comments": 7,
+        "points": 10,
+        "comments": 9,
         "is_new": false
       },
       {
@@ -2003,20 +2018,6 @@
         "category": "news",
         "points": 3,
         "comments": 1,
-        "is_new": false
-      },
-      {
-        "id": "49519813",
-        "title": "Show HN: Unitpost/email – open-source Email Components and Layouts",
-        "url": "https://www.unitpost.com/email",
-        "description": "",
-        "published": "2026-09-01T09:30:51Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 4,
-        "comments": 2,
         "is_new": false
       }
     ]
