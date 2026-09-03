@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-03T09:43:11.518586+00:00",
+  "last_updated": "2026-09-03T10:58:44.784141+00:00",
   "total_entries": 110,
-  "new_entries": 48,
+  "new_entries": 52,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -922,6 +922,19 @@
       "is_new": false
     },
     {
+      "id": "7d72196edb758aef705e2bc5fc1097c8",
+      "title": "Exploring Collaboration between a language and a non-language agent",
+      "url": "https://huggingface.co/papers/2609.00474",
+      "description": "LLMs are increasingly deployed as orchestrators that coordinate specialized subagents to solve complex tasks through natural language. However, in many important domains like game playing and robotics",
+      "published": "2026-09-01T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
       "id": "b3cc04e45a0e131a1ae3579b4b729f30",
       "title": "VibeVoice-ASR-Streaming Technical Report",
       "url": "https://huggingface.co/papers/2609.02812",
@@ -944,7 +957,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 337,
+      "likes": 340,
       "is_new": false
     },
     {
@@ -957,7 +970,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 86,
+      "likes": 87,
       "is_new": false
     },
     {
@@ -970,7 +983,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 39,
+      "likes": 40,
       "is_new": false
     },
     {
@@ -984,32 +997,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 6,
-      "is_new": false
-    },
-    {
-      "id": "b80e1bd51a330b4d1a477198391ffc88",
-      "title": "Cliff: Learning Process Rewards from the First Mistake",
-      "url": "https://huggingface.co/papers/2609.02817",
-      "description": "Reinforcement learning with verifiable rewards (RLVR) has emerged as a powerful paradigm for large language model (LLM) post-training, but its reliance on coarse outcome rewards leads to limited guida",
-      "published": "2026-09-01T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 15,
-      "is_new": false
-    },
-    {
-      "id": "73b9c716181011024e89c81d645b9c90",
-      "title": "PaperCompiler: Faithful Paper-to-Code Generation via Repository-Level Specification Compilation",
-      "url": "https://huggingface.co/papers/2609.02272",
-      "description": "Faithfully translating research papers into repository-level implementations remains challenging because papers often describe methods at a high level, leave implementation assumptions implicit, and r",
-      "published": "2026-09-01T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 5,
       "is_new": false
     },
     {
@@ -1127,7 +1114,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 14,
+      "likes": 17,
       "is_new": true
     },
     {
@@ -1140,7 +1127,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
+      "likes": 9,
       "is_new": true
     },
     {
@@ -1166,7 +1153,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 18,
+      "likes": 20,
       "is_new": false
     },
     {
@@ -1183,32 +1170,6 @@
       "is_new": false
     },
     {
-      "id": "6febae5d2a63c018100cd9e480a847d2",
-      "title": "Kirin: Animal Motion Generation from In-the-Wild Video",
-      "url": "https://huggingface.co/papers/2609.01823",
-      "description": "Understanding animal motion is fundamental to modeling animal behavior and biomechanics, yet progress in this area lags far behind human motion research due to the scarcity of high-quality motion data",
-      "published": "2026-08-31T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "5014d05e28a6516d8f67e23fc17d25f7",
-      "title": "ExecRetrieval: Measuring the Functional-Correctness Gap in Code-Embedding Retrieval",
-      "url": "https://huggingface.co/papers/2609.01865",
-      "description": "Embedding-based code retrieval is a core component of coding agents and retrieval-augmented code generation, where retrieving correct code matters more than retrieving lexically similar code. Existing",
-      "published": "2026-08-31T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 5,
-      "is_new": false
-    },
-    {
       "id": "49511007",
       "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
       "url": "https://usealmanac.com/",
@@ -1221,6 +1182,45 @@
       "points": 59,
       "comments": 48,
       "is_new": false
+    },
+    {
+      "id": "ee1bb1adf1a8e3be4551368e1a673773",
+      "title": "NeoMME: A Single-Tower Multimodal-Native Multilingual Foundation Encoder for Efficient Fine-Tuning and Inference",
+      "url": "https://huggingface.co/papers/2609.01657",
+      "description": "Multimodal models often build on architectures designed for generative vision-language modeling, typically combining separately pretrained vision encoders with causal language models. Visual document ",
+      "published": "2026-08-30T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "be53eb505f05f98085cc4be7df7e9635",
+      "title": "FoldingAgent: Inferring Parametric Origami Procedures from Demonstration Videos",
+      "url": "https://huggingface.co/papers/2609.00377",
+      "description": "We present FoldingAgent, an agentic framework for inferring explicit parametric folding programs directly from origami demonstration videos. Our framework leverages the reasoning power of a pre-traine",
+      "published": "2026-08-30T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "6edfc44ccbcb8928235f7c0f0a0dbdf8",
+      "title": "Ignorance or Incompetence? Constructing Knowledge-Gated, Verifiable Tasks for LLM Agents",
+      "url": "https://huggingface.co/papers/2608.30322",
+      "description": "Professional agent tasks often depend on conventions that are absent from public corpora, yet benchmarks rarely control whether an agent has access to those conventions. We introduce a knowledge-gated",
+      "published": "2026-08-30T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
     },
     {
       "id": "14d818049db5955b3d232ad6e36504f6",
@@ -1272,7 +1272,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 4,
       "is_new": true
     },
     {
