@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-03T20:49:21.029677+00:00",
+  "last_updated": "2026-09-03T21:41:03.169630+00:00",
   "total_entries": 109,
-  "new_entries": 8,
+  "new_entries": 2,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -201,7 +201,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "f1f94c405560ff1797ef21bd024784a1",
@@ -213,7 +213,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "939cb98685e5e469fc4c9c52cb0f0a99",
@@ -225,7 +225,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "1a81518cc6603810f6be099a861ddb91",
@@ -237,7 +237,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "4d0be1d61b00620c1da64f3b8e832faa",
@@ -756,6 +756,20 @@
       "is_new": false
     },
     {
+      "id": "49557409",
+      "title": "Show HN: Building AI agents client-side JavaScript",
+      "url": "https://news.ycombinator.com/item?id=49557409",
+      "description": "",
+      "published": "2026-09-03T21:34:31Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "49555446",
       "title": "Show HN: Agentray, a macOS agent whose interface is a folder",
       "url": "https://news.ycombinator.com/item?id=49555446",
@@ -767,7 +781,19 @@
       "category": "news",
       "points": 2,
       "comments": 0,
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "id": "71b717fc0c561e950e6311813af55604",
+      "title": "ChatGPT, Grok, and Claude all went down at the same time",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
+      "description": "OpenAI's ChatGPT, xAI's Grok, and Anthropic's Claude are back online after they all began experiencing issues around the same time on Thursday. At about 11AM ET, ChatGPT started returning error messag",
+      "published": "2026-09-03T17:04:39-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": false
     },
     {
       "id": "49552209",
@@ -807,7 +833,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "49550418",
@@ -821,18 +847,6 @@
       "category": "news",
       "points": 1,
       "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "71b717fc0c561e950e6311813af55604",
-      "title": "ChatGPT, Grok, and Claude all went down at the same time",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
-      "description": "OpenAI's ChatGPT, xAI's Grok, and Anthropic's Claude are back online after they all began experiencing issues around the same time on Thursday. At about 11AM ET, ChatGPT started returning error messag",
-      "published": "2026-09-03T14:03:46-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
       "is_new": false
     },
     {
@@ -1125,6 +1139,19 @@
       "is_new": false
     },
     {
+      "id": "f96ca648f08758881530f5d8b5c914e7",
+      "title": "Sparse Readout Prism: Explaining Logit-Lens Scores in Features Instead of Tokens",
+      "url": "https://huggingface.co/papers/2609.01936",
+      "description": "A language model's prediction of its next token develops across layers, and lens methods track this process by decoding intermediate hidden states into tokens. But a lens reading reflects both the hid",
+      "published": "2026-08-31T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
       "id": "4bee48d0817b141d838e7c3c24f70319",
       "title": "Autoregressive Mosaics: Probing 2D Spatial Reasoning in Text-Only Language Models",
       "url": "https://huggingface.co/papers/2608.30751",
@@ -1186,7 +1213,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 193,
+      "likes": 210,
       "is_new": false
     },
     {
@@ -1213,8 +1240,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
-      "is_new": true
+      "likes": 7,
+      "is_new": false
     },
     {
       "id": "ee1bb1adf1a8e3be4551368e1a673773",
@@ -1265,34 +1292,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 156,
-      "is_new": false
-    },
-    {
-      "id": "f5c31b1d72210999957eac14be36a2a5",
-      "title": "S3Gym: Can LLMs Turn Self-Testing and Self-Judging into Self-Improvement?",
-      "url": "https://huggingface.co/papers/2608.31100",
-      "description": "Large language models (LLMs) increasingly interact with external environments and accumulate substantial behavioral experience, yet existing agent benchmarks largely evaluate them as fixed policies. I",
-      "published": "2026-08-30T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 25,
-      "is_new": false
-    },
-    {
-      "id": "49496137",
-      "title": "Show HN: VelocityNote – A tiny Markdown notebook with local AI",
-      "url": "https://velocitynote.app/",
-      "description": "",
-      "published": "2026-08-30T06:17:01Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 1,
+      "likes": 165,
       "is_new": false
     }
   ],
@@ -1452,7 +1452,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "f1f94c405560ff1797ef21bd024784a1",
@@ -1464,7 +1464,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "939cb98685e5e469fc4c9c52cb0f0a99",
@@ -1476,7 +1476,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "1a81518cc6603810f6be099a861ddb91",
@@ -1488,7 +1488,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "4d0be1d61b00620c1da64f3b8e832faa",
@@ -1527,6 +1527,20 @@
         "is_new": false
       },
       {
+        "id": "49557409",
+        "title": "Show HN: Building AI agents client-side JavaScript",
+        "url": "https://news.ycombinator.com/item?id=49557409",
+        "description": "",
+        "published": "2026-09-03T21:34:31Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 1,
+        "comments": 0,
+        "is_new": true
+      },
+      {
         "id": "49555446",
         "title": "Show HN: Agentray, a macOS agent whose interface is a folder",
         "url": "https://news.ycombinator.com/item?id=49555446",
@@ -1538,7 +1552,19 @@
         "category": "news",
         "points": 2,
         "comments": 0,
-        "is_new": true
+        "is_new": false
+      },
+      {
+        "id": "71b717fc0c561e950e6311813af55604",
+        "title": "ChatGPT, Grok, and Claude all went down at the same time",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
+        "description": "OpenAI's ChatGPT, xAI's Grok, and Anthropic's Claude are back online after they all began experiencing issues around the same time on Thursday. At about 11AM ET, ChatGPT started returning error messag",
+        "published": "2026-09-03T17:04:39-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
       },
       {
         "id": "49552209",
@@ -1578,7 +1604,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "49550418",
@@ -1592,18 +1618,6 @@
         "category": "news",
         "points": 1,
         "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "71b717fc0c561e950e6311813af55604",
-        "title": "ChatGPT, Grok, and Claude all went down at the same time",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
-        "description": "OpenAI's ChatGPT, xAI's Grok, and Anthropic's Claude are back online after they all began experiencing issues around the same time on Thursday. At about 11AM ET, ChatGPT started returning error messag",
-        "published": "2026-09-03T14:03:46-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
         "is_new": false
       },
       {
@@ -1656,18 +1670,6 @@
         "category": "news",
         "points": 3,
         "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "a6e3ba40636bde28c623f79f606d552c",
-        "title": "Google says its AI weather model is getting better",
-        "url": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update",
-        "description": "Google is rolling out an updated AI weather model that's supposed to be more accurate, especially when it comes to predicting rain and snowfall. In the announcement today, the company says it's now ab",
-        "published": "2026-09-03T10:41:03-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
         "is_new": false
       }
     ],
