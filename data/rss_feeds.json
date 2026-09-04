@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-04T04:24:55.347808+00:00",
+  "last_updated": "2026-09-04T09:35:01.971315+00:00",
   "total_entries": 109,
-  "new_entries": 44,
+  "new_entries": 51,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -805,7 +805,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 7,
+      "points": 8,
       "comments": 1,
       "is_new": false
     },
@@ -949,9 +949,48 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 2,
+      "points": 3,
       "comments": 6,
       "is_new": false
+    },
+    {
+      "id": "05b139b0cb5a0327aa8d8171d64971eb",
+      "title": "Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction",
+      "url": "https://huggingface.co/papers/2609.04201",
+      "description": "Online 3D reconstruction models perform poorly on long videos. This happens because regressing poses relative to a fixed first-frame anchor forces extrapolation far beyond the training distribution. S",
+      "published": "2026-09-02T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 18,
+      "is_new": true
+    },
+    {
+      "id": "589eca1d71eaab58b97f9c3baf1995be",
+      "title": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions",
+      "url": "https://huggingface.co/papers/2609.04199",
+      "description": "Many recurring text functions are easy to describe but difficult to implement with rules, while calling a large remote model for every input introduces repeated cost, latency, and dependency on a prov",
+      "published": "2026-09-02T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 29,
+      "is_new": true
+    },
+    {
+      "id": "e98d34246be4739501cb20fe5839f063",
+      "title": "PACE: Towards Surfacing Hidden Conflicts in User Requests",
+      "url": "https://huggingface.co/papers/2609.03293",
+      "description": "Personalized assistants should not only comply with user requests but also assess whether those requests are appropriate given the user's current circumstances. However, prior work has primarily focus",
+      "published": "2026-09-02T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 6,
+      "is_new": true
     },
     {
       "id": "c7526297e00710f32b39bcd2d70eb138",
@@ -963,7 +1002,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 32,
       "is_new": true
     },
     {
@@ -976,7 +1015,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 15,
       "is_new": true
     },
     {
@@ -989,7 +1028,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -1002,7 +1041,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 7,
       "is_new": false
     },
     {
@@ -1015,7 +1054,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 40,
+      "likes": 54,
       "is_new": false
     },
     {
@@ -1028,7 +1067,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 32,
+      "likes": 49,
       "is_new": false
     },
     {
@@ -1041,7 +1080,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 10,
       "is_new": false
     },
     {
@@ -1054,7 +1093,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 22,
       "is_new": false
     },
     {
@@ -1067,7 +1106,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -1080,7 +1119,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -1088,32 +1127,6 @@
       "title": "Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments",
       "url": "https://huggingface.co/papers/2609.04148",
       "description": "As terminal-based code agents become prevalent, agent trajectories have accumulated at scale, while realistic, executable environments remain scarce. However, environments are what agent post-training",
-      "published": "2026-09-02T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 6,
-      "is_new": false
-    },
-    {
-      "id": "d2c90dec7a790a773fd7cd040b3a6c7d",
-      "title": "LLaDA-Image: Building Strong Image Generators with Fully Open Training Recipes",
-      "url": "https://huggingface.co/papers/2609.03796",
-      "description": "We introduce LLaDA-Image, a unified framework that pairs a 6B Diffusion Transformer (DiT) trained from scratch with a frozen vision-language understanding module built on the LLaDA2.0-Mini diffusion l",
-      "published": "2026-09-02T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 61,
-      "is_new": false
-    },
-    {
-      "id": "f00ece4b86a7129e994eb709ec80d180",
-      "title": "Why Gated DeltaNet Survives 4-Bit Quantization: NVFP4 W4A4 for the Recurrent Half of a Hybrid 27B LLM",
-      "url": "https://huggingface.co/papers/2609.04098",
-      "description": "Hybrid LLMs pair softmax attention with linear-attention layers such as Gated DeltaNet (GDN), whose recurrent state summarizes the context in fixed size. Early community 4-bit quantizations of Qwen3.8",
       "published": "2026-09-02T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
@@ -1199,6 +1212,32 @@
       "is_new": false
     },
     {
+      "id": "045454bbfe75260486d6846ee9e21b0f",
+      "title": "Let Confidence Change, Not the Prediction: Prediction-Preserving Repair for Post-hoc Calibration",
+      "url": "https://huggingface.co/papers/2609.01072",
+      "description": "Post-hoc calibration corrects reported confidence, yet a multiclass calibrator can also change the associated top-1 prediction. Accuracy captures only the net effect of these changes on correctness, n",
+      "published": "2026-09-01T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "bca53b79172937925839870118157176",
+      "title": "Percolation Dynamics in Optimization : Variance Cascades and Discrete Scale Invariance",
+      "url": "https://huggingface.co/papers/2609.02373",
+      "description": "We study the dynamics of Stochastic Gradient Descent (SGD), which is known to steer deep neural networks toward invariant sets that correspond to simpler subnetworks. How this steering unfolds over ti",
+      "published": "2026-09-01T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "6dee087db70042e2eb24f492738266fa",
       "title": "The Missing Temporal Link: Temporal Context Routing for Script-Driven Audio-Video Generation",
       "url": "https://huggingface.co/papers/2609.02367",
@@ -1208,7 +1247,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 18,
       "is_new": false
     },
     {
@@ -1240,56 +1279,17 @@
       "is_new": false
     },
     {
-      "id": "0ed60c4302f13429fbefcb75acc6818a",
-      "title": "LatentPress: Context Compression Beyond Text and Vision",
-      "url": "https://huggingface.co/papers/2609.01507",
-      "description": "Compressed context is usually carried as human-readable text or as rendered images that must be decoded, even when its consumer is a language model. We introduce LatentPress, which writes conversation",
-      "published": "2026-08-31T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 49,
-      "is_new": false
-    },
-    {
-      "id": "c550f16fa1dead859d70924647671bb3",
-      "title": "Replacing Training with Memory: Listwise Selection for Text-to-SQL",
-      "url": "https://huggingface.co/papers/2609.00834",
-      "description": "Modern Text-to-SQL systems often follow generate-execute-select pipelines, generating multiple candidate queries then selecting the best one. Listwise selection, by jointly comparing multiple candidat",
-      "published": "2026-08-31T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "f96ca648f08758881530f5d8b5c914e7",
-      "title": "Sparse Readout Prism: Explaining Logit-Lens Scores in Features Instead of Tokens",
-      "url": "https://huggingface.co/papers/2609.01936",
-      "description": "A language model's prediction of its next token develops across layers, and lens methods track this process by decoding intermediate hidden states into tokens. But a lens reading reflects both the hid",
-      "published": "2026-08-31T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "1ab7f31bbd3796691f43113d4f0f85f6",
-      "title": "RealSWE: A Compositional Evaluation of Coding Agents under Realistic User Requests",
-      "url": "https://huggingface.co/papers/2608.27831",
-      "description": "Coding agents are now commonly evaluated on the SWE-bench family of benchmarks, whose tasks are built from curated GitHub issues: long, structured, and information-rich. Real user requests, however, a",
+      "id": "4045ea35fbba446cf5d64316af0bc78b",
+      "title": "Using Grounded Theory for Agent Behavior Analysis at Scale",
+      "url": "https://huggingface.co/papers/2608.30391",
+      "description": "Understanding agent behavior requires methods that scale to thousands of trajectories and surface new patterns in long, often unfamiliar tasks where pre-built classifiers fall short. We propose to bri",
       "published": "2026-08-30T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
-      "is_new": false
+      "likes": 0,
+      "is_new": true
     }
   ],
   "by_category": {
@@ -1572,7 +1572,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 7,
+        "points": 8,
         "comments": 1,
         "is_new": false
       },
