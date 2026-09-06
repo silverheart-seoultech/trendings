@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-06T21:17:39.910078+00:00",
+  "last_updated": "2026-09-06T23:50:21.178165+00:00",
   "total_entries": 69,
-  "new_entries": 2,
+  "new_entries": 3,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -276,6 +276,18 @@
       "is_new": false
     },
     {
+      "id": "c6a48e7fbd074e164481dd36b9b3001a",
+      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "description": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI",
+      "published": "2026-09-06T19:43:53-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "49586810",
       "title": "I track LLM API prices daily, found a 33x cost gap in the same model",
       "url": "https://news.ycombinator.com/item?id=49586810",
@@ -285,7 +297,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 1,
+      "points": 2,
       "comments": 0,
       "is_new": false
     },
@@ -369,18 +381,6 @@
       "url": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
       "description": "Microsoft is giving its developer-optimized Windows experience a name: Project Zenith. While the software maker originally announced a similar developer-optimized Windows effort at Build earlier this",
       "published": "2026-09-04T07:22:12-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "a94dc4fdbbc2a78c35e865be6123ac99",
-      "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
-      "description": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use.",
-      "published": "2026-09-04T07:16:10-04:00",
       "source_id": "theverge-ai",
       "source_name": "The Verge AI",
       "source_icon": "📰",
@@ -583,7 +583,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 316,
+      "likes": 317,
       "is_new": false
     },
     {
@@ -863,7 +863,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 13,
+      "likes": 14,
       "is_new": false
     },
     {
@@ -1167,6 +1167,18 @@
         "is_new": false
       },
       {
+        "id": "c6a48e7fbd074e164481dd36b9b3001a",
+        "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+        "description": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI",
+        "published": "2026-09-06T19:43:53-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "49586810",
         "title": "I track LLM API prices daily, found a 33x cost gap in the same model",
         "url": "https://news.ycombinator.com/item?id=49586810",
@@ -1176,7 +1188,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 1,
+        "points": 2,
         "comments": 0,
         "is_new": false
       },
@@ -1260,18 +1272,6 @@
         "url": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
         "description": "Microsoft is giving its developer-optimized Windows experience a name: Project Zenith. While the software maker originally announced a similar developer-optimized Windows effort at Build earlier this",
         "published": "2026-09-04T07:22:12-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "a94dc4fdbbc2a78c35e865be6123ac99",
-        "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
-        "description": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use.",
-        "published": "2026-09-04T07:16:10-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
@@ -1368,7 +1368,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 316,
+        "likes": 317,
         "is_new": false
       },
       {
@@ -1550,7 +1550,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 13,
+        "likes": 14,
         "is_new": false
       },
       {
