@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-07T15:50:04.524548+00:00",
-  "total_entries": 109,
-  "new_entries": 3,
+  "last_updated": "2026-09-07T19:55:08.251423+00:00",
+  "total_entries": 110,
+  "new_entries": 9,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -154,6 +154,18 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "a91b380c0f011ca8182b164eb4a1c594",
+      "title": "Opaque recurrence, and other AI terms that you should probably know",
+      "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "published": "Mon, 07 Sep 2026 19:24:00 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "26046bae4ff1a3a554efc8ad67affc49",
@@ -637,7 +649,7 @@
     },
     {
       "id": "f48898262d8e66ea8ec84aa1d1f6c576",
-      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "title": "XDOF, just 3 months out of stealth, is in talks for a Series B at a $1.2B valuation",
       "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
       "description": "The round is being raised just months after the robot data startup exited from stealth.",
       "published": "Fri, 04 Sep 2026 23:36:14 +0000",
@@ -880,6 +892,32 @@
       "is_new": false
     },
     {
+      "id": "956d946a65dde843fdc6896cc6c4385d",
+      "title": "Knowing What Not to Answer: Selective Non-Compliance in Vision-Language Models",
+      "url": "https://huggingface.co/papers/2609.04720",
+      "description": "Vision-language models (VLMs) are expected to respond helpfully to appropriate requests while withholding compliance with requests that are incorrect, unsafe, infeasible, or unanswerable. However, exi",
+      "published": "2026-09-03T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "963b564ef8112b5c2aebfdf79f3aa078",
+      "title": "Refuse without Refusal: A Structural Analysis of Safety-Tuning Responses for Reducing False Refusals in Language Models",
+      "url": "https://huggingface.co/papers/2609.04714",
+      "description": "Striking a balance between helpfulness and safety remains a fundamental challenge in aligning large language models. To achieve this balance, models should refuse harmful queries (e.g., \"How do I shoo",
+      "published": "2026-09-03T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "662ca242de5972ea6da1e6efaa308162",
       "title": "UniMate: One Unified Model to Animate Diverse Skeletons",
       "url": "https://huggingface.co/papers/2609.05415",
@@ -889,7 +927,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 9,
       "is_new": true
     },
     {
@@ -902,7 +940,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
+      "likes": 10,
       "is_new": false
     },
     {
@@ -915,7 +953,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -929,45 +967,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 15,
-      "is_new": false
-    },
-    {
-      "id": "49274f13fe8d7ab796717f18bd733608",
-      "title": "RISE: Recursive Improvement via Self-Extrapolating Policy Distillation",
-      "url": "https://huggingface.co/papers/2609.05295",
-      "description": "On-policy distillation (OPD) provides dense, per-token supervision for language model post-training, but its effectiveness is bottlenecked by teacher quality: external teachers suffer from distributio",
-      "published": "2026-09-03T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 6,
-      "is_new": false
-    },
-    {
-      "id": "cfa897fb2ea9f9d43541c54b4a2716d1",
-      "title": "Don't Drop Dropout: Optimizing Layer Sparsity for Efficient LLM Training and Inference",
-      "url": "https://huggingface.co/papers/2609.05275",
-      "description": "Layer dropout (a.k.a. stochastic depth) has been shown to enable faster training, higher accuracy, and robustness to zero-shot layer pruning in both language and vision transformers. However, as model",
-      "published": "2026-09-03T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 11,
-      "is_new": false
-    },
-    {
-      "id": "29dbe3c80f8fbf957b885e9ecd194e13",
-      "title": "WorldSculpt: Generating Compositional Worlds from Grounded Videos",
-      "url": "https://huggingface.co/papers/2609.05416",
-      "description": "We study the problem of generating a compositional 3D representation of a cluttered scene containing hundreds of objects. The goal is to represent the scene as a collection of individual object meshes",
-      "published": "2026-09-03T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 17,
       "is_new": false
     },
     {
@@ -1107,6 +1106,32 @@
       "is_new": false
     },
     {
+      "id": "a00ec03565d7a41aa396afe9b0fdb11c",
+      "title": "HarvestBench: Measuring Whether LLM Agents Will Pay to Avoid Killing Animals",
+      "url": "https://huggingface.co/papers/2609.04444",
+      "description": "Benchmarks for the side effects an agent causes on the way to a goal already exist, but HarvestBench is the first to put a price on avoiding the side effect and to name that side effect as a living cr",
+      "published": "2026-09-02T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "68c91e5018a624f97b59dbed0cb9cac7",
+      "title": "The 2026 PNPL Competition: Word Classification and Efficient Cross-Subject Generalisation in LibriBrain100",
+      "url": "https://huggingface.co/papers/2609.03231",
+      "description": "The ambition of the 2025 PNPL competition (Landau et al., 2025) was to launch a multi-year curriculum for non-invasive speech decoding. Designed to progress from foundational tasks toward the linguist",
+      "published": "2026-09-02T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "44a64e7b0c4e602a9753c4d3d2643cf1",
       "title": "One Editor, Many Edits: A Unified Training-Free Framework for Diverse Video Editing",
       "url": "https://huggingface.co/papers/2609.04190",
@@ -1116,7 +1141,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 6,
       "is_new": true
     },
     {
@@ -1129,7 +1154,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 21,
+      "likes": 25,
       "is_new": false
     },
     {
@@ -1168,20 +1193,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
-      "is_new": false
-    },
-    {
-      "id": "d2e2eb28eb8ceb968d81877ffa4d296b",
-      "title": "When Quantization Breaks Memory: Recurrent-State Write-Back in Low-Precision Temporal Inference",
-      "url": "https://huggingface.co/papers/2609.04490",
-      "description": "Quantization is widely used to reduce the computational and memory demands of neural-network inference. In recurrent networks, however, the quantized state is stored and returned at the next time step",
-      "published": "2026-09-02T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
+      "likes": 9,
       "is_new": false
     },
     {
@@ -1222,7 +1234,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 86,
+      "likes": 91,
       "is_new": false
     },
     {
@@ -1235,7 +1247,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -1276,21 +1288,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 14,
-      "is_new": false
-    },
-    {
-      "id": "49511007",
-      "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
-      "url": "https://usealmanac.com/",
-      "description": "",
-      "published": "2026-08-31T15:34:34Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 59,
-      "comments": 48,
+      "likes": 16,
       "is_new": false
     }
   ],
@@ -1405,8 +1403,20 @@
         "is_new": false
       },
       {
+        "id": "a91b380c0f011ca8182b164eb4a1c594",
+        "title": "Opaque recurrence, and other AI terms that you should probably know",
+        "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+        "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+        "published": "Mon, 07 Sep 2026 19:24:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "f48898262d8e66ea8ec84aa1d1f6c576",
-        "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+        "title": "XDOF, just 3 months out of stealth, is in talks for a Series B at a $1.2B valuation",
         "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
         "description": "The round is being raised just months after the robot data startup exited from stealth.",
         "published": "Fri, 04 Sep 2026 23:36:14 +0000",
@@ -1646,20 +1656,6 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "49555446",
-        "title": "Show HN: Agentray, a macOS agent whose interface is a folder",
-        "url": "https://news.ycombinator.com/item?id=49555446",
-        "description": "",
-        "published": "2026-09-03T19:31:12Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 2,
-        "comments": 0,
         "is_new": false
       }
     ],
