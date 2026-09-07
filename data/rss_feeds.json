@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-06T23:50:21.178165+00:00",
+  "last_updated": "2026-09-07T03:59:48.002540+00:00",
   "total_entries": 69,
-  "new_entries": 3,
+  "new_entries": 13,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -400,6 +400,58 @@
       "is_new": false
     },
     {
+      "id": "ec775fcbd7db5b5061824d02519fbeb0",
+      "title": "Ask Before You Optimize: Dynamic Pre-Formulation Clarification for Interactive Optimization",
+      "url": "https://huggingface.co/papers/2609.05258",
+      "description": "Large language models (LLMs) are increasingly used to formulate optimization models from natural-language problem descriptions, yet realistic operations research (OR) requests are often incomplete: mi",
+      "published": "2026-09-03T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 7,
+      "is_new": true
+    },
+    {
+      "id": "49274f13fe8d7ab796717f18bd733608",
+      "title": "RISE: Recursive Improvement via Self-Extrapolating Policy Distillation",
+      "url": "https://huggingface.co/papers/2609.05295",
+      "description": "On-policy distillation (OPD) provides dense, per-token supervision for language model post-training, but its effectiveness is bottlenecked by teacher quality: external teachers suffer from distributio",
+      "published": "2026-09-03T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "cfa897fb2ea9f9d43541c54b4a2716d1",
+      "title": "Don't Drop Dropout: Optimizing Layer Sparsity for Efficient LLM Training and Inference",
+      "url": "https://huggingface.co/papers/2609.05275",
+      "description": "Layer dropout (a.k.a. stochastic depth) has been shown to enable faster training, higher accuracy, and robustness to zero-shot layer pruning in both language and vision transformers. However, as model",
+      "published": "2026-09-03T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "29dbe3c80f8fbf957b885e9ecd194e13",
+      "title": "WorldSculpt: Generating Compositional Worlds from Grounded Videos",
+      "url": "https://huggingface.co/papers/2609.05416",
+      "description": "We study the problem of generating a compositional 3D representation of a cluttered scene containing hundreds of objects. The goal is to represent the scene as a collection of individual object meshes",
+      "published": "2026-09-03T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
       "id": "49555446",
       "title": "Show HN: Agentray, a macOS agent whose interface is a folder",
       "url": "https://news.ycombinator.com/item?id=49555446",
@@ -522,6 +574,58 @@
       "is_new": false
     },
     {
+      "id": "ae0d8e24d52dd182607d7a83f09ce7b0",
+      "title": "When Models Edit Too Much: On the Fidelity of Minimal Code Edits",
+      "url": "https://huggingface.co/papers/2609.04061",
+      "description": "Large language models (LLMs) are increasingly used to edit existing code, but correctness alone is not enough: useful repairs should also be minimal, reviewable, and faithful to the original implement",
+      "published": "2026-09-02T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "794122ad3d89e3d469205eb1d84a2526",
+      "title": "MaxKernel: Agentic Kernel Generation for TPUs",
+      "url": "https://huggingface.co/papers/2609.04523",
+      "description": "Designing and authoring high-performance custom kernels for accelerators is a complex task that requires deep hardware-level expertise. Large Language Models (LLM) can be leveraged together with real-",
+      "published": "2026-09-02T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
+      "id": "d2e2eb28eb8ceb968d81877ffa4d296b",
+      "title": "When Quantization Breaks Memory: Recurrent-State Write-Back in Low-Precision Temporal Inference",
+      "url": "https://huggingface.co/papers/2609.04490",
+      "description": "Quantization is widely used to reduce the computational and memory demands of neural-network inference. In recurrent networks, however, the quantized state is stored and returned at the next time step",
+      "published": "2026-09-02T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "d90ec0a14fb6e02c5da3d3d0c1b4496d",
+      "title": "Iris: Climbing to the Search Frontier",
+      "url": "https://huggingface.co/papers/2609.04304",
+      "description": "We present Iris-mini and Iris-pro, two search agents trained at the 35B-A3B and 397B-A17B scales, together with the data pipeline and training recipe behind them. Tasks are reverse-constructed from th",
+      "published": "2026-09-02T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 11,
+      "is_new": true
+    },
+    {
       "id": "3a2de4350b55f83a5b53ed3ea91810a5",
       "title": "DRACO: Fine-Grained Credit Assignment with Dynamic Rubrics for Long-Horizon Agent Training",
       "url": "https://huggingface.co/papers/2609.04094",
@@ -531,7 +635,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 24,
+      "likes": 25,
       "is_new": false
     },
     {
@@ -544,7 +648,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 29,
+      "likes": 30,
       "is_new": false
     },
     {
@@ -571,84 +675,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 46,
-      "is_new": false
-    },
-    {
-      "id": "589eca1d71eaab58b97f9c3baf1995be",
-      "title": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions",
-      "url": "https://huggingface.co/papers/2609.04199",
-      "description": "Many recurring text functions are easy to describe but difficult to implement with rules, while calling a large remote model for every input introduces repeated cost, latency, and dependency on a prov",
-      "published": "2026-09-02T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 317,
-      "is_new": false
-    },
-    {
-      "id": "e98d34246be4739501cb20fe5839f063",
-      "title": "PACE: Towards Surfacing Hidden Conflicts in User Requests",
-      "url": "https://huggingface.co/papers/2609.03293",
-      "description": "Personalized assistants should not only comply with user requests but also assess whether those requests are appropriate given the user's current circumstances. However, prior work has primarily focus",
-      "published": "2026-09-02T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 22,
-      "is_new": false
-    },
-    {
-      "id": "c7526297e00710f32b39bcd2d70eb138",
-      "title": "Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States",
-      "url": "https://huggingface.co/papers/2609.04196",
-      "description": "We propose Puffin-World, a unified multimodal architecture that integrates physical understanding, spatial simulation, and 3D world generation and reconstruction without relying on external offline mo",
-      "published": "2026-09-02T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 66,
-      "is_new": false
-    },
-    {
-      "id": "6ed90ac9e2d77dee501844d6d716af27",
-      "title": "Beyond Retrieval: Progressive Latent Memory Evolution for Streaming Video Understanding",
-      "url": "https://huggingface.co/papers/2609.04131",
-      "description": "Streaming video understanding requires multimodal large language models (MLLMs) to process continuous visual inputs and respond to user queries under strict causality and bounded memory. Existing appr",
-      "published": "2026-09-02T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 29,
-      "is_new": false
-    },
-    {
-      "id": "56fb120dbe1de92ec098d1a0439fc211",
-      "title": "FlashRender: Few-Step Generative Rendering via Camera-Controlled Video MeanFlow",
-      "url": "https://huggingface.co/papers/2609.03563",
-      "description": "We present FlashRender, a few-step generative rendering framework that retakes a source video along a target camera trajectory in seconds. We identify sampling-step-dependent camera control as a promi",
-      "published": "2026-09-02T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 19,
-      "is_new": false
-    },
-    {
-      "id": "71d9582719b82419d31301e7c068c85d",
-      "title": "WorldReward: Reward Modeling for Camera-Conditioned World Models",
-      "url": "https://huggingface.co/papers/2609.03952",
-      "description": "Camera-conditioned world models generate interactive videos in which commanded actions should induce the expected scene changes while appearance, geometry, and temporal dynamics remain coherent. Exist",
-      "published": "2026-09-02T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 23,
       "is_new": false
     },
     {
@@ -719,45 +745,6 @@
       "is_new": false
     },
     {
-      "id": "045454bbfe75260486d6846ee9e21b0f",
-      "title": "Let Confidence Change, Not the Prediction: Prediction-Preserving Repair for Post-hoc Calibration",
-      "url": "https://huggingface.co/papers/2609.01072",
-      "description": "Post-hoc calibration corrects reported confidence, yet a multiclass calibrator can also change the associated top-1 prediction. Accuracy captures only the net effect of these changes on correctness, n",
-      "published": "2026-09-01T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 13,
-      "is_new": false
-    },
-    {
-      "id": "bca53b79172937925839870118157176",
-      "title": "Percolation Dynamics in Optimization : Variance Cascades and Discrete Scale Invariance",
-      "url": "https://huggingface.co/papers/2609.02373",
-      "description": "We study the dynamics of Stochastic Gradient Descent (SGD), which is known to steer deep neural networks toward invariant sets that correspond to simpler subnetworks. How this steering unfolds over ti",
-      "published": "2026-09-01T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 14,
-      "is_new": false
-    },
-    {
-      "id": "6dee087db70042e2eb24f492738266fa",
-      "title": "The Missing Temporal Link: Temporal Context Routing for Script-Driven Audio-Video Generation",
-      "url": "https://huggingface.co/papers/2609.02367",
-      "description": "Joint audio-video generation models have made substantial progress in visual quality and audio-visual synchronization. However, they still provide limited control over when shot transitions occur and ",
-      "published": "2026-09-01T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 33,
-      "is_new": false
-    },
-    {
       "id": "49520552",
       "title": "Show HN: A Proxy between LLMs and MCP servers with policy the model cannot reach",
       "url": "https://github.com/SenteLabsAI/extensible-mcp",
@@ -796,7 +783,20 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 59,
-      "comments": 49,
+      "comments": 48,
+      "is_new": true
+    },
+    {
+      "id": "6ff0d1240fb1c3cf7260a90d6a04345e",
+      "title": "Group Adaptive Clipping Policy Optimization",
+      "url": "https://huggingface.co/papers/2609.00444",
+      "description": "Group relative policy optimization for reinforcement learning with verifiable rewards (RLVR) typically uses a fixed importance-sampling (IS) ratio clipping boundary across all rollouts. We identify a ",
+      "published": "2026-08-30T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
       "is_new": true
     },
     {
@@ -923,17 +923,17 @@
       "is_new": false
     },
     {
-      "id": "0b2afc9be7823eb461bfd875257f980d",
-      "title": "Knowing When Not to Reuse: Conditional Experience Transfer in Autonomous LLM Post-Training",
-      "url": "https://huggingface.co/papers/2608.26730",
-      "description": "Large language models offer broad capabilities, but adapting them to evolving domains, tools, and requirements often entails repeated post-training. Autonomous systems automate parts of this process b",
-      "published": "2026-08-26T20:00:00.000Z",
+      "id": "06e6833adba381ad2b44537709dddebf",
+      "title": "Motion-Omni: End-to-End Joint Speech and Full-Body Motion for Spoken Dialogue",
+      "url": "https://huggingface.co/papers/2609.04250",
+      "description": "An avatar that holds a conversation should decide what to say and to move while saying it, yet these abilities live in separate model families: spoken dialogue models produce speech without motion, an",
+      "published": "2026-08-27T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 150,
-      "is_new": false
+      "likes": 10,
+      "is_new": true
     }
   ],
   "by_category": {
@@ -1307,6 +1307,110 @@
     ],
     "research": [
       {
+        "id": "ec775fcbd7db5b5061824d02519fbeb0",
+        "title": "Ask Before You Optimize: Dynamic Pre-Formulation Clarification for Interactive Optimization",
+        "url": "https://huggingface.co/papers/2609.05258",
+        "description": "Large language models (LLMs) are increasingly used to formulate optimization models from natural-language problem descriptions, yet realistic operations research (OR) requests are often incomplete: mi",
+        "published": "2026-09-03T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 7,
+        "is_new": true
+      },
+      {
+        "id": "49274f13fe8d7ab796717f18bd733608",
+        "title": "RISE: Recursive Improvement via Self-Extrapolating Policy Distillation",
+        "url": "https://huggingface.co/papers/2609.05295",
+        "description": "On-policy distillation (OPD) provides dense, per-token supervision for language model post-training, but its effectiveness is bottlenecked by teacher quality: external teachers suffer from distributio",
+        "published": "2026-09-03T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 1,
+        "is_new": true
+      },
+      {
+        "id": "cfa897fb2ea9f9d43541c54b4a2716d1",
+        "title": "Don't Drop Dropout: Optimizing Layer Sparsity for Efficient LLM Training and Inference",
+        "url": "https://huggingface.co/papers/2609.05275",
+        "description": "Layer dropout (a.k.a. stochastic depth) has been shown to enable faster training, higher accuracy, and robustness to zero-shot layer pruning in both language and vision transformers. However, as model",
+        "published": "2026-09-03T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 1,
+        "is_new": true
+      },
+      {
+        "id": "29dbe3c80f8fbf957b885e9ecd194e13",
+        "title": "WorldSculpt: Generating Compositional Worlds from Grounded Videos",
+        "url": "https://huggingface.co/papers/2609.05416",
+        "description": "We study the problem of generating a compositional 3D representation of a cluttered scene containing hundreds of objects. The goal is to represent the scene as a collection of individual object meshes",
+        "published": "2026-09-03T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 2,
+        "is_new": true
+      },
+      {
+        "id": "ae0d8e24d52dd182607d7a83f09ce7b0",
+        "title": "When Models Edit Too Much: On the Fidelity of Minimal Code Edits",
+        "url": "https://huggingface.co/papers/2609.04061",
+        "description": "Large language models (LLMs) are increasingly used to edit existing code, but correctness alone is not enough: useful repairs should also be minimal, reviewable, and faithful to the original implement",
+        "published": "2026-09-02T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 2,
+        "is_new": true
+      },
+      {
+        "id": "794122ad3d89e3d469205eb1d84a2526",
+        "title": "MaxKernel: Agentic Kernel Generation for TPUs",
+        "url": "https://huggingface.co/papers/2609.04523",
+        "description": "Designing and authoring high-performance custom kernels for accelerators is a complex task that requires deep hardware-level expertise. Large Language Models (LLM) can be leveraged together with real-",
+        "published": "2026-09-02T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 3,
+        "is_new": true
+      },
+      {
+        "id": "d2e2eb28eb8ceb968d81877ffa4d296b",
+        "title": "When Quantization Breaks Memory: Recurrent-State Write-Back in Low-Precision Temporal Inference",
+        "url": "https://huggingface.co/papers/2609.04490",
+        "description": "Quantization is widely used to reduce the computational and memory demands of neural-network inference. In recurrent networks, however, the quantized state is stored and returned at the next time step",
+        "published": "2026-09-02T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 1,
+        "is_new": true
+      },
+      {
+        "id": "d90ec0a14fb6e02c5da3d3d0c1b4496d",
+        "title": "Iris: Climbing to the Search Frontier",
+        "url": "https://huggingface.co/papers/2609.04304",
+        "description": "We present Iris-mini and Iris-pro, two search agents trained at the 35B-A3B and 397B-A17B scales, together with the data pipeline and training recipe behind them. Tasks are reverse-constructed from th",
+        "published": "2026-09-02T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 11,
+        "is_new": true
+      },
+      {
         "id": "3a2de4350b55f83a5b53ed3ea91810a5",
         "title": "DRACO: Fine-Grained Credit Assignment with Dynamic Rubrics for Long-Horizon Agent Training",
         "url": "https://huggingface.co/papers/2609.04094",
@@ -1316,7 +1420,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 24,
+        "likes": 25,
         "is_new": false
       },
       {
@@ -1329,7 +1433,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 29,
+        "likes": 30,
         "is_new": false
       },
       {
@@ -1356,84 +1460,6 @@
         "source_icon": "🤗",
         "category": "research",
         "likes": 46,
-        "is_new": false
-      },
-      {
-        "id": "589eca1d71eaab58b97f9c3baf1995be",
-        "title": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions",
-        "url": "https://huggingface.co/papers/2609.04199",
-        "description": "Many recurring text functions are easy to describe but difficult to implement with rules, while calling a large remote model for every input introduces repeated cost, latency, and dependency on a prov",
-        "published": "2026-09-02T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 317,
-        "is_new": false
-      },
-      {
-        "id": "e98d34246be4739501cb20fe5839f063",
-        "title": "PACE: Towards Surfacing Hidden Conflicts in User Requests",
-        "url": "https://huggingface.co/papers/2609.03293",
-        "description": "Personalized assistants should not only comply with user requests but also assess whether those requests are appropriate given the user's current circumstances. However, prior work has primarily focus",
-        "published": "2026-09-02T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 22,
-        "is_new": false
-      },
-      {
-        "id": "c7526297e00710f32b39bcd2d70eb138",
-        "title": "Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States",
-        "url": "https://huggingface.co/papers/2609.04196",
-        "description": "We propose Puffin-World, a unified multimodal architecture that integrates physical understanding, spatial simulation, and 3D world generation and reconstruction without relying on external offline mo",
-        "published": "2026-09-02T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 66,
-        "is_new": false
-      },
-      {
-        "id": "6ed90ac9e2d77dee501844d6d716af27",
-        "title": "Beyond Retrieval: Progressive Latent Memory Evolution for Streaming Video Understanding",
-        "url": "https://huggingface.co/papers/2609.04131",
-        "description": "Streaming video understanding requires multimodal large language models (MLLMs) to process continuous visual inputs and respond to user queries under strict causality and bounded memory. Existing appr",
-        "published": "2026-09-02T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 29,
-        "is_new": false
-      },
-      {
-        "id": "56fb120dbe1de92ec098d1a0439fc211",
-        "title": "FlashRender: Few-Step Generative Rendering via Camera-Controlled Video MeanFlow",
-        "url": "https://huggingface.co/papers/2609.03563",
-        "description": "We present FlashRender, a few-step generative rendering framework that retakes a source video along a target camera trajectory in seconds. We identify sampling-step-dependent camera control as a promi",
-        "published": "2026-09-02T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 19,
-        "is_new": false
-      },
-      {
-        "id": "71d9582719b82419d31301e7c068c85d",
-        "title": "WorldReward: Reward Modeling for Camera-Conditioned World Models",
-        "url": "https://huggingface.co/papers/2609.03952",
-        "description": "Camera-conditioned world models generate interactive videos in which commanded actions should induce the expected scene changes while appearance, geometry, and temporal dynamics remain coherent. Exist",
-        "published": "2026-09-02T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 23,
         "is_new": false
       },
       {
@@ -1476,43 +1502,17 @@
         "is_new": false
       },
       {
-        "id": "045454bbfe75260486d6846ee9e21b0f",
-        "title": "Let Confidence Change, Not the Prediction: Prediction-Preserving Repair for Post-hoc Calibration",
-        "url": "https://huggingface.co/papers/2609.01072",
-        "description": "Post-hoc calibration corrects reported confidence, yet a multiclass calibrator can also change the associated top-1 prediction. Accuracy captures only the net effect of these changes on correctness, n",
-        "published": "2026-09-01T20:00:00.000Z",
+        "id": "6ff0d1240fb1c3cf7260a90d6a04345e",
+        "title": "Group Adaptive Clipping Policy Optimization",
+        "url": "https://huggingface.co/papers/2609.00444",
+        "description": "Group relative policy optimization for reinforcement learning with verifiable rewards (RLVR) typically uses a fixed importance-sampling (IS) ratio clipping boundary across all rollouts. We identify a ",
+        "published": "2026-08-30T20:00:00.000Z",
         "source_id": "hf-papers",
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 13,
-        "is_new": false
-      },
-      {
-        "id": "bca53b79172937925839870118157176",
-        "title": "Percolation Dynamics in Optimization : Variance Cascades and Discrete Scale Invariance",
-        "url": "https://huggingface.co/papers/2609.02373",
-        "description": "We study the dynamics of Stochastic Gradient Descent (SGD), which is known to steer deep neural networks toward invariant sets that correspond to simpler subnetworks. How this steering unfolds over ti",
-        "published": "2026-09-01T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 14,
-        "is_new": false
-      },
-      {
-        "id": "6dee087db70042e2eb24f492738266fa",
-        "title": "The Missing Temporal Link: Temporal Context Routing for Script-Driven Audio-Video Generation",
-        "url": "https://huggingface.co/papers/2609.02367",
-        "description": "Joint audio-video generation models have made substantial progress in visual quality and audio-visual synchronization. However, they still provide limited control over when shot transitions occur and ",
-        "published": "2026-09-01T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 33,
-        "is_new": false
+        "likes": 1,
+        "is_new": true
       },
       {
         "id": "4045ea35fbba446cf5d64316af0bc78b",
@@ -1554,17 +1554,17 @@
         "is_new": false
       },
       {
-        "id": "0b2afc9be7823eb461bfd875257f980d",
-        "title": "Knowing When Not to Reuse: Conditional Experience Transfer in Autonomous LLM Post-Training",
-        "url": "https://huggingface.co/papers/2608.26730",
-        "description": "Large language models offer broad capabilities, but adapting them to evolving domains, tools, and requirements often entails repeated post-training. Autonomous systems automate parts of this process b",
-        "published": "2026-08-26T20:00:00.000Z",
+        "id": "06e6833adba381ad2b44537709dddebf",
+        "title": "Motion-Omni: End-to-End Joint Speech and Full-Body Motion for Spoken Dialogue",
+        "url": "https://huggingface.co/papers/2609.04250",
+        "description": "An avatar that holds a conversation should decide what to say and to move while saying it, yet these abilities live in separate model families: spoken dialogue models produce speech without motion, an",
+        "published": "2026-08-27T20:00:00.000Z",
         "source_id": "hf-papers",
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 150,
-        "is_new": false
+        "likes": 10,
+        "is_new": true
       }
     ]
   }
