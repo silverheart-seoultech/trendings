@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-08T16:24:38.169549+00:00",
+  "last_updated": "2026-09-08T18:36:15.006534+00:00",
   "total_entries": 70,
-  "new_entries": 7,
+  "new_entries": 3,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -48,11 +48,35 @@
   ],
   "entries": [
     {
+      "id": "2372e1e4c41426420ab7a3715c11b7e4",
+      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+      "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+      "description": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
+      "published": "Tue, 08 Sep 2026 17:32:15 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "d081e58264cf5caa0639b35df4f1e269",
       "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
       "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
       "description": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
       "published": "Tue, 08 Sep 2026 16:20:31 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": false
+    },
+    {
+      "id": "95a190e6d2c58c48ba9d4c59490fd573",
+      "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+      "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+      "description": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
+      "published": "Tue, 08 Sep 2026 15:04:09 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
@@ -63,32 +87,8 @@
       "id": "f37bc5517ee731ca266c4f3d4472bb47",
       "title": "Mistral raises €3B as sovereign AI becomes big business",
       "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
-      "description": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe and PSG Equity.",
+      "description": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
       "published": "Tue, 08 Sep 2026 14:17:48 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": true
-    },
-    {
-      "id": "28be3fafd1e3c2c95e6c1c4f19699b54",
-      "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-      "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
-      "description": "The high-profile startup's annual revenue run rate stands at over $100 million.",
-      "published": "Thu, 03 Sep 2026 19:36:29 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "f1f94c405560ff1797ef21bd024784a1",
-      "title": "Abliteration.ai is making a business out of removing AI guardrails",
-      "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
-      "description": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
-      "published": "Thu, 03 Sep 2026 18:37:57 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
@@ -288,6 +288,18 @@
       "is_new": false
     },
     {
+      "id": "b60588e37b2e4b865f3507ac8dac2f84",
+      "title": "A new class action lawsuit questions whether Anthropic broke the law by misleading power users",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
+      "description": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like OpenClaw. But some of these same customers say Anthropic misl",
+      "published": "2026-09-08T13:27:31-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "96b2ae8646c8100a3567cf978c4c29bb",
       "title": "Google’s Atlas of the human genome could pave the way for new treatments",
       "url": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
@@ -297,7 +309,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "a1f8e8245fb76b0eadb3d2fd80c5db1e",
@@ -321,7 +333,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "c6a48e7fbd074e164481dd36b9b3001a",
@@ -412,18 +424,6 @@
       "is_new": false
     },
     {
-      "id": "9a19ccf0dc0812cf6d7bcc918cdc59f7",
-      "title": "Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers",
-      "url": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
-      "description": "Microsoft is giving its developer-optimized Windows experience a name: Project Zenith. While the software maker originally announced a similar developer-optimized Windows effort at Build earlier this",
-      "published": "2026-09-04T07:22:12-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "956d946a65dde843fdc6896cc6c4385d",
       "title": "Knowing What Not to Answer: Selective Non-Compliance in Vision-Language Models",
       "url": "https://huggingface.co/papers/2609.04720",
@@ -499,7 +499,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 8,
+      "points": 9,
       "comments": 1,
       "is_new": false
     },
@@ -595,8 +595,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
-      "is_new": true
+      "likes": 4,
+      "is_new": false
     },
     {
       "id": "0eb5ccf9622616bf50abcb1f1fb79c9c",
@@ -608,7 +608,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 16,
+      "likes": 20,
       "is_new": false
     },
     {
@@ -621,7 +621,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 51,
+      "likes": 64,
       "is_new": false
     },
     {
@@ -634,7 +634,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 35,
+      "likes": 51,
       "is_new": false
     },
     {
@@ -740,8 +740,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
-      "is_new": true
+      "likes": 5,
+      "is_new": false
     },
     {
       "id": "d5f8ed95a4b1126206c8e9a9703fe3c6",
@@ -753,8 +753,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
-      "is_new": true
+      "likes": 8,
+      "is_new": false
     },
     {
       "id": "999c758988c62a4e205624bc81d02506",
@@ -807,7 +807,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 10,
       "is_new": false
     },
     {
@@ -951,11 +951,35 @@
   "by_category": {
     "news": [
       {
+        "id": "2372e1e4c41426420ab7a3715c11b7e4",
+        "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+        "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+        "description": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
+        "published": "Tue, 08 Sep 2026 17:32:15 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "d081e58264cf5caa0639b35df4f1e269",
         "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
         "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
         "description": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
         "published": "Tue, 08 Sep 2026 16:20:31 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "95a190e6d2c58c48ba9d4c59490fd573",
+        "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+        "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+        "description": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
+        "published": "Tue, 08 Sep 2026 15:04:09 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
@@ -966,32 +990,8 @@
         "id": "f37bc5517ee731ca266c4f3d4472bb47",
         "title": "Mistral raises €3B as sovereign AI becomes big business",
         "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
-        "description": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe and PSG Equity.",
+        "description": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
         "published": "Tue, 08 Sep 2026 14:17:48 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": true
-      },
-      {
-        "id": "28be3fafd1e3c2c95e6c1c4f19699b54",
-        "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-        "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
-        "description": "The high-profile startup's annual revenue run rate stands at over $100 million.",
-        "published": "Thu, 03 Sep 2026 19:36:29 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "f1f94c405560ff1797ef21bd024784a1",
-        "title": "Abliteration.ai is making a business out of removing AI guardrails",
-        "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
-        "description": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
-        "published": "Thu, 03 Sep 2026 18:37:57 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
@@ -1191,6 +1191,18 @@
         "is_new": false
       },
       {
+        "id": "b60588e37b2e4b865f3507ac8dac2f84",
+        "title": "A new class action lawsuit questions whether Anthropic broke the law by misleading power users",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
+        "description": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like OpenClaw. But some of these same customers say Anthropic misl",
+        "published": "2026-09-08T13:27:31-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "96b2ae8646c8100a3567cf978c4c29bb",
         "title": "Google’s Atlas of the human genome could pave the way for new treatments",
         "url": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
@@ -1200,7 +1212,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "a1f8e8245fb76b0eadb3d2fd80c5db1e",
@@ -1224,7 +1236,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "c6a48e7fbd074e164481dd36b9b3001a",
@@ -1301,18 +1313,6 @@
         "source_icon": "📰",
         "category": "news",
         "is_new": false
-      },
-      {
-        "id": "c58f9bdfc3e7fe2ff71a2a92ed5f6cef",
-        "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
-        "description": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as",
-        "published": "2026-09-04T10:46:39-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
       }
     ],
     "research": [
@@ -1378,8 +1378,8 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 3,
-        "is_new": true
+        "likes": 4,
+        "is_new": false
       },
       {
         "id": "0eb5ccf9622616bf50abcb1f1fb79c9c",
@@ -1391,7 +1391,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 16,
+        "likes": 20,
         "is_new": false
       },
       {
@@ -1404,7 +1404,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 51,
+        "likes": 64,
         "is_new": false
       },
       {
@@ -1417,7 +1417,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 35,
+        "likes": 51,
         "is_new": false
       },
       {
@@ -1495,8 +1495,8 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 2,
-        "is_new": true
+        "likes": 5,
+        "is_new": false
       },
       {
         "id": "d5f8ed95a4b1126206c8e9a9703fe3c6",
@@ -1508,8 +1508,8 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 1,
-        "is_new": true
+        "likes": 8,
+        "is_new": false
       },
       {
         "id": "999c758988c62a4e205624bc81d02506",
@@ -1534,7 +1534,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 9,
+        "likes": 10,
         "is_new": false
       },
       {
