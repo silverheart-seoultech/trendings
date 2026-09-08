@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-08T05:55:43.359658+00:00",
+  "last_updated": "2026-09-08T10:59:09.469743+00:00",
   "total_entries": 70,
-  "new_entries": 0,
+  "new_entries": 5,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -421,7 +421,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -434,7 +434,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -460,20 +460,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 11,
-      "is_new": false
-    },
-    {
-      "id": "f8a5af6c1dfa60801c6442bc7c604445",
-      "title": "τ^τ-Bench: An Environment for End-To-End, Realistic Agent Construction",
-      "url": "https://huggingface.co/papers/2609.04611",
-      "description": "LLM agents are rapidly becoming production software, deployed to handle customer service, adjudicate disputes, and operate internal systems. Notably, the work of building them is increasingly handed t",
-      "published": "2026-09-03T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 5,
+      "likes": 12,
       "is_new": false
     },
     {
@@ -599,6 +586,45 @@
       "is_new": false
     },
     {
+      "id": "0eb5ccf9622616bf50abcb1f1fb79c9c",
+      "title": "ENEAS: Embedding-guided Neural Ensemble for Adaptive Segmentation",
+      "url": "https://huggingface.co/papers/2609.03756",
+      "description": "We present ENEAS, a unified, text-promptable method for instance tracking and semantic discovery. Text-promptable segmentation models, including the latest foundation models such as SAM 3, still suffe",
+      "published": "2026-09-02T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
+    },
+    {
+      "id": "6ef14ad4e9f1309c01f2faf883a80f5e",
+      "title": "Unlocking Lossless Speedups in LLMs via Discrete Diffusion",
+      "url": "https://huggingface.co/papers/2609.04010",
+      "description": "Large Language Models (LLMs) owe much of their success to next-token prediction (NTP), but their autoregressive (AR) structure requires slow, sequential token generation. To overcome this bottleneck, ",
+      "published": "2026-09-02T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 21,
+      "is_new": true
+    },
+    {
+      "id": "9665453094e2e474e61f46d9b8ec8a29",
+      "title": "FlowBalance: Verifier-Grounded Self-Improvement from On-Policy Reasoning Experience",
+      "url": "https://huggingface.co/papers/2609.03241",
+      "description": "A reasoning model can improve from its own on-policy experience, but this inner loop is fragile: terminal verifiers provide reliable yet sparse supervision, while dense same-model guidance can reinfor",
+      "published": "2026-09-02T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 11,
+      "is_new": true
+    },
+    {
       "id": "ff30eeb9e1f9265934d8237b4a6ceca8",
       "title": "What Else Needs Fixing? Exploring Cost-Effective Test-Time Compute for Revision Propagation in Artifacts Generated Through Conversation",
       "url": "https://huggingface.co/papers/2609.03254",
@@ -608,7 +634,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -621,7 +647,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 7,
       "is_new": false
     },
     {
@@ -673,20 +699,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 25,
-      "is_new": false
-    },
-    {
-      "id": "faff24c3dd8560caa496f4d5ea6c927d",
-      "title": "AdaptVPR: Route-Aware Hard Positive Generation for Robust Visual Place Recognition",
-      "url": "https://huggingface.co/papers/2609.04369",
-      "description": "Visual Place Recognition (VPR) localizes a query image by retrieving database images of the same or nearby place, yet its robustness is often degraded by domain shifts arising from illumination, weath",
-      "published": "2026-09-02T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
+      "likes": 27,
       "is_new": false
     },
     {
@@ -727,7 +740,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 5,
       "is_new": false
     },
     {
@@ -740,20 +753,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 104,
-      "is_new": false
-    },
-    {
-      "id": "88cfe35d173993df68af3ab46ada030c",
-      "title": "ShallowStream: Index Shallow then Answer Deep for Streaming Video Understanding",
-      "url": "https://huggingface.co/papers/2609.02780",
-      "description": "Streaming video understanding is a critical capability for real-world applications, including embodied intelligence, autonomous driving, industrial monitoring, surveillance and early warning, and wear",
-      "published": "2026-09-01T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
+      "likes": 113,
       "is_new": false
     },
     {
@@ -785,17 +785,17 @@
       "is_new": false
     },
     {
-      "id": "ef68eeae31a6afda9ded661831328281",
-      "title": "Enoki: Efficient Multi-Level Hallucination Detection",
-      "url": "https://huggingface.co/papers/2609.00581",
-      "description": "Ensuring factuality remains a critical challenge for deploying LLMs in high-stakes settings. Existing hallucination detectors usually operate at a single level: claim-level methods provide interpretab",
-      "published": "2026-08-31T22:21:28.000Z",
+      "id": "0c5bf5ce2f28803a8b238196b609a85e",
+      "title": "EmbodiedSkills: A Unified Framework for Orchestrating, Training, and Deploying VLA Agents",
+      "url": "https://huggingface.co/papers/2609.01281",
+      "description": "Vision-language-action (VLA) models map visual observations and language instructions directly to robot actions, but long-horizon tasks require more than action prediction. An agent must coordinate pe",
+      "published": "2026-08-31T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 17,
-      "is_new": false
+      "likes": 7,
+      "is_new": true
     },
     {
       "id": "bd59280ac435423785e541c50a63cc3d",
@@ -807,7 +807,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 72,
+      "likes": 120,
       "is_new": false
     },
     {
@@ -836,19 +836,6 @@
       "category": "news",
       "points": 1,
       "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "8950a50b0a43299d7a8a65b99c56ed43",
-      "title": "To See a World in a Living Context: Unified Indoor-Outdoor Urban World Generation",
-      "url": "https://huggingface.co/papers/2608.05879",
-      "description": "Text-driven 3D generation has advanced rapidly in creating large-scale outdoor environments and detailed indoor scenes, but these domains are usually synthesized independently, lacking the corresponde",
-      "published": "2026-08-28T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
       "is_new": false
     },
     {
@@ -920,6 +907,19 @@
       "points": 3,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "57b28a4100bb8c6c5db3b9b8f0ab2362",
+      "title": "One Symptom, Three Levers: A Critical Review of On-Policy Self-Distillation",
+      "url": "https://huggingface.co/papers/2608.25936",
+      "description": "On-policy distillation trains a language model on its own generations while a teacher scores them token by token. It combines the dense supervision of imitation learning with the on-policy sampling of",
+      "published": "2026-08-25T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 7,
+      "is_new": true
     },
     {
       "id": "6d4fc1b5fbcf7b729de484d770d4b722",
@@ -1326,7 +1326,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 2,
+        "likes": 4,
         "is_new": false
       },
       {
@@ -1339,7 +1339,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 2,
+        "likes": 4,
         "is_new": false
       },
       {
@@ -1365,21 +1365,47 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 11,
+        "likes": 12,
         "is_new": false
       },
       {
-        "id": "f8a5af6c1dfa60801c6442bc7c604445",
-        "title": "τ^τ-Bench: An Environment for End-To-End, Realistic Agent Construction",
-        "url": "https://huggingface.co/papers/2609.04611",
-        "description": "LLM agents are rapidly becoming production software, deployed to handle customer service, adjudicate disputes, and operate internal systems. Notably, the work of building them is increasingly handed t",
-        "published": "2026-09-03T20:00:00.000Z",
+        "id": "0eb5ccf9622616bf50abcb1f1fb79c9c",
+        "title": "ENEAS: Embedding-guided Neural Ensemble for Adaptive Segmentation",
+        "url": "https://huggingface.co/papers/2609.03756",
+        "description": "We present ENEAS, a unified, text-promptable method for instance tracking and semantic discovery. Text-promptable segmentation models, including the latest foundation models such as SAM 3, still suffe",
+        "published": "2026-09-02T20:00:00.000Z",
         "source_id": "hf-papers",
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 5,
-        "is_new": false
+        "likes": 4,
+        "is_new": true
+      },
+      {
+        "id": "6ef14ad4e9f1309c01f2faf883a80f5e",
+        "title": "Unlocking Lossless Speedups in LLMs via Discrete Diffusion",
+        "url": "https://huggingface.co/papers/2609.04010",
+        "description": "Large Language Models (LLMs) owe much of their success to next-token prediction (NTP), but their autoregressive (AR) structure requires slow, sequential token generation. To overcome this bottleneck, ",
+        "published": "2026-09-02T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 21,
+        "is_new": true
+      },
+      {
+        "id": "9665453094e2e474e61f46d9b8ec8a29",
+        "title": "FlowBalance: Verifier-Grounded Self-Improvement from On-Policy Reasoning Experience",
+        "url": "https://huggingface.co/papers/2609.03241",
+        "description": "A reasoning model can improve from its own on-policy experience, but this inner loop is fragile: terminal verifiers provide reliable yet sparse supervision, while dense same-model guidance can reinfor",
+        "published": "2026-09-02T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 11,
+        "is_new": true
       },
       {
         "id": "ff30eeb9e1f9265934d8237b4a6ceca8",
@@ -1391,7 +1417,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 1,
+        "likes": 2,
         "is_new": false
       },
       {
@@ -1404,7 +1430,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 1,
+        "likes": 7,
         "is_new": false
       },
       {
@@ -1456,20 +1482,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 25,
-        "is_new": false
-      },
-      {
-        "id": "faff24c3dd8560caa496f4d5ea6c927d",
-        "title": "AdaptVPR: Route-Aware Hard Positive Generation for Robust Visual Place Recognition",
-        "url": "https://huggingface.co/papers/2609.04369",
-        "description": "Visual Place Recognition (VPR) localizes a query image by retrieving database images of the same or nearby place, yet its robustness is often degraded by domain shifts arising from illumination, weath",
-        "published": "2026-09-02T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 4,
+        "likes": 27,
         "is_new": false
       },
       {
@@ -1482,7 +1495,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 4,
+        "likes": 5,
         "is_new": false
       },
       {
@@ -1495,34 +1508,21 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 104,
+        "likes": 113,
         "is_new": false
       },
       {
-        "id": "88cfe35d173993df68af3ab46ada030c",
-        "title": "ShallowStream: Index Shallow then Answer Deep for Streaming Video Understanding",
-        "url": "https://huggingface.co/papers/2609.02780",
-        "description": "Streaming video understanding is a critical capability for real-world applications, including embodied intelligence, autonomous driving, industrial monitoring, surveillance and early warning, and wear",
-        "published": "2026-09-01T20:00:00.000Z",
+        "id": "0c5bf5ce2f28803a8b238196b609a85e",
+        "title": "EmbodiedSkills: A Unified Framework for Orchestrating, Training, and Deploying VLA Agents",
+        "url": "https://huggingface.co/papers/2609.01281",
+        "description": "Vision-language-action (VLA) models map visual observations and language instructions directly to robot actions, but long-horizon tasks require more than action prediction. An agent must coordinate pe",
+        "published": "2026-08-31T20:00:00.000Z",
         "source_id": "hf-papers",
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 3,
-        "is_new": false
-      },
-      {
-        "id": "ef68eeae31a6afda9ded661831328281",
-        "title": "Enoki: Efficient Multi-Level Hallucination Detection",
-        "url": "https://huggingface.co/papers/2609.00581",
-        "description": "Ensuring factuality remains a critical challenge for deploying LLMs in high-stakes settings. Existing hallucination detectors usually operate at a single level: claim-level methods provide interpretab",
-        "published": "2026-08-31T22:21:28.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 17,
-        "is_new": false
+        "likes": 7,
+        "is_new": true
       },
       {
         "id": "bd59280ac435423785e541c50a63cc3d",
@@ -1534,21 +1534,21 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 72,
+        "likes": 120,
         "is_new": false
       },
       {
-        "id": "8950a50b0a43299d7a8a65b99c56ed43",
-        "title": "To See a World in a Living Context: Unified Indoor-Outdoor Urban World Generation",
-        "url": "https://huggingface.co/papers/2608.05879",
-        "description": "Text-driven 3D generation has advanced rapidly in creating large-scale outdoor environments and detailed indoor scenes, but these domains are usually synthesized independently, lacking the corresponde",
-        "published": "2026-08-28T20:00:00.000Z",
+        "id": "57b28a4100bb8c6c5db3b9b8f0ab2362",
+        "title": "One Symptom, Three Levers: A Critical Review of On-Policy Self-Distillation",
+        "url": "https://huggingface.co/papers/2608.25936",
+        "description": "On-policy distillation trains a language model on its own generations while a teacher scores them token by token. It combines the dense supervision of imitation learning with the on-policy sampling of",
+        "published": "2026-08-25T20:00:00.000Z",
         "source_id": "hf-papers",
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 3,
-        "is_new": false
+        "likes": 7,
+        "is_new": true
       },
       {
         "id": "6d4fc1b5fbcf7b729de484d770d4b722",
