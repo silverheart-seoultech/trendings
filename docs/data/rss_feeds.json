@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-08T15:04:39.745815+00:00",
+  "last_updated": "2026-09-08T16:24:38.169549+00:00",
   "total_entries": 70,
-  "new_entries": 4,
+  "new_entries": 7,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -48,6 +48,18 @@
   ],
   "entries": [
     {
+      "id": "d081e58264cf5caa0639b35df4f1e269",
+      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+      "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+      "description": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
+      "published": "Tue, 08 Sep 2026 16:20:31 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "f37bc5517ee731ca266c4f3d4472bb47",
       "title": "Mistral raises €3B as sovereign AI becomes big business",
       "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
@@ -77,18 +89,6 @@
       "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
       "description": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
       "published": "Thu, 03 Sep 2026 18:37:57 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "939cb98685e5e469fc4c9c52cb0f0a99",
-      "title": "Meta is paying to peek at how you use their latest AI model",
-      "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
-      "description": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future m",
-      "published": "Thu, 03 Sep 2026 18:19:56 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
@@ -472,7 +472,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 12,
+      "likes": 13,
       "is_new": false
     },
     {
@@ -595,7 +595,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 3,
       "is_new": true
     },
     {
@@ -608,7 +608,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 11,
+      "likes": 16,
       "is_new": false
     },
     {
@@ -621,7 +621,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 40,
+      "likes": 51,
       "is_new": false
     },
     {
@@ -634,7 +634,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 26,
+      "likes": 35,
       "is_new": false
     },
     {
@@ -731,6 +731,32 @@
       "is_new": false
     },
     {
+      "id": "42950f079a6b178493ca1b2a1b143b96",
+      "title": "Unifying Conformal Language Tasks with In-Context Ensembles",
+      "url": "https://huggingface.co/papers/2609.03005",
+      "description": "Many NLP tasks, such as summarization and extractive question answering, reduce to retrieving relevant content from documents under two constraints: coverage, retaining enough pertinent information to",
+      "published": "2026-09-01T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "d5f8ed95a4b1126206c8e9a9703fe3c6",
+      "title": "Causal Foundation Models",
+      "url": "https://huggingface.co/papers/2609.03003",
+      "description": "Causal inference is the practice of estimating the effect of a treatment or intervention from data. It traditionally requires a bespoke pipeline for every new problem: first proposing a causal mechani",
+      "published": "2026-09-01T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "999c758988c62a4e205624bc81d02506",
       "title": "Verify Before You Distill: Prompt-Level Teacher Gating for On-Policy Distillation",
       "url": "https://huggingface.co/papers/2609.02998",
@@ -740,20 +766,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
-      "is_new": false
-    },
-    {
-      "id": "c556b6b9edcd550fb320f08a8e580ba9",
-      "title": "Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Agent LLM Systems",
-      "url": "https://huggingface.co/papers/2609.02750",
-      "description": "Multi-agent LLM systems commonly use an orchestrator to decompose a task for a team of workers and then improve through textual reflection. Despite strong empirical results, these systems lack a unifi",
-      "published": "2026-09-01T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 118,
+      "likes": 8,
       "is_new": false
     },
     {
@@ -918,7 +931,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 10,
       "is_new": false
     },
     {
@@ -933,23 +946,22 @@
       "category": "research",
       "likes": 3,
       "is_new": false
-    },
-    {
-      "id": "e90d21f7a5c3cd1f56018ac952712578",
-      "title": "Training-Free Speech-Centric Omni Understanding with Frozen VLMs",
-      "url": "https://huggingface.co/papers/2609.04242",
-      "description": "Audio-visual understanding remains challenging because models must jointly interpret spoken content, visual events, and their temporal relationships. Existing omni models typically introduce dedicated",
-      "published": "2026-08-06T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
-      "is_new": false
     }
   ],
   "by_category": {
     "news": [
+      {
+        "id": "d081e58264cf5caa0639b35df4f1e269",
+        "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+        "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+        "description": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
+        "published": "Tue, 08 Sep 2026 16:20:31 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "f37bc5517ee731ca266c4f3d4472bb47",
         "title": "Mistral raises €3B as sovereign AI becomes big business",
@@ -980,18 +992,6 @@
         "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
         "description": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
         "published": "Thu, 03 Sep 2026 18:37:57 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "939cb98685e5e469fc4c9c52cb0f0a99",
-        "title": "Meta is paying to peek at how you use their latest AI model",
-        "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
-        "description": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future m",
-        "published": "Thu, 03 Sep 2026 18:19:56 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
@@ -1365,7 +1365,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 12,
+        "likes": 13,
         "is_new": false
       },
       {
@@ -1378,7 +1378,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 1,
+        "likes": 3,
         "is_new": true
       },
       {
@@ -1391,7 +1391,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 11,
+        "likes": 16,
         "is_new": false
       },
       {
@@ -1404,7 +1404,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 40,
+        "likes": 51,
         "is_new": false
       },
       {
@@ -1417,7 +1417,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 26,
+        "likes": 35,
         "is_new": false
       },
       {
@@ -1486,6 +1486,32 @@
         "is_new": false
       },
       {
+        "id": "42950f079a6b178493ca1b2a1b143b96",
+        "title": "Unifying Conformal Language Tasks with In-Context Ensembles",
+        "url": "https://huggingface.co/papers/2609.03005",
+        "description": "Many NLP tasks, such as summarization and extractive question answering, reduce to retrieving relevant content from documents under two constraints: coverage, retaining enough pertinent information to",
+        "published": "2026-09-01T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 2,
+        "is_new": true
+      },
+      {
+        "id": "d5f8ed95a4b1126206c8e9a9703fe3c6",
+        "title": "Causal Foundation Models",
+        "url": "https://huggingface.co/papers/2609.03003",
+        "description": "Causal inference is the practice of estimating the effect of a treatment or intervention from data. It traditionally requires a bespoke pipeline for every new problem: first proposing a causal mechani",
+        "published": "2026-09-01T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 1,
+        "is_new": true
+      },
+      {
         "id": "999c758988c62a4e205624bc81d02506",
         "title": "Verify Before You Distill: Prompt-Level Teacher Gating for On-Policy Distillation",
         "url": "https://huggingface.co/papers/2609.02998",
@@ -1495,20 +1521,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 7,
-        "is_new": false
-      },
-      {
-        "id": "c556b6b9edcd550fb320f08a8e580ba9",
-        "title": "Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Agent LLM Systems",
-        "url": "https://huggingface.co/papers/2609.02750",
-        "description": "Multi-agent LLM systems commonly use an orchestrator to decompose a task for a team of workers and then improve through textual reflection. Despite strong empirical results, these systems lack a unifi",
-        "published": "2026-09-01T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 118,
+        "likes": 8,
         "is_new": false
       },
       {
@@ -1547,7 +1560,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 9,
+        "likes": 10,
         "is_new": false
       },
       {
@@ -1561,19 +1574,6 @@
         "source_icon": "🤗",
         "category": "research",
         "likes": 3,
-        "is_new": false
-      },
-      {
-        "id": "e90d21f7a5c3cd1f56018ac952712578",
-        "title": "Training-Free Speech-Centric Omni Understanding with Frozen VLMs",
-        "url": "https://huggingface.co/papers/2609.04242",
-        "description": "Audio-visual understanding remains challenging because models must jointly interpret spoken content, visual events, and their temporal relationships. Existing omni models typically introduce dedicated",
-        "published": "2026-08-06T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 4,
         "is_new": false
       }
     ]
