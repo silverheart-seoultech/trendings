@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-10T14:23:27.858351+00:00",
+  "last_updated": "2026-09-10T16:10:50.320739+00:00",
   "total_entries": 109,
-  "new_entries": 7,
+  "new_entries": 13,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -240,16 +240,16 @@
       "is_new": false
     },
     {
-      "id": "cc18d25d9dc615ff783aeee837ad34c4",
-      "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
-      "url": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/",
-      "description": "Besxar, a startup founded by former OpenAI staffer Ashley Pilipiszyn, wants to make the key precursors for advanced semiconductors by taking advantage of the vacuum of space.",
-      "published": "Wed, 09 Sep 2026 12:30:00 +0000",
+      "id": "9ee5bacda2ce8165b30eafa3461193a0",
+      "title": "AI agents are flooding public services with new requests",
+      "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+      "description": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
+      "published": "Thu, 10 Sep 2026 14:53:50 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "d40cabdd4c17da18fc6745fe4f074f99",
@@ -756,6 +756,30 @@
       "is_new": false
     },
     {
+      "id": "f613fc1e895bdb49115e63548c99a91c",
+      "title": "Universal Music is launching an AI music platform with ElevenLabs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
+      "description": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an",
+      "published": "2026-09-10T12:06:36-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "bdd2b8a250a419ab13f99cce657445dc",
+      "title": "Meta’s Muse AI works and creeps me out",
+      "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
+      "description": "Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent can \"take the busywork off your plate\" by helping you",
+      "published": "2026-09-10T11:19:29-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "bbe537dca3b4759a81d8e8bf2d48c0c3",
       "title": "Why the current tech backlash feels different",
       "url": "https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers",
@@ -837,7 +861,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 5,
+      "points": 6,
       "comments": 6,
       "is_new": false
     },
@@ -854,35 +878,11 @@
       "is_new": false
     },
     {
-      "id": "009e61788df2b7171b99d6d94bd6ec81",
-      "title": "Students who use AI generally score worse at school",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa",
-      "description": "Students who use AI to help them study tend to perform worse at school than those who don't, according to data from a global OECD educational report. The situation is more complex than it sounds thoug",
-      "published": "2026-09-09T09:09:04-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "4c31ccfb47a0b4ea52d8f529d0ebbe9f",
       "title": "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
       "url": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing",
       "description": "Amazon's Prime Video is launching a new AI-powered feature that lines up an actor's mouth with \"human-dubbed\" audio. The feature is only available with the English dub of the German series Maxton Hall",
       "published": "2026-09-09T09:04:40-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "77fd9d3453785138546732969516b826",
-      "title": "Worried Anthropic researchers warn that AI &#8216;could kill all humans&#8217;",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
-      "description": "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill all humans\" by the end of the decade, just hours after a colleague resigned ove",
-      "published": "2026-09-09T06:28:36-04:00",
       "source_id": "theverge-ai",
       "source_name": "The Verge AI",
       "source_icon": "📰",
@@ -929,17 +929,30 @@
       "is_new": false
     },
     {
-      "id": "8fbd0689dfd411a7c18012cd383465f4",
-      "title": "RESCUE-BENCH: Towards Relation-Aware Multi-Party Emotional Support Conversation Systems",
-      "url": "https://huggingface.co/papers/2609.09657",
-      "description": "Existing emotional support conversation systems mainly focus on one-on-one seeker-supporter interactions and individual emotional states, leaving interpersonal relations in multi-party scenarios under",
-      "published": "2026-09-08T20:00:00.000Z",
+      "id": "8a018ab3591338294b80ca6ac27247e2",
+      "title": "SchemeArena: Factorized Stress Testing of Scheming in LLM Agents",
+      "url": "https://huggingface.co/papers/2609.08126",
+      "description": "We study scheming in LLM agents, in which agents covertly pursue misaligned goals. Our focus is to understand how scheming arises from the interaction of key factors, such as instrumental goals, envir",
+      "published": "2026-09-07T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
-      "is_new": false
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "b7777187751bd0f3d3db58fb168b3f0f",
+      "title": "The Price of Sparsity: Sufficient Conditions for Sparse Recovery using Sparse and Sparsified Measurements",
+      "url": "https://huggingface.co/papers/2509.01809",
+      "description": "We consider the problem of support recovery for sparse binary signals from noisy linear measurements. For sparse Gaussian measurement matrices we identify sufficient conditions on the minimal sample s",
+      "published": "2026-09-07T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
     },
     {
       "id": "f33db4dcfb9e2efe1f3a8971e20d6b45",
@@ -964,7 +977,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 36,
+      "likes": 47,
       "is_new": true
     },
     {
@@ -1003,7 +1016,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
+      "likes": 11,
       "is_new": false
     },
     {
@@ -1043,19 +1056,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "c2ec73333b171e73215a388769e0b1c2",
-      "title": "Scores Alone Do Not Prove Discovery: The Discovery Certification Protocol for Auditing AI Research Agents",
-      "url": "https://huggingface.co/papers/2609.09219",
-      "description": "AI research agents combine prior knowledge, public sources, and experimental feedback to produce useful results. The Discovery Certification Protocol (DCP) turns claims about these results into execut",
-      "published": "2026-09-06T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 15,
       "is_new": false
     },
     {
@@ -1486,16 +1486,16 @@
         "is_new": false
       },
       {
-        "id": "cc18d25d9dc615ff783aeee837ad34c4",
-        "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
-        "url": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/",
-        "description": "Besxar, a startup founded by former OpenAI staffer Ashley Pilipiszyn, wants to make the key precursors for advanced semiconductors by taking advantage of the vacuum of space.",
-        "published": "Wed, 09 Sep 2026 12:30:00 +0000",
+        "id": "9ee5bacda2ce8165b30eafa3461193a0",
+        "title": "AI agents are flooding public services with new requests",
+        "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+        "description": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
+        "published": "Thu, 10 Sep 2026 14:53:50 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
+        "is_new": true
       },
       {
         "id": "d40cabdd4c17da18fc6745fe4f074f99",
@@ -1520,6 +1520,30 @@
         "source_icon": "📰",
         "category": "news",
         "is_new": false
+      },
+      {
+        "id": "f613fc1e895bdb49115e63548c99a91c",
+        "title": "Universal Music is launching an AI music platform with ElevenLabs",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
+        "description": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an",
+        "published": "2026-09-10T12:06:36-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "bdd2b8a250a419ab13f99cce657445dc",
+        "title": "Meta’s Muse AI works and creeps me out",
+        "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
+        "description": "Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent can \"take the busywork off your plate\" by helping you",
+        "published": "2026-09-10T11:19:29-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
       },
       {
         "id": "bbe537dca3b4759a81d8e8bf2d48c0c3",
@@ -1603,7 +1627,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 5,
+        "points": 6,
         "comments": 6,
         "is_new": false
       },
@@ -1620,35 +1644,11 @@
         "is_new": false
       },
       {
-        "id": "009e61788df2b7171b99d6d94bd6ec81",
-        "title": "Students who use AI generally score worse at school",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa",
-        "description": "Students who use AI to help them study tend to perform worse at school than those who don't, according to data from a global OECD educational report. The situation is more complex than it sounds thoug",
-        "published": "2026-09-09T09:09:04-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
         "id": "4c31ccfb47a0b4ea52d8f529d0ebbe9f",
         "title": "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
         "url": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing",
         "description": "Amazon's Prime Video is launching a new AI-powered feature that lines up an actor's mouth with \"human-dubbed\" audio. The feature is only available with the English dub of the German series Maxton Hall",
         "published": "2026-09-09T09:04:40-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "77fd9d3453785138546732969516b826",
-        "title": "Worried Anthropic researchers warn that AI &#8216;could kill all humans&#8217;",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
-        "description": "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill all humans\" by the end of the decade, just hours after a colleague resigned ove",
-        "published": "2026-09-09T06:28:36-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
