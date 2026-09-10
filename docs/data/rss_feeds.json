@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-10T09:39:30.360868+00:00",
+  "last_updated": "2026-09-10T11:00:14.982368+00:00",
   "total_entries": 109,
-  "new_entries": 7,
+  "new_entries": 10,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -878,6 +878,19 @@
       "is_new": false
     },
     {
+      "id": "9bfeabf60dbcc38e2347f21e1a2c5391",
+      "title": "Why Is Video Still So Expensive? A Survey of Inference-Efficiency Mechanisms in Video and Audiovisual LLMs",
+      "url": "https://huggingface.co/papers/2609.10355",
+      "description": "Video understanding has rapidly evolved toward video large language models (VideoLLMs): systems that couple video representations with pretrained large language models and condition generation on a te",
+      "published": "2026-09-08T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "0c0c3b69f738874714d4964b8d838d88",
       "title": "Reference-Based Bias Detection in LLMs via Relative Representations of Hidden States",
       "url": "https://huggingface.co/papers/2609.10060",
@@ -900,7 +913,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 1,
       "is_new": false
     },
     {
@@ -930,19 +943,6 @@
       "is_new": false
     },
     {
-      "id": "cf87c2754e01fd28616c1bce946a8825",
-      "title": "Programmable World Model",
-      "url": "https://huggingface.co/papers/2609.10540",
-      "description": "Recent video world models generate increasingly realistic and interactive visual experiences, yet lack reliable mechanisms for maintaining persistent world state and enforcing programmable rules over ",
-      "published": "2026-09-08T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 36,
-      "is_new": false
-    },
-    {
       "id": "41a7f2063622334b633d7b5c3e3c6a14",
       "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
       "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
@@ -955,6 +955,19 @@
       "is_new": false
     },
     {
+      "id": "2c5b8b18c7912af20ab45319d15042e2",
+      "title": "PlannerForge: LLM Agents for Scenario-Based Testing of Motion Planners in Autonomous Driving",
+      "url": "https://huggingface.co/papers/2609.08965",
+      "description": "Ensuring the safety of autonomous driving is a critical challenge. Scenario-based testing is a systematic process used to validate Autonomous Driving Systems (ADSs), but it remains a fragmented modula",
+      "published": "2026-09-07T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "813a774b5ecd954411e2789aef6f939b",
       "title": "SWE-Bench Pro Verified: A Reliable Benchmark for Software Engineering Agents",
       "url": "https://huggingface.co/papers/2609.08149",
@@ -964,7 +977,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 14,
+      "likes": 16,
       "is_new": true
     },
     {
@@ -977,7 +990,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 6,
       "is_new": true
     },
     {
@@ -1046,19 +1059,6 @@
       "is_new": false
     },
     {
-      "id": "c9207b3363a00e66dfed6e32b2837d95",
-      "title": "Revisiting Complete Reasoning Traces for Post-Training",
-      "url": "https://huggingface.co/papers/2609.07103",
-      "description": "Large language models (LLMs) are often post-trained on pre-collected reasoning trajectories to improve their reasoning capability. Such trajectories tend to be long due to complex, interwoven paths, w",
-      "published": "2026-09-06T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 6,
-      "is_new": false
-    },
-    {
       "id": "49586810",
       "title": "I track LLM API prices daily, found a 33x cost gap in the same model",
       "url": "https://news.ycombinator.com/item?id=49586810",
@@ -1085,6 +1085,19 @@
       "points": 2,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "7d1a4cf7a918c76696757406ac187e22",
+      "title": "OracleZoom: On-Policy Self-Distillation Inspired Reference-Constrained Recursive Image Super Resolution",
+      "url": "https://huggingface.co/papers/2609.06490",
+      "description": "Recursive Super-Resolution (SR) extends fixed-scale SR to extreme magnification by repeatedly feeding predictions back into the same model, analogous to zooming an image repeatedly. However, ground tr",
+      "published": "2026-09-05T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
     },
     {
       "id": "85aca3a24a5a39d66a1c74fa4a2171c4",
@@ -1276,20 +1289,6 @@
       "category": "news",
       "points": 3,
       "comments": 1,
-      "is_new": false
-    },
-    {
-      "id": "49519813",
-      "title": "Show HN: Unitpost/email – open-source Email Components and Layouts",
-      "url": "https://www.unitpost.com/email",
-      "description": "",
-      "published": "2026-09-01T09:30:51Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 4,
-      "comments": 2,
       "is_new": false
     }
   ],
