@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-10T04:37:03.182818+00:00",
+  "last_updated": "2026-09-10T09:39:30.360868+00:00",
   "total_entries": 109,
-  "new_entries": 1,
+  "new_entries": 7,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -878,6 +878,19 @@
       "is_new": false
     },
     {
+      "id": "0c0c3b69f738874714d4964b8d838d88",
+      "title": "Reference-Based Bias Detection in LLMs via Relative Representations of Hidden States",
+      "url": "https://huggingface.co/papers/2609.10060",
+      "description": "Existing bias auditing methods typically rely on model outputs, requiring costly benchmarks or judge models and potentially missing internal shifts that never appear in generated text. We propose a re",
+      "published": "2026-09-08T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "8fbd0689dfd411a7c18012cd383465f4",
       "title": "RESCUE-BENCH: Towards Relation-Aware Multi-Party Emotional Support Conversation Systems",
       "url": "https://huggingface.co/papers/2609.09657",
@@ -900,7 +913,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -913,7 +926,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 27,
+      "likes": 49,
       "is_new": false
     },
     {
@@ -926,7 +939,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 18,
+      "likes": 36,
       "is_new": false
     },
     {
@@ -942,6 +955,32 @@
       "is_new": false
     },
     {
+      "id": "813a774b5ecd954411e2789aef6f939b",
+      "title": "SWE-Bench Pro Verified: A Reliable Benchmark for Software Engineering Agents",
+      "url": "https://huggingface.co/papers/2609.08149",
+      "description": "SWE-Bench Pro has emerged as a standard benchmark for evaluating software engineering agents on challenging repository-level tasks. However, our analysis work show that its evaluation is undermined by",
+      "published": "2026-09-07T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 14,
+      "is_new": true
+    },
+    {
+      "id": "f52df1e61835d4b38d42da8647d25191",
+      "title": "SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators",
+      "url": "https://huggingface.co/papers/2609.09155",
+      "description": "World models are increasingly used as policy-in-the-loop imagination environments, where reliable rollouts require fine-grained controllability with respect to low-level robot actions. A key obstacle ",
+      "published": "2026-09-07T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 5,
+      "is_new": true
+    },
+    {
       "id": "bbe2f10752d82ee15805536fa7ba38a9",
       "title": "SAEScientist-Bench: Can AI Agents Conduct Autonomous SAE Interpretability Research?",
       "url": "https://huggingface.co/papers/2609.09113",
@@ -951,7 +990,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 14,
       "is_new": true
     },
     {
@@ -964,7 +1003,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -981,17 +1020,17 @@
       "is_new": false
     },
     {
-      "id": "d3994eac200c2877288e125a670fccec",
-      "title": "NOAH: Learning the Full Patient Journey. A Longitudinal Multimodal Time-Aware Model for Representation and Forecasting",
-      "url": "https://huggingface.co/papers/2609.09140",
-      "description": "The digitization of healthcare has generated vast, longitudinal, and multimodal patient records over a lifetime, yet fully exploiting these data to represent and predict patient state trajectories rem",
-      "published": "2026-09-07T20:00:00.000Z",
+      "id": "ce69728be7db94e16c5104af8ed192b0",
+      "title": "DF26: We Cannot Tell Fake From Real Anymore",
+      "url": "https://huggingface.co/papers/2609.07369",
+      "description": "We introduce DF26, a novel benchmark for detecting AI-generated videos containing fully synthetic clips produced by recent text-to-video and image-to-video models. The videos capture single-person pub",
+      "published": "2026-09-06T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
-      "is_new": false
+      "likes": 0,
+      "is_new": true
     },
     {
       "id": "c2ec73333b171e73215a388769e0b1c2",
@@ -1003,7 +1042,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 11,
+      "likes": 13,
       "is_new": false
     },
     {
@@ -1016,7 +1055,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 6,
       "is_new": false
     },
     {
@@ -1048,6 +1087,19 @@
       "is_new": false
     },
     {
+      "id": "85aca3a24a5a39d66a1c74fa4a2171c4",
+      "title": "Train Smarter, Not Harder: Switching Signal-Guided Training in Active Learning",
+      "url": "https://huggingface.co/papers/2609.06806",
+      "description": "Training strategy, namely whether to retrain from scratch or fine-tune from the previous checkpoint, is an overlooked decision variable in active learning. We show that this choice has exploitable str",
+      "published": "2026-09-05T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
       "id": "39c251fabc2c6a62a45e779ae614ec08",
       "title": "DianShi-RxnDB: A Large-Scale, Fine-Grained Organic Reaction Data Platform Built via a Fully Automated Pipeline for Researchers and AI Agents",
       "url": "https://huggingface.co/papers/2609.06703",
@@ -1057,7 +1109,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 7,
       "is_new": false
     },
     {
@@ -1074,30 +1126,17 @@
       "is_new": false
     },
     {
-      "id": "39a0f8943b535d0717ba758820bd41ba",
-      "title": "VDiff-Bench: A Challenging Benchmark for Fine-Grained Image Difference Identification",
-      "url": "https://huggingface.co/papers/2609.06245",
-      "description": "Multimodal Large Language Models (MLLMs) perform strongly on general visual understanding tasks such as visual question answering, yet they often struggle with a basic comparative skill: identifying w",
-      "published": "2026-09-04T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 22,
-      "is_new": false
-    },
-    {
-      "id": "8baf30601ba8e38f17711ac8b305364d",
-      "title": "RenderFormer-V2: Neural Rendering with Heterogeneous Scene Primitives",
-      "url": "https://huggingface.co/papers/2609.05738",
-      "description": "We present 'RenderFormer-V2', a unified learned transformer-based neural rendering model, complementary to modern physics-based rendering systems, that can handle diverse light-transport effects such ",
+      "id": "adc58f5f98b318f735ab59c1705c25d7",
+      "title": "WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data",
+      "url": "https://huggingface.co/papers/2609.05405",
+      "description": "Recent advances in wearable sensing enable continuous monitoring of physiological and behavioral signals, yet existing benchmarks rarely evaluate whether AI systems can reason over a real user's longi",
       "published": "2026-09-03T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
-      "is_new": false
+      "likes": 24,
+      "is_new": true
     },
     {
       "id": "49555446",
@@ -1198,19 +1237,6 @@
       "is_new": false
     },
     {
-      "id": "51596873c41ddd38fde9a6e32db60e50",
-      "title": "EVOHARNESSBENCH: Can Your Agents Keep Pace with an Evolving Harness?",
-      "url": "https://huggingface.co/papers/2609.04280",
-      "description": "Modern LLM-based agents operate through a harness of tools, reusable skills, and specialist agents that shapes what they observe and what they can do. In practice, this harness continually evolves as ",
-      "published": "2026-09-02T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
-      "is_new": false
-    },
-    {
       "id": "49537462",
       "title": "Researchers trick Fortune-500 AI agents into running arbitrary code via llms.txt",
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-easily-trick-fortune-500-companies-ai-agents-into-running-arbitrary-code-supply-chain-attack-via-llms-txt-guidance-file-illustrates-how-data-has-become-code",
@@ -1236,32 +1262,6 @@
       "category": "news",
       "points": 5,
       "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "4829bfe1394f02ea87d88ee4b6c96942",
-      "title": "Graph Machine: Towards Better Pretraining via Edges",
-      "url": "https://huggingface.co/papers/2609.02881",
-      "description": "We introduce the Graph Machine (GM), an architecture that maintains an O(n)-sized state and accesses it through sparse, dynamic routing. Unlike methods with fixed-size states or sparse but static rout",
-      "published": "2026-09-01T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "62b36802164bd2b2cd4fe178bf89e90c",
-      "title": "MasterControl Seventeen Every Time",
-      "url": "https://huggingface.co/papers/2609.03209",
-      "description": "We study a governed approach to enterprise analytics: a language model interprets the question, while deterministic policy selects and runs a pre-approved analytical program that returns both results ",
-      "published": "2026-09-01T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
       "is_new": false
     },
     {
