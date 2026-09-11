@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-11T16:14:27.349573+00:00",
+  "last_updated": "2026-09-11T18:27:52.929509+00:00",
   "total_entries": 109,
-  "new_entries": 7,
+  "new_entries": 4,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -144,18 +144,6 @@
       "is_new": false
     },
     {
-      "id": "21c2a27323ca42ee82a92fa2ae58c0dc",
-      "title": "Superintelligence is coming. Should we let it?",
-      "url": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
-      "description": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI sys",
-      "published": "Wed, 09 Sep 2026 16:05:35 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "3f1b7e6d6a103cc4efbde4b8edaae47e",
       "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
       "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
@@ -274,6 +262,18 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "3eb10fd44cbe5bc1fd086dddad80d363",
+      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+      "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+      "description": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
+      "published": "Fri, 11 Sep 2026 16:46:25 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "b8febafdf1238172edae07a08f5bb6f0",
@@ -756,16 +756,30 @@
       "is_new": false
     },
     {
+      "id": "49660676",
+      "title": "Show HN: Godot and Rust based multiplexer (terminal panes and more)",
+      "url": "https://github.com/godot-pty/gpty",
+      "description": "",
+      "published": "2026-09-11T16:03:05Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 54,
+      "comments": 30,
+      "is_new": true
+    },
+    {
       "id": "3409c3c31dfa6b1f8f33211897f197de",
       "title": "Anthropic spent this week in hot water over cybersecurity",
       "url": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
       "description": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks. It reveals a str",
-      "published": "2026-09-11T12:09:14-04:00",
+      "published": "2026-09-11T12:55:17-04:00",
       "source_id": "theverge-ai",
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "bdd2b8a250a419ab13f99cce657445dc",
@@ -789,7 +803,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "49649536",
@@ -915,8 +929,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
-      "is_new": true
+      "likes": 1,
+      "is_new": false
     },
     {
       "id": "5af9747e589aa4129523ae9353b3c265",
@@ -928,8 +942,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
-      "is_new": true
+      "likes": 9,
+      "is_new": false
     },
     {
       "id": "8e76f048cf50ab03c703520d23328760",
@@ -942,7 +956,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "94155f47251264eca71e8d00a2e07794",
@@ -1023,32 +1037,6 @@
       "is_new": false
     },
     {
-      "id": "ad23d864e58cbf7cfc134559670f07cd",
-      "title": "Recursive Code World Models: Building Complex Worlds through Recursive Scene Programs",
-      "url": "https://huggingface.co/papers/2609.11499",
-      "description": "Code world models represent worlds as executable programs, but this representation alone does not determine how to construct a complex world. We introduce Recursive Code World Models (RCWM), a framewo",
-      "published": "2026-09-09T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 5,
-      "is_new": false
-    },
-    {
-      "id": "bebd13eb0bed6d4ca6557b41a0a094ff",
-      "title": "World in World: Explore the World with World Models",
-      "url": "https://huggingface.co/papers/2609.11548",
-      "description": "Autoregressive video world models enable interactive, long-horizon exploration, but flexible control remains challenging. Exploring a source video from new viewpoints requires the generated rollout to",
-      "published": "2026-09-09T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
-      "is_new": false
-    },
-    {
       "id": "65f77bd4eb92a79746bd51e2917797ec",
       "title": "Suno releases its first AI music model made with record industry help",
       "url": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
@@ -1075,6 +1063,19 @@
       "is_new": false
     },
     {
+      "id": "2687203e32637b1474a9d238e572b256",
+      "title": "Building Multilingual Bridges: Data Mixing as the Pillar of Generalization for In-Language Reasoning",
+      "url": "https://huggingface.co/papers/2609.10445",
+      "description": "Reasoning language models have made substantial advances on a variety of complex tasks, yet their capabilities remain overwhelmingly English-centric: models primarily reason in English regardless of t",
+      "published": "2026-09-08T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "53135de2a29a21492199bbd86a89411f",
       "title": "IdeaAMBIG: Benchmarking Implementation-Critical Gaps in Research-Idea Specifications",
       "url": "https://huggingface.co/papers/2609.10539",
@@ -1085,7 +1086,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "2141c55bc64ae0ac1e1c8659fb7b9e9c",
@@ -1110,7 +1111,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 5,
       "is_new": false
     },
     {
@@ -1123,7 +1124,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 132,
+      "likes": 146,
       "is_new": false
     },
     {
@@ -1137,7 +1138,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "2c2d2848816609baa4f1cc0e44521bcd",
@@ -1149,7 +1150,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 48,
+      "likes": 52,
       "is_new": false
     },
     {
@@ -1181,6 +1182,19 @@
       "is_new": false
     },
     {
+      "id": "4ad36c8af6be859dca30a3bd8416f067",
+      "title": "Adaptive Bridge: A Proxy-Based Decoupling Layer for Mitigating DDS Backpressure in ROS 2",
+      "url": "https://huggingface.co/papers/2608.15380",
+      "description": "In systems built on Robot Operating System 2 (ROS 2) and using Data Distribution Service (DDS), a single network-impaired or throttled subscriber on a RELIABLE topic can cause backpressure that degrad",
+      "published": "2026-09-05T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "dd434d3b646bcd00ca6fd1fa7bead582",
       "title": "EvoSafeHarness: Evolving Model- and Domain-Specific Harnesses for Securing Agents",
       "url": "https://huggingface.co/papers/2609.05903",
@@ -1190,7 +1204,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 35,
+      "likes": 36,
       "is_new": false
     },
     {
@@ -1275,20 +1289,6 @@
       "category": "news",
       "points": 1,
       "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "49543923",
-      "title": "Did Vibe Coders win? Is this our end?",
-      "url": "https://news.ycombinator.com/item?id=49543923",
-      "description": "",
-      "published": "2026-09-02T23:18:07Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 4,
-      "comments": 6,
       "is_new": false
     }
   ],
@@ -1384,18 +1384,6 @@
         "url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
         "description": "The company also argued that its on-device models offer consumers more privacy.",
         "published": "Wed, 09 Sep 2026 17:36:05 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "21c2a27323ca42ee82a92fa2ae58c0dc",
-        "title": "Superintelligence is coming. Should we let it?",
-        "url": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
-        "description": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI sys",
-        "published": "Wed, 09 Sep 2026 16:05:35 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
@@ -1523,16 +1511,42 @@
         "is_new": false
       },
       {
+        "id": "3eb10fd44cbe5bc1fd086dddad80d363",
+        "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+        "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+        "description": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
+        "published": "Fri, 11 Sep 2026 16:46:25 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "49660676",
+        "title": "Show HN: Godot and Rust based multiplexer (terminal panes and more)",
+        "url": "https://github.com/godot-pty/gpty",
+        "description": "",
+        "published": "2026-09-11T16:03:05Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 54,
+        "comments": 30,
+        "is_new": true
+      },
+      {
         "id": "3409c3c31dfa6b1f8f33211897f197de",
         "title": "Anthropic spent this week in hot water over cybersecurity",
         "url": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
         "description": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks. It reveals a str",
-        "published": "2026-09-11T12:09:14-04:00",
+        "published": "2026-09-11T12:55:17-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "bdd2b8a250a419ab13f99cce657445dc",
@@ -1556,7 +1570,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "49649536",
@@ -1642,18 +1656,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
         "description": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an",
         "published": "2026-09-10T12:06:36-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "bbe537dca3b4759a81d8e8bf2d48c0c3",
-        "title": "Why the current tech backlash feels different",
-        "url": "https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers",
-        "description": "This interview has been lightly edited for length and clarity.  Nick Statt: Hello and welcome to Decoder, Nilay’s show about big ideas and other problems. This is Nick Statt, senior producer. And I’m",
-        "published": "2026-09-10T09:49:45-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
