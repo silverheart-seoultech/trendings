@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-11T21:41:40.689444+00:00",
+  "last_updated": "2026-09-12T00:14:37.542805+00:00",
   "total_entries": 109,
-  "new_entries": 4,
+  "new_entries": 5,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -53,18 +53,6 @@
       "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
       "description": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
       "published": "Wed, 09 Sep 2026 22:25:22 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "7540bc2c5d65debfe0f75999269b4c26",
-      "title": "Massachusetts hits data centers with new clean power rules",
-      "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
-      "description": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
-      "published": "Wed, 09 Sep 2026 21:43:34 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
@@ -192,10 +180,22 @@
       "is_new": false
     },
     {
+      "id": "c923ead07513500b9789e0ec36ceda4c",
+      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "description": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+      "published": "Fri, 11 Sep 2026 22:58:17 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "e2480aa4c979ae2fddd08f46b5d266f4",
-      "title": "Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
+      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
       "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "description": "Tan argues that frontier models themselves trained on public human knowledge so access to capable AI should be \"a form of public good.\"",
+      "description": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
       "published": "Fri, 11 Sep 2026 20:59:47 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
@@ -770,6 +770,18 @@
       "is_new": false
     },
     {
+      "id": "e32e3658be55881a1a73a86517ee0a77",
+      "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+      "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+      "description": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information about a woman's young daughters, as reported earlier by Futurism",
+      "published": "2026-09-11T19:38:19-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": false
+    },
+    {
       "id": "c71016307bb8686e44c29d2d4274b178",
       "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
       "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
@@ -791,8 +803,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 70,
-      "comments": 36,
+      "points": 76,
+      "comments": 41,
       "is_new": false
     },
     {
@@ -813,18 +825,6 @@
       "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
       "description": "Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent can \"take the busywork off your plate\" by helping you",
       "published": "2026-09-11T12:08:47-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "e32e3658be55881a1a73a86517ee0a77",
-      "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
-      "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-      "description": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information about a woman's young daughters, as reported earlier by Futurism",
-      "published": "2026-09-11T10:48:06-04:00",
       "source_id": "theverge-ai",
       "source_name": "The Verge AI",
       "source_icon": "📰",
@@ -1086,7 +1086,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -1099,7 +1099,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -1151,7 +1151,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 3,
       "is_new": true
     },
     {
@@ -1307,18 +1307,6 @@
         "is_new": false
       },
       {
-        "id": "7540bc2c5d65debfe0f75999269b4c26",
-        "title": "Massachusetts hits data centers with new clean power rules",
-        "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
-        "description": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
-        "published": "Wed, 09 Sep 2026 21:43:34 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
         "id": "3f1b7e6d6a103cc4efbde4b8edaae47e",
         "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
         "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
@@ -1439,10 +1427,22 @@
         "is_new": false
       },
       {
+        "id": "c923ead07513500b9789e0ec36ceda4c",
+        "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+        "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+        "description": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+        "published": "Fri, 11 Sep 2026 22:58:17 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "e2480aa4c979ae2fddd08f46b5d266f4",
-        "title": "Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
+        "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
         "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-        "description": "Tan argues that frontier models themselves trained on public human knowledge so access to capable AI should be \"a form of public good.\"",
+        "description": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
         "published": "Fri, 11 Sep 2026 20:59:47 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
@@ -1537,6 +1537,18 @@
         "is_new": false
       },
       {
+        "id": "e32e3658be55881a1a73a86517ee0a77",
+        "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+        "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+        "description": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information about a woman's young daughters, as reported earlier by Futurism",
+        "published": "2026-09-11T19:38:19-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
         "id": "c71016307bb8686e44c29d2d4274b178",
         "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
         "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
@@ -1558,8 +1570,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 70,
-        "comments": 36,
+        "points": 76,
+        "comments": 41,
         "is_new": false
       },
       {
@@ -1580,18 +1592,6 @@
         "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
         "description": "Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent can \"take the busywork off your plate\" by helping you",
         "published": "2026-09-11T12:08:47-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "e32e3658be55881a1a73a86517ee0a77",
-        "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
-        "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-        "description": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information about a woman's young daughters, as reported earlier by Futurism",
-        "published": "2026-09-11T10:48:06-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
