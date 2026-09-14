@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-14T06:13:05.827802+00:00",
+  "last_updated": "2026-09-14T12:23:03.805291+00:00",
   "total_entries": 109,
-  "new_entries": 3,
+  "new_entries": 10,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -780,7 +780,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 2,
-      "comments": 3,
+      "comments": 4,
       "is_new": false
     },
     {
@@ -832,7 +832,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 22,
-      "comments": 18,
+      "comments": 19,
       "is_new": false
     },
     {
@@ -959,8 +959,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 95,
-      "comments": 48,
+      "points": 96,
+      "comments": 49,
       "is_new": false
     },
     {
@@ -990,6 +990,19 @@
       "is_new": false
     },
     {
+      "id": "7e6d568aaeca9167b3df949bc12007b0",
+      "title": "StepAudio 3 Gen Technical Report",
+      "url": "https://huggingface.co/papers/2609.12945",
+      "description": "We introduce StepAudio 3 Gen, a general-purpose audio generation model that supports zero-shot text-to-speech (TTS), voice design, vocal generation, sound effects, music, vibe speech, and mixtures of ",
+      "published": "2026-09-10T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 26,
+      "is_new": true
+    },
+    {
       "id": "dca3c3fce9a12bb18b9e7074eab91b52",
       "title": "Breaking the Vision-Action Shortcut: Latent Interface Training for Generalizable Robotics Foundation Models",
       "url": "https://huggingface.co/papers/2609.12641",
@@ -999,7 +1012,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 34,
+      "likes": 51,
       "is_new": false
     },
     {
@@ -1012,7 +1025,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -1025,7 +1038,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 12,
+      "likes": 45,
       "is_new": false
     },
     {
@@ -1078,7 +1091,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 34,
+      "likes": 47,
       "is_new": false
     },
     {
@@ -1091,7 +1104,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 17,
+      "likes": 27,
       "is_new": false
     },
     {
@@ -1105,84 +1118,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 28,
-      "is_new": false
-    },
-    {
-      "id": "5af9747e589aa4129523ae9353b3c265",
-      "title": "Memory as Plans: World-Action Modeling with Memory-Grounded Planning",
-      "url": "https://huggingface.co/papers/2609.11561",
-      "description": "Mainstream robotic policies often adopt a Markovian formulation, but many complex real-world manipulation tasks are inherently non-Markovian, requiring long-horizon memory beyond the current observati",
-      "published": "2026-09-09T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 36,
-      "is_new": false
-    },
-    {
-      "id": "8e76f048cf50ab03c703520d23328760",
-      "title": "Negative Self-Distillation: Learning to Reason by Avoiding Flaws",
-      "url": "https://huggingface.co/papers/2609.11699",
-      "description": "On-Policy Self-Distillation (OPSD) has emerged as a popular paradigm for large language model (LLM) self-improvement, allowing models to act as their own teachers by leveraging privileged information ",
-      "published": "2026-09-09T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 31,
-      "is_new": false
-    },
-    {
-      "id": "94155f47251264eca71e8d00a2e07794",
-      "title": "FreeFlow: A Bias-free Hierarchical Transformer for Optical Flow Estimation",
-      "url": "https://huggingface.co/papers/2609.11486",
-      "description": "Optical flow methods typically rely on task-specific inductive biases, such as correlation volumes, feature warping, and iterative refinement, among others, to reach high accuracy. While effective, su",
-      "published": "2026-09-09T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 34,
-      "is_new": false
-    },
-    {
-      "id": "4637220d5341d2cae7a9f75d257933fa",
-      "title": "Mi-Ripple: Restoring Images Degraded by Iterative AI Editing",
-      "url": "https://huggingface.co/papers/2609.11317",
-      "description": "Iterative reference-conditioned image editing can introduce grid-like and granular textures, commonly described as digital ripple. We present Mi-Ripple, a diagnosis-guided restoration workflow that su",
-      "published": "2026-09-09T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 49,
-      "is_new": false
-    },
-    {
-      "id": "ae9a53ce64598a15ed01ea4b323051b4",
-      "title": "DRG-MAPPO: Hierarchical Dynamic Role-Graph Multi-Agent Reinforcement Learning for Cooperative Air Combat",
-      "url": "https://huggingface.co/papers/2609.11155",
-      "description": "Multi-Agent Reinforcement Learning (MARL) has emerged as a pivotal paradigm for complex decision-making in autonomous systems and air combat. While MARL has demonstrated significant potential in air c",
-      "published": "2026-09-09T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 22,
-      "is_new": false
-    },
-    {
-      "id": "9e19adad58c3dddc0a1e83ba50216e1d",
-      "title": "UniH^3: Unifying Hierarchical Homogeneity and Heterogeneity for All-in-One Medical Image Restoration",
-      "url": "https://huggingface.co/papers/2609.11156",
-      "description": "All-in-One medical image restoration (MedIR) aims to address diverse tasks across modalities and degradation types using a single universal model. Existing methods typically prioritize modeling inter-",
-      "published": "2026-09-09T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 24,
       "is_new": false
     },
     {
@@ -1239,17 +1174,17 @@
       "is_new": false
     },
     {
-      "id": "2141c55bc64ae0ac1e1c8659fb7b9e9c",
-      "title": "MetroLLM-Bench: Evaluating Language Models as Transit Kiosk Runtimes",
-      "url": "https://huggingface.co/papers/2609.10016",
-      "description": "We introduce MetroLLM-Bench, a 955-case benchmark for testing language models as the policy layer of a transit kiosk. It covers six real metro systems, ranging from 37 to 414 stations, and eleven cate",
-      "published": "2026-09-08T20:00:00.000Z",
+      "id": "040f7a6702991982c589c5967484473b",
+      "title": "Feyospace-v1: How the Cyber Mercury Seven Trained Frontier Cyber Models",
+      "url": "https://huggingface.co/papers/2609.08418",
+      "description": "Training capable cyber agents is often treated primarily as a problem of model scale, yet open-weight post-training is constrained more directly by the cost of executable environments, reliable multi-",
+      "published": "2026-09-07T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 32,
-      "is_new": false
+      "likes": 73,
+      "is_new": true
     },
     {
       "id": "a0a869ef03a2c807b637d393d69127f5",
@@ -1290,6 +1225,72 @@
       "points": 2,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "49580521",
+      "title": "How do you filter noise from signal in programming resources?",
+      "url": "https://news.ycombinator.com/item?id=49580521",
+      "description": "",
+      "published": "2026-09-05T20:50:51Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "4ad36c8af6be859dca30a3bd8416f067",
+      "title": "Adaptive Bridge: A Proxy-Based Decoupling Layer for Mitigating DDS Backpressure in ROS 2",
+      "url": "https://huggingface.co/papers/2608.15380",
+      "description": "In systems built on Robot Operating System 2 (ROS 2) and using Data Distribution Service (DDS), a single network-impaired or throttled subscriber on a RELIABLE topic can cause backpressure that degrad",
+      "published": "2026-09-05T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 23,
+      "is_new": false
+    },
+    {
+      "id": "f5feb5ededfbc7a2cf9fa2f5f645132e",
+      "title": "DataFlex-RL: An Evaluation Platform for RLVR Data Policies",
+      "url": "https://huggingface.co/papers/2609.06107",
+      "description": "Data policies for reinforcement learning with verifiable rewards (RLVR) determine which rollouts are used, how strongly they are weighted, and which domains contribute to subsequent training batches. ",
+      "published": "2026-09-04T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 10,
+      "is_new": true
+    },
+    {
+      "id": "baaae94893ebed275c62d194e2546123",
+      "title": "Beyond Top-k Skill Retrieval: Diversity-Aware Skill Routing for LLM Agents",
+      "url": "https://huggingface.co/papers/2609.05824",
+      "description": "Large language model (LLM) agents increasingly rely on external skills, but routing user requests over large skill registries is difficult because many skills are functionally redundant while complex ",
+      "published": "2026-09-04T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "bdd4678212d440dedcffc8a788efed4a",
+      "title": "Online Learning with LLM Experts from Limited Feedback",
+      "url": "https://huggingface.co/papers/2609.05820",
+      "description": "We study adaptive routing of prompts to large language model (LLM) experts to maximize response quality in an online setting with limited feedback. We formulate it as a bandit problem with K actions t",
+      "published": "2026-09-04T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
     }
   ],
   "by_category": {
@@ -1547,7 +1548,7 @@
         "source_icon": "🟧",
         "category": "news",
         "points": 2,
-        "comments": 3,
+        "comments": 4,
         "is_new": false
       },
       {
@@ -1599,7 +1600,7 @@
         "source_icon": "🟧",
         "category": "news",
         "points": 22,
-        "comments": 18,
+        "comments": 19,
         "is_new": false
       },
       {
