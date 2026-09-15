@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-15T07:40:14.543477+00:00",
+  "last_updated": "2026-09-15T11:29:01.026708+00:00",
   "total_entries": 110,
-  "new_entries": 8,
+  "new_entries": 12,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -791,7 +791,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 3,
+      "points": 4,
       "comments": 0,
       "is_new": false
     },
@@ -900,6 +900,45 @@
       "is_new": false
     },
     {
+      "id": "b44b84ef850196c1107368be53487eea",
+      "title": "How Lossless Is Lossless Speculative Decoding? The Role of Numerical Precision in Orthrus",
+      "url": "https://huggingface.co/papers/2609.15504",
+      "description": "Orthrus is a hybrid autoregressive-diffusion architecture that accelerates autoregressive language-model inference by generating multiple tokens in parallel while using a frozen autoregressive backbon",
+      "published": "2026-09-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 15,
+      "is_new": true
+    },
+    {
+      "id": "ddf96bdaef03cbd5051d63562d4e028d",
+      "title": "ModaLens: Measuring Image Sensitivity in Report-Conditioned Medical VLMs",
+      "url": "https://huggingface.co/papers/2609.15635",
+      "description": "A radiology report can already answer a clinical question, so it is hard to tell whether a vision-language model also uses the image. ModaLens, a paired image-swap audit, measures how report availabil",
+      "published": "2026-09-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "96c128f7f6b7e2c15fae1d7afa0515f9",
+      "title": "LynnReal-Omni: Native multi-modal Video Generation for Agentic Visual Workflows",
+      "url": "https://huggingface.co/papers/2609.15863",
+      "description": "Video diffusion models are stochastic and hard to control: precise content often requires repeated sampling without guaranteed success, and long-horizon scenes drift in appearance, interactions, and t",
+      "published": "2026-09-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 38,
+      "is_new": true
+    },
+    {
       "id": "89e948e61cf67b2f1742920f8480ddf5",
       "title": "RSIAgent: Autonomous Exploration for Recursive Self-improvement in New Environments",
       "url": "https://huggingface.co/papers/2609.15364",
@@ -909,7 +948,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 13,
+      "likes": 19,
       "is_new": true
     },
     {
@@ -922,7 +961,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 10,
+      "likes": 11,
       "is_new": true
     },
     {
@@ -935,7 +974,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -948,7 +987,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -961,7 +1000,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
+      "likes": 9,
       "is_new": false
     },
     {
@@ -974,7 +1013,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 150,
+      "likes": 234,
       "is_new": false
     },
     {
@@ -987,7 +1026,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 14,
+      "likes": 15,
       "is_new": false
     },
     {
@@ -1000,7 +1039,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 57,
+      "likes": 134,
       "is_new": false
     },
     {
@@ -1013,33 +1052,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
-      "is_new": false
-    },
-    {
-      "id": "acda8fdb5ce6850d8b2387e08edf67dc",
-      "title": "Discovery Foundation Models: Toward Open-Ended Discovery Intelligence",
-      "url": "https://huggingface.co/papers/2609.15973",
-      "description": "Foundation models have progressed from learning and reasoning over existing knowledge, to increasingly learning through action, tool use, and outcome feedback. We argue that the next frontier is a fur",
-      "published": "2026-09-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 18,
-      "is_new": false
-    },
-    {
-      "id": "121b043eae03ed8555921580749f598d",
-      "title": "BVB: Benchmarking Agentic Video Understanding via Programmatic Reconstruction in Blender",
-      "url": "https://huggingface.co/papers/2609.15478",
-      "description": "Multimodal agents can create complex videos in software such as Blender by coding without relying on diffusion models. Yet video understanding benchmarks still evaluate models mainly through question ",
-      "published": "2026-09-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 17,
+      "likes": 5,
       "is_new": false
     },
     {
@@ -1090,7 +1103,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 14,
+      "likes": 18,
       "is_new": true
     },
     {
@@ -1172,19 +1185,6 @@
       "is_new": false
     },
     {
-      "id": "3cf942dec94bfbd4aa241d74bbcbfe52",
-      "title": "Realtime-Venus: A full-duplex interaction system with asynchronous delegation",
-      "url": "https://huggingface.co/papers/2609.13814",
-      "description": "Natural interaction in digital and physical environments requires continuous perception and timely responses. Spoken dialogue relies on acoustic and linguistic cues, while video interaction also requi",
-      "published": "2026-09-11T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 6,
-      "is_new": true
-    },
-    {
       "id": "41bb568b2b6096a5c28eb0567f1a8c0f",
       "title": "OpenAI just wants to win",
       "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
@@ -1225,6 +1225,32 @@
       "is_new": false
     },
     {
+      "id": "bddf8f8847fd6bc3a5377dd7a99efbc9",
+      "title": "Dynin-Robotics: Omnimodal Unified Diffusion Vision-Language-Action Model",
+      "url": "https://huggingface.co/papers/2609.13053",
+      "description": "Visual goal and dynamics prediction can provide language-conditioned robot policies with both a target outcome and a representation of action-dependent scene changes. We bring these predictions into a",
+      "published": "2026-09-10T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "a855b14a5933e9fe708d8827672039da",
+      "title": "Expert-Space Exploration in MoE Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2609.13058",
+      "description": "Reinforcement learning (RL) has become central to post-training of large language models. Recent advances in RL for Mixture-of-Experts (MoE) models have primarily focused on improving optimization sta",
+      "published": "2026-09-10T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
       "id": "0995b25b34b595198fd6fa3ee2e1cdee",
       "title": "MInTRL: Off-policy Intervention can boost On-policy RL",
       "url": "https://huggingface.co/papers/2609.12419",
@@ -1234,7 +1260,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 3,
       "is_new": true
     },
     {
@@ -1247,7 +1273,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": true
     },
     {
@@ -1262,33 +1288,6 @@
       "category": "research",
       "likes": 5,
       "is_new": true
-    },
-    {
-      "id": "2be7b59b96f56d46e42eb19c5891882e",
-      "title": "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search",
-      "url": "https://huggingface.co/papers/2609.13356",
-      "description": "In this work, we present ZGCM-1, a fully open 7B dense foundation model trained from scratch with extreme data, system, and algorithmic efficiency. ZGCM-1 is founded on a core premise: compact models ",
-      "published": "2026-09-10T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 114,
-      "is_new": false
-    },
-    {
-      "id": "49647573",
-      "title": "Ask HN: Would you pay to have your favorite AI agents in one app?",
-      "url": "https://news.ycombinator.com/item?id=49647573",
-      "description": "",
-      "published": "2026-09-10T17:41:54Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 0,
-      "is_new": false
     }
   ],
   "by_category": {
@@ -1557,7 +1556,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 3,
+        "points": 4,
         "comments": 0,
         "is_new": false
       },
