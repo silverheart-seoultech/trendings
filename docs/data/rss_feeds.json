@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-14T22:27:52.219348+00:00",
+  "last_updated": "2026-09-15T01:24:46.571588+00:00",
   "total_entries": 110,
-  "new_entries": 5,
+  "new_entries": 11,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -777,7 +777,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 1,
+      "points": 2,
       "comments": 0,
       "is_new": true
     },
@@ -791,16 +791,16 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 1,
+      "points": 2,
       "comments": 0,
       "is_new": false
     },
     {
-      "id": "de5d887a67d769f90a829c4f1e637bad",
-      "title": "What execs and politicians are saying about slowing down AI development",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
-      "description": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. O",
-      "published": "2026-09-14T17:21:42-04:00",
+      "id": "c9c7e7aae9376f42002bdc94ee796681",
+      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+      "description": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotte",
+      "published": "2026-09-14T19:46:01-04:00",
       "source_id": "theverge-ai",
       "source_name": "The Verge AI",
       "source_icon": "📰",
@@ -812,12 +812,24 @@
       "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
       "url": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
       "description": "Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. It's not the first time Huang has taken a call from the president during work, b",
-      "published": "2026-09-14T16:03:37-04:00",
+      "published": "2026-09-14T18:48:52-04:00",
       "source_id": "theverge-ai",
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "de5d887a67d769f90a829c4f1e637bad",
+      "title": "What execs and politicians are saying about slowing down AI development",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+      "description": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. O",
+      "published": "2026-09-14T18:40:57-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "49696084",
@@ -829,7 +841,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 17,
+      "points": 19,
       "comments": 2,
       "is_new": false
     },
@@ -1016,18 +1028,6 @@
       "is_new": false
     },
     {
-      "id": "c71016307bb8686e44c29d2d4274b178",
-      "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
-      "description": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters. In",
-      "published": "2026-09-11T16:44:25-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "49660676",
       "title": "Show HN: Godot and Rust based multiplexer (terminal panes and more)",
       "url": "https://github.com/godot-pty/gpty",
@@ -1069,32 +1069,6 @@
       "is_new": false
     },
     {
-      "id": "dca3c3fce9a12bb18b9e7074eab91b52",
-      "title": "Breaking the Vision-Action Shortcut: Latent Interface Training for Generalizable Robotics Foundation Models",
-      "url": "https://huggingface.co/papers/2609.12641",
-      "description": "Robot foundation models achieve strong in-distribution performance but often degrade under visual distribution shifts. When learning to generate actions from pretrained visual representations, models ",
-      "published": "2026-09-10T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 63,
-      "is_new": false
-    },
-    {
-      "id": "faeae297f6a0b0753e3c6314243fc174",
-      "title": "SNAP3D: Physically Grounded 3D Parts for Assembly from a Single Image",
-      "url": "https://huggingface.co/papers/2609.13146",
-      "description": "Part-aware 3D asset generation enables applications such as editing, articulation, simulation, and fabrication, yet existing methods can generate visually complete individual parts without ensuring th",
-      "published": "2026-09-10T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
       "id": "49647573",
       "title": "Ask HN: Would you pay to have your favorite AI agents in one app?",
       "url": "https://news.ycombinator.com/item?id=49647573",
@@ -1123,6 +1097,19 @@
       "is_new": false
     },
     {
+      "id": "3cb57c2cd9bd94e64b0b764d6cd947cb",
+      "title": "Pelican-Sim 1.0: A General World Model Simulator for Embodied Intelligence",
+      "url": "https://huggingface.co/papers/2609.12036",
+      "description": "In this technical report, we propose Pelican-Sim 1.0, a general world model simulator for embodied intelligence that predicts future observations from visual context and robot actions to support downs",
+      "published": "2026-09-09T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "753663d002aac273ab00fc2de2b0c578",
       "title": "Competence-Gated Pooling of Language Models and Priors for Event Forecasting",
       "url": "https://huggingface.co/papers/2609.12101",
@@ -1132,7 +1119,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 2,
       "is_new": true
     },
     {
@@ -1145,7 +1132,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 1,
       "is_new": true
     },
     {
@@ -1175,32 +1162,6 @@
       "is_new": false
     },
     {
-      "id": "42d7d027d963b9f33a786d8bc427b175",
-      "title": "Benchmark Radar: A Living Database and Search Engine for AI Benchmarks and Evaluation",
-      "url": "https://huggingface.co/papers/2609.11115",
-      "description": "Benchmark researchers and developers of large language models (LLMs) and other AI systems need to find relevant evaluations, locate their benchmark datasets and code, and understand the settings behin",
-      "published": "2026-09-09T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 75,
-      "is_new": false
-    },
-    {
-      "id": "e83813386e32ae8e671dda13a63aecb8",
-      "title": "COBRA-Skills: Contextual Bandit-Guided Evolution for Agent Skill Optimization",
-      "url": "https://huggingface.co/papers/2609.11682",
-      "description": "Large language model (LLM) agents can benefit from reusable skills distilled from prior task experience, yet existing skill optimization methods often rely on costly execution-based evaluation and sub",
-      "published": "2026-09-09T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 29,
-      "is_new": false
-    },
-    {
       "id": "49628247",
       "title": "Ask HN: Is there any solution to the AI infestation?",
       "url": "https://news.ycombinator.com/item?id=49628247",
@@ -1213,6 +1174,19 @@
       "points": 7,
       "comments": 6,
       "is_new": false
+    },
+    {
+      "id": "a245ee122f78b78e1d7cb1ee986ec5ff",
+      "title": "ReactHuman: A Physics-Grounded Benchmark for Human-Like Reactive Decision-Making in Embodied Multimodal LLMs",
+      "url": "https://huggingface.co/papers/2609.10895",
+      "description": "Reacting to sudden physical hazards (catching a slipping plate, dodging a falling knife) is both a meaningful test of embodied intelligence and a hard requirement for deploying multimodal large langua",
+      "published": "2026-09-08T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 15,
+      "is_new": true
     },
     {
       "id": "deb5bf0678b72328e9ff506ebf0b413b",
@@ -1254,6 +1228,19 @@
       "is_new": false
     },
     {
+      "id": "7326bec5f950d8c19af6f7f4c4e9d084",
+      "title": "ReMoMask-2: Latent Retrieval-Augmented Masked Motion Generation",
+      "url": "https://huggingface.co/papers/2609.08365",
+      "description": "Text-to-motion (T2M) generation maps natural language to human joint movements, aiding gaming, VR, and robotics. Retrieval-Augmented Text-to-Motion (RAG-T2M) improves generation on complex description",
+      "published": "2026-09-07T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "8318c11ddb990921236fc926fa97989c",
       "title": "ActionSplice: In-Flight Action Editing for Interactive World Models",
       "url": "https://huggingface.co/papers/2609.08230",
@@ -1285,6 +1272,20 @@
       "url": "https://news.ycombinator.com/item?id=49586810",
       "description": "",
       "published": "2026-09-06T14:23:53Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": false
+    },
+    {
+      "id": "49580521",
+      "title": "How do you filter noise from signal in programming resources?",
+      "url": "https://news.ycombinator.com/item?id=49580521",
+      "description": "",
+      "published": "2026-09-05T20:50:51Z",
       "source_id": "hn-ai",
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
@@ -1546,7 +1547,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 1,
+        "points": 2,
         "comments": 0,
         "is_new": true
       },
@@ -1560,16 +1561,16 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 1,
+        "points": 2,
         "comments": 0,
         "is_new": false
       },
       {
-        "id": "de5d887a67d769f90a829c4f1e637bad",
-        "title": "What execs and politicians are saying about slowing down AI development",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
-        "description": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. O",
-        "published": "2026-09-14T17:21:42-04:00",
+        "id": "c9c7e7aae9376f42002bdc94ee796681",
+        "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+        "description": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotte",
+        "published": "2026-09-14T19:46:01-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
@@ -1581,12 +1582,24 @@
         "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
         "url": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
         "description": "Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. It's not the first time Huang has taken a call from the president during work, b",
-        "published": "2026-09-14T16:03:37-04:00",
+        "published": "2026-09-14T18:48:52-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
         "is_new": false
+      },
+      {
+        "id": "de5d887a67d769f90a829c4f1e637bad",
+        "title": "What execs and politicians are saying about slowing down AI development",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+        "description": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. O",
+        "published": "2026-09-14T18:40:57-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
       },
       {
         "id": "49696084",
@@ -1598,7 +1611,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 17,
+        "points": 19,
         "comments": 2,
         "is_new": false
       },
@@ -1654,18 +1667,6 @@
         "category": "news",
         "points": 1,
         "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "552eadb734971ff0cc4ff257b0c894e3",
-        "title": "OpenAI’s rogue AI tried to hack another company in May",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
-        "description": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsib",
-        "published": "2026-09-13T16:54:00-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
         "is_new": false
       }
     ],
