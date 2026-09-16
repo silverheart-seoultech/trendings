@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-15T21:17:12.947679+00:00",
+  "last_updated": "2026-09-16T00:15:02.700743+00:00",
   "total_entries": 110,
-  "new_entries": 0,
+  "new_entries": 3,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,6 +47,18 @@
     }
   ],
   "entries": [
+    {
+      "id": "f5e80ecad1974be7aa6cc485802da5d7",
+      "title": "The AI data center boom is colliding with cities scarred by big industry",
+      "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+      "description": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
+      "published": "Tue, 15 Sep 2026 21:47:38 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "c8e966977fdfbf219f7d7c920d00d133",
       "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
@@ -756,16 +768,30 @@
       "is_new": false
     },
     {
-      "id": "d360e52aaf33362c48972d44df980bd3",
-      "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
-      "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
-      "description": "The notetaker offers a generous free plan, and that has resulted in over 400,000 monthly active users. The company said that over 1 million people have recorded meetings until now.",
-      "published": "Mon, 14 Sep 2026 14:45:44 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
+      "id": "49720222",
+      "title": "Show HN: Agenttik – work on multiple projects in parallel with AI agents",
+      "url": "https://github.com/pausan/agenttik",
+      "description": "",
+      "published": "2026-09-15T23:24:53Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 3,
+      "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "066a2ef821973007a6fd1b74a7174bbe",
+      "title": "AI and data centers are incredibly unpopular in every poll",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+      "description": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. As",
+      "published": "2026-09-15T20:03:22-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "49716388",
@@ -989,7 +1015,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 23,
+      "likes": 26,
       "is_new": false
     },
     {
@@ -1028,7 +1054,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 32,
+      "likes": 56,
       "is_new": false
     },
     {
@@ -1160,18 +1186,6 @@
       "is_new": false
     },
     {
-      "id": "423571cd7c5d29c6cc2a47b7846ecb9c",
-      "title": "Anthropic CEO says it’s time to pump the brakes on AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
-      "description": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and",
-      "published": "2026-09-12T12:23:40-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "49671509",
       "title": "Show HN: Rust-split – save your tokens on large Rust source files",
       "url": "https://news.ycombinator.com/item?id=49671509",
@@ -1264,7 +1278,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -1277,25 +1291,24 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "bddf8f8847fd6bc3a5377dd7a99efbc9",
-      "title": "Dynin-Robotics: Omnimodal Unified Diffusion Vision-Language-Action Model",
-      "url": "https://huggingface.co/papers/2609.13053",
-      "description": "Visual goal and dynamics prediction can provide language-conditioned robot policies with both a target outcome and a representation of action-dependent scene changes. We bring these predictions into a",
-      "published": "2026-09-10T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 5,
+      "likes": 2,
       "is_new": false
     }
   ],
   "by_category": {
     "news": [
+      {
+        "id": "f5e80ecad1974be7aa6cc485802da5d7",
+        "title": "The AI data center boom is colliding with cities scarred by big industry",
+        "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+        "description": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
+        "published": "Tue, 15 Sep 2026 21:47:38 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "c8e966977fdfbf219f7d7c920d00d133",
         "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
@@ -1525,16 +1538,30 @@
         "is_new": false
       },
       {
-        "id": "d360e52aaf33362c48972d44df980bd3",
-        "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
-        "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
-        "description": "The notetaker offers a generous free plan, and that has resulted in over 400,000 monthly active users. The company said that over 1 million people have recorded meetings until now.",
-        "published": "Mon, 14 Sep 2026 14:45:44 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
+        "id": "49720222",
+        "title": "Show HN: Agenttik – work on multiple projects in parallel with AI agents",
+        "url": "https://github.com/pausan/agenttik",
+        "description": "",
+        "published": "2026-09-15T23:24:53Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 3,
+        "comments": 0,
+        "is_new": true
+      },
+      {
+        "id": "066a2ef821973007a6fd1b74a7174bbe",
+        "title": "AI and data centers are incredibly unpopular in every poll",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+        "description": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. As",
+        "published": "2026-09-15T20:03:22-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
+        "is_new": true
       },
       {
         "id": "49716388",
@@ -1638,34 +1665,6 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "49704882",
-        "title": "Show HN: Nowdex – AI agent usage on your iPhone",
-        "url": "https://nowdex.app/",
-        "description": "",
-        "published": "2026-09-14T22:10:15Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 2,
-        "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "49702887",
-        "title": "Show HN: Slowave – local adaptive memory for coding agents",
-        "url": "https://github.com/slowave-ai/slowave",
-        "description": "",
-        "published": "2026-09-14T19:49:12Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 4,
-        "comments": 0,
         "is_new": false
       }
     ],
