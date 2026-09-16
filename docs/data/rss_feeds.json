@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-16T04:50:20.770551+00:00",
+  "last_updated": "2026-09-16T09:53:33.388834+00:00",
   "total_entries": 110,
-  "new_entries": 1,
+  "new_entries": 5,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -782,6 +782,18 @@
       "is_new": false
     },
     {
+      "id": "066a2ef821973007a6fd1b74a7174bbe",
+      "title": "AI and data centers are incredibly unpopular in every poll",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+      "description": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. As",
+      "published": "2026-09-15T20:03:22-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": false
+    },
+    {
       "id": "49716388",
       "title": "Show HN: A writing coach that's not allowed to write your sentences",
       "url": "https://app.oghmere.com/try/HACKERNEWS2026",
@@ -819,7 +831,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 2,
+      "points": 3,
       "comments": 0,
       "is_new": false
     },
@@ -908,7 +920,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -921,7 +933,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -934,7 +946,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 35,
+      "likes": 89,
       "is_new": false
     },
     {
@@ -960,7 +972,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 4,
+      "points": 5,
       "comments": 0,
       "is_new": false
     },
@@ -1031,6 +1043,45 @@
       "is_new": false
     },
     {
+      "id": "d572bcf0650cb3c1ff68604cfc81ab92",
+      "title": "ModularRSI: Modular and Generalizable Recursive Harness Self-Improvement",
+      "url": "https://huggingface.co/papers/2609.14857",
+      "description": "Recent work extends recursive self-improvement (RSI) to agent harnesses for long-horizon coding and terminal tasks, enabling agents to improve execution mechanisms from experience. However, generaliza",
+      "published": "2026-09-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "14d6fdd3e481f50241f97acf78bbbc59",
+      "title": "HarnessVLN: Unifying Training-Free Embodied Navigation through an Agent Harness",
+      "url": "https://huggingface.co/papers/2609.15195",
+      "description": "Embodied navigation requires agents to interpret visual observations, accumulate spatial knowledge, and execute actions to follow instructions or locate objects. Training-based methods face generaliza",
+      "published": "2026-09-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 9,
+      "is_new": true
+    },
+    {
+      "id": "9b0cafc199fcb7e8a2dfb49047bfa8e0",
+      "title": "Decoy Direction Optimization: A Post-Hoc Defense Against LLM Abliteration",
+      "url": "https://huggingface.co/papers/2609.16204",
+      "description": "Safety guardrails in open-weight language models can be readily bypassed using Refusal Feature Ablation (RFA), a technique that identifies and projects out a linear refusal direction from the residual",
+      "published": "2026-09-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "f37daab82b3dd62467ae1c24ccd96778",
       "title": "Mind2Dialogue: Training Human-Aware Language Models by Simulating User Mental States",
       "url": "https://huggingface.co/papers/2609.15972",
@@ -1040,7 +1091,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -1067,32 +1118,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "b44b84ef850196c1107368be53487eea",
-      "title": "How Lossless Is Lossless Speculative Decoding? The Role of Numerical Precision in Orthrus",
-      "url": "https://huggingface.co/papers/2609.15504",
-      "description": "Orthrus is a hybrid autoregressive-diffusion architecture that accelerates autoregressive language-model inference by generating multiple tokens in parallel while using a frozen autoregressive backbon",
-      "published": "2026-09-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 26,
-      "is_new": false
-    },
-    {
-      "id": "ddf96bdaef03cbd5051d63562d4e028d",
-      "title": "ModaLens: Measuring Image Sensitivity in Report-Conditioned Medical VLMs",
-      "url": "https://huggingface.co/papers/2609.15635",
-      "description": "A radiology report can already answer a clinical question, so it is hard to tell whether a vision-language model also uses the image. ModaLens, a paired image-swap audit, measures how report availabil",
-      "published": "2026-09-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
       "is_new": false
     },
     {
@@ -1147,19 +1172,6 @@
       "is_new": false
     },
     {
-      "id": "5f402141c5bf9f74270713f56f664dd9",
-      "title": "E2A-Bench: Benchmarking Evidence-to-Action Reliability in Financial Chart Reasoning",
-      "url": "https://huggingface.co/papers/2609.14302",
-      "description": "Can financial vision-language models (VLMs) turn chart evidence into reliable action recommendations? Existing hallucination evaluations are mostly claim-centric; they assess whether generated stateme",
-      "published": "2026-09-12T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
       "id": "9276271a0e3f9a08fa4606a054f875be",
       "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
       "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
@@ -1170,18 +1182,6 @@
       "source_icon": "📰",
       "category": "news",
       "is_new": false
-    },
-    {
-      "id": "423571cd7c5d29c6cc2a47b7846ecb9c",
-      "title": "Anthropic CEO says it’s time to pump the brakes on AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
-      "description": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and",
-      "published": "2026-09-12T12:23:40-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": true
     },
     {
       "id": "49671509",
@@ -1226,6 +1226,19 @@
       "is_new": false
     },
     {
+      "id": "e64ce08614cc1f6ad9c4786bc72a0177",
+      "title": "StepAudio 3 Realtime Technical Report",
+      "url": "https://huggingface.co/papers/2609.14005",
+      "description": "Realtime spoken interaction demands deep reasoning, prompt responses, and fluid turn-taking. We present StepAudio 3 Realtime, an audio-language foundation model organized around a continuous listen-co",
+      "published": "2026-09-11T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 30,
+      "is_new": true
+    },
+    {
       "id": "d39ecd0a3236223bef256ffd3182277f",
       "title": "Drift-Constrained Optimization: Only Direction Matters in Fine-Tuning Instruct Models",
       "url": "https://huggingface.co/papers/2609.13680",
@@ -1235,7 +1248,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 1,
       "is_new": false
     },
     {
@@ -1248,20 +1261,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
-      "is_new": false
-    },
-    {
-      "id": "407862bc43940d2d10bcc618d8d216c1",
-      "title": "Thought without systematicity? Evaluating reasoning models on rule induction tasks",
-      "url": "https://huggingface.co/papers/2609.13948",
-      "description": "A central tenet of human cognition is systematicity, the principle that understanding one concept is inherently tied to understanding close variations of that concept. Do reasoning models robustly exh",
-      "published": "2026-09-11T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
+      "likes": 1,
       "is_new": false
     },
     {
@@ -1550,6 +1550,18 @@
         "is_new": false
       },
       {
+        "id": "066a2ef821973007a6fd1b74a7174bbe",
+        "title": "AI and data centers are incredibly unpopular in every poll",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+        "description": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. As",
+        "published": "2026-09-15T20:03:22-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
         "id": "49716388",
         "title": "Show HN: A writing coach that's not allowed to write your sentences",
         "url": "https://app.oghmere.com/try/HACKERNEWS2026",
@@ -1587,7 +1599,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 2,
+        "points": 3,
         "comments": 0,
         "is_new": false
       },
@@ -1650,20 +1662,6 @@
         "source_icon": "🟧",
         "category": "news",
         "points": 2,
-        "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "49702887",
-        "title": "Show HN: Slowave – local adaptive memory for coding agents",
-        "url": "https://github.com/slowave-ai/slowave",
-        "description": "",
-        "published": "2026-09-14T19:49:12Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 4,
         "comments": 0,
         "is_new": false
       }
