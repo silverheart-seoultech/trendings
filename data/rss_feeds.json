@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-16T22:07:11.113460+00:00",
+  "last_updated": "2026-09-17T00:26:40.938484+00:00",
   "total_entries": 110,
-  "new_entries": 0,
+  "new_entries": 2,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -829,8 +829,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 8,
-      "comments": 8,
+      "points": 10,
+      "comments": 9,
       "is_new": false
     },
     {
@@ -1014,6 +1014,19 @@
       "is_new": false
     },
     {
+      "id": "1fcc5ad9378b75191fa300f425ce9feb",
+      "title": "LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence",
+      "url": "https://huggingface.co/papers/2609.17488",
+      "description": "We introduce LimiX-2, a new model in the LimiX family, developed through model and data scaling guided by our previously established scaling laws. LimiX-2 adopts the Contextual Mechanism Networks (CMN",
+      "published": "2026-09-14T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
       "id": "96d37c394532306b76103e1f709c6e4d",
       "title": "FLAT: Resampling Image and Text into 1D Flexible-Length Aligned Transmodal Tokens for Retrieval and Generation",
       "url": "https://huggingface.co/papers/2609.16591",
@@ -1135,6 +1148,19 @@
       "is_new": false
     },
     {
+      "id": "b74aea470933b7d9f83057bb4e8fb2d8",
+      "title": "Register Tokens for Bounded-State Reasoning in Diffusion Language Models",
+      "url": "https://huggingface.co/papers/2609.16372",
+      "description": "Masked diffusion language models (dLLMs) generate text by iteratively denoising masked tokens with bidirectional attention. Extending reasoning across generation chunks normally requires keeping earli",
+      "published": "2026-09-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
       "id": "d572bcf0650cb3c1ff68604cfc81ab92",
       "title": "ModularRSI: Modular and Generalizable Recursive Harness Self-Improvement",
       "url": "https://huggingface.co/papers/2609.14857",
@@ -1171,32 +1197,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "f37daab82b3dd62467ae1c24ccd96778",
-      "title": "Mind2Dialogue: Training Human-Aware Language Models by Simulating User Mental States",
-      "url": "https://huggingface.co/papers/2609.15972",
-      "description": "As language models become more capable, long-term collaboration in learning, reasoning, and decision-making calls for a deeper understanding of the people they serve. Yet training such human-aware lan",
-      "published": "2026-09-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 5,
-      "is_new": false
-    },
-    {
-      "id": "dc548ba9ad33f5e48138b0385d4fb2b2",
-      "title": "Disentangling Representation Evolution in Transformers through Directional Decomposition",
-      "url": "https://huggingface.co/papers/2609.15975",
-      "description": "Transformer representations evolve through learned additive transformations that either preserve their current direction or redirect it. We study this evolution as a functional geometry, decomposing l",
-      "published": "2026-09-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
       "is_new": false
     },
     {
@@ -1599,8 +1599,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 8,
-        "comments": 8,
+        "points": 10,
+        "comments": 9,
         "is_new": false
       },
       {
