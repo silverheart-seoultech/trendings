@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-17T06:06:46.533223+00:00",
+  "last_updated": "2026-09-17T11:23:05.591711+00:00",
   "total_entries": 110,
-  "new_entries": 4,
+  "new_entries": 12,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -841,7 +841,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 12,
+      "points": 15,
       "comments": 9,
       "is_new": false
     },
@@ -856,7 +856,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 2,
-      "comments": 3,
+      "comments": 4,
       "is_new": false
     },
     {
@@ -946,6 +946,58 @@
       "is_new": false
     },
     {
+      "id": "f3702c4d8db79ed93a04a3f8892a5423",
+      "title": "In-Context Robot Learning with VLM Agents",
+      "url": "https://huggingface.co/papers/2609.19138",
+      "description": "Enabling robots to adapt to unfamiliar environments as readily as humans remains a moonshot goal of embodied AI. No finite collection of demonstrations can cover every task and situation a robot will ",
+      "published": "2026-09-15T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
+    },
+    {
+      "id": "911649d0ccf0de715445a249fa50cce4",
+      "title": "The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction",
+      "url": "https://huggingface.co/papers/2609.18063",
+      "description": "Mixture-of-experts (MoE) inference on consumer hardware is bounded by weight memory: a 35B-class model is 19.5GB at 4-bit, and sparsity shrinks the compute per token, not the bytes that must be held. ",
+      "published": "2026-09-15T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
+      "id": "4a7bf7dfcd229ca5d327bedeb49fb87f",
+      "title": "PANORAMA: Panoptic Grounded Captioning via Mask Proposal Selection",
+      "url": "https://huggingface.co/papers/2609.19143",
+      "description": "Intelligent systems that act in the world require image understanding that is both comprehensive and spatially grounded. Current vision-language models (VLMs) can generate fluent and detailed image ca",
+      "published": "2026-09-15T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 7,
+      "is_new": true
+    },
+    {
+      "id": "b286e22aa68f0206f81f201e89846e21",
+      "title": "Rethinking Critic Learning in PPO: Understanding and Mitigating Value Flattening",
+      "url": "https://huggingface.co/papers/2609.18708",
+      "description": "In reinforcement learning for large language models, Proximal Policy Optimization (PPO) commonly uses a critic to estimate state values and reduce the variance of policy updates. However, we uncover a",
+      "published": "2026-09-15T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 37,
+      "is_new": true
+    },
+    {
       "id": "905f2bd4ba169e212c82bc4d9d197d5d",
       "title": "ActionPiece: Rethinking Action Tokenization for Autoregressive Vision-Language-Action Models",
       "url": "https://huggingface.co/papers/2609.18487",
@@ -955,7 +1007,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 10,
+      "likes": 33,
       "is_new": true
     },
     {
@@ -968,7 +1020,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 21,
       "is_new": true
     },
     {
@@ -981,7 +1033,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 31,
       "is_new": false
     },
     {
@@ -994,7 +1046,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 40,
+      "likes": 64,
       "is_new": false
     },
     {
@@ -1007,20 +1059,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "e6c14e2a7560df33e9d9df5f27d23225",
-      "title": "ProgramDistill: From Interactive Web Apps to Verifiable Reference-Guided SWE Tasks",
-      "url": "https://huggingface.co/papers/2609.18805",
-      "description": "Coding agents are typically evaluated with desired behavior specified through issues or instructions. In practical web development, however, agents may need to infer behavior from working software and",
-      "published": "2026-09-15T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 18,
+      "likes": 22,
       "is_new": false
     },
     {
@@ -1092,6 +1131,45 @@
       "is_new": false
     },
     {
+      "id": "b70d3f405fbd36df442b121b239ec1b6",
+      "title": "Fathom: Per-Query Read Depth for Sparse Decoding over Offloaded KV Caches",
+      "url": "https://huggingface.co/papers/2609.17652",
+      "description": "When agentic sessions run to a million tokens with many sessions resident at once, the KV cache and the index that ranks it live in host memory, and the scan that ranks all n keys for a top-k step bec",
+      "published": "2026-09-14T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "1fcc5ad9378b75191fa300f425ce9feb",
+      "title": "LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence",
+      "url": "https://huggingface.co/papers/2609.17488",
+      "description": "We introduce LimiX-2, a new model in the LimiX family, developed through model and data scaling guided by our previously established scaling laws. LimiX-2 adopts the Contextual Mechanism Networks (CMN",
+      "published": "2026-09-14T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 47,
+      "is_new": false
+    },
+    {
+      "id": "2a686cda7738cccb97054017c8634b4b",
+      "title": "Confidence Comes from Experience: Experiential Confidence Estimation from Reasoning to Agents",
+      "url": "https://huggingface.co/papers/2609.17708",
+      "description": "Reliable confidence estimation is increasingly central to the trustworthy deployment of language models: a calibrated estimate of the probability that an output is correct decides what to ship, what t",
+      "published": "2026-09-14T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 45,
+      "is_new": true
+    },
+    {
       "id": "3721dae0408bd44722231826a213d06a",
       "title": "Zing-0.5: Toward Playable Worlds with Real-Time Joint Action and Text Control",
       "url": "https://huggingface.co/papers/2609.17909",
@@ -1101,7 +1179,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 24,
       "is_new": false
     },
     {
@@ -1114,7 +1192,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 28,
       "is_new": false
     },
     {
@@ -1127,46 +1205,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "1fcc5ad9378b75191fa300f425ce9feb",
-      "title": "LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence",
-      "url": "https://huggingface.co/papers/2609.17488",
-      "description": "We introduce LimiX-2, a new model in the LimiX family, developed through model and data scaling guided by our previously established scaling laws. LimiX-2 adopts the Contextual Mechanism Networks (CMN",
-      "published": "2026-09-14T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "96d37c394532306b76103e1f709c6e4d",
-      "title": "FLAT: Resampling Image and Text into 1D Flexible-Length Aligned Transmodal Tokens for Retrieval and Generation",
-      "url": "https://huggingface.co/papers/2609.16591",
-      "description": "Traditional multimodal representation learning and generation are two stages: a contrastive or self-supervised visual encoder is trained first, followed by a separate downstream generative model. This",
-      "published": "2026-09-14T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 12,
-      "is_new": false
-    },
-    {
-      "id": "7f422a3cef4929758d051f74bf9837aa",
-      "title": "ImpossibleRubrics: Stress-Testing Generated Rubrics as Reward Signals",
-      "url": "https://huggingface.co/papers/2609.16816",
-      "description": "Language model-generated rubrics are increasingly used as reward signals for rubric-based reinforcement learning, LLM-as-a-judge evaluation, and automated grading. Such rubrics are reliable only if th",
-      "published": "2026-09-14T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
+      "likes": 21,
       "is_new": false
     },
     {
@@ -1226,6 +1265,19 @@
       "is_new": false
     },
     {
+      "id": "6d1d07a68e49176d6278f508a1c956e8",
+      "title": "Assessing nnU-Net Generalization across Brain Tumor Populations in BraTS-GoAT 2026",
+      "url": "https://huggingface.co/papers/2609.15524",
+      "description": "BraTS-GoAT evaluates tumor segmentation across heterogeneous populations. We trained a conventional 3D nnU-Net on 1,351 labeled cases using five-fold cross-validation and 1,000 epochs per fold. The fi",
+      "published": "2026-09-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "61d9e844d2e025637046ca29b8cef9d5",
       "title": "HypoEvolve: Genetic Algorithms Enable Multi-Agent LLMs to Discover Scientific Hypotheses",
       "url": "https://huggingface.co/papers/2609.15938",
@@ -1235,61 +1287,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 22,
       "is_new": false
-    },
-    {
-      "id": "9e6e4180ff40502913214f0a4be27e15",
-      "title": "VC-Attention: Value Smoothing and Softmax Casting for Low-bit Attention",
-      "url": "https://huggingface.co/papers/2609.15810",
-      "description": "Diffusion Transformers deliver state-of-the-art video generation, but their long spatiotemporal sequences make attention the dominant deployment cost, and a deployable low-bit kernel must be accurate ",
-      "published": "2026-09-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 5,
-      "is_new": false
-    },
-    {
-      "id": "b74aea470933b7d9f83057bb4e8fb2d8",
-      "title": "Register Tokens for Bounded-State Reasoning in Diffusion Language Models",
-      "url": "https://huggingface.co/papers/2609.16372",
-      "description": "Masked diffusion language models (dLLMs) generate text by iteratively denoising masked tokens with bidirectional attention. Extending reasoning across generation chunks normally requires keeping earli",
-      "published": "2026-09-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "49685036",
-      "title": "Ask HN: Are we losing our engineering literacy?",
-      "url": "https://news.ycombinator.com/item?id=49685036",
-      "description": "",
-      "published": "2026-09-13T15:23:57Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 22,
-      "comments": 20,
-      "is_new": false
-    },
-    {
-      "id": "d6212792289851b50ed0acf4464f65ed",
-      "title": "SpectralShift: Effective Context Window Extension of Gated DeltaNet via Spectral Reparameterization",
-      "url": "https://huggingface.co/papers/2609.14320",
-      "description": "Recently, linear attention layers have been increasingly adopted to replace softmax attention at scale for long-context modeling. However, existing context extension approaches typically apply continu",
-      "published": "2026-09-12T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": true
     }
   ],
   "by_category": {
@@ -1608,7 +1607,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 12,
+        "points": 15,
         "comments": 9,
         "is_new": false
       },
@@ -1623,7 +1622,7 @@
         "source_icon": "🟧",
         "category": "news",
         "points": 2,
-        "comments": 3,
+        "comments": 4,
         "is_new": false
       },
       {
