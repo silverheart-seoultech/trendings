@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-18T09:41:41.758246+00:00",
+  "last_updated": "2026-09-18T10:57:07.289799+00:00",
   "total_entries": 110,
-  "new_entries": 5,
+  "new_entries": 7,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,6 +768,20 @@
       "is_new": false
     },
     {
+      "id": "49752422",
+      "title": "ZCode, the GLM coding agent, silently uploads your Git history",
+      "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+      "description": "",
+      "published": "2026-09-18T10:35:28Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 3,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "49749997",
       "title": "The Provenance Tax: How LLM Watermarking Changes AI Agent Behavior",
       "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
@@ -870,6 +884,19 @@
       "is_new": false
     },
     {
+      "id": "ad33855ee592c8a8940e152e7a79041c",
+      "title": "Don't Mask the Environment: Observation Supervision Changes How Agents Explore Under RL",
+      "url": "https://huggingface.co/papers/2609.20715",
+      "description": "Agent trajectories record what an agent does and what happens next. Yet standard supervised fine-tuning (SFT) applies loss only to agent-authored action tokens, using environment observations as conte",
+      "published": "2026-09-16T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "4df53028819a8c345f027afe26cdd837",
       "title": "FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations",
       "url": "https://huggingface.co/papers/2609.20817",
@@ -879,7 +906,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 4,
       "is_new": true
     },
     {
@@ -918,7 +945,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 10,
+      "likes": 11,
       "is_new": false
     },
     {
@@ -957,7 +984,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 36,
+      "likes": 41,
       "is_new": false
     },
     {
@@ -1035,7 +1062,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 36,
+      "likes": 37,
       "is_new": false
     },
     {
@@ -1125,7 +1152,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 21,
+      "points": 22,
       "comments": 11,
       "is_new": false
     },
@@ -1191,7 +1218,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 19,
+      "likes": 20,
       "is_new": true
     },
     {
@@ -1261,32 +1288,6 @@
       "category": "news",
       "points": 2,
       "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "396f1f3dda8d5f2e7784e89598ef065a",
-      "title": "Reflect, Revise, Reuse: Training-Free Skill Evolution for GUI Agents",
-      "url": "https://huggingface.co/papers/2609.17653",
-      "description": "GUI agents execute long-horizon tasks on dynamic graphical user interfaces, where pop-ups, delayed loads, and relocated widgets routinely invalidate plans fixed before execution. Recent agent-skill fr",
-      "published": "2026-09-14T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 7,
-      "is_new": false
-    },
-    {
-      "id": "d0fce82948180c113028081953a5dbe8",
-      "title": "RiskChainBench: A Benchmark for Obfuscated Platform Message Restoration and Evidence-Grounded Web Investigation",
-      "url": "https://huggingface.co/papers/2609.16900",
-      "description": "Platform abuse campaigns conceal redirection instructions with emojis, homophones, character decomposition, and redundant symbols, then route users through disguised links to services associated with ",
-      "published": "2026-09-14T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 16,
       "is_new": false
     }
   ],
@@ -1533,6 +1534,20 @@
         "is_new": false
       },
       {
+        "id": "49752422",
+        "title": "ZCode, the GLM coding agent, silently uploads your Git history",
+        "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+        "description": "",
+        "published": "2026-09-18T10:35:28Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 3,
+        "comments": 0,
+        "is_new": true
+      },
+      {
         "id": "49749997",
         "title": "The Provenance Tax: How LLM Watermarking Changes AI Agent Behavior",
         "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
@@ -1646,18 +1661,6 @@
         "category": "news",
         "points": 3,
         "comments": 2,
-        "is_new": false
-      },
-      {
-        "id": "c623aea4a21ff1c7adfee4d9bb6688f0",
-        "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
-        "url": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
-        "description": "Christopher Nolan's engrossing take on The Odyssey dominated at the box office and spurred a newfound interest in classic literature among filmgoers. But a new retelling of the story made entirely wit",
-        "published": "2026-09-16T17:03:21-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
         "is_new": false
       }
     ],
