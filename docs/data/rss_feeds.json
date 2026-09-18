@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-18T10:57:07.289799+00:00",
+  "last_updated": "2026-09-18T14:28:35.621159+00:00",
   "total_entries": 110,
-  "new_entries": 7,
+  "new_entries": 4,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,18 +47,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "546ee7cd8ec87532e1be5768338b4c2a",
-      "title": "Al Gore says the real AI risk isn’t data centers",
-      "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
-      "description": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
-      "published": "Wed, 16 Sep 2026 23:43:09 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
     {
       "id": "e3285a711c8c90e5544d13f00df7c228",
       "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
@@ -276,16 +264,28 @@
       "is_new": false
     },
     {
-      "id": "92088bb9d257c5c1797f377f7218e9ab",
-      "title": "Snap tries to make the case again for its $2,200 smart glasses",
-      "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
-      "description": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
-      "published": "Thu, 17 Sep 2026 00:58:49 +0000",
+      "id": "0d70097db208a06049a87d5829eec5b4",
+      "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
+      "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+      "description": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
+      "published": "Fri, 18 Sep 2026 14:00:14 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "id": "2925d3fec1dee74a4bd7b2ce32b3a27d",
+      "title": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/",
+      "description": "Last day to book your exhibit table at Disrupt is today, September 18. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
+      "published": "Fri, 18 Sep 2026 14:00:00 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "5aae6df3610959686dfccb151b51ff67",
@@ -777,9 +777,9 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 3,
-      "comments": 0,
-      "is_new": true
+      "points": 201,
+      "comments": 42,
+      "is_new": false
     },
     {
       "id": "49749997",
@@ -791,8 +791,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 5,
-      "comments": 0,
+      "points": 7,
+      "comments": 1,
       "is_new": false
     },
     {
@@ -822,6 +822,18 @@
       "is_new": false
     },
     {
+      "id": "cc9d12fe9e37886565d0ad4c97414598",
+      "title": "Flash floods can strike without warning — this new technology could change that",
+      "url": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
+      "description": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rai",
+      "published": "2026-09-17T16:43:51-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "49743049",
       "title": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
       "url": "https://news.ycombinator.com/item?id=49743049",
@@ -831,7 +843,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 56,
+      "points": 59,
       "comments": 53,
       "is_new": false
     },
@@ -884,6 +896,19 @@
       "is_new": false
     },
     {
+      "id": "49aefe57556e4d7212c8534c2c881d89",
+      "title": "VākQA: A Benchmark and Evaluation Study for Telugu Spoken Factoid Question Answering",
+      "url": "https://huggingface.co/papers/2609.19879",
+      "description": "Question answering has advanced rapidly with large language models, but predominantly for high-resource languages, in both text and spoken settings. Spoken question answering (SQA) benchmark for Telug",
+      "published": "2026-09-16T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "ad33855ee592c8a8940e152e7a79041c",
       "title": "Don't Mask the Environment: Observation Supervision Changes How Agents Explore Under RL",
       "url": "https://huggingface.co/papers/2609.20715",
@@ -893,8 +918,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
-      "is_new": true
+      "likes": 2,
+      "is_new": false
     },
     {
       "id": "4df53028819a8c345f027afe26cdd837",
@@ -907,7 +932,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "9bb61cda3f4f65bd2462a67f64f192eb",
@@ -919,8 +944,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 30,
-      "is_new": true
+      "likes": 11,
+      "is_new": false
     },
     {
       "id": "afa278f18d548ad50e05e32388a0ec88",
@@ -932,7 +957,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
+      "likes": 9,
       "is_new": false
     },
     {
@@ -945,7 +970,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 11,
+      "likes": 13,
       "is_new": false
     },
     {
@@ -984,7 +1009,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 41,
+      "likes": 49,
       "is_new": false
     },
     {
@@ -1023,7 +1048,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 21,
+      "likes": 22,
       "is_new": false
     },
     {
@@ -1062,20 +1087,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 37,
-      "is_new": false
-    },
-    {
-      "id": "0707f465ce5a7bb6dba3c02d2ff5d549",
-      "title": "An Empirical Study of Harness Design for Coding Agents",
-      "url": "https://huggingface.co/papers/2609.20804",
-      "description": "Coding harnesses shape how autonomous coding agents translate model capabilities into long-horizon software-engineering performance, yet existing work typically evaluates harnesses as monolithic syste",
-      "published": "2026-09-16T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 31,
+      "likes": 39,
       "is_new": false
     },
     {
@@ -1171,18 +1183,6 @@
       "is_new": false
     },
     {
-      "id": "45384c84a9f2d30d69972196eab3b3b4",
-      "title": "Google will now let any AI agent run your smart home",
-      "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
-      "description": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the standardized Model Context Pr",
-      "published": "2026-09-16T14:41:15-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "bdc341c04479995228bde6096a79ecce",
       "title": "Apple might make servers again to cash in on the AI rush",
       "url": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
@@ -1218,8 +1218,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 20,
-      "is_new": true
+      "likes": 21,
+      "is_new": false
     },
     {
       "id": "f9a79bcd095114179eef0400ec4177aa",
@@ -1232,7 +1232,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "49716388",
@@ -1293,18 +1293,6 @@
   ],
   "by_category": {
     "news": [
-      {
-        "id": "546ee7cd8ec87532e1be5768338b4c2a",
-        "title": "Al Gore says the real AI risk isn’t data centers",
-        "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
-        "description": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
-        "published": "Wed, 16 Sep 2026 23:43:09 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
       {
         "id": "e3285a711c8c90e5544d13f00df7c228",
         "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
@@ -1522,16 +1510,28 @@
         "is_new": false
       },
       {
-        "id": "92088bb9d257c5c1797f377f7218e9ab",
-        "title": "Snap tries to make the case again for its $2,200 smart glasses",
-        "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
-        "description": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
-        "published": "Thu, 17 Sep 2026 00:58:49 +0000",
+        "id": "0d70097db208a06049a87d5829eec5b4",
+        "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
+        "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+        "description": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
+        "published": "Fri, 18 Sep 2026 14:00:14 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
+        "is_new": true
+      },
+      {
+        "id": "2925d3fec1dee74a4bd7b2ce32b3a27d",
+        "title": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
+        "url": "https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/",
+        "description": "Last day to book your exhibit table at Disrupt is today, September 18. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
+        "published": "Fri, 18 Sep 2026 14:00:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
       },
       {
         "id": "49752422",
@@ -1543,9 +1543,9 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 3,
-        "comments": 0,
-        "is_new": true
+        "points": 201,
+        "comments": 42,
+        "is_new": false
       },
       {
         "id": "49749997",
@@ -1557,8 +1557,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 5,
-        "comments": 0,
+        "points": 7,
+        "comments": 1,
         "is_new": false
       },
       {
@@ -1588,6 +1588,18 @@
         "is_new": false
       },
       {
+        "id": "cc9d12fe9e37886565d0ad4c97414598",
+        "title": "Flash floods can strike without warning — this new technology could change that",
+        "url": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
+        "description": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rai",
+        "published": "2026-09-17T16:43:51-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "49743049",
         "title": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
         "url": "https://news.ycombinator.com/item?id=49743049",
@@ -1597,7 +1609,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 56,
+        "points": 59,
         "comments": 53,
         "is_new": false
       },
@@ -1647,20 +1659,6 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "49730649",
-        "title": "Show HN: TabMail. Open-source AI email for Thunderbird and iPhone",
-        "url": "https://tabmail.ai/",
-        "description": "",
-        "published": "2026-09-16T17:59:03Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 3,
-        "comments": 2,
         "is_new": false
       }
     ],
