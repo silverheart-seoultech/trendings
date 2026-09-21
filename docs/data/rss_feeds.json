@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-21T10:38:49.487422+00:00",
+  "last_updated": "2026-09-21T12:29:52.673225+00:00",
   "total_entries": 110,
-  "new_entries": 9,
+  "new_entries": 14,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,6 +768,18 @@
       "is_new": false
     },
     {
+      "id": "13e93d540c1e658ac4fbaab0a58f9b8c",
+      "title": "UN says AI safeguards can’t wait for certainty",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
+      "description": "Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first major assessment of Open",
+      "published": "2026-09-21T06:18:06-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "ac1368b0f72db0210352ea4d08573b4e",
       "title": "Amazon doesn’t trust Meta’s Muse AI agent",
       "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
@@ -932,18 +944,6 @@
       "is_new": false
     },
     {
-      "id": "115cada6134fe4b1908e20425cdfcbd7",
-      "title": "Virginia governor creates an AI task force and moves to restrain data centers",
-      "url": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
-      "description": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that",
-      "published": "2026-09-18T15:09:19-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "49752422",
       "title": "ZCode, the GLM coding agent, silently uploads your Git history",
       "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
@@ -986,6 +986,32 @@
       "is_new": false
     },
     {
+      "id": "2334548eaf15b4e1a64264aa0f7e7b05",
+      "title": "APort Vault: Benchmarking AI Agent Payment Authorization with the Open Agent Passport",
+      "url": "https://huggingface.co/papers/2609.22076",
+      "description": "APort Vault is a benchmark for payment authorization in tool-using AI agents. It replays 4,371 attacks written by humans against a live payment agent during a public capture-the-flag event, across 14 ",
+      "published": "2026-09-17T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "2906a36bac2dd6f0d5fbdad6e5b494ef",
+      "title": "IntBMoE: Integrating Block-Level Conditioning into Expert Composition for Full-Participation Mixture-of-Experts",
+      "url": "https://huggingface.co/papers/2609.21346",
+      "description": "Mixture-of-Experts (MoE) scales capacity, but existing designs cannot set three quantities independently. For a single token, participation is how many experts contribute knowledge to its output, exec",
+      "published": "2026-09-17T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 87,
+      "is_new": true
+    },
+    {
       "id": "465284bbd151fa2bd8566f42085b0faa",
       "title": "OmniVChat: Synthesizing, Benchmarking, and Training for Native Audio-Visual Dialogue",
       "url": "https://huggingface.co/papers/2609.21465",
@@ -995,7 +1021,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 13,
+      "likes": 25,
       "is_new": true
     },
     {
@@ -1021,7 +1047,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 59,
+      "likes": 65,
       "is_new": false
     },
     {
@@ -1047,7 +1073,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 50,
+      "likes": 52,
       "is_new": false
     },
     {
@@ -1060,20 +1086,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 11,
-      "is_new": false
-    },
-    {
-      "id": "a0f20c7a24594f99f8bcbd61daaf8edb",
-      "title": "MintAct: A Unified Visual Agent for Digital Environments",
-      "url": "https://huggingface.co/papers/2609.22083",
-      "description": "We present MintAct, a family of vision-language models that unifies UI grounding, multi-step navigation across mobile, desktop, and web, and visual tool use, trained at 2B, 4B, and 8B scales. Through ",
-      "published": "2026-09-17T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 7,
+      "likes": 18,
       "is_new": false
     },
     {
@@ -1089,6 +1102,32 @@
       "points": 65,
       "comments": 58,
       "is_new": false
+    },
+    {
+      "id": "8e22accc495b5b4fd16e324bfea49622",
+      "title": "Refinement Is Inherently Editable: Training-Free Prompt-to-Prompt Image Editing with Generative Refinement Network",
+      "url": "https://huggingface.co/papers/2609.20633",
+      "description": "Text-guided image editing must introduce the requested changes while preserving unrelated source content. Diffusion-based editors rely on spatial controls whose inaccuracies can leave edits incomplete",
+      "published": "2026-09-16T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "b29da4597d2d46fc4d35c78540c4d206",
+      "title": "Retention-Constrained Post-Training Quantization of Cellpose-SAM for Stem Cell Microscopy",
+      "url": "https://huggingface.co/papers/2609.21038",
+      "description": "Induced pluripotent stem cell (iPSC) culture increasingly relies on segmentation foundation models, yet deployment on laboratory CPUs and edge hardware requires compression schemes that are both effic",
+      "published": "2026-09-16T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
     },
     {
       "id": "b7b056498adaaddd70cda9e84b123a8d",
@@ -1113,7 +1152,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": true
     },
     {
@@ -1139,7 +1178,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 24,
+      "likes": 27,
       "is_new": false
     },
     {
@@ -1153,32 +1192,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "0d15cd715a42bec74bbd3078bc21e789",
-      "title": "When AI Reviews Train AI Reviewers: Scientific-Judgment Collapse and Mitigation",
-      "url": "https://huggingface.co/papers/2609.20942",
-      "description": "Large language models (LLMs) increasingly participate in scientific evaluation, both as automated reviewers and as assistants to human reviewers. As model-generated reviews enter public data and futur",
-      "published": "2026-09-16T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 5,
-      "is_new": false
-    },
-    {
-      "id": "1d563b198f570edf40a95c4456f3131a",
-      "title": "Learning Foresight without Explicit Trajectories for 3D Diffusion Policies",
-      "url": "https://huggingface.co/papers/2609.20669",
-      "description": "3D diffusion policies are strong at generating geometrically grounded actions from current observations, but successful manipulation requires not only knowing what motion is feasible now, but also ant",
-      "published": "2026-09-16T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
       "is_new": false
     },
     {
@@ -1261,7 +1274,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": true
     },
     {
@@ -1275,20 +1288,6 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 2,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "49715809",
-      "title": "Ask HN: Harness for Learning – Thoughts?",
-      "url": "https://news.ycombinator.com/item?id=49715809",
-      "description": "",
-      "published": "2026-09-15T17:28:27Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 3,
       "comments": 0,
       "is_new": false
     }
@@ -1536,6 +1535,18 @@
         "is_new": false
       },
       {
+        "id": "13e93d540c1e658ac4fbaab0a58f9b8c",
+        "title": "UN says AI safeguards can’t wait for certainty",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
+        "description": "Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first major assessment of Open",
+        "published": "2026-09-21T06:18:06-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "ac1368b0f72db0210352ea4d08573b4e",
         "title": "Amazon doesn’t trust Meta’s Muse AI agent",
         "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
@@ -1643,18 +1654,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
         "description": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would dam",
         "published": "2026-09-19T12:18:50-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "28713f5bdfe989a2feb0e1fc381a0e12",
-        "title": "Gemini went rogue, hacked three companies, and Google hid it",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
-        "description": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of",
-        "published": "2026-09-19T11:25:03-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
