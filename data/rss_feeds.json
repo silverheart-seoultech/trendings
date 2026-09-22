@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-22T04:48:32.601796+00:00",
+  "last_updated": "2026-09-22T09:54:16.809378+00:00",
   "total_entries": 110,
-  "new_entries": 0,
+  "new_entries": 8,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -777,7 +777,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 11,
+      "points": 12,
       "comments": 8,
       "is_new": false
     },
@@ -854,6 +854,71 @@
       "is_new": false
     },
     {
+      "id": "e65dd6b34e82937ea0b60a53b0f96909",
+      "title": "Streaming Video Editing with Easy Adaptation",
+      "url": "https://huggingface.co/papers/2609.24788",
+      "description": "In this paper, we propose SVEET, a framework that requires merely training on a pretrained bidirectional video diffusion model but supports high-quality streaming video editing in an auto-regressive f",
+      "published": "2026-09-20T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
+    },
+    {
+      "id": "08bf2386d959926a173e20dee54bcd2a",
+      "title": "Document Retrieval-Aware Chunking (D-RAC): Universal Retrieval-Aware Ingestion of Enterprise Documents via PDF Normalization and Multimodal Markdown Conversion",
+      "url": "https://huggingface.co/papers/2609.24220",
+      "description": "Retrieval-Augmented Generation (RAG) systems over enterprise knowledge bases must ingest heterogeneous document formats -- PDFs, Word documents, presentations, and scans -- whose content is locked ins",
+      "published": "2026-09-20T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 36,
+      "is_new": true
+    },
+    {
+      "id": "afd6e3601d67510a293043cbb54766b4",
+      "title": "CARE: Experience-Guided Atomic Corrective Execution for Vision-Language-Action Policies",
+      "url": "https://huggingface.co/papers/2609.24118",
+      "description": "Vision-Language-Action (VLA) policies achieve strong performance in robotic manipulation but remain brittle once execution deviates from nominal trajectories. We propose CARE (Corrective Atomic Roboti",
+      "published": "2026-09-20T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 9,
+      "is_new": true
+    },
+    {
+      "id": "eb6571dfbd3586ccb68832100dbbf224",
+      "title": "1% of Tokens Can Be Enough: On Gradient Estimation in On-Policy Distillation",
+      "url": "https://huggingface.co/papers/2609.24432",
+      "description": "Sparse on-policy distillation (OPD) allocates teacher supervision to a small subset of tokens in student-generated trajectories. However, useful teacher guidance can yield a noisy update when its grad",
+      "published": "2026-09-20T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
+    },
+    {
+      "id": "bed34e06ac36df6401c666e98765f629",
+      "title": "onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction",
+      "url": "https://huggingface.co/papers/2609.24983",
+      "description": "We present onPanda, an interactive tool for efficiently annotating LLM alignment data and agent trajectories. onPanda adopts token-level correction as its core interaction: while reading a model respo",
+      "published": "2026-09-20T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 20,
+      "is_new": true
+    },
+    {
       "id": "abcc23b4cb39bb6ecde846c92b1c09b0",
       "title": "Harness-Zero: Harness Distillation via Agent-as-Harness",
       "url": "https://huggingface.co/papers/2609.24974",
@@ -863,7 +928,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 11,
       "is_new": false
     },
     {
@@ -876,7 +941,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
+      "likes": 54,
       "is_new": false
     },
     {
@@ -889,7 +954,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 6,
       "is_new": false
     },
     {
@@ -902,7 +967,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
+      "likes": 22,
       "is_new": false
     },
     {
@@ -915,7 +980,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -928,7 +993,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 51,
+      "likes": 66,
       "is_new": false
     },
     {
@@ -941,7 +1006,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
+      "likes": 85,
       "is_new": false
     },
     {
@@ -985,6 +1050,19 @@
       "is_new": false
     },
     {
+      "id": "0764c7016a5f20a4f20f7e36d2744e29",
+      "title": "Mira-Scene: Pixel-Aligned Layouts for Generative 3D Scene",
+      "url": "https://huggingface.co/papers/2609.23796",
+      "description": "Single-image 3D object generation can now produce high-fidelity assets, yet accurately placing them into a coherent scene layout remains an open challenge. A central difficulty lies in how object layo",
+      "published": "2026-09-19T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
       "id": "36f3f4632783aafd01167463b7a483d8",
       "title": "Grounded Action Model: 3D Grounding as a Foundation for Robotics",
       "url": "https://huggingface.co/papers/2609.23863",
@@ -994,7 +1072,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 18,
       "is_new": false
     },
     {
@@ -1007,20 +1085,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
-      "is_new": false
-    },
-    {
-      "id": "5bc1fb9078e3bd7ae8298943e57d37cd",
-      "title": "One to More, More to One: Category-Aware Iterative Expert Training for Software Engineering Agents",
-      "url": "https://huggingface.co/papers/2609.23377",
-      "description": "Repository-level software engineering (SWE) comprises heterogeneous task categories, whose progress under pooled agentic reinforcement learning can be uneven: gains in some categories coincide with re",
-      "published": "2026-09-19T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 9,
+      "likes": 7,
       "is_new": false
     },
     {
@@ -1060,6 +1125,19 @@
       "is_new": false
     },
     {
+      "id": "b48a9fd1da62cb4cb62e1d5225213a65",
+      "title": "OmniEdu: Open Foundation Models for Learning and Teaching",
+      "url": "https://huggingface.co/papers/2609.23088",
+      "description": "Educational foundation models must solve problems, understand curriculum structure, diagnose learner difficulties, and provide appropriate instructional support. Existing educational language models o",
+      "published": "2026-09-18T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 25,
+      "is_new": true
+    },
+    {
       "id": "088651509657cf28594ad08012045b7a",
       "title": "Transferring the Intelligence of VLMs to Robotic Control",
       "url": "https://huggingface.co/papers/2609.22966",
@@ -1069,7 +1147,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 24,
+      "likes": 67,
       "is_new": false
     },
     {
@@ -1124,46 +1202,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 13,
-      "is_new": false
-    },
-    {
-      "id": "0804cbab5a98988746db76129d8fa23d",
-      "title": "From Pretraining to Proficiency: Real-World Subtask RL for Long-Horizon Manipulation with Minimal Human Intervention",
-      "url": "https://huggingface.co/papers/2609.21788",
-      "description": "A pretrained robot foundation policy may execute most of a long-horizon task yet repeatedly fail at a few critical subtasks. Collecting additional full-task demonstrations for supervised fine-tuning (",
-      "published": "2026-09-17T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 5,
-      "is_new": false
-    },
-    {
-      "id": "b51ef1c274ac6c94207911949dd02966",
-      "title": "Designer-RSI: Evolving Procedural Memory from User Traffic for Agentic Graphic Design",
-      "url": "https://huggingface.co/papers/2609.22086",
-      "description": "Professional graphic design is a long-horizon agentic task in which structured, editable artifacts emerge from many interdependent actions, yet outcomes admit no reliable programmatic oracle. We intro",
-      "published": "2026-09-17T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 23,
-      "is_new": false
-    },
-    {
-      "id": "c66713084533d4e19ccad60b0c52413c",
-      "title": "Gricea: An Open Science Platform for Conversational AI Research",
-      "url": "https://huggingface.co/papers/2609.22039",
-      "description": "We need studies on conversational AI (CAI) at scale to understand human behavior and shape CAI design. However, fragmented reporting of systems and study configurations hinders replication, extension,",
-      "published": "2026-09-17T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 8,
+      "likes": 17,
       "is_new": false
     },
     {
@@ -1248,47 +1287,6 @@
       "category": "news",
       "points": 4,
       "comments": 2,
-      "is_new": false
-    },
-    {
-      "id": "bf63acda686ae0aebef9637016a1640d",
-      "title": "BI-Agent and BI-Bench: Towards Automating End-to-End Business Intelligence",
-      "url": "https://huggingface.co/papers/2609.20886",
-      "description": "Business intelligence (BI) is a cornerstone of enterprise decision-making and is widely used by enterprise users in software such as Power BI and Tableau. In traditional BI workflows, users need to pr",
-      "published": "2026-09-15T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 14,
-      "is_new": false
-    },
-    {
-      "id": "49716388",
-      "title": "Show HN: A writing coach that's not allowed to write your sentences",
-      "url": "https://app.oghmere.com/try/HACKERNEWS2026",
-      "description": "",
-      "published": "2026-09-15T18:05:41Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "49715809",
-      "title": "Ask HN: Harness for Learning – Thoughts?",
-      "url": "https://news.ycombinator.com/item?id=49715809",
-      "description": "",
-      "published": "2026-09-15T17:28:27Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 3,
-      "comments": 0,
       "is_new": false
     }
   ],
@@ -1906,7 +1904,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 11,
+        "points": 12,
         "comments": 8,
         "is_new": false
       },
