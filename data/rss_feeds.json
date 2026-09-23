@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-23T05:55:28.127121+00:00",
+  "last_updated": "2026-09-23T11:13:02.772486+00:00",
   "total_entries": 110,
-  "new_entries": 4,
+  "new_entries": 9,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,6 +768,18 @@
       "is_new": false
     },
     {
+      "id": "9767b09c228ae3fb71c0a5c49e295796",
+      "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
+      "description": "OpenAI has hired three former Patreon execs to anchor its product strategy for creators. After starting the creator subscription platform 13 years ago, co-founder and technology chief Sam Yam announce",
+      "published": "2026-09-23T07:02:39-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "dca8e921be10a53e879302e1666af89c",
       "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
       "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
@@ -789,8 +801,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 46,
-      "comments": 28,
+      "points": 48,
+      "comments": 29,
       "is_new": false
     },
     {
@@ -827,7 +839,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 36,
+      "points": 37,
       "comments": 3,
       "is_new": false
     },
@@ -893,8 +905,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 53,
-      "comments": 13,
+      "points": 60,
+      "comments": 16,
       "is_new": false
     },
     {
@@ -938,6 +950,32 @@
       "is_new": false
     },
     {
+      "id": "2fe48481ac09c285bc33ac11bf1777bc",
+      "title": "RoboFollow: Unveiling the Instruction Following Mirage in Embodied Agents",
+      "url": "https://huggingface.co/papers/2609.25636",
+      "description": "Modern embodied agents achieve impressive success rates, yet their actual instruction-following ability is far weaker than these numbers suggest. We trace this illusion to a structural property we ter",
+      "published": "2026-09-21T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "7e5e34f4ef5e69277ca6a4caf1c60996",
+      "title": "Blaming Across the Aisle: Political Contrasting and Blame Attribution in the Danish Parliament",
+      "url": "https://huggingface.co/papers/2609.26346",
+      "description": "Political discourse is widely perceived to be growing more hostile, yet robust evidence remains scarce. This study examines blame attribution in the Danish Parliament from 1997 to 2026, combining a pu",
+      "published": "2026-09-21T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
+    },
+    {
       "id": "42ee877a86451586394aecf401709d78",
       "title": "The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Tasks",
       "url": "https://huggingface.co/papers/2609.25804",
@@ -947,7 +985,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 43,
       "is_new": true
     },
     {
@@ -960,7 +998,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 16,
       "is_new": true
     },
     {
@@ -986,7 +1024,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 11,
+      "likes": 12,
       "is_new": false
     },
     {
@@ -1026,16 +1064,30 @@
       "is_new": false
     },
     {
-      "id": "13e93d540c1e658ac4fbaab0a58f9b8c",
-      "title": "UN says AI safeguards can’t wait for certainty",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
-      "description": "Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first major assessment of Open",
-      "published": "2026-09-21T06:18:06-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
+      "id": "8425017344c0ba95daed84390725a551",
+      "title": "ImIR: Image-Instruction Tuning for All-in-One Image Restoration",
+      "url": "https://huggingface.co/papers/2609.25267",
+      "description": "Degradations vary widely across images, so a practical restoration system has to handle many degradation types with one model. A recent and effective recipe adapts a large pretrained image-editing mod",
+      "published": "2026-09-20T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "c1d930035b9505158e3595c17fdb82e2",
+      "title": "Emergent Collusion in Long-Horizon LLM Agent Interaction",
+      "url": "https://huggingface.co/papers/2609.24967",
+      "description": "LLM agents are increasingly deployed in collaborative settings, yet long-term interaction may give rise to undesirable coordination. We study the emergence of collusion in a long-horizon multi-agent e",
+      "published": "2026-09-20T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 5,
+      "is_new": true
     },
     {
       "id": "9933e22eb7f1744ea7ed1def4fb6b9ec",
@@ -1047,7 +1099,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
+      "likes": 7,
       "is_new": true
     },
     {
@@ -1060,7 +1112,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 33,
       "is_new": false
     },
     {
@@ -1073,7 +1125,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -1086,7 +1138,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 16,
+      "likes": 19,
       "is_new": false
     },
     {
@@ -1099,7 +1151,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 21,
+      "likes": 35,
       "is_new": false
     },
     {
@@ -1112,7 +1164,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 12,
+      "likes": 14,
       "is_new": false
     },
     {
@@ -1125,7 +1177,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 10,
+      "likes": 15,
       "is_new": false
     },
     {
@@ -1138,20 +1190,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 40,
-      "is_new": false
-    },
-    {
-      "id": "7e5d24d64e2e8f8e1460118c521b628b",
-      "title": "ACLArena: Agent Continue Learning in Multi-stage Post-training",
-      "url": "https://huggingface.co/papers/2609.23989",
-      "description": "Building general-purpose agents for industrial deployment requires integrating multiple capabilities, each typically acquired at a distinct stage of training. Yet there is currently no well-establishe",
-      "published": "2026-09-20T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 8,
+      "likes": 49,
       "is_new": false
     },
     {
@@ -1192,7 +1231,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 7,
       "is_new": false
     },
     {
@@ -1238,19 +1277,6 @@
       "is_new": false
     },
     {
-      "id": "24eecad87bb8346470e7741830c064d5",
-      "title": "The Functionalizer: Lossless Functional Decomposition for Subword Tokenization",
-      "url": "https://huggingface.co/papers/2609.15991",
-      "description": "Standard subword tokenizers either treat every orthographic variation of a word (such as hello, Hello, HELLO, and Héllo) as unrelated vocabulary entries, which fragments the embedding space, or discar",
-      "published": "2026-09-17T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 9,
-      "is_new": false
-    },
-    {
       "id": "49743049",
       "title": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
       "url": "https://news.ycombinator.com/item?id=49743049",
@@ -1261,35 +1287,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 66,
-      "comments": 59,
-      "is_new": false
-    },
-    {
-      "id": "49730649",
-      "title": "Show HN: TabMail. Open-source AI email for Thunderbird and iPhone",
-      "url": "https://tabmail.ai/",
-      "description": "",
-      "published": "2026-09-16T17:59:03Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 3,
-      "comments": 2,
-      "is_new": false
-    },
-    {
-      "id": "49729456",
-      "title": "Show HN: A Coding Agent from Scratch",
-      "url": "https://blog.softwarewrighter.com/2026/09/16/ai-tools-coding-agent-in-mlpl/",
-      "description": "",
-      "published": "2026-09-16T16:30:10Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 0,
+      "comments": 60,
       "is_new": false
     }
   ],
@@ -1536,6 +1534,18 @@
         "is_new": false
       },
       {
+        "id": "9767b09c228ae3fb71c0a5c49e295796",
+        "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
+        "description": "OpenAI has hired three former Patreon execs to anchor its product strategy for creators. After starting the creator subscription platform 13 years ago, co-founder and technology chief Sam Yam announce",
+        "published": "2026-09-23T07:02:39-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "dca8e921be10a53e879302e1666af89c",
         "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
         "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
@@ -1557,8 +1567,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 46,
-        "comments": 28,
+        "points": 48,
+        "comments": 29,
         "is_new": false
       },
       {
@@ -1595,7 +1605,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 36,
+        "points": 37,
         "comments": 3,
         "is_new": false
       },
@@ -1649,20 +1659,6 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "49800566",
-        "title": "Show HN: Training a model to identify AI web content from structure alone",
-        "url": "https://arxiv.org/abs/2609.15369",
-        "description": "",
-        "published": "2026-09-22T13:00:49Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 53,
-        "comments": 13,
         "is_new": false
       }
     ],
