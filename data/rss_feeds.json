@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-24T04:42:19.165257+00:00",
+  "last_updated": "2026-09-24T09:56:51.922585+00:00",
   "total_entries": 110,
-  "new_entries": 2,
+  "new_entries": 15,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -132,10 +132,10 @@
       "is_new": false
     },
     {
-      "id": "a8a41c2fafee35fcf03692ab39bae24c",
-      "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
-      "url": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
-      "description": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. Save $200 before September 25 at 11:59 p.m. PT.",
+      "id": "fe603b600b7eb15e328a297adbdb1311",
+      "title": "YouTube releases new AI features for creators within its Studio app",
+      "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
+      "description": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
       "published": "Wed, 23 Sep 2026 14:30:00 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
@@ -144,10 +144,10 @@
       "is_new": false
     },
     {
-      "id": "fe603b600b7eb15e328a297adbdb1311",
-      "title": "YouTube releases new AI features for creators within its Studio app",
-      "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
-      "description": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
+      "id": "a8a41c2fafee35fcf03692ab39bae24c",
+      "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+      "url": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
+      "description": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. Save $200 before September 25 at 11:59 p.m. PT.",
       "published": "Wed, 23 Sep 2026 14:30:00 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
@@ -768,6 +768,18 @@
       "is_new": false
     },
     {
+      "id": "fc26726d9b3ca81657f11582ce2bd4f4",
+      "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
+      "url": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
+      "description": "Google is reportedly nearing the launch of its long awaited Gemini 4 model, after dawdling behind rival developers on flagship AI releases. Speaking with The Information during his first media appeara",
+      "published": "2026-09-24T05:04:18-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "03e6d597d8c7e8b8de9cf2cee62c34c9",
       "title": "Meta is making a standalone Muse AI gadget",
       "url": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
@@ -904,16 +916,82 @@
       "is_new": false
     },
     {
-      "id": "5acbae282eb23d15def04dddd37a0986",
-      "title": "Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act",
-      "description": "Sen. Bernie Sanders (I-VT) and Rep. Greg Casar (D-TX) have introduced new legislation that would ban anyone from developing artificial superintelligence - a technology the bill describes as capable of",
-      "published": "2026-09-23T12:38:09-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
+      "id": "bd34403f8a2b270a7830ed4b03716cb9",
+      "title": "FLEET: From Logits Entropy to Enhanced Trajectories in Text Generation",
+      "url": "https://huggingface.co/papers/2609.27657",
+      "description": "Solutions based on large language models (LLMs) often rely on temperature sampling to improve accuracy and stability by aggregating multiple samples from the completion distribution. However, this mem",
+      "published": "2026-09-22T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "c24fb38ecaa62e7261286825a6702872",
+      "title": "Six Layers Less: Encoder Pruning for Whisper with Label-Free Recovery",
+      "url": "https://huggingface.co/papers/2609.27980",
+      "description": "Pruning large pre-trained transformer-based ASR models such as OpenAI's Whisper has seen great adoption, as pruning the decoder led to significant end-to-end transcription speedups. For instance, the ",
+      "published": "2026-09-22T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "6e2d5f75c1c458ae154111103005aea3",
+      "title": "Uranus: Building the Next-Generation Simulation Infrastructure for Embodied AI",
+      "url": "https://huggingface.co/papers/2609.24815",
+      "description": "Scalable simulation is essential for robot data generation, policy training, evaluation, and safe iteration, yet real-world interaction is costly and conventional simulators require labor-intensive co",
+      "published": "2026-09-22T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "641f61ac7e67f9db7c1db501389d8a76",
+      "title": "On the Diffusibility of High-Dimensional Latents",
+      "url": "https://huggingface.co/papers/2609.28473",
+      "description": "Representation Autoencoders (RAEs) enable diffusion models to operate in the feature spaces of pretrained visual encoders. However, many off-the-shelf encoders are not optimized for faithful reconstru",
+      "published": "2026-09-22T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "06fe95ca102ccabb07343f6c778239ae",
+      "title": "All modalities are equal, but video is more equal: Closing the Cross-Attention Gap in Joint Video Generation",
+      "url": "https://huggingface.co/papers/2609.27901",
+      "description": "Video is a rich representation of a physical event, capturing appearance, geometry, motion, and temporal evolution. Other modalities, such as 3D body motion or audio, encode narrower aspects of the sa",
+      "published": "2026-09-22T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 5,
+      "is_new": true
+    },
+    {
+      "id": "19c49439613de8de16ec1d96bb9c9c26",
+      "title": "Just-in-Time Memory: Learning to Curate Task-Adaptive Memory for LLM Agents",
+      "url": "https://huggingface.co/papers/2609.27334",
+      "description": "Agentic memory systems reuse past experience to improve future performance, yet most existing designs curate memory at write time: once a task is completed, its trajectory is distilled into a fixed ar",
+      "published": "2026-09-22T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 13,
+      "is_new": true
     },
     {
       "id": "fb27c162852edcbfd8b7de15b0a0374b",
@@ -925,7 +1003,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": true
     },
     {
@@ -938,7 +1016,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 1,
       "is_new": true
     },
     {
@@ -951,7 +1029,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
+      "likes": 9,
       "is_new": false
     },
     {
@@ -964,7 +1042,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 6,
       "is_new": false
     },
     {
@@ -977,46 +1055,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "ad348aa0f600edb90c5a78ccf21974eb",
-      "title": "WhatWorkedBench: Benchmarking Experimental Understanding in AI Agents",
-      "url": "https://huggingface.co/papers/2609.27490",
-      "description": "AI research agents need reliable knowledge of how their experiments change outcomes. We introduce WhatWorkedBench to measure experimental understanding, the accuracy of predictions about component cha",
-      "published": "2026-09-22T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 7,
-      "is_new": false
-    },
-    {
-      "id": "b7d2acd3ecdcb5726499110b8b56345b",
-      "title": "InternW0: A Foundational Physical World Model for Efficient Real-World Interactions",
-      "url": "https://huggingface.co/papers/2609.27656",
-      "description": "Physical intelligence requires more than predicting how the world may evolve: predictions must remain actionable as the world continues to change. We introduce InternW0, the first instantiation of the",
-      "published": "2026-09-22T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "7ff395c446974e4a03b8709c3a5c75f6",
-      "title": "The Past Frames the Future: Memory for Autoregressive Video Generation",
-      "url": "https://huggingface.co/papers/2609.28466",
-      "description": "Advances in generative models have improved video fidelity, enabling long-horizon generation, interactive world modeling, and evolving visual environments. Autoregressive (AR) video generation extends",
-      "published": "2026-09-22T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 26,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -1071,7 +1110,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 66,
+      "points": 67,
       "comments": 25,
       "is_new": false
     },
@@ -1099,9 +1138,48 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 15,
+      "points": 16,
       "comments": 11,
       "is_new": false
+    },
+    {
+      "id": "b1861052c1a62dd91afec90496d43d8f",
+      "title": "Calibration as a First-Class Criterion in LLM Evaluation",
+      "url": "https://huggingface.co/papers/2609.26489",
+      "description": "Calibration of language models -- the alignment between expressed or implicit confidence and empirical correctness -- is a well-studied subfield within NLP. Methods to measure it already exist. The pr",
+      "published": "2026-09-21T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "d7966715db1d2e70161f95e337f143e1",
+      "title": "GeoPair: Geometry-Preserving Cross-Layer Factorization for Training-Free Transformer Compression",
+      "url": "https://huggingface.co/papers/2609.25963",
+      "description": "Transformer architectures exhibit cross-layer redundancies, yet post-training compression pipelines typically optimize layers in isolation or rely on heuristic grouping strategies that disregard layer",
+      "published": "2026-09-21T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 7,
+      "is_new": true
+    },
+    {
+      "id": "12fe8cab5cbf7673339e9e5db1a99cb8",
+      "title": "MemoryAthena: Adaptive Routing over Latent and Generated Memories",
+      "url": "https://huggingface.co/papers/2609.25853",
+      "description": "Learned-memory methods store information in an explicit table and consume it through a separate reader, allowing addressing, storage, and reading to be modified independently. We study whether useful ",
+      "published": "2026-09-21T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
     },
     {
       "id": "cf9e81025f177eba0186194462f72267",
@@ -1113,7 +1191,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 16,
+      "likes": 23,
       "is_new": false
     },
     {
@@ -1126,73 +1204,21 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 12,
+      "likes": 14,
       "is_new": false
     },
     {
-      "id": "fa6fb8fcbe239105f68b7266c3dce4c5",
-      "title": "HARMONY: Hierarchical Agentic Reasoning for MONocular Image-to-Scene Synthesis",
-      "url": "https://huggingface.co/papers/2609.26793",
-      "description": "Compositional 3D scene reconstruction has recently been explored from two directions: agentic reasoning that provides semantic understanding of spatial relationships but lacks precise alignment with i",
-      "published": "2026-09-21T20:00:00.000Z",
+      "id": "91dfc6468f20d1cde9fbeb10206c7ee1",
+      "title": "HappyWorld-Bench",
+      "url": "https://huggingface.co/papers/2609.24308",
+      "description": "Evaluating world models requires assessing both the quality of the worlds they generate and their consistency and responsiveness under exploration, interaction, and modification. We introduce HappyWor",
+      "published": "2026-09-20T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
-      "is_new": false
-    },
-    {
-      "id": "24fde58ce506ba97e49ae8e8ea5249a0",
-      "title": "Agensh: Scaling Organizational Intelligence to 1,024 Agents",
-      "url": "https://huggingface.co/papers/2609.26781",
-      "description": "A multi-agent system can reduce latency on complex tasks by executing work concurrently. Several pioneering harness frameworks support multi-agent systems. However, the scalability of current multi-ag",
-      "published": "2026-09-21T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 11,
-      "is_new": false
-    },
-    {
-      "id": "afa26f4e4b2604e7574f121af1e0f95b",
-      "title": "JEV-as-a-Judge: Accept When Confident, Escalate When Unsure",
-      "url": "https://huggingface.co/papers/2609.26550",
-      "description": "LLM-as-a-judge enables evaluation across diverse tasks, but inference cost and confidence reliability become critical at scale. We study whether a decision-only judge can provide an economical first p",
-      "published": "2026-09-21T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 22,
-      "is_new": false
-    },
-    {
-      "id": "2fe48481ac09c285bc33ac11bf1777bc",
-      "title": "RoboFollow: Unveiling the Instruction Following Mirage in Embodied Agents",
-      "url": "https://huggingface.co/papers/2609.25636",
-      "description": "Modern embodied agents achieve impressive success rates, yet their actual instruction-following ability is far weaker than these numbers suggest. We trace this illusion to a structural property we ter",
-      "published": "2026-09-21T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
-      "is_new": false
-    },
-    {
-      "id": "7e5e34f4ef5e69277ca6a4caf1c60996",
-      "title": "Blaming Across the Aisle: Political Contrasting and Blame Attribution in the Danish Parliament",
-      "url": "https://huggingface.co/papers/2609.26346",
-      "description": "Political discourse is widely perceived to be growing more hostile, yet robust evidence remains scarce. This study examines blame attribution in the Danish Parliament from 1997 to 2026, combining a pu",
-      "published": "2026-09-21T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
-      "is_new": false
+      "likes": 36,
+      "is_new": true
     },
     {
       "id": "49775304",
@@ -1223,6 +1249,32 @@
       "is_new": false
     },
     {
+      "id": "d4da50c607b7724c361f4c333bfcc24f",
+      "title": "PackLab: A Comprehensive Framework for Developing, Training, and Evaluating MLLMs in Robotic Bin Packing",
+      "url": "https://huggingface.co/papers/2609.23784",
+      "description": "Robotic bin packing requires long-horizon sequential decision-making, as each object placement affects the available space for subsequent packing. Existing methods primarily rely on hand-crafted geome",
+      "published": "2026-09-19T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 9,
+      "is_new": true
+    },
+    {
+      "id": "06fde135955ab5b9cb023408f6bdb234",
+      "title": "Spatial-Interactor: Learning Spatial Reasoning through Interaction with the Observable Physical World",
+      "url": "https://huggingface.co/papers/2609.23038",
+      "description": "Spatial reasoning is essential for vision-language models (VLMs) to understand and act in the physical world. Reasoning in dynamic environments requires VLMs to perceive local state transitions caused",
+      "published": "2026-09-18T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 23,
+      "is_new": true
+    },
+    {
       "id": "ba96432d1691c0f9a82e88310758c3aa",
       "title": "RewardVerse: Rubric-Guided Policy Optimization for Video Reward Modeling",
       "url": "https://huggingface.co/papers/2609.22947",
@@ -1232,63 +1284,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 17,
-      "is_new": false
-    },
-    {
-      "id": "49757975",
-      "title": "Show HN: Turnpanel is a local first AI workspace",
-      "url": "https://turnpanel.com",
-      "description": "",
-      "published": "2026-09-18T18:03:32Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 1,
-      "is_new": false
-    },
-    {
-      "id": "49749997",
-      "title": "The Provenance Tax: How LLM Watermarking Changes AI Agent Behavior",
-      "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
-      "description": "",
-      "published": "2026-09-18T03:53:51Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 9,
-      "comments": 1,
-      "is_new": false
-    },
-    {
-      "id": "49748041",
-      "title": "Show HN: Scry, programmable internet search w/ congestion pricing",
-      "url": "https://scry.io/",
-      "description": "",
-      "published": "2026-09-17T23:15:57Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 60,
-      "comments": 26,
-      "is_new": false
-    },
-    {
-      "id": "49743049",
-      "title": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
-      "url": "https://news.ycombinator.com/item?id=49743049",
-      "description": "",
-      "published": "2026-09-17T16:22:15Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 67,
-      "comments": 62,
+      "likes": 20,
       "is_new": false
     }
   ],
@@ -1379,10 +1375,10 @@
         "is_new": false
       },
       {
-        "id": "a8a41c2fafee35fcf03692ab39bae24c",
-        "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
-        "url": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
-        "description": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. Save $200 before September 25 at 11:59 p.m. PT.",
+        "id": "fe603b600b7eb15e328a297adbdb1311",
+        "title": "YouTube releases new AI features for creators within its Studio app",
+        "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
+        "description": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
         "published": "Wed, 23 Sep 2026 14:30:00 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
@@ -1391,10 +1387,10 @@
         "is_new": false
       },
       {
-        "id": "fe603b600b7eb15e328a297adbdb1311",
-        "title": "YouTube releases new AI features for creators within its Studio app",
-        "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
-        "description": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
+        "id": "a8a41c2fafee35fcf03692ab39bae24c",
+        "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+        "url": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
+        "description": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. Save $200 before September 25 at 11:59 p.m. PT.",
         "published": "Wed, 23 Sep 2026 14:30:00 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
@@ -1535,6 +1531,18 @@
         "is_new": false
       },
       {
+        "id": "fc26726d9b3ca81657f11582ce2bd4f4",
+        "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
+        "url": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
+        "description": "Google is reportedly nearing the launch of its long awaited Gemini 4 model, after dawdling behind rival developers on flagship AI releases. Speaking with The Information during his first media appeara",
+        "published": "2026-09-24T05:04:18-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "03e6d597d8c7e8b8de9cf2cee62c34c9",
         "title": "Meta is making a standalone Muse AI gadget",
         "url": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
@@ -1640,18 +1648,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
         "description": "Modern life comes with an unending, auto-populating to-do list. It never ceases to amaze me how I can be doing nothing at all, minding my own business, and suddenly something needs to be taken care of",
         "published": "2026-09-23T14:50:37-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "10c165258146f68e26e3bfc0e893377c",
-        "title": "Data centers are black boxes, but California wants to change that",
-        "url": "https://www.theverge.com/policy/999412/data-center-water-electricity-disclosure-bills",
-        "description": "California Gov. Gavin Newsom signed a slate of bills on Monday that could finally give communities better data - and more say - on how data centers impact their electricity bills and water supply. As",
-        "published": "2026-09-23T14:22:57-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
