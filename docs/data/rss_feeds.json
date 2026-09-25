@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-25T07:43:17.935260+00:00",
+  "last_updated": "2026-09-25T11:33:51.962284+00:00",
   "total_entries": 110,
-  "new_entries": 3,
+  "new_entries": 6,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -801,8 +801,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 282,
-      "comments": 111,
+      "points": 324,
+      "comments": 120,
       "is_new": false
     },
     {
@@ -902,6 +902,45 @@
       "is_new": false
     },
     {
+      "id": "5d09efd9b9849119920bd4045aa9fb6c",
+      "title": "Just Ask Jev: Reinforcement Learning for Calibrated Decisions as a Zero-Shot Detector of AI Alignment Failures",
+      "url": "https://huggingface.co/papers/2609.29429",
+      "description": "Detectors of alignment failures screen deployed language models and score alignment benchmarks. Most are generative judges that spend a decoding pass on every criterion, and classifiers that read toke",
+      "published": "2026-09-23T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "44e4b41386276a27887a93b3ad48190e",
+      "title": "Parts-of-Speech as Emergent Categories in SAE Latent Space",
+      "url": "https://huggingface.co/papers/2609.29362",
+      "description": "Sparse AutoEncoders (SAEs) offer a promising way to inspect language model representations, but it is still unclear what kind of linguistic structure their latents expose. We use part-of-speech (PoS) ",
+      "published": "2026-09-23T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 8,
+      "is_new": true
+    },
+    {
+      "id": "610202ede31e69e165769075344ea444",
+      "title": "Coding Agents for Generalized Task and Motion Planning Problems",
+      "url": "https://huggingface.co/papers/2609.30233",
+      "description": "Task and motion planning (TAMP) problems remain difficult even with full observability and object-centric states because discrete decisions are tightly coupled to geometric, kinematic, and dynamic con",
+      "published": "2026-09-23T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
+    },
+    {
       "id": "ec4026197c9986ac7d13733afef5f82c",
       "title": "Rufus-Air: An Open LLM Post-Training Recipe",
       "url": "https://huggingface.co/papers/2609.29421",
@@ -976,7 +1015,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 5,
       "is_new": false
     },
     {
@@ -989,7 +1028,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -1069,7 +1108,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 57,
+      "likes": 115,
       "is_new": false
     },
     {
@@ -1137,8 +1176,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 68,
-      "comments": 26,
+      "points": 69,
+      "comments": 27,
       "is_new": false
     },
     {
@@ -1183,45 +1222,6 @@
       "is_new": false
     },
     {
-      "id": "c0eaf0801a5af71552aeee5490fc6eb3",
-      "title": "Knowledge Pull Requests for Continual Document Authoring",
-      "url": "https://huggingface.co/papers/2609.26634",
-      "description": "We introduce Knowledge Pull Requests (KPRs), a framework for continual document authoring that makes each change interpretable. Documents require ongoing revision as new knowledge surfaces from other ",
-      "published": "2026-09-21T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "5f75aaa9aa600abfb8f3cc6401231e53",
-      "title": "Capable yet Parsimonious: Extracting and Characterizing Hidden Chain-of-Thought in Frontier Models",
-      "url": "https://huggingface.co/papers/2609.26637",
-      "description": "The rapid capability gains of frontier language models are widely attributed to improved reasoning abilities, yet this cannot be verified as raw CoT traces in closed-source systems are hidden. By regi",
-      "published": "2026-09-21T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 12,
-      "is_new": false
-    },
-    {
-      "id": "aec50353ec657e222e6901995186efc2",
-      "title": "X-Planner: Event-Structured Task Planning for Embodied Intelligence",
-      "url": "https://huggingface.co/papers/2609.25187",
-      "description": "Task planning bridges high-level instructions and executable behavior in long-horizon manipulation, yet modern Vision-Language-Action (VLA) systems often leave this intermediate structure implicit. Ex",
-      "published": "2026-09-20T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
       "id": "49775304",
       "title": "AAA AI – Autonomous AI agent squads for local and cloud LLMs",
       "url": "https://aaaai.me/",
@@ -1259,7 +1259,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 15,
+      "likes": 19,
       "is_new": false
     },
     {
@@ -1565,8 +1565,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 282,
-        "comments": 111,
+        "points": 324,
+        "comments": 120,
         "is_new": false
       },
       {
