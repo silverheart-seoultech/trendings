@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-27T01:23:19.566680+00:00",
-  "total_entries": 90,
-  "new_entries": 1,
+  "last_updated": "2026-09-27T04:47:14.378378+00:00",
+  "total_entries": 70,
+  "new_entries": 2,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -48,6 +48,18 @@
   ],
   "entries": [
     {
+      "id": "7fbf00bb0a9a1302bab763deabb58cb7",
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "description": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+      "published": "Sun, 27 Sep 2026 01:30:00 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "db474621d18afa3672b2614d32a53c87",
       "title": "Insurers claim AI is already increasing healthcare costs",
       "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
@@ -81,246 +93,6 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "a0005bd097015b38574e168dbc023f6b",
-      "title": "Stable and Faithful Explanations for Knowledge Tracing",
-      "url": "https://arxiv.org/abs/2609.28502",
-      "description": "arXiv:2609.28502v1 Announce Type: new \nAbstract: Knowledge tracing (KT) models predict student performance opaquely, limiting pedagogical action. This study contributes a validation protocol testing p",
-      "published": "Sat, 26 Sep 2026 00:00:00 -0400",
-      "source_id": "arxiv-ml",
-      "source_name": "arXiv ML",
-      "source_icon": "📄",
-      "category": "research",
-      "is_new": false
-    },
-    {
-      "id": "dc3ec78937a06e384483d0e81760a141",
-      "title": "SMILESGNN: Interpretable Clinical Toxicity Prediction via SMILES-Graph Cross-Attention Fusion",
-      "url": "https://arxiv.org/abs/2609.28553",
-      "description": "arXiv:2609.28553v1 Announce Type: new \nAbstract: Drug toxicity prediction is critical for reducing late-stage attrition in drug discovery, yet remains challenging due to severe class imbalance, scaffo",
-      "published": "Sat, 26 Sep 2026 00:00:00 -0400",
-      "source_id": "arxiv-ml",
-      "source_name": "arXiv ML",
-      "source_icon": "📄",
-      "category": "research",
-      "is_new": false
-    },
-    {
-      "id": "f1d9e92f72145296279e3c952ea50036",
-      "title": "CFD Correction of Open Tip Clearance Flow in a Compressor Cascade Using VAE Latent Space Adaptation",
-      "url": "https://arxiv.org/abs/2609.28558",
-      "description": "arXiv:2609.28558v1 Announce Type: new \nAbstract: CFD predictions of open tip clearance flow in compressor cascades are subject to discrepancies relative to experiments, while experimental observations",
-      "published": "Sat, 26 Sep 2026 00:00:00 -0400",
-      "source_id": "arxiv-ml",
-      "source_name": "arXiv ML",
-      "source_icon": "📄",
-      "category": "research",
-      "is_new": false
-    },
-    {
-      "id": "36bd77da1ada907ab218d87b2bbc25b4",
-      "title": "CARE: Condition-Aware Representation Regularization for Diffusion Models",
-      "url": "https://arxiv.org/abs/2609.28561",
-      "description": "arXiv:2609.28561v1 Announce Type: new \nAbstract: Recent advances in diffusion models highlight the importance of representation regularization for improving sample quality and training efficiency. How",
-      "published": "Sat, 26 Sep 2026 00:00:00 -0400",
-      "source_id": "arxiv-ml",
-      "source_name": "arXiv ML",
-      "source_icon": "📄",
-      "category": "research",
-      "is_new": false
-    },
-    {
-      "id": "4c0fa10bfe3895aef8496c0eb09c0d41",
-      "title": "SpaFactor: Lightweight Spatial Context-Aware Gene Program Modeling for Histology-to-Transcriptomics Inference",
-      "url": "https://arxiv.org/abs/2609.28563",
-      "description": "arXiv:2609.28563v1 Announce Type: new \nAbstract: Spatial transcriptomics (ST) profiles gene expression within tissue architecture, but its cost and experimental complexity limit routine use. Predictin",
-      "published": "Sat, 26 Sep 2026 00:00:00 -0400",
-      "source_id": "arxiv-ml",
-      "source_name": "arXiv ML",
-      "source_icon": "📄",
-      "category": "research",
-      "is_new": false
-    },
-    {
-      "id": "0bae8e11141e4b0ed529119068a521f2",
-      "title": "When Explanations Cannot Be Read: Measuring and Correcting SHAP and LIME Rendering for Right-to-Left Languages",
-      "url": "https://arxiv.org/abs/2609.28565",
-      "description": "arXiv:2609.28565v1 Announce Type: new \nAbstract: Post hoc explanation methods such as SHAP and LIME are widely used to interpret text classifiers, but their visualizations are mainly designed for left",
-      "published": "Sat, 26 Sep 2026 00:00:00 -0400",
-      "source_id": "arxiv-ml",
-      "source_name": "arXiv ML",
-      "source_icon": "📄",
-      "category": "research",
-      "is_new": false
-    },
-    {
-      "id": "a45b453f3ce9775a93e6d6adb76adcc7",
-      "title": "Leakage-Safe Machine Learning for Hydrogen Embrittlement Detection in 316L Stainless Steel: A Region-Held-Out Evaluation of Texture and Deep Features in SEM Micrographs",
-      "url": "https://arxiv.org/abs/2609.28567",
-      "description": "arXiv:2609.28567v1 Announce Type: new \nAbstract: Scanning electron microscopy (SEM) is routinely used to characterize the microstructural changes caused by hydrogen embrittlement (HE) in structural st",
-      "published": "Sat, 26 Sep 2026 00:00:00 -0400",
-      "source_id": "arxiv-ml",
-      "source_name": "arXiv ML",
-      "source_icon": "📄",
-      "category": "research",
-      "is_new": false
-    },
-    {
-      "id": "ecb1cdd2d67319ddbdbb617121f4df51",
-      "title": "Time-Series Foundation Models That Understand Data Revisions",
-      "url": "https://arxiv.org/abs/2609.28576",
-      "description": "arXiv:2609.28576v1 Announce Type: new \nAbstract: Historical observations are not always fixed: statistical agencies revise previously published values as new evidence arrives. Forecasting from a conte",
-      "published": "Sat, 26 Sep 2026 00:00:00 -0400",
-      "source_id": "arxiv-ml",
-      "source_name": "arXiv ML",
-      "source_icon": "📄",
-      "category": "research",
-      "is_new": false
-    },
-    {
-      "id": "6b7684fea402707786dc316d25ff68da",
-      "title": "Uncovering Residential PV-EV Co-Adoption from Smart-Meter Data: Load Archetypes and Detection for Demand-Side Planning",
-      "url": "https://arxiv.org/abs/2609.28578",
-      "description": "arXiv:2609.28578v1 Announce Type: new \nAbstract: The increasing adoption of electric vehicles (EVs) and rooftop photovoltaic (PV) systems is reshaping residential electricity demand and creating new c",
-      "published": "Sat, 26 Sep 2026 00:00:00 -0400",
-      "source_id": "arxiv-ml",
-      "source_name": "arXiv ML",
-      "source_icon": "📄",
-      "category": "research",
-      "is_new": false
-    },
-    {
-      "id": "bf91b98f725eefd68f008c5375d71411",
-      "title": "Auditability Is Not One Property: Rule Overlap, Behavioural Agreement, and Composition in Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2609.28581",
-      "description": "arXiv:2609.28581v1 Announce Type: new \nAbstract: Reinforcement-learning (RL) policies are often distributed as opaque neural checkpoints, while training logs show that a run occurred without explainin",
-      "published": "Sat, 26 Sep 2026 00:00:00 -0400",
-      "source_id": "arxiv-ml",
-      "source_name": "arXiv ML",
-      "source_icon": "📄",
-      "category": "research",
-      "is_new": false
-    },
-    {
-      "id": "ce23652816e9515bd9c6f304f4a2ee28",
-      "title": "SGA: Uncertainty Quantification for Multi-Step Forecasting in Time Series Foundation Models",
-      "url": "https://arxiv.org/abs/2609.28582",
-      "description": "arXiv:2609.28582v1 Announce Type: new \nAbstract: The recent emergence of Time Series Foundation Models (TSFMs) has significantly advanced multi-step forecasting performance, enabling accurate predicti",
-      "published": "Sat, 26 Sep 2026 00:00:00 -0400",
-      "source_id": "arxiv-ml",
-      "source_name": "arXiv ML",
-      "source_icon": "📄",
-      "category": "research",
-      "is_new": false
-    },
-    {
-      "id": "9eed13044550e15aec254b61a0b91226",
-      "title": "TAM-Chain: Multi-Scale Thyroid Cytology Classification via Absorbing Markov Chains and Shannon Entropy Uncertainty Quantification for False-Negative Suppression and Domain-Shift Adaptation",
-      "url": "https://arxiv.org/abs/2609.28590",
-      "description": "arXiv:2609.28590v1 Announce Type: new \nAbstract: Background & Problem: Thyroid Fine-Needle Aspiration Biopsy (FNAB) cytology based on the Bethesda System plays a pivotal role in early thyroid cancer d",
-      "published": "Sat, 26 Sep 2026 00:00:00 -0400",
-      "source_id": "arxiv-ml",
-      "source_name": "arXiv ML",
-      "source_icon": "📄",
-      "category": "research",
-      "is_new": false
-    },
-    {
-      "id": "c2e681c9aeb030377621e761db7cfdf1",
-      "title": "Learning to Discover Interesting Mathematics",
-      "url": "https://arxiv.org/abs/2609.28603",
-      "description": "arXiv:2609.28603v1 Announce Type: new \nAbstract: Recently, Large Language Models (LLMs) have been increasingly able to solve advanced mathematical problems, including many that have been open for deca",
-      "published": "Sat, 26 Sep 2026 00:00:00 -0400",
-      "source_id": "arxiv-ml",
-      "source_name": "arXiv ML",
-      "source_icon": "📄",
-      "category": "research",
-      "is_new": false
-    },
-    {
-      "id": "6a8020bea35b06a3625eaad1fb5072ad",
-      "title": "Physics-Informed Self-Supervised Learning for Joint Wire Calibration and Interaction Position Reconstruction in Multi-Wire Parallel Plate Avalanche Counters",
-      "url": "https://arxiv.org/abs/2609.28604",
-      "description": "arXiv:2609.28604v1 Announce Type: new \nAbstract: Scientific instruments require accurate calibration to convert detector signals into reliable physical observables. Conventional calibration procedures",
-      "published": "Sat, 26 Sep 2026 00:00:00 -0400",
-      "source_id": "arxiv-ml",
-      "source_name": "arXiv ML",
-      "source_icon": "📄",
-      "category": "research",
-      "is_new": false
-    },
-    {
-      "id": "4aad75a3c7fd3d6354860a0a9105c3bf",
-      "title": "UO-FIE: Combining Exact-Label Supervision with Graded Utility for Factivity Inference",
-      "url": "https://arxiv.org/abs/2609.28605",
-      "description": "arXiv:2609.28605v1 Announce Type: new \nAbstract: The Factivity Inference Evaluation 2026 (FIE2026) classifies Chinese context-hypothesis pairs into nine ordered factivity intervals. Its evaluation met",
-      "published": "Sat, 26 Sep 2026 00:00:00 -0400",
-      "source_id": "arxiv-ml",
-      "source_name": "arXiv ML",
-      "source_icon": "📄",
-      "category": "research",
-      "is_new": false
-    },
-    {
-      "id": "5f9e63d5931362ab9d431c97e99795d7",
-      "title": "fable.intermittent: benchmarking probabilistic forecasting methods for intermittent time series",
-      "url": "https://arxiv.org/abs/2609.28607",
-      "description": "arXiv:2609.28607v1 Announce Type: new \nAbstract: Intermittent time series are common in spare-parts demand and retail sales. Since the cost of forecast errors is typically asymmetric, decisions such a",
-      "published": "Sat, 26 Sep 2026 00:00:00 -0400",
-      "source_id": "arxiv-ml",
-      "source_name": "arXiv ML",
-      "source_icon": "📄",
-      "category": "research",
-      "is_new": false
-    },
-    {
-      "id": "7f99893b5335b8883d528ba5ae0ec423",
-      "title": "RLVR landscapes for iterated multiplications can be benign: Insights from spin-glass theory",
-      "url": "https://arxiv.org/abs/2609.28625",
-      "description": "arXiv:2609.28625v1 Announce Type: new \nAbstract: Despite the importance of reinforcement learning with verifiable rewards (RLVR), the extent to which it can learn new reasoning capabilities remains de",
-      "published": "Sat, 26 Sep 2026 00:00:00 -0400",
-      "source_id": "arxiv-ml",
-      "source_name": "arXiv ML",
-      "source_icon": "📄",
-      "category": "research",
-      "is_new": false
-    },
-    {
-      "id": "10657bf09f83d13b8db1ab76c14585dc",
-      "title": "OPDiv: Optimal Selection of Top-K High-Scoring, Diverse Compounds",
-      "url": "https://arxiv.org/abs/2609.28665",
-      "description": "arXiv:2609.28665v1 Announce Type: new \nAbstract: A virtual screening campaign may produce thousands of promising candidates, but only a small number can be purchased, synthesized, or tested. The pract",
-      "published": "Sat, 26 Sep 2026 00:00:00 -0400",
-      "source_id": "arxiv-ml",
-      "source_name": "arXiv ML",
-      "source_icon": "📄",
-      "category": "research",
-      "is_new": false
-    },
-    {
-      "id": "b0e88c96c582d8296037b5c63c51ace5",
-      "title": "Beyond Static Graph World Models: Learning Stochastic Latent Dynamics over Evolving Topologies",
-      "url": "https://arxiv.org/abs/2609.28670",
-      "description": "arXiv:2609.28670v1 Announce Type: new \nAbstract: Graph-based world models have recently emerged as a means of learning transitions over relational state representations. However, existing approaches a",
-      "published": "Sat, 26 Sep 2026 00:00:00 -0400",
-      "source_id": "arxiv-ml",
-      "source_name": "arXiv ML",
-      "source_icon": "📄",
-      "category": "research",
-      "is_new": false
-    },
-    {
-      "id": "243d0f20e5bf61c7f364ba782c018b14",
-      "title": "Thinking Leakage: A Causal Audit of NoThink Post-Training in Hybrid Reasoning Models",
-      "url": "https://arxiv.org/abs/2609.28682",
-      "description": "arXiv:2609.28682v1 Announce Type: new \nAbstract: Post-training hybrid reasoning models in NoThink mode has attracted growing interest as a way to improve performance while keeping inference fast. Howe",
-      "published": "Sat, 26 Sep 2026 00:00:00 -0400",
-      "source_id": "arxiv-ml",
-      "source_name": "arXiv ML",
-      "source_icon": "📄",
-      "category": "research",
       "is_new": false
     },
     {
@@ -516,18 +288,6 @@
       "is_new": false
     },
     {
-      "id": "bb5c1e3c8a7d21836e1f1d80cbed9e95",
-      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-      "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
-      "description": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
-      "published": "Fri, 25 Sep 2026 05:00:00 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "49856149",
       "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
       "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
@@ -692,7 +452,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 411,
-      "comments": 140,
+      "comments": 141,
       "is_new": false
     },
     {
@@ -754,7 +514,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -767,7 +527,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 64,
+      "likes": 69,
       "is_new": false
     },
     {
@@ -819,7 +579,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 14,
+      "likes": 15,
       "is_new": false
     },
     {
@@ -884,7 +644,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 33,
+      "likes": 34,
       "is_new": false
     },
     {
@@ -1191,6 +951,18 @@
   "by_category": {
     "news": [
       {
+        "id": "7fbf00bb0a9a1302bab763deabb58cb7",
+        "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+        "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+        "description": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+        "published": "Sun, 27 Sep 2026 01:30:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "db474621d18afa3672b2614d32a53c87",
         "title": "Insurers claim AI is already increasing healthcare costs",
         "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
@@ -1419,18 +1191,6 @@
         "is_new": false
       },
       {
-        "id": "bb5c1e3c8a7d21836e1f1d80cbed9e95",
-        "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-        "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
-        "description": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
-        "published": "Fri, 25 Sep 2026 05:00:00 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
         "id": "49856149",
         "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
         "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
@@ -1563,246 +1323,6 @@
     ],
     "research": [
       {
-        "id": "a0005bd097015b38574e168dbc023f6b",
-        "title": "Stable and Faithful Explanations for Knowledge Tracing",
-        "url": "https://arxiv.org/abs/2609.28502",
-        "description": "arXiv:2609.28502v1 Announce Type: new \nAbstract: Knowledge tracing (KT) models predict student performance opaquely, limiting pedagogical action. This study contributes a validation protocol testing p",
-        "published": "Sat, 26 Sep 2026 00:00:00 -0400",
-        "source_id": "arxiv-ml",
-        "source_name": "arXiv ML",
-        "source_icon": "📄",
-        "category": "research",
-        "is_new": false
-      },
-      {
-        "id": "dc3ec78937a06e384483d0e81760a141",
-        "title": "SMILESGNN: Interpretable Clinical Toxicity Prediction via SMILES-Graph Cross-Attention Fusion",
-        "url": "https://arxiv.org/abs/2609.28553",
-        "description": "arXiv:2609.28553v1 Announce Type: new \nAbstract: Drug toxicity prediction is critical for reducing late-stage attrition in drug discovery, yet remains challenging due to severe class imbalance, scaffo",
-        "published": "Sat, 26 Sep 2026 00:00:00 -0400",
-        "source_id": "arxiv-ml",
-        "source_name": "arXiv ML",
-        "source_icon": "📄",
-        "category": "research",
-        "is_new": false
-      },
-      {
-        "id": "f1d9e92f72145296279e3c952ea50036",
-        "title": "CFD Correction of Open Tip Clearance Flow in a Compressor Cascade Using VAE Latent Space Adaptation",
-        "url": "https://arxiv.org/abs/2609.28558",
-        "description": "arXiv:2609.28558v1 Announce Type: new \nAbstract: CFD predictions of open tip clearance flow in compressor cascades are subject to discrepancies relative to experiments, while experimental observations",
-        "published": "Sat, 26 Sep 2026 00:00:00 -0400",
-        "source_id": "arxiv-ml",
-        "source_name": "arXiv ML",
-        "source_icon": "📄",
-        "category": "research",
-        "is_new": false
-      },
-      {
-        "id": "36bd77da1ada907ab218d87b2bbc25b4",
-        "title": "CARE: Condition-Aware Representation Regularization for Diffusion Models",
-        "url": "https://arxiv.org/abs/2609.28561",
-        "description": "arXiv:2609.28561v1 Announce Type: new \nAbstract: Recent advances in diffusion models highlight the importance of representation regularization for improving sample quality and training efficiency. How",
-        "published": "Sat, 26 Sep 2026 00:00:00 -0400",
-        "source_id": "arxiv-ml",
-        "source_name": "arXiv ML",
-        "source_icon": "📄",
-        "category": "research",
-        "is_new": false
-      },
-      {
-        "id": "4c0fa10bfe3895aef8496c0eb09c0d41",
-        "title": "SpaFactor: Lightweight Spatial Context-Aware Gene Program Modeling for Histology-to-Transcriptomics Inference",
-        "url": "https://arxiv.org/abs/2609.28563",
-        "description": "arXiv:2609.28563v1 Announce Type: new \nAbstract: Spatial transcriptomics (ST) profiles gene expression within tissue architecture, but its cost and experimental complexity limit routine use. Predictin",
-        "published": "Sat, 26 Sep 2026 00:00:00 -0400",
-        "source_id": "arxiv-ml",
-        "source_name": "arXiv ML",
-        "source_icon": "📄",
-        "category": "research",
-        "is_new": false
-      },
-      {
-        "id": "0bae8e11141e4b0ed529119068a521f2",
-        "title": "When Explanations Cannot Be Read: Measuring and Correcting SHAP and LIME Rendering for Right-to-Left Languages",
-        "url": "https://arxiv.org/abs/2609.28565",
-        "description": "arXiv:2609.28565v1 Announce Type: new \nAbstract: Post hoc explanation methods such as SHAP and LIME are widely used to interpret text classifiers, but their visualizations are mainly designed for left",
-        "published": "Sat, 26 Sep 2026 00:00:00 -0400",
-        "source_id": "arxiv-ml",
-        "source_name": "arXiv ML",
-        "source_icon": "📄",
-        "category": "research",
-        "is_new": false
-      },
-      {
-        "id": "a45b453f3ce9775a93e6d6adb76adcc7",
-        "title": "Leakage-Safe Machine Learning for Hydrogen Embrittlement Detection in 316L Stainless Steel: A Region-Held-Out Evaluation of Texture and Deep Features in SEM Micrographs",
-        "url": "https://arxiv.org/abs/2609.28567",
-        "description": "arXiv:2609.28567v1 Announce Type: new \nAbstract: Scanning electron microscopy (SEM) is routinely used to characterize the microstructural changes caused by hydrogen embrittlement (HE) in structural st",
-        "published": "Sat, 26 Sep 2026 00:00:00 -0400",
-        "source_id": "arxiv-ml",
-        "source_name": "arXiv ML",
-        "source_icon": "📄",
-        "category": "research",
-        "is_new": false
-      },
-      {
-        "id": "ecb1cdd2d67319ddbdbb617121f4df51",
-        "title": "Time-Series Foundation Models That Understand Data Revisions",
-        "url": "https://arxiv.org/abs/2609.28576",
-        "description": "arXiv:2609.28576v1 Announce Type: new \nAbstract: Historical observations are not always fixed: statistical agencies revise previously published values as new evidence arrives. Forecasting from a conte",
-        "published": "Sat, 26 Sep 2026 00:00:00 -0400",
-        "source_id": "arxiv-ml",
-        "source_name": "arXiv ML",
-        "source_icon": "📄",
-        "category": "research",
-        "is_new": false
-      },
-      {
-        "id": "6b7684fea402707786dc316d25ff68da",
-        "title": "Uncovering Residential PV-EV Co-Adoption from Smart-Meter Data: Load Archetypes and Detection for Demand-Side Planning",
-        "url": "https://arxiv.org/abs/2609.28578",
-        "description": "arXiv:2609.28578v1 Announce Type: new \nAbstract: The increasing adoption of electric vehicles (EVs) and rooftop photovoltaic (PV) systems is reshaping residential electricity demand and creating new c",
-        "published": "Sat, 26 Sep 2026 00:00:00 -0400",
-        "source_id": "arxiv-ml",
-        "source_name": "arXiv ML",
-        "source_icon": "📄",
-        "category": "research",
-        "is_new": false
-      },
-      {
-        "id": "bf91b98f725eefd68f008c5375d71411",
-        "title": "Auditability Is Not One Property: Rule Overlap, Behavioural Agreement, and Composition in Reinforcement Learning",
-        "url": "https://arxiv.org/abs/2609.28581",
-        "description": "arXiv:2609.28581v1 Announce Type: new \nAbstract: Reinforcement-learning (RL) policies are often distributed as opaque neural checkpoints, while training logs show that a run occurred without explainin",
-        "published": "Sat, 26 Sep 2026 00:00:00 -0400",
-        "source_id": "arxiv-ml",
-        "source_name": "arXiv ML",
-        "source_icon": "📄",
-        "category": "research",
-        "is_new": false
-      },
-      {
-        "id": "ce23652816e9515bd9c6f304f4a2ee28",
-        "title": "SGA: Uncertainty Quantification for Multi-Step Forecasting in Time Series Foundation Models",
-        "url": "https://arxiv.org/abs/2609.28582",
-        "description": "arXiv:2609.28582v1 Announce Type: new \nAbstract: The recent emergence of Time Series Foundation Models (TSFMs) has significantly advanced multi-step forecasting performance, enabling accurate predicti",
-        "published": "Sat, 26 Sep 2026 00:00:00 -0400",
-        "source_id": "arxiv-ml",
-        "source_name": "arXiv ML",
-        "source_icon": "📄",
-        "category": "research",
-        "is_new": false
-      },
-      {
-        "id": "9eed13044550e15aec254b61a0b91226",
-        "title": "TAM-Chain: Multi-Scale Thyroid Cytology Classification via Absorbing Markov Chains and Shannon Entropy Uncertainty Quantification for False-Negative Suppression and Domain-Shift Adaptation",
-        "url": "https://arxiv.org/abs/2609.28590",
-        "description": "arXiv:2609.28590v1 Announce Type: new \nAbstract: Background & Problem: Thyroid Fine-Needle Aspiration Biopsy (FNAB) cytology based on the Bethesda System plays a pivotal role in early thyroid cancer d",
-        "published": "Sat, 26 Sep 2026 00:00:00 -0400",
-        "source_id": "arxiv-ml",
-        "source_name": "arXiv ML",
-        "source_icon": "📄",
-        "category": "research",
-        "is_new": false
-      },
-      {
-        "id": "c2e681c9aeb030377621e761db7cfdf1",
-        "title": "Learning to Discover Interesting Mathematics",
-        "url": "https://arxiv.org/abs/2609.28603",
-        "description": "arXiv:2609.28603v1 Announce Type: new \nAbstract: Recently, Large Language Models (LLMs) have been increasingly able to solve advanced mathematical problems, including many that have been open for deca",
-        "published": "Sat, 26 Sep 2026 00:00:00 -0400",
-        "source_id": "arxiv-ml",
-        "source_name": "arXiv ML",
-        "source_icon": "📄",
-        "category": "research",
-        "is_new": false
-      },
-      {
-        "id": "6a8020bea35b06a3625eaad1fb5072ad",
-        "title": "Physics-Informed Self-Supervised Learning for Joint Wire Calibration and Interaction Position Reconstruction in Multi-Wire Parallel Plate Avalanche Counters",
-        "url": "https://arxiv.org/abs/2609.28604",
-        "description": "arXiv:2609.28604v1 Announce Type: new \nAbstract: Scientific instruments require accurate calibration to convert detector signals into reliable physical observables. Conventional calibration procedures",
-        "published": "Sat, 26 Sep 2026 00:00:00 -0400",
-        "source_id": "arxiv-ml",
-        "source_name": "arXiv ML",
-        "source_icon": "📄",
-        "category": "research",
-        "is_new": false
-      },
-      {
-        "id": "4aad75a3c7fd3d6354860a0a9105c3bf",
-        "title": "UO-FIE: Combining Exact-Label Supervision with Graded Utility for Factivity Inference",
-        "url": "https://arxiv.org/abs/2609.28605",
-        "description": "arXiv:2609.28605v1 Announce Type: new \nAbstract: The Factivity Inference Evaluation 2026 (FIE2026) classifies Chinese context-hypothesis pairs into nine ordered factivity intervals. Its evaluation met",
-        "published": "Sat, 26 Sep 2026 00:00:00 -0400",
-        "source_id": "arxiv-ml",
-        "source_name": "arXiv ML",
-        "source_icon": "📄",
-        "category": "research",
-        "is_new": false
-      },
-      {
-        "id": "5f9e63d5931362ab9d431c97e99795d7",
-        "title": "fable.intermittent: benchmarking probabilistic forecasting methods for intermittent time series",
-        "url": "https://arxiv.org/abs/2609.28607",
-        "description": "arXiv:2609.28607v1 Announce Type: new \nAbstract: Intermittent time series are common in spare-parts demand and retail sales. Since the cost of forecast errors is typically asymmetric, decisions such a",
-        "published": "Sat, 26 Sep 2026 00:00:00 -0400",
-        "source_id": "arxiv-ml",
-        "source_name": "arXiv ML",
-        "source_icon": "📄",
-        "category": "research",
-        "is_new": false
-      },
-      {
-        "id": "7f99893b5335b8883d528ba5ae0ec423",
-        "title": "RLVR landscapes for iterated multiplications can be benign: Insights from spin-glass theory",
-        "url": "https://arxiv.org/abs/2609.28625",
-        "description": "arXiv:2609.28625v1 Announce Type: new \nAbstract: Despite the importance of reinforcement learning with verifiable rewards (RLVR), the extent to which it can learn new reasoning capabilities remains de",
-        "published": "Sat, 26 Sep 2026 00:00:00 -0400",
-        "source_id": "arxiv-ml",
-        "source_name": "arXiv ML",
-        "source_icon": "📄",
-        "category": "research",
-        "is_new": false
-      },
-      {
-        "id": "10657bf09f83d13b8db1ab76c14585dc",
-        "title": "OPDiv: Optimal Selection of Top-K High-Scoring, Diverse Compounds",
-        "url": "https://arxiv.org/abs/2609.28665",
-        "description": "arXiv:2609.28665v1 Announce Type: new \nAbstract: A virtual screening campaign may produce thousands of promising candidates, but only a small number can be purchased, synthesized, or tested. The pract",
-        "published": "Sat, 26 Sep 2026 00:00:00 -0400",
-        "source_id": "arxiv-ml",
-        "source_name": "arXiv ML",
-        "source_icon": "📄",
-        "category": "research",
-        "is_new": false
-      },
-      {
-        "id": "b0e88c96c582d8296037b5c63c51ace5",
-        "title": "Beyond Static Graph World Models: Learning Stochastic Latent Dynamics over Evolving Topologies",
-        "url": "https://arxiv.org/abs/2609.28670",
-        "description": "arXiv:2609.28670v1 Announce Type: new \nAbstract: Graph-based world models have recently emerged as a means of learning transitions over relational state representations. However, existing approaches a",
-        "published": "Sat, 26 Sep 2026 00:00:00 -0400",
-        "source_id": "arxiv-ml",
-        "source_name": "arXiv ML",
-        "source_icon": "📄",
-        "category": "research",
-        "is_new": false
-      },
-      {
-        "id": "243d0f20e5bf61c7f364ba782c018b14",
-        "title": "Thinking Leakage: A Causal Audit of NoThink Post-Training in Hybrid Reasoning Models",
-        "url": "https://arxiv.org/abs/2609.28682",
-        "description": "arXiv:2609.28682v1 Announce Type: new \nAbstract: Post-training hybrid reasoning models in NoThink mode has attracted growing interest as a way to improve performance while keeping inference fast. Howe",
-        "published": "Sat, 26 Sep 2026 00:00:00 -0400",
-        "source_id": "arxiv-ml",
-        "source_name": "arXiv ML",
-        "source_icon": "📄",
-        "category": "research",
-        "is_new": false
-      },
-      {
         "id": "6fedfd7b6e00257b5ee36d9fd6f7d2b0",
         "title": "RGBD20K: A Large-Scale Benchmark for RGB-D Semantic Segmentation",
         "url": "https://huggingface.co/papers/2609.29028",
@@ -1825,7 +1345,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 3,
+        "likes": 4,
         "is_new": false
       },
       {
@@ -1838,7 +1358,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 64,
+        "likes": 69,
         "is_new": false
       },
       {
@@ -1890,7 +1410,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 14,
+        "likes": 15,
         "is_new": false
       },
       {
@@ -1930,6 +1450,136 @@
         "source_icon": "🤗",
         "category": "research",
         "likes": 5,
+        "is_new": false
+      },
+      {
+        "id": "b09496ce44cfe2af43b6a3befdedaa66",
+        "title": "World Action Agent: Harnessing VLMs for Robot Manipulation via World Action Rehearsal",
+        "url": "https://huggingface.co/papers/2609.29964",
+        "description": "General-purpose vision-language models (VLMs) bring broad knowledge and spatial reasoning to robot manipulation, yet existing systems either use them indirectly, to predict constraints or write progra",
+        "published": "2026-09-23T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 6,
+        "is_new": false
+      },
+      {
+        "id": "400fb88b558459287db3512b082a1860",
+        "title": "WanPE: Towards Cinematic Prompt Enhancement for Modern Text-to-Video Generation",
+        "url": "https://huggingface.co/papers/2609.30221",
+        "description": "Video generation begins in text space by authoring a cinematic screenplay, then materializes into pixels. As contemporary video generators scale to 30 seconds and faithfully follow complex conditions,",
+        "published": "2026-09-23T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 34,
+        "is_new": false
+      },
+      {
+        "id": "0bba2bf95528dac57c33063ff0e2186f",
+        "title": "ExplorationBench: Measuring AI Systems' Exploration in Verifiable Alien Worlds",
+        "url": "https://huggingface.co/papers/2609.30199",
+        "description": "Scientific discovery begins where known problems end. There, AI systems must engage in exploration: framing hypotheses, designing experiments, and iterating on the results. However, evaluating this ab",
+        "published": "2026-09-23T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 9,
+        "is_new": false
+      },
+      {
+        "id": "e20f39a08e9b8a3ba463c52c14814212",
+        "title": "Learning to Discover Interesting Mathematics",
+        "url": "https://huggingface.co/papers/2609.28603",
+        "description": "Recently, Large Language Models (LLMs) have been increasingly able to solve advanced mathematical problems, including many that have been open for decades. This opens the door to expansion of mathemat",
+        "published": "2026-09-22T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 8,
+        "is_new": false
+      },
+      {
+        "id": "a2b00e7bf1edebc69b8a36c8ce0eadc3",
+        "title": "DeltaWAM: Delta World Action Models for Bimanual Manipulation",
+        "url": "https://huggingface.co/papers/2609.28811",
+        "description": "World-action models (WAMs) transfer visual and motion priors from pretrained video generators to robot control by jointly modeling visual dynamics and actions. Existing WAMs, however, predict dense fu",
+        "published": "2026-09-22T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 3,
+        "is_new": false
+      },
+      {
+        "id": "e5c7176ad98ea2a4b8e850ad2571b5a2",
+        "title": "Training Object Permanence in World Models",
+        "url": "https://huggingface.co/papers/2609.28654",
+        "description": "Object permanence and solidity are hallmarks of human cognitive priors. Recent studies show that video generation models, a paradigmatic class of current world models, have begun to show emerged reaso",
+        "published": "2026-09-22T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 198,
+        "is_new": false
+      },
+      {
+        "id": "7ad83828805ca4a40ceb4562e6d34bc2",
+        "title": "Agent-Editing World Model: Rethinking World Modeling for LLM Agents",
+        "url": "https://huggingface.co/papers/2609.28416",
+        "description": "Recent advances in large language models (LLMs) have enabled agents to tackle long-horizon tasks across diverse environments. To further improve agent performance, existing language world models typic",
+        "published": "2026-09-22T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 17,
+        "is_new": false
+      },
+      {
+        "id": "e2eba2253a892867c8dadeef3e4ac233",
+        "title": "OmniEcho: Spatial Audio Understanding for Embodied Agents",
+        "url": "https://huggingface.co/papers/2609.23407",
+        "description": "Humans can effortlessly localize the direction of a sound source and integrate it with visual cues for reasoning, yet this remains challenging for embodied agents. In particular, it is still unclear h",
+        "published": "2026-09-19T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 20,
+        "is_new": false
+      },
+      {
+        "id": "0d8937bd1038277f7d58ad01a6ad99da",
+        "title": "Neural Spectral Capacity: Measuring and Designing Architectures from Network Specification Alone",
+        "url": "https://huggingface.co/papers/2609.23087",
+        "description": "Modern Transformer design and compression both reduce to allocating capacity under a budget. The standard scalars for these decisions, #Params and #FLOPs, capture size and compute but not architectura",
+        "published": "2026-09-18T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 7,
+        "is_new": false
+      },
+      {
+        "id": "b37097ff2d3af445733e3b0603c57168",
+        "title": "AgentKernel: The Trust-Native Agentic Operating System",
+        "url": "https://huggingface.co/papers/2609.29647",
+        "description": "Modern AI agents routinely cross trust boundaries: they ingest untrusted content, combine it with privileged instructions, persist intermediate beliefs in long-term memory, and invoke privileged tools",
+        "published": "2026-08-28T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 6,
         "is_new": false
       }
     ]
