@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-29T08:24:13.714429+00:00",
+  "last_updated": "2026-09-29T12:31:29.857806+00:00",
   "total_entries": 110,
-  "new_entries": 21,
+  "new_entries": 23,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,6 +768,30 @@
       "is_new": false
     },
     {
+      "id": "40078ca5ed76ea85652a2e03f92b7d0b",
+      "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
+      "url": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
+      "description": "As President Donald Trump prepares to meet tech and AI CEOs in Washington, Rep. Ro Khanna (D-CA) is calling for a treaty between the US and China to keep AI from wreaking havoc on the world. But wrang",
+      "published": "2026-09-29T08:00:13-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "6de0f8f324b79999bc9df1100ce020e8",
+      "title": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat",
+      "description": "As Anthropic gears up for its greatly anticipated public debut, a preview of the company's IPO filing reportedly details its mounting losses, leadership proposals to retain power, and how its AI devel",
+      "published": "2026-09-29T07:48:27-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "49888905",
       "title": "Show HN: Open-source skills for end-to-end video ad campaigns",
       "url": "https://github.com/SupercmoHQ/superCMO-skills",
@@ -777,7 +801,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 2,
+      "points": 3,
       "comments": 0,
       "is_new": true
     },
@@ -817,8 +841,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 165,
-      "comments": 90,
+      "points": 196,
+      "comments": 96,
       "is_new": false
     },
     {
@@ -934,30 +958,6 @@
       "is_new": false
     },
     {
-      "id": "113b2d34672f059dc99fd36376e82970",
-      "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
-      "description": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the inciden",
-      "published": "2026-09-28T06:01:10-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "14fc67fa9a5092138d41deea88a3503d",
-      "title": "Engram is a sampler that turns broken AI hallucinations into music",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
-      "description": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate com",
-      "published": "2026-09-28T05:59:36-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "49873303",
       "title": "Ask HN: Do you think AI agents can escape human control?",
       "url": "https://news.ycombinator.com/item?id=49873303",
@@ -972,6 +972,32 @@
       "is_new": false
     },
     {
+      "id": "513c1760292ed388c165b3ce5de8b26e",
+      "title": "Nereus: Adaptive Parallelism for LLM Post-Training",
+      "url": "https://huggingface.co/papers/2609.34645",
+      "description": "Reinforcement learning (RL) post-training for large language models (LLMs) coordinates multiple models across generation, inference, and training on GPU clusters. Several factors may change during a r",
+      "published": "2026-09-27T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 5,
+      "is_new": true
+    },
+    {
+      "id": "97e30545b9c38bfe0e5b794f2e27cd60",
+      "title": "FlowTool: Controlling Tool Parameter in Image Retouching via Flow Matching",
+      "url": "https://huggingface.co/papers/2609.35673",
+      "description": "Tool-based image editing (image retouching) is commonly formulated with autoregressive multimodal large language models (MLLMs) that sequentially generate reasoning, tool selections, and parameter val",
+      "published": "2026-09-27T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 11,
+      "is_new": true
+    },
+    {
       "id": "6d600ebf4925ce7eb596a484ec9d5230",
       "title": "An RL View of OPD: Least Square Policy Distillation for Sample-Efficient LLM Reasoning",
       "url": "https://huggingface.co/papers/2609.35505",
@@ -981,7 +1007,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 5,
       "is_new": true
     },
     {
@@ -994,7 +1020,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
+      "likes": 9,
       "is_new": true
     },
     {
@@ -1011,58 +1037,6 @@
       "is_new": true
     },
     {
-      "id": "f20d6c263a73817159bdef37628b3771",
-      "title": "How Far Are We from Removing the Visual Encoder? Scaling Laws for Encoder-Free Multimodal Pretraining",
-      "url": "https://huggingface.co/papers/2609.35457",
-      "description": "Most modern multimodal large language models (MLLMs) build on a pretrained visual encoder that provides a strong visual prior. Encoder-free MLLMs instead learn visual representations directly from raw",
-      "published": "2026-09-27T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 22,
-      "is_new": true
-    },
-    {
-      "id": "82fb30479a6c12f0ee61c924fa19834e",
-      "title": "When Do Model Internals Help? Exploring the Role of Representation Engineering in LLM Safety",
-      "url": "https://huggingface.co/papers/2609.34771",
-      "description": "Reliable AI safeguards require both control mechanisms that reduce unsafe behavior and monitoring mechanisms that detect safety risks during model interactions. Established behavioral safeguards inclu",
-      "published": "2026-09-27T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": true
-    },
-    {
-      "id": "b7e47461f78bf49c155838fe2e109786",
-      "title": "InfiniHand: Streaming World-Space Hand Motion Estimation from Egocentric Video",
-      "url": "https://huggingface.co/papers/2609.35743",
-      "description": "World-space hand motion estimation from egocentric video requires recovering 3D articulated hand geometry while tracking camera egomotion. Existing approaches heavily rely on cascading independent han",
-      "published": "2026-09-27T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 7,
-      "is_new": true
-    },
-    {
-      "id": "1a602d2e53be6d8ad1af0888eb44f734",
-      "title": "GeoVerse: World-Consistent Novel View Synthesis in Geometric Latent Space",
-      "url": "https://huggingface.co/papers/2609.35734",
-      "description": "Novel view synthesis from sparse images must reconcile faithful reconstruction of observed regions with plausible completion of unseen content, while maintaining world consistency across viewpoints. E",
-      "published": "2026-09-27T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 5,
-      "is_new": true
-    },
-    {
       "id": "49863792",
       "title": "The Perfect Crime: LLM Agents Can Easily Tamper with Their Own Traces",
       "url": "https://perfect-crime.ai/",
@@ -1075,6 +1049,19 @@
       "points": 2,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "f01e0540922348a82eb6433255efd76b",
+      "title": "Recursive Harness Distillation across Agents for Robot Manipulation",
+      "url": "https://huggingface.co/papers/2609.33378",
+      "description": "A central goal in robotics is to enable manipulation across changing tasks and environments. Vision-language-action (VLA) models provide broad manipulation capabilities but can struggle when execution",
+      "published": "2026-09-26T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 24,
+      "is_new": true
     },
     {
       "id": "02caa562480a5d29fa8762717b2064e6",
@@ -1125,7 +1112,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 14,
+      "likes": 19,
       "is_new": true
     },
     {
@@ -1138,20 +1125,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 11,
-      "is_new": true
-    },
-    {
-      "id": "7552c4ec078e4c34b0b044005a76bc0d",
-      "title": "When Privacy Moves ML-Mediated Decisions On Device: Information and Incentive Misalignment in Auctions",
-      "url": "https://huggingface.co/papers/2609.33312",
-      "description": "Moving ML-mediated decision making onto privacy-preserving clients decentralises the economic decision along with the inference. Shared budget constraints then depend on information that cannot be glo",
-      "published": "2026-09-26T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
+      "likes": 12,
       "is_new": true
     },
     {
@@ -1197,6 +1171,45 @@
       "is_new": false
     },
     {
+      "id": "33967e2cf98a77449dbf944f9ab4c522",
+      "title": "Playing to Par: Reinforcement Learning for Provably Optimal Quadrilateral Block Decompositions",
+      "url": "https://huggingface.co/papers/2609.32146",
+      "description": "A quadrilateral block decomposition of a planar domain is judged by whether it is complete, whether its elements are well shaped, and how many of its vertices are irregular. The last has a provable fl",
+      "published": "2026-09-25T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "c75e01961b5e36e4fc2b0575888e96c8",
+      "title": "Groupwise Agentic Grading and Advantage Redistribution for Code Agent RL",
+      "url": "https://huggingface.co/papers/2609.32577",
+      "description": "Reinforcement learning (RL) for code agents often uses executable tests to provide binary rewards. With these rewards, Group Relative Policy Optimization (GRPO) assigns identical advantages to test-pa",
+      "published": "2026-09-25T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 26,
+      "is_new": true
+    },
+    {
+      "id": "10b4d58d288f10c665cb9316084175d2",
+      "title": "Relic: From Multi-Agent Collaboration to Persistent Organizational Capability",
+      "url": "https://huggingface.co/papers/2609.32965",
+      "description": "Multiple agents may often conflict in an organization: for example, one coding agent changes an interface in a repository, but another continues to develop on the old version where existing tests beco",
+      "published": "2026-09-25T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
       "id": "8270605199605d27f73e46357ac995eb",
       "title": "Change the Product, Keep the Parameters: Associative Algebra Layers for Transformers",
       "url": "https://huggingface.co/papers/2609.32814",
@@ -1206,7 +1219,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 12,
       "is_new": true
     },
     {
@@ -1219,20 +1232,20 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 13,
       "is_new": true
     },
     {
-      "id": "8ed6b35783b35b1c8fe0717bd3e5a3b9",
-      "title": "Residual Transferability in Neural Image Watermarking",
-      "url": "https://huggingface.co/papers/2609.32241",
-      "description": "Neural image watermarks can be forged by extracting watermark-bearing residuals from released images and transferring them to unrelated content. While prior work has demonstrated this vulnerability, w",
-      "published": "2026-09-25T20:00:00.000Z",
+      "id": "42bcff9d111ff844d23ddb0f061cb48f",
+      "title": "G^2PTQ: Improving LLM Post-Training Quantization with Generalized Gradient Compensation",
+      "url": "https://huggingface.co/papers/2609.31009",
+      "description": "Post-training quantization (PTQ) is a practical approach to reducing the memory and computational footprint of large language models (LLMs) without retraining. GPTQ-based methods have become the de fa",
+      "published": "2026-09-24T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 1,
       "is_new": true
     },
     {
@@ -1248,19 +1261,6 @@
       "points": 421,
       "comments": 142,
       "is_new": false
-    },
-    {
-      "id": "77cbee88403ad3725bcdf789098d8bc6",
-      "title": "How Reproducible Are Evaluation Conclusions? A Self-Audit of LLM-Inferred Prompt Structure",
-      "url": "https://huggingface.co/papers/2609.30074",
-      "description": "Evaluations of LLM systems routinely average over small prompt sets and report models as a ranked table. We ask how much confidence such a table deserves, using LLM-based prompt-structure inference as",
-      "published": "2026-09-23T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
-      "is_new": true
     },
     {
       "id": "49818914",
@@ -1534,6 +1534,30 @@
         "is_new": false
       },
       {
+        "id": "40078ca5ed76ea85652a2e03f92b7d0b",
+        "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
+        "url": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
+        "description": "As President Donald Trump prepares to meet tech and AI CEOs in Washington, Rep. Ro Khanna (D-CA) is calling for a treaty between the US and China to keep AI from wreaking havoc on the world. But wrang",
+        "published": "2026-09-29T08:00:13-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "6de0f8f324b79999bc9df1100ce020e8",
+        "title": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat",
+        "description": "As Anthropic gears up for its greatly anticipated public debut, a preview of the company's IPO filing reportedly details its mounting losses, leadership proposals to retain power, and how its AI devel",
+        "published": "2026-09-29T07:48:27-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "49888905",
         "title": "Show HN: Open-source skills for end-to-end video ad campaigns",
         "url": "https://github.com/SupercmoHQ/superCMO-skills",
@@ -1543,7 +1567,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 2,
+        "points": 3,
         "comments": 0,
         "is_new": true
       },
@@ -1583,8 +1607,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 165,
-        "comments": 90,
+        "points": 196,
+        "comments": 96,
         "is_new": false
       },
       {
@@ -1631,32 +1655,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
         "description": "In March, Janice Malone began getting calls about suspicious activity from her nonprofit organization, Vivian's Door. Vivian's Door, headquartered in Alabama, typically provided training, resources, a",
         "published": "2026-09-28T14:25:22-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "49877515",
-        "title": "Show HN: OpenAPPA – open-source deterministic guardrails that don't break agents",
-        "url": "https://www.openappa.com/",
-        "description": "",
-        "published": "2026-09-28T13:20:44Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 23,
-        "comments": 12,
-        "is_new": false
-      },
-      {
-        "id": "c31284df855fe503fd6d412c9dc12a8b",
-        "title": "OpenAI keeps bulldozing mathematicians",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
-        "description": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them. OpenAI is now",
-        "published": "2026-09-28T12:56:26-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
