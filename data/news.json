@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-01T12:53:31.302180+00:00",
+  "last_updated": "2026-10-01T22:33:57.517675+00:00",
   "items": [
     {
       "type": "github_trending",
       "title": "vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "url": "https://github.com/vectorize-io/hindsight",
-      "stars": 44130,
+      "stars": 44274,
       "extra": "18,389 stars this week"
     },
     {
@@ -14,7 +14,7 @@
       "title": "rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "stars": 62275,
+      "stars": 62406,
       "extra": "6,485 stars this week"
     },
     {
@@ -22,7 +22,7 @@
       "title": "HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
       "url": "https://github.com/HKUDS/CLI-Anything",
-      "stars": 51168,
+      "stars": 51220,
       "extra": "1,371 stars this week"
     },
     {
@@ -30,7 +30,7 @@
       "title": "alirezarezvani/claude-skills",
       "description": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
       "url": "https://github.com/alirezarezvani/claude-skills",
-      "stars": 27109,
+      "stars": 27169,
       "extra": "711 stars this week"
     },
     {
@@ -38,7 +38,7 @@
       "title": "TencentCloud/Octop",
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "url": "https://github.com/TencentCloud/Octop",
-      "stars": 6182,
+      "stars": 6229,
       "extra": "1,301 stars this week"
     },
     {
@@ -46,7 +46,7 @@
       "title": "tile-ai/tilelang",
       "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
       "url": "https://github.com/tile-ai/tilelang",
-      "stars": 7981,
+      "stars": 8081,
       "extra": "480 stars this week"
     },
     {
@@ -54,7 +54,7 @@
       "title": "VectifyAI/PageIndex",
       "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
       "url": "https://github.com/VectifyAI/PageIndex",
-      "stars": 38329,
+      "stars": 38428,
       "extra": "2,254 stars this week"
     },
     {
@@ -62,7 +62,7 @@
       "title": "NVIDIA/Model-Optimizer",
       "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
       "url": "https://github.com/NVIDIA/Model-Optimizer",
-      "stars": 5128,
+      "stars": 5148,
       "extra": "1,251 stars this week"
     },
     {
@@ -70,7 +70,7 @@
       "title": "aayushch/laya",
       "description": "Laya is an open-source, local-first AI notification command center that aggregates Slack, Gmail, GitHub, Jira, Notion, Outlook, Calendar (and more) notifications using local LLMs via Ollama and LM Studio. Supports cloud models via BYOK.",
       "url": "https://github.com/aayushch/laya",
-      "stars": 477,
+      "stars": 499,
       "extra": "238 stars this week"
     },
     {
@@ -78,16 +78,8 @@
       "title": "paperclipai/paperclip",
       "description": "The open-source app everyone uses to manage agents at work",
       "url": "https://github.com/paperclipai/paperclip",
-      "stars": 95577,
+      "stars": 95808,
       "extra": "13,855 stars this week"
-    },
-    {
-      "type": "hf_model",
-      "title": "Edge0/Audio8-ASR-Infinite",
-      "description": "Pipeline: automatic-speech-recognition",
-      "url": "https://huggingface.co/Edge0/Audio8-ASR-Infinite",
-      "downloads": 27228,
-      "likes": 1990
     },
     {
       "type": "hf_model",
@@ -95,7 +87,7 @@
       "description": "Pipeline: text-classification",
       "url": "https://huggingface.co/convaiinnovations/laya",
       "downloads": 0,
-      "likes": 4741
+      "likes": 4843
     },
     {
       "type": "hf_model",
@@ -103,7 +95,7 @@
       "description": "Pipeline: image-text-to-text",
       "url": "https://huggingface.co/XingChen-AGI/TeleOCR",
       "downloads": 31584,
-      "likes": 1129
+      "likes": 1217
     },
     {
       "type": "hf_model",
@@ -111,7 +103,15 @@
       "description": "Pipeline: text-to-image",
       "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
       "downloads": 1303476,
-      "likes": 2627
+      "likes": 2699
+    },
+    {
+      "type": "hf_model",
+      "title": "Qwen/Qwen-Image-2.1",
+      "description": "Pipeline: text-to-image",
+      "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
+      "downloads": 76938,
+      "likes": 2783
     },
     {
       "type": "hf_model",
@@ -119,42 +119,42 @@
       "description": "Pipeline: text-ranking",
       "url": "https://huggingface.co/Contrastive-LM/CLM-v0.1-8B",
       "downloads": 2720,
-      "likes": 583
+      "likes": 623
     },
     {
       "type": "hf_space",
       "title": "Pepe104/MiniMax-H3-Turbo-Lora-UNCENSORED",
       "description": "SDK: gradio",
       "url": "https://huggingface.co/spaces/Pepe104/MiniMax-H3-Turbo-Lora-UNCENSORED",
-      "likes": 949
+      "likes": 972
     },
     {
       "type": "hf_space",
       "title": "multimodalart/jev-decision-index",
       "description": "SDK: static",
       "url": "https://huggingface.co/spaces/multimodalart/jev-decision-index",
-      "likes": 352
-    },
-    {
-      "type": "hf_space",
-      "title": "Qwen/Qwen-Image-2.1",
-      "description": "SDK: gradio",
-      "url": "https://huggingface.co/spaces/Qwen/Qwen-Image-2.1",
-      "likes": 324
+      "likes": 365
     },
     {
       "type": "hf_space",
       "title": "arudradey/qwen-image-2.1-uncensored-gguf",
       "description": "SDK: gradio",
       "url": "https://huggingface.co/spaces/arudradey/qwen-image-2.1-uncensored-gguf",
-      "likes": 167
+      "likes": 188
+    },
+    {
+      "type": "hf_space",
+      "title": "Qwen/Qwen-Image-2.1",
+      "description": "SDK: gradio",
+      "url": "https://huggingface.co/spaces/Qwen/Qwen-Image-2.1",
+      "likes": 334
     },
     {
       "type": "hf_space",
       "title": "Viggle/Qwen-Image-2.1-viggle-turbo",
       "description": "SDK: gradio",
       "url": "https://huggingface.co/spaces/Viggle/Qwen-Image-2.1-viggle-turbo",
-      "likes": 139
+      "likes": 145
     }
   ]
 }
