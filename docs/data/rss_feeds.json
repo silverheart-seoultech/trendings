@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-01T08:50:11.069841+00:00",
+  "last_updated": "2026-10-01T12:51:26.135145+00:00",
   "total_entries": 109,
-  "new_entries": 14,
+  "new_entries": 21,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -264,16 +264,16 @@
       "is_new": false
     },
     {
-      "id": "b7ee266b3afff5b48a696bb452c70cf3",
-      "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
-      "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
-      "description": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
-      "published": "Tue, 29 Sep 2026 18:35:00 +0000",
+      "id": "28a5cadf6619423ecb3171dbcc8bec95",
+      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+      "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+      "description": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+      "published": "Thu, 01 Oct 2026 12:00:00 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "6c51b2e35cbb094b4f23ff092c6ff967",
@@ -756,6 +756,18 @@
       "is_new": false
     },
     {
+      "id": "5ee3ca38d10b45468d39b12fae8c3657",
+      "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
+      "url": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+      "description": "Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, recently started incorporating edits again, and today, it got some design tweaks as part of a v0.3 update, including a new logo and refreshes",
+      "published": "2026-10-01T06:04:13-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": false
+    },
+    {
       "id": "49917116",
       "title": "Universal Modder: Let Any AI Coding Agent Mod Almost Any PC Game",
       "url": "https://github.com/rehan-remade/universal-modder",
@@ -793,8 +805,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 10,
-      "comments": 4,
+      "points": 13,
+      "comments": 5,
       "is_new": false
     },
     {
@@ -809,18 +821,6 @@
       "category": "news",
       "points": 1,
       "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "5ee3ca38d10b45468d39b12fae8c3657",
-      "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
-      "url": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
-      "description": "Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, recently started incorporating edits again, and today, it got some design tweaks as part of a v0.3 update, including a new logo and refreshes",
-      "published": "2026-09-30T20:23:45-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
       "is_new": false
     },
     {
@@ -974,7 +974,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 1,
-      "comments": 2,
+      "comments": 3,
       "is_new": false
     },
     {
@@ -992,6 +992,71 @@
       "is_new": false
     },
     {
+      "id": "2cbbfda81584c6fa5310efb7fb0b8aab",
+      "title": "Beyond the Remembered World: Predictive 4D Belief for Persistent Navigation in Evolving Worlds",
+      "url": "https://huggingface.co/papers/2609.39166",
+      "description": "Persistent spatial memory enables embodied agents to navigate familiar environments across repeated visits. However, targets may move while unobserved, including during navigation, making remembered l",
+      "published": "2026-09-29T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "5ef915a346e4a0f9417e4b43920a0ea4",
+      "title": "Safety of Latent Communication in Multi-Agent Systems",
+      "url": "https://huggingface.co/papers/2609.39788",
+      "description": "Latent communication enables multi-agent systems to exchange information directly in internal representation space, reducing the token, computation, and latency overhead of text-based communication. T",
+      "published": "2026-09-29T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "b98728614b839f8e58ab4c267030e50f",
+      "title": "ATLAS: Aligned Transport of Latent Structure for Reliable World Model Planning",
+      "url": "https://huggingface.co/papers/2609.36333",
+      "description": "Latent world models rely on representation geometry for planning, yet regularizing the latent marginal alone does not determine the state-to-state relationships used for action selection. We show that",
+      "published": "2026-09-29T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "19a6bcb4cba00d4874d6cfcb5377c7ef",
+      "title": "DyRAD: Radar Novel View Synthesis for Dynamic Driving Scenes",
+      "url": "https://huggingface.co/papers/2609.39841",
+      "description": "Reconstructing dynamic driving scenes from recorded sensor data supports closed-loop evaluation of autonomous driving systems by synthesizing observations beyond the original trajectory. Unlike camera",
+      "published": "2026-09-29T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 8,
+      "is_new": true
+    },
+    {
+      "id": "fb647958dab672492861445a0dc21ac4",
+      "title": "Synthetic Pre-pretraining Survives Scale, but Not as a Grammatical Prior",
+      "url": "https://huggingface.co/papers/2609.39827",
+      "description": "Pre-pretraining (PPT) on synthetic non-natural language data improves token efficiency during language model pre-training (PT). Prior work attributes this gain to a grammatical prior, i.e., a structur",
+      "published": "2026-09-29T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 5,
+      "is_new": true
+    },
+    {
       "id": "11b51d9ce1df16dae56c83cf81baf30b",
       "title": "I Have a Stream: Making Self-Supervised Learning Work on Continuous Video",
       "url": "https://huggingface.co/papers/2609.40333",
@@ -1003,97 +1068,6 @@
       "category": "research",
       "likes": 6,
       "is_new": true
-    },
-    {
-      "id": "3d6c8ea6307f6f7d25d573dfc3390f60",
-      "title": "The Evolution of Attention in Large Language Models: Mechanisms, Trade-offs, and Emerging Trends",
-      "url": "https://huggingface.co/papers/2609.39661",
-      "description": "Self-attention gives LLMs fine-grained, query-dependent access to context, but dense token interactions incur quadratic prefill cost and a key--value cache growing with context length. Research thus s",
-      "published": "2026-09-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
-      "is_new": true
-    },
-    {
-      "id": "d652e152478694cd83bf51970e51b604",
-      "title": "OSWorld-Science: A Benchmark of Computer Use Agents for Learning and Using Scientific Software",
-      "url": "https://huggingface.co/papers/2609.39903",
-      "description": "Scientific software presents a demanding test for computer-using agents based on visual language models (VLMs): completing a research workflow requires interpreting specialized interfaces, manipulatin",
-      "published": "2026-09-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
-      "is_new": true
-    },
-    {
-      "id": "6f9ee57fadab2bf2454d1e963f9b59bf",
-      "title": "False Frontiers: Diagnosing and Mitigating Co-Cheating in Self-Evolving Search Agents",
-      "url": "https://huggingface.co/papers/2609.39102",
-      "description": "Self-evolving search agents build their own training curricula by jointly optimizing a proposer that generates questions and a solver that answers them. This closed loop introduces a failure mode we c",
-      "published": "2026-09-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 68,
-      "is_new": true
-    },
-    {
-      "id": "d3851495f66d50575f392736e4f3a826",
-      "title": "Mid-Harness: Scaling Actions Between Model and Harness for Terminal Agents",
-      "url": "https://huggingface.co/papers/2609.39982",
-      "description": "Terminal agents act through stochastic model generations, yet the ability to generate a useful action does not ensure its reliable execution. A poor command (e.g., wrong package install) can change th",
-      "published": "2026-09-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 53,
-      "is_new": false
-    },
-    {
-      "id": "cd794969381f1ecd08db27865b644824",
-      "title": "Scaling Laws for Looped Mixture of Experts",
-      "url": "https://huggingface.co/papers/2609.40316",
-      "description": "Looped transformers and Mixture-of-Experts (MoE) offer complementary routes to efficient scaling: recurrence increases computational depth at fixed parameters, while MoE sparsity expands total capacit",
-      "published": "2026-09-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 5,
-      "is_new": false
-    },
-    {
-      "id": "3b55574e9d77aed2869d25046dbe4f45",
-      "title": "UniEvo-VL: An On-policy Self-Distillation Training Recipe for Multimodal Model Self-improvement",
-      "url": "https://huggingface.co/papers/2609.38721",
-      "description": "Modern multimodal models bring generation and understanding into a single unified system, which enables them to provide and learn from their own feedback. Motivated by this unified capacity, we introd",
-      "published": "2026-09-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 111,
-      "is_new": false
-    },
-    {
-      "id": "7e3a0d502f3c4866d917f902758b9f10",
-      "title": "PivotOPD: Learning to Recover from Pivotal Mistakes in Multi-Turn Agents",
-      "url": "https://huggingface.co/papers/2609.40285",
-      "description": "On-policy distillation (OPD) is a promising approach for training language agents, providing dense teacher supervision on student-generated trajectories. However, in multi-turn interaction, an incorre",
-      "published": "2026-09-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
-      "is_new": false
     },
     {
       "id": "de530855a6dcca52589b4ff569bf03d7",
@@ -1162,6 +1136,45 @@
       "is_new": false
     },
     {
+      "id": "e51819e07084f5388f50fdab903b4431",
+      "title": "SkillGym: Training Skill-Use Agents with Automatic Verifiable Environment Generation",
+      "url": "https://huggingface.co/papers/2609.37539",
+      "description": "Skills equip LLM agents with professional knowledge and guidance to complete long-horizon and complex tasks. Although skills have been widely adopted in recent agent paradigms and harnesses, how to sy",
+      "published": "2026-09-28T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "9807eaf3f93267ebe67b5da52952e0e6",
+      "title": "It's Not What the Image Shows: Irrelevant Context Destabilises VLM Judges Without Informing Them",
+      "url": "https://huggingface.co/papers/2609.37863",
+      "description": "Vision-language models (VLMs) are increasingly used in place of human annotators, making it important that substitutability tests reflect the model rather than incidental evaluation conditions. We int",
+      "published": "2026-09-28T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 14,
+      "is_new": true
+    },
+    {
+      "id": "aed887bea20de7d70549d9e910ceb19c",
+      "title": "LoopVL: Recurrent Visual Intelligence",
+      "url": "https://huggingface.co/papers/2609.38426",
+      "description": "We introduce LoopVL to study whether Loop Transformers can be effectively extended to vision- language models. LoopVL combines Module-Loop and Model-Loop computation to iteratively update a unified vi",
+      "published": "2026-09-28T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 7,
+      "is_new": true
+    },
+    {
       "id": "d616f0d86fb6bfd6bdbcc73e7b110ad1",
       "title": "Overcoming Scaling Limits in On-Policy Self-Distillation for LLM Reasoning",
       "url": "https://huggingface.co/papers/2609.37915",
@@ -1214,45 +1227,6 @@
       "is_new": true
     },
     {
-      "id": "e836c6743afc95ace6c056cff287f664",
-      "title": "EVOKE: Eliciting World Knowledge in Agents for Transferable Decision-Making",
-      "url": "https://huggingface.co/papers/2609.38334",
-      "description": "Large language models (LLMs) are increasingly deployed as agents for multi-step decision-making, yet transfer poorly to unseen environments. World-model methods address this by training agents to pred",
-      "published": "2026-09-28T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 35,
-      "is_new": true
-    },
-    {
-      "id": "62cd06a868c41148b1a3e87b39fabb47",
-      "title": "Breaking Babel: A Self-Evolving Multi-Agent System for Long-Form Subtitle Translation",
-      "url": "https://huggingface.co/papers/2609.38660",
-      "description": "Long-form subtitle translation requires reasoning over discourse and cultural context spanning episodes or entire series, while maintaining consistent terminology and style. Existing single-LLM method",
-      "published": "2026-09-28T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 12,
-      "is_new": false
-    },
-    {
-      "id": "8ce91125d33add7b19a51faadded416f",
-      "title": "AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks",
-      "url": "https://huggingface.co/papers/2609.38288",
-      "description": "We present AREX-2, an effort to advance the self-improving capability of LLM agents, which we define as the ability to iteratively refine a solution at test time. This ability rests on two complementa",
-      "published": "2026-09-28T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 64,
-      "is_new": false
-    },
-    {
       "id": "49881235",
       "title": "The Perfect Crime: LLM Agents Can Easily Tamper with Their Own Traces",
       "url": "https://perfect-crime.ai/",
@@ -1276,7 +1250,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 215,
+      "points": 216,
       "comments": 97,
       "is_new": false
     },
@@ -1292,6 +1266,34 @@
       "category": "news",
       "points": 2,
       "comments": 0,
+      "is_new": false
+    },
+    {
+      "id": "49877515",
+      "title": "Show HN: OpenAPPA – open-source deterministic guardrails that don't break agents",
+      "url": "https://www.openappa.com/",
+      "description": "",
+      "published": "2026-09-28T13:20:44Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 24,
+      "comments": 12,
+      "is_new": false
+    },
+    {
+      "id": "49873303",
+      "title": "Ask HN: Do you think AI agents can escape human control?",
+      "url": "https://news.ycombinator.com/item?id=49873303",
+      "description": "",
+      "published": "2026-09-28T03:36:14Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 3,
+      "comments": 10,
       "is_new": false
     }
   ],
@@ -1514,13 +1516,25 @@
         "is_new": false
       },
       {
-        "id": "b7ee266b3afff5b48a696bb452c70cf3",
-        "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
-        "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
-        "description": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
-        "published": "Tue, 29 Sep 2026 18:35:00 +0000",
+        "id": "28a5cadf6619423ecb3171dbcc8bec95",
+        "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+        "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+        "description": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+        "published": "Thu, 01 Oct 2026 12:00:00 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "5ee3ca38d10b45468d39b12fae8c3657",
+        "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
+        "url": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+        "description": "Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, recently started incorporating edits again, and today, it got some design tweaks as part of a v0.3 update, including a new logo and refreshes",
+        "published": "2026-10-01T06:04:13-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
         "is_new": false
@@ -1563,8 +1577,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 10,
-        "comments": 4,
+        "points": 13,
+        "comments": 5,
         "is_new": false
       },
       {
@@ -1579,18 +1593,6 @@
         "category": "news",
         "points": 1,
         "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "5ee3ca38d10b45468d39b12fae8c3657",
-        "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
-        "url": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
-        "description": "Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, recently started incorporating edits again, and today, it got some design tweaks as part of a v0.3 update, including a new logo and refreshes",
-        "published": "2026-09-30T20:23:45-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
         "is_new": false
       },
       {
