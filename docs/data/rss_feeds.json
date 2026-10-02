@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-02T20:40:51.156955+00:00",
+  "last_updated": "2026-10-02T22:01:23.259092+00:00",
   "total_entries": 110,
-  "new_entries": 32,
+  "new_entries": 35,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -168,16 +168,16 @@
       "is_new": false
     },
     {
-      "id": "28a5cadf6619423ecb3171dbcc8bec95",
-      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
-      "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-      "description": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
-      "published": "Thu, 01 Oct 2026 12:00:00 +0000",
+      "id": "f8f9945809c1e062c9fb5ef31d1793af",
+      "title": "Sean Parker is rebuilding Stability AI around music",
+      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "description": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+      "published": "Fri, 02 Oct 2026 21:09:14 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "ca751af23b3a59a952e8caf8e1f35c7d",
@@ -777,8 +777,20 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 2,
-      "comments": 0,
+      "points": 5,
+      "comments": 1,
+      "is_new": true
+    },
+    {
+      "id": "572d71e2575246edb315ef76f320c3d5",
+      "title": "Meta open sources code to let you make Muse AI gadgets",
+      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+      "description": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display t",
+      "published": "2026-10-02T17:08:37-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
       "is_new": true
     },
     {
@@ -893,18 +905,6 @@
       "category": "news",
       "points": 1,
       "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "cdc4b946eb2571997dabd0e216235da7",
-      "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
-      "description": "At OpenAI's annual DevDay conference, the company pulled out all the stops to compete with its rivals - primarily Meta, whose Muse AI agent platform has seen early runaway success. CEO Sam Altman walk",
-      "published": "2026-10-01T17:58:11-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
       "is_new": false
     },
     {
@@ -1024,7 +1024,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 5,
       "is_new": true
     },
     {
@@ -1050,21 +1050,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 10,
+      "likes": 18,
       "is_new": true
-    },
-    {
-      "id": "ad07e39614ce07f00ba0e349607d77b4",
-      "title": "Latent-Foresight: End-to-End Learning Predictable Representations for Latent World Models",
-      "url": "https://huggingface.co/papers/2610.01942",
-      "description": "Predicting the future evolution of a scene is a fundamental capability for world modeling. Recent work has shown that operating in the feature space of Vision Foundation Models (VFMs) yields semantica",
-      "published": "2026-09-30T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
     },
     {
       "id": "49911977",
@@ -1223,7 +1210,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 10,
+      "likes": 11,
       "is_new": false
     },
     {
@@ -1236,7 +1223,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 11,
+      "likes": 12,
       "is_new": false
     },
     {
@@ -1280,6 +1267,19 @@
       "points": 4,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "d76bfa61f91e30d16697a308caaa892c",
+      "title": "MemFold: Learning Compact Soft Memory for Long-Context Personalization via On-Policy Optimization",
+      "url": "https://huggingface.co/papers/2609.36435",
+      "description": "An assistant that serves the same user over a long horizon has to answer from what that user has revealed: which preferences still hold, which were revised, and which constraints apply now. Retaining ",
+      "published": "2026-09-28T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
     },
     {
       "id": "639e674843356fa0a9411f5a4f8a030f",
@@ -1418,16 +1418,16 @@
         "is_new": false
       },
       {
-        "id": "28a5cadf6619423ecb3171dbcc8bec95",
-        "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
-        "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-        "description": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
-        "published": "Thu, 01 Oct 2026 12:00:00 +0000",
+        "id": "f8f9945809c1e062c9fb5ef31d1793af",
+        "title": "Sean Parker is rebuilding Stability AI around music",
+        "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+        "description": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+        "published": "Fri, 02 Oct 2026 21:09:14 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
+        "is_new": true
       },
       {
         "id": "ca751af23b3a59a952e8caf8e1f35c7d",
@@ -1547,8 +1547,20 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 2,
-        "comments": 0,
+        "points": 5,
+        "comments": 1,
+        "is_new": true
+      },
+      {
+        "id": "572d71e2575246edb315ef76f320c3d5",
+        "title": "Meta open sources code to let you make Muse AI gadgets",
+        "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+        "description": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display t",
+        "published": "2026-10-02T17:08:37-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
         "is_new": true
       },
       {
@@ -1643,20 +1655,6 @@
         "url": "https://grist.lol/",
         "description": "",
         "published": "2026-10-01T23:37:11Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 1,
-        "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "49926274",
-        "title": "Show HN: Paper(Local CLI for Agent Debugging)",
-        "url": "https://news.ycombinator.com/item?id=49926274",
-        "description": "",
-        "published": "2026-10-01T19:51:13Z",
         "source_id": "hn-ai",
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
