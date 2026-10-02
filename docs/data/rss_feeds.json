@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-02T08:26:22.554905+00:00",
+  "last_updated": "2026-10-02T12:14:45.767942+00:00",
   "total_entries": 109,
-  "new_entries": 15,
+  "new_entries": 21,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -756,6 +756,18 @@
       "is_new": false
     },
     {
+      "id": "190c03ca19ef6f66b941c58697e73578",
+      "title": "AI music maker Suno now generates spoken words",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+      "description": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public beta across Suno's w",
+      "published": "2026-10-02T05:42:19-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "49928275",
       "title": "Show HN: Grist, open source coding harness",
       "url": "https://grist.lol/",
@@ -900,6 +912,84 @@
       "is_new": false
     },
     {
+      "id": "ad07e39614ce07f00ba0e349607d77b4",
+      "title": "Latent-Foresight: End-to-End Learning Predictable Representations for Latent World Models",
+      "url": "https://huggingface.co/papers/2610.01942",
+      "description": "Predicting the future evolution of a scene is a fundamental capability for world modeling. Recent work has shown that operating in the feature space of Vision Foundation Models (VFMs) yields semantica",
+      "published": "2026-09-30T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "dc3cd9134602ca07672210995bb91802",
+      "title": "Generalization Is Stability, Not Accuracy: Multi-Axis Evaluation of LLMs",
+      "url": "https://huggingface.co/papers/2610.01428",
+      "description": "Generalization in large language models (LLMs) is the ability to produce consistent and semantically stable outputs when the same input is expressed in different ways. Existing work typically evaluate",
+      "published": "2026-09-30T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
+    },
+    {
+      "id": "1178f9ddf726f86a3ed3ec98e5983704",
+      "title": "Before It Fades: Reinforcing Temporal Representations at Inference Time in VideoLLMs",
+      "url": "https://huggingface.co/papers/2610.01595",
+      "description": "Video Large Language Models (VideoLLMs) receive frames in sequential order and interpret how visual content evolves along the temporal axis, yet temporal reasoning remains a persistent weakness across",
+      "published": "2026-09-30T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "42813946381a224d215fc60338b684d0",
+      "title": "Fewer Tokens, Better Action: GPT-6 Astra Robot Agents with 14% Higher Success Rate but 65% Fewer Tokens",
+      "url": "https://huggingface.co/papers/2610.01939",
+      "description": "Vision language model (VLM) agents can control robots through visual feedback and action primitives, but repeated model invocations and redundant observations incur substantial token overhead. We intr",
+      "published": "2026-09-30T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 9,
+      "is_new": true
+    },
+    {
+      "id": "c15a718b35e17aae156eb6559eb1a293",
+      "title": "OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction",
+      "url": "https://huggingface.co/papers/2610.01762",
+      "description": "Streaming video LLMs must retain evidence before its relevance to future tasks is known and respond when sufficient evidence becomes available. The challenge is to form reusable factual memory without",
+      "published": "2026-09-30T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 62,
+      "is_new": true
+    },
+    {
+      "id": "23081154007354b03b9c67922bf6147b",
+      "title": "VTR-Bench: A Systematic Benchmark for Evaluating Visual Text Rendering in Video Generation",
+      "url": "https://huggingface.co/papers/2610.01499",
+      "description": "Recent video generation models can produce highly realistic videos from natural language instructions, with visual quality approaching cinematic standards. Existing evaluation benchmarks, however, pre",
+      "published": "2026-09-30T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "324d9ab879ae337b058858098b214e55",
       "title": "Omni-Embed-Mini: Binding Modalities Without Forgetting via Dense Distillation",
       "url": "https://huggingface.co/papers/2610.02148",
@@ -909,7 +999,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 6,
       "is_new": true
     },
     {
@@ -922,73 +1012,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 4,
       "is_new": true
-    },
-    {
-      "id": "d82806f4392273675e5acca40633a9a3",
-      "title": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
-      "url": "https://huggingface.co/papers/2610.02206",
-      "description": "LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations. However, existing evaluations focus on knowledge-based assessment",
-      "published": "2026-09-30T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": true
-    },
-    {
-      "id": "ea159f08c25ca12df21f8fff6e9f316b",
-      "title": "InterEvolve: Test-Time Evolution of Reward Programs for Humanoid Loco-Manipulation",
-      "url": "https://huggingface.co/papers/2610.02196",
-      "description": "We study test-time evolution for humanoid loco-manipulation: solving tasks that a controller was never trained for by repurposing its existing skills, improving from its own attempts, and retaining wh",
-      "published": "2026-09-30T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 6,
-      "is_new": true
-    },
-    {
-      "id": "ce58948687dc7b027138d5671a85ac04",
-      "title": "SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation",
-      "url": "https://huggingface.co/papers/2610.02201",
-      "description": "High-resolution 3D generation increasingly relies on voxel latents and multi-stage pipelines that first predict active structure and then synthesize local geometry. While effective, this design fragme",
-      "published": "2026-09-30T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 6,
-      "is_new": false
-    },
-    {
-      "id": "9c711da4a9e56177303393d5fcf6af86",
-      "title": "Argo-Bench: Evaluating Data Agents on Enterprise-Scale Workflows",
-      "url": "https://huggingface.co/papers/2610.02122",
-      "description": "Real-world enterprise data science and analytics workflows require reasoning across dozens of tables, performing statistical analyses, and acting on the results. Established text-to-SQL benchmarks eva",
-      "published": "2026-09-30T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "c066b866dbb7308a688e28ce4648b2d2",
-      "title": "Pay for the Fault, Not the Flow: Label-Free In-Flow Multi-Agent Workflow Optimization",
-      "url": "https://huggingface.co/papers/2610.01017",
-      "description": "Large language models (LLMs) increasingly construct multi-agent workflows that decompose a complex task and assign specialist agents from a pool. However, building such a workflow well remains challen",
-      "published": "2026-09-30T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
-      "is_new": false
     },
     {
       "id": "49911977",
@@ -1069,23 +1094,24 @@
       "is_new": false
     },
     {
+      "id": "b267b35b2a1f612aa59af64773eece98",
+      "title": "LOCI: Spatial Linear Memory for Streaming World Models",
+      "url": "https://huggingface.co/papers/2609.40222",
+      "description": "When a camera revisits a previously observed region, a video world model should reproduce what was there before. This requires both remembering past observations and retrieving the right one for the c",
+      "published": "2026-09-30T13:27:06.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
       "id": "44aebdaabbbf244ddb899389aeed160e",
       "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
       "description": "Meta launched a new Muse AI agent it claims can help you with everything from firing off emails to buying stuff online. Muse can be surprisingly effective at delivering on those promises — if you’re w",
       "published": "2026-09-30T11:18:49-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "338faf7edf9e9825e4cb2810eda372b4",
-      "title": "Google reportedly tests paying publishers for AI search results",
-      "url": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
-      "description": "Google has launched a pilot program that pays publishers for their contributions to its AI-powered search features, according to a report from The Information. The pilot program reportedly includes ar",
-      "published": "2026-09-30T10:55:21-04:00",
       "source_id": "theverge-ai",
       "source_name": "The Verge AI",
       "source_icon": "📰",
@@ -1121,6 +1147,45 @@
       "is_new": false
     },
     {
+      "id": "8346720264e7b4b2d3267ef8aab5f4b7",
+      "title": "JevSpawn: Adaptive Agentic Inference through Compositional Action Spaces",
+      "url": "https://huggingface.co/papers/2610.00437",
+      "description": "LLM agents generate intermediate reasoning and actions token by token, making extended interactions slow and computationally expensive. Jev-style models offer fast probabilistic predictions over finit",
+      "published": "2026-09-29T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "41fa10d564a463863382d9bb3c4c2d7b",
+      "title": "Architect-Ant: Editable Automatic Furnishing of Architectural Floor Plans",
+      "url": "https://huggingface.co/papers/2606.10953",
+      "description": "Furnished floor plans support real-estate visualization, interior design, and architectural workflows, yet automatic furnishing remains challenged by limited real-world data and the need to satisfy in",
+      "published": "2026-09-29T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
+    },
+    {
+      "id": "a9d5ac0687df957c7a93822283154baf",
+      "title": "PhysVista: Benchmarking Physical Intelligence in VLMs via a Perception-Reasoning-Assessment Loop",
+      "url": "https://huggingface.co/papers/2610.00559",
+      "description": "Vision-Language Models (VLMs) have shown strong multimodal reasoning capabilities, yet whether they truly capture the physical consistency underlying real-world dynamics remains unclear. Existing benc",
+      "published": "2026-09-29T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 7,
+      "is_new": true
+    },
+    {
       "id": "7451487dc43b5ad3b8a1fec69755509e",
       "title": "EgoTools: Towards Tool-Centric Reasoning in Real-World Egocentric Videos",
       "url": "https://huggingface.co/papers/2609.39378",
@@ -1130,7 +1195,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 17,
       "is_new": true
     },
     {
@@ -1143,73 +1208,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
-      "is_new": true
-    },
-    {
-      "id": "21eb62e6aa07c37568001d8f1b8e8ccb",
-      "title": "Memorizon: Training World Models Beyond Their Context Window",
-      "url": "https://huggingface.co/papers/2610.00544",
-      "description": "Streaming world models should render a place consistently across repeated visits. Directly supervising such revisits requires training samples that capture both visits, often spanning minutes. Yet den",
-      "published": "2026-09-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
       "likes": 3,
       "is_new": true
-    },
-    {
-      "id": "2c6362e3aa7b591065265d0f0a103fe2",
-      "title": "Benchmarking and Enhancing Skill-Level Memory for Partially Observable Robotic Manipulation",
-      "url": "https://huggingface.co/papers/2609.38886",
-      "description": "Recent advances in robot learning have enabled manipulation policies to perform increasingly diverse tasks and generalize across environments. However, reliable execution often depends on hidden task ",
-      "published": "2026-09-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": true
-    },
-    {
-      "id": "ab508c94a345dcd4216b025c4a362c96",
-      "title": "Smaller Models, Better Rejects: Preference Distillation Scaling",
-      "url": "https://huggingface.co/papers/2609.38987",
-      "description": "Preference distillation typically treats a teacher response as preferred and the student's own response as rejected. This assumes that self-generated failures are the most informative negatives and th",
-      "published": "2026-09-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": true
-    },
-    {
-      "id": "13f37ec9793063281b194d5e12512032",
-      "title": "Multimodal Flow: Unified Flow Modeling of Language and Vision in Embedding Spaces",
-      "url": "https://huggingface.co/papers/2609.40362",
-      "description": "We present Multimodal Flow, a fully continuous generative model of language and vision. Most unified multimodal models either model both language and quantized images as discrete tokens or combine dis",
-      "published": "2026-09-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 7,
-      "is_new": false
-    },
-    {
-      "id": "74fc672d959d7e0fce7f46871b7cccf4",
-      "title": "Make Sparse Rewards Count: Density-Aware Reward Aggregation for Multi-Reward RL",
-      "url": "https://huggingface.co/papers/2610.00574",
-      "description": "Multi-reward reinforcement learning trains large language models to satisfy multiple behavioral objectives simultaneously. Reward-wise normalization, as used in GDPO, preserves reward-specific relativ",
-      "published": "2026-09-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 20,
-      "is_new": false
     },
     {
       "id": "49893426",
@@ -1254,10 +1254,10 @@
       "is_new": false
     },
     {
-      "id": "f206ce2005e3593c2ac9da2d94961d84",
-      "title": "Devils in Question Relay: Source-Conditioned Relay Steering to Mitigate Hallucinations in Audio-visual Large Language Models",
-      "url": "https://huggingface.co/papers/2609.37568",
-      "description": "Audio-visual large language models (AVLLMs) have made remarkable progress in multimodal understanding and reasoning through interactions among visual, auditory, and linguistic information. However, re",
+      "id": "9359ee7bf69dc959c4b6e4ffd144a532",
+      "title": "Removing the NEEDLE in the Haystack: Backdoor Removal in LLMs via Weight Orthogonalisation",
+      "url": "https://huggingface.co/papers/2610.00348",
+      "description": "Backdoor attacks can be implanted in Large Language Models (LLMs) during training, causing unwanted behaviour when a trigger appears in the input. Existing backdoor defences for LLMs attempt to remove",
       "published": "2026-09-28T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
@@ -1267,29 +1267,29 @@
       "is_new": true
     },
     {
-      "id": "311205304caaf22fa1e7aac06ee1f8e7",
-      "title": "Explore Broadly, Reason Sharply: Push Small Models toward the Frontier via Sampling",
-      "url": "https://huggingface.co/papers/2609.38104",
-      "description": "Power-sharpened sampling is an inference-time alternative to reinforcement-learning (RL) post-training for enhancing reasoning in large language models (LLMs). High-probability sequences are amplified",
+      "id": "826cb96aed2587ff8ecd057b0f6f9d85",
+      "title": "CorrGRPO: Correlation-Normalized GRPO for Multi-Reward Learning",
+      "url": "https://huggingface.co/papers/2609.36820",
+      "description": "Group Relative Policy Optimization (GRPO) is widely used to train reasoning language models, where it computes advantages by centering and normalizing rewards across rollouts of the same prompt. For m",
       "published": "2026-09-28T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 10,
       "is_new": true
     },
     {
-      "id": "5080ab5813e149eea907841bc7268443",
-      "title": "Prefill-Free Cross-Family KV Cache Transfer for Heterogeneous Multi-Agent LLMs",
-      "url": "https://huggingface.co/papers/2609.32259",
-      "description": "Recent multi-agent LLM systems increasingly combine heterogeneous models for specialized agent roles. However, text-based communication requires each receiver to prefill shared context already process",
+      "id": "7773cdae76a42cc456f93133340c899a",
+      "title": "E-MoE: Enhanced Mixture-of-Experts for Non-Factorized Diffusion Language Models",
+      "url": "https://huggingface.co/papers/2609.37533",
+      "description": "Masked diffusion models (MDMs) generate sequences by progressively unmasking several tokens per denoising step, but their reverse process is typically factorized over positions, limiting sample qualit",
       "published": "2026-09-28T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 16,
       "is_new": true
     }
   ],
@@ -1524,6 +1524,18 @@
         "is_new": false
       },
       {
+        "id": "190c03ca19ef6f66b941c58697e73578",
+        "title": "AI music maker Suno now generates spoken words",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+        "description": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public beta across Suno's w",
+        "published": "2026-10-02T05:42:19-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "49928275",
         "title": "Show HN: Grist, open source coding harness",
         "url": "https://grist.lol/",
@@ -1651,20 +1663,6 @@
         "category": "news",
         "points": 14,
         "comments": 6,
-        "is_new": false
-      },
-      {
-        "id": "49913861",
-        "title": "Ask HN: How should MLE navigate career in today's industry?",
-        "url": "https://news.ycombinator.com/item?id=49913861",
-        "description": "",
-        "published": "2026-09-30T20:23:58Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 1,
-        "comments": 0,
         "is_new": false
       }
     ],
