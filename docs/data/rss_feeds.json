@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-07T05:51:46.060655+00:00",
+  "last_updated": "2026-10-07T13:02:32.004495+00:00",
   "total_entries": 108,
-  "new_entries": 2,
+  "new_entries": 22,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -758,6 +758,18 @@
       "is_new": false
     },
     {
+      "id": "49208ebca0b7c78221285a78f604df4f",
+      "title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
+      "description": "Common Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI's ChatGPT for Teens is an \"unacceptable risk.\" ChatGPT for",
+      "published": "2026-10-06T20:07:59-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "9edaf582bfe592c50620436c71d54676",
       "title": "OpenAI drops another batch of mathematical breakthroughs",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
@@ -780,7 +792,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 1,
-      "comments": 1,
+      "comments": 2,
       "is_new": false
     },
     {
@@ -798,17 +810,16 @@
       "is_new": false
     },
     {
-      "id": "d792cc980fa7bc6503390eceb346395c",
-      "title": "AdvSim2Real : Training Web Agents Against Adaptive Prompt Injection in a Web World Model",
-      "url": "https://huggingface.co/papers/2610.08773",
-      "description": "Web agents complete user requests by reading and acting on pages that third parties write, so an instruction planted on a page can redirect the agent away from the user's goal. The agent cannot simply",
-      "published": "2026-10-06T13:56:43.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
+      "id": "5b086971e9bdbe6679e76003ab6fa480",
+      "title": "AI could upend food delivery",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
+      "description": "DoorDash, the leading food delivery app, processed 970 million orders in its second quarter this year and generated $4.5 billion in revenue. A 10-person startup called Bites is a blip in comparison: I",
+      "published": "2026-10-06T13:54:19-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "9208b0a8180b04c5d21618f55f74f874",
@@ -875,10 +886,36 @@
       "is_new": false
     },
     {
-      "id": "0449bc8bb7be0f7da5a20dede7bbcade",
-      "title": "Towards In-Parameter Memory Augmentation for Large Language Models",
-      "url": "https://huggingface.co/papers/2610.08630",
-      "description": "Recently Large Language Models (LLMs) and LLM-based agents increasingly need to incorporate knowledge acquired after pretraining, e.g., domain facts, user preferences, documents, and interaction exper",
+      "id": "81f7b5bbc459b80a9987391d4d0c1c9b",
+      "title": "A Safe Action Is Not Enough: Feasible-Future Decoding for Vision-Language-Action Policies",
+      "url": "https://huggingface.co/papers/2610.05166",
+      "description": "A safe action is not necessarily a viable one. A frozen vision-language-action (VLA) policy can favor a locally admissible move that leaves no policy-supported route to safe task completion. We call t",
+      "published": "2026-10-05T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "e659c888fb0476b00a16394791050584",
+      "title": "DAEDALUS: Bootstrapping Agent Memory from Self-Generated Tasks",
+      "url": "https://huggingface.co/papers/2610.08048",
+      "description": "LLM agents often lack the operational knowledge to act reliably in new environments, as they must discover specific tool behaviors or environment conventions on their own. Without memory of past attem",
+      "published": "2026-10-05T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 5,
+      "is_new": true
+    },
+    {
+      "id": "e57296cdccc97890fcd780c15007e138",
+      "title": "CtrlCache: Accelerating Interactive Video World Models with Control-Aware Caching",
+      "url": "https://huggingface.co/papers/2610.08777",
+      "description": "Interactive video world models need to generate each video chunk efficiently while responding faithfully to user controls. Many systems use chunk-wise autoregressive generation with few-step denoising",
       "published": "2026-10-05T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
@@ -888,121 +925,30 @@
       "is_new": true
     },
     {
-      "id": "a20229c84fcc458aea70d87247bd221e",
-      "title": "From Evidence to Action: How Tool-Using Agents Fail",
-      "url": "https://huggingface.co/papers/2610.07753",
-      "description": "Tool-using agents make consequential changes to external state, yet correct outcomes do not guarantee that their actions were supported by evidence established beforehand. We study where this evidence",
+      "id": "46ffa179246f04e6ba0025395177aabc",
+      "title": "UNREAL: Unifying Retrieval and Long-Context with a Single Model",
+      "url": "https://huggingface.co/papers/2610.08463",
+      "description": "Long-context inference and Retrieval-Augmented Generation (RAG) handle evidence selection at vastly different scales, from a single long prompt to an entire corpus. We ask whether a single model-inter",
       "published": "2026-10-05T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 11,
-      "is_new": false
+      "likes": 16,
+      "is_new": true
     },
     {
-      "id": "9b3973422d540bb8a328ebb52bc178a6",
-      "title": "Rethinking Cross-Tokenizer On-Policy Distillation: From Alignment Coverage to Supervision Reliability",
-      "url": "https://huggingface.co/papers/2610.08448",
-      "description": "On-Policy Distillation (OPD) trains a student on its own generations using teacher feedback. With different tokenizers, comparing teacher and student predictions requires alignment at both sequence an",
+      "id": "0e0d3c6332d3a5df22dcdb9cd3d438ad",
+      "title": "NeMo-DCR: Bit-Exact Delta-Compressed Refit for Scalable Agentic RL at Trillion-Parameter Scale",
+      "url": "https://huggingface.co/papers/2610.08430",
+      "description": "Agentic reinforcement learning (RL) disaggregates training from rollout, so each policy update must reach the rollout clusters before the next batch. Transferring a full 1T checkpoint for such weight ",
       "published": "2026-10-05T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 28,
-      "is_new": false
-    },
-    {
-      "id": "e84a7d14adabb66948585d4a7626ce36",
-      "title": "TRACE: Rollout-Guided Quantization-Aware Training for FP4 Reinforcement Learning of MoE Language Models",
-      "url": "https://huggingface.co/papers/2610.07767",
-      "description": "Reinforcement learning (RL) for post-training large language models (LLMs) incurs substantial computation and memory overhead during rollout generation, which motivates low-precision rollout for effic",
-      "published": "2026-10-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 18,
-      "is_new": false
-    },
-    {
-      "id": "c33d4209434e6fb3ab97f1aa3b7a24ca",
-      "title": "Attacca: Goal-Directed Control under State Continuity for Long-Horizon Embodied Agents",
-      "url": "https://huggingface.co/papers/2610.07785",
-      "description": "A central capability of embodied agents is to accomplish complex objectives through sequences of interdependent tasks. Yet existing visual goal-conditioned policies underlying these agents are typical",
-      "published": "2026-10-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "c7128823637aa4960a6ff5a9b1f7895f",
-      "title": "Personal-Agent Mediated Recommendation with Cross-Platform User History",
-      "url": "https://huggingface.co/papers/2610.07588",
-      "description": "Modern recommendation is shifting from platform-centric personalization toward user-governed personalization, where a personal LLM agent can act on the user's behalf across services. We formalize this",
-      "published": "2026-10-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "cb2723d0a0a46c5d98dc63507aaa90c7",
-      "title": "EmbodiedSmith: Scaling Embodied Data through Recursive Self-Improvement Flywheel in Simulation",
-      "url": "https://huggingface.co/papers/2610.07969",
-      "description": "Scaling robotic foundation models requires diverse training data and reliable evaluation environments. Simulation offers a scalable solution, yet existing generation pipelines remain constrained by pr",
-      "published": "2026-10-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 6,
-      "is_new": false
-    },
-    {
-      "id": "28d048e5c8e06e53e17b4120bb001c1f",
-      "title": "VeriFine: Scaling Verification for Self-Improvement in Embodied Reasoning",
-      "url": "https://huggingface.co/papers/2610.08761",
-      "description": "Self-improving policies continually expose new failure patterns, changing what their judges must be able to verify. However, current fixed judges constrain both optimization feedback and the discovery",
-      "published": "2026-10-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "ce3334cd3f616bc4b09702fbc6366484",
-      "title": "World Models' Last Exam in Physics",
-      "url": "https://huggingface.co/papers/2610.08791",
-      "description": "Video world models can produce visually convincing yet physically inconsistent sequences, raising concerns about their reliability for prediction and planning in embodied AI systems. Existing evaluati",
-      "published": "2026-10-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "d1dda2f936e75e460f9bb622559c9630",
-      "title": "Building Rome from a Single Image",
-      "url": "https://huggingface.co/papers/2610.08790",
-      "description": "Single-image scene generation aims to produce a complete 3D scene mesh from a single image, including surfaces the camera did not observe. While pretrained 3D object generators encode a strong shape p",
-      "published": "2026-10-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
+      "likes": 8,
+      "is_new": true
     },
     {
       "id": "a2b98cad80f6c5b531d60eaa8f1d25af",
@@ -1053,18 +999,6 @@
       "is_new": false
     },
     {
-      "id": "97af931021b60f6521c1d5e0e4c1867b",
-      "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
-      "description": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. OpenAI says its textGrain watermarking \"matched or excee",
-      "published": "2026-10-05T14:08:39-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "49965022",
       "title": "How we built a browser agent with Jev instead of an LLM",
       "url": "https://ironbee.ai/blog/how-we-built-the-fastest-cheapest-browser-agent-with-jev",
@@ -1077,31 +1011,6 @@
       "points": 2,
       "comments": 0,
       "is_new": false
-    },
-    {
-      "id": "69da73e8cd7f75ed7327ef986094a000",
-      "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
-      "description": "An OpenAI publicist tried to change the topic of CEO Sam Altman's interview with Vanity Fair's Mark Guiducci after the editor brought up a ChatGPT user's suicide. When Guiducci confronted Altman about",
-      "published": "2026-10-05T13:32:59-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "5446a9292e552c64b25d55c9b1f68c06",
-      "title": "MEND: RL For Flow Models via Proximal Velocity Matching",
-      "url": "https://huggingface.co/papers/2610.05954",
-      "description": "Reward post-training of flow models either reweights the model's own samples under a KL penalty or a frozen reference, often for thousands of updates, or backpropagates the reward and moves every samp",
-      "published": "2026-10-05T04:07:18.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": true
     },
     {
       "id": "49960535",
@@ -1118,43 +1027,56 @@
       "is_new": false
     },
     {
-      "id": "05f445a4438a5988657e6927542b32f1",
-      "title": "Understanding and Enhancing Backdoor Persistency in LLM Agent Post-Training",
-      "url": "https://huggingface.co/papers/2610.07510",
-      "description": "Developers can build LLM agents by adapting third-party models through benign post-training. We study a supply-chain threat in which an attacker supplies a model with a backdoor: hidden behavior that ",
+      "id": "a9b52832d93814bf179c00ce76434550",
+      "title": "Conditional Trajectory Peaks: Single-Pass Multimodal Policies over Action Chunks",
+      "url": "https://huggingface.co/papers/2610.06104",
+      "description": "Multimodal imitation learning requires diverse executable futures under the same observation and consistent behavior across replanning cycles. We present Conditional Trajectory Peaks (CTP), a single-p",
       "published": "2026-10-04T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
-      "is_new": false
+      "likes": 0,
+      "is_new": true
     },
     {
-      "id": "d3588f7fb8b6d9ef1c800ec1e36e5d91",
-      "title": "HuatuoGPT-3: RL-Only Domain Adaptation from Base Models",
-      "url": "https://huggingface.co/papers/2610.05966",
-      "description": "Domain adaptation aims to turn a general-purpose large language model (LLM) into an expert for a target domain. While the dominant SFT+RL pipeline offers a convenient cold start, it may reduce explora",
+      "id": "c0fa8aee2e6c8946ff65058bc80d4858",
+      "title": "Execution-Aligned Progressive Noise for Consistent Asynchronous Replanning in Generative Robot Policies",
+      "url": "https://huggingface.co/papers/2610.06090",
+      "description": "Continuous asynchronous replanning is essential for real-time generative robot policies, but independent stochastic initialization can cause mode switching and inconsistent continuation across action ",
       "published": "2026-10-04T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 15,
-      "is_new": false
+      "likes": 0,
+      "is_new": true
     },
     {
-      "id": "a5c34067028719b843e4e78b213a854a",
-      "title": "Judged Useless, Queried Anyway: Tool-Using Agents Rarely Turn Their Own Evidence Judgments into Stopping Decisions",
-      "url": "https://huggingface.co/papers/2610.06191",
-      "description": "An agent whose tool keeps returning nothing useful should stop relying on it. In a retrieval environment with controlled source failures, we separate how agents judge results from what they do. We com",
+      "id": "b2ddd6432edfcb19da7d69ed9aa675ce",
+      "title": "WildMatch: Weakly Supervised Image Matcher Adaptation for Wildlife Re-Identification",
+      "url": "https://huggingface.co/papers/2610.07384",
+      "description": "Individual animal re-identification from camera-trap imagery is an instance retrieval problem central to non-invasive wildlife monitoring: a query image must retrieve the correct individual from a ref",
       "published": "2026-10-04T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "id": "fa7160bfd041558711a69d524f623bbd",
+      "title": "Learning to Read the Contextual Tokens in Diffusion Transformers",
+      "url": "https://huggingface.co/papers/2610.06844",
+      "description": "Multimodal Diffusion Transformers (MM-DiTs) jointly process visual and textual representations throughout generation. These models repeatedly update the text tokens through multimodal attention, formi",
+      "published": "2026-10-04T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
     },
     {
       "id": "49954491",
@@ -1168,32 +1090,6 @@
       "category": "news",
       "points": 1,
       "comments": 1,
-      "is_new": false
-    },
-    {
-      "id": "c581f25271315c6aa02079b66719f41f",
-      "title": "AutoSciBench: Autonomous Benchmark Generation for Evaluating Scientific Agents",
-      "url": "https://huggingface.co/papers/2610.05140",
-      "description": "As agents rapidly evolve, existing benchmarks can become saturated, limiting their ability to distinguish capabilities and reveal remaining failure modes. Particularly in scientific domains, construct",
-      "published": "2026-10-03T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 17,
-      "is_new": false
-    },
-    {
-      "id": "11dc1ab766cadc86bb162bb7c59a50c0",
-      "title": "EVISKILL: Grounding Skill Evolution in Replayable Evidence",
-      "url": "https://huggingface.co/papers/2610.05030",
-      "description": "Continual skill evolution enables LLM agents to accumulate and refine reusable procedural knowledge from interaction experience without updating model parameters. Its effectiveness depends on determin",
-      "published": "2026-10-03T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 11,
       "is_new": false
     },
     {
@@ -1225,17 +1121,56 @@
       "is_new": false
     },
     {
-      "id": "966243ca361948c2ad05486c2c2ff598",
-      "title": "DistScene: Object-to-Scene Distillation for 3D Scene Generation",
-      "url": "https://huggingface.co/papers/2610.06960",
-      "description": "We present DistScene, a framework for single-image compositional 3D scene generation by jointly modeling the environment and individual objects. Unlike existing methods that represent scenes primarily",
+      "id": "b7fa4f6d223e9f406d0b9eda0665753e",
+      "title": "DiffGate: Difficulty-Gated Teacher Guidance for On-Policy Distillation",
+      "url": "https://huggingface.co/papers/2610.04596",
+      "description": "On-policy distillation (OPD) has emerged as a widely used paradigm for post-training large language models, reducing the train--test mismatch of conventional distillation by supervising the student on",
       "published": "2026-10-02T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
-      "is_new": false
+      "likes": 4,
+      "is_new": true
+    },
+    {
+      "id": "b0f02305b424046ab09b4616678a127b",
+      "title": "Toward Real-Time VLAs: Stage-Aware Two-Step Flow Denoising and System-Level Evaluation",
+      "url": "https://huggingface.co/papers/2609.39822",
+      "description": "Vision-language-action (VLA) models face a timing gap between low-rate inference and high-rate robot execution. We characterize this gap through end-to-end latency measurements of model inference and ",
+      "published": "2026-10-02T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "96a6cf965b2254e5e9925d1f3d550cd9",
+      "title": "Magic-W0: A Structured World-Action Foundation Model for Physical Intelligence",
+      "url": "https://huggingface.co/papers/2609.39870",
+      "description": "World-action models (WAMs) augment robot policies with action-conditioned environment dynamics, yet existing approaches largely rely on future observation reconstruction or generic latent prediction a",
+      "published": "2026-10-02T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "f45e60a9091ad3aa62e1c1342e4d85a9",
+      "title": "Learning Discriminative Geometry for Drifting Models",
+      "url": "https://huggingface.co/papers/2610.04703",
+      "description": "Recently proposed Drifting Models shift iterative distribution refinement from inference to training, enabling effective one-step generation. However, their performance on complex image datasets depen",
+      "published": "2026-10-02T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
     },
     {
       "id": "49928275",
@@ -1252,17 +1187,30 @@
       "is_new": false
     },
     {
-      "id": "e73f97948e95005e38572c9a1c22e030",
-      "title": "World Action Learning via Interaction-Centric Spectral Latent Guidance",
-      "url": "https://huggingface.co/papers/2610.03607",
-      "description": "Learning general-purpose robot policies requires large-scale real-world interaction data, yet collecting robot demonstrations remains expensive and difficult to scale. Egocentric videos offer abundant",
+      "id": "b54400c97a6d5107ab78f99f5aa49a21",
+      "title": "Do Language Models Need a Trainable Input Embedding Table? Fixed Minimal Token Codes at 1.7B-Class Scale",
+      "url": "https://huggingface.co/papers/2610.04002",
+      "description": "A trainable input embedding table assigns each vocabulary item an independently adjustable vector. We investigate whether this token-specific parameterization is required for substantial language-mode",
       "published": "2026-10-01T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 21,
-      "is_new": false
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "deb3169bf39428d76ae1dafa863cc0d0",
+      "title": "Harness-Aware Distillation for Small Language Model Agents",
+      "url": "https://huggingface.co/papers/2610.02858",
+      "description": "Language model agents are deployed with a harness, the software around the model that manages its context, tools, and feedback. When such an agent is distilled into a smaller one, the harness stays in",
+      "published": "2026-10-01T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
     },
     {
       "id": "49926274",
@@ -1288,8 +1236,64 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": false
+    },
+    {
+      "id": "49917116",
+      "title": "Universal Modder: Let Any AI Coding Agent Mod Almost Any PC Game",
+      "url": "https://github.com/rehan-remade/universal-modder",
+      "description": "",
+      "published": "2026-10-01T02:48:15Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 3,
+      "comments": 0,
+      "is_new": false
+    },
+    {
+      "id": "49916751",
+      "title": "Ask HN: My agent went haywire, does this output mean anything?",
+      "url": "https://news.ycombinator.com/item?id=49916751",
+      "description": "",
+      "published": "2026-10-01T01:55:42Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
       "points": 1,
       "comments": 0,
+      "is_new": false
+    },
+    {
+      "id": "49914005",
+      "title": "Show HN: Perspica – A semantic diff for reviewing code",
+      "url": "https://github.com/sshah03/perspica",
+      "description": "",
+      "published": "2026-09-30T20:34:49Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 15,
+      "comments": 7,
+      "is_new": false
+    },
+    {
+      "id": "49913861",
+      "title": "Ask HN: How should MLE navigate career in today's industry?",
+      "url": "https://news.ycombinator.com/item?id=49913861",
+      "description": "",
+      "published": "2026-09-30T20:23:58Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 1,
       "is_new": false
     }
   ],
@@ -1888,6 +1892,18 @@
         "is_new": false
       },
       {
+        "id": "49208ebca0b7c78221285a78f604df4f",
+        "title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
+        "description": "Common Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI's ChatGPT for Teens is an \"unacceptable risk.\" ChatGPT for",
+        "published": "2026-10-06T20:07:59-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "9edaf582bfe592c50620436c71d54676",
         "title": "OpenAI drops another batch of mathematical breakthroughs",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
@@ -1910,7 +1926,7 @@
         "source_icon": "🟧",
         "category": "news",
         "points": 1,
-        "comments": 1,
+        "comments": 2,
         "is_new": false
       },
       {
@@ -1926,6 +1942,18 @@
         "points": 1,
         "comments": 0,
         "is_new": false
+      },
+      {
+        "id": "5b086971e9bdbe6679e76003ab6fa480",
+        "title": "AI could upend food delivery",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
+        "description": "DoorDash, the leading food delivery app, processed 970 million orders in its second quarter this year and generated $4.5 billion in revenue. A 10-person startup called Bites is a blip in comparison: I",
+        "published": "2026-10-06T13:54:19-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
       },
       {
         "id": "9208b0a8180b04c5d21618f55f74f874",
@@ -1997,30 +2025,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
         "description": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory s",
         "published": "2026-10-05T19:09:55-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "aea90afb465bda47fa05f41b5fc945d8",
-        "title": "Wikipedia operator says OpenAI&#8217;s &#8216;rogue&#8217; bots may be linked to a May outage",
-        "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
-        "description": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we have discovered some a",
-        "published": "2026-10-05T18:22:32-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "5b8c439bb6210497720a347061b088f4",
-        "title": "This startup is issuing AI-generated acne prescriptions",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
-        "description": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan their faces using its app, allowing its AI",
-        "published": "2026-10-05T16:14:57-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
