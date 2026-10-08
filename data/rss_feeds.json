@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-08T05:56:04.314371+00:00",
+  "last_updated": "2026-10-08T13:09:41.556164+00:00",
   "total_entries": 110,
-  "new_entries": 1,
+  "new_entries": 15,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,6 +768,34 @@
       "is_new": false
     },
     {
+      "id": "50004719",
+      "title": "Show HN: Open-Source DaiDocs now beats Graphify by 218x low tokens, 83% on LME",
+      "url": "https://github.com/Kerneta/daidocs",
+      "description": "",
+      "published": "2026-10-08T11:50:56Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "50003569",
+      "title": "Show HN: LLMSchema – Dump your database schema as compact Markdown for AI agents",
+      "url": "https://github.com/tordrt/LLMSchema",
+      "description": "",
+      "published": "2026-10-08T09:13:35Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "49998857",
       "title": "Show HN: Chloe is a TypeScript AI agent",
       "url": "https://chloejs.org/compare",
@@ -817,8 +845,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 14,
-      "comments": 5,
+      "points": 15,
+      "comments": 6,
       "is_new": false
     },
     {
@@ -845,8 +873,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 52,
-      "comments": 44,
+      "points": 63,
+      "comments": 46,
       "is_new": false
     },
     {
@@ -962,6 +990,45 @@
       "is_new": false
     },
     {
+      "id": "fc3decdccf93ce80b3adad8bcdf86fb9",
+      "title": "Q-Learning with Scalar Adjoint Matching",
+      "url": "https://huggingface.co/papers/2610.10437",
+      "description": "Flow policies capture rich and diverse action distributions, and fine-tuning them with off-policy RL to improve beyond the demonstrations has drawn growing interest. However, fine-tuning a flow policy",
+      "published": "2026-10-06T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "3937054ccebda8a8452e89e91404bf48",
+      "title": "UniSkill: Learning Actor-Aligned Skill Proposals for an Evolving Policy",
+      "url": "https://huggingface.co/papers/2610.10164",
+      "description": "Large language model agents can improve across tasks by retaining reusable skills distilled from prior interactions. Recent work jointly optimizes task execution and skill extraction, enabling the pol",
+      "published": "2026-10-06T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
+    },
+    {
+      "id": "e973666482a35aac6fa4bb8a9f91c874",
+      "title": "EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory",
+      "url": "https://huggingface.co/papers/2610.10533",
+      "description": "Conditional memory architectures such as DeepSeek Engram use input n-grams to look up learned embeddings, expanding the capacity of large language models (LLMs) with limited additional computation. Be",
+      "published": "2026-10-06T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
       "id": "f20132bac4032bfcefc6f248f67af288",
       "title": "From Pareto to Preference: Personalized Test-Time Scaling via Amortized Agentic Policy Discovery",
       "url": "https://huggingface.co/papers/2610.09684",
@@ -971,7 +1038,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 14,
       "is_new": true
     },
     {
@@ -984,7 +1051,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
+      "likes": 10,
       "is_new": false
     },
     {
@@ -997,85 +1064,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "73d3af9020709f8dc4ceb27b92f8db75",
-      "title": "Tetris3D: 3D Scene Generation With Objects That Fit Together",
-      "url": "https://huggingface.co/papers/2610.10539",
-      "description": "We propose Tetris3D, a generative framework for single-image 3D scene reconstruction that recovers objects which are physically and geometrically coherent as a scene. Existing methods often generate o",
-      "published": "2026-10-06T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 26,
-      "is_new": false
-    },
-    {
-      "id": "6dea9839d1b68a99a2e609462eaa4a1f",
-      "title": "SWE-Game: Can Coding Agents Build the Games We Want?",
-      "url": "https://huggingface.co/papers/2609.33678",
-      "description": "We introduce SWE-Game, a benchmark of 247 tasks grounded in 41 executable reference Godot games spanning 13 gameplay categories in 2D and 3D. Five task types cover development from a brief, implementa",
-      "published": "2026-10-06T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 17,
-      "is_new": false
-    },
-    {
-      "id": "b948627c442cf6cfc0147ded261172e8",
-      "title": "RunningTab: Direct Workspace Interaction with Environment-Side Tabs",
-      "url": "https://huggingface.co/papers/2610.10444",
-      "description": "Much knowledge work produces new deliverables from files a workspace already holds, and LLM agents are beginning to take such work over. Through direct corpus interaction, an agent can search and read",
-      "published": "2026-10-06T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 25,
-      "is_new": false
-    },
-    {
-      "id": "707e60e67729026b3d3d8ae9ab2d70ac",
-      "title": "RobotWorld: Benchmarking Multimodal Agents for Robot Use Across Diverse Tasks and Embodiments",
-      "url": "https://huggingface.co/papers/2610.10409",
-      "description": "General-purpose agents increasingly write code, use tools, and complete complex digital tasks, raising the question of how far these capabilities carry into the physical world. To investigate this, we",
-      "published": "2026-10-06T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 18,
-      "is_new": false
-    },
-    {
-      "id": "48d67725b8edc26fe2006a0f5ead7b0f",
-      "title": "RoboQuest: Generalist Physical Agents that Search, Inspect and Test",
-      "url": "https://huggingface.co/papers/2610.10388",
-      "description": "Recent advances in multimodal foundation models have made them capable generalist physical agents for a range of manipulation tasks. However, successful operation in an unfamiliar environment may requ",
-      "published": "2026-10-06T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "e09baf3c2b2c78a38bdfd7316532709c",
-      "title": "UltraText Bench: A Comprehensive Bilingual Benchmark for Evaluating Visual Text Rendering in Image Generation",
-      "url": "https://huggingface.co/papers/2610.09823",
-      "description": "Dense visual text requires image generators to reproduce long strings across multiple regions with correct placement and legibility. As short-string rendering improves, evaluation must test sustained ",
-      "published": "2026-10-06T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 12,
+      "likes": 5,
       "is_new": false
     },
     {
@@ -1145,6 +1134,45 @@
       "is_new": false
     },
     {
+      "id": "345bc369bc7655aedc034aff6ca9cb33",
+      "title": "A self-learning scientific agent for X-ray diffraction",
+      "url": "https://huggingface.co/papers/2610.07862",
+      "description": "A central challenge for scientific agents is to turn analytical experience into reusable expertise grounded in physical evidence. Here we introduce Gan Jiang, a self-learning agent for powder X-ray di",
+      "published": "2026-10-05T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 6,
+      "is_new": true
+    },
+    {
+      "id": "ffd55d447de781e7c99418f890583934",
+      "title": "CADFather: Autonomous CAD Reconstruction through Coordinated Tool Use",
+      "url": "https://huggingface.co/papers/2610.09127",
+      "description": "Reconstructing an editable CAD model from a 3D shape remains a challenging engineering task. Existing methods can propose CAD operations, but no single source of proposals works equally well across di",
+      "published": "2026-10-05T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "06c9c3da622ba793a0b0786f67bbee3e",
+      "title": "Task-Sufficient Contraction: Source Selection for Machine Information Interfaces",
+      "url": "https://huggingface.co/papers/2610.08884",
+      "description": "A declared task can sometimes certify a reduced source before a downstream encoder, codebook, rate, distortion target, or optimizer is chosen. This paper studies when one such reduction preserves the ",
+      "published": "2026-10-05T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "af0596294550ab61cddf267e92f41b54",
       "title": "PhysEvo: Astra Can Act, Let It",
       "url": "https://huggingface.co/papers/2610.08995",
@@ -1154,7 +1182,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 17,
       "is_new": false
     },
     {
@@ -1167,33 +1195,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
-      "is_new": false
-    },
-    {
-      "id": "9fa9ea92b4943c8d4f1ad374f2664c1c",
-      "title": "DLoop: Looped Speculative Decoding",
-      "url": "https://huggingface.co/papers/2610.07659",
-      "description": "Speculative decoding accelerates autoregressive generation in large language models. In each drafting stage, a lightweight draft model proposes tokens that the target model subsequently verifies. With",
-      "published": "2026-10-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
-      "is_new": false
-    },
-    {
-      "id": "a3a24dbeac74193691d579d07fc0fb93",
-      "title": "Improving Proactive AI Assistance with Hierarchical Procedural Understanding",
-      "url": "https://huggingface.co/papers/2610.06505",
-      "description": "Proactive AI assistants continuously observe a user's activity and decide whether to provide new guidance or remain silent. They should provide appropriate guidance for the task, determine when to pro",
-      "published": "2026-10-05T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 5,
+      "likes": 1,
       "is_new": false
     },
     {
@@ -1211,6 +1213,19 @@
       "is_new": false
     },
     {
+      "id": "8dae3cb016db8ebd0da1a87da349c6ac",
+      "title": "TIDES: Implicit Time-Awareness in Selective State Space Models",
+      "url": "https://huggingface.co/papers/2605.09742",
+      "description": "Selective state space models (SSMs), such as Mamba, achieve strong per-token expressivity by making the time discretization step TildeΔ a learned function of the input. However, in doing so, TildeΔ no",
+      "published": "2026-10-04T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "e6d3492388ed3ac70ede47860ead282b",
       "title": "Internalizing Agent Experience into Diffusion Model Weights via On-Policy Context Distillation",
       "url": "https://huggingface.co/papers/2610.07250",
@@ -1220,20 +1235,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
-      "is_new": false
-    },
-    {
-      "id": "d377c7a03e19148894b48f189cef2943",
-      "title": "VepAgent: Bridging Causal-Transition via Tool-Augmented Reinforcement Learning for Video Event Prediction",
-      "url": "https://huggingface.co/papers/2610.06293",
-      "description": "Multimodal Large Language Models (MLLMs) have demonstrated remarkable potential in video understanding, yet their reliance on retrospective summarization and text-centric priors often limits their abi",
-      "published": "2026-10-04T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
+      "likes": 8,
       "is_new": false
     },
     {
@@ -1249,6 +1251,19 @@
       "points": 1,
       "comments": 1,
       "is_new": false
+    },
+    {
+      "id": "71841f6b8eb4f283be45e1e157e73d6c",
+      "title": "SheetSage2: Coherent Lead-Sheet Transcription with Synthetic Supervision",
+      "url": "https://huggingface.co/papers/2610.05336",
+      "description": "Transcribing music into a human-readable score requires a coherent understanding of rhythm, harmony, melody, and form. Two obstacles limit this goal: annotated recordings are scarce, and accurate loca",
+      "published": "2026-10-03T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
     },
     {
       "id": "49944056",
@@ -1276,20 +1291,6 @@
       "category": "news",
       "points": 9,
       "comments": 1,
-      "is_new": false
-    },
-    {
-      "id": "49928275",
-      "title": "Show HN: Grist, open source coding harness",
-      "url": "https://grist.lol/",
-      "description": "",
-      "published": "2026-10-01T23:37:11Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 1,
-      "comments": 0,
       "is_new": false
     }
   ],
@@ -1536,6 +1537,34 @@
         "is_new": false
       },
       {
+        "id": "50004719",
+        "title": "Show HN: Open-Source DaiDocs now beats Graphify by 218x low tokens, 83% on LME",
+        "url": "https://github.com/Kerneta/daidocs",
+        "description": "",
+        "published": "2026-10-08T11:50:56Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 2,
+        "comments": 0,
+        "is_new": true
+      },
+      {
+        "id": "50003569",
+        "title": "Show HN: LLMSchema – Dump your database schema as compact Markdown for AI agents",
+        "url": "https://github.com/tordrt/LLMSchema",
+        "description": "",
+        "published": "2026-10-08T09:13:35Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 2,
+        "comments": 0,
+        "is_new": true
+      },
+      {
         "id": "49998857",
         "title": "Show HN: Chloe is a TypeScript AI agent",
         "url": "https://chloejs.org/compare",
@@ -1585,8 +1614,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 14,
-        "comments": 5,
+        "points": 15,
+        "comments": 6,
         "is_new": false
       },
       {
@@ -1613,8 +1642,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 52,
-        "comments": 44,
+        "points": 63,
+        "comments": 46,
         "is_new": false
       },
       {
@@ -1635,32 +1664,6 @@
         "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
         "description": "At today's Windows and Surface event, Microsoft showed off an upgrade to its Copilot AI system that will give it access to local files on your PC and the ability to take actions across the OS. It's pa",
         "published": "2026-10-07T16:26:53-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "49994981",
-        "title": "Compiling the jobs AI agents repeat: 58% fewer LLM calls",
-        "url": "https://www.tryagentcompile.com/",
-        "description": "",
-        "published": "2026-10-07T16:22:46Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 2,
-        "comments": 1,
-        "is_new": false
-      },
-      {
-        "id": "46b0057f882868d6b4f3cd99edd878d5",
-        "title": "Surface RTX Spark Dev Box is available for preorder for $5,999",
-        "url": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder",
-        "description": "Microsoft's Nvidia-powered Surface RTX Spark Dev Box is available for preorder now and is slated to ship in November for just about $6,000. It's pricier than the DGX Spark mini PC Nvidia launched last",
-        "published": "2026-10-07T15:30:04-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
