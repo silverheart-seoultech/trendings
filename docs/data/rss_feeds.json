@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-09T07:20:22.857206+00:00",
+  "last_updated": "2026-10-09T12:56:20.301664+00:00",
   "total_entries": 110,
-  "new_entries": 7,
+  "new_entries": 19,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,6 +768,18 @@
       "is_new": false
     },
     {
+      "id": "f54a601ae623877ae183b5520feb4cdd",
+      "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+      "description": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine",
+      "published": "2026-10-09T05:48:26-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "6b44d5cdfd6f4fb3794f8588a00c2250",
       "title": "Anthropic launches free AI security scans for open-source projects",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
@@ -946,6 +958,97 @@
       "is_new": false
     },
     {
+      "id": "55cd7c4001de226a48e23ad13478b032",
+      "title": "One Block, Multiple Depths: Recurrent Vision Transformers with Depth-Programmed Experts",
+      "url": "https://huggingface.co/papers/2610.12448",
+      "description": "In this work, we show that a single Transformer block, applied recurrently, can match the accuracy of a full-depth vision encoder at comparable inference FLOPs without intermediate feature distillatio",
+      "published": "2026-10-07T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "1e682d879c4db5509edc1e386bf38018",
+      "title": "A Closer Look at Agentic BBO: Benchmarking LLM Agents for Black-Box Optimization",
+      "url": "https://huggingface.co/papers/2610.12183",
+      "description": "Black-box optimization (BBO) arises in many scientific and engineering problems where objective evaluations are expensive and limited. Recent large language model (LLM) agents offer a new way to appro",
+      "published": "2026-10-07T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "b9f01c571bacd5a5e5cb7f88f58f6ad8",
+      "title": "Memento 3: Model-Based Recursive Self-Improvement through Reflective Rulebooks",
+      "url": "https://huggingface.co/papers/2610.11794",
+      "description": "Learning to act in unfamiliar environments requires agents to infer how the world works and revise that understanding as new evidence arrives. Yet limited observations can support multiple world model",
+      "published": "2026-10-07T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 14,
+      "is_new": true
+    },
+    {
+      "id": "4f3875a512d38ee63bdedcc0e07d2cb7",
+      "title": "SpaceFlow: Locally Controllable 3D Generation",
+      "url": "https://huggingface.co/papers/2610.12399",
+      "description": "Current 3D generation methods lack explicit local control: geometric adherence is often defined by a global control strength, and appearance cannot be specified locally. We present SpaceFlow, a traini",
+      "published": "2026-10-07T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
+    },
+    {
+      "id": "3281bd7fa6f93a82c73d21e7264ffc60",
+      "title": "REMORY: Learning Residual Memory for Context Compaction",
+      "url": "https://huggingface.co/papers/2610.11287",
+      "description": "Long-horizon agents compact their history to continue within a finite context window, but a textual summary alone may not support every subsequent decision. We introduce REMORY, a neural memory networ",
+      "published": "2026-10-07T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "1a7f85e9169ae9e5ff60476b80e59720",
+      "title": "WorldGuide: Goal-Directed Video World Model for Procedural Task Execution",
+      "url": "https://huggingface.co/papers/2610.12459",
+      "description": "Video generators and video-based world models can synthesize plausible visual trajectories, but long-horizon procedural tasks require generation to adapt to what has actually been produced. A model mu",
+      "published": "2026-10-07T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
+    },
+    {
+      "id": "7f7dec69fa449005141074e38b438d8b",
+      "title": "Beyond Spatio-Temporal Priors: A Generalizable Approach for Dense Correspondence Matching",
+      "url": "https://huggingface.co/papers/2610.12421",
+      "description": "Dense correspondence matching has historically been bounded by simplifying spatio-temporal priors, such as smooth motion and rigid geometry. While effective for classical tasks, these assumptions brea",
+      "published": "2026-10-07T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 24,
+      "is_new": true
+    },
+    {
       "id": "5a22baaad9f8d6601a3a4131ad880cdd",
       "title": "MARGIN: Runtime Confidence Calibration for Multi-Agent Foundation Model Coordination",
       "url": "https://huggingface.co/papers/2605.22949",
@@ -968,7 +1071,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 35,
+      "likes": 51,
       "is_new": true
     },
     {
@@ -981,7 +1084,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 17,
+      "likes": 27,
       "is_new": true
     },
     {
@@ -994,7 +1097,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 22,
+      "likes": 29,
       "is_new": true
     },
     {
@@ -1002,84 +1105,6 @@
       "title": "BrickBench: Evaluating Agentic Brick Design",
       "url": "https://huggingface.co/papers/2610.12452",
       "description": "We propose BrickBench, a benchmark for agentic text-conditioned LEGO-set design. Given a prompt, an agent is tasked with producing an assembly that not only satisfies semantic and design criteria, but",
-      "published": "2026-10-07T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
-      "is_new": false
-    },
-    {
-      "id": "e42ed8d06610fa62826769b8a5093c70",
-      "title": "OmniCapBench: A Deep-Structured Evaluation Framework for Fine-Grained Audio-Visual Captioning",
-      "url": "https://huggingface.co/papers/2610.12458",
-      "description": "Multimodal large language models (MLLMs) are rapidly evolving toward continuous audio--visual reasoning, creating an urgent need for evaluations that expose their capability limits. Audio--visual capt",
-      "published": "2026-10-07T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 8,
-      "is_new": false
-    },
-    {
-      "id": "a9fb0d9ff469bc1aa7c71be0454fb6b0",
-      "title": "Accurate but Not Humble: Evaluating Epistemic Humility in LLM Agents under Knowledge Conflict",
-      "url": "https://huggingface.co/papers/2610.12360",
-      "description": "When retrieved evidence contradicts an agent's prior beliefs, does it revise its answer, acknowledge uncertainty, or persist with an incorrect conclusion? Existing evaluations of agentic systems focus",
-      "published": "2026-10-07T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "8092ad7fb4a63ff4e6b0d133fb96ac4f",
-      "title": "Embodied Turing Machines: Stateful Code for Robot Recursive Self-Improvement",
-      "url": "https://huggingface.co/papers/2610.12369",
-      "description": "Most robot policies keep a model in the control loop: a VLA maps observations to actions, and an Agent Harness, such as Agent-as-Policy or Harness VLA queries a VLM for decision making at run time. We",
-      "published": "2026-10-07T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
-      "is_new": false
-    },
-    {
-      "id": "d326ec82b5c7af8ca4e5225eaa9458df",
-      "title": "Multi-Agent Egocentric World Model with Fine-Grained Embodied Interaction",
-      "url": "https://huggingface.co/papers/2610.12299",
-      "description": "Egocentric world models predict first-person observations conditioned on an agent's actions, but most focus on a single agent. Real embodied settings often involve multiple agents that act and interac",
-      "published": "2026-10-07T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 32,
-      "is_new": false
-    },
-    {
-      "id": "bdcbf43f7a26000571a8ff73ac65cd5a",
-      "title": "OneSearch-VL: Unified Multimodal Deep Research Agent for Image and Video",
-      "url": "https://huggingface.co/papers/2610.12419",
-      "description": "Single-image, multi-image, and video deep research require different visual operations but share a workflow of visual grounding, external retrieval, and fact composition. A key challenge is to preserv",
-      "published": "2026-10-07T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 10,
-      "is_new": false
-    },
-    {
-      "id": "743db0159fee75ca590daaf1ea025dc4",
-      "title": "Distilling Routed 3D Privilege for Spatial Reasoning in Vision-Language Models",
-      "url": "https://huggingface.co/papers/2610.12355",
-      "description": "Spatial reasoning remains a persistent weakness of vision-language models (VLMs), because RGB inputs do not directly provide geometric evidence. Existing remedies either inject 3D into the model at in",
       "published": "2026-10-07T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
@@ -1141,7 +1166,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 68,
-      "comments": 48,
+      "comments": 49,
       "is_new": false
     },
     {
@@ -1156,18 +1181,6 @@
       "category": "news",
       "points": 2,
       "comments": 1,
-      "is_new": false
-    },
-    {
-      "id": "a09232aae02e93f8d5dc87d1878e0ece",
-      "title": "ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
-      "description": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gi",
-      "published": "2026-10-07T15:10:42-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
       "is_new": false
     },
     {
@@ -1240,58 +1253,43 @@
       "is_new": false
     },
     {
-      "id": "cce3799504d0e6a0f489579b60c443a8",
-      "title": "SPW-Nav: A Streaming Panoramic World Model for Language-Guided Navigation",
-      "url": "https://huggingface.co/papers/2610.08941",
-      "description": "Language-guided panoramic video generation benefits various downstream applications, such as interactive 3D scene exploration, virtual reality experiences, and embodied agent training. Existing panora",
+      "id": "664e83215de7ceb9adf5218fa89ce446",
+      "title": "EDiS: Edge Disjoint Subgraph Sparsification Framework for Graph Neural Networks",
+      "url": "https://huggingface.co/papers/2610.09059",
+      "description": "Sparse GNN training reduces computation, but deciding which edges to keep can be costly. Reusing one sparse graph is cheap, but locks training to a fixed topology, while varying it across epochs can r",
       "published": "2026-10-05T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 1,
       "is_new": true
     },
     {
-      "id": "49965022",
-      "title": "How we built a browser agent with Jev instead of an LLM",
-      "url": "https://ironbee.ai/blog/how-we-built-the-fastest-cheapest-browser-agent-with-jev",
-      "description": "",
-      "published": "2026-10-05T14:00:53Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "498b6a1612128c5111a2eb28650f7c64",
-      "title": "MC-Sparse: Deconstructing and Closing the Dense-Sparse Attention Gap in Diffusion Transformers",
-      "url": "https://huggingface.co/papers/2610.06801",
-      "description": "Sparse attention is a primary approach to reducing the latency of diffusion transformers in long-sequence generation tasks, such as video and high-resolution 3D asset generation. However, existing met",
-      "published": "2026-10-04T20:00:00.000Z",
+      "id": "2353684ac1db7aa63db0df0fecb64818",
+      "title": "U-Space: Uncovering When and Why Uncertainty Arises in Language Models",
+      "url": "https://huggingface.co/papers/2610.09087",
+      "description": "Large language models are informing decisions with ever-higher stakes. As the consequences of their errors grow, a central question becomes harder to ignore: how much can we trust an individual answer",
+      "published": "2026-10-05T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 21,
-      "is_new": false
+      "likes": 16,
+      "is_new": true
     },
     {
-      "id": "49954491",
-      "title": "Show HN: Agents Sleep Preventer – keep your Mac awake only while AI agents work",
-      "url": "https://github.com/CharlonTank/agents-sleep-preventer",
-      "description": "",
-      "published": "2026-10-04T15:01:18Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 1,
-      "comments": 1,
-      "is_new": false
+      "id": "1999f06075536700e92f881ab68cebf8",
+      "title": "CARE: Certifying Acceleration for Vision-Language-Action Inference",
+      "url": "https://huggingface.co/papers/2610.08917",
+      "description": "While vision-language-action (VLA) models have advanced rapidly, running them at every control step remains expensive. Prior work accelerates VLA inference using techniques like action chunking and vi",
+      "published": "2026-10-05T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
     }
   ],
   "by_category": {
@@ -1537,6 +1535,18 @@
         "is_new": false
       },
       {
+        "id": "f54a601ae623877ae183b5520feb4cdd",
+        "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+        "description": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine",
+        "published": "2026-10-09T05:48:26-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "6b44d5cdfd6f4fb3794f8588a00c2250",
         "title": "Anthropic launches free AI security scans for open-source projects",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
@@ -1646,20 +1656,6 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "50004719",
-        "title": "Show HN: Open-Source DaiDocs now beats Graphify by 218x low tokens, 83% on LME",
-        "url": "https://github.com/Kerneta/daidocs",
-        "description": "",
-        "published": "2026-10-08T11:50:56Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 4,
-        "comments": 0,
         "is_new": false
       }
     ],
