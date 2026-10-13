@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-13T00:26:27.661917+00:00",
+  "last_updated": "2026-10-13T02:33:17.260413+00:00",
   "total_entries": 110,
-  "new_entries": 18,
+  "new_entries": 6,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -165,7 +165,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "7b6bf13f385b34a20faaba3973a545c7",
@@ -177,7 +177,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3167f1c8b10b3352397656236df41608",
@@ -189,7 +189,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "e9c9ac8e21acdd9037b0c111bfd0b787",
@@ -201,7 +201,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "b32e4e4429644b2abdde9cb968fade66",
@@ -213,7 +213,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "d9350c73bbc30fd0736b40589532008e",
@@ -777,9 +777,9 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 6,
-      "comments": 0,
-      "is_new": true
+      "points": 9,
+      "comments": 1,
+      "is_new": false
     },
     {
       "id": "50059096",
@@ -791,9 +791,9 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 88,
-      "comments": 61,
-      "is_new": true
+      "points": 108,
+      "comments": 71,
+      "is_new": false
     },
     {
       "id": "50058032",
@@ -805,9 +805,9 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 6,
-      "comments": 0,
-      "is_new": true
+      "points": 7,
+      "comments": 1,
+      "is_new": false
     },
     {
       "id": "50054620",
@@ -859,7 +859,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "50047180",
@@ -1056,6 +1056,32 @@
       "is_new": false
     },
     {
+      "id": "86c98a6aaf6d3eafc1ad254f244de662",
+      "title": "SpatialASM: Internalizing Active Mentalization for Spatial Reasoning",
+      "url": "https://huggingface.co/papers/2610.13832",
+      "description": "When solving complex spatial reasoning tasks, ordinary humans naturally revisit the scenes from task-relevant viewpoints and mentally reconstruct the spatial layouts from those viewpoints. But can Lar",
+      "published": "2026-10-08T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
+      "id": "45257d1edd0e46eecb0d03d667db1590",
+      "title": "Multi-Stream Attention Residuals",
+      "url": "https://huggingface.co/papers/2610.13630",
+      "description": "Attention Residuals (AttnRes) enables content-dependent retrieval over network depth, which can be viewed as single-stream softmax attention along the depth axis. Inspired by the success of multi-head",
+      "published": "2026-10-08T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 9,
+      "is_new": true
+    },
+    {
       "id": "50006996",
       "title": "Fakegreen: Catch AI coding agents faking a green build (no LLM)",
       "url": "https://github.com/fitzyracing1/fakegreen",
@@ -1122,7 +1148,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "49998857",
@@ -1139,6 +1165,19 @@
       "is_new": false
     },
     {
+      "id": "5609ec30f407d2bbe994d109eb47084e",
+      "title": "Thinking Inertia: LLMs Keep Thinking When Told Not To",
+      "url": "https://huggingface.co/papers/2610.11765",
+      "description": "Large Language Models (LLMs) increasingly ship with explicit \"thinking modes\", yet their counterpart, \"no-thinking\", has received far less attention. We study LLMs' no-thinking behavior along two axes",
+      "published": "2026-10-07T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 6,
+      "is_new": true
+    },
+    {
       "id": "48e0c09ed8f38467ea8c75b473e88c66",
       "title": "Humanity's Sixth Sense: Benchmarking Intuitive Visual Reasoning in Multimodal Models",
       "url": "https://huggingface.co/papers/2610.08966",
@@ -1149,7 +1188,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 14,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "90ea33501f9de6a802660e492589031f",
@@ -1162,7 +1201,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "324b0bdb5978eb80abecd920095d01e0",
@@ -1175,7 +1214,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "13ccc37d34f0eb01141ade47a8f5c913",
@@ -1188,7 +1227,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "b4a9ddc1afe8d07bb4ab306d791e5af9",
@@ -1201,7 +1240,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "f76d760f5b3e88146c9b1e5340fc8e15",
@@ -1214,7 +1253,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "53f286a05323b1d18c0698ac7a68230d",
@@ -1227,32 +1266,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "b8dc0a9aa2af71ef5ef1f7279babfa17",
-      "title": "MAMHOI: Factorizing Scene-Aware Human-Object Interaction through Affordances",
-      "url": "https://huggingface.co/papers/2610.12416",
-      "description": "Generating realistic human-object interactions (HOI) in complex 3D scenes requires two complementary capabilities: reasoning about interaction feasibility in the environment and synthesizing realistic",
-      "published": "2026-10-07T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "d589015016701a2117136ea4b875abe5",
-      "title": "Universal Textual Teaching for LLMs",
-      "url": "https://huggingface.co/papers/2610.12114",
-      "description": "Knowledge distillation (KD) transfers knowledge from stronger Teacher models to weaker Student models, but most methods require training the Student parameters, thereby binding the distilled knowledge",
-      "published": "2026-10-07T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 10,
       "is_new": false
     },
     {
@@ -1281,20 +1294,6 @@
       "category": "news",
       "points": 16,
       "comments": 7,
-      "is_new": false
-    },
-    {
-      "id": "49995804",
-      "title": "Show HN: VoiceGremlin, a SaaS tool for automated tests against AI phone agents",
-      "url": "https://voicegremlin.com/",
-      "description": "",
-      "published": "2026-10-07T17:16:36Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 3,
-      "comments": 1,
       "is_new": false
     }
   ],
@@ -1418,7 +1417,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "7b6bf13f385b34a20faaba3973a545c7",
@@ -1430,7 +1429,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "3167f1c8b10b3352397656236df41608",
@@ -1442,7 +1441,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "e9c9ac8e21acdd9037b0c111bfd0b787",
@@ -1454,7 +1453,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "b32e4e4429644b2abdde9cb968fade66",
@@ -1466,7 +1465,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "d9350c73bbc30fd0736b40589532008e",
@@ -1550,9 +1549,9 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 6,
-        "comments": 0,
-        "is_new": true
+        "points": 9,
+        "comments": 1,
+        "is_new": false
       },
       {
         "id": "50059096",
@@ -1564,9 +1563,9 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 88,
-        "comments": 61,
-        "is_new": true
+        "points": 108,
+        "comments": 71,
+        "is_new": false
       },
       {
         "id": "50058032",
@@ -1578,9 +1577,9 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 6,
-        "comments": 0,
-        "is_new": true
+        "points": 7,
+        "comments": 1,
+        "is_new": false
       },
       {
         "id": "50054620",
@@ -1632,7 +1631,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "50047180",
