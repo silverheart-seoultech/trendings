@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-15T11:11:24.418148+00:00",
+  "last_updated": "2026-10-15T13:22:08.330225+00:00",
   "total_entries": 110,
-  "new_entries": 23,
+  "new_entries": 7,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -240,16 +240,16 @@
       "is_new": false
     },
     {
-      "id": "a38414be4b35ab390fa63698a3213209",
-      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-      "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-      "description": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in",
-      "published": "Tue, 13 Oct 2026 17:30:00 +0000",
+      "id": "2d7de8707312b3f0dc2ae07b9155427d",
+      "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+      "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+      "description": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize con",
+      "published": "Thu, 15 Oct 2026 12:00:00 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "74a5b05214cca33fe9da65359719cf8c",
@@ -261,7 +261,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "7624c31011dc0b4fc595b228b8774ee4",
@@ -779,7 +779,7 @@
       "category": "news",
       "points": 1,
       "comments": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "c487c6058b4685cde87d239b995a0df3",
@@ -791,7 +791,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "50097369",
@@ -803,8 +803,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 221,
-      "comments": 51,
+      "points": 249,
+      "comments": 60,
       "is_new": false
     },
     {
@@ -844,6 +844,18 @@
       "points": 2,
       "comments": 3,
       "is_new": false
+    },
+    {
+      "id": "c614e6702818c8649f08788ad9e3fa8b",
+      "title": "Amazon’s always-listening Bee wearable can now help you buy stuff",
+      "url": "https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs",
+      "description": "Last year, Amazon bought Bee, a relatively unknown startup with a $50 always-listening AI wearable that summarized every conversation you had. Today, the e-commerce giant is announcing two new Bee dev",
+      "published": "2026-10-14T18:33:52-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "b72f25cbab4b4e5b46ce75c54eee772a",
@@ -970,7 +982,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "50081857",
@@ -1001,6 +1013,32 @@
       "is_new": false
     },
     {
+      "id": "41f26572cc8d22176d1c34e86b5e5268",
+      "title": "Your Transformer Is Secretly Elastic",
+      "url": "https://huggingface.co/papers/2610.20588",
+      "description": "Scaling up transformers has produced models with broad capabilities, deployed across heterogeneous hardware and fluctuating workloads. Yet, model families offer only a few fixed sizes (e.g., S, B, L),",
+      "published": "2026-10-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "ad8035a97d8fe4a6155a17ef9d206e0c",
+      "title": "VASPO: Self-Distillation with Privileged Value Estimation",
+      "url": "https://huggingface.co/papers/2610.20516",
+      "description": "On-policy self-distillation provides dense supervision for reasoning models via a privileged self-teacher. However, this supervision reflects local token preferences rather than the expected return of",
+      "published": "2026-10-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "e62278fa0179ba48d6aa980a5af41ecf",
       "title": "StreamErase: Towards Ultra-Fast Streaming Video Erasing",
       "url": "https://huggingface.co/papers/2610.20137",
@@ -1011,7 +1049,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "dbc7fb7724ddb7928eef98111cbe13ad",
@@ -1023,8 +1061,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
-      "is_new": true
+      "likes": 3,
+      "is_new": false
     },
     {
       "id": "d6bd73579f8c78a3d9acc2342575fcd0",
@@ -1036,8 +1074,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
-      "is_new": true
+      "likes": 9,
+      "is_new": false
     },
     {
       "id": "9a179db26267f1f3571abf13f09f92f2",
@@ -1050,7 +1088,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "d0af6a125e206ec4b9d4eb8444684426",
@@ -1063,7 +1101,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 54,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "1e70e3064d0e3adabf1fc116516a88cf",
@@ -1075,21 +1113,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
-      "is_new": true
-    },
-    {
-      "id": "b7dd61a32d0a0e1cb9863ad804b9ede2",
-      "title": "Latent Compaction with Test-Time Training",
-      "url": "https://huggingface.co/papers/2610.20582",
-      "description": "Long contexts enlarge key--value (KV) caches, increasing memory use and attention costs during generation. Compressing these caches must preserve information for unseen questions. We introduce **Laten",
-      "published": "2026-10-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": true
+      "likes": 3,
+      "is_new": false
     },
     {
       "id": "50077412",
@@ -1120,18 +1145,6 @@
       "is_new": false
     },
     {
-      "id": "4a6f042ad36ad03b4f74aea7e7d38989",
-      "title": "Square’s new kiosk lets you talk to AI for help with your order",
-      "url": "https://www.theverge.com/tech/1009086/square-kiosk",
-      "description": "Square is launching new hardware: a big kiosk for ordering things that has a touchscreen and lets you talk to an AI. It's called the Square Kiosk. Square says the Kiosk, which has a large pill shape,",
-      "published": "2026-10-13T15:34:42-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "50070313",
       "title": "Show HN: Helicon – Desktop App for Meta's Muse Code CLI (Linux, Windows, macOS)",
       "url": "https://github.com/HarjjotSinghh/helicon",
@@ -1155,7 +1168,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 88,
+      "points": 89,
       "comments": 18,
       "is_new": false
     },
@@ -1174,6 +1187,32 @@
       "is_new": false
     },
     {
+      "id": "a8d7e665c896cca1b8510af7e4b7b863",
+      "title": "To Align or Not To Align: Check Your COMPASS Before You Train",
+      "url": "https://huggingface.co/papers/2610.18638",
+      "description": "Combining pretrained models is a common strategy for building AI systems, whether by aligning a vision encoder with a language model or merging fine-tuned checkpoints. However, finding compatible pair",
+      "published": "2026-10-12T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "d1ea814816bbc3be1bf141aebb68df0e",
+      "title": "Rethinking Projector Training in Multimodal LLMs",
+      "url": "https://huggingface.co/papers/2610.18598",
+      "description": "Multimodal LLMs are typically trained by first aligning a vision encoder with a language model via projector training on large image-caption datasets, followed by joint training of the full multimodal",
+      "published": "2026-10-12T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "45aeed2ffc347ee9158e5873c8ae3374",
       "title": "Joint Subspace Sparse Attention for Efficient Long-Context Decoding",
       "url": "https://huggingface.co/papers/2610.19026",
@@ -1184,7 +1223,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "5d70117e49ca181d0cd3423656514c55",
@@ -1197,20 +1236,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
-    },
-    {
-      "id": "6f5b3272b208332d63c720dccd17b54d",
-      "title": "Scaling Online Optimal Transport Minibatches for Flow Matching",
-      "url": "https://huggingface.co/papers/2610.18838",
-      "description": "A central challenge in scaling flow models is maintaining stability in training and integration. In flow matching, this stability depends critically on how source samples are paired with data. Indepen",
-      "published": "2026-10-12T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "50059096",
@@ -1267,32 +1293,6 @@
       "points": 1,
       "comments": 4,
       "is_new": false
-    },
-    {
-      "id": "e7375121737a5ad6efe9c473033b54a0",
-      "title": "StartLux-Decision: AutoThink Decision Models with Reinforcement Learning for Calibrated Deliberative Decisions",
-      "url": "https://huggingface.co/papers/2610.17309",
-      "description": "We introduce StartLux-Decision, decision models from 0.8B to 27B parameters that combine efficient single-pass prediction with adaptive, confidence-guided reasoning. The Instant models use bidirection",
-      "published": "2026-10-11T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": true
-    },
-    {
-      "id": "7b89805155e00167851412601be5e684",
-      "title": "Rethinking LLM-Guided Visual Question Answering: Does Deeper Knowledge Integration Really Help?",
-      "url": "https://huggingface.co/papers/2610.17079",
-      "description": "Knowledge-based Visual Question Answering (VQA) requires reasoning that extends beyond visible image content, demanding external commonsense and factual knowledge. While recent work leverages Large La",
-      "published": "2026-10-11T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
-      "is_new": true
     }
   ],
   "by_category": {
@@ -1490,16 +1490,16 @@
         "is_new": false
       },
       {
-        "id": "a38414be4b35ab390fa63698a3213209",
-        "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-        "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-        "description": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in",
-        "published": "Tue, 13 Oct 2026 17:30:00 +0000",
+        "id": "2d7de8707312b3f0dc2ae07b9155427d",
+        "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+        "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+        "description": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize con",
+        "published": "Thu, 15 Oct 2026 12:00:00 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
+        "is_new": true
       },
       {
         "id": "74a5b05214cca33fe9da65359719cf8c",
@@ -1511,7 +1511,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "7624c31011dc0b4fc595b228b8774ee4",
@@ -1549,7 +1549,7 @@
         "category": "news",
         "points": 1,
         "comments": 0,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "c487c6058b4685cde87d239b995a0df3",
@@ -1561,7 +1561,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "50097369",
@@ -1573,8 +1573,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 221,
-        "comments": 51,
+        "points": 249,
+        "comments": 60,
         "is_new": false
       },
       {
@@ -1616,6 +1616,18 @@
         "is_new": false
       },
       {
+        "id": "c614e6702818c8649f08788ad9e3fa8b",
+        "title": "Amazon’s always-listening Bee wearable can now help you buy stuff",
+        "url": "https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs",
+        "description": "Last year, Amazon bought Bee, a relatively unknown startup with a $50 always-listening AI wearable that summarized every conversation you had. Today, the e-commerce giant is announcing two new Bee dev",
+        "published": "2026-10-14T18:33:52-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "b72f25cbab4b4e5b46ce75c54eee772a",
         "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
@@ -1647,18 +1659,6 @@
         "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
         "description": "New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy procee",
         "published": "2026-10-14T14:47:54-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "9ba5013167fead0056e9da02f6aae450",
-        "title": "YouTube sticks new labels on AI-generated songs",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
-        "description": "YouTube is adding a \"Made with AI\" label to tracks that were \"altered or fully generated\" using AI, with a similar approach to its existing process for applying AI labels to videos. It doesn't sound l",
-        "published": "2026-10-14T14:25:04-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
