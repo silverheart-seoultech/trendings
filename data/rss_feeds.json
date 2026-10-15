@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-15T07:22:08.952525+00:00",
+  "last_updated": "2026-10-15T11:11:24.418148+00:00",
   "total_entries": 110,
-  "new_entries": 20,
+  "new_entries": 23,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,6 +768,32 @@
       "is_new": false
     },
     {
+      "id": "50100700",
+      "title": "Show HN: Working on Plug and play AI memory that works across AI agents",
+      "url": "https://news.ycombinator.com/item?id=50100700",
+      "description": "",
+      "published": "2026-10-15T08:02:49Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "c487c6058b4685cde87d239b995a0df3",
+      "title": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
+      "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
+      "description": "There's a new digital pet in town - a cute little marshmallow of a robot that can change its cartoony expressions to match your mood. But if you or your kids talk to \"Eiliko\" over Wi-Fi, it'll phone h",
+      "published": "2026-10-15T06:54:19-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "50097369",
       "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
       "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
@@ -777,8 +803,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 172,
-      "comments": 39,
+      "points": 221,
+      "comments": 51,
       "is_new": false
     },
     {
@@ -816,7 +842,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 2,
-      "comments": 1,
+      "comments": 3,
       "is_new": false
     },
     {
@@ -934,18 +960,6 @@
       "is_new": false
     },
     {
-      "id": "dddc82c41680e0dd424e50a6700603df",
-      "title": "Android is using AI to suss out scammers in Google Messages",
-      "url": "https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages",
-      "description": "Android is introducing new scam defense features that aim to make it easier for users to evade mobile fraud, including bolstered protection in Google Messages and additional safeguarding tools. Buildi",
-      "published": "2026-10-14T11:15:59-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "560b1c5002b4f45fd5f09a7d388170b0",
       "title": "Share the Symbol, Not the Vector: Training-Free Fact Communication Across Language Models",
       "url": "https://huggingface.co/papers/2610.19696",
@@ -973,19 +987,6 @@
       "is_new": false
     },
     {
-      "id": "f23e1b0bf379b08172162aaddb43e456",
-      "title": "τ-Emotion-Bench: Exposing the Interaction Fragility of LLM Agents through Real-World User Emotions",
-      "url": "https://huggingface.co/papers/2610.19560",
-      "description": "In long-horizon tool-calling tasks, LLM agents can fail not only because of tool-use errors, but also because of ineffective interaction with users. Yet existing benchmarks largely assume cooperative ",
-      "published": "2026-10-14T00:19:15.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 8,
-      "is_new": true
-    },
-    {
       "id": "50080450",
       "title": "Show HN: Jevcrawl – A web crawler for AI agents with no LLM in the crawl loop",
       "url": "https://github.com/RayenMlayeh/jevcrawl",
@@ -998,6 +999,71 @@
       "points": 21,
       "comments": 3,
       "is_new": false
+    },
+    {
+      "id": "e62278fa0179ba48d6aa980a5af41ecf",
+      "title": "StreamErase: Towards Ultra-Fast Streaming Video Erasing",
+      "url": "https://huggingface.co/papers/2610.20137",
+      "description": "Current video object removal methods suffer from prohibitive latency (minutes per video) and non-causal processing that prevents real-time interaction. We present StreamErase, enabling sub-second late",
+      "published": "2026-10-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "dbc7fb7724ddb7928eef98111cbe13ad",
+      "title": "Glance Forcing: Making Bidirectional Diffusion Autoregressive at a Glance",
+      "url": "https://huggingface.co/papers/2610.20220",
+      "description": "Autoregressive generation underlies real-time, causal video synthesis and is the backbone of video world models. Today's dominant approach distills a bidirectional diffusion model into a causal few-st",
+      "published": "2026-10-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "d6bd73579f8c78a3d9acc2342575fcd0",
+      "title": "SwarmRSI: Recursive Self-Improvement through Evolving Scientific Agent Swarm",
+      "url": "https://huggingface.co/papers/2610.20431",
+      "description": "Recursive self-improvement (RSI) in scientific research aims to improve agents' research capabilities through their own experimental experience. Scientific agent swarms can combine evidence and implem",
+      "published": "2026-10-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 8,
+      "is_new": true
+    },
+    {
+      "id": "9a179db26267f1f3571abf13f09f92f2",
+      "title": "AgentSafeEvo: Adversarial Co-Evolution for LLM Agent Safety",
+      "url": "https://huggingface.co/papers/2610.19422",
+      "description": "Large language model (LLM) agents accomplish complex tasks through multi-turn interactions with external tools. However, malicious content embedded in user queries, tool descriptions, or environment o",
+      "published": "2026-10-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "d0af6a125e206ec4b9d4eb8444684426",
+      "title": "RuleTrek: Benchmarking Agentic Rule Reasoning in Complex Scenarios",
+      "url": "https://huggingface.co/papers/2610.19698",
+      "description": "Large language models (LLMs) increasingly tackle complex real-world tasks in specialized domains. However, identifying and correctly applying domain-specific rules remains challenging when scenario in",
+      "published": "2026-10-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 54,
+      "is_new": true
     },
     {
       "id": "1e70e3064d0e3adabf1fc116516a88cf",
@@ -1023,58 +1089,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
-    },
-    {
-      "id": "d26fca945372430c78857a41213d5ff3",
-      "title": "Cortex: Consolidating Context into Parametric Memory",
-      "url": "https://huggingface.co/papers/2610.20399",
-      "description": "Context can improve large language model performance, but these gains may be lost after context removal. Inspired by biological systems consolidation, we formulate Memory Consolidation (MC) as interna",
-      "published": "2026-10-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 44,
-      "is_new": true
-    },
-    {
-      "id": "bf9b708ae277fc1f64bfacb62eae52b6",
-      "title": "VITAL: From Visual Motion to Precise Action",
-      "url": "https://huggingface.co/papers/2610.20604",
-      "description": "World-action models aim to turn visual anticipation into driving decisions, yet typically train action experts on trajectory representations defined independently of visual dynamics. This motivates de",
-      "published": "2026-10-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": true
-    },
-    {
-      "id": "60496a281382e2f31a5c328ab8c67f26",
-      "title": "SafeDriveVLA: Navigation-Conditioned World Model Dreaming for Conflict-Aware End-to-End Autonomous Driving",
-      "url": "https://huggingface.co/papers/2610.20609",
-      "description": "Vision-Language-Action (VLA) models are gaining attention in autonomous driving, inheriting commonsense priors from large language models (LLMs) and widening the navigation interface from a fixed comm",
-      "published": "2026-10-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": true
-    },
-    {
-      "id": "2ddcdde50d18306c8160668328d58062",
-      "title": "ActionOPD: Distilling Decisions, Not Tokens",
-      "url": "https://huggingface.co/papers/2610.19820",
-      "description": "Distilling capable language-model agents into smaller models requires aligning the student's behavior with the teacher's. This raises a fundamental question: at which states and at what granularity sh",
-      "published": "2026-10-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 44,
       "is_new": true
     },
     {
@@ -1141,7 +1155,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 87,
+      "points": 88,
       "comments": 18,
       "is_new": false
     },
@@ -1158,6 +1172,19 @@
       "points": 9,
       "comments": 1,
       "is_new": false
+    },
+    {
+      "id": "45aeed2ffc347ee9158e5873c8ae3374",
+      "title": "Joint Subspace Sparse Attention for Efficient Long-Context Decoding",
+      "url": "https://huggingface.co/papers/2610.19026",
+      "description": "Sparse attention reduces the KV-cache traffic that dominates long-context LLM decoding, but practical methods largely operate at coarse granularity. Token-level selection offers finer control, yet pre",
+      "published": "2026-10-12T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
     },
     {
       "id": "5d70117e49ca181d0cd3423656514c55",
@@ -1196,7 +1223,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 160,
-      "comments": 120,
+      "comments": 123,
       "is_new": false
     },
     {
@@ -1242,57 +1269,29 @@
       "is_new": false
     },
     {
-      "id": "bcb284de5e661c78461cbea9fcd82d18",
-      "title": "SyncReward: Human-Aligned Synchronization Reward for Audio-Visual Generation",
-      "url": "https://huggingface.co/papers/2610.16338",
-      "description": "Recent years have witnessed rapid progress in joint audio--visual generation. However, audio--visual synchronization remains a challenge, as generated speech and sound often temporally misalign with v",
+      "id": "e7375121737a5ad6efe9c473033b54a0",
+      "title": "StartLux-Decision: AutoThink Decision Models with Reinforcement Learning for Calibrated Deliberative Decisions",
+      "url": "https://huggingface.co/papers/2610.17309",
+      "description": "We introduce StartLux-Decision, decision models from 0.8B to 27B parameters that combine efficient single-pass prediction with adaptive, confidence-guided reasoning. The Instant models use bidirection",
+      "published": "2026-10-11T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "7b89805155e00167851412601be5e684",
+      "title": "Rethinking LLM-Guided Visual Question Answering: Does Deeper Knowledge Integration Really Help?",
+      "url": "https://huggingface.co/papers/2610.17079",
+      "description": "Knowledge-based Visual Question Answering (VQA) requires reasoning that extends beyond visible image content, demanding external commonsense and factual knowledge. While recent work leverages Large La",
       "published": "2026-10-11T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
       "likes": 0,
-      "is_new": true
-    },
-    {
-      "id": "50047180",
-      "title": "Ask HN: How do swarms of AI agents work?",
-      "url": "https://news.ycombinator.com/item?id=50047180",
-      "description": "",
-      "published": "2026-10-11T19:57:45Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 13,
-      "comments": 8,
-      "is_new": false
-    },
-    {
-      "id": "50045704",
-      "title": "Show HN: Vocafy – Listen to Vocaloid songs by producer, from the original videos",
-      "url": "https://vocafy.kkweb.io/en",
-      "description": "",
-      "published": "2026-10-11T17:38:00Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 1,
-      "comments": 1,
-      "is_new": false
-    },
-    {
-      "id": "3099056a8967a6da1405fb4352b56fe2",
-      "title": "Apertus 1.5: From Open Text Models to Open Multimodal Reasoners",
-      "url": "https://huggingface.co/papers/2610.15542",
-      "description": "Language models are becoming infrastructure, and infrastructure built in the open, by public institutions, on documented data, is the alternative to dependence on a few providers; Apertus shows this i",
-      "published": "2026-10-10T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 24,
       "is_new": true
     }
   ],
@@ -1539,6 +1538,32 @@
         "is_new": false
       },
       {
+        "id": "50100700",
+        "title": "Show HN: Working on Plug and play AI memory that works across AI agents",
+        "url": "https://news.ycombinator.com/item?id=50100700",
+        "description": "",
+        "published": "2026-10-15T08:02:49Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 1,
+        "comments": 0,
+        "is_new": true
+      },
+      {
+        "id": "c487c6058b4685cde87d239b995a0df3",
+        "title": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
+        "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
+        "description": "There's a new digital pet in town - a cute little marshmallow of a robot that can change its cartoony expressions to match your mood. But if you or your kids talk to \"Eiliko\" over Wi-Fi, it'll phone h",
+        "published": "2026-10-15T06:54:19-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "50097369",
         "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
         "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
@@ -1548,8 +1573,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 172,
-        "comments": 39,
+        "points": 221,
+        "comments": 51,
         "is_new": false
       },
       {
@@ -1587,7 +1612,7 @@
         "source_icon": "🟧",
         "category": "news",
         "points": 2,
-        "comments": 1,
+        "comments": 3,
         "is_new": false
       },
       {
@@ -1634,32 +1659,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
         "description": "YouTube is adding a \"Made with AI\" label to tracks that were \"altered or fully generated\" using AI, with a similar approach to its existing process for applying AI labels to videos. It doesn't sound l",
         "published": "2026-10-14T14:25:04-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "50088088",
-        "title": "Show HN: Merlin, Run Your Claude Code and Codex from Slack, Linear and GitHub",
-        "url": "https://usemerlin.ai",
-        "description": "",
-        "published": "2026-10-14T14:13:33Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 1,
-        "comments": 2,
-        "is_new": false
-      },
-      {
-        "id": "3c346375618a449611d4ae7a02e50e52",
-        "title": "My AI doppelganger tells me what to eat",
-        "url": "https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health",
-        "description": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for",
-        "published": "2026-10-14T12:58:21-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
