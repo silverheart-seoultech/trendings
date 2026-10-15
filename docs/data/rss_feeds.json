@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-14T22:15:41.208474+00:00",
+  "last_updated": "2026-10-15T01:25:40.022474+00:00",
   "total_entries": 110,
-  "new_entries": 1,
+  "new_entries": 8,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -744,28 +744,42 @@
       "is_new": false
     },
     {
-      "id": "0f96659c3b4031ee471f08d126cb7025",
-      "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
-      "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
-      "description": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
-      "published": "Tue, 13 Oct 2026 17:00:00 +0000",
+      "id": "7624c31011dc0b4fc595b228b8774ee4",
+      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+      "description": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip des",
+      "published": "Thu, 15 Oct 2026 01:01:32 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": false
+      "is_new": true
     },
     {
-      "id": "4520f7ad22fb7d9896983cabc8d8ae5d",
-      "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
-      "url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-      "description": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
-      "published": "Tue, 13 Oct 2026 16:30:00 +0000",
+      "id": "1919b268be460d4b9b1ffe7a81c4abf3",
+      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+      "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+      "description": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can",
+      "published": "Thu, 15 Oct 2026 00:00:00 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "id": "50097369",
+      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+      "description": "",
+      "published": "2026-10-14T23:59:37Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 58,
+      "comments": 14,
+      "is_new": true
     },
     {
       "id": "50093003",
@@ -777,8 +791,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 1,
-      "comments": 0,
+      "points": 2,
+      "comments": 1,
       "is_new": false
     },
     {
@@ -854,7 +868,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 1,
-      "comments": 1,
+      "comments": 2,
       "is_new": false
     },
     {
@@ -955,7 +969,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 19,
+      "points": 20,
       "comments": 3,
       "is_new": false
     },
@@ -1023,7 +1037,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 85,
+      "points": 87,
       "comments": 18,
       "is_new": false
     },
@@ -1040,6 +1054,32 @@
       "points": 9,
       "comments": 1,
       "is_new": false
+    },
+    {
+      "id": "b02d85386ca4abb29bfbb79becfa50d9",
+      "title": "Simplifying and Improving On-Policy Distillation for Few-Step Diffusion",
+      "url": "https://huggingface.co/papers/2610.18472",
+      "description": "Few-step distillation reduces the sampling cost of diffusion and flow models, but existing approaches often require auxiliary score models or specialized architectures. We show that simple on-policy v",
+      "published": "2026-10-12T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "1e036532116cd66e06cbebc0af8a3d6b",
+      "title": "Model-Based Online Decision Making via Generative Trajectory Planning",
+      "url": "https://huggingface.co/papers/2610.18677",
+      "description": "Online decision-making faces a tension between efficient inference and long-horizon reasoning. Value-based methods rely on short-horizon bootstrapping that limits the propagation of long-term informat",
+      "published": "2026-10-12T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
     },
     {
       "id": "435b211c29edfdde7129761fd6eaec69",
@@ -1077,7 +1117,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
+      "likes": 8,
       "is_new": false
     },
     {
@@ -1103,7 +1143,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 6,
       "is_new": false
     },
     {
@@ -1202,6 +1242,19 @@
       "is_new": false
     },
     {
+      "id": "c257f79b6bfb0daec30a0fc531bb48fe",
+      "title": "Beyond Perfect Teammates: Multi-Agent Collaboration with Unreliable Colleagues",
+      "url": "https://huggingface.co/papers/2610.16117",
+      "description": "LLM-based multi-agent collaboration is increasingly used to solve complex tasks by dividing work among specialized agents and integrating complementary expertise. Yet existing systems and evaluations ",
+      "published": "2026-10-11T23:31:54.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "68761445df2b1cd36c84af60ccc97b87",
       "title": "Omni-Modal LLMs Know More Than They Say",
       "url": "https://huggingface.co/papers/2610.16135",
@@ -1212,19 +1265,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "c468af8b8092f269225cf04f95cc129b",
-      "title": "MixLID: Token-Level Language Identification in Mixed-Language Text",
-      "url": "https://huggingface.co/papers/2610.16601",
-      "description": "Processing multilingual text requires both identifying a broad range of languages and distinguishing the language of each token in inputs containing multiple languages. We introduce MixLID, a token-le",
-      "published": "2026-10-11T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
       "is_new": false
     },
     {
@@ -1253,47 +1293,6 @@
       "category": "news",
       "points": 1,
       "comments": 1,
-      "is_new": false
-    },
-    {
-      "id": "6fdfb707d0405c2d6fb07601a15a07fd",
-      "title": "Scaling Repeated-Data Pretraining: Batch Size, Regularization, and GPU-Time Tradeoffs",
-      "url": "https://huggingface.co/papers/2610.15965",
-      "description": "We study pretraining when compute is abundant but unique training data are finite, requiring repeated training on the same data. We first revisit infinite-compute pretraining (Kim et al. 2026) and sho",
-      "published": "2026-10-10T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "50032374",
-      "title": "Show HN: OpenWants – A Simulated City Where AI Agents Handle Residents Needs",
-      "url": "https://maplehill.openwants.com/",
-      "description": "",
-      "published": "2026-10-10T12:42:25Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 6,
-      "comments": 4,
-      "is_new": false
-    },
-    {
-      "id": "50032064",
-      "title": "There's little that's \"inevitable\" about AI",
-      "url": "https://deadsimpletech.com/blog/llms-arent-inevitable",
-      "description": "",
-      "published": "2026-10-10T12:04:04Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 41,
-      "comments": 99,
       "is_new": false
     }
   ],
@@ -1516,28 +1515,42 @@
         "is_new": false
       },
       {
-        "id": "0f96659c3b4031ee471f08d126cb7025",
-        "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
-        "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
-        "description": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
-        "published": "Tue, 13 Oct 2026 17:00:00 +0000",
+        "id": "7624c31011dc0b4fc595b228b8774ee4",
+        "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+        "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+        "description": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip des",
+        "published": "Thu, 15 Oct 2026 01:01:32 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
+        "is_new": true
       },
       {
-        "id": "4520f7ad22fb7d9896983cabc8d8ae5d",
-        "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
-        "url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-        "description": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
-        "published": "Tue, 13 Oct 2026 16:30:00 +0000",
+        "id": "1919b268be460d4b9b1ffe7a81c4abf3",
+        "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+        "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+        "description": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can",
+        "published": "Thu, 15 Oct 2026 00:00:00 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
+        "is_new": true
+      },
+      {
+        "id": "50097369",
+        "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+        "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+        "description": "",
+        "published": "2026-10-14T23:59:37Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 58,
+        "comments": 14,
+        "is_new": true
       },
       {
         "id": "50093003",
@@ -1549,8 +1562,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 1,
-        "comments": 0,
+        "points": 2,
+        "comments": 1,
         "is_new": false
       },
       {
@@ -1626,7 +1639,7 @@
         "source_icon": "🟧",
         "category": "news",
         "points": 1,
-        "comments": 1,
+        "comments": 2,
         "is_new": false
       },
       {
@@ -1647,18 +1660,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
         "description": "OpenAI claims a former employee took more than 100 files related to its product plans before joining Apple. In a document filed on Wednesday, OpenAI accuses the unnamed employee of sending this inform",
         "published": "2026-10-14T12:43:24-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "d99057e6f86ea6a1c25a80be729943f7",
-        "title": "Microsoft has a new machine learning tool to improve weather forecasts",
-        "url": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
-        "description": "Old-school physics-based weather forecasting and even new AI models typically become less reliable beyond two weeks, a problem Microsoft claims to have solved using machine learning. Researchers with",
-        "published": "2026-10-14T12:05:21-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
