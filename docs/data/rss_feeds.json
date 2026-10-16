@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-16T16:33:49.265392+00:00",
+  "last_updated": "2026-10-16T19:55:29.236529+00:00",
   "total_entries": 110,
-  "new_entries": 3,
+  "new_entries": 10,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -192,20 +192,20 @@
       "is_new": false
     },
     {
-      "id": "1919b268be460d4b9b1ffe7a81c4abf3",
-      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-      "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
-      "description": "Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” is using AI to help organizations spot trouble brewing online before it",
-      "published": "Thu, 15 Oct 2026 00:00:00 +0000",
+      "id": "4466435dcf8e678c76714aa4f7b494ad",
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "description": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+      "published": "Fri, 16 Oct 2026 17:52:24 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "0ee63cc50f718ae07d26ad998bc094c3",
-      "title": "A Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
       "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
       "description": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic",
       "published": "Fri, 16 Oct 2026 16:30:00 +0000",
@@ -939,9 +939,35 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 286,
-      "comments": 80,
+      "points": 287,
+      "comments": 81,
       "is_new": false
+    },
+    {
+      "id": "c5741a27a5f393d217462a08c7e36f0d",
+      "title": "LEASH: Uncertainty-Aware Weak-to-Strong Escalation and Oversight for Computer-Use Agents",
+      "url": "https://huggingface.co/papers/2610.22280",
+      "description": "Computer-use agents increasingly tackle long-horizon tasks, where running a frontier model at every step is expensive and a small open-weight model alone often fails. Weak-to-strong escalation offers ",
+      "published": "2026-10-14T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "96508c14c26b93f2a58514a137518db9",
+      "title": "PathFM: Fast Generative Forecasting of Multivariate Trajectories",
+      "url": "https://huggingface.co/papers/2610.22358",
+      "description": "Time series foundation models are becoming increasingly popular for general-purpose forecasting. However, most leading models predict marginal quantiles, leaving the dependence structure of future tra",
+      "published": "2026-10-14T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
     },
     {
       "id": "6387550b283a53ca76ed6ed4d7b95cdd",
@@ -966,7 +992,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -1005,7 +1031,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 10,
+      "likes": 30,
       "is_new": false
     },
     {
@@ -1018,33 +1044,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 203,
-      "is_new": false
-    },
-    {
-      "id": "e20d15d09f9714038d676f6c6636c180",
-      "title": "Data World: Scaling Data Environments from Scratch",
-      "url": "https://huggingface.co/papers/2610.21656",
-      "description": "Data agents use code to process heterogeneous files and derive analytical insights. Scaling their training faces costly environment curation, privacy and intellectual-property restrictions, and diffic",
-      "published": "2026-10-14T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 22,
-      "is_new": false
-    },
-    {
-      "id": "122e3627d15ecb2d6558dcb9442234fe",
-      "title": "OmniVerifier-C1: Decomposed Graded Verifier for Rule-Governed Generative World Modeling",
-      "url": "https://huggingface.co/papers/2610.22355",
-      "description": "Generative visual verifiers play a crucial role in advancing multimodal intelligence. To enhance the robustness of visual verifiers in complex multimodal scenarios involving compositional requirements",
-      "published": "2026-10-14T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 26,
+      "likes": 228,
       "is_new": false
     },
     {
@@ -1132,6 +1132,32 @@
       "is_new": false
     },
     {
+      "id": "2fafbe5989628a54427ce06afec21ad0",
+      "title": "Diminishing Returns of Data in Sparse Autoencoders: Functional Behavior does not Guarantee Feature Reproducibility",
+      "url": "https://huggingface.co/papers/2610.20680",
+      "description": "Sparse autoencoders (SAEs) are typically trained on hundreds of millions to billions of activation tokens, yet little work has tested whether this scale is necessary. We study how much activation data",
+      "published": "2026-10-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "ad852f942443a23c8f89c125237396d3",
+      "title": "Equal CER, Unequal Damage: Severity-Weighted Character Error Rate for OCR",
+      "url": "https://huggingface.co/papers/2610.20461",
+      "description": "Character Error Rate (CER), the standard metric for OCR and vision-language models (VLMs), charges a typo as much as a wrong name. We introduce semCER, which keeps CER's alignment and denominator and ",
+      "published": "2026-10-13T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "755862eb06687b38025ab92f71090318",
       "title": "Learning to Read Out: Unembedding Dynamics in Language Model Pretraining",
       "url": "https://huggingface.co/papers/2610.21025",
@@ -1155,32 +1181,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "2d2b5b82a6a9ea8914e16e0f18722dec",
-      "title": "MAI-Gym: An Open All-in-One Platform for GUI Agent Evaluation and RL Training across Mobile and Computer Environments",
-      "url": "https://huggingface.co/papers/2610.20939",
-      "description": "Online reinforcement learning (RL) with verifiable rewards has driven rapid progress in mathematics, coding, and tool use, but scaling this success to GUI agents remains challenging due to the high co",
-      "published": "2026-10-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 91,
-      "is_new": false
-    },
-    {
-      "id": "1dd0aa1e234783b806c15d7321a3b202",
-      "title": "SERO: Learning from Executable Oracle Continuations for Long-Horizon Agentic Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2610.19397",
-      "description": "Long-horizon agentic RL is constrained by the futures visited by the current policy. When rollouts fail to reach useful behaviors, improved credit assignment cannot provide supervision for states and ",
-      "published": "2026-10-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
       "is_new": false
     },
     {
@@ -1254,6 +1254,19 @@
       "is_new": false
     },
     {
+      "id": "1c37248d12ed931300c1458bd94965c6",
+      "title": "LeanPRM: Lean-Grounded Process Supervision for Natural Language Proof Verification",
+      "url": "https://huggingface.co/papers/2610.17697",
+      "description": "AI systems now write long and difficult mathematical proofs, and checking their step-by-step validity is becoming a bottleneck. A learned verifier could check proofs cheaply, but training one requires",
+      "published": "2026-10-12T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
       "id": "d9008b3cf42bd6f1f5ed3afe5dd05a3e",
       "title": "Copy-Paste Language Models",
       "url": "https://huggingface.co/papers/2610.19247",
@@ -1263,7 +1276,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -1271,19 +1284,6 @@
       "title": "Virtual Head Attention",
       "url": "https://huggingface.co/papers/2610.17959",
       "description": "The design of attention mechanisms in long-context large language models faces an ``impossible triangle'' among KV cache size, training and prefill FLOPs, and model quality. GQA achieves strong qualit",
-      "published": "2026-10-12T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "c3c9b5103c54f8733bde4284c519f416",
-      "title": "FlashMask-3: Efficient and Expressive Mask-Aware Distributed Attention",
-      "url": "https://huggingface.co/papers/2610.17901",
-      "description": "Long-context training of large language and multimodal models couples structured attention masks (document, prefix-LM, share-question, sliding-window, block-sparse) with multi-node context parallelism",
       "published": "2026-10-12T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
@@ -1440,20 +1440,20 @@
         "is_new": false
       },
       {
-        "id": "1919b268be460d4b9b1ffe7a81c4abf3",
-        "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-        "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
-        "description": "Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” is using AI to help organizations spot trouble brewing online before it",
-        "published": "Thu, 15 Oct 2026 00:00:00 +0000",
+        "id": "4466435dcf8e678c76714aa4f7b494ad",
+        "title": "India becomes the latest country to report rogue AI agent activity",
+        "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+        "description": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+        "published": "Fri, 16 Oct 2026 17:52:24 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
+        "is_new": true
       },
       {
         "id": "0ee63cc50f718ae07d26ad998bc094c3",
-        "title": "A Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+        "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
         "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
         "description": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic",
         "published": "Fri, 16 Oct 2026 16:30:00 +0000",
