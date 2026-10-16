@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-16T20:47:39.736394+00:00",
+  "last_updated": "2026-10-16T22:48:01.060351+00:00",
   "total_entries": 110,
-  "new_entries": 10,
+  "new_entries": 2,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -180,16 +180,16 @@
       "is_new": false
     },
     {
-      "id": "7624c31011dc0b4fc595b228b8774ee4",
-      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-      "description": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip des",
-      "published": "Thu, 15 Oct 2026 01:01:32 +0000",
+      "id": "13131774e8114bcfdc9fad3816a483c6",
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "description": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with",
+      "published": "Fri, 16 Oct 2026 21:22:28 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "4466435dcf8e678c76714aa4f7b494ad",
@@ -201,7 +201,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "0ee63cc50f718ae07d26ad998bc094c3",
@@ -213,7 +213,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "c43b789ab8004e804bf77cebf100f929",
@@ -225,7 +225,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "33eae345cea5336eb8716fae19906ff0",
@@ -939,9 +939,22 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 287,
+      "points": 288,
       "comments": 81,
       "is_new": false
+    },
+    {
+      "id": "056f8603100cac79ccd17351b68b5481",
+      "title": "Behavioral Compositionality of Sparse Autoencoder Representations",
+      "url": "https://huggingface.co/papers/2610.21261",
+      "description": "Sparse autoencoders (SAEs) represent model activations with sparse, linearly decoded features, but the downstream effects of those features need not compose additively. We introduce SAE Additivity Res",
+      "published": "2026-10-14T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
     },
     {
       "id": "c5741a27a5f393d217462a08c7e36f0d",
@@ -953,8 +966,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
-      "is_new": true
+      "likes": 4,
+      "is_new": false
     },
     {
       "id": "96508c14c26b93f2a58514a137518db9",
@@ -966,8 +979,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
-      "is_new": true
+      "likes": 3,
+      "is_new": false
     },
     {
       "id": "6387550b283a53ca76ed6ed4d7b95cdd",
@@ -979,7 +992,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -992,7 +1005,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -1005,7 +1018,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 1,
       "is_new": false
     },
     {
@@ -1031,20 +1044,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 30,
-      "is_new": false
-    },
-    {
-      "id": "4a0c4e0e2a0299323cdb6f9db37335d8",
-      "title": "FDE-Gym: The Last Mile of AI Delivery",
-      "url": "https://huggingface.co/papers/2610.22350",
-      "description": "Existing agent benchmarks typically evaluate agents on well-specified tasks defined by issue reports, specifications, or task tickets. Real-world customer delivery is different: forward-deployed engin",
-      "published": "2026-10-14T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 228,
+      "likes": 31,
       "is_new": false
     },
     {
@@ -1141,8 +1141,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
-      "is_new": true
+      "likes": 1,
+      "is_new": false
     },
     {
       "id": "ad852f942443a23c8f89c125237396d3",
@@ -1154,8 +1154,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
-      "is_new": true
+      "likes": 2,
+      "is_new": false
     },
     {
       "id": "755862eb06687b38025ab92f71090318",
@@ -1167,8 +1167,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
-      "is_new": true
+      "likes": 2,
+      "is_new": false
     },
     {
       "id": "16f6e90c088d62a0657381ff61418a39",
@@ -1180,7 +1180,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -1263,8 +1263,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
-      "is_new": true
+      "likes": 4,
+      "is_new": false
     },
     {
       "id": "d9008b3cf42bd6f1f5ed3afe5dd05a3e",
@@ -1276,7 +1276,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -1289,7 +1289,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 4,
       "is_new": false
     }
   ],
@@ -1428,16 +1428,16 @@
         "is_new": false
       },
       {
-        "id": "7624c31011dc0b4fc595b228b8774ee4",
-        "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-        "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-        "description": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip des",
-        "published": "Thu, 15 Oct 2026 01:01:32 +0000",
+        "id": "13131774e8114bcfdc9fad3816a483c6",
+        "title": "Replit is no longer working with Anthropic, CEO says",
+        "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+        "description": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with",
+        "published": "Fri, 16 Oct 2026 21:22:28 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
+        "is_new": true
       },
       {
         "id": "4466435dcf8e678c76714aa4f7b494ad",
@@ -1449,7 +1449,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "0ee63cc50f718ae07d26ad998bc094c3",
@@ -1461,7 +1461,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "c43b789ab8004e804bf77cebf100f929",
@@ -1473,7 +1473,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "33eae345cea5336eb8716fae19906ff0",
