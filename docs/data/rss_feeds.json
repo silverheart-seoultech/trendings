@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-18T04:24:15.483548+00:00",
+  "last_updated": "2026-10-18T09:31:21.190419+00:00",
   "total_entries": 70,
-  "new_entries": 0,
+  "new_entries": 2,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -340,20 +340,6 @@
       "is_new": false
     },
     {
-      "id": "50128693",
-      "title": "I built an open-source Kubernetes dashboard where AI agents ask before they act",
-      "url": "https://lumovi.dev/",
-      "description": "",
-      "published": "2026-10-17T07:09:02Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 1,
-      "comments": 1,
-      "is_new": false
-    },
-    {
       "id": "657279cf248cf6ba701b967e7f9c2185",
       "title": "Websites are closing their doors to AI agents",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
@@ -489,20 +475,6 @@
       "category": "news",
       "points": 1,
       "comments": 1,
-      "is_new": false
-    },
-    {
-      "id": "50097369",
-      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
-      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-      "description": "",
-      "published": "2026-10-14T23:59:37Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 288,
-      "comments": 81,
       "is_new": false
     },
     {
@@ -770,7 +742,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 36,
-      "comments": 20,
+      "comments": 21,
       "is_new": false
     },
     {
@@ -838,7 +810,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 5,
       "is_new": false
     },
     {
@@ -894,6 +866,34 @@
       "points": 9,
       "comments": 2,
       "is_new": false
+    },
+    {
+      "id": "50054620",
+      "title": "Show HN: I built Airlock, to sandbox your AI agent and know what it's doing",
+      "url": "https://airlock.sorrel.systems",
+      "description": "",
+      "published": "2026-10-12T11:10:06Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 3,
+      "comments": 2,
+      "is_new": true
+    },
+    {
+      "id": "50054405",
+      "title": "Show HN: Tern – Native macOS SSH Client in Rust/GPUI (76 MB vs. Tabby's 580 MB)",
+      "url": "https://github.com/your-moon/tern",
+      "description": "",
+      "published": "2026-10-12T10:46:38Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 4,
+      "is_new": true
     },
     {
       "id": "3ec69baa842aefc1fc4a2e356b16baf6",
@@ -1243,20 +1243,6 @@
         "is_new": false
       },
       {
-        "id": "50128693",
-        "title": "I built an open-source Kubernetes dashboard where AI agents ask before they act",
-        "url": "https://lumovi.dev/",
-        "description": "",
-        "published": "2026-10-17T07:09:02Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 1,
-        "comments": 1,
-        "is_new": false
-      },
-      {
         "id": "657279cf248cf6ba701b967e7f9c2185",
         "title": "Websites are closing their doors to AI agents",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
@@ -1312,6 +1298,18 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
         "description": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, Op",
         "published": "2026-10-15T18:43:23-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "179bf541be9616a0f90522654fa4ceaf",
+        "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+        "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
+        "description": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI.",
+        "published": "2026-10-15T18:35:55-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
@@ -1499,7 +1497,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 4,
+        "likes": 5,
         "is_new": false
       },
       {
