@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-19T06:08:35.464372+00:00",
+  "last_updated": "2026-10-19T12:44:14.286972+00:00",
   "total_entries": 90,
-  "new_entries": 19,
+  "new_entries": 21,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -528,6 +528,18 @@
       "is_new": false
     },
     {
+      "id": "1d7aa9cfab7ec3cc26d69d56b1237b35",
+      "title": "Democrats think cracking down on AI could give them an edge",
+      "url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
+      "description": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democra",
+      "published": "2026-10-19T08:37:05-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "50144227",
       "title": "Trustbut checks if an AI agent's new tests fail without its change",
       "url": "https://github.com/isAlmogK/trustbut",
@@ -698,6 +710,58 @@
       "is_new": false
     },
     {
+      "id": "4e31ee1d083ecf5432b455287b6da2f9",
+      "title": "Xiaomi-Lens-0 Technical Report",
+      "url": "https://huggingface.co/papers/2610.23279",
+      "description": "Multimodal large language models (MLLMs) answer questions about whole images well, yet they still struggle with fine-grained region understanding. A key reason is that text-only supervision never spec",
+      "published": "2026-10-15T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 14,
+      "is_new": true
+    },
+    {
+      "id": "eca70988310c9e3baa181eac96850a5f",
+      "title": "MTEdit: Packed Trajectories Beat Rollouts for Multi-Turn Image Editing",
+      "url": "https://huggingface.co/papers/2610.23751",
+      "description": "Multi-turn image editing aims to modify an image according to a sequence of instructions, making it better aligned with human-AI collaborative creation than single-turn editing. However, constructing ",
+      "published": "2026-10-15T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
+    },
+    {
+      "id": "22189700b08b8a2d1e09db94cd373986",
+      "title": "Scene-Designer: Learning Design Intelligence for Agentic 3D Scene Generation",
+      "url": "https://huggingface.co/papers/2610.23121",
+      "description": "Generating complete, coherent, and usable 3D indoor scenes from natural language requires strong design intelligence: the ability to design high-quality scenes and critique their quality. However, exi",
+      "published": "2026-10-15T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 48,
+      "is_new": true
+    },
+    {
+      "id": "d95e5c069264b1fe6bced987da19f800",
+      "title": "RAP: A Dataset for Paper-to-Poster Generation via Declarative Markup from Human-Crafted Exemplars",
+      "url": "https://huggingface.co/papers/2610.23230",
+      "description": "Making a conference poster is visual coding in miniature: an entire paper must be compressed onto a single page, which exercises summarization, visual design, and code implementation at once, using no",
+      "published": "2026-10-15T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 20,
+      "is_new": true
+    },
+    {
       "id": "c121913cc604b77b56e6f915ff69cc52",
       "title": "OfficeTown: Generative Organizations for Evolving Agent Intelligence",
       "url": "https://huggingface.co/papers/2610.23194",
@@ -707,34 +771,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
+      "likes": 16,
       "is_new": true
-    },
-    {
-      "id": "c4630a29008ade3bfbc2146274fb5f5f",
-      "title": "Towards Looped Models Done Right, Part I: Topology, Input Injection, Recurrent-State Design",
-      "url": "https://huggingface.co/papers/2610.23036",
-      "description": "Looped language models reuse physical Transformer blocks across logical depth, but established architectures entangle recurrence placement, input injection, and recurrent state organization. We isolat",
-      "published": "2026-10-15T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": true
-    },
-    {
-      "id": "e5574f9f62dd2bb3543a7e3ed9126293",
-      "title": "MOSS-Image Technical Report",
-      "url": "https://huggingface.co/papers/2610.23374",
-      "description": "Recent closed-source image generation systems can produce diverse visual content from simple compositions to information-dense graphics, yet open-weight text-to-image models still struggle with dense ",
-      "published": "2026-10-15T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 7,
-      "is_new": false
     },
     {
       "id": "953a262ff105c232f209c3f7f6849e23",
@@ -787,18 +825,6 @@
       "is_new": false
     },
     {
-      "id": "7046ca9567b30f00939b9f0ab633e7f5",
-      "title": "Bluesky&#8217;s AI tool now lets you make games and apps to share on social",
-      "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
-      "description": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can the",
-      "published": "2026-10-15T15:57:16-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "50100700",
       "title": "Show HN: Working on Plug and play AI memory that works across AI agents",
       "url": "https://news.ycombinator.com/item?id=50100700",
@@ -827,6 +853,45 @@
       "is_new": false
     },
     {
+      "id": "061a789178e83ec8ad84b9140419fa7f",
+      "title": "ARC-SORT: Adaptive, Robust, Compensated Multi-Object Tracking with Interacting Multiple Models",
+      "url": "https://huggingface.co/papers/2610.22306",
+      "description": "Multi-object tracking in sports broadcasts is hard for two reasons: athletes move fast and change direction abruptly, and the camera pans and zooms at the same time. We present ARC-SORT (Adaptive, Rob",
+      "published": "2026-10-14T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "ecad27e9e8ec90172b8a218e3b8df45d",
+      "title": "AI-Driven Disaster Response and Displacement Monitoring",
+      "url": "https://huggingface.co/papers/2610.21482",
+      "description": "ARTIFICIAL INTELLIGENCE (AI) has demonstrated its potential across a wide range of humanitarian tasks, offering scalable and data-driven solutions to some of the world's most pressing challenges. For ",
+      "published": "2026-10-14T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "e29d76a876d0bb3bf11c34c077beba9b",
+      "title": "Embeddings Are Overpriced? A Frozen 16 MB Vocabulary for Small and Ternary Language Models",
+      "url": "https://huggingface.co/papers/2610.22428",
+      "description": "In a small language model the vocabulary is the single largest part. In Gemma 3 270M the embedding table holds 168M of 268M parameters, and because quantisation methods leave the embedding in 16-bit, ",
+      "published": "2026-10-14T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 5,
+      "is_new": true
+    },
+    {
       "id": "4ea6e73364f4969e16cd610dec922939",
       "title": "Lexical Reference Frames: Interpreting LM Residual Streams in Native Semantics",
       "url": "https://huggingface.co/papers/2610.22169",
@@ -836,7 +901,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 20,
       "is_new": true
     },
     {
@@ -849,7 +914,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 26,
+      "likes": 121,
       "is_new": true
     },
     {
@@ -862,7 +927,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 10,
       "is_new": true
     },
     {
@@ -875,85 +940,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
-      "is_new": true
-    },
-    {
-      "id": "25bd4f43482574c1bc093e7f40ed6a2b",
-      "title": "PremiseCheck: Efficient Fact-Checking of Human and AI Peer Reviews",
-      "url": "https://huggingface.co/papers/2610.21046",
-      "description": "Peer review is under strain from the growth of submissions, and review comments written by humans or AI can misstate what a paper says. We introduce ReviewFact, a benchmark that labels such factual er",
-      "published": "2026-10-14T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": true
-    },
-    {
-      "id": "77ef4c06dee967a5777195cf37fad1b9",
-      "title": "Can Visual Generation Expand What Unified Multimodal Models Know?",
-      "url": "https://huggingface.co/papers/2610.21459",
-      "description": "Unified multimodal models (UMMs) receive image-generation supervision that exposes them to visual information not fully documented in text. Can learning to generate images expand what pretrained model",
-      "published": "2026-10-14T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 6,
-      "is_new": true
-    },
-    {
-      "id": "3360a9b37925bf299b19b21c79c0c624",
-      "title": "Skip the Compressor: Coding Agents Fix More Issues When They Pick Whole Files",
-      "url": "https://huggingface.co/papers/2610.21073",
-      "description": "A coding agent works on repositories that can be far larger than its context window can hold. Prompt compressors and retrievers offer solutions to this problem, but patching an issue needs two things ",
-      "published": "2026-10-14T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": true
-    },
-    {
-      "id": "1a37f3469b58bd3a4c41d73be89565fe",
-      "title": "AVC-Reward: Event-Centric Audio-Video Consistency Evaluation",
-      "url": "https://huggingface.co/papers/2610.22321",
-      "description": "As joint audio-video generation models become more capable, they can generate audio-visual scenes exhibiting three forms of complexity: multi-event composition, multi-layer audio mixture, and asymmetr",
-      "published": "2026-10-14T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 6,
-      "is_new": true
-    },
-    {
-      "id": "df4a214ca0b57f7a128d5c8b1a18d91a",
-      "title": "Resisting Harmful Instructions through Training-Free Weight Editing",
-      "url": "https://huggingface.co/papers/2610.21189",
-      "description": "Instruction-following language models can comply with requests that conflict with intended behaviors and safety alignment. We introduce a training-free weight-editing approach for reducing compliance ",
-      "published": "2026-10-14T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": true
-    },
-    {
-      "id": "f92280605e44ed98fdce06db998068aa",
-      "title": "Selection Is Not Learning: Choosing Model Futures",
-      "url": "https://huggingface.co/papers/2610.22029",
-      "description": "Self-evolving language models train on tasks they generate, so every round must decide which updated model the next round inherits. Current loops such as R-Zero, Agent0, and Skill Self-Play make this ",
-      "published": "2026-10-14T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
+      "likes": 10,
       "is_new": true
     },
     {
@@ -1050,33 +1037,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
-      "is_new": true
-    },
-    {
-      "id": "cdaaee4402163d390044e82b86aaa82a",
-      "title": "LEV: Thinking Fast and Deep with Looped Decision Models",
-      "url": "https://huggingface.co/papers/2610.20951",
-      "description": "Decision models answer typed questions about an input with one probability per option, computed in a single forward pass without generating text. Like the fast System 1 of dual-process theory, they an",
-      "published": "2026-10-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": true
-    },
-    {
-      "id": "db795a41a2f2578da5c7e614229474d0",
-      "title": "DAGFormer: Global Topology Prediction for Transformer Cross-Layer Connections",
-      "url": "https://huggingface.co/papers/2610.19625",
-      "description": "We propose DAGFormer, a Transformer language model whose cross-layer connections are planned by a jointly trained topology predictor. Beyond the residual connections in a standard Transformer, DAGForm",
-      "published": "2026-10-13T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
+      "likes": 6,
       "is_new": true
     },
     {
@@ -1136,6 +1097,19 @@
       "is_new": false
     },
     {
+      "id": "7daea5638c5b2e80e65bf6db4063592d",
+      "title": "Failure Recovery via Belief Updates and World Modeling for Long-Horizon Agents",
+      "url": "https://huggingface.co/papers/2610.18082",
+      "description": "Long-horizon agents often struggle to recover from failures whose causes lie several steps earlier, beyond what local reflection or backtracking can resolve. We introduce BELIEFWEAVER, a framework tha",
+      "published": "2026-10-12T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
+    },
+    {
       "id": "9baba2a1617be1710d12a2bbee8f2c1c",
       "title": "Dream2Discern: Learning from Hard Latent Variants for Runtime Failure Prediction in Multi-Agent Systems",
       "url": "https://huggingface.co/papers/2610.16071",
@@ -1145,7 +1119,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 6,
       "is_new": true
     },
     {
@@ -1158,7 +1132,33 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 22,
+      "likes": 33,
+      "is_new": true
+    },
+    {
+      "id": "97df9d81f9957233a5768b95e8e56799",
+      "title": "LiveMACE: Process-Aware Evaluation of LLM Agent Capabilities in Evolving Markets",
+      "url": "https://huggingface.co/papers/2610.09872",
+      "description": "Evaluating agents by outcomes alone can obscure the capabilities that produce them. This problem is especially pronounced in evolving environments, where outcomes reflect a closed-loop interaction bet",
+      "published": "2026-10-06T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 93,
+      "is_new": true
+    },
+    {
+      "id": "a5dd6035e4468ba3164e20df02eeafc7",
+      "title": "Consistent Distribution Matching for Data-Free Diffusion Distillation",
+      "url": "https://huggingface.co/papers/2610.09221",
+      "description": "Flow and diffusion models suffer from slow inference due to computationally expensive numerical integration. Distillation provides a promising way for a student model to learn from a teacher's dynamic",
+      "published": "2026-10-05T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
       "is_new": true
     },
     {
@@ -1171,20 +1171,20 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 5,
       "is_new": true
     },
     {
-      "id": "e4376582205463e85cbea7b12d12d8be",
-      "title": "Belief-Trajectory Energy: Measuring the Path to a Prediction",
-      "url": "https://huggingface.co/papers/2610.05114",
-      "description": "Large language models (LLMs) progressively revise their predictions across Transformer layers, yet we typically observe only the final output, discarding the trajectory through which it is formed. We ",
-      "published": "2026-10-03T20:00:00.000Z",
+      "id": "c5914f60c6c4b9a44b53985d1749536d",
+      "title": "OPMD: On-Policy Mechanism Distillation Beyond Output Supervision",
+      "url": "https://huggingface.co/papers/2610.14022",
+      "description": "On-policy distillation (OPD) improves language-model by supervising a student on prefixes sampled from its own policy, but its supervision remains confined to the output space. Consequently, OPD trans",
+      "published": "2026-09-28T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 8,
       "is_new": true
     }
   ],
@@ -1431,6 +1431,18 @@
         "is_new": false
       },
       {
+        "id": "1d7aa9cfab7ec3cc26d69d56b1237b35",
+        "title": "Democrats think cracking down on AI could give them an edge",
+        "url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
+        "description": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democra",
+        "published": "2026-10-19T08:37:05-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "50144227",
         "title": "Trustbut checks if an AI agent's new tests fail without its change",
         "url": "https://github.com/isAlmogK/trustbut",
@@ -1544,18 +1556,6 @@
         "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
         "description": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no lo",
         "published": "2026-10-17T11:04:36-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "657279cf248cf6ba701b967e7f9c2185",
-        "title": "Websites are closing their doors to AI agents",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-        "description": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation a",
-        "published": "2026-10-16T18:31:39-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
@@ -1805,6 +1805,58 @@
         "is_new": false
       },
       {
+        "id": "4e31ee1d083ecf5432b455287b6da2f9",
+        "title": "Xiaomi-Lens-0 Technical Report",
+        "url": "https://huggingface.co/papers/2610.23279",
+        "description": "Multimodal large language models (MLLMs) answer questions about whole images well, yet they still struggle with fine-grained region understanding. A key reason is that text-only supervision never spec",
+        "published": "2026-10-15T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 14,
+        "is_new": true
+      },
+      {
+        "id": "eca70988310c9e3baa181eac96850a5f",
+        "title": "MTEdit: Packed Trajectories Beat Rollouts for Multi-Turn Image Editing",
+        "url": "https://huggingface.co/papers/2610.23751",
+        "description": "Multi-turn image editing aims to modify an image according to a sequence of instructions, making it better aligned with human-AI collaborative creation than single-turn editing. However, constructing ",
+        "published": "2026-10-15T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 4,
+        "is_new": true
+      },
+      {
+        "id": "22189700b08b8a2d1e09db94cd373986",
+        "title": "Scene-Designer: Learning Design Intelligence for Agentic 3D Scene Generation",
+        "url": "https://huggingface.co/papers/2610.23121",
+        "description": "Generating complete, coherent, and usable 3D indoor scenes from natural language requires strong design intelligence: the ability to design high-quality scenes and critique their quality. However, exi",
+        "published": "2026-10-15T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 48,
+        "is_new": true
+      },
+      {
+        "id": "d95e5c069264b1fe6bced987da19f800",
+        "title": "RAP: A Dataset for Paper-to-Poster Generation via Declarative Markup from Human-Crafted Exemplars",
+        "url": "https://huggingface.co/papers/2610.23230",
+        "description": "Making a conference poster is visual coding in miniature: an entire paper must be compressed onto a single page, which exercises summarization, visual design, and code implementation at once, using no",
+        "published": "2026-10-15T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 20,
+        "is_new": true
+      },
+      {
         "id": "c121913cc604b77b56e6f915ff69cc52",
         "title": "OfficeTown: Generative Organizations for Evolving Agent Intelligence",
         "url": "https://huggingface.co/papers/2610.23194",
@@ -1814,34 +1866,47 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 7,
+        "likes": 16,
         "is_new": true
       },
       {
-        "id": "c4630a29008ade3bfbc2146274fb5f5f",
-        "title": "Towards Looped Models Done Right, Part I: Topology, Input Injection, Recurrent-State Design",
-        "url": "https://huggingface.co/papers/2610.23036",
-        "description": "Looped language models reuse physical Transformer blocks across logical depth, but established architectures entangle recurrence placement, input injection, and recurrent state organization. We isolat",
-        "published": "2026-10-15T20:00:00.000Z",
+        "id": "061a789178e83ec8ad84b9140419fa7f",
+        "title": "ARC-SORT: Adaptive, Robust, Compensated Multi-Object Tracking with Interacting Multiple Models",
+        "url": "https://huggingface.co/papers/2610.22306",
+        "description": "Multi-object tracking in sports broadcasts is hard for two reasons: athletes move fast and change direction abruptly, and the camera pans and zooms at the same time. We present ARC-SORT (Adaptive, Rob",
+        "published": "2026-10-14T20:00:00.000Z",
         "source_id": "hf-papers",
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 3,
+        "likes": 0,
         "is_new": true
       },
       {
-        "id": "e5574f9f62dd2bb3543a7e3ed9126293",
-        "title": "MOSS-Image Technical Report",
-        "url": "https://huggingface.co/papers/2610.23374",
-        "description": "Recent closed-source image generation systems can produce diverse visual content from simple compositions to information-dense graphics, yet open-weight text-to-image models still struggle with dense ",
-        "published": "2026-10-15T20:00:00.000Z",
+        "id": "ecad27e9e8ec90172b8a218e3b8df45d",
+        "title": "AI-Driven Disaster Response and Displacement Monitoring",
+        "url": "https://huggingface.co/papers/2610.21482",
+        "description": "ARTIFICIAL INTELLIGENCE (AI) has demonstrated its potential across a wide range of humanitarian tasks, offering scalable and data-driven solutions to some of the world's most pressing challenges. For ",
+        "published": "2026-10-14T20:00:00.000Z",
         "source_id": "hf-papers",
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 7,
-        "is_new": false
+        "likes": 1,
+        "is_new": true
+      },
+      {
+        "id": "e29d76a876d0bb3bf11c34c077beba9b",
+        "title": "Embeddings Are Overpriced? A Frozen 16 MB Vocabulary for Small and Ternary Language Models",
+        "url": "https://huggingface.co/papers/2610.22428",
+        "description": "In a small language model the vocabulary is the single largest part. In Gemma 3 270M the embedding table holds 168M of 268M parameters, and because quantisation methods leave the embedding in 16-bit, ",
+        "published": "2026-10-14T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 5,
+        "is_new": true
       },
       {
         "id": "4ea6e73364f4969e16cd610dec922939",
@@ -1853,7 +1918,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 1,
+        "likes": 20,
         "is_new": true
       },
       {
@@ -1866,72 +1931,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 26,
-        "is_new": true
-      },
-      {
-        "id": "d231c3740694808520e6fab5e175c17b",
-        "title": "SciΠvot: Benchmarking Principal-Investigator Judgment at Pivotal Moments of Scientific AutoResearch Agents",
-        "url": "https://huggingface.co/papers/2610.21082",
-        "description": "Large language model (LLM) agents can keep scientific experiments running for months with little human supervision, but reliable autonomous research also requires scientific judgment. Evaluating scien",
-        "published": "2026-10-14T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 9,
-        "is_new": true
-      },
-      {
-        "id": "31b4015bf10919460701286aa5cd4e9c",
-        "title": "Stuck on Shuffle: On Attribute-Object Binding in Vision-Language Models",
-        "url": "https://huggingface.co/papers/2610.22602",
-        "description": "Retrieval is a fundamental task in multimodal systems: given an image or text query, the goal is to find the most relevant images or texts in a collection, often using a shared embedding space. Reliab",
-        "published": "2026-10-14T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 2,
-        "is_new": true
-      },
-      {
-        "id": "25bd4f43482574c1bc093e7f40ed6a2b",
-        "title": "PremiseCheck: Efficient Fact-Checking of Human and AI Peer Reviews",
-        "url": "https://huggingface.co/papers/2610.21046",
-        "description": "Peer review is under strain from the growth of submissions, and review comments written by humans or AI can misstate what a paper says. We introduce ReviewFact, a benchmark that labels such factual er",
-        "published": "2026-10-14T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 2,
-        "is_new": true
-      },
-      {
-        "id": "77ef4c06dee967a5777195cf37fad1b9",
-        "title": "Can Visual Generation Expand What Unified Multimodal Models Know?",
-        "url": "https://huggingface.co/papers/2610.21459",
-        "description": "Unified multimodal models (UMMs) receive image-generation supervision that exposes them to visual information not fully documented in text. Can learning to generate images expand what pretrained model",
-        "published": "2026-10-14T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 6,
-        "is_new": true
-      },
-      {
-        "id": "3360a9b37925bf299b19b21c79c0c624",
-        "title": "Skip the Compressor: Coding Agents Fix More Issues When They Pick Whole Files",
-        "url": "https://huggingface.co/papers/2610.21073",
-        "description": "A coding agent works on repositories that can be far larger than its context window can hold. Prompt compressors and retrievers offer solutions to this problem, but patching an issue needs two things ",
-        "published": "2026-10-14T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 2,
+        "likes": 121,
         "is_new": true
       }
     ]
