@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-20T15:01:01.055600+00:00",
+  "last_updated": "2026-10-20T16:39:29.789445+00:00",
   "total_entries": 110,
-  "new_entries": 15,
+  "new_entries": 19,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,6 +47,18 @@
     }
   ],
   "entries": [
+    {
+      "id": "494d9d2a63c169aea1bfe76e9c7727d9",
+      "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+      "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+      "description": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
+      "published": "Tue, 20 Oct 2026 16:00:00 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "131888a4cac3af2c9be04effa0bced78",
       "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
@@ -624,18 +636,6 @@
       "is_new": false
     },
     {
-      "id": "24a6bb2519a404ce2c6135aaef66c2a3",
-      "title": "Meta removes language that raised scraping and AI training concerns",
-      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-      "description": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
-      "published": "Sat, 17 Oct 2026 21:31:32 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "a9300eed29e412d1d7ffc3f65af40fd8",
       "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
       "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
@@ -768,6 +768,20 @@
       "is_new": false
     },
     {
+      "id": "50167583",
+      "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
+      "url": "https://news.ycombinator.com/item?id=50167583",
+      "description": "",
+      "published": "2026-10-20T15:09:29Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 16,
+      "comments": 9,
+      "is_new": true
+    },
+    {
       "id": "50166358",
       "title": "Show HN: Tori by TalkJS. AI support that's actually good",
       "url": "https://asktori.ai",
@@ -799,8 +813,8 @@
       "id": "b04f2928d457577e5639f4dcf8379040",
       "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
       "url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
-      "description": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday, which says Spo",
-      "published": "2026-10-20T10:21:16-04:00",
+      "description": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spoti",
+      "published": "2026-10-20T11:53:21-04:00",
       "source_id": "theverge-ai",
       "source_name": "The Verge AI",
       "source_icon": "📰",
@@ -868,7 +882,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 58,
-      "comments": 25,
+      "comments": 26,
       "is_new": false
     },
     {
@@ -908,6 +922,19 @@
       "is_new": false
     },
     {
+      "id": "deaae553171c74bff13ec30734e436e9",
+      "title": "Any 3D Scene is Worth 1K Tokens: 3D-Grounded Representation for Scene Generation at Scale",
+      "url": "https://huggingface.co/papers/2604.11331",
+      "description": "Scene-level 3D generation has long been dominated by 2D multi-view or video diffusion models. Typically, these 2D-based approaches perform scene generation in a 2D latent space, which introduces two f",
+      "published": "2026-10-18T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "69756eb7f545b2958c7c7deba16218e3",
       "title": "Token-Set Choice Confounds POPE: A Systematic Audit of Yes/No Extraction in VLM Hallucination Evaluation",
       "url": "https://huggingface.co/papers/2610.25964",
@@ -930,7 +957,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 21,
+      "likes": 23,
       "is_new": false
     },
     {
@@ -943,7 +970,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 137,
+      "likes": 143,
       "is_new": false
     },
     {
@@ -970,19 +997,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 16,
-      "is_new": false
-    },
-    {
-      "id": "a7ba864aa46d8ba9fa55cccd0a0b392f",
-      "title": "Kronecker Delta Rule for Long Context Linear Attention",
-      "url": "https://huggingface.co/papers/2610.26834",
-      "description": "We propose KronLSTM, a linear attention architecture based on the Kronecker Delta Rule, a novel update rule for associative matrix memories. KronLSTM extends the xLSTM family with a memory-revision me",
-      "published": "2026-10-18T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 21,
       "is_new": false
     },
     {
@@ -1035,7 +1049,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 7,
       "is_new": false
     },
     {
@@ -1048,7 +1062,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 15,
+      "likes": 17,
       "is_new": false
     },
     {
@@ -1092,6 +1106,19 @@
       "is_new": false
     },
     {
+      "id": "608feb5b279f7ab5c9a5bc91731e3b46",
+      "title": "Progress-Aware Distillation for Mitigating Stagnation in Small Language Model Agents",
+      "url": "https://huggingface.co/papers/2610.19439",
+      "description": "While LLM-based agent systems have demonstrated remarkable proficiency in reasoning and solving complex real-world tasks, they also come with substantial token consumption and inference latency, limit",
+      "published": "2026-10-16T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 6,
+      "is_new": true
+    },
+    {
       "id": "4d352d6ece03269b49eaa42ae5926f07",
       "title": "UniAVC: Unified Audio-Video Creation via Progressive Training and Asymmetric Scheduling",
       "url": "https://huggingface.co/papers/2610.24791",
@@ -1114,7 +1141,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 6,
       "is_new": false
     },
     {
@@ -1153,7 +1180,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 4,
       "is_new": true
     },
     {
@@ -1166,7 +1193,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 10,
+      "likes": 11,
       "is_new": false
     },
     {
@@ -1179,7 +1206,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 5,
       "is_new": false
     },
     {
@@ -1234,7 +1261,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": true
     },
     {
@@ -1247,7 +1274,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
+      "likes": 10,
       "is_new": true
     },
     {
@@ -1263,38 +1290,22 @@
       "points": 2,
       "comments": 3,
       "is_new": false
-    },
-    {
-      "id": "50088856",
-      "title": "What llms.txt files tell AI agents (beware)",
-      "url": "https://www.signalscorps.com/blog/llms-txt-instructions-to-ai-agents/",
-      "description": "",
-      "published": "2026-10-14T15:11:11Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 1,
-      "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "50088088",
-      "title": "Show HN: Merlin, Run Your Claude Code and Codex from Slack, Linear and GitHub",
-      "url": "https://usemerlin.ai",
-      "description": "",
-      "published": "2026-10-14T14:13:33Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 1,
-      "comments": 2,
-      "is_new": false
     }
   ],
   "by_category": {
     "news": [
+      {
+        "id": "494d9d2a63c169aea1bfe76e9c7727d9",
+        "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+        "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+        "description": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
+        "published": "Tue, 20 Oct 2026 16:00:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "131888a4cac3af2c9be04effa0bced78",
         "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
@@ -1385,18 +1396,6 @@
         "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
         "description": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with",
         "published": "Sun, 18 Oct 2026 16:30:00 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "24a6bb2519a404ce2c6135aaef66c2a3",
-        "title": "Meta removes language that raised scraping and AI training concerns",
-        "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-        "description": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
-        "published": "Sat, 17 Oct 2026 21:31:32 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
@@ -1536,6 +1535,20 @@
         "is_new": false
       },
       {
+        "id": "50167583",
+        "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
+        "url": "https://news.ycombinator.com/item?id=50167583",
+        "description": "",
+        "published": "2026-10-20T15:09:29Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 16,
+        "comments": 9,
+        "is_new": true
+      },
+      {
         "id": "50166358",
         "title": "Show HN: Tori by TalkJS. AI support that's actually good",
         "url": "https://asktori.ai",
@@ -1567,8 +1580,8 @@
         "id": "b04f2928d457577e5639f4dcf8379040",
         "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
         "url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
-        "description": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday, which says Spo",
-        "published": "2026-10-20T10:21:16-04:00",
+        "description": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spoti",
+        "published": "2026-10-20T11:53:21-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
@@ -1636,7 +1649,7 @@
         "source_icon": "🟧",
         "category": "news",
         "points": 58,
-        "comments": 25,
+        "comments": 26,
         "is_new": false
       },
       {
@@ -1645,18 +1658,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
         "description": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targ",
         "published": "2026-10-19T13:33:16-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "59defc80e8590dc4bf356f846f2390af",
-        "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
-        "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
-        "description": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those i",
-        "published": "2026-10-19T11:46:56-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
