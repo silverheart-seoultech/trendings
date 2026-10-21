@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-21T07:32:09.320884+00:00",
+  "last_updated": "2026-10-21T11:30:51.560582+00:00",
   "total_entries": 110,
-  "new_entries": 13,
+  "new_entries": 20,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -882,6 +882,32 @@
       "is_new": false
     },
     {
+      "id": "bcb68670bcf1e9f3048ad63999b55057",
+      "title": "OverSeer: Multi-Agent World Models Beyond What Agents See",
+      "url": "https://huggingface.co/papers/2610.28554",
+      "description": "Despite the success of video world models, extending them to multiple agents is difficult because it requires generating several agent-specific video streams that are consistent in time and between ag",
+      "published": "2026-10-19T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "d08488b3eef15726ecd14672d1d3b420",
+      "title": "Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs",
+      "url": "https://huggingface.co/papers/2610.28632",
+      "description": "Video generation models can now depict remarkably realistic motion. Yet it is unclear how to use this motion beyond pixels: to animate a specific 3D asset and replay the animation in its 3D scene. For",
+      "published": "2026-10-19T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 5,
+      "is_new": true
+    },
+    {
       "id": "7c9c78a614de3c193cbbfa9df1794cd3",
       "title": "Evolving Agent Interfaces",
       "url": "https://huggingface.co/papers/2610.28601",
@@ -891,7 +917,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 11,
       "is_new": true
     },
     {
@@ -904,7 +930,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 11,
+      "likes": 15,
       "is_new": true
     },
     {
@@ -919,84 +945,6 @@
       "category": "research",
       "likes": 3,
       "is_new": true
-    },
-    {
-      "id": "0c5e15ac38b7a4199c980e1a68fe56ac",
-      "title": "Harness Self-Evolution for Long-Horizon Terminal Agents",
-      "url": "https://huggingface.co/papers/2610.27435",
-      "description": "Long-horizon terminal agents may solve a task in one run yet fail across repeated runs. Stochastic errors can propagate through actions and context, creating a gap between capability and reliable exec",
-      "published": "2026-10-19T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": true
-    },
-    {
-      "id": "c7b839284c6cfbb43bc91e81424ace4e",
-      "title": "DecisionPivot: A Diagnostic Benchmark for Decision Models in LLM Systems",
-      "url": "https://huggingface.co/papers/2610.28522",
-      "description": "Decision models support routing, guardrails, and output verification in LLM systems. However, item accuracy alone cannot establish whether models make correct decisions across controlled variations or",
-      "published": "2026-10-19T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 6,
-      "is_new": false
-    },
-    {
-      "id": "602f2b12a43c3ed0153fca5a48f02e02",
-      "title": "Learning the 4D World through Point Trajectory Forecasting",
-      "url": "https://huggingface.co/papers/2610.28594",
-      "description": "Reliable multi-view forecasting requires videos from different cameras to describe the same evolving 3D scene. To this end, we introduce Video-Point Model (VPM), a world model that conditions on multi",
-      "published": "2026-10-19T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 37,
-      "is_new": false
-    },
-    {
-      "id": "208692ef275076ba00aff7745607f3cf",
-      "title": "S-Agent 2.0: Spatial Reasoning with a General Coding Agent",
-      "url": "https://huggingface.co/papers/2610.28354",
-      "description": "Spatial reasoning asks a model to work out where objects are in 3D space, how they relate to one another, and how they move. Agentic VLMs have recently brought large improvements on such tasks by lett",
-      "published": "2026-10-19T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 41,
-      "is_new": false
-    },
-    {
-      "id": "30ca061d7fd3b34200cb9b6887666c8f",
-      "title": "PAR: Progress-Aligned Recurrence for Length Generalization in State Tracking",
-      "url": "https://huggingface.co/papers/2610.27628",
-      "description": "Looped language models can run more iterations at test time, but additional iterations need not help them solve longer problems. For sequential state tracking, final-answer supervision does not specif",
-      "published": "2026-10-19T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 64,
-      "is_new": false
-    },
-    {
-      "id": "36eb8ebf9de9a74ada695514fdb41355",
-      "title": "EvaOmni: An Evidence-Grounded Benchmark for Audio-Visual Reasoning",
-      "url": "https://huggingface.co/papers/2610.28444",
-      "description": "Omni LLMs can naturally locate key audio and visual evidence and integrate information across modalities for audiovisual reasoning. Existing audio-visual reasoning benchmarks that mainly rely on multi",
-      "published": "2026-10-19T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
     },
     {
       "id": "50157098",
@@ -1035,7 +983,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 58,
-      "comments": 27,
+      "comments": 28,
       "is_new": false
     },
     {
@@ -1075,23 +1023,36 @@
       "is_new": false
     },
     {
-      "id": "3d775fe1f6009d75d178f8e1bc2ea1ca",
-      "title": "HarnessRL: Co-Evolving Policies with a Just-in-Time Training Harness for Open-Ended RL",
-      "url": "https://huggingface.co/papers/2610.26426",
-      "description": "Rubric-based reinforcement learning (RL) trains policies for open-ended generation with natural-language criteria as rewards, but these rewards can become ineffective as training progresses. We identi",
+      "id": "dc58c7661fb28a3d747b44854d04bce4",
+      "title": "On the Fragility of Tasks under Composition: Implicit Budgeting in Language Models",
+      "url": "https://huggingface.co/papers/2610.27190",
+      "description": "Modern language models are increasingly asked to handle several tasks within a single prompt. Doing so requires solving each task correctly while integrating the resulting answers into a coherent resp",
       "published": "2026-10-18T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
+      "likes": 2,
       "is_new": true
     },
     {
-      "id": "65cbd3f59a50b03489d564841b7936a0",
-      "title": "More Memory, Worse Agents: Error Reproduction and Anti-Persistence in LLM Agents",
-      "url": "https://huggingface.co/papers/2610.27406",
-      "description": "LLM agents can improve across tasks without updating model parameters by storing experience from their own executions in external memory and reusing it to guide later decisions. A central design quest",
+      "id": "908f14288e806ab62926d285e79628cb",
+      "title": "PVBench: Quantifying Physical Plausibility in Video Generation with Object-Level Physical Measurements",
+      "url": "https://huggingface.co/papers/2610.26711",
+      "description": "Recent video generation models produce visually compelling outputs, yet their physical plausibility remains poorly measured. Physical plausibility asks whether generated objects obey geometry, kinemat",
+      "published": "2026-10-18T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "f1ec2e563a21160ddc03030026e490b4",
+      "title": "Unsupervised Tool Evolution for Coding Agents in Data-Lake Analytics",
+      "url": "https://huggingface.co/papers/2610.27327",
+      "description": "Coding agents can answer analytical questions over a data lake by discovering, cleaning, and joining the relevant data. However, they discard this work after each question and redo it from scratch for",
       "published": "2026-10-18T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
@@ -1101,17 +1062,30 @@
       "is_new": true
     },
     {
-      "id": "3cbfa69486125d86481b32b0d74f2e96",
-      "title": "Breaking Diffusion: Parallel Reasoning with Draft Refinement",
-      "url": "https://huggingface.co/papers/2610.26542",
-      "description": "Drafting an answer allows a reasoning model to reconsider each decision in the context of the others. Yet repeated diffusion denoising does not ensure that individually plausible token updates form a ",
+      "id": "e2b9e7f3a188deb760131e5212a4ffd4",
+      "title": "On the Limits of Scale: Inverse Scaling in Vision-Language Models",
+      "url": "https://huggingface.co/papers/2610.27360",
+      "description": "Scaling laws suggest that increasing model size, training data, and compute generally yields monotonic performance improvements. While this often holds at the aggregate level, we present systematic ev",
       "published": "2026-10-18T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 13,
-      "is_new": false
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "8fd53f701fae5c829b149888294ca5cb",
+      "title": "SpecKCast: Spectral Kalman Forecasting for Diffusion Acceleration",
+      "url": "https://huggingface.co/papers/2610.26837",
+      "description": "Diffusion Transformers (DiTs) achieve high-fidelity image and video generation, but they suffer from substantial inference costs due to repeated transformer evaluations across many denoising steps. Fe",
+      "published": "2026-10-18T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
     },
     {
       "id": "50142669",
@@ -1156,6 +1130,19 @@
       "is_new": false
     },
     {
+      "id": "4117172f30f025f8ccc62708d7d0ea75",
+      "title": "PhysLDM: Latent Diffusion for High-Fidelity Deformable Simulation",
+      "url": "https://huggingface.co/papers/2610.07609",
+      "description": "Neural simulation of high-fidelity deformable bodies is a foundational challenge in computer graphics and physical AI. Long-horizon prediction for high-resolution 3D volumetric meshes is hard: autoreg",
+      "published": "2026-10-17T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "f067e5de28b66e6877e95da79981ceab",
       "title": "Epi: Towards a Persistent, Self-Improving Agent for Autonomous Research",
       "url": "https://huggingface.co/papers/2610.24944",
@@ -1165,7 +1152,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
+      "likes": 7,
       "is_new": true
     },
     {
@@ -1178,20 +1165,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 11,
-      "is_new": true
-    },
-    {
-      "id": "cfbe510a946c4f016840e1c65424d098",
-      "title": "CoEvo-RSI: When Harnesses Evolve, Which Models Should Follow?",
-      "url": "https://huggingface.co/papers/2610.25078",
-      "description": "Model--harness co-evolution has emerged as a prominent paradigm for recursive self-improving (RSI) agents, jointly evolving their execution scaffolds and intrinsic capabilities. We study the persisten",
-      "published": "2026-10-17T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 25,
+      "likes": 16,
       "is_new": true
     },
     {
@@ -1223,16 +1197,16 @@
       "is_new": false
     },
     {
-      "id": "c78b6de6a731bf6b94af3cbca788b77b",
-      "title": "Good Judgment, Bad Advice: Decision-Model Controllers Raise Agent Cost Without Improving Success",
-      "url": "https://huggingface.co/papers/2610.24649",
-      "description": "Agent scaffolds increasingly delegate small decisions (whether to stop, verify, or change approach) to cheaper models. We ask whether a typed decision model, Jev 1.13, consulted only at deterministic ",
+      "id": "fdf9c2e65f895f8a0f30898accf0fe7f",
+      "title": "Muse Glimmer 30B: An On-Device Agentic Model",
+      "url": "https://huggingface.co/papers/2610.24628",
+      "description": "We introduce Muse Glimmer, an open-source 30B parameter causal language model with perception encoder, purpose-built for autonomous agentic tasks on consumer hardware. Muse Glimmer integrates multi-st",
       "published": "2026-10-16T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 0,
       "is_new": true
     },
     {
@@ -1264,6 +1238,20 @@
       "is_new": false
     },
     {
+      "id": "50100700",
+      "title": "Show HN: Working on Plug and play AI memory that works across AI agents",
+      "url": "https://news.ycombinator.com/item?id=50100700",
+      "description": "",
+      "published": "2026-10-15T08:02:49Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 1,
+      "is_new": false
+    },
+    {
       "id": "50097369",
       "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
       "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
@@ -1278,16 +1266,30 @@
       "is_new": false
     },
     {
-      "id": "dbba330c7727995dde9524929787f0cc",
-      "title": "Beyond Compilation: Evaluating Faithful Natural-Language-to-Lean Statement Formalization",
-      "url": "https://huggingface.co/papers/2606.31002",
-      "description": "Lean verifies that a generated declaration is well typed, but cannot check whether it states what the user intended. We measure how far compilation overstates faithfulness in statement autoformalizati",
+      "id": "913eb945a4a423beb0c3eea30f6c6485",
+      "title": "Event-STVG: Spatio-Temporal Video Grounding for Long-Form Event Reasoning",
+      "url": "https://huggingface.co/papers/2610.22444",
+      "description": "Spatio-Temporal Video Grounding (STVG) aims to jointly localize a target in space and time given a natural-language query. Despite continued advances, existing STVG benchmarks remain largely centered ",
       "published": "2026-10-14T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 9,
+      "is_new": true
+    },
+    {
+      "id": "50093003",
+      "title": "Show HN: Eevo – Consequential Decision Model",
+      "url": "https://www.uprightproject.com/eevo/",
+      "description": "",
+      "published": "2026-10-14T18:52:50Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 3,
       "is_new": false
     }
   ],
