@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-21T11:30:51.560582+00:00",
+  "last_updated": "2026-10-21T13:43:29.956394+00:00",
   "total_entries": 110,
-  "new_entries": 20,
+  "new_entries": 3,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -801,7 +801,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 49,
+      "points": 50,
       "comments": 20,
       "is_new": false
     },
@@ -882,6 +882,32 @@
       "is_new": false
     },
     {
+      "id": "125630d3eee8652d4708dd90bab25efa",
+      "title": "Slot-JEPA: Object-Structured Prediction Interfaces for Latent World Models",
+      "url": "https://huggingface.co/papers/2610.28074",
+      "description": "As a prototypical latent world model, Joint-Embedding Predictive Architectures (JEPAs) provide strong semantic representations. However, dense patch representations expose a redundant interface to dow",
+      "published": "2026-10-19T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "7d49cbc808c593256c55b05f54571c9c",
+      "title": "HRoPE: Homography Relative Positional Encoding",
+      "url": "https://huggingface.co/papers/2610.28284",
+      "description": "Geometric Relative Positional Encoding has become the primary mechanism for injecting spatial inductive biases into multi-view transformers. Existing designs condition attention on camera-level frustu",
+      "published": "2026-10-19T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "bcb68670bcf1e9f3048ad63999b55057",
       "title": "OverSeer: Multi-Agent World Models Beyond What Agents See",
       "url": "https://huggingface.co/papers/2610.28554",
@@ -891,8 +917,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
-      "is_new": true
+      "likes": 1,
+      "is_new": false
     },
     {
       "id": "d08488b3eef15726ecd14672d1d3b420",
@@ -904,8 +930,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
-      "is_new": true
+      "likes": 6,
+      "is_new": false
     },
     {
       "id": "7c9c78a614de3c193cbbfa9df1794cd3",
@@ -917,34 +943,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 11,
-      "is_new": true
-    },
-    {
-      "id": "5a5bdc44bb0e32530773b9ad9ce311b0",
-      "title": "Specter: Fast MoE Inference via Quantization-Enabled Multi-Step Speculative Offloading",
-      "url": "https://huggingface.co/papers/2511.14102",
-      "description": "Mixture-of-experts (MoE) models often exceed a single accelerator's memory capacity. Offloading experts to host memory creates a severe PCIe I/O bottleneck because data-dependent routing keeps transfe",
-      "published": "2026-10-19T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 15,
-      "is_new": true
-    },
-    {
-      "id": "8e9abd39dc7d9f16d112ca3e76f28d33",
-      "title": "Multimodal Reranking Is a System One Decision",
-      "url": "https://huggingface.co/papers/2610.28435",
-      "description": "Multimodal rerankers are usually dedicated models: a vision-language model (VLM) is trained on retrieval data to score the candidates of a query. Scoring options is not specific to reranking. System O",
-      "published": "2026-10-19T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": true
+      "likes": 12,
+      "is_new": false
     },
     {
       "id": "50157098",
@@ -1023,6 +1023,19 @@
       "is_new": false
     },
     {
+      "id": "89cd6f257257027433e38b3b292980e2",
+      "title": "VideoMaMa++: Temporally Consistent Video Matting via Preserve-and-Refine Token",
+      "url": "https://huggingface.co/papers/2610.26857",
+      "description": "Diffusion-based video matting has recently emerged as a leading approach, leveraging video diffusion priors from internet-scale pretraining to achieve strong zero-shot generalization from limited synt",
+      "published": "2026-10-18T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "dc58c7661fb28a3d747b44854d04bce4",
       "title": "On the Fragility of Tasks under Composition: Implicit Budgeting in Language Models",
       "url": "https://huggingface.co/papers/2610.27190",
@@ -1032,8 +1045,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
-      "is_new": true
+      "likes": 4,
+      "is_new": false
     },
     {
       "id": "908f14288e806ab62926d285e79628cb",
@@ -1045,8 +1058,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
-      "is_new": true
+      "likes": 5,
+      "is_new": false
     },
     {
       "id": "f1ec2e563a21160ddc03030026e490b4",
@@ -1058,8 +1071,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
-      "is_new": true
+      "likes": 4,
+      "is_new": false
     },
     {
       "id": "e2b9e7f3a188deb760131e5212a4ffd4",
@@ -1071,8 +1084,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
-      "is_new": true
+      "likes": 2,
+      "is_new": false
     },
     {
       "id": "8fd53f701fae5c829b149888294ca5cb",
@@ -1084,8 +1097,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
-      "is_new": true
+      "likes": 11,
+      "is_new": false
     },
     {
       "id": "50142669",
@@ -1139,8 +1152,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
-      "is_new": true
+      "likes": 1,
+      "is_new": false
     },
     {
       "id": "f067e5de28b66e6877e95da79981ceab",
@@ -1153,20 +1166,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 7,
-      "is_new": true
-    },
-    {
-      "id": "0da82259d0ac43606d574508f63c3232",
-      "title": "Painting Change Map as guidance for generating painting processes",
-      "url": "https://huggingface.co/papers/2610.25369",
-      "description": "Digital art generation has undergone a massive paradigm shift, moving from static image synthesis to dynamic video generation that can mimic the human painting process. While existing models can synth",
-      "published": "2026-10-17T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 16,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "50134298",
@@ -1206,8 +1206,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
-      "is_new": true
+      "likes": 1,
+      "is_new": false
     },
     {
       "id": "50110614",
@@ -1275,8 +1275,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
-      "is_new": true
+      "likes": 12,
+      "is_new": false
     },
     {
       "id": "50093003",
@@ -1931,7 +1931,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 49,
+        "points": 50,
         "comments": 20,
         "is_new": false
       },
