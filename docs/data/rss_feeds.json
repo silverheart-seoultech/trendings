@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-21T13:43:29.956394+00:00",
+  "last_updated": "2026-10-21T16:57:53.600261+00:00",
   "total_entries": 110,
-  "new_entries": 3,
+  "new_entries": 10,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,6 +47,18 @@
     }
   ],
   "entries": [
+    {
+      "id": "1d707ef9b9de000ab304ffd606094198",
+      "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
+      "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+      "description": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
+      "published": "Wed, 21 Oct 2026 14:00:00 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "0f8ea62bffff75e2c0deb2f7963e4449",
       "title": "Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training",
@@ -756,16 +768,18 @@
       "is_new": false
     },
     {
-      "id": "244c6a89b0fc2289182584fbabe28183",
-      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-      "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-      "description": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
-      "published": "Mon, 19 Oct 2026 22:04:28 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
+      "id": "50182883",
+      "title": "Open-source, cross-harness memory for AI agents",
+      "url": "https://news.ycombinator.com/item?id=50182883",
+      "description": "",
+      "published": "2026-10-21T15:42:38Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
       "category": "news",
-      "is_new": false
+      "points": 6,
+      "comments": 4,
+      "is_new": true
     },
     {
       "id": "28f03607775f86efd7f260e8dd840705",
@@ -801,8 +815,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 50,
-      "comments": 20,
+      "points": 52,
+      "comments": 21,
       "is_new": false
     },
     {
@@ -882,6 +896,32 @@
       "is_new": false
     },
     {
+      "id": "3c645904aae35b6a3af47c5ec4ca4888",
+      "title": "World Models with Configurable Perception",
+      "url": "https://huggingface.co/papers/2610.27914",
+      "description": "Real-world observations are noisy and often contain excessive task-irrelevant information. Effective world modeling and planning need to abstract observations into world state representations while fi",
+      "published": "2026-10-19T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
+      "id": "ac277086633ac55d811a1a3faac8d1d3",
+      "title": "Self-Credit: Credit Assignment for Long-Horizon Agentic RL via Intra-group Rescaling",
+      "url": "https://huggingface.co/papers/2610.28388",
+      "description": "LLM agents are commonly trained with RLVR, but the sparse nature of typical RLVR rewards makes credit assignment challenging, especially for long-horizon tasks. We propose Self-Credit, an end-to-end a",
+      "published": "2026-10-19T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "125630d3eee8652d4708dd90bab25efa",
       "title": "Slot-JEPA: Object-Structured Prediction Interfaces for Latent World Models",
       "url": "https://huggingface.co/papers/2610.28074",
@@ -891,7 +931,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": true
     },
     {
@@ -904,7 +944,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 3,
       "is_new": true
     },
     {
@@ -917,7 +957,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 4,
       "is_new": false
     },
     {
@@ -930,20 +970,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
-      "is_new": false
-    },
-    {
-      "id": "7c9c78a614de3c193cbbfa9df1794cd3",
-      "title": "Evolving Agent Interfaces",
-      "url": "https://huggingface.co/papers/2610.28601",
-      "description": "Computer-use agents are limited by the interfaces humans give them. An agent may type a spreadsheet cell by cell when a single line of code would do, or print all two thousand lines of a file through ",
-      "published": "2026-10-19T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 12,
+      "likes": 17,
       "is_new": false
     },
     {
@@ -982,7 +1009,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 58,
+      "points": 59,
       "comments": 28,
       "is_new": false
     },
@@ -1032,7 +1059,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 1,
       "is_new": true
     },
     {
@@ -1045,7 +1072,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 6,
       "is_new": false
     },
     {
@@ -1071,7 +1098,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 9,
       "is_new": false
     },
     {
@@ -1085,19 +1112,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "8fd53f701fae5c829b149888294ca5cb",
-      "title": "SpecKCast: Spectral Kalman Forecasting for Diffusion Acceleration",
-      "url": "https://huggingface.co/papers/2610.26837",
-      "description": "Diffusion Transformers (DiTs) achieve high-fidelity image and video generation, but they suffer from substantial inference costs due to repeated transformer evaluations across many denoising steps. Fe",
-      "published": "2026-10-18T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 11,
       "is_new": false
     },
     {
@@ -1152,20 +1166,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "f067e5de28b66e6877e95da79981ceab",
-      "title": "Epi: Towards a Persistent, Self-Improving Agent for Autonomous Research",
-      "url": "https://huggingface.co/papers/2610.24944",
-      "description": "We present Épi, an autonomous research agent that sustains investigations across model sessions and evolves its methods through accumulated experience. Épi combines persistent research history, hierar",
-      "published": "2026-10-17T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 7,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -1197,6 +1198,19 @@
       "is_new": false
     },
     {
+      "id": "59ab0fd373d3e1df09d0de94c0ef413f",
+      "title": "Axiomatic World Modeling for Physics Reasoning",
+      "url": "https://huggingface.co/papers/2610.24519",
+      "description": "Recent research-level physics-reasoning benchmarks for LLMs reveal a failure mode that lies not in knowledge or execution, but in modeling the world being reasoned about. Models often silently alter g",
+      "published": "2026-10-16T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "fdf9c2e65f895f8a0f30898accf0fe7f",
       "title": "Muse Glimmer 30B: An On-Device Agentic Model",
       "url": "https://huggingface.co/papers/2610.24628",
@@ -1206,7 +1220,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 5,
       "is_new": false
     },
     {
@@ -1222,6 +1236,19 @@
       "points": 6,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "6957a4dd18a8d6f2254a48a8e848f56d",
+      "title": "On the Tip of the Tongue: First-Token Cueing as a Behavioral Probe of Recall Failures in LLMs",
+      "url": "https://huggingface.co/papers/2610.23400",
+      "description": "Large language models often answer factual questions incorrectly in closed-book settings, and such errors are usually attributed to missing knowledge. Yet models often encode answers they fail to prod",
+      "published": "2026-10-15T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
     },
     {
       "id": "50107729",
@@ -1264,36 +1291,379 @@
       "points": 288,
       "comments": 81,
       "is_new": false
-    },
-    {
-      "id": "913eb945a4a423beb0c3eea30f6c6485",
-      "title": "Event-STVG: Spatio-Temporal Video Grounding for Long-Form Event Reasoning",
-      "url": "https://huggingface.co/papers/2610.22444",
-      "description": "Spatio-Temporal Video Grounding (STVG) aims to jointly localize a target in space and time given a natural-language query. Despite continued advances, existing STVG benchmarks remain largely centered ",
-      "published": "2026-10-14T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 12,
-      "is_new": false
-    },
-    {
-      "id": "50093003",
-      "title": "Show HN: Eevo – Consequential Decision Model",
-      "url": "https://www.uprightproject.com/eevo/",
-      "description": "",
-      "published": "2026-10-14T18:52:50Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 3,
-      "is_new": false
     }
   ],
   "by_category": {
+    "news": [
+      {
+        "id": "1d707ef9b9de000ab304ffd606094198",
+        "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
+        "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+        "description": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
+        "published": "Wed, 21 Oct 2026 14:00:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "d1819ab5c66e067aabcee821c8b00f4f",
+        "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+        "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+        "description": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+        "published": "Tue, 20 Oct 2026 23:01:23 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "df88e4093e3a6cc655974620bb5e563b",
+        "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+        "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+        "description": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+        "published": "Tue, 20 Oct 2026 22:24:02 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "b14d2c98d7d92c02d8e76c9e60a8de6a",
+        "title": "Anthropic’s cloud partnerships are getting messy",
+        "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+        "description": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO",
+        "published": "Tue, 20 Oct 2026 21:25:22 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "d0ed25b4adb5b94a923995b67b4c1619",
+        "title": "SpaceX’s AI business is beating expectations",
+        "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+        "description": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.",
+        "published": "Tue, 20 Oct 2026 20:40:41 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "b275807812b7dd17bd70bebf7eb155ba",
+        "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+        "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+        "description": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researcher",
+        "published": "Tue, 20 Oct 2026 20:35:10 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "4d8868e651d146e3e8a1b6d49aaf8696",
+        "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+        "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+        "description": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
+        "published": "Tue, 20 Oct 2026 18:38:24 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "dd509f4a2f7db9fa59812ab19a7b318f",
+        "title": "ChatGPT now lets you lock your chats",
+        "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+        "description": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device",
+        "published": "Tue, 20 Oct 2026 18:36:53 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "4ef62f095ce7426358ec4bbf4457e81c",
+        "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+        "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
+        "description": "Eric Schmidt’s fortune is about to get even bigger.",
+        "published": "Tue, 20 Oct 2026 17:55:12 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "e272af73262f2476624b1febe814c559",
+        "title": "Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
+        "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+        "description": "New data also shows Muse is retaining users at higher rates than its AI rivals.",
+        "published": "Tue, 20 Oct 2026 17:12:48 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "de4b0bf4f3d630baf805db00cadabbc8",
+        "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
+        "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
+        "description": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
+        "published": "Tue, 20 Oct 2026 16:20:06 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "494d9d2a63c169aea1bfe76e9c7727d9",
+        "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+        "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+        "description": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
+        "published": "Tue, 20 Oct 2026 16:00:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "131888a4cac3af2c9be04effa0bced78",
+        "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
+        "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
+        "description": "Figma said it plans to support as many standards as possible without exposing all of its data.",
+        "published": "Tue, 20 Oct 2026 14:13:32 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "baab9c27d2ea33a28c489ba6f963012e",
+        "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+        "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+        "description": "The U.S. has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
+        "published": "Tue, 20 Oct 2026 13:07:24 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "185426ba2ac3ad8c78f07a3bec966676",
+        "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+        "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+        "description": "Eka Robotics may be the first robotic arm that is actually good at picking up a wide range of objects, and it is so smooth and human-like, it is wowing the industry.",
+        "published": "Tue, 20 Oct 2026 13:00:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "06aafb86abeb14807a643718aedd7acd",
+        "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+        "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+        "description": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
+        "published": "Tue, 20 Oct 2026 11:00:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "85e233d0b16647512f4ea23aa103e647",
+        "title": "Otter AI raises $320M from General Catalyst’s growth fund for its meeting tool",
+        "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+        "description": "Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation.",
+        "published": "Tue, 20 Oct 2026 11:00:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "57291fadff56cb66905c15625822f109",
+        "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+        "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+        "description": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+        "published": "Tue, 20 Oct 2026 01:27:03 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "a9300eed29e412d1d7ffc3f65af40fd8",
+        "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+        "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+        "description": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
+        "published": "Mon, 19 Oct 2026 23:39:38 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "f94da7fb555a035ad8201c07b4f8fd4e",
+        "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+        "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+        "description": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a",
+        "published": "Mon, 19 Oct 2026 22:49:27 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "50182883",
+        "title": "Open-source, cross-harness memory for AI agents",
+        "url": "https://news.ycombinator.com/item?id=50182883",
+        "description": "",
+        "published": "2026-10-21T15:42:38Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 6,
+        "comments": 4,
+        "is_new": true
+      },
+      {
+        "id": "28f03607775f86efd7f260e8dd840705",
+        "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+        "description": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As",
+        "published": "2026-10-20T19:37:55-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "c1e957c841e90215698f1f578bb781b6",
+        "title": "Google’s more personalized Gemini AI is heading to your car",
+        "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+        "description": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gm",
+        "published": "2026-10-20T18:42:47-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "50167583",
+        "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
+        "url": "https://news.ycombinator.com/item?id=50167583",
+        "description": "",
+        "published": "2026-10-20T15:09:29Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 52,
+        "comments": 21,
+        "is_new": false
+      },
+      {
+        "id": "8d536d0f896d1eb4d235d112d9dcad39",
+        "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
+        "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+        "description": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report publ",
+        "published": "2026-10-20T14:07:34-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "50166358",
+        "title": "Show HN: Tori by TalkJS. AI support that's actually good",
+        "url": "https://asktori.ai",
+        "description": "",
+        "published": "2026-10-20T13:45:13Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 6,
+        "comments": 1,
+        "is_new": false
+      },
+      {
+        "id": "50166173",
+        "title": "Ask HN: How to organize teams to ship AI-written code?",
+        "url": "https://news.ycombinator.com/item?id=50166173",
+        "description": "",
+        "published": "2026-10-20T13:34:20Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 1,
+        "comments": 0,
+        "is_new": false
+      },
+      {
+        "id": "b04f2928d457577e5639f4dcf8379040",
+        "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
+        "url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
+        "description": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spoti",
+        "published": "2026-10-20T11:53:21-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "07b0468a851267a38652cdc3c0845784",
+        "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
+        "url": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
+        "description": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app dete",
+        "published": "2026-10-20T09:12:02-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "d5284706e5723232dbaad73640309bd1",
+        "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+        "description": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. L",
+        "published": "2026-10-20T06:26:38-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      }
+    ],
     "research": [
       {
         "id": "0f8ea62bffff75e2c0deb2f7963e4449",
@@ -1653,376 +2023,6 @@
         "source_name": "arXiv ML",
         "source_icon": "📄",
         "category": "research",
-        "is_new": false
-      }
-    ],
-    "news": [
-      {
-        "id": "d1819ab5c66e067aabcee821c8b00f4f",
-        "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-        "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-        "description": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
-        "published": "Tue, 20 Oct 2026 23:01:23 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "df88e4093e3a6cc655974620bb5e563b",
-        "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-        "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-        "description": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
-        "published": "Tue, 20 Oct 2026 22:24:02 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "b14d2c98d7d92c02d8e76c9e60a8de6a",
-        "title": "Anthropic’s cloud partnerships are getting messy",
-        "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-        "description": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO",
-        "published": "Tue, 20 Oct 2026 21:25:22 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "d0ed25b4adb5b94a923995b67b4c1619",
-        "title": "SpaceX’s AI business is beating expectations",
-        "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
-        "description": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.",
-        "published": "Tue, 20 Oct 2026 20:40:41 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "b275807812b7dd17bd70bebf7eb155ba",
-        "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-        "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
-        "description": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researcher",
-        "published": "Tue, 20 Oct 2026 20:35:10 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "4d8868e651d146e3e8a1b6d49aaf8696",
-        "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
-        "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
-        "description": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
-        "published": "Tue, 20 Oct 2026 18:38:24 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "dd509f4a2f7db9fa59812ab19a7b318f",
-        "title": "ChatGPT now lets you lock your chats",
-        "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
-        "description": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device",
-        "published": "Tue, 20 Oct 2026 18:36:53 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "4ef62f095ce7426358ec4bbf4457e81c",
-        "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
-        "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
-        "description": "Eric Schmidt’s fortune is about to get even bigger.",
-        "published": "Tue, 20 Oct 2026 17:55:12 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "e272af73262f2476624b1febe814c559",
-        "title": "Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
-        "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
-        "description": "New data also shows Muse is retaining users at higher rates than its AI rivals.",
-        "published": "Tue, 20 Oct 2026 17:12:48 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "de4b0bf4f3d630baf805db00cadabbc8",
-        "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
-        "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
-        "description": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
-        "published": "Tue, 20 Oct 2026 16:20:06 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "494d9d2a63c169aea1bfe76e9c7727d9",
-        "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
-        "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
-        "description": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
-        "published": "Tue, 20 Oct 2026 16:00:00 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "131888a4cac3af2c9be04effa0bced78",
-        "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
-        "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
-        "description": "Figma said it plans to support as many standards as possible without exposing all of its data.",
-        "published": "Tue, 20 Oct 2026 14:13:32 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "baab9c27d2ea33a28c489ba6f963012e",
-        "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
-        "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
-        "description": "The U.S. has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
-        "published": "Tue, 20 Oct 2026 13:07:24 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "185426ba2ac3ad8c78f07a3bec966676",
-        "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
-        "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
-        "description": "Eka Robotics may be the first robotic arm that is actually good at picking up a wide range of objects, and it is so smooth and human-like, it is wowing the industry.",
-        "published": "Tue, 20 Oct 2026 13:00:00 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "06aafb86abeb14807a643718aedd7acd",
-        "title": "Yelp can now call on your behalf to check wait times at a restaurant",
-        "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
-        "description": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
-        "published": "Tue, 20 Oct 2026 11:00:00 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "85e233d0b16647512f4ea23aa103e647",
-        "title": "Otter AI raises $320M from General Catalyst’s growth fund for its meeting tool",
-        "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
-        "description": "Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation.",
-        "published": "Tue, 20 Oct 2026 11:00:00 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "57291fadff56cb66905c15625822f109",
-        "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-        "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
-        "description": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
-        "published": "Tue, 20 Oct 2026 01:27:03 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "a9300eed29e412d1d7ffc3f65af40fd8",
-        "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-        "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
-        "description": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
-        "published": "Mon, 19 Oct 2026 23:39:38 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "f94da7fb555a035ad8201c07b4f8fd4e",
-        "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
-        "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
-        "description": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a",
-        "published": "Mon, 19 Oct 2026 22:49:27 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "244c6a89b0fc2289182584fbabe28183",
-        "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-        "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-        "description": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
-        "published": "Mon, 19 Oct 2026 22:04:28 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "28f03607775f86efd7f260e8dd840705",
-        "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
-        "description": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As",
-        "published": "2026-10-20T19:37:55-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "c1e957c841e90215698f1f578bb781b6",
-        "title": "Google’s more personalized Gemini AI is heading to your car",
-        "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
-        "description": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gm",
-        "published": "2026-10-20T18:42:47-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "50167583",
-        "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
-        "url": "https://news.ycombinator.com/item?id=50167583",
-        "description": "",
-        "published": "2026-10-20T15:09:29Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 50,
-        "comments": 20,
-        "is_new": false
-      },
-      {
-        "id": "8d536d0f896d1eb4d235d112d9dcad39",
-        "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
-        "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
-        "description": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report publ",
-        "published": "2026-10-20T14:07:34-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "50166358",
-        "title": "Show HN: Tori by TalkJS. AI support that's actually good",
-        "url": "https://asktori.ai",
-        "description": "",
-        "published": "2026-10-20T13:45:13Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 6,
-        "comments": 1,
-        "is_new": false
-      },
-      {
-        "id": "50166173",
-        "title": "Ask HN: How to organize teams to ship AI-written code?",
-        "url": "https://news.ycombinator.com/item?id=50166173",
-        "description": "",
-        "published": "2026-10-20T13:34:20Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 1,
-        "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "b04f2928d457577e5639f4dcf8379040",
-        "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
-        "url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
-        "description": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spoti",
-        "published": "2026-10-20T11:53:21-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "07b0468a851267a38652cdc3c0845784",
-        "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
-        "url": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
-        "description": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app dete",
-        "published": "2026-10-20T09:12:02-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "d5284706e5723232dbaad73640309bd1",
-        "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
-        "description": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. L",
-        "published": "2026-10-20T06:26:38-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "50157098",
-        "title": "What is still hard to become good at as AI makes coding easier?",
-        "url": "https://news.ycombinator.com/item?id=50157098",
-        "description": "",
-        "published": "2026-10-19T19:43:46Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 4,
-        "comments": 6,
         "is_new": false
       }
     ]
