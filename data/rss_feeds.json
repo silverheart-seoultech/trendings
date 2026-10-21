@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-21T16:57:53.600261+00:00",
+  "last_updated": "2026-10-21T18:34:33.698268+00:00",
   "total_entries": 110,
-  "new_entries": 10,
+  "new_entries": 4,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -57,7 +57,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "0f8ea62bffff75e2c0deb2f7963e4449",
@@ -777,8 +777,32 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 6,
-      "comments": 4,
+      "points": 11,
+      "comments": 9,
+      "is_new": false
+    },
+    {
+      "id": "5afba8050415bca9d72399927c8a7126",
+      "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+      "description": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled",
+      "published": "2026-10-21T09:57:43-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "e5aa837170862d9c5eab48f5510124a3",
+      "title": "Conversational Gemini navigation comes to Apple CarPlay",
+      "url": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
+      "description": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"",
+      "published": "2026-10-21T09:01:28-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
       "is_new": true
     },
     {
@@ -896,6 +920,19 @@
       "is_new": false
     },
     {
+      "id": "63ad617eee9c6f7e53b2ad481ebe784d",
+      "title": "Training the Whole Agent, Not Just the Model",
+      "url": "https://huggingface.co/papers/2610.28069",
+      "description": "Training coding agents typically updates the policy while keeping the harness fixed. During training, trajectories reveal flawed repair strategies and interaction problems that vary across tasks and c",
+      "published": "2026-10-19T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
+    },
+    {
       "id": "3c645904aae35b6a3af47c5ec4ca4888",
       "title": "World Models with Configurable Perception",
       "url": "https://huggingface.co/papers/2610.27914",
@@ -905,8 +942,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
-      "is_new": true
+      "likes": 1,
+      "is_new": false
     },
     {
       "id": "ac277086633ac55d811a1a3faac8d1d3",
@@ -918,8 +955,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
-      "is_new": true
+      "likes": 3,
+      "is_new": false
     },
     {
       "id": "125630d3eee8652d4708dd90bab25efa",
@@ -931,8 +968,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
-      "is_new": true
+      "likes": 3,
+      "is_new": false
     },
     {
       "id": "7d49cbc808c593256c55b05f54571c9c",
@@ -945,7 +982,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "bcb68670bcf1e9f3048ad63999b55057",
@@ -958,19 +995,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 4,
-      "is_new": false
-    },
-    {
-      "id": "d08488b3eef15726ecd14672d1d3b420",
-      "title": "Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs",
-      "url": "https://huggingface.co/papers/2610.28632",
-      "description": "Video generation models can now depict remarkably realistic motion. Yet it is unclear how to use this motion beyond pixels: to animate a specific 3D asset and replay the animation in its 3D scene. For",
-      "published": "2026-10-19T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 17,
       "is_new": false
     },
     {
@@ -1014,35 +1038,11 @@
       "is_new": false
     },
     {
-      "id": "50e8daf7735ed4b11c6b035839fc73f4",
-      "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-      "description": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targ",
-      "published": "2026-10-19T13:33:16-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "59defc80e8590dc4bf356f846f2390af",
       "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
       "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
       "description": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those i",
       "published": "2026-10-19T11:46:56-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "1d7aa9cfab7ec3cc26d69d56b1237b35",
-      "title": "Democrats think cracking down on AI could give them an edge",
-      "url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
-      "description": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democra",
-      "published": "2026-10-19T08:37:05-04:00",
       "source_id": "theverge-ai",
       "source_name": "The Verge AI",
       "source_icon": "📰",
@@ -1060,7 +1060,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "dc58c7661fb28a3d747b44854d04bce4",
@@ -1099,19 +1099,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 9,
-      "is_new": false
-    },
-    {
-      "id": "e2b9e7f3a188deb760131e5212a4ffd4",
-      "title": "On the Limits of Scale: Inverse Scaling in Vision-Language Models",
-      "url": "https://huggingface.co/papers/2610.27360",
-      "description": "Scaling laws suggest that increasing model size, training data, and compute generally yields monotonic performance improvements. While this often holds at the aggregate level, we present systematic ev",
-      "published": "2026-10-18T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
       "is_new": false
     },
     {
@@ -1155,6 +1142,19 @@
       "points": 1,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "41416b8b6c749d6dae5579d7d854e2ca",
+      "title": "BiDex-100: A Comprehensive Benchmark for Bimanual Dexterous Manipulation Across 100+ Simulation Tasks",
+      "url": "https://huggingface.co/papers/2610.25459",
+      "description": "Bimanual manipulation with dexterous hands has attracted growing attention in research on robotic action models. However, few studies have developed benchmarks specifically tailored for dexterous mani",
+      "published": "2026-10-17T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
     },
     {
       "id": "4117172f30f025f8ccc62708d7d0ea75",
@@ -1208,7 +1208,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "fdf9c2e65f895f8a0f30898accf0fe7f",
@@ -1248,7 +1248,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "50107729",
@@ -1305,7 +1305,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "d1819ab5c66e067aabcee821c8b00f4f",
@@ -1545,8 +1545,32 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 6,
-        "comments": 4,
+        "points": 11,
+        "comments": 9,
+        "is_new": false
+      },
+      {
+        "id": "5afba8050415bca9d72399927c8a7126",
+        "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+        "description": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled",
+        "published": "2026-10-21T09:57:43-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "e5aa837170862d9c5eab48f5510124a3",
+        "title": "Conversational Gemini navigation comes to Apple CarPlay",
+        "url": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
+        "description": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"",
+        "published": "2026-10-21T09:01:28-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
         "is_new": true
       },
       {
@@ -1633,30 +1657,6 @@
         "url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
         "description": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spoti",
         "published": "2026-10-20T11:53:21-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "07b0468a851267a38652cdc3c0845784",
-        "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
-        "url": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
-        "description": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app dete",
-        "published": "2026-10-20T09:12:02-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "d5284706e5723232dbaad73640309bd1",
-        "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
-        "description": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. L",
-        "published": "2026-10-20T06:26:38-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
