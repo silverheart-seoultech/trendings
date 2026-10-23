@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-23T11:20:45.806354+00:00",
+  "last_updated": "2026-10-23T13:21:04.176644+00:00",
   "total_entries": 110,
-  "new_entries": 16,
+  "new_entries": 3,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -273,7 +273,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "02cf9a7a48f9b2c6abc77c84754ea05d",
@@ -768,6 +768,30 @@
       "is_new": false
     },
     {
+      "id": "c8d9d8b98c2a12b6327c86991a7d235e",
+      "title": "Retro gaming is being overrun with AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+      "description": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past mont",
+      "published": "2026-10-23T09:05:57-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "35bbd93e4e1d38020e271cc5f6a11773",
+      "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+      "description": "Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to dis",
+      "published": "2026-10-23T07:28:50-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": false
+    },
+    {
       "id": "50201860",
       "title": "Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI",
       "url": "https://github.com/Coverage-Cat/consumer-agent-testing-tool",
@@ -787,18 +811,6 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
       "description": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage a",
       "published": "2026-10-22T17:53:22-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "35bbd93e4e1d38020e271cc5f6a11773",
-      "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
-      "description": "Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to dis",
-      "published": "2026-10-22T17:14:26-04:00",
       "source_id": "theverge-ai",
       "source_name": "The Verge AI",
       "source_icon": "📰",
@@ -906,18 +918,6 @@
       "is_new": false
     },
     {
-      "id": "0ee4f2fe9f9c08441e0faf070ddcf49e",
-      "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
-      "url": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
-      "description": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show. Nvidia spent the most of the",
-      "published": "2026-10-22T13:36:30-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "f9692a4d1eab5d9e2c92f009e0459b96",
       "title": "Someone hacked the Switch 2 by using an old game and AI",
       "url": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
@@ -968,8 +968,21 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 14,
-      "comments": 18,
+      "comments": 17,
       "is_new": false
+    },
+    {
+      "id": "df004cb87b64395ac6e31231cf33f24c",
+      "title": "RIDAR: Safeguarding Research Integrity in Autonomous Research Agents via Automated Detection and Runtime Intervention",
+      "url": "https://huggingface.co/papers/2610.31372",
+      "description": "Autonomous research agents are increasingly used to automate large portions of scientific research, yet they are prone to research integrity violations (RIVs): behaviors that compromise the validity, ",
+      "published": "2026-10-21T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
     },
     {
       "id": "84dfb80bf769800198d6fe2e0c300569",
@@ -981,8 +994,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 41,
-      "is_new": true
+      "likes": 46,
+      "is_new": false
     },
     {
       "id": "5edf564ebea8227abb0eeb0ad2ed10e4",
@@ -994,8 +1007,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 47,
-      "is_new": true
+      "likes": 212,
+      "is_new": false
     },
     {
       "id": "8a3ecc8c4a9c266faef44793d47c04c5",
@@ -1008,7 +1021,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "b5271688111e05e199cfc182cb1eed21",
@@ -1021,7 +1034,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "8c8985b8e82e3cd88e3ef7d3d0282424",
@@ -1033,33 +1046,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
-      "is_new": true
-    },
-    {
-      "id": "04952c805182e3d727d58b267743f34c",
-      "title": "Verus-Insight: Towards Explainable Artifact Detection in AI-Generated Videos",
-      "url": "https://huggingface.co/papers/2610.30866",
-      "description": "Recent advances in video generation have made synthetic videos increasingly realistic, placing greater demands on reliable AI-generated video detection. Existing artifact-based detectors typically ide",
-      "published": "2026-10-21T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 11,
-      "is_new": false
-    },
-    {
-      "id": "6670bf7a8e50a4ecdf50f752c3414a54",
-      "title": "Cola2: Co-Adaptive Hierarchical Language Modeling with Continuous Semantic Compression and Balanced Discrete Generation",
-      "url": "https://huggingface.co/papers/2610.31305",
-      "description": "Hierarchical language generation separates continuous semantic modeling from discrete text realization, but its effectiveness depends on what the latent space compresses and how the discrete generator",
-      "published": "2026-10-21T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 14,
+      "likes": 9,
       "is_new": false
     },
     {
@@ -1087,7 +1074,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "1b29224ccd7d5c2bcd89351603baee25",
@@ -1099,8 +1086,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 11,
-      "is_new": true
+      "likes": 14,
+      "is_new": false
     },
     {
       "id": "91e04b47bc19fc27838bc1bb7ff0e34b",
@@ -1154,7 +1141,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 13,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "50157098",
@@ -1195,7 +1182,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 14,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "217479293eb841eb06031f048f54aba8",
@@ -1208,7 +1195,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 17,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "dfb2d89165a6a746bc0666ff3c69e922",
@@ -1262,7 +1249,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "50134298",
@@ -1290,6 +1277,19 @@
       "category": "news",
       "points": 1,
       "comments": 0,
+      "is_new": false
+    },
+    {
+      "id": "a89a601adcc287260db8957eba278ddf",
+      "title": "Editing Images into Reusable Layers via Compositional Edit-Prior Distillation",
+      "url": "https://huggingface.co/papers/2610.24738",
+      "description": "High-quality image editing requires precise modification of target regions while preserving the content of unrelated regions. Existing editing models produce flattened outputs that limit precise local",
+      "published": "2026-10-16T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 73,
       "is_new": false
     }
   ],
@@ -1521,7 +1521,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "02cf9a7a48f9b2c6abc77c84754ea05d",
@@ -1531,6 +1531,30 @@
         "published": "Fri, 23 Oct 2026 00:45:37 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
+        "id": "c8d9d8b98c2a12b6327c86991a7d235e",
+        "title": "Retro gaming is being overrun with AI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+        "description": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past mont",
+        "published": "2026-10-23T09:05:57-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "35bbd93e4e1d38020e271cc5f6a11773",
+        "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+        "description": "Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to dis",
+        "published": "2026-10-23T07:28:50-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
         "is_new": false
@@ -1555,18 +1579,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
         "description": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage a",
         "published": "2026-10-22T17:53:22-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "35bbd93e4e1d38020e271cc5f6a11773",
-        "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
-        "description": "Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to dis",
-        "published": "2026-10-22T17:14:26-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
@@ -1645,18 +1657,6 @@
         "category": "news",
         "points": 2,
         "comments": 2,
-        "is_new": false
-      },
-      {
-        "id": "9a54a1aaf374c471d20785f9477f5d68",
-        "title": "Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’",
-        "url": "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion",
-        "description": "Wildwood is the most ambitious film yet from Laika, the stop-motion studio best known for the likes of Coraline and ParaNorman. It's a sprawling fantasy adventure that took five years to complete. The",
-        "published": "2026-10-22T14:12:48-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
         "is_new": false
       }
     ],
