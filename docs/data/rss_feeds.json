@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-23T07:25:01.407525+00:00",
+  "last_updated": "2026-10-23T11:20:45.806354+00:00",
   "total_entries": 110,
-  "new_entries": 13,
+  "new_entries": 16,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -930,19 +930,6 @@
       "is_new": false
     },
     {
-      "id": "b03fabf4b5bbeb45c79916d38f4e5182",
-      "title": "Rethinking Sequence Compression with Test-time Regression",
-      "url": "https://huggingface.co/papers/2610.31574",
-      "description": "Sequence compression is a fundamental operation and a critical information bottleneck in efficient language and multimodal models, and yet prevailing approaches based on pooling or learned projections",
-      "published": "2026-10-22T13:14:38.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 10,
-      "is_new": false
-    },
-    {
       "id": "50191278",
       "title": "Lemoncode, Free Coding Agent",
       "url": "https://lemoncode.ai/",
@@ -954,19 +941,6 @@
       "category": "news",
       "points": 6,
       "comments": 3,
-      "is_new": false
-    },
-    {
-      "id": "2c5c6228c3e0aba5ee7ab16d2fac19f9",
-      "title": "Inherited, Not Invented: Tracing the Provenance of Wait in Reasoning Models",
-      "url": "https://huggingface.co/papers/2610.30882",
-      "description": "Reinforcement learning (RL) is credited with teaching reasoning models to write {wait} before reconsidering a step, yet large RL accuracy gains do not require the word. This view can confuse what RL d",
-      "published": "2026-10-22T04:03:07.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
       "is_new": false
     },
     {
@@ -998,6 +972,32 @@
       "is_new": false
     },
     {
+      "id": "84dfb80bf769800198d6fe2e0c300569",
+      "title": "IQuest-Q1: Advancing Foundation Capabilities for Agentic CLI Systems",
+      "url": "https://huggingface.co/papers/2610.30949",
+      "description": "We present IQuest-Q1, a sparse Mixture-of-Experts (MoE) agentic foundation model with 320B total parameters (15B activated). IQuest-Q1 is developed through a three-stage process: (1) stable and effici",
+      "published": "2026-10-21T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 41,
+      "is_new": true
+    },
+    {
+      "id": "5edf564ebea8227abb0eeb0ad2ed10e4",
+      "title": "WeVisOne-VL: Unified Visual Perception from Objects to Pixels",
+      "url": "https://huggingface.co/papers/2610.31329",
+      "description": "Existing vision-language models (VLMs) remain unreliable for fine-grained visual perception. In this report, we present WeVisOne-VL (WeChat Vision All-in-One), a powerful VLM that unifies object-level",
+      "published": "2026-10-21T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 47,
+      "is_new": true
+    },
+    {
       "id": "8a3ecc8c4a9c266faef44793d47c04c5",
       "title": "What Makes a Good Unmasking Policy? A Controlled Study of Learned Unmasking in Diffusion Language Models",
       "url": "https://huggingface.co/papers/2610.31576",
@@ -1007,7 +1007,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": true
     },
     {
@@ -1020,7 +1020,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 5,
       "is_new": true
     },
     {
@@ -1033,7 +1033,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
+      "likes": 8,
       "is_new": true
     },
     {
@@ -1059,20 +1059,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 11,
-      "is_new": false
-    },
-    {
-      "id": "adfc910e11f3ddd2eb0347633d6ed2b5",
-      "title": "AgentVQA: A Unified Benchmark for Agentic Visual Understanding",
-      "url": "https://huggingface.co/papers/2610.31494",
-      "description": "Vision-language models (VLMs) can perform a broad range of tasks across diverse settings, yet their performance in agentic contexts remains poorly understood. Although online evaluations in simulators",
-      "published": "2026-10-21T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 7,
+      "likes": 14,
       "is_new": false
     },
     {
@@ -1090,6 +1077,19 @@
       "is_new": false
     },
     {
+      "id": "c0b97ebfd620ea525d91a70872147c24",
+      "title": "SplatLab: Autonomous Scientific Discovery for 3DGS Research",
+      "url": "https://huggingface.co/papers/2610.30468",
+      "description": "Reproducing a published 3DGS paper takes weeks of expert engineering before any extension can be proposed. Prior autonomous-research systems read papers, draft hypotheses, and write code, but are limi",
+      "published": "2026-10-20T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "1b29224ccd7d5c2bcd89351603baee25",
       "title": "Self-Distilling Future Video Representations for World Action Models",
       "url": "https://huggingface.co/papers/2610.30320",
@@ -1099,7 +1099,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 11,
       "is_new": true
     },
     {
@@ -1112,7 +1112,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 20,
+      "likes": 43,
       "is_new": false
     },
     {
@@ -1130,6 +1130,20 @@
       "is_new": false
     },
     {
+      "id": "50166358",
+      "title": "Show HN: Tori by TalkJS. AI support that's actually good",
+      "url": "https://asktori.ai",
+      "description": "",
+      "published": "2026-10-20T13:45:13Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 6,
+      "comments": 1,
+      "is_new": false
+    },
+    {
       "id": "7a92446f277b1e49b4d0dc5d839d1b86",
       "title": "RLSplat: Resource-Linear Budget Control for Feed-forward 3D Gaussian Splatting",
       "url": "https://huggingface.co/papers/2610.27712",
@@ -1139,7 +1153,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 12,
+      "likes": 13,
       "is_new": true
     },
     {
@@ -1180,7 +1194,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 13,
+      "likes": 14,
       "is_new": true
     },
     {
@@ -1193,7 +1207,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 14,
+      "likes": 17,
       "is_new": true
     },
     {
@@ -1207,19 +1221,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "402efd20a65022486b48f77b4560c704",
-      "title": "Deep Search in Real-World Web Environments",
-      "url": "https://huggingface.co/papers/2610.30181",
-      "description": "Despite substantial progress in Deep Search agents, their ability to conduct end-to-end research in real-world open Web environments remains insufficiently evaluated. Unlike static retrieval settings,",
-      "published": "2026-10-18T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 96,
       "is_new": false
     },
     {
@@ -1264,19 +1265,6 @@
       "is_new": true
     },
     {
-      "id": "4fd3172b6309d4901d3aaeb5a8629691",
-      "title": "Deep Fusion Memory: A Chunk-Level Parametric Memory for Large Language Models",
-      "url": "https://huggingface.co/papers/2610.25100",
-      "description": "Large language models need effective ways to acquire and use external knowledge beyond what they retain from pretraining. Continued pretraining risks catastrophic forgetting, while retrieval at infere",
-      "published": "2026-10-17T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 31,
-      "is_new": false
-    },
-    {
       "id": "50134298",
       "title": "Three LLM judges couldn't tell an AI agent's real memory from a counterfeit one",
       "url": "https://kairos-experiment.com/checks.html",
@@ -1287,6 +1275,20 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 5,
+      "comments": 0,
+      "is_new": false
+    },
+    {
+      "id": "50134132",
+      "title": "Show HN: InBox Wall – A local-first, open-source email sanitizer for AI agents",
+      "url": "https://github.com/Annora998/inboxwall",
+      "description": "",
+      "published": "2026-10-17T19:15:11Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
       "comments": 0,
       "is_new": false
     }
