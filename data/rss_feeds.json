@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-23T22:05:07.955923+00:00",
+  "last_updated": "2026-10-24T00:37:04.363697+00:00",
   "total_entries": 110,
-  "new_entries": 2,
+  "new_entries": 7,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -96,18 +96,6 @@
       "is_new": false
     },
     {
-      "id": "12af459ff8f6cdb22ece577f0d8ab558",
-      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-      "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
-      "description": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
-      "published": "Wed, 21 Oct 2026 20:27:41 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "c4c762c6b7472ecc9c15313d2d103e36",
       "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
       "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
@@ -132,10 +120,10 @@
       "is_new": false
     },
     {
-      "id": "591876a8e3e006964f6564e69a096e09",
-      "title": "Canva releases its first image generation model",
-      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-      "description": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+      "id": "8e6cfc22204fb217ce70d702347f41e6",
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "description": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
       "published": "Thu, 22 Oct 2026 19:00:00 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
@@ -144,10 +132,10 @@
       "is_new": false
     },
     {
-      "id": "8e6cfc22204fb217ce70d702347f41e6",
-      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-      "description": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+      "id": "591876a8e3e006964f6564e69a096e09",
+      "title": "Canva releases its first image generation model",
+      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "description": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
       "published": "Thu, 22 Oct 2026 19:00:00 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
@@ -240,10 +228,22 @@
       "is_new": false
     },
     {
+      "id": "7384891d7abd016f1f03acd892d40c3a",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "description": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+      "published": "Fri, 23 Oct 2026 23:05:49 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "67b40086dc1e89d5fcfc6e54abe2fbda",
       "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
       "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-      "description": "The robots, stomping their little feet and making tiny R2D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+      "description": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
       "published": "Fri, 23 Oct 2026 21:59:19 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
@@ -861,7 +861,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 8,
+      "points": 9,
       "comments": 2,
       "is_new": false
     },
@@ -939,7 +939,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 6,
+      "points": 7,
       "comments": 3,
       "is_new": false
     },
@@ -972,6 +972,19 @@
       "is_new": false
     },
     {
+      "id": "d6af5ae856a2f0022b73fb1e569ca9e5",
+      "title": "Different Tasks, Different Timesteps: Temporal Task-Aware Quantization for Diffusion Language Models",
+      "url": "https://huggingface.co/papers/2610.31198",
+      "description": "Diffusion Language Models (DLMs) introduce unique quantization challenges due to their iterative denoising process. In this work, we reveal that quantization sensitivity is both taskand time-dependent",
+      "published": "2026-10-21T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
+    },
+    {
       "id": "92ff1b9b6ee003b35ee34591730c72e1",
       "title": "BrickWright: Agentic Creation of Physically Feasible Brick Builds",
       "url": "https://huggingface.co/papers/2610.31651",
@@ -994,7 +1007,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 12,
+      "likes": 13,
       "is_new": false
     },
     {
@@ -1020,7 +1033,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 53,
+      "likes": 54,
       "is_new": false
     },
     {
@@ -1131,19 +1144,6 @@
       "is_new": false
     },
     {
-      "id": "7a92446f277b1e49b4d0dc5d839d1b86",
-      "title": "RLSplat: Resource-Linear Budget Control for Feed-forward 3D Gaussian Splatting",
-      "url": "https://huggingface.co/papers/2610.27712",
-      "description": "Feed-forward 3D Gaussian Splatting (FF3DGS) reconstructs 3D scenes from images in a single forward pass, making it well-suited to applications that must operate within limited resource budgets. To fur",
-      "published": "2026-10-19T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 15,
-      "is_new": false
-    },
-    {
       "id": "50157098",
       "title": "What is still hard to become good at as AI makes coding easier?",
       "url": "https://news.ycombinator.com/item?id=50157098",
@@ -1172,6 +1172,19 @@
       "is_new": false
     },
     {
+      "id": "c2181617420902e8d0a0b15487e18d3f",
+      "title": "Diffusion Language Models Change Speed Across Tasks and Languages",
+      "url": "https://huggingface.co/papers/2610.25835",
+      "description": "Diffusion language models can write several tokens in one forward pass, and they decide during generation how many passes to spend. Two outputs of the same token length can therefore vary a lot in cos",
+      "published": "2026-10-19T01:47:58.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "a9892ee6443bdd48f420dec550c7eb19",
       "title": "Who Takes the Lead? Model Ability and Task-Conditioned Collaboration with Humans",
       "url": "https://huggingface.co/papers/2610.27148",
@@ -1182,32 +1195,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 4,
-      "is_new": false
-    },
-    {
-      "id": "34e276a1fbf00717c7cf77154bf1c30a",
-      "title": "RouteWeaver: Weaving Mode Selection and Execution into Unified LLM Routing",
-      "url": "https://huggingface.co/papers/2610.19705",
-      "description": "LLM routing dynamically selects and coordinates heterogeneous language models across diverse tasks. However, existing approaches are largely built around a predefined execution paradigm, such as singl",
-      "published": "2026-10-18T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 17,
-      "is_new": false
-    },
-    {
-      "id": "217479293eb841eb06031f048f54aba8",
-      "title": "Heartbeat Thinking: Speculative Reasoning and Tool Execution While Listening in Realtime Voice Agents",
-      "url": "https://huggingface.co/papers/2610.26233",
-      "description": "Tool-using voice agents often leave users waiting after speech ends, even when actionable information arrives earlier in the request. Speculative approaches begin work during speech, but chunk-bounded",
-      "published": "2026-10-18T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 18,
       "is_new": false
     },
     {
@@ -1236,19 +1223,6 @@
       "category": "news",
       "points": 1,
       "comments": 0,
-      "is_new": false
-    },
-    {
-      "id": "cc44a06b31f7dc26d57815621cd972b5",
-      "title": "TILDE: Teacher-in-the-Loop Distillation from Embodied Foundation Models",
-      "url": "https://huggingface.co/papers/2610.25376",
-      "description": "Large-scale action pretraining equips Embodied Foundation Models (EFMs) with strong manipulation capabilities, with particular strengths in generalization and closed-loop robustness, but reproducing s",
-      "published": "2026-10-17T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
       "is_new": false
     },
     {
@@ -1290,6 +1264,33 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
+      "is_new": false
+    },
+    {
+      "id": "28cbcc16caa34245f6c9ef24e7ebfd73",
+      "title": "IF-MAP: Influence-Function-Inspired Agent Prioritization in Multi-Agent Systems",
+      "url": "https://huggingface.co/papers/2610.24383",
+      "description": "Improving every agent in an LLM-based multi-agent system can be prohibitively costly, making it important to identify which agent should be prioritized to achieve the greatest system-level gain with l",
+      "published": "2026-10-16T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": false
+    },
+    {
+      "id": "50110614",
+      "title": "Show HN: Endo – A Higher-Order Harness",
+      "url": "https://github.com/longsurf-ai/endo",
+      "description": "",
+      "published": "2026-10-15T21:32:10Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 6,
+      "comments": 0,
       "is_new": false
     }
   ],
@@ -1344,18 +1345,6 @@
         "is_new": false
       },
       {
-        "id": "12af459ff8f6cdb22ece577f0d8ab558",
-        "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-        "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
-        "description": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
-        "published": "Wed, 21 Oct 2026 20:27:41 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
         "id": "c4c762c6b7472ecc9c15313d2d103e36",
         "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
         "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
@@ -1380,10 +1369,10 @@
         "is_new": false
       },
       {
-        "id": "591876a8e3e006964f6564e69a096e09",
-        "title": "Canva releases its first image generation model",
-        "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-        "description": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+        "id": "8e6cfc22204fb217ce70d702347f41e6",
+        "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+        "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+        "description": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
         "published": "Thu, 22 Oct 2026 19:00:00 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
@@ -1392,10 +1381,10 @@
         "is_new": false
       },
       {
-        "id": "8e6cfc22204fb217ce70d702347f41e6",
-        "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-        "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-        "description": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+        "id": "591876a8e3e006964f6564e69a096e09",
+        "title": "Canva releases its first image generation model",
+        "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+        "description": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
         "published": "Thu, 22 Oct 2026 19:00:00 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
@@ -1488,10 +1477,22 @@
         "is_new": false
       },
       {
+        "id": "7384891d7abd016f1f03acd892d40c3a",
+        "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+        "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+        "description": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+        "published": "Fri, 23 Oct 2026 23:05:49 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "67b40086dc1e89d5fcfc6e54abe2fbda",
         "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
         "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-        "description": "The robots, stomping their little feet and making tiny R2D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+        "description": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
         "published": "Fri, 23 Oct 2026 21:59:19 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
@@ -1629,7 +1630,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 8,
+        "points": 9,
         "comments": 2,
         "is_new": false
       },
