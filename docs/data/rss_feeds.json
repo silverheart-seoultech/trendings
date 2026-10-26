@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-26T12:37:49.939077+00:00",
+  "last_updated": "2026-10-26T12:52:44.548007+00:00",
   "total_entries": 110,
-  "new_entries": 19,
+  "new_entries": 1,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -779,7 +779,7 @@
       "category": "news",
       "points": 1,
       "comments": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "50240121",
@@ -793,7 +793,7 @@
       "category": "news",
       "points": 1,
       "comments": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "50232753",
@@ -982,7 +982,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "ecf7f844ddd25b0280a82397557741e8",
@@ -995,7 +995,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "e7405fef29867889abbe8c660a0129c8",
@@ -1008,26 +1008,13 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "1c8245265360749510d4f540259fba31",
       "title": "LoCA: Enabling Multi-Modality in Geospatial Location Encoders",
       "url": "https://huggingface.co/papers/2610.32894",
       "description": "Location encoders map geographic coordinates to high-dimensional descriptors through contrastive alignment with paired Earth Observation imagery. We prove that this construction is structurally limite",
-      "published": "2026-10-22T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": true
-    },
-    {
-      "id": "cb5b75b39ffed3a5697164d478478790",
-      "title": "Easy-3Dfy: Object-Level Geometric Composition for Single-Image 3D Scene Construction",
-      "url": "https://huggingface.co/papers/2610.32250",
-      "description": "Single-image 3D scene construction is a fundamental problem in 3D vision. Recent methods such as SAM-3Dfy enable end-to-end reconstruction of 3D assets and their scene layouts, but still struggle with",
       "published": "2026-10-22T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
@@ -1065,6 +1052,19 @@
       "is_new": false
     },
     {
+      "id": "245f80b25c804081a04e89bacc993ff5",
+      "title": "Does LeWorldModel Preserve Local Action Geometry?",
+      "url": "https://huggingface.co/papers/2610.31716",
+      "description": "We examine how closely pretrained LeWorldModel (LeWM) reproduces the effects of small action changes. Using matched simulator and model responses, we measure action sensitivity with Gram matrices at t",
+      "published": "2026-10-21T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "deec1edbaf0fec0dca0c570ec0bcc3af",
       "title": "Reading, Writing, Sharing, and Interacting with the World through Video",
       "url": "https://huggingface.co/papers/2610.31668",
@@ -1074,8 +1074,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 169,
-      "is_new": true
+      "likes": 183,
+      "is_new": false
     },
     {
       "id": "89640349b39da8b1b828958bebac4a9c",
@@ -1088,7 +1088,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "af22c0d2542e02a6c2a8022391fd2eb1",
@@ -1101,7 +1101,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "c2e137a8d29a236f064c8249f7a83ee8",
@@ -1114,7 +1114,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "ad1c5b28efe0da991f62228fa56799f2",
@@ -1127,7 +1127,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 15,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "5f685e53291be5713b083ad5184e1104",
@@ -1140,7 +1140,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 13,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "83b47a5bcdd42f9defbaf0fc4c7ac6cc",
@@ -1180,7 +1180,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "9f70414ca30cd65760fc9b796ec4676e",
@@ -1193,7 +1193,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "50167583",
@@ -1234,7 +1234,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "c961b354dc7e40fb175f4dfe102f4984",
@@ -1247,7 +1247,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "e2d53de3b918e0eb580b3cdbf2c55226",
@@ -1260,7 +1260,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "50157098",
@@ -1545,7 +1545,7 @@
         "category": "news",
         "points": 1,
         "comments": 0,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "50240121",
@@ -1559,7 +1559,7 @@
         "category": "news",
         "points": 1,
         "comments": 0,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "50232753",
