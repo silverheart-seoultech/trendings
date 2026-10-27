@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-26T23:06:43.057407+00:00",
+  "last_updated": "2026-10-27T02:01:02.947993+00:00",
   "total_entries": 110,
-  "new_entries": 1,
+  "new_entries": 9,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -48,6 +48,18 @@
   ],
   "entries": [
     {
+      "id": "8cbd8d09602ba622591fbf057d4ebdd0",
+      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+      "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+      "description": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has",
+      "published": "Tue, 27 Oct 2026 01:12:21 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "c4c762c6b7472ecc9c15313d2d103e36",
       "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
       "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
@@ -76,18 +88,6 @@
       "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
       "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
       "description": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
-      "published": "Thu, 22 Oct 2026 19:00:00 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "591876a8e3e006964f6564e69a096e09",
-      "title": "Canva releases its first image generation model",
-      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-      "description": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
       "published": "Thu, 22 Oct 2026 19:00:00 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
@@ -777,9 +777,21 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 9,
+      "points": 17,
       "comments": 1,
       "is_new": false
+    },
+    {
+      "id": "636dd8e40f57df258940d50144b45208",
+      "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+      "description": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math,",
+      "published": "2026-10-26T19:47:59-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "dace5288fc19ee9cdae65fe948ac1413",
@@ -990,18 +1002,6 @@
       "is_new": false
     },
     {
-      "id": "b1787c28a15080e7145887de5fef719a",
-      "title": "Blue Planet III is keeping the rough edges in the age of AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-      "description": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage t",
-      "published": "2026-10-24T17:29:12-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "ec4100b5e401e0ad2e50d03fcf4aaf81",
       "title": "Google’s AI search changes upended online publishing",
       "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
@@ -1026,6 +1026,45 @@
       "points": 9,
       "comments": 2,
       "is_new": false
+    },
+    {
+      "id": "613225baa5eeabf60a7fba2395816e21",
+      "title": "Trial by Trace: Benchmarking AI Agent Harnesses for Reliability and Failure Attribution",
+      "url": "https://huggingface.co/papers/2610.32285",
+      "description": "LLM agents are increasingly used to solve real-world problems, and their effectiveness depends on both the underlying models and the harnesses that support their operation. However, most existing benc",
+      "published": "2026-10-22T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "159775c61135c97214d45426ef9898bf",
+      "title": "WorldCast: World-Consistent Character Video Generation with Large-Angle Camera Control",
+      "url": "https://huggingface.co/papers/2610.33135",
+      "description": "Precise camera control is essential for cinematic character video generation, yet existing methods struggle to follow large-angle trajectories with combined rotation, translation, and radius variation",
+      "published": "2026-10-22T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 18,
+      "is_new": true
+    },
+    {
+      "id": "69eaeb34d7584f2093af125027db5e45",
+      "title": "DiscoDemo: Discovering Efficient and Diverse Robot Demonstrations for Imitation Learning",
+      "url": "https://huggingface.co/papers/2610.32093",
+      "description": "Behavior cloning for robotic manipulation is highly sensitive to the coverage of its training data, yet collecting diverse successful demonstrations remains costly. We study reinforcement learning (RL",
+      "published": "2026-10-22T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 8,
+      "is_new": true
     },
     {
       "id": "50195403",
@@ -1134,45 +1173,6 @@
       "is_new": false
     },
     {
-      "id": "deec1edbaf0fec0dca0c570ec0bcc3af",
-      "title": "Reading, Writing, Sharing, and Interacting with the World through Video",
-      "url": "https://huggingface.co/papers/2610.31668",
-      "description": "Video foundation models have advanced rapidly in understanding and generating visual sequences, while video world models seek to capture the underlying dynamics of the world they depict. Despite their",
-      "published": "2026-10-21T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 221,
-      "is_new": false
-    },
-    {
-      "id": "89640349b39da8b1b828958bebac4a9c",
-      "title": "MMVistaReason: Toward Open-Data and Post-Training Recipes for Multimodal Reasoning",
-      "url": "https://huggingface.co/papers/2610.01352",
-      "description": "Open multimodal reasoning models have benefited from large-scale reasoning supervision, yet reliable post-training remains challenging due to uneven data quality, inefficient supervision construction,",
-      "published": "2026-10-21T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 5,
-      "is_new": false
-    },
-    {
-      "id": "af22c0d2542e02a6c2a8022391fd2eb1",
-      "title": "DISC: Domain-Integrated Similarity Cost for Time-Series Dataset",
-      "url": "https://huggingface.co/papers/2610.31288",
-      "description": "The growth of time-series datasets and foundation models has made dataset comparison a central part of time-series workflows. Assessing source-target transfer before model adaptation requires similari",
-      "published": "2026-10-21T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
       "id": "50182883",
       "title": "Open-source, cross-harness memory for AI agents",
       "url": "https://news.ycombinator.com/item?id=50182883",
@@ -1187,6 +1187,19 @@
       "is_new": false
     },
     {
+      "id": "d7c96a65eab190c278ca8bd95a63f867",
+      "title": "Steering Black-Box Large Language Model Agents with Pitfall Anticipation World Model",
+      "url": "https://huggingface.co/papers/2610.29139",
+      "description": "Frontier black-box Large Language Model (LLM) agents are proficient at long-horizon reasoning and precise action generation. However, when it comes to a specific agentic task, they have no internalize",
+      "published": "2026-10-20T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "6e417808c5a4407af54fde2dbc59a107",
       "title": "LLM2Cert: LLM Synthesis of Certificates with SMT/Lean Verification",
       "url": "https://huggingface.co/papers/2610.30524",
@@ -1196,7 +1209,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -1228,6 +1241,19 @@
       "is_new": false
     },
     {
+      "id": "e5d29edb02132c9b557a54c0b9677cff",
+      "title": "WORTH Benchmark: Evidence Discovery under Not-Fully-Cooperative Information -- A Two-Episode Pilot",
+      "url": "https://huggingface.co/papers/2610.27597",
+      "description": "Existing reasoning evaluations typically provide task-relevant information to models as available premises, rarely examining concurrently how models discover evidence autonomously and how information ",
+      "published": "2026-10-19T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "89b567ec958feaf6d95bd67bf7492baf",
       "title": "Judging the Justification: Decision Certificate Supervision for Generative Reward Models",
       "url": "https://huggingface.co/papers/2610.27528",
@@ -1238,19 +1264,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": false
-    },
-    {
-      "id": "bcd15a4d400052d035327a4ffb4a8f21",
-      "title": "RoboJudge: Multimodal Language Models as Judges for Embodied Video Generation",
-      "url": "https://huggingface.co/papers/2610.27782",
-      "description": "Video generation models are promising foundations for embodied world models, but only if their generated rollouts are physically valid and faithful to task instructions. Multimodal large language mode",
-      "published": "2026-10-19T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
       "is_new": false
     },
     {
@@ -1280,23 +1293,22 @@
       "points": 59,
       "comments": 35,
       "is_new": false
-    },
-    {
-      "id": "23ab197484d8a6ae5588b6ac89e42d86",
-      "title": "Predictive Closure: A Set-Level Characterization of JEPA's Feature Selection",
-      "url": "https://huggingface.co/papers/2610.27364",
-      "description": "In joint-embedding predictive architectures (JEPA), an encoder and a predictor are trained together to produce a representation that minimizes the error in predicting the representation of the next ob",
-      "published": "2026-10-18T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 0,
-      "is_new": false
     }
   ],
   "by_category": {
     "news": [
+      {
+        "id": "8cbd8d09602ba622591fbf057d4ebdd0",
+        "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+        "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+        "description": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has",
+        "published": "Tue, 27 Oct 2026 01:12:21 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "c4c762c6b7472ecc9c15313d2d103e36",
         "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
@@ -1326,18 +1338,6 @@
         "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
         "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
         "description": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
-        "published": "Thu, 22 Oct 2026 19:00:00 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "591876a8e3e006964f6564e69a096e09",
-        "title": "Canva releases its first image generation model",
-        "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-        "description": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
         "published": "Thu, 22 Oct 2026 19:00:00 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
@@ -1547,9 +1547,21 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 9,
+        "points": 17,
         "comments": 1,
         "is_new": false
+      },
+      {
+        "id": "636dd8e40f57df258940d50144b45208",
+        "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+        "description": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math,",
+        "published": "2026-10-26T19:47:59-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
       },
       {
         "id": "dace5288fc19ee9cdae65fe948ac1413",
@@ -1651,20 +1663,6 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "50242526",
-        "title": "Show HN: Graph-MIND – Local memory for AI coding agents, no LLM calls to save",
-        "url": "https://github.com/goyohan0611-png/graph-mind",
-        "description": "",
-        "published": "2026-10-26T12:30:12Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 1,
-        "comments": 0,
         "is_new": false
       }
     ],
