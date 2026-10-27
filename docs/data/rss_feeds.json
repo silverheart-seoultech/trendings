@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-27T07:45:26.120444+00:00",
+  "last_updated": "2026-10-27T11:54:03.731700+00:00",
   "total_entries": 110,
-  "new_entries": 7,
+  "new_entries": 23,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,6 +47,18 @@
     }
   ],
   "entries": [
+    {
+      "id": "867c05e1e13c4aa5882f656765d9e2a9",
+      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+      "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+      "description": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+      "published": "Tue, 27 Oct 2026 11:00:00 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "cb685d5b4cbcc16ac9db7635362d00a9",
       "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
@@ -564,18 +576,6 @@
       "is_new": false
     },
     {
-      "id": "c1230fd4012baae4263c7625929391b0",
-      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-      "description": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
-      "published": "Thu, 22 Oct 2026 19:07:09 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "9e4fbbe069370a1fd97c40fab98753b8",
       "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
       "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
@@ -796,6 +796,18 @@
       "is_new": false
     },
     {
+      "id": "a0f36022fc6a06c429572f473cab766c",
+      "title": "Data center backlash is uniting America",
+      "url": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
+      "description": "If there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server storage facilities - and the infrastructure construction and expe",
+      "published": "2026-10-26T19:58:16-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "636dd8e40f57df258940d50144b45208",
       "title": "OpenAI announces three big science discoveries and a new way to work with academics",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
@@ -962,6 +974,58 @@
       "is_new": false
     },
     {
+      "id": "1be4736404e6cb97189cd0b86a9b55a2",
+      "title": "Constrained Decoding: Harmful or Beneficial? Revisiting Its Impact on LLM Performance",
+      "url": "https://huggingface.co/papers/2610.35328",
+      "description": "Constrained decoding guarantees that Large Language Models (LLMs) produce outputs conforming to predefined formats, but is often assumed to inherently degrade reasoning. We examine this assumption thr",
+      "published": "2026-10-25T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "fe863b53eae648219c01167c33a46394",
+      "title": "More Memory, Better Videos? A Controlled Study of Visual Memory in Long-Video Generation",
+      "url": "https://huggingface.co/papers/2610.35001",
+      "description": "Long-video generators increasingly retrieve past visual observations to prevent identity drift. The intuition is compelling: more access to history should make future video more consistent. But an ima",
+      "published": "2026-10-25T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 7,
+      "is_new": true
+    },
+    {
+      "id": "0ea7b94d47799c91b6f334f256da085c",
+      "title": "Thinking-in-Bets at Test Time Reduces Sycophantic Revisions in LLM Agents",
+      "url": "https://huggingface.co/papers/2610.34654",
+      "description": "Language model agents often abandon correct work when a user challenges it, yet simply telling them to stand firm makes them ignore real mistakes. Once an agent reads a complaint, it tends to discount",
+      "published": "2026-10-25T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "78952edbc62349fd7c5d682172901eb6",
+      "title": "EmbodiedLab: Benchmarking Embodied Agents That Act to Know",
+      "url": "https://huggingface.co/papers/2610.35385",
+      "description": "Embodied agents are expected to accomplish real-world goals by deciding for themselves how and when to interact with their surroundings. For many such goals, changing the physical state of the world i",
+      "published": "2026-10-25T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 9,
+      "is_new": true
+    },
+    {
       "id": "74de3a065c537468d12c1a6ae2fb40e9",
       "title": "S3AC: Stabilized, Selective, and Scalable Actor-Critic for LLM Reasoning",
       "url": "https://huggingface.co/papers/2610.35518",
@@ -971,60 +1035,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 10,
+      "likes": 11,
       "is_new": true
-    },
-    {
-      "id": "1258cc18a9f9fb6a277f5b0526cf444e",
-      "title": "Skill^{infty}: Recursive Self-Improvement for Agent Skill Optimization",
-      "url": "https://huggingface.co/papers/2610.35434",
-      "description": "Recursive self-improvement (RSI), in which a system also improves the way it improves, is a long-standing aspiration on the path to AGI. Language agents increasingly store procedural knowledge in reus",
-      "published": "2026-10-25T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": true
-    },
-    {
-      "id": "a5b3114d454e6668358f8c5e1cf3661d",
-      "title": "Trustworthy Recursive Self-Improvement in the Era of Large Models: Foundation, Risks, Evaluation and Open Challenges",
-      "url": "https://huggingface.co/papers/2610.35193",
-      "description": "AI systems built around large models increasingly use experience and feedback to make persistent changes to models, prompts, memories, tools, and workflows. Recursive self-improvement (RSI) extends th",
-      "published": "2026-10-25T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 10,
-      "is_new": false
-    },
-    {
-      "id": "59a09c1b6dc92c24ed4a6c0e8eb41cb9",
-      "title": "Work Agents: Systems, Capabilities, and Optimization",
-      "url": "https://huggingface.co/papers/2610.35845",
-      "description": "As foundation models evolve from information generation to digital work execution, agents are increasingly capable of completing complex tasks across tools, applications, and workflows. However, exist",
-      "published": "2026-10-25T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 24,
-      "is_new": false
-    },
-    {
-      "id": "62b0e07cd678bfb77048a22d129873b8",
-      "title": "StreamVibe: Proactive Video Agents for Evolving User Intent",
-      "url": "https://huggingface.co/papers/2610.34662",
-      "description": "Vision-language models are shifting from offline passive understanding toward online proactive interaction. However, prevailing methods largely rely on explicit requests while miss the implicit user i",
-      "published": "2026-10-25T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 118,
-      "is_new": false
     },
     {
       "id": "50232753",
@@ -1051,7 +1063,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 90,
-      "comments": 128,
+      "comments": 129,
       "is_new": false
     },
     {
@@ -1081,6 +1093,19 @@
       "is_new": false
     },
     {
+      "id": "8a1b6ed010d16970e438fa2a9eda08f9",
+      "title": "Beyond Benchmarks: Can Small Open-Weight Models Get Real Coding Work Done?",
+      "url": "https://huggingface.co/papers/2610.34241",
+      "description": "Making an open-weight language model generate text is not the same as making it finish coding work. This retrospective empirical systems experience report follows my engineering work from July to Octo",
+      "published": "2026-10-24T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "301f93799c47eb4ba1890883546c4389",
       "title": "Humans in Space: Can MLLMs Construct Human-Centric Spatial Understanding via Active Exocentric Exploration?",
       "url": "https://huggingface.co/papers/2610.34149",
@@ -1094,82 +1119,43 @@
       "is_new": true
     },
     {
-      "id": "57eeb8d6e8bfba7c38448d0a6588df61",
-      "title": "Spatial Audio Generation and Editing with Executable Plans and Self-Distilling Transfusion",
-      "url": "https://huggingface.co/papers/2610.34415",
-      "description": "Spatial audio authoring coordinates source decisions with soundfield synthesis. For editing, plans specify what to change and retain, while reference audio supplies further acoustic detail. We present",
-      "published": "2026-10-24T20:00:00.000Z",
+      "id": "c5eb82a8ba2f4c21db04801cd3fd050d",
+      "title": "RoboJev: An Open Vision-Language Judge for Robot Success Detection",
+      "url": "https://huggingface.co/papers/2610.33718",
+      "description": "Many robot manipulation videos do not indicate whether the task was successfully completed. RoboJev-27B is an open-weight vision-language model that takes a task instruction, 10 frames of a manipulati",
+      "published": "2026-10-23T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 30,
+      "likes": 1,
       "is_new": true
     },
     {
-      "id": "3940052f5b6823c4c0faf1d5d7c916ba",
-      "title": "RynnVLA-Latent: Scaling Robotic Manipulation Foundation Models with 3D-Grounded Latent Actions",
-      "url": "https://huggingface.co/papers/2610.34356",
-      "description": "Scaling vision-language-action (VLA) models is constrained by scarce action-labeled demonstrations and incompatible control spaces across robot embodiments. We present RynnVLA-Latent, a framework that",
-      "published": "2026-10-24T20:00:00.000Z",
+      "id": "2a91f4f048599438019d2dda1fe6d5b1",
+      "title": "Trust Mechanisms for Offline Generative AI at the Edge: A Connectivity-Regime Framework and an Empirical Study on a Raspberry Pi 5",
+      "url": "https://huggingface.co/papers/2610.33732",
+      "description": "Generative AI and large language models (LLMs) are moving into the Internet of Things, yet most deployments assume cloud connectivity, and many IoT settings have intermittent, restricted, or no connec",
+      "published": "2026-10-23T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
-      "is_new": false
+      "likes": 0,
+      "is_new": true
     },
     {
-      "id": "ae70d6fe551839c4c962dcbb4833f10e",
-      "title": "DynaFlow: Learning Free-Form Multi-Agent Orchestration",
-      "url": "https://huggingface.co/papers/2610.34467",
-      "description": "Multi-agent systems often rely on predefined collaboration structures, limiting their ability to adapt to diverse task requirements. We introduce DynaFlow, a framework that integrates free-form execut",
-      "published": "2026-10-24T20:00:00.000Z",
+      "id": "402db934b785928c664a2952f20166ef",
+      "title": "AV-FABLE: Audio-Visual Manipulation Forensics in Long-Form Videos",
+      "url": "https://huggingface.co/papers/2610.33413",
+      "description": "Localized AI manipulations in long-form videos often affect brief events within otherwise authentic content, making video-level classification insufficient for forensic analysis. Existing audio-visual",
+      "published": "2026-10-23T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 35,
-      "is_new": false
-    },
-    {
-      "id": "0f5aa5fac2c5b9e891798266213905f6",
-      "title": "Δτ-Bench: Pushing Agents Toward a Moving Capability",
-      "url": "https://huggingface.co/papers/2610.34238",
-      "description": "In this paper, we introduce Δτ-Bench, an executable agent benchmark that models the structural evolution of large tool ecosystems. In Δτ-Bench, independently evolving services continually reshape how ",
-      "published": "2026-10-24T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 15,
-      "is_new": false
-    },
-    {
-      "id": "9d86c84537a4b719eccdf7c2caa25c87",
-      "title": "AgentProofBench: Benchmarking Reusable Verifiers for Web Agents",
-      "url": "https://huggingface.co/papers/2610.34634",
-      "description": "Reusable Web-agent verification requires a rule to follow changing requirements and support subsequent execution. We introduce AgentProofBench, which connects paired tests of a frozen acceptance rule ",
-      "published": "2026-10-24T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
-      "is_new": false
-    },
-    {
-      "id": "da61d74643b7ab88c929579de1064d21",
-      "title": "ProAS: A Progress-Aware Advantage Shaping Framework for Multi-Turn Agentic Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2610.18683",
-      "description": "Reinforcement learning (RL) has emerged as the primary paradigm for optimizing Large Language Model (LLM) agents, yet efficient critic-free algorithms (e.g., GRPO) suffer from a fundamental uniform cr",
-      "published": "2026-10-24T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 9,
-      "is_new": false
+      "likes": 12,
+      "is_new": true
     },
     {
       "id": "aa0960aa6cded8c88bd2aae7d1738880",
@@ -1183,70 +1169,6 @@
       "category": "research",
       "likes": 2,
       "is_new": true
-    },
-    {
-      "id": "f55fb413512e9eb2bf1aee994c17524e",
-      "title": "Eat Your Precision: Precision Objective Mitigates Reward Hacking in Rubric-based RL",
-      "url": "https://huggingface.co/papers/2610.33512",
-      "description": "Rubric-based rewards enable effective reinforcement learning on non-verifiable tasks. However, because these rewards are typically defined as a weighted measure of rubric coverage, models are trained ",
-      "published": "2026-10-23T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 20,
-      "is_new": true
-    },
-    {
-      "id": "66125ef45b22ef8caba6fb41ce100440",
-      "title": "Build, Don't Play: Self-Improving LLM Research Agents Develop a Hearthstone Battlegrounds AI That Rivals Top Players",
-      "url": "https://huggingface.co/papers/2610.33845",
-      "description": "Can LLM agents carry a hard real-world problem from raw data to a system that holds its own against people? We study this in Hearthstone Battlegrounds, an eight-player auto-battler with stochastic sho",
-      "published": "2026-10-23T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 8,
-      "is_new": false
-    },
-    {
-      "id": "483b88e2d3a20bf744d650864c9dc8ef",
-      "title": "Novel or Not? PatEx-Gym: Agentic Prior-Art Search for Novelty Assessment in Patent Examination",
-      "url": "https://huggingface.co/papers/2610.33503",
-      "description": "Patent examination is a challenging real-world task that requires agents to discover sparse prior art, iteratively refine queries, inspect technical evidence, and produce novelty assessments documente",
-      "published": "2026-10-23T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 5,
-      "is_new": false
-    },
-    {
-      "id": "fb4d0a663fee468011e5cef66743da3e",
-      "title": "Qwen-Image-PE: Learning Visual Design for Text-to-Image Prompt Enhancement",
-      "url": "https://huggingface.co/papers/2610.33472",
-      "description": "Learning visual design is essential for prompt enhancement (PE) to turn underspecified user requests into coherent visual specifications for text-to-image (T2I) generation. Existing methods preserve u",
-      "published": "2026-10-23T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 16,
-      "is_new": false
-    },
-    {
-      "id": "ec4100b5e401e0ad2e50d03fcf4aaf81",
-      "title": "Google’s AI search changes upended online publishing",
-      "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
-      "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inbox",
-      "published": "2026-10-23T16:42:34-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
     },
     {
       "id": "50201860",
@@ -1289,10 +1211,101 @@
       "points": 14,
       "comments": 17,
       "is_new": false
+    },
+    {
+      "id": "0b08a008825f308d201a216fe5db608f",
+      "title": "Joint or Per-Option? Compact Encoders for Closed-Set Decisions from 17 Million to 1 Billion Parameters",
+      "url": "https://huggingface.co/papers/2610.30970",
+      "description": "Many language-model pipelines end in a closed-set decision, such as selecting a tool. Prompting a large language model for it is slow and order-sensitive. We ask how small an encoder for such decision",
+      "published": "2026-10-21T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "cc1e477df39b8a054f5726db852bf234",
+      "title": "Nested Sparsity for Scalable Pretraining and Continual Learning",
+      "url": "https://huggingface.co/papers/2610.31818",
+      "description": "Mixture-of-experts (MoE) transformers, the standard backbone for modern large-scale deep learning, employ conditional computation: only a sparse subset of model weights is used in each forward pass. I",
+      "published": "2026-10-21T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "14f2d39847b53093041472e216163a5c",
+      "title": "HiP3R: Hierarchical Pose Graphs for Long-Horizon 3D Reconstruction",
+      "url": "https://huggingface.co/papers/2610.31635",
+      "description": "Feed-forward models accurately estimate camera motion and 3D geometry from short video windows. However, computational and memory costs prevent direct inference on sequences containing thousands of fr",
+      "published": "2026-10-21T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 12,
+      "is_new": true
+    },
+    {
+      "id": "50182883",
+      "title": "Open-source, cross-harness memory for AI agents",
+      "url": "https://news.ycombinator.com/item?id=50182883",
+      "description": "",
+      "published": "2026-10-21T15:42:38Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 18,
+      "comments": 14,
+      "is_new": false
+    },
+    {
+      "id": "f7e9907d1965eb9f146d56aad897b1c4",
+      "title": "CausalAlign: Causal Alignment of Video Generation Models for Consistent Ego-Motion",
+      "url": "https://huggingface.co/papers/2610.29915",
+      "description": "Diffusion-based video generation models (VGMs) can produce visually plausible videos, yet their camera ego-motion often drifts over long horizons. Camera ego-motion determines how the viewpoint change",
+      "published": "2026-10-20T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
+    },
+    {
+      "id": "58040937695a00d01fd7fbe8dbf240fa",
+      "title": "Rethinking Video Storage for AI Training: Breaking Cross-Frame Dependencies for Efficient Random Access",
+      "url": "https://huggingface.co/papers/2610.33079",
+      "description": "Large-scale AI training increasingly relies on massive video datasets with random temporal sampling patterns. However, existing video storage paradigms are optimized for sequential playback and employ",
+      "published": "2026-10-20T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 8,
+      "is_new": true
     }
   ],
   "by_category": {
     "news": [
+      {
+        "id": "867c05e1e13c4aa5882f656765d9e2a9",
+        "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+        "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+        "description": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+        "published": "Tue, 27 Oct 2026 11:00:00 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "cb685d5b4cbcc16ac9db7635362d00a9",
         "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
@@ -1323,18 +1336,6 @@
         "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
         "description": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
         "published": "Thu, 22 Oct 2026 22:08:24 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "c1230fd4012baae4263c7625929391b0",
-        "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-        "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-        "description": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
-        "published": "Thu, 22 Oct 2026 19:07:09 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
@@ -1562,6 +1563,18 @@
         "is_new": false
       },
       {
+        "id": "a0f36022fc6a06c429572f473cab766c",
+        "title": "Data center backlash is uniting America",
+        "url": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
+        "description": "If there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server storage facilities - and the infrastructure construction and expe",
+        "published": "2026-10-26T19:58:16-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "636dd8e40f57df258940d50144b45208",
         "title": "OpenAI announces three big science discoveries and a new way to work with academics",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
@@ -1647,20 +1660,6 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "50243234",
-        "title": "AI is coming for accounting after coding",
-        "url": "https://news.ycombinator.com/item?id=50243234",
-        "description": "",
-        "published": "2026-10-26T13:24:26Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 3,
-        "comments": 4,
         "is_new": false
       }
     ],
