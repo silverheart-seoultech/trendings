@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-27T04:31:33.857628+00:00",
+  "last_updated": "2026-10-27T07:45:26.120444+00:00",
   "total_entries": 110,
-  "new_entries": 24,
+  "new_entries": 7,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -57,7 +57,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "8cbd8d09602ba622591fbf057d4ebdd0",
@@ -69,7 +69,7 @@
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "39d0d7e665e9e28cd000480c7d8ab4bc",
@@ -779,7 +779,7 @@
       "category": "news",
       "points": 2,
       "comments": 0,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "50251200",
@@ -805,7 +805,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "dace5288fc19ee9cdae65fe948ac1413",
@@ -962,6 +962,32 @@
       "is_new": false
     },
     {
+      "id": "74de3a065c537468d12c1a6ae2fb40e9",
+      "title": "S3AC: Stabilized, Selective, and Scalable Actor-Critic for LLM Reasoning",
+      "url": "https://huggingface.co/papers/2610.35518",
+      "description": "Critic-free methods are widely used in reinforcement learning with verifiable rewards (RLVR) for long chain-of-thought (CoT) reasoning, avoiding difficult and costly critic training. Common alternativ",
+      "published": "2026-10-25T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 10,
+      "is_new": true
+    },
+    {
+      "id": "1258cc18a9f9fb6a277f5b0526cf444e",
+      "title": "Skill^{infty}: Recursive Self-Improvement for Agent Skill Optimization",
+      "url": "https://huggingface.co/papers/2610.35434",
+      "description": "Recursive self-improvement (RSI), in which a system also improves the way it improves, is a long-standing aspiration on the path to AGI. Language agents increasingly store procedural knowledge in reus",
+      "published": "2026-10-25T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
       "id": "a5b3114d454e6668358f8c5e1cf3661d",
       "title": "Trustworthy Recursive Self-Improvement in the Era of Large Models: Foundation, Risks, Evaluation and Open Challenges",
       "url": "https://huggingface.co/papers/2610.35193",
@@ -971,8 +997,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
-      "is_new": true
+      "likes": 10,
+      "is_new": false
     },
     {
       "id": "59a09c1b6dc92c24ed4a6c0e8eb41cb9",
@@ -984,8 +1010,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
-      "is_new": true
+      "likes": 24,
+      "is_new": false
     },
     {
       "id": "62b0e07cd678bfb77048a22d129873b8",
@@ -997,8 +1023,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 59,
-      "is_new": true
+      "likes": 118,
+      "is_new": false
     },
     {
       "id": "50232753",
@@ -1055,6 +1081,32 @@
       "is_new": false
     },
     {
+      "id": "301f93799c47eb4ba1890883546c4389",
+      "title": "Humans in Space: Can MLLMs Construct Human-Centric Spatial Understanding via Active Exocentric Exploration?",
+      "url": "https://huggingface.co/papers/2610.34149",
+      "description": "While Multimodal Large Language Models (MLLMs) excel at zero-shot reasoning, their spatial capabilities are primarily evaluated through static, passive observation. In complex, human-centric scenes, o",
+      "published": "2026-10-24T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "57eeb8d6e8bfba7c38448d0a6588df61",
+      "title": "Spatial Audio Generation and Editing with Executable Plans and Self-Distilling Transfusion",
+      "url": "https://huggingface.co/papers/2610.34415",
+      "description": "Spatial audio authoring coordinates source decisions with soundfield synthesis. For editing, plans specify what to change and retain, while reference audio supplies further acoustic detail. We present",
+      "published": "2026-10-24T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 30,
+      "is_new": true
+    },
+    {
       "id": "3940052f5b6823c4c0faf1d5d7c916ba",
       "title": "RynnVLA-Latent: Scaling Robotic Manipulation Foundation Models with 3D-Grounded Latent Actions",
       "url": "https://huggingface.co/papers/2610.34356",
@@ -1064,8 +1116,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
-      "is_new": true
+      "likes": 9,
+      "is_new": false
     },
     {
       "id": "ae70d6fe551839c4c962dcbb4833f10e",
@@ -1077,8 +1129,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
-      "is_new": true
+      "likes": 35,
+      "is_new": false
     },
     {
       "id": "0f5aa5fac2c5b9e891798266213905f6",
@@ -1090,8 +1142,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 11,
-      "is_new": true
+      "likes": 15,
+      "is_new": false
     },
     {
       "id": "9d86c84537a4b719eccdf7c2caa25c87",
@@ -1103,8 +1155,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
-      "is_new": true
+      "likes": 4,
+      "is_new": false
     },
     {
       "id": "da61d74643b7ab88c929579de1064d21",
@@ -1116,33 +1168,33 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
-      "is_new": true
-    },
-    {
-      "id": "2674d771561f5ce917b779cae4e93422",
-      "title": "InteractiveWorld: A Verifiable Human-Centric Environment for Building Better Interactive MLLM Assistants",
-      "url": "https://huggingface.co/papers/2610.33966",
-      "description": "People have long dreamed of an assistant that is always there to guide them and remind what they forget, from new dishes to lost keys. Powered by multimodal large language models (MLLMs), egocentric A",
-      "published": "2026-10-24T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 28,
-      "is_new": true
-    },
-    {
-      "id": "3b292cd142b9ac6be22a25eba761c0a2",
-      "title": "Continual Learning Exam: Benchmarking Long-Horizon RSI and Experiential Learning in LLM Agents",
-      "url": "https://huggingface.co/papers/2610.33956",
-      "description": "Continual learning is the ability of LLM agents to improve over time by acquiring, refining, and applying knowledge from experience while retaining useful prior knowledge. It is essential for agents l",
-      "published": "2026-10-24T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
       "likes": 9,
+      "is_new": false
+    },
+    {
+      "id": "aa0960aa6cded8c88bd2aae7d1738880",
+      "title": "Mycelium: A Meta-Study of Hallucination Detection Across Provenance, Typology, and Granularities",
+      "url": "https://huggingface.co/papers/2610.33608",
+      "description": "Hallucination detection is increasingly important for evaluating and deploying large language models. However, existing methods are often compared across benchmarks that define and measure hallucinati",
+      "published": "2026-10-23T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "f55fb413512e9eb2bf1aee994c17524e",
+      "title": "Eat Your Precision: Precision Objective Mitigates Reward Hacking in Rubric-based RL",
+      "url": "https://huggingface.co/papers/2610.33512",
+      "description": "Rubric-based rewards enable effective reinforcement learning on non-verifiable tasks. However, because these rewards are typically defined as a weighted measure of rubric coverage, models are trained ",
+      "published": "2026-10-23T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 20,
       "is_new": true
     },
     {
@@ -1155,8 +1207,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
-      "is_new": true
+      "likes": 8,
+      "is_new": false
     },
     {
       "id": "483b88e2d3a20bf744d650864c9dc8ef",
@@ -1168,8 +1220,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
-      "is_new": true
+      "likes": 5,
+      "is_new": false
     },
     {
       "id": "fb4d0a663fee468011e5cef66743da3e",
@@ -1181,21 +1233,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 13,
-      "is_new": true
-    },
-    {
-      "id": "2b92f9a06d9cd101e564363165cc7b15",
-      "title": "Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis for Tool-Use Agents",
-      "url": "https://huggingface.co/papers/2610.33568",
-      "description": "Successful tool-use trajectories are not necessarily useful supervision. Even successful interactions may underrepresent multi-step dependencies or contain actions that are unjustified by the informat",
-      "published": "2026-10-23T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 60,
-      "is_new": true
+      "likes": 16,
+      "is_new": false
     },
     {
       "id": "ec4100b5e401e0ad2e50d03fcf4aaf81",
@@ -1222,45 +1261,6 @@
       "points": 9,
       "comments": 2,
       "is_new": false
-    },
-    {
-      "id": "462710e5776146e916acb2457c262b2c",
-      "title": "Principia: Test-Time Hypotheses to Principle Construction for Scientific Discovery",
-      "url": "https://huggingface.co/papers/2610.32195",
-      "description": "Scientific discovery requires identifying the scientific principles underlying observed phenomena to guide further investigation. As these empirical principles are often unknown in complex discovery p",
-      "published": "2026-10-22T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": true
-    },
-    {
-      "id": "6b6292e2f6f87c3a3f7f68b4ed9f002f",
-      "title": "World-in-Context: Interactive Video World Modeling with In-Context Conditioning",
-      "url": "https://huggingface.co/papers/2610.33169",
-      "description": "Interactive video world models require coordinated control over viewing perspectives, character actions, and camera motion. Existing methods typically leave view modes implicit in text captions, confl",
-      "published": "2026-10-22T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 15,
-      "is_new": true
-    },
-    {
-      "id": "613225baa5eeabf60a7fba2395816e21",
-      "title": "Trial by Trace: Benchmarking AI Agent Harnesses for Reliability and Failure Attribution",
-      "url": "https://huggingface.co/papers/2610.32285",
-      "description": "LLM agents are increasingly used to solve real-world problems, and their effectiveness depends on both the underlying models and the harnesses that support their operation. However, most existing benc",
-      "published": "2026-10-22T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 34,
-      "is_new": true
     },
     {
       "id": "50195403",
@@ -1303,7 +1303,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "8cbd8d09602ba622591fbf057d4ebdd0",
@@ -1315,7 +1315,7 @@
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "c4c762c6b7472ecc9c15313d2d103e36",
@@ -1545,7 +1545,7 @@
         "category": "news",
         "points": 2,
         "comments": 0,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "50251200",
@@ -1571,7 +1571,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "dace5288fc19ee9cdae65fe948ac1413",
