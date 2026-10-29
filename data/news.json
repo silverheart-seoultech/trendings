@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-29T12:43:17.754975+00:00",
+  "last_updated": "2026-10-29T22:39:02.308559+00:00",
   "items": [
     {
       "type": "github_trending",
       "title": "AgriciDaniel/claude-seo",
       "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
       "url": "https://github.com/AgriciDaniel/claude-seo",
-      "stars": 23723,
+      "stars": 23957,
       "extra": "3,516 stars this week"
     },
     {
@@ -14,15 +14,23 @@
       "title": "TauricResearch/TradingAgents",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "url": "https://github.com/TauricResearch/TradingAgents",
-      "stars": 118135,
+      "stars": 118303,
       "extra": "5,322 stars this week"
+    },
+    {
+      "type": "github_trending",
+      "title": "hugohe3/ppt-master",
+      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "stars": 70807,
+      "extra": "4,980 stars this week"
     },
     {
       "type": "github_trending",
       "title": "vllm-project/vllm",
       "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
       "url": "https://github.com/vllm-project/vllm",
-      "stars": 95843,
+      "stars": 95864,
       "extra": "1,072 stars this week"
     },
     {
@@ -30,7 +38,7 @@
       "title": "higgsfield-ai/skills",
       "description": "",
       "url": "https://github.com/higgsfield-ai/skills",
-      "stars": 1800,
+      "stars": 1814,
       "extra": "415 stars this week"
     },
     {
@@ -38,7 +46,7 @@
       "title": "Graphify-Labs/graphify",
       "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
       "url": "https://github.com/Graphify-Labs/graphify",
-      "stars": 138267,
+      "stars": 138631,
       "extra": "6,662 stars this week"
     },
     {
@@ -46,7 +54,7 @@
       "title": "aws/agent-toolkit-for-aws",
       "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
       "url": "https://github.com/aws/agent-toolkit-for-aws",
-      "stars": 3335,
+      "stars": 3342,
       "extra": "408 stars this week"
     },
     {
@@ -54,7 +62,7 @@
       "title": "sgl-project/sglang",
       "description": "SGLang is a high-performance serving framework for large language models and multimodal models.",
       "url": "https://github.com/sgl-project/sglang",
-      "stars": 38346,
+      "stars": 38363,
       "extra": "784 stars this week"
     },
     {
@@ -62,7 +70,7 @@
       "title": "NVIDIA/SkillSpector",
       "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
       "url": "https://github.com/NVIDIA/SkillSpector",
-      "stars": 23245,
+      "stars": 23352,
       "extra": "2,222 stars this week"
     },
     {
@@ -70,16 +78,8 @@
       "title": "SnailSploit/Claude-Red",
       "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
       "url": "https://github.com/SnailSploit/Claude-Red",
-      "stars": 9784,
+      "stars": 9828,
       "extra": "2,059 stars this week"
-    },
-    {
-      "type": "github_trending",
-      "title": "luongnv89/claude-howto",
-      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "url": "https://github.com/luongnv89/claude-howto",
-      "stars": 46015,
-      "extra": "3,404 stars this week"
     },
     {
       "type": "hf_model",
@@ -87,7 +87,7 @@
       "description": "Pipeline: image-text-to-text",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
       "downloads": 131062,
-      "likes": 3686
+      "likes": 3759
     },
     {
       "type": "hf_model",
@@ -95,7 +95,7 @@
       "description": "Pipeline: text-generation",
       "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
       "downloads": 9655,
-      "likes": 749
+      "likes": 769
     },
     {
       "type": "hf_model",
@@ -103,7 +103,15 @@
       "description": "Pipeline: text-generation",
       "url": "https://huggingface.co/RecursiveSI/flint",
       "downloads": 16598,
-      "likes": 1224
+      "likes": 1238
+    },
+    {
+      "type": "hf_model",
+      "title": "LiquidAI/LFM3-1.7B",
+      "description": "Pipeline: text-generation",
+      "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
+      "downloads": 15885,
+      "likes": 474
     },
     {
       "type": "hf_model",
@@ -111,50 +119,42 @@
       "description": "Pipeline: text-generation",
       "url": "https://huggingface.co/XHToken/Spark-X2.6-4B",
       "downloads": 10163,
-      "likes": 888
-    },
-    {
-      "type": "hf_model",
-      "title": "tencent/Hy-SimulMT-30B-A3B-FP8",
-      "description": "Pipeline: translation",
-      "url": "https://huggingface.co/tencent/Hy-SimulMT-30B-A3B-FP8",
-      "downloads": 396,
-      "likes": 454
+      "likes": 903
     },
     {
       "type": "hf_space",
       "title": "glitchlab/MiniMax-H3-Turbo-Lora-UNCENSORED-Workflow",
       "description": "SDK: gradio",
       "url": "https://huggingface.co/spaces/glitchlab/MiniMax-H3-Turbo-Lora-UNCENSORED-Workflow",
-      "likes": 547
+      "likes": 569
     },
     {
       "type": "hf_space",
       "title": "nvidia/simready-central",
       "description": "SDK: docker",
       "url": "https://huggingface.co/spaces/nvidia/simready-central",
-      "likes": 264
+      "likes": 270
     },
     {
       "type": "hf_space",
       "title": "kulkas2pintu/wan777",
       "description": "SDK: gradio",
       "url": "https://huggingface.co/spaces/kulkas2pintu/wan777",
-      "likes": 1073
+      "likes": 1082
     },
     {
       "type": "hf_space",
       "title": "fishpasters/uncensored-imageTOimage2Ref",
       "description": "SDK: gradio",
       "url": "https://huggingface.co/spaces/fishpasters/uncensored-imageTOimage2Ref",
-      "likes": 262
+      "likes": 263
     },
     {
       "type": "hf_space",
       "title": "hugging-apps/bfs-best-face-swap",
       "description": "SDK: gradio",
       "url": "https://huggingface.co/spaces/hugging-apps/bfs-best-face-swap",
-      "likes": 587
+      "likes": 591
     }
   ]
 }
