@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-29T09:51:38.440733+00:00",
+  "last_updated": "2026-10-29T12:41:19.744629+00:00",
   "total_entries": 90,
-  "new_entries": 3,
+  "new_entries": 5,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -528,6 +528,18 @@
       "is_new": false
     },
     {
+      "id": "d5e0e9e01a4703dc2f2b1fe91da3b232",
+      "title": "AI has come for Arizona’s water",
+      "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
+      "description": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded app",
+      "published": "2026-10-29T08:29:06-04:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
       "id": "5536851b9ba28ab5b925a800ca2a3810",
       "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
@@ -664,18 +676,6 @@
       "is_new": false
     },
     {
-      "id": "922fe676a6fb4830f35892627ffa333e",
-      "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
-      "description": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite",
-      "published": "2026-10-27T16:51:04-04:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "50261927",
       "title": "Show HN: I built a Lovable Alternative that runs in the browser",
       "url": "https://playplanet.dev/",
@@ -755,8 +755,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 143,
-      "comments": 58,
+      "points": 237,
+      "comments": 154,
       "is_new": false
     },
     {
@@ -769,7 +769,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 11,
+      "likes": 13,
       "is_new": false
     },
     {
@@ -795,7 +795,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 21,
+      "likes": 22,
       "is_new": false
     },
     {
@@ -864,7 +864,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 31,
+      "likes": 37,
       "is_new": false
     },
     {
@@ -930,19 +930,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 4,
-      "is_new": false
-    },
-    {
-      "id": "73198d51d95d9b96c639085fdd2a68f9",
-      "title": "Multiscale Policy Optimization for Long-Horizon LLM Agents",
-      "url": "https://huggingface.co/papers/2610.35013",
-      "description": "Long-horizon LLM agents interact with their environments through complete assistant turns while generating each action token by token. We observe that critic values vary primarily across turns, motiva",
-      "published": "2026-10-25T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 377,
       "is_new": false
     },
     {
@@ -1050,7 +1037,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 145,
+      "likes": 146,
       "is_new": false
     },
     {
@@ -1131,7 +1118,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 1,
       "is_new": true
     },
     {
@@ -1186,6 +1173,19 @@
       "category": "research",
       "likes": 2,
       "is_new": false
+    },
+    {
+      "id": "dd00a0698bab790c8f77696a737736f8",
+      "title": "TauIndianBankBench: Procedure-Aware, Action-Oriented Evaluation of Tool-Using Conversational Agents",
+      "url": "https://huggingface.co/papers/2610.30161",
+      "description": "Many Indian banks serve customers through FAQ pages and scripted chatbots. Assistants based on language models could respond faster and carry out requests such as blocking a card, but only if they giv",
+      "published": "2026-09-29T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 7,
+      "is_new": true
     }
   ],
   "by_category": {
@@ -1431,6 +1431,18 @@
         "is_new": false
       },
       {
+        "id": "d5e0e9e01a4703dc2f2b1fe91da3b232",
+        "title": "AI has come for Arizona’s water",
+        "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
+        "description": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded app",
+        "published": "2026-10-29T08:29:06-04:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
         "id": "5536851b9ba28ab5b925a800ca2a3810",
         "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
@@ -1534,18 +1546,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
         "description": "A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, accordi",
         "published": "2026-10-28T10:44:00-04:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "6a00cf459c47b5db8a4ed3d57e0cb401",
-        "title": "Meta quietly launched an &#8216;AI pet journal&#8217; app",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
-        "description": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store l",
-        "published": "2026-10-28T07:27:30-04:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
@@ -1804,7 +1804,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 11,
+        "likes": 13,
         "is_new": false
       },
       {
@@ -1830,7 +1830,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 21,
+        "likes": 22,
         "is_new": false
       },
       {
@@ -1843,7 +1843,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 31,
+        "likes": 37,
         "is_new": false
       },
       {
@@ -1912,17 +1912,17 @@
         "is_new": false
       },
       {
-        "id": "73198d51d95d9b96c639085fdd2a68f9",
-        "title": "Multiscale Policy Optimization for Long-Horizon LLM Agents",
-        "url": "https://huggingface.co/papers/2610.35013",
-        "description": "Long-horizon LLM agents interact with their environments through complete assistant turns while generating each action token by token. We observe that critic values vary primarily across turns, motiva",
-        "published": "2026-10-25T20:00:00.000Z",
+        "id": "ae6a079a2857df3d60e5c9d0522f45bf",
+        "title": "HuGe: Scaling Humanoid Generalist Vision-Language-Action Models with Egocentric Experience",
+        "url": "https://huggingface.co/papers/2610.34186",
+        "description": "Extending Vision-Language-Action models (VLAs) to humanoid robots requires coordinated whole-body control and diverse demonstrations that are costly to collect in real-world scenarios. Although egocen",
+        "published": "2026-10-24T20:00:00.000Z",
         "source_id": "hf-papers",
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 377,
-        "is_new": false
+        "likes": 1,
+        "is_new": true
       }
     ]
   }
