@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-29T05:15:40.358338+00:00",
+  "last_updated": "2026-10-29T09:51:38.440733+00:00",
   "total_entries": 90,
-  "new_entries": 8,
+  "new_entries": 3,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -537,7 +537,7 @@
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "cfb16e16d622d647a7a2f3b42939b5e0",
@@ -755,8 +755,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 23,
-      "comments": 1,
+      "points": 143,
+      "comments": 58,
       "is_new": false
     },
     {
@@ -769,8 +769,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
-      "is_new": true
+      "likes": 11,
+      "is_new": false
     },
     {
       "id": "5d4d8c1d4ef120b61ea88c5320b10664",
@@ -795,20 +795,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 20,
-      "is_new": false
-    },
-    {
-      "id": "514718f3e7647e9ccd8742aaab6e8850",
-      "title": "Zooming without Zooming v2: From Seeing Details to Connecting Evidence for Generalizable Multimodal Perception",
-      "url": "https://huggingface.co/papers/2610.37037",
-      "description": "Multimodal perception forms the foundation of multimodal intelligence. In particular, spatial perception and multimodal long-context understanding are two pivotal tasks that underpin embodied AI and m",
-      "published": "2026-10-26T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 25,
+      "likes": 21,
       "is_new": false
     },
     {
@@ -877,8 +864,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 19,
-      "is_new": true
+      "likes": 31,
+      "is_new": false
     },
     {
       "id": "4d21c6a915a1ac2451b815cfb8e48fe2",
@@ -890,8 +877,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 254,
-      "is_new": true
+      "likes": 256,
+      "is_new": false
     },
     {
       "id": "fe1404dff0cb3d47e8379be6affa3738",
@@ -916,7 +903,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 10,
+      "likes": 11,
       "is_new": false
     },
     {
@@ -955,20 +942,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 375,
-      "is_new": false
-    },
-    {
-      "id": "4dd2e7c007c23c4da4e995eff89a0039",
-      "title": "The Lexical Imprint of Pre-training Data",
-      "url": "https://huggingface.co/papers/2602.10657",
-      "description": "How much of zero-shot benchmark accuracy is captured by word-level alignment between a pre-training corpus and the benchmark target? We study this question through word-level unigram cross-entropy (UC",
-      "published": "2026-10-25T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 9,
+      "likes": 377,
       "is_new": false
     },
     {
@@ -1014,17 +988,17 @@
       "is_new": false
     },
     {
-      "id": "7f8a736c95406e7c9b563bfac270fbf6",
-      "title": "h1: A Taste of the Bitter Lesson in Automated Theorem Proving",
-      "url": "https://huggingface.co/papers/2610.35962",
-      "description": "While progress in informal mathematics has come largely from scaling the chain-of-thought and agentic reasoning of frontier language models, formal theorem proving has increasingly relied on human-des",
+      "id": "ae6a079a2857df3d60e5c9d0522f45bf",
+      "title": "HuGe: Scaling Humanoid Generalist Vision-Language-Action Models with Egocentric Experience",
+      "url": "https://huggingface.co/papers/2610.34186",
+      "description": "Extending Vision-Language-Action models (VLAs) to humanoid robots requires coordinated whole-body control and diverse demonstrations that are costly to collect in real-world scenarios. Although egocen",
       "published": "2026-10-24T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 15,
-      "is_new": false
+      "likes": 1,
+      "is_new": true
     },
     {
       "id": "50201860",
@@ -1041,6 +1015,19 @@
       "is_new": false
     },
     {
+      "id": "e2193bd20d0f51a480675688eb8c21d2",
+      "title": "OmniSpectra: A Unified Foundation Model for Universal Spectra Representation Learning",
+      "url": "https://huggingface.co/papers/2601.15351",
+      "description": "Standard sequence models encode position by token rank rather than physical coordinate, typically forcing practitioners to destructively resample continuous physical signals such as spectra observed a",
+      "published": "2026-10-22T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "429513963420f1b72d60f144abafdd51",
       "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
       "url": "https://huggingface.co/papers/2610.31670",
@@ -1050,8 +1037,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
-      "is_new": true
+      "likes": 33,
+      "is_new": false
     },
     {
       "id": "588b5e07d38495029fd9447bd5d7204d",
@@ -1063,8 +1050,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 68,
-      "is_new": true
+      "likes": 145,
+      "is_new": false
     },
     {
       "id": "a9fa8fa0e98c801aef299279cba7b02c",
@@ -1077,7 +1064,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "50195403",
@@ -1135,6 +1122,19 @@
       "is_new": false
     },
     {
+      "id": "a8f10aab6daac761759f85ffafdf6aab",
+      "title": "CausGround: Causal Interaction Grounding for Adaptive Embodied Planning",
+      "url": "https://huggingface.co/papers/2610.29702",
+      "description": "Multimodal large language models (MLLMs) show promising reasoning capabilities, but reliable physical interaction requires planning that accounts for when actions are executable and how they change th",
+      "published": "2026-10-20T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "684dadc0595c20290e258d57f6642f0f",
       "title": "Self-Assessment Reinforcement Learning for Search-State Awareness in Retrieval-Augmented Large Language Models",
       "url": "https://huggingface.co/papers/2610.30435",
@@ -1145,7 +1145,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "4b9b38528563d3bdb8ef4bc1d3dc9364",
@@ -1440,7 +1440,7 @@
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "cfb16e16d622d647a7a2f3b42939b5e0",
@@ -1804,8 +1804,8 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 2,
-        "is_new": true
+        "likes": 11,
+        "is_new": false
       },
       {
         "id": "5d4d8c1d4ef120b61ea88c5320b10664",
@@ -1830,20 +1830,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 20,
-        "is_new": false
-      },
-      {
-        "id": "514718f3e7647e9ccd8742aaab6e8850",
-        "title": "Zooming without Zooming v2: From Seeing Details to Connecting Evidence for Generalizable Multimodal Perception",
-        "url": "https://huggingface.co/papers/2610.37037",
-        "description": "Multimodal perception forms the foundation of multimodal intelligence. In particular, spatial perception and multimodal long-context understanding are two pivotal tasks that underpin embodied AI and m",
-        "published": "2026-10-26T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 25,
+        "likes": 21,
         "is_new": false
       },
       {
@@ -1856,8 +1843,8 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 19,
-        "is_new": true
+        "likes": 31,
+        "is_new": false
       },
       {
         "id": "4d21c6a915a1ac2451b815cfb8e48fe2",
@@ -1869,8 +1856,8 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 254,
-        "is_new": true
+        "likes": 256,
+        "is_new": false
       },
       {
         "id": "fe1404dff0cb3d47e8379be6affa3738",
@@ -1895,7 +1882,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 10,
+        "likes": 11,
         "is_new": false
       },
       {
@@ -1922,6 +1909,19 @@
         "source_icon": "🤗",
         "category": "research",
         "likes": 4,
+        "is_new": false
+      },
+      {
+        "id": "73198d51d95d9b96c639085fdd2a68f9",
+        "title": "Multiscale Policy Optimization for Long-Horizon LLM Agents",
+        "url": "https://huggingface.co/papers/2610.35013",
+        "description": "Long-horizon LLM agents interact with their environments through complete assistant turns while generating each action token by token. We observe that critic values vary primarily across turns, motiva",
+        "published": "2026-10-25T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 377,
         "is_new": false
       }
     ]
