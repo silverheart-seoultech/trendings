@@ -1,59 +1,67 @@
 {
-  "last_updated": "2026-11-04T14:08:48.944753+00:00",
+  "last_updated": "2026-11-04T23:28:10.596120+00:00",
   "trending_models": [
     {
       "id": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
       "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
       "downloads": 44939,
-      "likes": 1442,
+      "likes": 1483,
       "pipeline_tag": "automatic-speech-recognition",
-      "trending_score": 843
-    },
-    {
-      "id": "LiquidAI/LFM3-1.7B",
-      "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
-      "downloads": 54959,
-      "likes": 1457,
-      "pipeline_tag": "text-generation",
-      "trending_score": 633
+      "trending_score": 697
     },
     {
       "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
       "downloads": 221621,
-      "likes": 5231,
+      "likes": 5265,
       "pipeline_tag": "image-text-to-text",
-      "trending_score": 621
-    },
-    {
-      "id": "mistralai/Mistral-Large-4-1T-A52B",
-      "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
-      "downloads": 8200,
-      "likes": 1575,
-      "pipeline_tag": "image-text-to-text",
-      "trending_score": 547
+      "trending_score": 606
     },
     {
       "id": "speridlabs/idol",
       "url": "https://huggingface.co/speridlabs/idol",
       "downloads": 14613,
-      "likes": 560,
+      "likes": 614,
       "pipeline_tag": "image-to-3d",
-      "trending_score": 529
+      "trending_score": 577
+    },
+    {
+      "id": "LiquidAI/LFM3-1.7B",
+      "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
+      "downloads": 54959,
+      "likes": 1484,
+      "pipeline_tag": "text-generation",
+      "trending_score": 572
+    },
+    {
+      "id": "mistralai/Mistral-Large-4-1T-A52B",
+      "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
+      "downloads": 8200,
+      "likes": 1589,
+      "pipeline_tag": "image-text-to-text",
+      "trending_score": 557
+    },
+    {
+      "id": "moonshotai/Kimi-K3.1-Pro",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "downloads": 797,
+      "likes": 468,
+      "pipeline_tag": "image-text-to-text",
+      "trending_score": 460
     },
     {
       "id": "Pika-Labs/Pika-H3-Flex",
       "url": "https://huggingface.co/Pika-Labs/Pika-H3-Flex",
       "downloads": 749,
-      "likes": 414,
+      "likes": 429,
       "pipeline_tag": "image-to-video",
-      "trending_score": 387
+      "trending_score": 401
     },
     {
       "id": "Lightricks/LTX-2.5",
       "url": "https://huggingface.co/Lightricks/LTX-2.5",
       "downloads": 2493402,
-      "likes": 10564,
+      "likes": 10616,
       "pipeline_tag": "image-to-video",
       "trending_score": 376
     },
@@ -61,327 +69,319 @@
       "id": "ccore/Qwen3.5-4B-3D-Coder",
       "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder",
       "downloads": 123321,
-      "likes": 632,
+      "likes": 653,
       "pipeline_tag": "",
-      "trending_score": 366
+      "trending_score": 368
     },
     {
       "id": "burner22/numbat",
       "url": "https://huggingface.co/burner22/numbat",
       "downloads": 8118,
-      "likes": 336,
+      "likes": 342,
       "pipeline_tag": "",
-      "trending_score": 301
+      "trending_score": 306
     },
     {
       "id": "FusionCow/Sulphur-3",
       "url": "https://huggingface.co/FusionCow/Sulphur-3",
       "downloads": 528,
-      "likes": 346,
+      "likes": 362,
       "pipeline_tag": "",
-      "trending_score": 289
+      "trending_score": 302
     },
     {
       "id": "Qwen/Qwen3.8-27B",
       "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
       "downloads": 8032442,
-      "likes": 19121,
+      "likes": 19153,
       "pipeline_tag": "image-text-to-text",
-      "trending_score": 282
+      "trending_score": 293
     },
     {
       "id": "abenzerps/Qwen-Image-2.1-Turbo-Quantized",
       "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Turbo-Quantized",
       "downloads": 305860,
-      "likes": 5641,
+      "likes": 5648,
       "pipeline_tag": "text-to-image",
-      "trending_score": 274
+      "trending_score": 265
     },
     {
       "id": "black-forest-labs/flux-3-image-klein-comfy",
       "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
       "downloads": 1052684,
-      "likes": 2457,
+      "likes": 2489,
       "pipeline_tag": "image-to-image",
-      "trending_score": 267
-    },
-    {
-      "id": "Edge0/Audio8-TTS-Realistic-Air",
-      "url": "https://huggingface.co/Edge0/Audio8-TTS-Realistic-Air",
-      "downloads": 9695,
-      "likes": 284,
-      "pipeline_tag": "text-to-speech",
-      "trending_score": 243
+      "trending_score": 256
     },
     {
       "id": "AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
       "url": "https://huggingface.co/AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
       "downloads": 73659,
-      "likes": 277,
+      "likes": 291,
       "pipeline_tag": "text-generation",
-      "trending_score": 243
+      "trending_score": 255
+    },
+    {
+      "id": "Edge0/Audio8-TTS-Realistic-Air",
+      "url": "https://huggingface.co/Edge0/Audio8-TTS-Realistic-Air",
+      "downloads": 9695,
+      "likes": 294,
+      "pipeline_tag": "text-to-speech",
+      "trending_score": 251
     },
     {
       "id": "baidu/Unlimited-OCR-2",
       "url": "https://huggingface.co/baidu/Unlimited-OCR-2",
       "downloads": 230232,
-      "likes": 602,
+      "likes": 612,
       "pipeline_tag": "image-text-to-text",
-      "trending_score": 241
+      "trending_score": 230
     },
     {
       "id": "sensenova/SenseNova-Loop-9B-Preview",
       "url": "https://huggingface.co/sensenova/SenseNova-Loop-9B-Preview",
       "downloads": 2704,
-      "likes": 226,
+      "likes": 234,
       "pipeline_tag": "image-text-to-text",
-      "trending_score": 220
-    },
-    {
-      "id": "Nanbeige/Nanbeige4.3-33B",
-      "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
-      "downloads": 18657,
-      "likes": 1039,
-      "pipeline_tag": "text-generation",
-      "trending_score": 213
+      "trending_score": 227
     },
     {
       "id": "OBLITERATUS/DeepSeek-V4.1-Flash-1017-obliterated",
       "url": "https://huggingface.co/OBLITERATUS/DeepSeek-V4.1-Flash-1017-obliterated",
       "downloads": 1979,
-      "likes": 241,
+      "likes": 249,
       "pipeline_tag": "text-generation",
-      "trending_score": 208
-    },
-    {
-      "id": "xiaomi-research/Xiaomi-OCR-0",
-      "url": "https://huggingface.co/xiaomi-research/Xiaomi-OCR-0",
-      "downloads": 22488,
-      "likes": 275,
-      "pipeline_tag": "image-text-to-text",
-      "trending_score": 200
-    },
-    {
-      "id": "facebook/sam3",
-      "url": "https://huggingface.co/facebook/sam3",
-      "downloads": 1912603,
-      "likes": 5832,
-      "pipeline_tag": "mask-generation",
-      "trending_score": 199
-    },
-    {
-      "id": "LiquidAI/LFM3-Omni-2B",
-      "url": "https://huggingface.co/LiquidAI/LFM3-Omni-2B",
-      "downloads": 13057,
-      "likes": 348,
-      "pipeline_tag": "any-to-any",
-      "trending_score": 199
+      "trending_score": 216
     },
     {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "downloads": 1403315,
-      "likes": 2425,
+      "likes": 2481,
       "pipeline_tag": "image-text-to-text",
-      "trending_score": 168
+      "trending_score": 207
     },
     {
-      "id": "Diffuspace/Clover-35B-A3B-Preview",
-      "url": "https://huggingface.co/Diffuspace/Clover-35B-A3B-Preview",
-      "downloads": 3341,
-      "likes": 241,
+      "id": "xiaomi-research/Xiaomi-OCR-0",
+      "url": "https://huggingface.co/xiaomi-research/Xiaomi-OCR-0",
+      "downloads": 22488,
+      "likes": 282,
+      "pipeline_tag": "image-text-to-text",
+      "trending_score": 205
+    },
+    {
+      "id": "facebook/sam3",
+      "url": "https://huggingface.co/facebook/sam3",
+      "downloads": 1912603,
+      "likes": 5871,
+      "pipeline_tag": "mask-generation",
+      "trending_score": 201
+    },
+    {
+      "id": "Nanbeige/Nanbeige4.3-33B",
+      "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
+      "downloads": 18657,
+      "likes": 1043,
       "pipeline_tag": "text-generation",
-      "trending_score": 167
+      "trending_score": 195
+    },
+    {
+      "id": "LiquidAI/LFM3-Omni-2B",
+      "url": "https://huggingface.co/LiquidAI/LFM3-Omni-2B",
+      "downloads": 13057,
+      "likes": 356,
+      "pipeline_tag": "any-to-any",
+      "trending_score": 187
     },
     {
       "id": "unsloth/DeepSeek-V4.1-Flash-1017-GGUF",
       "url": "https://huggingface.co/unsloth/DeepSeek-V4.1-Flash-1017-GGUF",
       "downloads": 690137,
-      "likes": 338,
+      "likes": 344,
       "pipeline_tag": "image-text-to-text",
-      "trending_score": 162
+      "trending_score": 164
     },
     {
       "id": "SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF",
       "url": "https://huggingface.co/SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF",
       "downloads": 3553512,
-      "likes": 675,
+      "likes": 687,
       "pipeline_tag": "image-text-to-text",
-      "trending_score": 152
-    },
-    {
-      "id": "Efficient-Large-Model/Open-H3-Regenerate-2K",
-      "url": "https://huggingface.co/Efficient-Large-Model/Open-H3-Regenerate-2K",
-      "downloads": 483649,
-      "likes": 209,
-      "pipeline_tag": "video-to-video",
-      "trending_score": 151
+      "trending_score": 157
     },
     {
       "id": "microsoft/Mage-VL-Cowork",
       "url": "https://huggingface.co/microsoft/Mage-VL-Cowork",
       "downloads": 1973,
-      "likes": 165,
+      "likes": 173,
       "pipeline_tag": "image-text-to-text",
-      "trending_score": 149
+      "trending_score": 156
     },
     {
-      "id": "AtomicChat/LFM3-1.7B-Uncensored-GGUF",
-      "url": "https://huggingface.co/AtomicChat/LFM3-1.7B-Uncensored-GGUF",
-      "downloads": 84188,
-      "likes": 253,
-      "pipeline_tag": "text-generation",
-      "trending_score": 146
+      "id": "nvidia/DeepSeek-V4.1-Flash-1017-NVFP4",
+      "url": "https://huggingface.co/nvidia/DeepSeek-V4.1-Flash-1017-NVFP4",
+      "downloads": 3648,
+      "likes": 174,
+      "pipeline_tag": "image-text-to-text",
+      "trending_score": 142
     },
     {
-      "id": "RecursiveSI/flint",
-      "url": "https://huggingface.co/RecursiveSI/flint",
-      "downloads": 35511,
-      "likes": 1340,
-      "pipeline_tag": "text-generation",
-      "trending_score": 139
+      "id": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-Coder-GGUF",
+      "url": "https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-Coder-GGUF",
+      "downloads": 73282,
+      "likes": 159,
+      "pipeline_tag": "image-text-to-text",
+      "trending_score": 142
+    },
+    {
+      "id": "pyannote/speaker-diarization-community-1",
+      "url": "https://huggingface.co/pyannote/speaker-diarization-community-1",
+      "downloads": 5133649,
+      "likes": 3849,
+      "pipeline_tag": "automatic-speech-recognition",
+      "trending_score": 133
     }
   ],
   "trending_spaces": [
     {
       "id": "a-test-user-in-the-wrold/qwen-image-21-uncensored",
       "url": "https://huggingface.co/spaces/a-test-user-in-the-wrold/qwen-image-21-uncensored",
-      "likes": 266,
+      "likes": 269,
       "sdk": "gradio",
-      "trending_score": 172
+      "trending_score": 170
     },
     {
       "id": "kulkas2pintu/wan777",
       "url": "https://huggingface.co/spaces/kulkas2pintu/wan777",
-      "likes": 1272,
+      "likes": 1291,
       "sdk": "gradio",
-      "trending_score": 135
-    },
-    {
-      "id": "nvidia/simready-central",
-      "url": "https://huggingface.co/spaces/nvidia/simready-central",
-      "likes": 368,
-      "sdk": "docker",
-      "trending_score": 109
+      "trending_score": 133
     },
     {
       "id": "speridlabs/idol",
       "url": "https://huggingface.co/spaces/speridlabs/idol",
-      "likes": 117,
+      "likes": 128,
       "sdk": "gradio",
-      "trending_score": 108
+      "trending_score": 116
     },
     {
       "id": "hugging-apps/bfs-best-face-swap",
       "url": "https://huggingface.co/spaces/hugging-apps/bfs-best-face-swap",
-      "likes": 734,
+      "likes": 745,
       "sdk": "gradio",
-      "trending_score": 103
+      "trending_score": 107
     },
     {
       "id": "LiquidAI/LFM3-Omni-2B-WebGPU",
       "url": "https://huggingface.co/spaces/LiquidAI/LFM3-Omni-2B-WebGPU",
-      "likes": 95,
+      "likes": 103,
       "sdk": "static",
+      "trending_score": 99
+    },
+    {
+      "id": "nvidia/simready-central",
+      "url": "https://huggingface.co/spaces/nvidia/simready-central",
+      "likes": 369,
+      "sdk": "docker",
       "trending_score": 91
     },
     {
       "id": "linoyts/qwen-image-2-1-realtime",
       "url": "https://huggingface.co/spaces/linoyts/qwen-image-2-1-realtime",
-      "likes": 153,
+      "likes": 161,
       "sdk": "gradio",
-      "trending_score": 89
-    },
-    {
-      "id": "briaai/Fibo-2.0-editing",
-      "url": "https://huggingface.co/spaces/briaai/Fibo-2.0-editing",
-      "likes": 215,
-      "sdk": "gradio",
-      "trending_score": 84
+      "trending_score": 91
     },
     {
       "id": "JCisHERE/wan2-2-i2v-v3",
       "url": "https://huggingface.co/spaces/JCisHERE/wan2-2-i2v-v3",
-      "likes": 197,
+      "likes": 204,
       "sdk": "gradio",
-      "trending_score": 78
+      "trending_score": 80
+    },
+    {
+      "id": "briaai/Fibo-2.0-editing",
+      "url": "https://huggingface.co/spaces/briaai/Fibo-2.0-editing",
+      "likes": 218,
+      "sdk": "gradio",
+      "trending_score": 76
     },
     {
       "id": "wank3r/minimax-h3",
       "url": "https://huggingface.co/spaces/wank3r/minimax-h3",
-      "likes": 281,
+      "likes": 291,
       "sdk": "gradio",
-      "trending_score": 62
-    },
-    {
-      "id": "AST-1320/Qwen-2511-Plus-Flux.2-klein",
-      "url": "https://huggingface.co/spaces/AST-1320/Qwen-2511-Plus-Flux.2-klein",
-      "likes": 332,
-      "sdk": "gradio",
-      "trending_score": 54
+      "trending_score": 71
     },
     {
       "id": "Pika-Labs/pika-h3-flex",
       "url": "https://huggingface.co/spaces/Pika-Labs/pika-h3-flex",
-      "likes": 56,
+      "likes": 59,
       "sdk": "gradio",
-      "trending_score": 53
+      "trending_score": 55
     },
     {
-      "id": "FastVideo/FastH3-Omni",
-      "url": "https://huggingface.co/spaces/FastVideo/FastH3-Omni",
-      "likes": 103,
+      "id": "AST-1320/Qwen-2511-Plus-Flux.2-klein",
+      "url": "https://huggingface.co/spaces/AST-1320/Qwen-2511-Plus-Flux.2-klein",
+      "likes": 335,
       "sdk": "gradio",
-      "trending_score": 44
-    },
-    {
-      "id": "gradium/phonon",
-      "url": "https://huggingface.co/spaces/gradium/phonon",
-      "likes": 115,
-      "sdk": "static",
-      "trending_score": 44
-    },
-    {
-      "id": "Tanyakhan/pornflux-i2v-6e9et",
-      "url": "https://huggingface.co/spaces/Tanyakhan/pornflux-i2v-6e9et",
-      "likes": 97,
-      "sdk": "static",
-      "trending_score": 43
+      "trending_score": 50
     },
     {
       "id": "hide1/MOSS-Image-Character-Catalog",
       "url": "https://huggingface.co/spaces/hide1/MOSS-Image-Character-Catalog",
-      "likes": 44,
+      "likes": 47,
       "sdk": "static",
-      "trending_score": 43
+      "trending_score": 46
     },
     {
       "id": "aaaa33311/wan2-2-fp8da-aoti-preview-2c-finishing",
       "url": "https://huggingface.co/spaces/aaaa33311/wan2-2-fp8da-aoti-preview-2c-finishing",
-      "likes": 62,
+      "likes": 68,
       "sdk": "gradio",
+      "trending_score": 43
+    },
+    {
+      "id": "Tanyakhan/pornflux-i2v-6e9et",
+      "url": "https://huggingface.co/spaces/Tanyakhan/pornflux-i2v-6e9et",
+      "likes": 101,
+      "sdk": "static",
       "trending_score": 42
+    },
+    {
+      "id": "FastVideo/FastH3-Omni",
+      "url": "https://huggingface.co/spaces/FastVideo/FastH3-Omni",
+      "likes": 104,
+      "sdk": "gradio",
+      "trending_score": 41
     },
     {
       "id": "Guaryn/qwen-image-2.1-uncensored-aio-loras",
       "url": "https://huggingface.co/spaces/Guaryn/qwen-image-2.1-uncensored-aio-loras",
-      "likes": 68,
+      "likes": 74,
       "sdk": "gradio",
-      "trending_score": 39
-    },
-    {
-      "id": "nvidia/nemotron-transcribe",
-      "url": "https://huggingface.co/spaces/nvidia/nemotron-transcribe",
-      "likes": 36,
-      "sdk": "docker",
-      "trending_score": 35
+      "trending_score": 41
     },
     {
       "id": "townbox/ava",
       "url": "https://huggingface.co/spaces/townbox/ava",
-      "likes": 34,
+      "likes": 40,
       "sdk": "static",
-      "trending_score": 34
+      "trending_score": 40
+    },
+    {
+      "id": "gradium/phonon",
+      "url": "https://huggingface.co/spaces/gradium/phonon",
+      "likes": 116,
+      "sdk": "static",
+      "trending_score": 38
+    },
+    {
+      "id": "fendouai/free-ai-humanizer",
+      "url": "https://huggingface.co/spaces/fendouai/free-ai-humanizer",
+      "likes": 54,
+      "sdk": "static",
+      "trending_score": 38
     }
   ]
 }
