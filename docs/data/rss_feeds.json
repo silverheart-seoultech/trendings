@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-11-11T10:48:06.516806+00:00",
+  "last_updated": "2026-11-11T13:54:37.232589+00:00",
   "total_entries": 110,
-  "new_entries": 12,
+  "new_entries": 16,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,6 +768,20 @@
       "is_new": false
     },
     {
+      "id": "50452040",
+      "title": "Show HN: Pots – Open-source Grok Bot alternative, used by 6 startups for a month",
+      "url": "https://github.com/Crokily/pi-durable-bot",
+      "description": "",
+      "published": "2026-11-11T11:11:34Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "50449353",
       "title": "Controlling your AI agents from a game handheld",
       "url": "https://blog.codepipes.com/llms/ai-agents-handheld.html",
@@ -796,6 +810,20 @@
       "is_new": false
     },
     {
+      "id": "50446649",
+      "title": "Show HN: AI agents that barter your stuff for things you want",
+      "url": "https://barterpilot.com/",
+      "description": "",
+      "published": "2026-11-10T21:36:17Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 7,
+      "comments": 4,
+      "is_new": false
+    },
+    {
       "id": "50446007",
       "title": "Show HN: Cloakroom – Keeps secrets away from agents",
       "url": "https://github.com/shanjeevrajendran/cloakroom",
@@ -806,6 +834,20 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 2,
+      "comments": 0,
+      "is_new": false
+    },
+    {
+      "id": "50445787",
+      "title": "ZCode review: Z.ai's GLM-5.3 coding agent on a real project",
+      "url": "https://flaviocopes.com/zcode/",
+      "description": "",
+      "published": "2026-11-10T20:22:57Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
       "comments": 0,
       "is_new": false
     },
@@ -958,6 +1000,19 @@
       "is_new": false
     },
     {
+      "id": "ed3f974e673844a8d95d600dda770699",
+      "title": "TorchCurves: Differentiable Parametric Curves",
+      "url": "https://huggingface.co/papers/2611.14516",
+      "description": "We present TorchCurves, a PyTorch library that treats vector-valued parametric curves as learnable primitives. Its central operation maps batches of scalar inputs to points on curves represented in B-",
+      "published": "2026-11-09T19:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "6956f1501e17219ec1a6e6806f68d451",
       "title": "Are Causal Neuron Circuits Unique and Transferable?",
       "url": "https://huggingface.co/papers/2611.13885",
@@ -993,7 +1048,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 41,
+      "likes": 45,
       "is_new": true
     },
     {
@@ -1045,7 +1100,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 14,
+      "likes": 51,
       "is_new": false
     },
     {
@@ -1084,33 +1139,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 23,
-      "is_new": false
-    },
-    {
-      "id": "33b59168b0229b0b57546e8f459490de",
-      "title": "Is Your Robot's Memory Just a Clock? Temporal Shortcuts in Memory-Augmented VLA Policies",
-      "url": "https://huggingface.co/papers/2611.14488",
-      "description": "Memory-augmented vision-language-action (VLA) policies are meant to remember what happened. Many of them, however, fill memory by time: they sample frames uniformly across the episode and stamp each f",
-      "published": "2026-11-09T19:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 5,
-      "is_new": false
-    },
-    {
-      "id": "5ac47ab239eddc632666e40631d36219",
-      "title": "ExRL: Sample-Efficient Online Adaptation of Long-Chunk Policies via Execution Length Control",
-      "url": "https://huggingface.co/papers/2611.13482",
-      "description": "Predicting long action chunks, often spanning dozens of timesteps, has become a key ingredient in increasingly capable robot policies. In this paper, we find that adapting these long-chunk policies wi",
-      "published": "2026-11-09T19:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
+      "likes": 24,
       "is_new": false
     },
     {
@@ -1137,7 +1166,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
+      "likes": 11,
       "is_new": true
     },
     {
@@ -1182,6 +1211,19 @@
       "is_new": false
     },
     {
+      "id": "bcc8e76c85e4a0a6e9113e08b1160bef",
+      "title": "Blind Variation, Selective Retention: Improving Creative Idea Generation in AI Scientists",
+      "url": "https://huggingface.co/papers/2611.12184",
+      "description": "Scientific discovery requires ideas that are original, useful, and non-obvious. Yet AI scientists are typically given as much task information as possible during idea generation, which can anchor gene",
+      "published": "2026-11-08T19:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
       "id": "d8d43c3bd02e1787973ec9aebda2c3e0",
       "title": "Shortcuts and Boundaries: Verifiable RL Misalignment and Contextual Safety Learning",
       "url": "https://huggingface.co/papers/2611.12865",
@@ -1193,32 +1235,6 @@
       "category": "research",
       "likes": 3,
       "is_new": true
-    },
-    {
-      "id": "00cf693faa817490a14d0b0d4555202f",
-      "title": "ProTEUS: A mutation-resolved world model for closed-loop protein evolution",
-      "url": "https://huggingface.co/papers/2611.13348",
-      "description": "Protein engineering requires navigating rugged fitness landscapes, where small sequence changes can produce large functional differences, but experimental screening can only sample a small fraction of",
-      "published": "2026-11-08T19:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 8,
-      "is_new": false
-    },
-    {
-      "id": "c148b2ff2962298719991269d7b28a22",
-      "title": "dNaViT: Discrete Codes are General-Purpose Visual Representations",
-      "url": "https://huggingface.co/papers/2611.12426",
-      "description": "Discrete autoregressive modeling, notably through next-token prediction, has become a cornerstone of modern language models. Extending this paradigm to vision allows visual and language models to conv",
-      "published": "2026-11-08T19:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 29,
-      "is_new": false
     },
     {
       "id": "50397325",
@@ -1235,6 +1251,32 @@
       "is_new": false
     },
     {
+      "id": "28630a0171b7801af6664b1c071d3ba8",
+      "title": "The Surprising Effectiveness of Deleting Weights in LLM Post-Training",
+      "url": "https://huggingface.co/papers/2611.10866",
+      "description": "How little of a pretrained large language model (LLM) has to change for it to acquire new capabilities? We find that zeroing fewer than 0.05% of its weights, with no other modification, matches full f",
+      "published": "2026-11-06T19:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 7,
+      "is_new": true
+    },
+    {
+      "id": "1ac518cf39df061ca3ca1c9d74789342",
+      "title": "MACaQ: Fast, Model Agnostic Calibrated Quantization for Low-Precision Weights and Activations",
+      "url": "https://huggingface.co/papers/2611.10649",
+      "description": "Weight-activation quantization can reduce the memory and compute cost of neural-network inference, but recent methods often require expensive optimization and architecture-specific propagation of basi",
+      "published": "2026-11-06T19:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "50392347",
       "title": "Show HN: Grid – A Hold'em arena where your AI agent plays your strategy (Beta)",
       "url": "https://penguinbase.com/game-install?game=192471728&ref=hn",
@@ -1246,48 +1288,6 @@
       "category": "news",
       "points": 4,
       "comments": 3,
-      "is_new": false
-    },
-    {
-      "id": "50391647",
-      "title": "Ask HN: Is anyone running multi/always-on agents that don't cost a fortune?",
-      "url": "https://news.ycombinator.com/item?id=50391647",
-      "description": "",
-      "published": "2026-11-06T12:40:14Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 6,
-      "comments": 5,
-      "is_new": false
-    },
-    {
-      "id": "50389479",
-      "title": "Stop running everything through LLMs: How I fixed my research agent",
-      "url": "https://www.tinyfish.ai/blog/inside-tinyresearch",
-      "description": "",
-      "published": "2026-11-06T08:04:58Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 22,
-      "comments": 1,
-      "is_new": false
-    },
-    {
-      "id": "50386839",
-      "title": "Axiom – blocks AI agents from inventing limits your code never defined",
-      "url": "https://github.com/axiom-csc/axiom-skill",
-      "description": "",
-      "published": "2026-11-06T01:00:43Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 1,
-      "comments": 0,
       "is_new": false
     }
   ],
@@ -1534,6 +1534,20 @@
         "is_new": false
       },
       {
+        "id": "50452040",
+        "title": "Show HN: Pots – Open-source Grok Bot alternative, used by 6 startups for a month",
+        "url": "https://github.com/Crokily/pi-durable-bot",
+        "description": "",
+        "published": "2026-11-11T11:11:34Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 2,
+        "comments": 0,
+        "is_new": true
+      },
+      {
         "id": "50449353",
         "title": "Controlling your AI agents from a game handheld",
         "url": "https://blog.codepipes.com/llms/ai-agents-handheld.html",
@@ -1562,6 +1576,20 @@
         "is_new": false
       },
       {
+        "id": "50446649",
+        "title": "Show HN: AI agents that barter your stuff for things you want",
+        "url": "https://barterpilot.com/",
+        "description": "",
+        "published": "2026-11-10T21:36:17Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 7,
+        "comments": 4,
+        "is_new": false
+      },
+      {
         "id": "50446007",
         "title": "Show HN: Cloakroom – Keeps secrets away from agents",
         "url": "https://github.com/shanjeevrajendran/cloakroom",
@@ -1572,6 +1600,20 @@
         "source_icon": "🟧",
         "category": "news",
         "points": 2,
+        "comments": 0,
+        "is_new": false
+      },
+      {
+        "id": "50445787",
+        "title": "ZCode review: Z.ai's GLM-5.3 coding agent on a real project",
+        "url": "https://flaviocopes.com/zcode/",
+        "description": "",
+        "published": "2026-11-10T20:22:57Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 1,
         "comments": 0,
         "is_new": false
       },
@@ -1619,42 +1661,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
         "description": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share, wh",
         "published": "2026-11-10T11:38:24-05:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "97a11b3b9df55130f6b721b98fa2ce8b",
-        "title": "ChatGPT is getting verified AI ‘Business Agents’",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
-        "description": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and onli",
-        "published": "2026-11-10T11:34:41-05:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "c77128a201b88a557ca37a58b2d9f7d6",
-        "title": "eBay appears to have shut the door on third-party AI agents",
-        "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
-        "description": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his",
-        "published": "2026-11-10T11:20:30-05:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "6c21c86eb4f726cd4f33f85274ec02ab",
-        "title": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
-        "url": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates",
-        "description": "Adobe is expanding its Creative Cloud apps and Firefly AI platform with new capabilities that aim to make design and editing projects faster and less complicated. Some of the announcements from Adobe'",
-        "published": "2026-11-10T10:49:40-05:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
