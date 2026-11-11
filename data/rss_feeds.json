@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-11-10T23:14:18.334119+00:00",
+  "last_updated": "2026-11-11T02:46:51.955697+00:00",
   "total_entries": 110,
-  "new_entries": 0,
+  "new_entries": 5,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -768,6 +768,20 @@
       "is_new": false
     },
     {
+      "id": "50448283",
+      "title": "Show HN: Mimzie, an agent-neutral alternative to the Claude Suite/Claude Cowork",
+      "url": "https://mimzie.com/",
+      "description": "",
+      "published": "2026-11-11T00:29:45Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 4,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "50446649",
       "title": "Show HN: AI agents that barter your stuff for things you want",
       "url": "https://barterpilot.com/",
@@ -777,8 +791,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 2,
-      "comments": 0,
+      "points": 5,
+      "comments": 2,
       "is_new": false
     },
     {
@@ -808,6 +822,20 @@
       "points": 1,
       "comments": 0,
       "is_new": false
+    },
+    {
+      "id": "50445758",
+      "title": "Show HN: Zeus – Claude Code for AI voice agents",
+      "url": "https://thunderphone.com/blog/introducing-zeus",
+      "description": "",
+      "published": "2026-11-10T20:20:03Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": true
     },
     {
       "id": "13a445521080305c001bc739bcf1c55c",
@@ -1000,6 +1028,32 @@
       "is_new": false
     },
     {
+      "id": "9cdea12587b2f85eb1de2d00ff766e11",
+      "title": "EmoHarness: Boosting Multimodal Emotion Understanding with Meta-Harness Evolving",
+      "url": "https://huggingface.co/papers/2611.11994",
+      "description": "Small multimodal models can misjudge emotion when words, voice, and visual cues conflict. We present EmoHarness, which runs such a model, the frozen student, inside a harness: the prompts, settings, a",
+      "published": "2026-11-08T19:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "b8f4de4d1f1bbb1f625c9349ea50939e",
+      "title": "Infrathon: Benchmarking Language Agents for Real-World, Long-Horizon AI Infra Optimization",
+      "url": "https://huggingface.co/papers/2611.11995",
+      "description": "In this work, we study whether frontier agent can continually improve real-world AI infrastructure over long horizons. We introduce Infrathon, a benchmark of diverse, long-horizon AI infrastructure op",
+      "published": "2026-11-08T19:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
       "id": "5c1a64526ac1d0e885b60fdd20f8810c",
       "title": "FraudBench: A Legal Evaluation of AI Deception",
       "url": "https://huggingface.co/papers/2611.12167",
@@ -1065,19 +1119,6 @@
       "is_new": false
     },
     {
-      "id": "29377a0d1b166d301783077bebee9503",
-      "title": "Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning",
-      "url": "https://huggingface.co/papers/2611.12886",
-      "description": "Agentic reinforcement learning (RL) and multi-teacher on-policy distillation (MOPD) offer complementary routes to post-training. For visual agents, however, tool use presents two related challenges. M",
-      "published": "2026-11-08T19:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 37,
-      "is_new": false
-    },
-    {
       "id": "292d8cb2d6c60a4ae799e6eb72627b89",
       "title": "InfraRSI: Harnessing Recursive Self-Improvement for Training Infrastructure",
       "url": "https://huggingface.co/papers/2611.11558",
@@ -1087,33 +1128,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 14,
-      "is_new": false
-    },
-    {
-      "id": "8ee054466e5bae28840552e7c18ad10a",
-      "title": "Spatial Harness: Grounding Spatial Reasoning in Executable World States with Physics Engines",
-      "url": "https://huggingface.co/papers/2611.11344",
-      "description": "Spatial reasoning requires understanding how objects and observers are arranged in a scene and how their relations change with viewpoint or movement. Vision-language models (VLMs) typically perform bo",
-      "published": "2026-11-07T19:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "edfb11f09641870fea98a5f5a670b1c9",
-      "title": "How Much Training-Inference Mismatch Can On-Policy Distillation Tolerate?",
-      "url": "https://huggingface.co/papers/2611.11450",
-      "description": "On-policy distillation (OPD) trains a student language model on its own responses, guided by a fixed teacher. Generating these responses is expensive, so systems use quantized inference and asynchrono",
-      "published": "2026-11-07T19:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 11,
+      "likes": 17,
       "is_new": false
     },
     {
@@ -1140,7 +1155,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 8,
+      "likes": 9,
       "is_new": false
     },
     {
@@ -1179,7 +1194,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 19,
+      "likes": 20,
       "is_new": false
     },
     {
@@ -1275,19 +1290,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "3dacce2acf79e6dd2807da009254ef0b",
-      "title": "Knowledge Graph-based Retrieval-Augmented Generation for Schema Matching",
-      "url": "https://huggingface.co/papers/2501.08686",
-      "description": "Traditional similarity-based schema matching methods fail to resolve semantic ambiguities and conflicts in complex, domain-specific mappings due to a lack of commonsense and domain-specific knowledge.",
-      "published": "2026-11-05T19:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
       "is_new": false
     }
   ],
@@ -1534,6 +1536,20 @@
         "is_new": false
       },
       {
+        "id": "50448283",
+        "title": "Show HN: Mimzie, an agent-neutral alternative to the Claude Suite/Claude Cowork",
+        "url": "https://mimzie.com/",
+        "description": "",
+        "published": "2026-11-11T00:29:45Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 4,
+        "comments": 0,
+        "is_new": true
+      },
+      {
         "id": "50446649",
         "title": "Show HN: AI agents that barter your stuff for things you want",
         "url": "https://barterpilot.com/",
@@ -1543,8 +1559,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 2,
-        "comments": 0,
+        "points": 5,
+        "comments": 2,
         "is_new": false
       },
       {
@@ -1574,6 +1590,20 @@
         "points": 1,
         "comments": 0,
         "is_new": false
+      },
+      {
+        "id": "50445758",
+        "title": "Show HN: Zeus – Claude Code for AI voice agents",
+        "url": "https://thunderphone.com/blog/introducing-zeus",
+        "description": "",
+        "published": "2026-11-10T20:20:03Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 2,
+        "comments": 0,
+        "is_new": true
       },
       {
         "id": "13a445521080305c001bc739bcf1c55c",
@@ -1629,30 +1659,6 @@
         "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
         "description": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his",
         "published": "2026-11-10T11:20:30-05:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "6c21c86eb4f726cd4f33f85274ec02ab",
-        "title": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
-        "url": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates",
-        "description": "Adobe is expanding its Creative Cloud apps and Firefly AI platform with new capabilities that aim to make design and editing projects faster and less complicated. Some of the announcements from Adobe'",
-        "published": "2026-11-10T10:49:40-05:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "78900e4e7229c9d90d1c052bb68798c6",
-        "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
-        "description": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"stronges",
-        "published": "2026-11-10T10:30:28-05:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
