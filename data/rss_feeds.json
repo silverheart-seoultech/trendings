@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-11-12T09:44:03.427927+00:00",
+  "last_updated": "2026-11-12T14:55:50.524600+00:00",
   "total_entries": 70,
-  "new_entries": 18,
+  "new_entries": 27,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,18 +47,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "4d80da40d446e621a96ad4c956347981",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "description": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "published": "Wed, 11 Nov 2026 23:50:00 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
     {
       "id": "bf9a8df53a7ffea12952e5235f9f1e4a",
       "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
@@ -264,16 +252,28 @@
       "is_new": false
     },
     {
-      "id": "a032a0b0222a87eb27ab5b5289ff2371",
-      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
-      "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
-      "description": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
-      "published": "Tue, 10 Nov 2026 19:03:52 +0000",
+      "id": "e4e424eaad3ac6e421fb5b3d68c914c0",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "description": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "published": "Thu, 12 Nov 2026 14:30:01 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
       "source_icon": "📰",
       "category": "news",
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "id": "31f20ed94fca0fb3318ea7791556eb26",
+      "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
+      "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
+      "description": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the US.",
+      "published": "Thu, 12 Nov 2026 13:26:25 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "ae4995f679c2816fd50be41445eea16e",
@@ -288,30 +288,68 @@
       "is_new": true
     },
     {
-      "id": "50459255",
-      "title": "Show HN: Zumungo – AI-driven home automation",
-      "url": "https://zumungo.com/get-started.html",
+      "id": "50467233",
+      "title": "Claude Code's API billing depends on how often the cache expires",
+      "url": "https://news.ycombinator.com/item?id=50467233",
       "description": "",
-      "published": "2026-11-11T21:58:28Z",
+      "published": "2026-11-12T14:02:38Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": true
+    },
+    {
+      "id": "50466516",
+      "title": "Do the top thousand sites charge AI crawlers, block them, or let AI agents buy?",
+      "url": "https://claude.ai/artifact/6GhQxH4Z8pWyCMVdhVwTGG",
+      "description": "",
+      "published": "2026-11-12T13:02:27Z",
       "source_id": "hn-ai",
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
       "points": 1,
       "comments": 0,
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "f269105f8f6e68e1bb34309759d65ce8",
       "title": "Nvidia is reportedly preparing to fire Jensen Huang",
       "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
-      "description": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a w",
-      "published": "2026-11-11T19:55:40-05:00",
+      "description": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from The New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a w",
+      "published": "2026-11-12T09:41:18-05:00",
       "source_id": "theverge-ai",
       "source_name": "The Verge AI",
       "source_icon": "📰",
       "category": "news",
       "is_new": false
+    },
+    {
+      "id": "561a38ea255621db0ba4a90bf4a6b55e",
+      "title": "I reviewed the Apple HomeView, ask me anything",
+      "url": "https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything",
+      "description": "Hi! I'm Jen Tuohy, The Verge's senior smart home reviewer. I've tested every smart display Amazon and Google have ever made, and for the past week I've been testing Apple's first: The $299 HomeView. I",
+      "published": "2026-11-12T09:27:12-05:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "a8c2afcede6353b30bd7ee1136320747",
+      "title": "Nvidia CEO Jensen Huang resigns amid spy, affair scandals",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-nvidia-ceo-resigns",
+      "description": "Nvidia's board announced that Jensen Huang - its longtime co-founder, president, and CEO - has resigned after reports of two extramarital affairs, one with an alleged Chinese spy and one with an Nvidi",
+      "published": "2026-11-12T09:26:46-05:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
     },
     {
       "id": "50456622",
@@ -337,8 +375,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 55,
-      "comments": 43,
+      "points": 56,
+      "comments": 47,
       "is_new": false
     },
     {
@@ -496,30 +534,6 @@
       "is_new": false
     },
     {
-      "id": "c77128a201b88a557ca37a58b2d9f7d6",
-      "title": "eBay appears to have shut the door on third-party AI agents",
-      "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
-      "description": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his",
-      "published": "2026-11-10T11:20:30-05:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "804eba17b1eac0db967648a854474a96",
-      "title": "Anthropic has its own AI-powered office suite now",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
-      "description": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to co",
-      "published": "2026-11-10T10:13:38-05:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "50432130",
       "title": "Show HN: ApiClay – Turn a Website, Google Sheet or Database into a Paid API",
       "url": "https://apiclay.com",
@@ -534,6 +548,19 @@
       "is_new": false
     },
     {
+      "id": "650b733a699dbdda8700b62dc46436f3",
+      "title": "FAME-QP: A GPU-Accelerated Quadratic-Programming Solver for Real-Time Model Predictive Control",
+      "url": "https://huggingface.co/papers/2611.13766",
+      "description": "We present FAME-QP, a GPU-accelerated solver for dense quadratic programs arising in linear model predictive control. FAME-QP combines constraint-dependent operator representations with fused single- ",
+      "published": "2026-11-09T19:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
+      "is_new": true
+    },
+    {
       "id": "5d422e245570eefe8c5cc4f33b0d5da6",
       "title": "Precision on Demand: Escalating Weight Bits at Uncertain Decoding Steps in a Small Local Model",
       "url": "https://huggingface.co/papers/2611.14418",
@@ -543,7 +570,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 1,
       "is_new": true
     },
     {
@@ -582,7 +609,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 20,
+      "likes": 23,
       "is_new": true
     },
     {
@@ -599,32 +626,6 @@
       "is_new": true
     },
     {
-      "id": "af6f8a85752f4786a641d4a38f4de62d",
-      "title": "Visual Similarity in Adult Word Extension and Artificial Word Learning",
-      "url": "https://huggingface.co/papers/2611.14116",
-      "description": "When two objects share a name, how much does their visual similarity explain, and what do the teaching examples add? First, we reanalyzed trial-level data from a large adult word-extension study (Lewi",
-      "published": "2026-11-09T19:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "f23feeea064e9e70cfa61b4904d9b55c",
-      "title": "Prompt2Echo (P2Echo): Text-Prompted Multi-View Echocardiography Segmentation with One Model",
-      "url": "https://huggingface.co/papers/2611.13425",
-      "description": "Automated segmentation in multi-view echocardiography is essential for comprehensive cardiac assessment, yet remains challenging due to substantial anatomical and appearance variability across standar",
-      "published": "2026-11-09T19:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
-    },
-    {
       "id": "5dd2649ea2b0a0f74946643d297e5024",
       "title": "Where Does Alignment Emerge and What Does It Mean? A Closer Look at the Platonic Representation Hypothesis",
       "url": "https://huggingface.co/papers/2611.12869",
@@ -634,7 +635,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": true
     },
     {
@@ -680,6 +681,19 @@
       "is_new": false
     },
     {
+      "id": "3c57568203d1f9ef81c4958bba2d813f",
+      "title": "Evolving Infra: Agent-Adaptive LLM Serving at Scale",
+      "url": "https://huggingface.co/papers/2611.12304",
+      "description": "Agentic workloads are a major source of LLM inference demand. Existing prefill--decode (PD) disaggregated serving systems offer limited flexibility for runtime adaptation of compute allocation and KV ",
+      "published": "2026-11-08T19:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 6,
+      "is_new": true
+    },
+    {
       "id": "08ed05540d5b45676e534a501a2b992d",
       "title": "GTAGym: Real AAA Game Tasks Environment for Evaluation and Reinforcement Learning",
       "url": "https://huggingface.co/papers/2611.13028",
@@ -689,7 +703,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 11,
+      "likes": 12,
       "is_new": true
     },
     {
@@ -715,7 +729,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 36,
+      "likes": 37,
       "is_new": true
     },
     {
@@ -742,21 +756,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
+      "likes": 11,
       "is_new": true
-    },
-    {
-      "id": "72a42e9250f7c136f718281124e13f72",
-      "title": "Test-Time Scaling for Diffusion Language Models with Frequency-Aware Remasking",
-      "url": "https://huggingface.co/papers/2611.10486",
-      "description": "Diffusion language models (DLMs) generate text through iterative denoising, where decisions about which tokens to commit or remask strongly affect output quality. Existing certainty-aware strategies r",
-      "published": "2026-11-06T19:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 8,
-      "is_new": false
     },
     {
       "id": "50392347",
@@ -824,7 +825,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 12,
       "is_new": true
     },
     {
@@ -856,20 +857,6 @@
       "is_new": false
     },
     {
-      "id": "50380651",
-      "title": "Show HN: Securing GrokBot",
-      "url": "https://news.ycombinator.com/item?id=50380651",
-      "description": "",
-      "published": "2026-11-05T15:51:25Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 4,
-      "comments": 0,
-      "is_new": false
-    },
-    {
       "id": "9e748f75ff61aa97b5f0e18dde485dcf",
       "title": "Module-Aware Optimization for Graph Neural Networks",
       "url": "https://huggingface.co/papers/2611.08379",
@@ -893,6 +880,19 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "ebf89a84433fb4ae43ecc6f7641f3333",
+      "title": "CARTBench: Rubric-Based Evaluation of Shopping Advice for Complex and Ambiguous Requests with Timelines",
+      "url": "https://huggingface.co/papers/2611.05862",
+      "description": "Large language model (LLM) shopping assistants now recommend products in multi-turn conversations. However, reliable evaluation faces Data scarcity and Difficulty Standardizing Criteria. To address th",
+      "published": "2026-11-03T19:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 0,
       "is_new": true
     },
     {
@@ -931,7 +931,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 28,
+      "likes": 31,
       "is_new": true
     },
     {
@@ -944,24 +944,12 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 19,
+      "likes": 22,
       "is_new": true
     }
   ],
   "by_category": {
     "news": [
-      {
-        "id": "4d80da40d446e621a96ad4c956347981",
-        "title": "The unfolding Jensen Huang scandal: a timeline",
-        "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-        "description": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-        "published": "Wed, 11 Nov 2026 23:50:00 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
       {
         "id": "bf9a8df53a7ffea12952e5235f9f1e4a",
         "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
@@ -1167,16 +1155,28 @@
         "is_new": false
       },
       {
-        "id": "a032a0b0222a87eb27ab5b5289ff2371",
-        "title": "PSI is trying to make a business out of AI-driven scientific discovery",
-        "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
-        "description": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
-        "published": "Tue, 10 Nov 2026 19:03:52 +0000",
+        "id": "e4e424eaad3ac6e421fb5b3d68c914c0",
+        "title": "The unfolding Jensen Huang scandal: a timeline",
+        "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+        "description": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+        "published": "Thu, 12 Nov 2026 14:30:01 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
         "source_icon": "📰",
         "category": "news",
-        "is_new": false
+        "is_new": true
+      },
+      {
+        "id": "31f20ed94fca0fb3318ea7791556eb26",
+        "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
+        "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
+        "description": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the US.",
+        "published": "Thu, 12 Nov 2026 13:26:25 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
       },
       {
         "id": "ae4995f679c2816fd50be41445eea16e",
@@ -1191,30 +1191,68 @@
         "is_new": true
       },
       {
-        "id": "50459255",
-        "title": "Show HN: Zumungo – AI-driven home automation",
-        "url": "https://zumungo.com/get-started.html",
+        "id": "50467233",
+        "title": "Claude Code's API billing depends on how often the cache expires",
+        "url": "https://news.ycombinator.com/item?id=50467233",
         "description": "",
-        "published": "2026-11-11T21:58:28Z",
+        "published": "2026-11-12T14:02:38Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 2,
+        "comments": 0,
+        "is_new": true
+      },
+      {
+        "id": "50466516",
+        "title": "Do the top thousand sites charge AI crawlers, block them, or let AI agents buy?",
+        "url": "https://claude.ai/artifact/6GhQxH4Z8pWyCMVdhVwTGG",
+        "description": "",
+        "published": "2026-11-12T13:02:27Z",
         "source_id": "hn-ai",
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
         "points": 1,
         "comments": 0,
-        "is_new": false
+        "is_new": true
       },
       {
         "id": "f269105f8f6e68e1bb34309759d65ce8",
         "title": "Nvidia is reportedly preparing to fire Jensen Huang",
         "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
-        "description": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a w",
-        "published": "2026-11-11T19:55:40-05:00",
+        "description": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from The New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a w",
+        "published": "2026-11-12T09:41:18-05:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
         "category": "news",
         "is_new": false
+      },
+      {
+        "id": "561a38ea255621db0ba4a90bf4a6b55e",
+        "title": "I reviewed the Apple HomeView, ask me anything",
+        "url": "https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything",
+        "description": "Hi! I'm Jen Tuohy, The Verge's senior smart home reviewer. I've tested every smart display Amazon and Google have ever made, and for the past week I've been testing Apple's first: The $299 HomeView. I",
+        "published": "2026-11-12T09:27:12-05:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "a8c2afcede6353b30bd7ee1136320747",
+        "title": "Nvidia CEO Jensen Huang resigns amid spy, affair scandals",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-nvidia-ceo-resigns",
+        "description": "Nvidia's board announced that Jensen Huang - its longtime co-founder, president, and CEO - has resigned after reports of two extramarital affairs, one with an alleged Chinese spy and one with an Nvidi",
+        "published": "2026-11-12T09:26:46-05:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
       },
       {
         "id": "50456622",
@@ -1240,8 +1278,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 55,
-        "comments": 43,
+        "points": 56,
+        "comments": 47,
         "is_new": false
       },
       {
@@ -1281,47 +1319,22 @@
         "source_icon": "📰",
         "category": "news",
         "is_new": false
-      },
-      {
-        "id": "fd7c9361a612e0ea794a41cb937851c2",
-        "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
-        "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
-        "description": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual s",
-        "published": "2026-11-11T09:15:27-05:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "24878850a24ab6190b2d5afb16d26448",
-        "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
-        "url": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
-        "description": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they",
-        "published": "2026-11-11T07:56:24-05:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "50449353",
-        "title": "Controlling your AI agents from a game handheld",
-        "url": "https://blog.codepipes.com/llms/ai-agents-handheld.html",
-        "description": "",
-        "published": "2026-11-11T03:11:30Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 1,
-        "comments": 0,
-        "is_new": false
       }
     ],
     "research": [
+      {
+        "id": "650b733a699dbdda8700b62dc46436f3",
+        "title": "FAME-QP: A GPU-Accelerated Quadratic-Programming Solver for Real-Time Model Predictive Control",
+        "url": "https://huggingface.co/papers/2611.13766",
+        "description": "We present FAME-QP, a GPU-accelerated solver for dense quadratic programs arising in linear model predictive control. FAME-QP combines constraint-dependent operator representations with fused single- ",
+        "published": "2026-11-09T19:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 0,
+        "is_new": true
+      },
       {
         "id": "5d422e245570eefe8c5cc4f33b0d5da6",
         "title": "Precision on Demand: Escalating Weight Bits at Uncertain Decoding Steps in a Small Local Model",
@@ -1332,7 +1345,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 0,
+        "likes": 1,
         "is_new": true
       },
       {
@@ -1371,7 +1384,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 20,
+        "likes": 23,
         "is_new": true
       },
       {
@@ -1388,32 +1401,6 @@
         "is_new": true
       },
       {
-        "id": "af6f8a85752f4786a641d4a38f4de62d",
-        "title": "Visual Similarity in Adult Word Extension and Artificial Word Learning",
-        "url": "https://huggingface.co/papers/2611.14116",
-        "description": "When two objects share a name, how much does their visual similarity explain, and what do the teaching examples add? First, we reanalyzed trial-level data from a large adult word-extension study (Lewi",
-        "published": "2026-11-09T19:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 2,
-        "is_new": false
-      },
-      {
-        "id": "f23feeea064e9e70cfa61b4904d9b55c",
-        "title": "Prompt2Echo (P2Echo): Text-Prompted Multi-View Echocardiography Segmentation with One Model",
-        "url": "https://huggingface.co/papers/2611.13425",
-        "description": "Automated segmentation in multi-view echocardiography is essential for comprehensive cardiac assessment, yet remains challenging due to substantial anatomical and appearance variability across standar",
-        "published": "2026-11-09T19:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 1,
-        "is_new": false
-      },
-      {
         "id": "5dd2649ea2b0a0f74946643d297e5024",
         "title": "Where Does Alignment Emerge and What Does It Mean? A Closer Look at the Platonic Representation Hypothesis",
         "url": "https://huggingface.co/papers/2611.12869",
@@ -1423,7 +1410,20 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 2,
+        "likes": 3,
+        "is_new": true
+      },
+      {
+        "id": "3c57568203d1f9ef81c4958bba2d813f",
+        "title": "Evolving Infra: Agent-Adaptive LLM Serving at Scale",
+        "url": "https://huggingface.co/papers/2611.12304",
+        "description": "Agentic workloads are a major source of LLM inference demand. Existing prefill--decode (PD) disaggregated serving systems offer limited flexibility for runtime adaptation of compute allocation and KV ",
+        "published": "2026-11-08T19:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 6,
         "is_new": true
       },
       {
@@ -1436,7 +1436,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 11,
+        "likes": 12,
         "is_new": true
       },
       {
@@ -1462,7 +1462,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 36,
+        "likes": 37,
         "is_new": true
       },
       {
@@ -1475,21 +1475,8 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 7,
+        "likes": 11,
         "is_new": true
-      },
-      {
-        "id": "72a42e9250f7c136f718281124e13f72",
-        "title": "Test-Time Scaling for Diffusion Language Models with Frequency-Aware Remasking",
-        "url": "https://huggingface.co/papers/2611.10486",
-        "description": "Diffusion language models (DLMs) generate text through iterative denoising, where decisions about which tokens to commit or remask strongly affect output quality. Existing certainty-aware strategies r",
-        "published": "2026-11-06T19:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 8,
-        "is_new": false
       },
       {
         "id": "79198f3068c16ae993c1d9995996e550",
@@ -1501,7 +1488,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 9,
+        "likes": 12,
         "is_new": true
       },
       {
@@ -1528,6 +1515,19 @@
         "source_icon": "🤗",
         "category": "research",
         "likes": 1,
+        "is_new": true
+      },
+      {
+        "id": "ebf89a84433fb4ae43ecc6f7641f3333",
+        "title": "CARTBench: Rubric-Based Evaluation of Shopping Advice for Complex and Ambiguous Requests with Timelines",
+        "url": "https://huggingface.co/papers/2611.05862",
+        "description": "Large language model (LLM) shopping assistants now recommend products in multi-turn conversations. However, reliable evaluation faces Data scarcity and Difficulty Standardizing Criteria. To address th",
+        "published": "2026-11-03T19:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 0,
         "is_new": true
       },
       {
@@ -1566,7 +1566,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 28,
+        "likes": 31,
         "is_new": true
       },
       {
@@ -1579,7 +1579,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 19,
+        "likes": 22,
         "is_new": true
       }
     ]
