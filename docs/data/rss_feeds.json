@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-11-12T23:37:35.168164+00:00",
+  "last_updated": "2026-11-13T06:01:03.203021+00:00",
   "total_entries": 70,
-  "new_entries": 0,
+  "new_entries": 12,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -61,9 +61,9 @@
     },
     {
       "id": "3896780f30628465e8c4b7e7bed7612e",
-      "title": "Muse can now place calls to U.S. businesses — if you pay",
+      "title": "Muse can now place calls to US businesses — if you pay",
       "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
-      "description": "Muse's AI can now place outbound calls to US businesses — but it's not free.",
+      "description": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
       "published": "Thu, 12 Nov 2026 22:22:28 +0000",
       "source_id": "techcrunch-ai",
       "source_name": "TechCrunch AI",
@@ -288,6 +288,18 @@
       "is_new": false
     },
     {
+      "id": "48e6dc76dc7f693e59867e01cee915d3",
+      "title": "Nvidia CEO Jensen Huang has resigned. What happens next?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "description": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, Th",
+      "published": "2026-11-12T19:45:25-05:00",
+      "source_id": "theverge-ai",
+      "source_name": "The Verge AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": false
+    },
+    {
       "id": "50471281",
       "title": "Show HN: Kapso – Iterative learning from enterprise data",
       "url": "https://news.ycombinator.com/item?id=50471281",
@@ -297,8 +309,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 33,
-      "comments": 9,
+      "points": 42,
+      "comments": 10,
       "is_new": false
     },
     {
@@ -307,18 +319,6 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
       "description": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The ne",
       "published": "2026-11-12T16:55:32-05:00",
-      "source_id": "theverge-ai",
-      "source_name": "The Verge AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "48e6dc76dc7f693e59867e01cee915d3",
-      "title": "Nvidia CEO Jensen Huang has resigned. What happens next?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-      "description": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, Th",
-      "published": "2026-11-12T16:53:38-05:00",
       "source_id": "theverge-ai",
       "source_name": "The Verge AI",
       "source_icon": "📰",
@@ -450,6 +450,71 @@
       "is_new": false
     },
     {
+      "id": "22b5255514aed77355090cc5de49b574",
+      "title": "Factored One-sided Adam-Moment for Practical and Scalable SOAP",
+      "url": "https://huggingface.co/papers/2611.16905",
+      "description": "Second-order optimizers (e.g., Shampoo, SOAP) have emerged as compelling alternatives to Adam/AdamW and promise faster per-step convergence than AdamW in transformer training. However, they still rema",
+      "published": "2026-11-11T19:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 7,
+      "is_new": true
+    },
+    {
+      "id": "f3daebf7facdc1a31eecd6b9278eeecc",
+      "title": "WorldDraft: If Code Builds the World, Can Video Models Just Render It?",
+      "url": "https://huggingface.co/papers/2611.16217",
+      "description": "Multimodal coding agents decouple 4D world construction from visual generation, repurposing video models from world generators toward generative renderers. This division of labor raises a fundamental ",
+      "published": "2026-11-11T19:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 5,
+      "is_new": true
+    },
+    {
+      "id": "cc31bb10af4a755ff9dea3b3c4b26620",
+      "title": "UniSpark: Exploring Hybrid Attention for Multimodal Understanding and Generation",
+      "url": "https://huggingface.co/papers/2611.16517",
+      "description": "We present UniSpark-9B, a unified multimodal model that investigates hybrid attention for visual understanding and generation. Built on a Mixture-of-Transformer-Experts backbone with approximately 9B ",
+      "published": "2026-11-11T19:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 5,
+      "is_new": true
+    },
+    {
+      "id": "d26649e88ec042a96fa74279c6afc486",
+      "title": "PhysLoop: Harnessing LLMs' Physics Awareness for Self-Improving Video Generation Models",
+      "url": "https://huggingface.co/papers/2611.16748",
+      "description": "Video generation models produce visually realistic videos but still struggle with physical dynamics and causal consistency. Learning from generated videos requires fine-grained physical supervision, y",
+      "published": "2026-11-11T19:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
+      "id": "4f3e2641735eeea38127eeeae2cdcea0",
+      "title": "From Large Language Models to Efficient System One Models via Adaptive Computation",
+      "url": "https://huggingface.co/papers/2611.16321",
+      "description": "Transferring LLMs into System One decision models typically replaces the language modeling head with a decision head while retaining the full backbone, making every decision pay for all layers. Yet it",
+      "published": "2026-11-11T19:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "50456622",
       "title": "How do you limit an agent's kubectl when dev and prod share a cluster?",
       "url": "https://skyportal.ai/blog/separate-kubernetes-environments-by-namespace-on-eks-gke-or-aks-with-skyportal/",
@@ -473,7 +538,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 60,
+      "points": 61,
       "comments": 47,
       "is_new": false
     },
@@ -548,6 +613,32 @@
       "is_new": false
     },
     {
+      "id": "140c91eaf67500466b2dce6894dd0146",
+      "title": "SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models",
+      "url": "https://huggingface.co/papers/2611.15777",
+      "description": "System One models promise fast, general-purpose decision-making without lengthy token generation. However, understanding their capability spectrum and decision reliability requires more than aggregate",
+      "published": "2026-11-10T19:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 7,
+      "is_new": true
+    },
+    {
+      "id": "640e33bf58a7587657f1d0dcbd80f3c8",
+      "title": "Duo: A Reciprocal World Model for Full-Duplex Interaction",
+      "url": "https://huggingface.co/papers/2611.15131",
+      "description": "In this report, we introduce the Reciprocal World Model (RWM) and present Duo v1, a full-duplex world model that continuously perceives audiovisual inputs while responding to users in real time. The R",
+      "published": "2026-11-10T19:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 15,
+      "is_new": true
+    },
+    {
       "id": "50432130",
       "title": "Show HN: ApiClay – Turn a Website, Google Sheet or Database into a Paid API",
       "url": "https://apiclay.com",
@@ -560,6 +651,19 @@
       "points": 4,
       "comments": 1,
       "is_new": false
+    },
+    {
+      "id": "e258e1c63befc8224e1f40e161fd0f98",
+      "title": "BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model",
+      "url": "https://huggingface.co/papers/2611.14815",
+      "description": "Driving world models aim to simulate how a scene unfolds under different ego actions. This requires plausible motion of surrounding vehicles as well as precise ego-trajectory control. Learning vehicle",
+      "published": "2026-11-09T19:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 24,
+      "is_new": true
     },
     {
       "id": "b538239d290eb74f5a3d79acaaeb310c",
@@ -614,45 +718,6 @@
       "is_new": false
     },
     {
-      "id": "d0e7d6c36a5be64f56cc5de56293b653",
-      "title": "PolyRoute: A Twelve-Language and Code-Mixed Benchmark for Typed-Decision Routing, with Baselines and a Leaderboard",
-      "url": "https://huggingface.co/papers/2611.13843",
-      "description": "Typed-decision encoders answer a question about a text in one forward pass, but their behaviour outside English is rarely measured on a fixed yardstick. We release PolyRoute: 322 native-language suppo",
-      "published": "2026-11-09T19:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "ca14b6f27fca736e4d556bb5f13aaa6b",
-      "title": "SteerDistill: Quantizing LLM Agents via Closed-Loop Teacher Steering",
-      "url": "https://huggingface.co/papers/2611.13410",
-      "description": "Low-bit quantization reduces the inference cost of LLM agents but can compromise task success. Examining failed rollouts, we find that quantized agents overlook task requirements or environmental cond",
-      "published": "2026-11-09T19:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 31,
-      "is_new": false
-    },
-    {
-      "id": "0e6aec2e78cc82f6b39231ce48e2ad61",
-      "title": "Mixed Signals: Weight-Space Programming for EEG and ECG",
-      "url": "https://huggingface.co/papers/2611.13758",
-      "description": "Weight-space programming allows language models to read a trained neural network's weights and edit them. This opens the door to ``training'' by reasoning rather than through gradient descent. Prior w",
-      "published": "2026-11-09T19:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
       "id": "5dd2649ea2b0a0f74946643d297e5024",
       "title": "Where Does Alignment Emerge and What Does It Mean? A Closer Look at the Platonic Representation Hypothesis",
       "url": "https://huggingface.co/papers/2611.12869",
@@ -662,7 +727,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
+      "likes": 7,
       "is_new": false
     },
     {
@@ -717,21 +782,21 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 11,
+      "likes": 12,
       "is_new": false
     },
     {
-      "id": "08ed05540d5b45676e534a501a2b992d",
-      "title": "GTAGym: Real AAA Game Tasks Environment for Evaluation and Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2611.13028",
-      "description": "AAA games offer a rich testbed for evaluating agent perception, reasoning, and control. However, evaluating whether agents can complete tasks in AAA games is challenging and often human-annotated beca",
-      "published": "2026-11-08T19:00:00.000Z",
+      "id": "d078715010d3c457788aa434bc88aac5",
+      "title": "G-STAR: Group-Scaled Token Capacity for Deeply Compressed Autoregressive Generation",
+      "url": "https://huggingface.co/papers/2611.13004",
+      "description": "Discrete autoregressive models offer a scalable framework for image generation. However, they face a fundamental trade-off: long token sequences preserve representation quality but slow generation, wh",
+      "published": "2026-11-07T19:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 13,
-      "is_new": false
+      "likes": 6,
+      "is_new": true
     },
     {
       "id": "7b517ef446ec544fed476e12f4f9fba7",
@@ -743,7 +808,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 0,
+      "likes": 2,
       "is_new": false
     },
     {
@@ -758,19 +823,6 @@
       "category": "news",
       "points": 31,
       "comments": 2,
-      "is_new": false
-    },
-    {
-      "id": "9e9c82480c38b47b8fa59aed0e7fda7a",
-      "title": "Read Less, Solve More: Token-Efficient Sparse Reading of External Content for AI Agents",
-      "url": "https://huggingface.co/papers/2608.22237",
-      "description": "Web-facing AI agents repeatedly access webpages, documents, repositories, and tool responses, yet reading interfaces often expose entire objects when only sparse evidence is needed. This over-reading ",
-      "published": "2026-11-06T19:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 18,
       "is_new": false
     },
     {
@@ -830,19 +882,6 @@
       "is_new": false
     },
     {
-      "id": "79198f3068c16ae993c1d9995996e550",
-      "title": "Ensemble Routing for Prompt-Adaptive Cost-Aware LLM Inference",
-      "url": "https://huggingface.co/papers/2611.10193",
-      "description": "Large language models (LLMs) increasingly support Web-based services that must balance response quality and inference cost across heterogeneous requests. Conventional routing selects one model per pro",
-      "published": "2026-11-05T19:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 14,
-      "is_new": false
-    },
-    {
       "id": "50382344",
       "title": "Show HN: Magertron – AI Orchestrator for agents' tools, APIs, LLMs and streams",
       "url": "https://magertron.com/#install",
@@ -857,30 +896,30 @@
       "is_new": false
     },
     {
-      "id": "9e748f75ff61aa97b5f0e18dde485dcf",
-      "title": "Module-Aware Optimization for Graph Neural Networks",
-      "url": "https://huggingface.co/papers/2611.08379",
-      "description": "Different optimizers impose different geometries on parameter updates. Adaptive methods such as Adam and AdamW use coordinate-wise updates, while matrix-aware optimizers such as Muon utilize weight-ma",
-      "published": "2026-11-04T19:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "2ed3a195090c0f7482971e229bdeccd8",
-      "title": "Interactive Visual Gym: Evaluating Visual Interaction Models with Simulated Users in Interactive Worlds",
-      "url": "https://huggingface.co/papers/2611.08286",
-      "description": "Visual interaction models that support users during ongoing physical tasks require evaluation in closed loop, where assistant responses can change subsequent user behavior and task outcomes. Existing ",
-      "published": "2026-11-04T19:00:00.000Z",
+      "id": "1971f819745ea1d0071dbecb7ba2209b",
+      "title": "On the Design of Hyper-Connections: Simplification, Stability, and Scalability",
+      "url": "https://huggingface.co/papers/2611.05984",
+      "description": "Hyper-Connections (HC) architectures are increasingly adopted in frontier language models, yet their components remain insufficiently understood and introduce non-negligible training overhead. In this",
+      "published": "2026-11-03T19:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
       "likes": 13,
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "id": "13784f0fda37d1b8b5bc9b285b2ec55e",
+      "title": "Subliminal Learning in Vision-Language Models",
+      "url": "https://huggingface.co/papers/2611.08538",
+      "description": "Subliminal learning is a phenomenon in large language models (LLMs) where a teacher passes a hidden preference to a student through training data unrelated to that preference. We study whether sublimi",
+      "published": "2026-11-03T19:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
     },
     {
       "id": "ebf89a84433fb4ae43ecc6f7641f3333",
@@ -896,56 +935,17 @@
       "is_new": false
     },
     {
-      "id": "a53578e646f940641bdc4f3dc28c320c",
-      "title": "CogBattery: Human-Referenced Evaluation of Cognitive Task Behavior and Structure in Language Models",
-      "url": "https://huggingface.co/papers/2607.24999",
-      "description": "Human cognitive tasks let us compare language models with humans under controlled conditions. Yet a model can reproduce the direction of a human effect while making different errors. CogBattery evalua",
+      "id": "a605380e9f0add30256e67e954c3e478",
+      "title": "Humanized but Still True? Auditing Facts and Detection in AI-Text Humanizers",
+      "url": "https://huggingface.co/papers/2611.00359",
+      "description": "AI \"humanizers\" rewrite machine-generated text so that detectors classify it as human-written. Public leaderboards score evasion and embedding similarity, but not whether checkable details survive. We",
       "published": "2026-10-29T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
-      "is_new": false
-    },
-    {
-      "id": "5e6a378a539c2b0baba36ff08bcbc342",
-      "title": "WMIP: A Working-Memory-Inspired Programmable Probe of Cumulative State Tracking in Large Language Models",
-      "url": "https://huggingface.co/papers/2603.27343",
-      "description": "Human working memory lets people maintain and update information. Large language models (LLMs) face a related demand when tracking updates within a single prompt without writing out intermediate state",
-      "published": "2026-10-29T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 3,
-      "is_new": false
-    },
-    {
-      "id": "53b1be60809aeca680b2be0a53426b69",
-      "title": "Scaling Mathematical Proof Supervision from Structured Textbooks",
-      "url": "https://huggingface.co/papers/2610.40394",
-      "description": "Mathematical supervision for language models is typically flattened into isolated problem-solution pairs, discarding the curricular organization and evidential structure of the original sources. We in",
-      "published": "2026-10-28T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 39,
-      "is_new": false
-    },
-    {
-      "id": "09ae5e943d5840e3164d751feba4cd1a",
-      "title": "Incentivizing Self-Learning in Large Language Models via Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2610.39671",
-      "description": "Large language models (LLMs) draw on parametric knowledge and retrieval-augmented generation (RAG) to solve knowledge-intensive tasks. Yet problem solving in unfamiliar domains calls for tightly coupl",
-      "published": "2026-10-28T20:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 27,
-      "is_new": false
+      "likes": 1,
+      "is_new": true
     }
   ],
   "by_category": {
@@ -964,9 +964,9 @@
       },
       {
         "id": "3896780f30628465e8c4b7e7bed7612e",
-        "title": "Muse can now place calls to U.S. businesses — if you pay",
+        "title": "Muse can now place calls to US businesses — if you pay",
         "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
-        "description": "Muse's AI can now place outbound calls to US businesses — but it's not free.",
+        "description": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
         "published": "Thu, 12 Nov 2026 22:22:28 +0000",
         "source_id": "techcrunch-ai",
         "source_name": "TechCrunch AI",
@@ -1191,6 +1191,18 @@
         "is_new": false
       },
       {
+        "id": "48e6dc76dc7f693e59867e01cee915d3",
+        "title": "Nvidia CEO Jensen Huang has resigned. What happens next?",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+        "description": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, Th",
+        "published": "2026-11-12T19:45:25-05:00",
+        "source_id": "theverge-ai",
+        "source_name": "The Verge AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": false
+      },
+      {
         "id": "50471281",
         "title": "Show HN: Kapso – Iterative learning from enterprise data",
         "url": "https://news.ycombinator.com/item?id=50471281",
@@ -1200,8 +1212,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 33,
-        "comments": 9,
+        "points": 42,
+        "comments": 10,
         "is_new": false
       },
       {
@@ -1210,18 +1222,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
         "description": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The ne",
         "published": "2026-11-12T16:55:32-05:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "48e6dc76dc7f693e59867e01cee915d3",
-        "title": "Nvidia CEO Jensen Huang has resigned. What happens next?",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-        "description": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, Th",
-        "published": "2026-11-12T16:53:38-05:00",
         "source_id": "theverge-ai",
         "source_name": "The Verge AI",
         "source_icon": "📰",
@@ -1319,6 +1319,110 @@
     ],
     "research": [
       {
+        "id": "22b5255514aed77355090cc5de49b574",
+        "title": "Factored One-sided Adam-Moment for Practical and Scalable SOAP",
+        "url": "https://huggingface.co/papers/2611.16905",
+        "description": "Second-order optimizers (e.g., Shampoo, SOAP) have emerged as compelling alternatives to Adam/AdamW and promise faster per-step convergence than AdamW in transformer training. However, they still rema",
+        "published": "2026-11-11T19:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 7,
+        "is_new": true
+      },
+      {
+        "id": "f3daebf7facdc1a31eecd6b9278eeecc",
+        "title": "WorldDraft: If Code Builds the World, Can Video Models Just Render It?",
+        "url": "https://huggingface.co/papers/2611.16217",
+        "description": "Multimodal coding agents decouple 4D world construction from visual generation, repurposing video models from world generators toward generative renderers. This division of labor raises a fundamental ",
+        "published": "2026-11-11T19:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 5,
+        "is_new": true
+      },
+      {
+        "id": "cc31bb10af4a755ff9dea3b3c4b26620",
+        "title": "UniSpark: Exploring Hybrid Attention for Multimodal Understanding and Generation",
+        "url": "https://huggingface.co/papers/2611.16517",
+        "description": "We present UniSpark-9B, a unified multimodal model that investigates hybrid attention for visual understanding and generation. Built on a Mixture-of-Transformer-Experts backbone with approximately 9B ",
+        "published": "2026-11-11T19:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 5,
+        "is_new": true
+      },
+      {
+        "id": "d26649e88ec042a96fa74279c6afc486",
+        "title": "PhysLoop: Harnessing LLMs' Physics Awareness for Self-Improving Video Generation Models",
+        "url": "https://huggingface.co/papers/2611.16748",
+        "description": "Video generation models produce visually realistic videos but still struggle with physical dynamics and causal consistency. Learning from generated videos requires fine-grained physical supervision, y",
+        "published": "2026-11-11T19:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 1,
+        "is_new": true
+      },
+      {
+        "id": "4f3e2641735eeea38127eeeae2cdcea0",
+        "title": "From Large Language Models to Efficient System One Models via Adaptive Computation",
+        "url": "https://huggingface.co/papers/2611.16321",
+        "description": "Transferring LLMs into System One decision models typically replaces the language modeling head with a decision head while retaining the full backbone, making every decision pay for all layers. Yet it",
+        "published": "2026-11-11T19:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 1,
+        "is_new": true
+      },
+      {
+        "id": "140c91eaf67500466b2dce6894dd0146",
+        "title": "SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models",
+        "url": "https://huggingface.co/papers/2611.15777",
+        "description": "System One models promise fast, general-purpose decision-making without lengthy token generation. However, understanding their capability spectrum and decision reliability requires more than aggregate",
+        "published": "2026-11-10T19:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 7,
+        "is_new": true
+      },
+      {
+        "id": "640e33bf58a7587657f1d0dcbd80f3c8",
+        "title": "Duo: A Reciprocal World Model for Full-Duplex Interaction",
+        "url": "https://huggingface.co/papers/2611.15131",
+        "description": "In this report, we introduce the Reciprocal World Model (RWM) and present Duo v1, a full-duplex world model that continuously perceives audiovisual inputs while responding to users in real time. The R",
+        "published": "2026-11-10T19:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 15,
+        "is_new": true
+      },
+      {
+        "id": "e258e1c63befc8224e1f40e161fd0f98",
+        "title": "BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model",
+        "url": "https://huggingface.co/papers/2611.14815",
+        "description": "Driving world models aim to simulate how a scene unfolds under different ego actions. This requires plausible motion of surrounding vehicles as well as precise ego-trajectory control. Learning vehicle",
+        "published": "2026-11-09T19:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 24,
+        "is_new": true
+      },
+      {
         "id": "b538239d290eb74f5a3d79acaaeb310c",
         "title": "ScrapeBench: Evaluating Legal Compliance of AI Agents in Website Scraping",
         "url": "https://huggingface.co/papers/2611.11306",
@@ -1371,45 +1475,6 @@
         "is_new": false
       },
       {
-        "id": "d0e7d6c36a5be64f56cc5de56293b653",
-        "title": "PolyRoute: A Twelve-Language and Code-Mixed Benchmark for Typed-Decision Routing, with Baselines and a Leaderboard",
-        "url": "https://huggingface.co/papers/2611.13843",
-        "description": "Typed-decision encoders answer a question about a text in one forward pass, but their behaviour outside English is rarely measured on a fixed yardstick. We release PolyRoute: 322 native-language suppo",
-        "published": "2026-11-09T19:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 2,
-        "is_new": false
-      },
-      {
-        "id": "ca14b6f27fca736e4d556bb5f13aaa6b",
-        "title": "SteerDistill: Quantizing LLM Agents via Closed-Loop Teacher Steering",
-        "url": "https://huggingface.co/papers/2611.13410",
-        "description": "Low-bit quantization reduces the inference cost of LLM agents but can compromise task success. Examining failed rollouts, we find that quantized agents overlook task requirements or environmental cond",
-        "published": "2026-11-09T19:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 31,
-        "is_new": false
-      },
-      {
-        "id": "0e6aec2e78cc82f6b39231ce48e2ad61",
-        "title": "Mixed Signals: Weight-Space Programming for EEG and ECG",
-        "url": "https://huggingface.co/papers/2611.13758",
-        "description": "Weight-space programming allows language models to read a trained neural network's weights and edit them. This opens the door to ``training'' by reasoning rather than through gradient descent. Prior w",
-        "published": "2026-11-09T19:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 3,
-        "is_new": false
-      },
-      {
         "id": "5dd2649ea2b0a0f74946643d297e5024",
         "title": "Where Does Alignment Emerge and What Does It Mean? A Closer Look at the Platonic Representation Hypothesis",
         "url": "https://huggingface.co/papers/2611.12869",
@@ -1419,7 +1484,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 6,
+        "likes": 7,
         "is_new": false
       },
       {
@@ -1432,21 +1497,21 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 11,
+        "likes": 12,
         "is_new": false
       },
       {
-        "id": "08ed05540d5b45676e534a501a2b992d",
-        "title": "GTAGym: Real AAA Game Tasks Environment for Evaluation and Reinforcement Learning",
-        "url": "https://huggingface.co/papers/2611.13028",
-        "description": "AAA games offer a rich testbed for evaluating agent perception, reasoning, and control. However, evaluating whether agents can complete tasks in AAA games is challenging and often human-annotated beca",
-        "published": "2026-11-08T19:00:00.000Z",
+        "id": "d078715010d3c457788aa434bc88aac5",
+        "title": "G-STAR: Group-Scaled Token Capacity for Deeply Compressed Autoregressive Generation",
+        "url": "https://huggingface.co/papers/2611.13004",
+        "description": "Discrete autoregressive models offer a scalable framework for image generation. However, they face a fundamental trade-off: long token sequences preserve representation quality but slow generation, wh",
+        "published": "2026-11-07T19:00:00.000Z",
         "source_id": "hf-papers",
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 13,
-        "is_new": false
+        "likes": 6,
+        "is_new": true
       },
       {
         "id": "7b517ef446ec544fed476e12f4f9fba7",
@@ -1458,60 +1523,34 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 0,
+        "likes": 2,
         "is_new": false
       },
       {
-        "id": "9e9c82480c38b47b8fa59aed0e7fda7a",
-        "title": "Read Less, Solve More: Token-Efficient Sparse Reading of External Content for AI Agents",
-        "url": "https://huggingface.co/papers/2608.22237",
-        "description": "Web-facing AI agents repeatedly access webpages, documents, repositories, and tool responses, yet reading interfaces often expose entire objects when only sparse evidence is needed. This over-reading ",
-        "published": "2026-11-06T19:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 18,
-        "is_new": false
-      },
-      {
-        "id": "79198f3068c16ae993c1d9995996e550",
-        "title": "Ensemble Routing for Prompt-Adaptive Cost-Aware LLM Inference",
-        "url": "https://huggingface.co/papers/2611.10193",
-        "description": "Large language models (LLMs) increasingly support Web-based services that must balance response quality and inference cost across heterogeneous requests. Conventional routing selects one model per pro",
-        "published": "2026-11-05T19:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 14,
-        "is_new": false
-      },
-      {
-        "id": "9e748f75ff61aa97b5f0e18dde485dcf",
-        "title": "Module-Aware Optimization for Graph Neural Networks",
-        "url": "https://huggingface.co/papers/2611.08379",
-        "description": "Different optimizers impose different geometries on parameter updates. Adaptive methods such as Adam and AdamW use coordinate-wise updates, while matrix-aware optimizers such as Muon utilize weight-ma",
-        "published": "2026-11-04T19:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 3,
-        "is_new": false
-      },
-      {
-        "id": "2ed3a195090c0f7482971e229bdeccd8",
-        "title": "Interactive Visual Gym: Evaluating Visual Interaction Models with Simulated Users in Interactive Worlds",
-        "url": "https://huggingface.co/papers/2611.08286",
-        "description": "Visual interaction models that support users during ongoing physical tasks require evaluation in closed loop, where assistant responses can change subsequent user behavior and task outcomes. Existing ",
-        "published": "2026-11-04T19:00:00.000Z",
+        "id": "1971f819745ea1d0071dbecb7ba2209b",
+        "title": "On the Design of Hyper-Connections: Simplification, Stability, and Scalability",
+        "url": "https://huggingface.co/papers/2611.05984",
+        "description": "Hyper-Connections (HC) architectures are increasingly adopted in frontier language models, yet their components remain insufficiently understood and introduce non-negligible training overhead. In this",
+        "published": "2026-11-03T19:00:00.000Z",
         "source_id": "hf-papers",
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
         "likes": 13,
-        "is_new": false
+        "is_new": true
+      },
+      {
+        "id": "13784f0fda37d1b8b5bc9b285b2ec55e",
+        "title": "Subliminal Learning in Vision-Language Models",
+        "url": "https://huggingface.co/papers/2611.08538",
+        "description": "Subliminal learning is a phenomenon in large language models (LLMs) where a teacher passes a hidden preference to a student through training data unrelated to that preference. We study whether sublimi",
+        "published": "2026-11-03T19:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 4,
+        "is_new": true
       },
       {
         "id": "ebf89a84433fb4ae43ecc6f7641f3333",
@@ -1527,56 +1566,17 @@
         "is_new": false
       },
       {
-        "id": "a53578e646f940641bdc4f3dc28c320c",
-        "title": "CogBattery: Human-Referenced Evaluation of Cognitive Task Behavior and Structure in Language Models",
-        "url": "https://huggingface.co/papers/2607.24999",
-        "description": "Human cognitive tasks let us compare language models with humans under controlled conditions. Yet a model can reproduce the direction of a human effect while making different errors. CogBattery evalua",
+        "id": "a605380e9f0add30256e67e954c3e478",
+        "title": "Humanized but Still True? Auditing Facts and Detection in AI-Text Humanizers",
+        "url": "https://huggingface.co/papers/2611.00359",
+        "description": "AI \"humanizers\" rewrite machine-generated text so that detectors classify it as human-written. Public leaderboards score evasion and embedding similarity, but not whether checkable details survive. We",
         "published": "2026-10-29T20:00:00.000Z",
         "source_id": "hf-papers",
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 4,
-        "is_new": false
-      },
-      {
-        "id": "5e6a378a539c2b0baba36ff08bcbc342",
-        "title": "WMIP: A Working-Memory-Inspired Programmable Probe of Cumulative State Tracking in Large Language Models",
-        "url": "https://huggingface.co/papers/2603.27343",
-        "description": "Human working memory lets people maintain and update information. Large language models (LLMs) face a related demand when tracking updates within a single prompt without writing out intermediate state",
-        "published": "2026-10-29T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 3,
-        "is_new": false
-      },
-      {
-        "id": "53b1be60809aeca680b2be0a53426b69",
-        "title": "Scaling Mathematical Proof Supervision from Structured Textbooks",
-        "url": "https://huggingface.co/papers/2610.40394",
-        "description": "Mathematical supervision for language models is typically flattened into isolated problem-solution pairs, discarding the curricular organization and evidential structure of the original sources. We in",
-        "published": "2026-10-28T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 39,
-        "is_new": false
-      },
-      {
-        "id": "09ae5e943d5840e3164d751feba4cd1a",
-        "title": "Incentivizing Self-Learning in Large Language Models via Reinforcement Learning",
-        "url": "https://huggingface.co/papers/2610.39671",
-        "description": "Large language models (LLMs) draw on parametric knowledge and retrieval-augmented generation (RAG) to solve knowledge-intensive tasks. Yet problem solving in unfamiliar domains calls for tightly coupl",
-        "published": "2026-10-28T20:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 27,
-        "is_new": false
+        "likes": 1,
+        "is_new": true
       }
     ]
   }
