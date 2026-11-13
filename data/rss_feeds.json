@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-11-13T06:01:03.203021+00:00",
+  "last_updated": "2026-11-13T06:33:38.511328+00:00",
   "total_entries": 70,
-  "new_entries": 12,
+  "new_entries": 5,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -288,6 +288,20 @@
       "is_new": false
     },
     {
+      "id": "50479186",
+      "title": "Show HN: Chap – Meeting notes from live captions (no bot) with any LLM or agent",
+      "url": "https://chatpanel.net/",
+      "description": "",
+      "published": "2026-11-13T06:31:06Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 1,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "48e6dc76dc7f693e59867e01cee915d3",
       "title": "Nvidia CEO Jensen Huang has resigned. What happens next?",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
@@ -309,7 +323,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 42,
+      "points": 43,
       "comments": 10,
       "is_new": false
     },
@@ -450,6 +464,32 @@
       "is_new": false
     },
     {
+      "id": "2e11e277aab400e5c725a0d9f1614eb3",
+      "title": "Ropedia Xperience 2: A Gold Standard for Scaling Physical AI Environments and Behaviors",
+      "url": "https://huggingface.co/papers/2611.17060",
+      "description": "Large foundation models such as GPT-6 Astra and Claude Fable 5.1 have recently been shown to control robots directly from visual observations. They nevertheless remain brittle on long-horizon, contact",
+      "published": "2026-11-11T19:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 3,
+      "is_new": true
+    },
+    {
+      "id": "fb63bb661668e036c14b1ca1b88e0dea",
+      "title": "Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents",
+      "url": "https://huggingface.co/papers/2611.17167",
+      "description": "Decision models answer a question with a typed output, such as a choice among options with a probability for each, so one model can choose an agent's actions, evaluate actions already taken, or score ",
+      "published": "2026-11-11T19:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 4,
+      "is_new": true
+    },
+    {
       "id": "22b5255514aed77355090cc5de49b574",
       "title": "Factored One-sided Adam-Moment for Practical and Scalable SOAP",
       "url": "https://huggingface.co/papers/2611.16905",
@@ -459,8 +499,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
-      "is_new": true
+      "likes": 9,
+      "is_new": false
     },
     {
       "id": "f3daebf7facdc1a31eecd6b9278eeecc",
@@ -472,8 +512,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
-      "is_new": true
+      "likes": 9,
+      "is_new": false
     },
     {
       "id": "cc31bb10af4a755ff9dea3b3c4b26620",
@@ -485,8 +525,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 5,
-      "is_new": true
+      "likes": 6,
+      "is_new": false
     },
     {
       "id": "d26649e88ec042a96fa74279c6afc486",
@@ -498,8 +538,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
-      "is_new": true
+      "likes": 8,
+      "is_new": false
     },
     {
       "id": "4f3e2641735eeea38127eeeae2cdcea0",
@@ -512,7 +552,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "50456622",
@@ -622,8 +662,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 7,
-      "is_new": true
+      "likes": 15,
+      "is_new": false
     },
     {
       "id": "640e33bf58a7587657f1d0dcbd80f3c8",
@@ -635,8 +675,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 15,
-      "is_new": true
+      "likes": 21,
+      "is_new": false
     },
     {
       "id": "50432130",
@@ -662,8 +702,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 24,
-      "is_new": true
+      "likes": 30,
+      "is_new": false
     },
     {
       "id": "b538239d290eb74f5a3d79acaaeb310c",
@@ -688,46 +728,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
-      "is_new": false
-    },
-    {
-      "id": "5d422e245570eefe8c5cc4f33b0d5da6",
-      "title": "Precision on Demand: Escalating Weight Bits at Uncertain Decoding Steps in a Small Local Model",
-      "url": "https://huggingface.co/papers/2611.14418",
-      "description": "Local decoding usually fixes one weight precision for the whole generation. We study a different allocation: store 8-bit weights, decode with their top 4 bits, and redo a step at 8 bits only when the ",
-      "published": "2026-11-09T19:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 4,
-      "is_new": false
-    },
-    {
-      "id": "4e54c48ea43dd393cf0ebca772ff0154",
-      "title": "Bits or permutations? Spending a fixed inference budget on weight precision or on option-order averaging in small local language models",
-      "url": "https://huggingface.co/papers/2611.14413",
-      "description": "Local language models can save memory by storing weights in fewer bits, and they can reduce sensitivity to the order of answer options by averaging a few reorderings. We ask whether the first makes th",
-      "published": "2026-11-09T19:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 2,
-      "is_new": false
-    },
-    {
-      "id": "5dd2649ea2b0a0f74946643d297e5024",
-      "title": "Where Does Alignment Emerge and What Does It Mean? A Closer Look at the Platonic Representation Hypothesis",
-      "url": "https://huggingface.co/papers/2611.12869",
-      "description": "The Platonic Representation Hypothesis (PRH) suggests that neural networks are converging toward similar representation spaces. As language models become more capable, their representations are aligni",
-      "published": "2026-11-09T13:53:57.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 7,
+      "likes": 5,
       "is_new": false
     },
     {
@@ -782,7 +783,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 12,
+      "likes": 13,
       "is_new": false
     },
     {
@@ -795,8 +796,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 6,
-      "is_new": true
+      "likes": 7,
+      "is_new": false
     },
     {
       "id": "7b517ef446ec544fed476e12f4f9fba7",
@@ -808,7 +809,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 3,
       "is_new": false
     },
     {
@@ -882,20 +883,6 @@
       "is_new": false
     },
     {
-      "id": "50382344",
-      "title": "Show HN: Magertron – AI Orchestrator for agents' tools, APIs, LLMs and streams",
-      "url": "https://magertron.com/#install",
-      "description": "",
-      "published": "2026-11-05T18:13:57Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 1,
-      "is_new": false
-    },
-    {
       "id": "1971f819745ea1d0071dbecb7ba2209b",
       "title": "On the Design of Hyper-Connections: Simplification, Stability, and Scalability",
       "url": "https://huggingface.co/papers/2611.05984",
@@ -905,8 +892,8 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 13,
-      "is_new": true
+      "likes": 16,
+      "is_new": false
     },
     {
       "id": "13784f0fda37d1b8b5bc9b285b2ec55e",
@@ -918,21 +905,34 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 4,
-      "is_new": true
+      "likes": 5,
+      "is_new": false
     },
     {
-      "id": "ebf89a84433fb4ae43ecc6f7641f3333",
-      "title": "CARTBench: Rubric-Based Evaluation of Shopping Advice for Complex and Ambiguous Requests with Timelines",
-      "url": "https://huggingface.co/papers/2611.05862",
-      "description": "Large language model (LLM) shopping assistants now recommend products in multi-turn conversations. However, reliable evaluation faces Data scarcity and Difficulty Standardizing Criteria. To address th",
-      "published": "2026-11-03T19:00:00.000Z",
+      "id": "325fbbba32ebbe97e336f207d09aff49",
+      "title": "Evidence-Guided Recovery for AI Agents with Ambiguous Tool Outcomes and Partial Execution",
+      "url": "https://huggingface.co/papers/2610.41453",
+      "description": "Tool timeouts can leave AI agents facing ambiguous tool outcomes and partial execution: an action may have failed, committed or remained in flight while other workflow steps have already completed. We",
+      "published": "2026-10-29T20:00:00.000Z",
       "source_id": "hf-papers",
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
-      "is_new": false
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "287eea2e610eb77d3ce5becfa3a95613",
+      "title": "Do Multimodal Models Decide Consistently on Equivalent Optical Spectra?",
+      "url": "https://huggingface.co/papers/2611.00428",
+      "description": "A spectrum can be given to a model as a table in nanometers or as a plot in photon energy, and the decision should not depend on which one it sees. When the data needed for an answer are missing, the ",
+      "published": "2026-10-29T20:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
     },
     {
       "id": "a605380e9f0add30256e67e954c3e478",
@@ -945,7 +945,7 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 1,
-      "is_new": true
+      "is_new": false
     }
   ],
   "by_category": {
@@ -1191,6 +1191,20 @@
         "is_new": false
       },
       {
+        "id": "50479186",
+        "title": "Show HN: Chap – Meeting notes from live captions (no bot) with any LLM or agent",
+        "url": "https://chatpanel.net/",
+        "description": "",
+        "published": "2026-11-13T06:31:06Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 1,
+        "comments": 0,
+        "is_new": true
+      },
+      {
         "id": "48e6dc76dc7f693e59867e01cee915d3",
         "title": "Nvidia CEO Jensen Huang has resigned. What happens next?",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
@@ -1212,7 +1226,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 42,
+        "points": 43,
         "comments": 10,
         "is_new": false
       },
@@ -1301,23 +1315,35 @@
         "source_icon": "📰",
         "category": "news",
         "is_new": false
-      },
-      {
-        "id": "50466516",
-        "title": "Do the top thousand sites charge AI crawlers, block them, or let AI agents buy?",
-        "url": "https://claude.ai/artifact/6GhQxH4Z8pWyCMVdhVwTGG",
-        "description": "",
-        "published": "2026-11-12T13:02:27Z",
-        "source_id": "hn-ai",
-        "source_name": "Hacker News AI",
-        "source_icon": "🟧",
-        "category": "news",
-        "points": 1,
-        "comments": 0,
-        "is_new": false
       }
     ],
     "research": [
+      {
+        "id": "2e11e277aab400e5c725a0d9f1614eb3",
+        "title": "Ropedia Xperience 2: A Gold Standard for Scaling Physical AI Environments and Behaviors",
+        "url": "https://huggingface.co/papers/2611.17060",
+        "description": "Large foundation models such as GPT-6 Astra and Claude Fable 5.1 have recently been shown to control robots directly from visual observations. They nevertheless remain brittle on long-horizon, contact",
+        "published": "2026-11-11T19:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 3,
+        "is_new": true
+      },
+      {
+        "id": "fb63bb661668e036c14b1ca1b88e0dea",
+        "title": "Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents",
+        "url": "https://huggingface.co/papers/2611.17167",
+        "description": "Decision models answer a question with a typed output, such as a choice among options with a probability for each, so one model can choose an agent's actions, evaluate actions already taken, or score ",
+        "published": "2026-11-11T19:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 4,
+        "is_new": true
+      },
       {
         "id": "22b5255514aed77355090cc5de49b574",
         "title": "Factored One-sided Adam-Moment for Practical and Scalable SOAP",
@@ -1328,8 +1354,8 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 7,
-        "is_new": true
+        "likes": 9,
+        "is_new": false
       },
       {
         "id": "f3daebf7facdc1a31eecd6b9278eeecc",
@@ -1341,8 +1367,8 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 5,
-        "is_new": true
+        "likes": 9,
+        "is_new": false
       },
       {
         "id": "cc31bb10af4a755ff9dea3b3c4b26620",
@@ -1354,8 +1380,8 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 5,
-        "is_new": true
+        "likes": 6,
+        "is_new": false
       },
       {
         "id": "d26649e88ec042a96fa74279c6afc486",
@@ -1367,8 +1393,8 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 1,
-        "is_new": true
+        "likes": 8,
+        "is_new": false
       },
       {
         "id": "4f3e2641735eeea38127eeeae2cdcea0",
@@ -1381,7 +1407,7 @@
         "source_icon": "🤗",
         "category": "research",
         "likes": 1,
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "140c91eaf67500466b2dce6894dd0146",
@@ -1393,8 +1419,8 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 7,
-        "is_new": true
+        "likes": 15,
+        "is_new": false
       },
       {
         "id": "640e33bf58a7587657f1d0dcbd80f3c8",
@@ -1406,8 +1432,8 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 15,
-        "is_new": true
+        "likes": 21,
+        "is_new": false
       },
       {
         "id": "e258e1c63befc8224e1f40e161fd0f98",
@@ -1419,8 +1445,8 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 24,
-        "is_new": true
+        "likes": 30,
+        "is_new": false
       },
       {
         "id": "b538239d290eb74f5a3d79acaaeb310c",
@@ -1445,46 +1471,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 4,
-        "is_new": false
-      },
-      {
-        "id": "5d422e245570eefe8c5cc4f33b0d5da6",
-        "title": "Precision on Demand: Escalating Weight Bits at Uncertain Decoding Steps in a Small Local Model",
-        "url": "https://huggingface.co/papers/2611.14418",
-        "description": "Local decoding usually fixes one weight precision for the whole generation. We study a different allocation: store 8-bit weights, decode with their top 4 bits, and redo a step at 8 bits only when the ",
-        "published": "2026-11-09T19:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 4,
-        "is_new": false
-      },
-      {
-        "id": "4e54c48ea43dd393cf0ebca772ff0154",
-        "title": "Bits or permutations? Spending a fixed inference budget on weight precision or on option-order averaging in small local language models",
-        "url": "https://huggingface.co/papers/2611.14413",
-        "description": "Local language models can save memory by storing weights in fewer bits, and they can reduce sensitivity to the order of answer options by averaging a few reorderings. We ask whether the first makes th",
-        "published": "2026-11-09T19:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 2,
-        "is_new": false
-      },
-      {
-        "id": "5dd2649ea2b0a0f74946643d297e5024",
-        "title": "Where Does Alignment Emerge and What Does It Mean? A Closer Look at the Platonic Representation Hypothesis",
-        "url": "https://huggingface.co/papers/2611.12869",
-        "description": "The Platonic Representation Hypothesis (PRH) suggests that neural networks are converging toward similar representation spaces. As language models become more capable, their representations are aligni",
-        "published": "2026-11-09T13:53:57.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 7,
+        "likes": 5,
         "is_new": false
       },
       {
@@ -1497,7 +1484,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 12,
+        "likes": 13,
         "is_new": false
       },
       {
@@ -1510,8 +1497,8 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 6,
-        "is_new": true
+        "likes": 7,
+        "is_new": false
       },
       {
         "id": "7b517ef446ec544fed476e12f4f9fba7",
@@ -1523,7 +1510,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 2,
+        "likes": 3,
         "is_new": false
       },
       {
@@ -1536,8 +1523,8 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 13,
-        "is_new": true
+        "likes": 16,
+        "is_new": false
       },
       {
         "id": "13784f0fda37d1b8b5bc9b285b2ec55e",
@@ -1549,21 +1536,34 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 4,
-        "is_new": true
+        "likes": 5,
+        "is_new": false
       },
       {
-        "id": "ebf89a84433fb4ae43ecc6f7641f3333",
-        "title": "CARTBench: Rubric-Based Evaluation of Shopping Advice for Complex and Ambiguous Requests with Timelines",
-        "url": "https://huggingface.co/papers/2611.05862",
-        "description": "Large language model (LLM) shopping assistants now recommend products in multi-turn conversations. However, reliable evaluation faces Data scarcity and Difficulty Standardizing Criteria. To address th",
-        "published": "2026-11-03T19:00:00.000Z",
+        "id": "325fbbba32ebbe97e336f207d09aff49",
+        "title": "Evidence-Guided Recovery for AI Agents with Ambiguous Tool Outcomes and Partial Execution",
+        "url": "https://huggingface.co/papers/2610.41453",
+        "description": "Tool timeouts can leave AI agents facing ambiguous tool outcomes and partial execution: an action may have failed, committed or remained in flight while other workflow steps have already completed. We",
+        "published": "2026-10-29T20:00:00.000Z",
         "source_id": "hf-papers",
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 3,
-        "is_new": false
+        "likes": 2,
+        "is_new": true
+      },
+      {
+        "id": "287eea2e610eb77d3ce5becfa3a95613",
+        "title": "Do Multimodal Models Decide Consistently on Equivalent Optical Spectra?",
+        "url": "https://huggingface.co/papers/2611.00428",
+        "description": "A spectrum can be given to a model as a table in nanometers or as a plot in photon energy, and the decision should not depend on which one it sees. When the data needed for an answer are missing, the ",
+        "published": "2026-10-29T20:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 1,
+        "is_new": true
       },
       {
         "id": "a605380e9f0add30256e67e954c3e478",
@@ -1576,7 +1576,7 @@
         "source_icon": "🤗",
         "category": "research",
         "likes": 1,
-        "is_new": true
+        "is_new": false
       }
     ]
   }
