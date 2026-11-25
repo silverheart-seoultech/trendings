@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-11-25T19:53:34.598246+00:00",
+  "last_updated": "2026-11-25T21:27:55.827015+00:00",
   "total_entries": 110,
-  "new_entries": 30,
+  "new_entries": 33,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -47,6 +47,30 @@
     }
   ],
   "entries": [
+    {
+      "id": "68617ed988fe883b1ce72e5c6ee8c834",
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "description": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+      "published": "Wed, 25 Nov 2026 20:03:27 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
+    {
+      "id": "dc74c9891a120b226443b8e088f2f517",
+      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+      "description": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+      "published": "Wed, 25 Nov 2026 19:54:57 +0000",
+      "source_id": "techcrunch-ai",
+      "source_name": "TechCrunch AI",
+      "source_icon": "📰",
+      "category": "news",
+      "is_new": true
+    },
     {
       "id": "bac2d3e3f4a61316a68697a9d429d94c",
       "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
@@ -744,30 +768,6 @@
       "is_new": false
     },
     {
-      "id": "de3bc194ca87cfd26233513efd80f43a",
-      "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
-      "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
-      "description": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
-      "published": "Tue, 24 Nov 2026 15:51:07 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
-      "id": "fc410e023e94d19d9ba85adb313c29f3",
-      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-      "description": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
-      "published": "Mon, 23 Nov 2026 22:05:50 +0000",
-      "source_id": "techcrunch-ai",
-      "source_name": "TechCrunch AI",
-      "source_icon": "📰",
-      "category": "news",
-      "is_new": false
-    },
-    {
       "id": "50645376",
       "title": "Show HN: Dualayer Hierarchy Standard (DHS) – Zero-FHS Layout for Musl and Glibc",
       "url": "https://news.ycombinator.com/item?id=50645376",
@@ -828,7 +828,7 @@
       "source_icon": "🟧",
       "category": "news",
       "points": 103,
-      "comments": 99,
+      "comments": 102,
       "is_new": false
     },
     {
@@ -960,6 +960,19 @@
       "is_new": false
     },
     {
+      "id": "91834f90aa3270d687e751903626ca4e",
+      "title": "Fractal Neural Synthesis: Constant-Storage Procedural Weight Derivation via Complex Quadratic Boundary Dynamics",
+      "url": "https://huggingface.co/papers/2611.32393",
+      "description": "Conventional neural networks store synaptic parameters as explicit tensors whose persistent Flash footprint scales linearly (O(W)) with parameter count, constraining resource-limited edge microcontrol",
+      "published": "2026-11-23T19:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 1,
+      "is_new": true
+    },
+    {
       "id": "10f3107b7f261f5f73db355a0c32366a",
       "title": "SpatialArena: Where Do Geometric Foundation Models Stand?",
       "url": "https://huggingface.co/papers/2611.32816",
@@ -982,7 +995,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 4,
       "is_new": true
     },
     {
@@ -1021,7 +1034,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 19,
+      "likes": 20,
       "is_new": true
     },
     {
@@ -1034,7 +1047,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": true
     },
     {
@@ -1060,7 +1073,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 3,
+      "likes": 4,
       "is_new": true
     },
     {
@@ -1073,7 +1086,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 9,
+      "likes": 10,
       "is_new": true
     },
     {
@@ -1088,19 +1101,6 @@
       "category": "research",
       "likes": 1,
       "is_new": true
-    },
-    {
-      "id": "68f86b8671652eb53c2bef4138aaca7a",
-      "title": "Lazy Agents Answer Against Their Own Beliefs: Reinforcement Learning with Verifiable Beliefs Teaches Them to Act on What They Believe",
-      "url": "https://huggingface.co/papers/2611.32884",
-      "description": "AI agents working on long tasks often commit to an answer before they have enough evidence, a behavior called laziness. In our evaluations, they frequently commit even while their stated belief still ",
-      "published": "2026-11-23T19:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 87,
-      "is_new": false
     },
     {
       "id": "2e683bac1a798c9e4c2d4071d7b1f9cf",
@@ -1180,7 +1180,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 1,
+      "likes": 2,
       "is_new": true
     },
     {
@@ -1193,7 +1193,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 78,
+      "likes": 80,
       "is_new": true
     },
     {
@@ -1294,6 +1294,30 @@
   ],
   "by_category": {
     "news": [
+      {
+        "id": "68617ed988fe883b1ce72e5c6ee8c834",
+        "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+        "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+        "description": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+        "published": "Wed, 25 Nov 2026 20:03:27 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
+      {
+        "id": "dc74c9891a120b226443b8e088f2f517",
+        "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+        "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+        "description": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+        "published": "Wed, 25 Nov 2026 19:54:57 +0000",
+        "source_id": "techcrunch-ai",
+        "source_name": "TechCrunch AI",
+        "source_icon": "📰",
+        "category": "news",
+        "is_new": true
+      },
       {
         "id": "bac2d3e3f4a61316a68697a9d429d94c",
         "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
@@ -1511,30 +1535,6 @@
         "is_new": false
       },
       {
-        "id": "de3bc194ca87cfd26233513efd80f43a",
-        "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
-        "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
-        "description": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
-        "published": "Tue, 24 Nov 2026 15:51:07 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
-        "id": "fc410e023e94d19d9ba85adb313c29f3",
-        "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-        "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-        "description": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
-        "published": "Mon, 23 Nov 2026 22:05:50 +0000",
-        "source_id": "techcrunch-ai",
-        "source_name": "TechCrunch AI",
-        "source_icon": "📰",
-        "category": "news",
-        "is_new": false
-      },
-      {
         "id": "50645376",
         "title": "Show HN: Dualayer Hierarchy Standard (DHS) – Zero-FHS Layout for Musl and Glibc",
         "url": "https://news.ycombinator.com/item?id=50645376",
@@ -1595,7 +1595,7 @@
         "source_icon": "🟧",
         "category": "news",
         "points": 103,
-        "comments": 99,
+        "comments": 102,
         "is_new": false
       },
       {
