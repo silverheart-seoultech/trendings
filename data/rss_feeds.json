@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-11-27T14:58:21.598478+00:00",
+  "last_updated": "2026-11-27T20:57:05.479553+00:00",
   "total_entries": 90,
-  "new_entries": 6,
+  "new_entries": 9,
   "sources": [
     {
       "id": "arxiv-ai",
@@ -528,6 +528,20 @@
       "is_new": false
     },
     {
+      "id": "50668715",
+      "title": "Show HN: GPT Plays Civilization",
+      "url": "https://civ-bot.varchas.fyi/",
+      "description": "",
+      "published": "2026-11-27T16:32:19Z",
+      "source_id": "hn-ai",
+      "source_name": "Hacker News AI",
+      "source_icon": "🟧",
+      "category": "news",
+      "points": 2,
+      "comments": 0,
+      "is_new": true
+    },
+    {
       "id": "50665796",
       "title": "Show HN: Open-Sourced Code Mode to Cut ~60% of My Rust Agent's Token Burn",
       "url": "https://github.com/legend-of-alan/ghostmode",
@@ -551,7 +565,7 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 3,
+      "points": 5,
       "comments": 4,
       "is_new": true
     },
@@ -579,8 +593,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 3,
-      "comments": 1,
+      "points": 4,
+      "comments": 2,
       "is_new": false
     },
     {
@@ -721,8 +735,8 @@
       "source_name": "Hacker News AI",
       "source_icon": "🟧",
       "category": "news",
-      "points": 109,
-      "comments": 110,
+      "points": 110,
+      "comments": 111,
       "is_new": false
     },
     {
@@ -761,7 +775,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 98,
+      "likes": 101,
       "is_new": false
     },
     {
@@ -774,7 +788,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 23,
+      "likes": 24,
       "is_new": false
     },
     {
@@ -787,7 +801,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 24,
+      "likes": 27,
       "is_new": false
     },
     {
@@ -800,7 +814,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 24,
+      "likes": 55,
       "is_new": false
     },
     {
@@ -827,19 +841,6 @@
       "source_icon": "🤗",
       "category": "research",
       "likes": 36,
-      "is_new": false
-    },
-    {
-      "id": "4b626b32df6c78b8da896b884b0b2620",
-      "title": "Stable Gated DeltaNet-2: Understanding and Mitigating Recurrent State Instability",
-      "url": "https://huggingface.co/papers/2611.34051",
-      "description": "Linear attention offers an efficient solution for long-sequence modeling via linear complexity and fixed-size recurrent states. Gated DeltaNet-2 (GDN-2) introduces independent channel-wise control ove",
-      "published": "2026-11-24T19:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 123,
       "is_new": false
     },
     {
@@ -1015,6 +1016,32 @@
       "is_new": false
     },
     {
+      "id": "9bbd1d2641b302706792d03abe38ef55",
+      "title": "Damped Atomic Wave Integration Neurons (DAWIN): A Universal Primitive for Continuous-Time Spatiotemporal Learning",
+      "url": "https://huggingface.co/papers/2611.30025",
+      "description": "Conventional artificial neurons separate spatial feature aggregation from continuous physical time, limiting their ability to model irregular observations. We introduce the Damped Atomic Wave Integrat",
+      "published": "2026-11-22T19:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
+      "id": "be9fdba9271c462e419c579881831739",
+      "title": "BiSAT: Bidirectionally Aligned Semantic-Acoustic Tokenization for Speech Language Models",
+      "url": "https://huggingface.co/papers/2611.30723",
+      "description": "Speech language models (LMs) generate speech as sequences of discrete tokens. Their tokenizer must therefore preserve both acoustic detail and linguistic content at a low bitrate. Semantic-enhanced to",
+      "published": "2026-11-22T19:00:00.000Z",
+      "source_id": "hf-papers",
+      "source_name": "HuggingFace Daily Papers",
+      "source_icon": "🤗",
+      "category": "research",
+      "likes": 2,
+      "is_new": true
+    },
+    {
       "id": "0dadfe8e0c174c558d52107f5a6c9eb5",
       "title": "Revisiting LLMs as Context Engineers",
       "url": "https://huggingface.co/papers/2611.30494",
@@ -1024,7 +1051,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 2,
+      "likes": 4,
       "is_new": true
     },
     {
@@ -1076,7 +1103,7 @@
       "source_name": "HuggingFace Daily Papers",
       "source_icon": "🤗",
       "category": "research",
-      "likes": 52,
+      "likes": 57,
       "is_new": false
     },
     {
@@ -1148,20 +1175,6 @@
       "is_new": false
     },
     {
-      "id": "50566999",
-      "title": "AI Agent Authorization That Limits the Damage of Prompt Injection",
-      "url": "https://www.stackbuilders.com/insights/ai-agent-authorization-that-limits-the-damage-of-prompt-injection/",
-      "description": "",
-      "published": "2026-11-19T21:55:07Z",
-      "source_id": "hn-ai",
-      "source_name": "Hacker News AI",
-      "source_icon": "🟧",
-      "category": "news",
-      "points": 2,
-      "comments": 0,
-      "is_new": false
-    },
-    {
       "id": "692964a242c557dad21541161227d33e",
       "title": "Markdown Is Not a Firewall: four coding agents, one rules file, four boundaries",
       "url": "https://huggingface.co/papers/2611.27112",
@@ -1173,19 +1186,6 @@
       "category": "research",
       "likes": 0,
       "is_new": true
-    },
-    {
-      "id": "4098a92e372960931075158463f88e5c",
-      "title": "DetourBench: Trajectory-Level Evaluation of Interactive Agents with Exact Minimum-Action Bounds",
-      "url": "https://huggingface.co/papers/2611.20844",
-      "description": "Benchmarks judge language-model agents mainly by whether they reach the correct final state, not by how they got there. Endpoint scoring cannot separate an agent that retrieved exactly the evidence a ",
-      "published": "2026-11-15T19:00:00.000Z",
-      "source_id": "hf-papers",
-      "source_name": "HuggingFace Daily Papers",
-      "source_icon": "🤗",
-      "category": "research",
-      "likes": 1,
-      "is_new": false
     }
   ],
   "by_category": {
@@ -1431,6 +1431,20 @@
         "is_new": false
       },
       {
+        "id": "50668715",
+        "title": "Show HN: GPT Plays Civilization",
+        "url": "https://civ-bot.varchas.fyi/",
+        "description": "",
+        "published": "2026-11-27T16:32:19Z",
+        "source_id": "hn-ai",
+        "source_name": "Hacker News AI",
+        "source_icon": "🟧",
+        "category": "news",
+        "points": 2,
+        "comments": 0,
+        "is_new": true
+      },
+      {
         "id": "50665796",
         "title": "Show HN: Open-Sourced Code Mode to Cut ~60% of My Rust Agent's Token Burn",
         "url": "https://github.com/legend-of-alan/ghostmode",
@@ -1454,7 +1468,7 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 3,
+        "points": 5,
         "comments": 4,
         "is_new": true
       },
@@ -1482,8 +1496,8 @@
         "source_name": "Hacker News AI",
         "source_icon": "🟧",
         "category": "news",
-        "points": 3,
-        "comments": 1,
+        "points": 4,
+        "comments": 2,
         "is_new": false
       },
       {
@@ -1552,18 +1566,6 @@
         "category": "news",
         "points": 1,
         "comments": 0,
-        "is_new": false
-      },
-      {
-        "id": "6d162717023fa73f184296db1d33e2af",
-        "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
-        "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
-        "description": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows",
-        "published": "2026-11-25T16:51:26-05:00",
-        "source_id": "theverge-ai",
-        "source_name": "The Verge AI",
-        "source_icon": "📰",
-        "category": "news",
         "is_new": false
       }
     ],
@@ -1844,7 +1846,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 98,
+        "likes": 101,
         "is_new": false
       },
       {
@@ -1857,7 +1859,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 23,
+        "likes": 24,
         "is_new": false
       },
       {
@@ -1870,7 +1872,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 24,
+        "likes": 27,
         "is_new": false
       },
       {
@@ -1883,7 +1885,7 @@
         "source_name": "HuggingFace Daily Papers",
         "source_icon": "🤗",
         "category": "research",
-        "likes": 24,
+        "likes": 55,
         "is_new": false
       },
       {
@@ -1913,19 +1915,6 @@
         "is_new": false
       },
       {
-        "id": "4b626b32df6c78b8da896b884b0b2620",
-        "title": "Stable Gated DeltaNet-2: Understanding and Mitigating Recurrent State Instability",
-        "url": "https://huggingface.co/papers/2611.34051",
-        "description": "Linear attention offers an efficient solution for long-sequence modeling via linear complexity and fixed-size recurrent states. Gated DeltaNet-2 (GDN-2) introduces independent channel-wise control ove",
-        "published": "2026-11-24T19:00:00.000Z",
-        "source_id": "hf-papers",
-        "source_name": "HuggingFace Daily Papers",
-        "source_icon": "🤗",
-        "category": "research",
-        "likes": 123,
-        "is_new": false
-      },
-      {
         "id": "268a0b8ce7af2643f8651d5c3c63d9a6",
         "title": "Boundary-Aware Policy Learning for Agent-Orchestrated Robot Manipulation",
         "url": "https://huggingface.co/papers/2611.32238",
@@ -1936,6 +1925,19 @@
         "source_icon": "🤗",
         "category": "research",
         "likes": 7,
+        "is_new": false
+      },
+      {
+        "id": "530d47ea50dd2636e0fb682edb6641b7",
+        "title": "Decision-Native Multimodal Clinical Modeling via Anatomical Grounding and Confidence Calibration",
+        "url": "https://huggingface.co/papers/2611.32993",
+        "description": "Structured clinical decisions from volumetric computed tomography (CT) require anatomically grounded predictions and calibrated confidence estimates. However, existing 3D medical multimodal models oft",
+        "published": "2026-11-23T19:00:00.000Z",
+        "source_id": "hf-papers",
+        "source_name": "HuggingFace Daily Papers",
+        "source_icon": "🤗",
+        "category": "research",
+        "likes": 3,
         "is_new": false
       }
     ]
